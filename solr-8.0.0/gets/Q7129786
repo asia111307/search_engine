@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Category:Cognitive science - Wikidata</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Q7129786","wgTitle":"Q7129786","wgCurRevisionId":907234267,"wgRevisionId":907234267,"wgArticleId":7026156,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikibase-item","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Q7129786","wgRelevantArticleId":7026156,"wgRequestId":"XLSAHwpAICEAAFk6Y-YAAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wbQualityConstraintsPropertyConstraintId":"P2302","wbQualityConstraintsOneOfConstraintId":"Q21510859","wbQualityConstraintsAllowedQualifierConstraintId":"Q21510851","wbQualityConstraintsPropertyId":"P2306","wbQualityConstraintsQualifierOfPropertyConstraintId":"P2305","wbQualityConstraintsSuggestionsGloballyEnabled":false,"wgNoticeProject":"wikidata","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wbIsEditView":true,"wbEntityId":"Q7129786","wbEntity":"{\"type\":\"item\",\"id\":\"Q7129786\",\"labels\":{\"gv\":{\"language\":\"gv\",\"value\":\"Ronney:Oaylleeaght hastagh\"},\"eo\":{\"language\":\"eo\",\"value\":\"Kategorio:Rekonada scienco\"},\"en\":{\"language\":\"en\",\"value\":\"Category:Cognitive science\"},\"zh\":{\"language\":\"zh\",\"value\":\"Category:\\u8a8d\\u77e5\\u79d1\\u5b78\"},\"vi\":{\"language\":\"vi\",\"value\":\"Th\\u1ec3 lo\\u1ea1i:Khoa h\\u1ecdc nh\\u1eadn th\\u1ee9c\"},\"is\":{\"language\":\"is\",\"value\":\"Flokkur:Vitsmunav\\u00edsindi\"},\"mdf\":{\"language\":\"mdf\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0435:\\u0421\\u043e\\u0434\\u0430\\u0432\\u043e\\u043c\\u0430\\u043d\\u044c \\u0442\\u043e\\u043d\\u0430\\u0434\\u043e\\u043c\\u0430\"},\"it\":{\"language\":\"it\",\"value\":\"Categoria:Scienze cognitive\"},\"cs\":{\"language\":\"cs\",\"value\":\"Kategorie:Kognitivn\\u00ed v\\u011bda\"},\"cy\":{\"language\":\"cy\",\"value\":\"Categori:Gwyddoniaeth wybyddol\"},\"ar\":{\"language\":\"ar\",\"value\":\"\\u062a\\u0635\\u0646\\u064a\\u0641:\\u0639\\u0644\\u0648\\u0645 \\u0627\\u0633\\u062a\\u0639\\u0631\\u0627\\u0641\\u064a\\u0629\"},\"ia\":{\"language\":\"ia\",\"value\":\"Categoria:Scientia cognitive\"},\"ie\":{\"language\":\"ie\",\"value\":\"Categorie:Cognitiv scienties\"},\"id\":{\"language\":\"id\",\"value\":\"Kategori:Ilmu kognitif\"},\"es\":{\"language\":\"es\",\"value\":\"Categor\\u00eda:Ciencias cognitivas\"},\"ru\":{\"language\":\"ru\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u044b\\u0435 \\u043d\\u0430\\u0443\\u043a\\u0438\"},\"nl\":{\"language\":\"nl\",\"value\":\"Categorie:Cognitiewetenschap\"},\"pt\":{\"language\":\"pt\",\"value\":\"Categoria:Ci\\u00eancias cognitivas\"},\"la\":{\"language\":\"la\",\"value\":\"Categoria:Scientia cognitiva\"},\"xmf\":{\"language\":\"xmf\",\"value\":\"\\u10d9\\u10d0\\u10e2\\u10d4\\u10d2\\u10dd\\u10e0\\u10d8\\u10d0:\\u10d9\\u10dd\\u10d2\\u10dc\\u10d8\\u10e2\\u10e3\\u10e0\\u10d8 \\u10db\\u10d4\\u10dc\\u10ea\\u10d0\\u10e0\\u10dd\\u10d1\\u10d0\"},\"tr\":{\"language\":\"tr\",\"value\":\"Kategori:Bili\\u015fsel bilim\"},\"lv\":{\"language\":\"lv\",\"value\":\"Kategorija:Kognit\\u012bv\\u0101 zin\\u0101tne\"},\"lt\":{\"language\":\"lt\",\"value\":\"Kategorija:Kognityviniai mokslai\"},\"tk\":{\"language\":\"tk\",\"value\":\"Kategori\\u00fda:Kognitiw ylymlar\"},\"th\":{\"language\":\"th\",\"value\":\"\\u0e2b\\u0e21\\u0e27\\u0e14\\u0e2b\\u0e21\\u0e39\\u0e48:\\u0e1b\\u0e23\\u0e30\\u0e0a\\u0e32\\u0e19\\u0e28\\u0e32\\u0e2a\\u0e15\\u0e23\\u0e4c\"},\"ro\":{\"language\":\"ro\",\"value\":\"Categorie:\\u0218tiin\\u021b\\u0103 cognitiv\\u0103\"},\"be\":{\"language\":\"be\",\"value\":\"\\u041a\\u0430\\u0442\\u044d\\u0433\\u043e\\u0440\\u044b\\u044f:\\u041a\\u0430\\u0433\\u043d\\u0456\\u0442\\u044b\\u045e\\u043d\\u044b\\u044f \\u043d\\u0430\\u0432\\u0443\\u043a\\u0456\"},\"fr\":{\"language\":\"fr\",\"value\":\"Cat\\u00e9gorie:Sciences cognitives\"},\"bg\":{\"language\":\"bg\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0430 \\u043d\\u0430\\u0443\\u043a\\u0430\"},\"uk\":{\"language\":\"uk\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0456\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0456\\u0442\\u0438\\u0432\\u043d\\u0456 \\u043d\\u0430\\u0443\\u043a\\u0438\"},\"de\":{\"language\":\"de\",\"value\":\"Kategorie:Kognitionswissenschaft\"},\"ko\":{\"language\":\"ko\",\"value\":\"\\ubd84\\ub958:\\uc778\\uc9c0\\uacfc\\ud559\"},\"rue\":{\"language\":\"rue\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0491\\u043e\\u0440\\u0456\\u044f:\\u041a\\u043e\\u0491\\u043d\\u0456\\u0442\\u0456\\u0432\\u043d\\u0430 \\u043d\\u0430\\u0443\\u043a\\u0430\"},\"fa\":{\"language\":\"fa\",\"value\":\"\\u0631\\u062f\\u0647:\\u0639\\u0644\\u0648\\u0645 \\u0634\\u0646\\u0627\\u062e\\u062a\\u06cc\"},\"hi\":{\"language\":\"hi\",\"value\":\"\\u0936\\u094d\\u0930\\u0947\\u0923\\u0940:\\u0938\\u0902\\u091c\\u094d\\u091e\\u093e\\u0928\\u0936\\u093e\\u0938\\u094d\\u0924\\u094d\\u0930\"},\"bs\":{\"language\":\"bs\",\"value\":\"Kategorija:Spoznajne nauke\"},\"fi\":{\"language\":\"fi\",\"value\":\"Luokka:Kognitiotiede\"},\"hu\":{\"language\":\"hu\",\"value\":\"Kateg\\u00f3ria:Megismer\\u00e9studom\\u00e1ny\"},\"ja\":{\"language\":\"ja\",\"value\":\"Category:\\u8a8d\\u77e5\\u79d1\\u5b66\"},\"he\":{\"language\":\"he\",\"value\":\"\\u05e7\\u05d8\\u05d2\\u05d5\\u05e8\\u05d9\\u05d4:\\u05de\\u05d3\\u05e2\\u05d9\\u05dd \\u05e7\\u05d5\\u05d2\\u05e0\\u05d9\\u05d8\\u05d9\\u05d1\\u05d9\\u05d9\\u05dd\"},\"ka\":{\"language\":\"ka\",\"value\":\"\\u10d9\\u10d0\\u10e2\\u10d4\\u10d2\\u10dd\\u10e0\\u10d8\\u10d0:\\u10d9\\u10dd\\u10d2\\u10dc\\u10d8\\u10e2\\u10e3\\u10e0\\u10d8 \\u10db\\u10d4\\u10ea\\u10dc\\u10d8\\u10d4\\u10e0\\u10d4\\u10d1\\u10d0\"},\"bar\":{\"language\":\"bar\",\"value\":\"Kategorie:Kognitionswissenschaft\"},\"nn\":{\"language\":\"nn\",\"value\":\"Kategori:Kognitive vitskapar\"},\"kk\":{\"language\":\"kk\",\"value\":\"\\u0421\\u0430\\u043d\\u0430\\u0442:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u0442\\u0456\\u043a \\u0493\\u044b\\u043b\\u044b\\u043c\\u0434\\u0430\\u0440\"},\"sr\":{\"language\":\"sr\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0435 \\u043d\\u0430\\u0443\\u043a\\u0435\"},\"mn\":{\"language\":\"mn\",\"value\":\"\\u0410\\u043d\\u0433\\u0438\\u043b\\u0430\\u043b:\\u041e\\u044e\\u0443\\u043d \\u0443\\u0445\\u0430\\u0430\\u043d \\u0441\\u0443\\u0434\\u043b\\u0430\\u043b\"},\"oc\":{\"language\":\"oc\",\"value\":\"Categoria:Sci\\u00e9ncias cognitivas\"},\"sv\":{\"language\":\"sv\",\"value\":\"Kategori:Kognitionsvetenskap\"},\"mk\":{\"language\":\"mk\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0430 \\u043d\\u0430\\u0443\\u043a\\u0430\"},\"ur\":{\"language\":\"ur\",\"value\":\"\\u0632\\u0645\\u0631\\u06c1:\\u0639\\u0644\\u0645 \\u0627\\u062f\\u0631\\u0627\\u06a9\"},\"sk\":{\"language\":\"sk\",\"value\":\"Kateg\\u00f3ria:Kognit\\u00edvna veda\"},\"sh\":{\"language\":\"sh\",\"value\":\"Kategorija:Kognitivna nauka\"},\"ms\":{\"language\":\"ms\",\"value\":\"Kategori:Sains kognitif\"},\"sl\":{\"language\":\"sl\",\"value\":\"Kategorija:Kognitivna znanost\"},\"krc\":{\"language\":\"krc\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432 \\u0438\\u043b\\u043c\\u0443\\u043b\\u0430\"},\"tl\":{\"language\":\"tl\",\"value\":\"Kategorya:Agham kognitibo\"},\"tt\":{\"language\":\"tt\",\"value\":\"\\u0422\\u04e9\\u0440\\u043a\\u0435\\u043c:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432 \\u0444\\u04d9\\u043d\\u043d\\u04d9\\u0440\"},\"ilo\":{\"language\":\"ilo\",\"value\":\"Kategoria:Kognitibo a siensia\"},\"be-tarask\":{\"language\":\"be-tarask\",\"value\":\"\\u041a\\u0430\\u0442\\u044d\\u0433\\u043e\\u0440\\u044b\\u044f:\\u041a\\u0430\\u0433\\u043d\\u0456\\u0442\\u044b\\u045e\\u043d\\u044b\\u044f \\u043d\\u0430\\u0432\\u0443\\u043a\\u0456\"},\"ta\":{\"language\":\"ta\",\"value\":\"\\u0baa\\u0b95\\u0bc1\\u0baa\\u0bcd\\u0baa\\u0bc1:\\u0b85\\u0bb1\\u0bbf\\u0ba4\\u0bbf\\u0bb1 \\u0b85\\u0bb1\\u0bbf\\u0bb5\\u0bbf\\u0baf\\u0bb2\\u0bcd\"},\"ba\":{\"language\":\"ba\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432 \\u0444\\u04d9\\u043d\\u0434\\u04d9\\u0440\"},\"sco\":{\"language\":\"sco\",\"value\":\"Category:Cognitive science\"},\"nb\":{\"language\":\"nb\",\"value\":\"Kategori:Kognitiv vitenskap\"},\"el\":{\"language\":\"el\",\"value\":\"\\u039a\\u03b1\\u03c4\\u03b7\\u03b3\\u03bf\\u03c1\\u03af\\u03b1:\\u0393\\u03bd\\u03c9\\u03c3\\u03b9\\u03b1\\u03ba\\u03ae \\u03b5\\u03c0\\u03b9\\u03c3\\u03c4\\u03ae\\u03bc\\u03b7\"},\"sq\":{\"language\":\"sq\",\"value\":\"Kategoria:Shkenc\\u00eb kognitive\"},\"az\":{\"language\":\"az\",\"value\":\"Kateqoriya:Koqnitiv elml\\u0259r\"},\"et\":{\"language\":\"et\",\"value\":\"Kategooria:Tunnetusteadus\"},\"da\":{\"language\":\"da\",\"value\":\"Kategori:Kognitionsvidenskab\"},\"ast\":{\"language\":\"ast\",\"value\":\"Categor\\u00eda:Ciencies cognitives\"},\"jv\":{\"language\":\"jv\",\"value\":\"Kategori:Kawruh kognitif\"},\"eu\":{\"language\":\"eu\",\"value\":\"Kategoria:Zientzia kognitiboak\"},\"cv\":{\"language\":\"cv\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0446\\u0438 \\u0103\\u0441\\u043b\\u0103\\u0445\\u0115\\u0441\\u0435\\u043c\"},\"my\":{\"language\":\"my\",\"value\":\"Category:\\u1021\\u101e\\u102d\\u1021\\u1019\\u103c\\u1004\\u103a \\u101e\\u102d\\u1015\\u1039\\u1015\\u1036\"},\"pl\":{\"language\":\"pl\",\"value\":\"Kategoria:Filozofia umys\\u0142u i kognitywistyka\"},\"hy\":{\"language\":\"hy\",\"value\":\"\\u053f\\u0561\\u057f\\u0565\\u0563\\u0578\\u0580\\u056b\\u0561:\\u053f\\u0578\\u0563\\u0576\\u056b\\u057f\\u056b\\u057e \\u0563\\u056b\\u057f\\u0578\\u0582\\u0569\\u0575\\u0578\\u0582\\u0576\"},\"bho\":{\"language\":\"bho\",\"value\":\"\\u0936\\u094d\\u0930\\u0947\\u0923\\u0940:\\u0938\\u0902\\u091c\\u094d\\u091e\\u093e\\u0928 \\u092c\\u093f\\u091c\\u094d\\u091e\\u093e\\u0928\"},\"ce\":{\"language\":\"ce\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u0430\\u043d \\u04c0\\u0438\\u043b\\u043c\\u0430\\u043d\\u0430\\u0448\"},\"se\":{\"language\":\"se\",\"value\":\"Kategoriija:Kogni\\u0161uvdnadie\\u0111a\"},\"bn\":{\"language\":\"bn\",\"value\":\"\\u09ac\\u09bf\\u09b7\\u09af\\u09bc\\u09b6\\u09cd\\u09b0\\u09c7\\u09a3\\u09c0:\\u09a7\\u09c0\\u09ac\\u09bf\\u099c\\u09cd\\u099e\\u09be\\u09a8\"},\"arz\":{\"language\":\"arz\",\"value\":\"\\u062a\\u0635\\u0646\\u064a\\u0641:\\u0639\\u0644\\u0648\\u0645 \\u0627\\u0633\\u062a\\u0639\\u0631\\u0627\\u0641\\u0649\"},\"ky\":{\"language\":\"ky\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u0434\\u0438\\u043a \\u0438\\u043b\\u0438\\u043c\\u0434\\u0435\\u0440\"},\"yue\":{\"language\":\"yue\",\"value\":\"Category:\\u8a8d\\u77e5\\u79d1\\u5b78\"}},\"descriptions\":{\"fr\":{\"language\":\"fr\",\"value\":\"page de cat\\u00e9gorie d'un projet Wikimedia\"},\"es\":{\"language\":\"es\",\"value\":\"categor\\u00eda de Wikimedia\"},\"it\":{\"language\":\"it\",\"value\":\"categoria di un progetto Wikimedia\"},\"ilo\":{\"language\":\"ilo\",\"value\":\"kategoria ti Wikimedia\"},\"bs\":{\"language\":\"bs\",\"value\":\"Kategorija Wikipedije\"},\"cs\":{\"language\":\"cs\",\"value\":\"kategorie na projektech Wikimedia\"},\"da\":{\"language\":\"da\",\"value\":\"Wikimedia-kategori\"},\"de\":{\"language\":\"de\",\"value\":\"Wikimedia-Kategorie\"},\"en\":{\"language\":\"en\",\"value\":\"Wikimedia category\"},\"fi\":{\"language\":\"fi\",\"value\":\"Wikimedia-luokka\"},\"gl\":{\"language\":\"gl\",\"value\":\"categor\\u00eda de Wikimedia\"},\"nds\":{\"language\":\"nds\",\"value\":\"Kategorie op Wikimedia\"},\"pl\":{\"language\":\"pl\",\"value\":\"kategoria Wikipedii\"},\"sv\":{\"language\":\"sv\",\"value\":\"Wikimedia-kategori\"},\"pt\":{\"language\":\"pt\",\"value\":\"categoria de um projeto da Wikimedia\"},\"pt-br\":{\"language\":\"pt-br\",\"value\":\"categoria de um projeto da Wikimedia\"},\"ru\":{\"language\":\"ru\",\"value\":\"\\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f \\u0432 \\u043f\\u0440\\u043e\\u0435\\u043a\\u0442\\u0435 \\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430\"},\"th\":{\"language\":\"th\",\"value\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e21\\u0e27\\u0e14\\u0e2b\\u0e21\\u0e39\\u0e48\\u0e27\\u0e34\\u0e01\\u0e34\\u0e21\\u0e35\\u0e40\\u0e14\\u0e35\\u0e22\"},\"fa\":{\"language\":\"fa\",\"value\":\"\\u0631\\u062f\\u0647\\u0654 \\u0648\\u06cc\\u06a9\\u06cc\\u200c\\u0645\\u062f\\u06cc\\u0627\"},\"nl\":{\"language\":\"nl\",\"value\":\"Wikimedia-categorie\"},\"nn\":{\"language\":\"nn\",\"value\":\"Wikimedia-kategori\"},\"nb\":{\"language\":\"nb\",\"value\":\"Wikimedia-kategori\"},\"et\":{\"language\":\"et\",\"value\":\"Wikimedia kategooria\"},\"ja\":{\"language\":\"ja\",\"value\":\"\\u30a6\\u30a3\\u30ad\\u30e1\\u30c7\\u30a3\\u30a2\\u306e\\u30ab\\u30c6\\u30b4\\u30ea\"},\"bn\":{\"language\":\"bn\",\"value\":\"\\u0989\\u0987\\u0995\\u09bf\\u09ae\\u09bf\\u09a1\\u09bf\\u09af\\u09bc\\u09be \\u09ac\\u09bf\\u09b7\\u09af\\u09bc\\u09b6\\u09cd\\u09b0\\u09c7\\u09a3\\u09c0\"},\"ckb\":{\"language\":\"ckb\",\"value\":\"\\u067e\\u06c6\\u0644\\u06cc \\u0648\\u06cc\\u06a9\\u06cc\\u0645\\u06cc\\u062f\\u06cc\\u0627\"},\"el\":{\"language\":\"el\",\"value\":\"\\u03ba\\u03b1\\u03c4\\u03b7\\u03b3\\u03bf\\u03c1\\u03af\\u03b1 \\u03b5\\u03b3\\u03c7\\u03b5\\u03b9\\u03c1\\u03b7\\u03bc\\u03ac\\u03c4\\u03c9\\u03bd Wikimedia\"},\"gu\":{\"language\":\"gu\",\"value\":\"\\u0ab5\\u0abf\\u0a95\\u0abf\\u0aaa\\u0ac0\\u0aa1\\u0abf\\u0aaf\\u0abe \\u0ab6\\u0acd\\u0ab0\\u0ac7\\u0aa3\\u0ac0\"},\"he\":{\"language\":\"he\",\"value\":\"\\u05e7\\u05d8\\u05d2\\u05d5\\u05e8\\u05d9\\u05d4 \\u05d1\\u05d5\\u05d5\\u05d9\\u05e7\\u05d9\\u05e4\\u05d3\\u05d9\\u05d4\"},\"ko\":{\"language\":\"ko\",\"value\":\"\\uc704\\ud0a4\\ubbf8\\ub514\\uc5b4 \\ubd84\\ub958\"},\"mk\":{\"language\":\"mk\",\"value\":\"\\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430 \\u043d\\u0430 \\u0412\\u0438\\u043a\\u0438\\u043f\\u0435\\u0434\\u0438\\u0458\\u0430\"},\"zh\":{\"language\":\"zh\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u9879\\u76ee\\u5206\\u7c7b\"},\"zh-hans\":{\"language\":\"zh-hans\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u9879\\u76ee\\u5206\\u7c7b\"},\"zh-hant\":{\"language\":\"zh-hant\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5c08\\u6848\\u5206\\u985e\"},\"eo\":{\"language\":\"eo\",\"value\":\"kategorio en Vikimedio\"},\"vi\":{\"language\":\"vi\",\"value\":\"th\\u1ec3 lo\\u1ea1i Wikimedia\"},\"bg\":{\"language\":\"bg\",\"value\":\"\\u0423\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u044f \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f\"},\"ca\":{\"language\":\"ca\",\"value\":\"categoria de Wikimedia\"},\"lv\":{\"language\":\"lv\",\"value\":\"Wikimedia projekta kategorija\"},\"uk\":{\"language\":\"uk\",\"value\":\"\\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0456\\u044f \\u0432 \\u043f\\u0440\\u043e\\u0435\\u043a\\u0442\\u0456 \\u0412\\u0456\\u043a\\u0456\\u043c\\u0435\\u0434\\u0456\\u0430\"},\"hy\":{\"language\":\"hy\",\"value\":\"\\u054e\\u056b\\u0584\\u056b\\u0574\\u0565\\u0564\\u056b\\u0561\\u0575\\u056b \\u0576\\u0561\\u056d\\u0561\\u0563\\u056e\\u056b \\u056f\\u0561\\u057f\\u0565\\u0563\\u0578\\u0580\\u056b\\u0561\"},\"be-tarask\":{\"language\":\"be-tarask\",\"value\":\"\\u041a\\u0430\\u0442\\u044d\\u0433\\u043e\\u0440\\u044b\\u044f\"},\"ar\":{\"language\":\"ar\",\"value\":\"\\u062a\\u0635\\u0646\\u064a\\u0641 \\u0648\\u064a\\u0643\\u064a\\u0645\\u064a\\u062f\\u064a\\u0627\"},\"zh-tw\":{\"language\":\"zh-tw\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5206\\u985e\"},\"sr\":{\"language\":\"sr\",\"value\":\"\\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430 \\u043d\\u0430 \\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0458\\u0438\"},\"zh-my\":{\"language\":\"zh-my\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u5206\\u7c7b\"},\"yue\":{\"language\":\"yue\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5206\\u985e\"},\"hu\":{\"language\":\"hu\",\"value\":\"Wikim\\u00e9dia-kateg\\u00f3ria\"},\"zh-hk\":{\"language\":\"zh-hk\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5206\\u985e\"},\"sl\":{\"language\":\"sl\",\"value\":\"kategorija Wikimedije\"},\"gsw\":{\"language\":\"gsw\",\"value\":\"Wikimedia-Kategorie\"},\"de-at\":{\"language\":\"de-at\",\"value\":\"Wikimedia-Kategorie\"},\"zh-sg\":{\"language\":\"zh-sg\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u5206\\u7c7b\"},\"be\":{\"language\":\"be\",\"value\":\"\\u043a\\u0430\\u0442\\u044d\\u0433\\u0430\\u0440\\u044b\\u0437\\u0430\\u0446\\u044b\\u044f\"},\"lb\":{\"language\":\"lb\",\"value\":\"Wikimedia-Kategorie\"},\"nap\":{\"language\":\"nap\",\"value\":\"categur\\u00eca 'e nu pruggette Wikimedia\"},\"zh-mo\":{\"language\":\"zh-mo\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5206\\u985e\"},\"zh-cn\":{\"language\":\"zh-cn\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u5206\\u7c7b\"},\"de-ch\":{\"language\":\"de-ch\",\"value\":\"Wikimedia-Kategorie\"},\"cy\":{\"language\":\"cy\",\"value\":\"tudalen categori Wikimedia\"},\"sk\":{\"language\":\"sk\",\"value\":\"kateg\\u00f3ria projektov Wikimedia\"},\"hr\":{\"language\":\"hr\",\"value\":\"kategorija na Wikimediji\"},\"sco\":{\"language\":\"sco\",\"value\":\"Wikimedia category\"},\"eu\":{\"language\":\"eu\",\"value\":\"Wikimediako kategoria\"},\"ro\":{\"language\":\"ro\",\"value\":\"categorie a unui proiect Wikimedia\"},\"sq\":{\"language\":\"sq\",\"value\":\"kategori e Wikimedias\"},\"ky\":{\"language\":\"ky\",\"value\":\"Wikimedia \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f\\u0441\\u044b\"},\"se\":{\"language\":\"se\",\"value\":\"Wikimedia-kategoriija\"},\"bho\":{\"language\":\"bho\",\"value\":\"\\u0935\\u093f\\u0915\\u093f\\u092a\\u0940\\u0921\\u093f\\u092f\\u093e:\\u0936\\u094d\\u0930\\u0947\\u0923\\u0940\"},\"ba\":{\"language\":\"ba\",\"value\":\"\\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430 \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f\\u04bb\\u044b\"},\"ast\":{\"language\":\"ast\",\"value\":\"categor\\u00eda de Wikimedia\"},\"ace\":{\"language\":\"ace\",\"value\":\"kawan Wikim\\u00e8dia\"},\"tr\":{\"language\":\"tr\",\"value\":\"Vikimedya kategorisi\"},\"hi\":{\"language\":\"hi\",\"value\":\"\\u0935\\u093f\\u0915\\u093f\\u092e\\u0940\\u0921\\u093f\\u092f\\u093e \\u0936\\u094d\\u0930\\u0947\\u0923\\u0940\"},\"af\":{\"language\":\"af\",\"value\":\"Wikimedia-kategorie\"},\"br\":{\"language\":\"br\",\"value\":\"pajenn rummata eus Wikimedia\"},\"bug\":{\"language\":\"bug\",\"value\":\"kategori Wikimedia\"},\"bjn\":{\"language\":\"bjn\",\"value\":\"tumbung Wikimedia\"},\"tg\":{\"language\":\"tg\",\"value\":\"\\u0433\\u0443\\u0440\\u04ef\\u04b3\\u0438 \\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430\"},\"bar\":{\"language\":\"bar\",\"value\":\"Wikimedia-Kategorie\"},\"zea\":{\"language\":\"zea\",\"value\":\"Wikimedia-categorie\"},\"li\":{\"language\":\"li\",\"value\":\"Wikimedia-categorie\"},\"yo\":{\"language\":\"yo\",\"value\":\"\\u1eb9\\u0300ka Wikimedia\"},\"tg-latn\":{\"language\":\"tg-latn\",\"value\":\"gur\\u00fchi Vikimedia\"},\"tg-cyrl\":{\"language\":\"tg-cyrl\",\"value\":\"\\u0433\\u0443\\u0440\\u04ef\\u04b3 \\u0434\\u0430\\u0440 \\u043b\\u043e\\u0438\\u04b3\\u0430\\u0438 \\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430\"},\"an\":{\"language\":\"an\",\"value\":\"categor\\u00eda de Wikimedia\"},\"id\":{\"language\":\"id\",\"value\":\"kategori Wikimedia\"},\"fy\":{\"language\":\"fy\",\"value\":\"Wikimedia-kategory\"}},\"aliases\":[],\"claims\":{\"P301\":[{\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P301\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":147638,\"id\":\"Q147638\"},\"type\":\"wikibase-entityid\"}},\"type\":\"statement\",\"id\":\"q7129786$C0D1E69B-DBA0-4700-BEA7-B9542D080FA9\",\"rank\":\"normal\",\"references\":[{\"hash\":\"fa278ebfc458360e5aed63d5058cca83c46134f1\",\"snaks\":{\"P143\":[{\"snaktype\":\"value\",\"property\":\"P143\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":328,\"id\":\"Q328\"},\"type\":\"wikibase-entityid\"}}]},\"snaks-order\":[\"P143\"]}]}],\"P373\":[{\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P373\",\"datavalue\":{\"value\":\"Cognitive science\",\"type\":\"string\"}},\"type\":\"statement\",\"id\":\"q7129786$51E28A30-C131-46C0-9778-3C6EB4AAC290\",\"rank\":\"normal\",\"references\":[{\"hash\":\"fa278ebfc458360e5aed63d5058cca83c46134f1\",\"snaks\":{\"P143\":[{\"snaktype\":\"value\",\"property\":\"P143\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":328,\"id\":\"Q328\"},\"type\":\"wikibase-entityid\"}}]},\"snaks-order\":[\"P143\"]}]}],\"P31\":[{\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P31\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":4167836,\"id\":\"Q4167836\"},\"type\":\"wikibase-entityid\"}},\"type\":\"statement\",\"id\":\"q7129786$F1C58BED-6D53-47B6-ABDA-872CC0CF444C\",\"rank\":\"normal\"}]},\"sitelinks\":{\"commonswiki\":{\"site\":\"commonswiki\",\"title\":\"Category:Cognitive science\",\"badges\":[]},\"frwikiquote\":{\"site\":\"frwikiquote\",\"title\":\"Cat\\u00e9gorie:Sciences cognitives\",\"badges\":[]},\"ruwikiquote\":{\"site\":\"ruwikiquote\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u044b\\u0435 \\u043d\\u0430\\u0443\\u043a\\u0438\",\"badges\":[]},\"enwikiversity\":{\"site\":\"enwikiversity\",\"title\":\"Category:Cognitive science\",\"badges\":[]},\"frwikiversity\":{\"site\":\"frwikiversity\",\"title\":\"Cat\\u00e9gorie:Sciences cognitives\",\"badges\":[]},\"arwikiversity\":{\"site\":\"arwikiversity\",\"title\":\"\\u062a\\u0635\\u0646\\u064a\\u0641:\\u0643\\u0644\\u064a\\u0629 \\u0639\\u0644\\u0645 \\u0627\\u0644\\u0625\\u062f\\u0631\\u0627\\u0643\",\"badges\":[]},\"azwikisource\":{\"site\":\"azwikisource\",\"title\":\"Kateqoriya:Koqnitiv elml\\u0259r\",\"badges\":[]},\"enwiki\":{\"site\":\"enwiki\",\"title\":\"Category:Cognitive science\",\"badges\":[]},\"dewiki\":{\"site\":\"dewiki\",\"title\":\"Kategorie:Kognitionswissenschaft\",\"badges\":[]},\"frwiki\":{\"site\":\"frwiki\",\"title\":\"Cat\\u00e9gorie:Sciences cognitives\",\"badges\":[]},\"eswiki\":{\"site\":\"eswiki\",\"title\":\"Categor\\u00eda:Ciencias cognitivas\",\"badges\":[]},\"ruwiki\":{\"site\":\"ruwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u044b\\u0435 \\u043d\\u0430\\u0443\\u043a\\u0438\",\"badges\":[]},\"itwiki\":{\"site\":\"itwiki\",\"title\":\"Categoria:Scienze cognitive\",\"badges\":[]},\"jawiki\":{\"site\":\"jawiki\",\"title\":\"Category:\\u8a8d\\u77e5\\u79d1\\u5b66\",\"badges\":[]},\"nlwiki\":{\"site\":\"nlwiki\",\"title\":\"Categorie:Cognitiewetenschap\",\"badges\":[]},\"ptwiki\":{\"site\":\"ptwiki\",\"title\":\"Categoria:Ci\\u00eancias cognitivas\",\"badges\":[]},\"zhwiki\":{\"site\":\"zhwiki\",\"title\":\"Category:\\u8a8d\\u77e5\\u79d1\\u5b78\",\"badges\":[]},\"svwiki\":{\"site\":\"svwiki\",\"title\":\"Kategori:Kognitionsvetenskap\",\"badges\":[]},\"fawiki\":{\"site\":\"fawiki\",\"title\":\"\\u0631\\u062f\\u0647:\\u0639\\u0644\\u0648\\u0645 \\u0634\\u0646\\u0627\\u062e\\u062a\\u06cc\",\"badges\":[]},\"hewiki\":{\"site\":\"hewiki\",\"title\":\"\\u05e7\\u05d8\\u05d2\\u05d5\\u05e8\\u05d9\\u05d4:\\u05de\\u05d3\\u05e2\\u05d9\\u05dd \\u05e7\\u05d5\\u05d2\\u05e0\\u05d9\\u05d8\\u05d9\\u05d1\\u05d9\\u05d9\\u05dd\",\"badges\":[]},\"trwiki\":{\"site\":\"trwiki\",\"title\":\"Kategori:Bili\\u015fsel bilim\",\"badges\":[]},\"huwiki\":{\"site\":\"huwiki\",\"title\":\"Kateg\\u00f3ria:Megismer\\u00e9studom\\u00e1ny\",\"badges\":[]},\"fiwiki\":{\"site\":\"fiwiki\",\"title\":\"Luokka:Kognitiotiede\",\"badges\":[]},\"arwiki\":{\"site\":\"arwiki\",\"title\":\"\\u062a\\u0635\\u0646\\u064a\\u0641:\\u0639\\u0644\\u0648\\u0645 \\u0627\\u0633\\u062a\\u0639\\u0631\\u0627\\u0641\\u064a\\u0629\",\"badges\":[]},\"viwiki\":{\"site\":\"viwiki\",\"title\":\"Th\\u1ec3 lo\\u1ea1i:Khoa h\\u1ecdc nh\\u1eadn th\\u1ee9c\",\"badges\":[]},\"nowiki\":{\"site\":\"nowiki\",\"title\":\"Kategori:Kognitiv vitenskap\",\"badges\":[]},\"ukwiki\":{\"site\":\"ukwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0456\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0456\\u0442\\u0438\\u0432\\u043d\\u0456 \\u043d\\u0430\\u0443\\u043a\\u0438\",\"badges\":[]},\"kowiki\":{\"site\":\"kowiki\",\"title\":\"\\ubd84\\ub958:\\uc778\\uc9c0\\uacfc\\ud559\",\"badges\":[]},\"cswiki\":{\"site\":\"cswiki\",\"title\":\"Kategorie:Kognitivn\\u00ed v\\u011bda\",\"badges\":[]},\"srwiki\":{\"site\":\"srwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0435 \\u043d\\u0430\\u0443\\u043a\\u0435\",\"badges\":[]},\"rowiki\":{\"site\":\"rowiki\",\"title\":\"Categorie:\\u0218tiin\\u021b\\u0103 cognitiv\\u0103\",\"badges\":[]},\"idwiki\":{\"site\":\"idwiki\",\"title\":\"Kategori:Ilmu kognitif\",\"badges\":[]},\"dawiki\":{\"site\":\"dawiki\",\"title\":\"Kategori:Kognitionsvidenskab\",\"badges\":[]},\"bgwiki\":{\"site\":\"bgwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0430 \\u043d\\u0430\\u0443\\u043a\\u0430\",\"badges\":[]},\"astwiki\":{\"site\":\"astwiki\",\"title\":\"Categor\\u00eda:Ciencies cognitives\",\"badges\":[]},\"azwiki\":{\"site\":\"azwiki\",\"title\":\"Kateqoriya:Koqnitiv elml\\u0259r\",\"badges\":[]},\"bawiki\":{\"site\":\"bawiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432 \\u0444\\u04d9\\u043d\\u0434\\u04d9\\u0440\",\"badges\":[]},\"barwiki\":{\"site\":\"barwiki\",\"title\":\"Kategorie:Kognitionswissenschaft\",\"badges\":[]},\"bewiki\":{\"site\":\"bewiki\",\"title\":\"\\u041a\\u0430\\u0442\\u044d\\u0433\\u043e\\u0440\\u044b\\u044f:\\u041a\\u0430\\u0433\\u043d\\u0456\\u0442\\u044b\\u045e\\u043d\\u044b\\u044f \\u043d\\u0430\\u0432\\u0443\\u043a\\u0456\",\"badges\":[]},\"be_x_oldwiki\":{\"site\":\"be_x_oldwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u044d\\u0433\\u043e\\u0440\\u044b\\u044f:\\u041a\\u0430\\u0433\\u043d\\u0456\\u0442\\u044b\\u045e\\u043d\\u044b\\u044f \\u043d\\u0430\\u0432\\u0443\\u043a\\u0456\",\"badges\":[]},\"bswiki\":{\"site\":\"bswiki\",\"title\":\"Kategorija:Spoznajne nauke\",\"badges\":[]},\"cvwiki\":{\"site\":\"cvwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0446\\u0438 \\u0103\\u0441\\u043b\\u0103\\u0445\\u0115\\u0441\\u0435\\u043c\",\"badges\":[]},\"cywiki\":{\"site\":\"cywiki\",\"title\":\"Categori:Gwyddoniaeth wybyddol\",\"badges\":[]},\"elwiki\":{\"site\":\"elwiki\",\"title\":\"\\u039a\\u03b1\\u03c4\\u03b7\\u03b3\\u03bf\\u03c1\\u03af\\u03b1:\\u0393\\u03bd\\u03c9\\u03c3\\u03b9\\u03b1\\u03ba\\u03ae \\u03b5\\u03c0\\u03b9\\u03c3\\u03c4\\u03ae\\u03bc\\u03b7\",\"badges\":[]},\"eowiki\":{\"site\":\"eowiki\",\"title\":\"Kategorio:Rekonada scienco\",\"badges\":[]},\"etwiki\":{\"site\":\"etwiki\",\"title\":\"Kategooria:Tunnetusteadus\",\"badges\":[]},\"euwiki\":{\"site\":\"euwiki\",\"title\":\"Kategoria:Zientzia kognitiboak\",\"badges\":[]},\"gvwiki\":{\"site\":\"gvwiki\",\"title\":\"Ronney:Oaylleeaght hastagh\",\"badges\":[]},\"hiwiki\":{\"site\":\"hiwiki\",\"title\":\"\\u0936\\u094d\\u0930\\u0947\\u0923\\u0940:\\u0938\\u0902\\u091c\\u094d\\u091e\\u093e\\u0928\\u0936\\u093e\\u0938\\u094d\\u0924\\u094d\\u0930\",\"badges\":[]},\"iawiki\":{\"site\":\"iawiki\",\"title\":\"Categoria:Scientia cognitive\",\"badges\":[]},\"iewiki\":{\"site\":\"iewiki\",\"title\":\"Categorie:Cognitiv scienties\",\"badges\":[]},\"ilowiki\":{\"site\":\"ilowiki\",\"title\":\"Kategoria:Kognitibo a siensia\",\"badges\":[]},\"iswiki\":{\"site\":\"iswiki\",\"title\":\"Flokkur:Vitsmunav\\u00edsindi\",\"badges\":[]},\"jvwiki\":{\"site\":\"jvwiki\",\"title\":\"Kategori:Kawruh kognitif\",\"badges\":[]},\"kawiki\":{\"site\":\"kawiki\",\"title\":\"\\u10d9\\u10d0\\u10e2\\u10d4\\u10d2\\u10dd\\u10e0\\u10d8\\u10d0:\\u10d9\\u10dd\\u10d2\\u10dc\\u10d8\\u10e2\\u10e3\\u10e0\\u10d8 \\u10db\\u10d4\\u10ea\\u10dc\\u10d8\\u10d4\\u10e0\\u10d4\\u10d1\\u10d0\",\"badges\":[]},\"kkwiki\":{\"site\":\"kkwiki\",\"title\":\"\\u0421\\u0430\\u043d\\u0430\\u0442:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u0442\\u0456\\u043a \\u0493\\u044b\\u043b\\u044b\\u043c\\u0434\\u0430\\u0440\",\"badges\":[]},\"krcwiki\":{\"site\":\"krcwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432 \\u0438\\u043b\\u043c\\u0443\\u043b\\u0430\",\"badges\":[]},\"lawiki\":{\"site\":\"lawiki\",\"title\":\"Categoria:Scientia cognitiva\",\"badges\":[]},\"ltwiki\":{\"site\":\"ltwiki\",\"title\":\"Kategorija:Kognityviniai mokslai\",\"badges\":[]},\"lvwiki\":{\"site\":\"lvwiki\",\"title\":\"Kategorija:Kognit\\u012bv\\u0101 zin\\u0101tne\",\"badges\":[]},\"mdfwiki\":{\"site\":\"mdfwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0435:\\u0421\\u043e\\u0434\\u0430\\u0432\\u043e\\u043c\\u0430\\u043d\\u044c \\u0442\\u043e\\u043d\\u0430\\u0434\\u043e\\u043c\\u0430\",\"badges\":[]},\"mkwiki\":{\"site\":\"mkwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0430 \\u043d\\u0430\\u0443\\u043a\\u0430\",\"badges\":[]},\"mnwiki\":{\"site\":\"mnwiki\",\"title\":\"\\u0410\\u043d\\u0433\\u0438\\u043b\\u0430\\u043b:\\u041e\\u044e\\u0443\\u043d \\u0443\\u0445\\u0430\\u0430\\u043d \\u0441\\u0443\\u0434\\u043b\\u0430\\u043b\",\"badges\":[]},\"mswiki\":{\"site\":\"mswiki\",\"title\":\"Kategori:Sains kognitif\",\"badges\":[]},\"nnwiki\":{\"site\":\"nnwiki\",\"title\":\"Kategori:Kognitive vitskapar\",\"badges\":[]},\"ocwiki\":{\"site\":\"ocwiki\",\"title\":\"Categoria:Sci\\u00e9ncias cognitivas\",\"badges\":[]},\"ruewiki\":{\"site\":\"ruewiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0491\\u043e\\u0440\\u0456\\u044f:\\u041a\\u043e\\u0491\\u043d\\u0456\\u0442\\u0456\\u0432\\u043d\\u0430 \\u043d\\u0430\\u0443\\u043a\\u0430\",\"badges\":[]},\"scowiki\":{\"site\":\"scowiki\",\"title\":\"Category:Cognitive science\",\"badges\":[]},\"shwiki\":{\"site\":\"shwiki\",\"title\":\"Kategorija:Kognitivna nauka\",\"badges\":[]},\"skwiki\":{\"site\":\"skwiki\",\"title\":\"Kateg\\u00f3ria:Kognit\\u00edvna veda\",\"badges\":[]},\"slwiki\":{\"site\":\"slwiki\",\"title\":\"Kategorija:Kognitivna znanost\",\"badges\":[]},\"sqwiki\":{\"site\":\"sqwiki\",\"title\":\"Kategoria:Shkenc\\u00eb kognitive\",\"badges\":[]},\"tawiki\":{\"site\":\"tawiki\",\"title\":\"\\u0baa\\u0b95\\u0bc1\\u0baa\\u0bcd\\u0baa\\u0bc1:\\u0b85\\u0bb1\\u0bbf\\u0ba4\\u0bbf\\u0bb1 \\u0b85\\u0bb1\\u0bbf\\u0bb5\\u0bbf\\u0baf\\u0bb2\\u0bcd\",\"badges\":[]},\"thwiki\":{\"site\":\"thwiki\",\"title\":\"\\u0e2b\\u0e21\\u0e27\\u0e14\\u0e2b\\u0e21\\u0e39\\u0e48:\\u0e1b\\u0e23\\u0e30\\u0e0a\\u0e32\\u0e19\\u0e28\\u0e32\\u0e2a\\u0e15\\u0e23\\u0e4c\",\"badges\":[]},\"tkwiki\":{\"site\":\"tkwiki\",\"title\":\"Kategori\\u00fda:Kognitiw ylymlar\",\"badges\":[]},\"tlwiki\":{\"site\":\"tlwiki\",\"title\":\"Kategorya:Agham kognitibo\",\"badges\":[]},\"ttwiki\":{\"site\":\"ttwiki\",\"title\":\"\\u0422\\u04e9\\u0440\\u043a\\u0435\\u043c:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432 \\u0444\\u04d9\\u043d\\u043d\\u04d9\\u0440\",\"badges\":[]},\"urwiki\":{\"site\":\"urwiki\",\"title\":\"\\u0632\\u0645\\u0631\\u06c1:\\u0639\\u0644\\u0645 \\u0627\\u062f\\u0631\\u0627\\u06a9\",\"badges\":[]},\"xmfwiki\":{\"site\":\"xmfwiki\",\"title\":\"\\u10d9\\u10d0\\u10e2\\u10d4\\u10d2\\u10dd\\u10e0\\u10d8\\u10d0:\\u10d9\\u10dd\\u10d2\\u10dc\\u10d8\\u10e2\\u10e3\\u10e0\\u10d8 \\u10db\\u10d4\\u10dc\\u10ea\\u10d0\\u10e0\\u10dd\\u10d1\\u10d0\",\"badges\":[]},\"mywiki\":{\"site\":\"mywiki\",\"title\":\"Category:\\u1021\\u101e\\u102d\\u1021\\u1019\\u103c\\u1004\\u103a \\u101e\\u102d\\u1015\\u1039\\u1015\\u1036\",\"badges\":[]},\"ukwikiquote\":{\"site\":\"ukwikiquote\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0456\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0456\\u0442\\u0438\\u0432\\u043d\\u0456 \\u043d\\u0430\\u0443\\u043a\\u0438\",\"badges\":[]},\"plwiki\":{\"site\":\"plwiki\",\"title\":\"Kategoria:Filozofia umys\\u0142u i kognitywistyka\",\"badges\":[]},\"bhwiki\":{\"site\":\"bhwiki\",\"title\":\"\\u0936\\u094d\\u0930\\u0947\\u0923\\u0940:\\u0938\\u0902\\u091c\\u094d\\u091e\\u093e\\u0928 \\u092c\\u093f\\u091c\\u094d\\u091e\\u093e\\u0928\",\"badges\":[]},\"frwikinews\":{\"site\":\"frwikinews\",\"title\":\"Cat\\u00e9gorie:Sciences cognitives\",\"badges\":[]},\"hywiki\":{\"site\":\"hywiki\",\"title\":\"\\u053f\\u0561\\u057f\\u0565\\u0563\\u0578\\u0580\\u056b\\u0561:\\u053f\\u0578\\u0563\\u0576\\u056b\\u057f\\u056b\\u057e \\u0563\\u056b\\u057f\\u0578\\u0582\\u0569\\u0575\\u0578\\u0582\\u0576\",\"badges\":[]},\"cewiki\":{\"site\":\"cewiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u0430\\u043d \\u04c0\\u0438\\u043b\\u043c\\u0430\\u043d\\u0430\\u0448\",\"badges\":[]},\"arwikinews\":{\"site\":\"arwikinews\",\"title\":\"\\u062a\\u0635\\u0646\\u064a\\u0641:\\u0639\\u0644\\u0648\\u0645 \\u0627\\u0633\\u062a\\u0639\\u0631\\u0627\\u0641\\u064a\\u0629\",\"badges\":[]},\"sewiki\":{\"site\":\"sewiki\",\"title\":\"Kategoriija:Kogni\\u0161uvdnadie\\u0111a\",\"badges\":[]},\"bnwiki\":{\"site\":\"bnwiki\",\"title\":\"\\u09ac\\u09bf\\u09b7\\u09af\\u09bc\\u09b6\\u09cd\\u09b0\\u09c7\\u09a3\\u09c0:\\u09a7\\u09c0\\u09ac\\u09bf\\u099c\\u09cd\\u099e\\u09be\\u09a8\",\"badges\":[]},\"azwikiquote\":{\"site\":\"azwikiquote\",\"title\":\"Kateqoriya:Koqnitiv elml\\u0259r\",\"badges\":[]},\"arzwiki\":{\"site\":\"arzwiki\",\"title\":\"\\u062a\\u0635\\u0646\\u064a\\u0641:\\u0639\\u0644\\u0648\\u0645 \\u0627\\u0633\\u062a\\u0639\\u0631\\u0627\\u0641\\u0649\",\"badges\":[]},\"kywiki\":{\"site\":\"kywiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u0434\\u0438\\u043a \\u0438\\u043b\\u0438\\u043c\\u0434\\u0435\\u0440\",\"badges\":[]},\"zh_yuewiki\":{\"site\":\"zh_yuewiki\",\"title\":\"Category:\\u8a8d\\u77e5\\u79d1\\u5b78\",\"badges\":[]},\"azwiktionary\":{\"site\":\"azwiktionary\",\"title\":\"Kateqoriya:Koqnitiv elml\\u0259r\",\"badges\":[]}}}","wgEditSubmitButtonLabelPublish":true,"wbUserSpecifiedLanguages":[],"wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" class=\"extiw\" title=\"wikimedia:Terms of Use\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":{"Q17437798":"wb-badge-goodarticle","Q17437796":"wb-badge-featuredarticle","Q17559452":"wb-badge-recommendedarticle","Q17506997":"wb-badge-featuredlist","Q17580674":"wb-badge-featuredportal","Q20748091":"wb-badge-notproofread","Q20748094":"wb-badge-problematic","Q20748092":"wb-badge-proofread","Q20748093":"wb-badge-validated","Q28064618":"wb-badge-digitaldocument","Q51759403":"wb-badge-goodlist"},"wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"]});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.common":"ready","jquery.ui.core.styles":"ready","jquery.wikibase.statementview.RankSelector.styles":"ready","jquery.wikibase.toolbar.styles":"ready","jquery.wikibase.toolbarbutton.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikidata-org.badges":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["wikibase.ui.entityViewInit","wikibase.entityPage.entityLoaded","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","wikibase.ui.entitysearch","ext.gadget.Search","ext.gadget.AuthorityControl","ext.gadget.SiteIdToInterwiki","ext.gadget.ProtectionIndicators","ext.gadget.PopupsFix","ext.gadget.imagelinks","ext.gadget.NewSection","ext.gadget.formWizard","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","propertySuggester.suggestions","wikibase.quality.constraints.suggestions","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikidata-org.badges%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.wikibase.statementview.RankSelector.styles%7Cjquery.wikibase.toolbar.styles%7Cjquery.wikibase.toolbarbutton.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.common&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=jquery.ui.core.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:title" content="Category:Cognitive science"/>
+<meta name="description" content="Wikimedia category"/>
+<meta property="og:description" content="Wikimedia category"/>
+<meta name="twitter:card" content="summary"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q7129786.json" type="application/json"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q7129786.php" type="application/vnd.php.serialized"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q7129786.n3" type="text/n3"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q7129786.ttl" type="text/turtle"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q7129786.nt" type="application/n-triples"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q7129786.rdf" type="application/rdf+xml"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Q7129786&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=Q7129786&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikidata.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikidata.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikidata (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//www.wikidata.org/w/api.php?action=rsd"/>
+<link rel="license" href="/wiki/Wikidata:Copyright"/>
+<link rel="canonical" href="https://www.wikidata.org/wiki/Q7129786"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Q7129786 rootpage-Q7129786 skin-vector action-view wb-entitypage wb-itempage wb-itempage-Q7129786">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><span class="wikibase-title">
+<span class="wikibase-title-label">Category:Cognitive science</span>
+<span class="wikibase-title-id">(Q7129786)</span>
+</span></h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikidata</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="wb-item-Q7129786" class="wikibase-entityview wb-item" lang="en" dir="ltr">
+<div class="wikibase-entityview-main"><div class="wikibase-entitytermsview">
+<div class="wikibase-entitytermsview-heading">
+<div class="wikibase-entitytermsview-heading-description ">Wikimedia category</div><div class="wikibase-entitytermsview-heading-aliases wb-empty"></div>
+</div>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetLabelDescriptionAliases/Q7129786/en" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+<div class="wikibase-entitytermsview-entitytermsforlanguagelistview "><table class="wikibase-entitytermsforlanguagelistview">
+<thead class="wikibase-entitytermsforlanguagelistview-header">
+<tr class="wikibase-entitytermsforlanguagelistview-header-row">
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-language">Language</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-label">Label</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-description">Description</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-aliases">Also known as</th>
+</tr>
+</thead>
+<tbody class="wikibase-entitytermsforlanguagelistview-listview"><tr class="wikibase-entitytermsforlanguageview wikibase-entitytermsforlanguageview-en" >
+<th class="wikibase-entitytermsforlanguageview-language">English</th>
+<td class="wikibase-entitytermsforlanguageview-label"><div class="wikibase-labelview " dir="ltr" lang="en">
+<div class="wikibase-labelview-container">
+<span class="wikibase-labelview-text">Category:Cognitive science</span>
+
+</div>
+</div></td>
+<td class="wikibase-entitytermsforlanguageview-description"><div class="wikibase-descriptionview " dir="ltr" lang="en">
+<div class="wikibase-descriptionview-container">
+<span class="wikibase-descriptionview-text">Wikimedia category</span>
+
+</div>
+</div></td>
+<td class="wikibase-entitytermsforlanguageview-aliases"><div class="wikibase-aliasesview wb-empty">
+<ul class="wikibase-aliasesview-list" dir="" lang="en"></ul>
+
+</div></td>
+
+</tr></tbody>
+</table></div>
+</div><div id="toc"></div><h2 class="wb-section-heading section-heading wikibase-statements" dir="auto"><span class="mw-headline" id="claims">Statements</span></h2><div class="wikibase-statementgrouplistview"><div class="wikibase-listview"><div class="wikibase-statementgroupview" id="P31" data-property-id="P31">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P31" href="/wiki/Property:P31">instance of</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="q7129786$F1C58BED-6D53-47B6-ABDA-872CC0CF444C" class="wikibase-statementview wikibase-statement-q7129786$F1C58BED-6D53-47B6-ABDA-872CC0CF444C wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-6ce6fb09d8a0ca69b7054c628cf9b004c29c0003">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q4167836" href="/wiki/Q4167836">Wikimedia category</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P373" data-property-id="P373">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P373" href="/wiki/Property:P373">Commons category</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="q7129786$51E28A30-C131-46C0-9778-3C6EB4AAC290" class="wikibase-statementview wikibase-statement-q7129786$51E28A30-C131-46C0-9778-3C6EB4AAC290 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-b04b71042414301a8d3490295699debd75dd26b6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">Cognitive science</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P301" data-property-id="P301">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P301" href="/wiki/Property:P301">category's main topic</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="q7129786$C0D1E69B-DBA0-4700-BEA7-B9542D080FA9" class="wikibase-statementview wikibase-statement-q7129786$C0D1E69B-DBA0-4700-BEA7-B9542D080FA9 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-e03019c188dd2eade699b27d2a177671ae3b70b2">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q147638" href="/wiki/Q147638">cognitive science</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div></div></div></div>
+<div class="wikibase-entityview-side"><div class="wikibase-pageImage">
+<div class="help">
+<span class="wb-help-field-hint wikibase-toolbar-item wikibase-wbtooltip" title="This image is taken from the statements of this Item. You can adjust the image by changing the statement.">&nbsp;</span>
+</div>
+</div><h2 class="wb-section-heading section-heading wikibase-sitelinks" dir="auto"><span class="mw-headline" id="sitelinks">Sitelinks</span></h2><div class="wikibase-sitelinkgrouplistview"><div class="wikibase-listview"><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikipedia">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikipedia">Wikipedia<span class="wikibase-sitelinkgroupview-counter">(82 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-arwiki" data-wb-siteid="arwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-arwiki" title="Arabic">arwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-arwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" hreflang="ar" title="تصنيف:علوم استعرافية">تصنيف:علوم استعرافية</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-arzwiki" data-wb-siteid="arzwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-arzwiki" title="Egyptian Arabic">arzwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-arzwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="arz"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D9%81%D9%89" hreflang="arz" title="تصنيف:علوم استعرافى">تصنيف:علوم استعرافى</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-astwiki" data-wb-siteid="astwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-astwiki" title="Asturian">astwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-astwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ast"><a href="https://ast.wikipedia.org/wiki/Categor%C3%ADa:Ciencies_cognitives" hreflang="ast" title="Categoría:Ciencies cognitives">Categoría:Ciencies cognitives</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-azwiki" data-wb-siteid="azwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-azwiki" title="Azerbaijani">azwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-azwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="az"><a href="https://az.wikipedia.org/wiki/Kateqoriya:Koqnitiv_elml%C9%99r" hreflang="az" title="Kateqoriya:Koqnitiv elmlər">Kateqoriya:Koqnitiv elmlər</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-barwiki" data-wb-siteid="barwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-barwiki" title="Bavarian">barwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-barwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="bar"><a href="https://bar.wikipedia.org/wiki/Kategorie:Kognitionswissenschaft" hreflang="bar" title="Kategorie:Kognitionswissenschaft">Kategorie:Kognitionswissenschaft</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-bawiki" data-wb-siteid="bawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bawiki" title="Bashkir">bawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2_%D1%84%D3%99%D0%BD%D0%B4%D3%99%D1%80" hreflang="ba" title="Категория:Когнитив фәндәр">Категория:Когнитив фәндәр</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-be_x_oldwiki" data-wb-siteid="be_x_oldwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-be_x_oldwiki" title="Belarusian (Taraškievica orthography)">be_x_oldwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-be_x_oldwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="be-tarask"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%9A%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D1%8B%D1%9E%D0%BD%D1%8B%D1%8F_%D0%BD%D0%B0%D0%B2%D1%83%D0%BA%D1%96" hreflang="be-tarask" title="Катэгорыя:Кагнітыўныя навукі">Катэгорыя:Кагнітыўныя навукі</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-bewiki" data-wb-siteid="bewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bewiki" title="Belarusian">bewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%9A%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D1%8B%D1%9E%D0%BD%D1%8B%D1%8F_%D0%BD%D0%B0%D0%B2%D1%83%D0%BA%D1%96" hreflang="be" title="Катэгорыя:Кагнітыўныя навукі">Катэгорыя:Кагнітыўныя навукі</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-bgwiki" data-wb-siteid="bgwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bgwiki" title="Bulgarian">bgwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bgwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0" hreflang="bg" title="Категория:Когнитивна наука">Категория:Когнитивна наука</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-bhwiki" data-wb-siteid="bhwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bhwiki" title="Bhojpuri">bhwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bhwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:%E0%A4%B8%E0%A4%82%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8_%E0%A4%AC%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" hreflang="bh" title="श्रेणी:संज्ञान बिज्ञान">श्रेणी:संज्ञान बिज्ञान</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-bnwiki" data-wb-siteid="bnwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bnwiki" title="Bangla">bnwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bnwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80:%E0%A6%A7%E0%A7%80%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8" hreflang="bn" title="বিষয়শ্রেণী:ধীবিজ্ঞান">বিষয়শ্রেণী:ধীবিজ্ঞান</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-bswiki" data-wb-siteid="bswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bswiki" title="Bosnian">bswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="bs"><a href="https://bs.wikipedia.org/wiki/Kategorija:Spoznajne_nauke" hreflang="bs" title="Kategorija:Spoznajne nauke">Kategorija:Spoznajne nauke</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-cewiki" data-wb-siteid="cewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-cewiki" title="Chechen">cewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-cewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ce"><a href="https://ce.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%B0%D0%BD_%D3%80%D0%B8%D0%BB%D0%BC%D0%B0%D0%BD%D0%B0%D1%88" hreflang="ce" title="Категори:Когнитиван Ӏилманаш">Категори:Когнитиван Ӏилманаш</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-cswiki" data-wb-siteid="cswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-cswiki" title="Czech">cswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-cswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="cs"><a href="https://cs.wikipedia.org/wiki/Kategorie:Kognitivn%C3%AD_v%C4%9Bda" hreflang="cs" title="Kategorie:Kognitivní věda">Kategorie:Kognitivní věda</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-cvwiki" data-wb-siteid="cvwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-cvwiki" title="Chuvash">cvwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-cvwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="cv"><a href="https://cv.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%86%D0%B8_%C4%83%D1%81%D0%BB%C4%83%D1%85%C4%95%D1%81%D0%B5%D0%BC" hreflang="cv" title="Категори:Когници ăслăхĕсем">Категори:Когници ăслăхĕсем</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-cywiki" data-wb-siteid="cywiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-cywiki" title="Welsh">cywiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-cywiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="cy"><a href="https://cy.wikipedia.org/wiki/Categori:Gwyddoniaeth_wybyddol" hreflang="cy" title="Categori:Gwyddoniaeth wybyddol">Categori:Gwyddoniaeth wybyddol</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-dawiki" data-wb-siteid="dawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-dawiki" title="Danish">dawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-dawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="da"><a href="https://da.wikipedia.org/wiki/Kategori:Kognitionsvidenskab" hreflang="da" title="Kategori:Kognitionsvidenskab">Kategori:Kognitionsvidenskab</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-dewiki" data-wb-siteid="dewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-dewiki" title="German">dewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-dewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="de"><a href="https://de.wikipedia.org/wiki/Kategorie:Kognitionswissenschaft" hreflang="de" title="Kategorie:Kognitionswissenschaft">Kategorie:Kognitionswissenschaft</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-elwiki" data-wb-siteid="elwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-elwiki" title="Greek">elwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-elwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1:%CE%93%CE%BD%CF%89%CF%83%CE%B9%CE%B1%CE%BA%CE%AE_%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7" hreflang="el" title="Κατηγορία:Γνωσιακή επιστήμη">Κατηγορία:Γνωσιακή επιστήμη</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-enwiki" data-wb-siteid="enwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-enwiki" title="English">enwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-enwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://en.wikipedia.org/wiki/Category:Cognitive_science" hreflang="en" title="Category:Cognitive science">Category:Cognitive science</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-eowiki" data-wb-siteid="eowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-eowiki" title="Esperanto">eowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-eowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="eo"><a href="https://eo.wikipedia.org/wiki/Kategorio:Rekonada_scienco" hreflang="eo" title="Kategorio:Rekonada scienco">Kategorio:Rekonada scienco</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-eswiki" data-wb-siteid="eswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-eswiki" title="Spanish">eswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-eswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="es"><a href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Ciencias_cognitivas" hreflang="es" title="Categoría:Ciencias cognitivas">Categoría:Ciencias cognitivas</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-etwiki" data-wb-siteid="etwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-etwiki" title="Estonian">etwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-etwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="et"><a href="https://et.wikipedia.org/wiki/Kategooria:Tunnetusteadus" hreflang="et" title="Kategooria:Tunnetusteadus">Kategooria:Tunnetusteadus</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-euwiki" data-wb-siteid="euwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-euwiki" title="Basque">euwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-euwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="eu"><a href="https://eu.wikipedia.org/wiki/Kategoria:Zientzia_kognitiboak" hreflang="eu" title="Kategoria:Zientzia kognitiboak">Kategoria:Zientzia kognitiboak</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-fawiki" data-wb-siteid="fawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-fawiki" title="Persian">fawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-fawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%B9%D9%84%D9%88%D9%85_%D8%B4%D9%86%D8%A7%D8%AE%D8%AA%DB%8C" hreflang="fa" title="رده:علوم شناختی">رده:علوم شناختی</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-fiwiki" data-wb-siteid="fiwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-fiwiki" title="Finnish">fiwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-fiwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fi"><a href="https://fi.wikipedia.org/wiki/Luokka:Kognitiotiede" hreflang="fi" title="Luokka:Kognitiotiede">Luokka:Kognitiotiede</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-frwiki" data-wb-siteid="frwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-frwiki" title="French">frwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-frwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fr"><a href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Sciences_cognitives" hreflang="fr" title="Catégorie:Sciences cognitives">Catégorie:Sciences cognitives</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-gvwiki" data-wb-siteid="gvwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-gvwiki" title="Manx">gvwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-gvwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="gv"><a href="https://gv.wikipedia.org/wiki/Ronney:Oaylleeaght_hastagh" hreflang="gv" title="Ronney:Oaylleeaght hastagh">Ronney:Oaylleeaght hastagh</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-hewiki" data-wb-siteid="hewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-hewiki" title="Hebrew">hewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-hewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%93%D7%A2%D7%99%D7%9D_%D7%A7%D7%95%D7%92%D7%A0%D7%99%D7%98%D7%99%D7%91%D7%99%D7%99%D7%9D" hreflang="he" title="קטגוריה:מדעים קוגניטיביים">קטגוריה:מדעים קוגניטיביים</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-hiwiki" data-wb-siteid="hiwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-hiwiki" title="Hindi">hiwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-hiwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:%E0%A4%B8%E0%A4%82%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="hi" title="श्रेणी:संज्ञानशास्त्र">श्रेणी:संज्ञानशास्त्र</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-huwiki" data-wb-siteid="huwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-huwiki" title="Hungarian">huwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-huwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="hu"><a href="https://hu.wikipedia.org/wiki/Kateg%C3%B3ria:Megismer%C3%A9studom%C3%A1ny" hreflang="hu" title="Kategória:Megismeréstudomány">Kategória:Megismeréstudomány</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-hywiki" data-wb-siteid="hywiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-hywiki" title="Armenian">hywiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-hywiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%BF%D5%A5%D5%A3%D5%B8%D6%80%D5%AB%D5%A1:%D4%BF%D5%B8%D5%A3%D5%B6%D5%AB%D5%BF%D5%AB%D5%BE_%D5%A3%D5%AB%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" title="Կատեգորիա:Կոգնիտիվ գիտություն">Կատեգորիա:Կոգնիտիվ գիտություն</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-iawiki" data-wb-siteid="iawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-iawiki" title="Interlingua">iawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-iawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ia"><a href="https://ia.wikipedia.org/wiki/Categoria:Scientia_cognitive" hreflang="ia" title="Categoria:Scientia cognitive">Categoria:Scientia cognitive</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-idwiki" data-wb-siteid="idwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-idwiki" title="Indonesian">idwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-idwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="id"><a href="https://id.wikipedia.org/wiki/Kategori:Ilmu_kognitif" hreflang="id" title="Kategori:Ilmu kognitif">Kategori:Ilmu kognitif</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-iewiki" data-wb-siteid="iewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-iewiki" title="Interlingue">iewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-iewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ie"><a href="https://ie.wikipedia.org/wiki/Categorie:Cognitiv_scienties" hreflang="ie" title="Categorie:Cognitiv scienties">Categorie:Cognitiv scienties</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ilowiki" data-wb-siteid="ilowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ilowiki" title="Iloko">ilowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ilowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ilo"><a href="https://ilo.wikipedia.org/wiki/Kategoria:Kognitibo_a_siensia" hreflang="ilo" title="Kategoria:Kognitibo a siensia">Kategoria:Kognitibo a siensia</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-iswiki" data-wb-siteid="iswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-iswiki" title="Icelandic">iswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-iswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="is"><a href="https://is.wikipedia.org/wiki/Flokkur:Vitsmunav%C3%ADsindi" hreflang="is" title="Flokkur:Vitsmunavísindi">Flokkur:Vitsmunavísindi</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-itwiki" data-wb-siteid="itwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-itwiki" title="Italian">itwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-itwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="it"><a href="https://it.wikipedia.org/wiki/Categoria:Scienze_cognitive" hreflang="it" title="Categoria:Scienze cognitive">Categoria:Scienze cognitive</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-jawiki" data-wb-siteid="jawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-jawiki" title="Japanese">jawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-jawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ja"><a href="https://ja.wikipedia.org/wiki/Category:%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%A6" hreflang="ja" title="Category:認知科学">Category:認知科学</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-jvwiki" data-wb-siteid="jvwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-jvwiki" title="Javanese">jvwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-jvwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="jv"><a href="https://jv.wikipedia.org/wiki/Kategori:Kawruh_kognitif" hreflang="jv" title="Kategori:Kawruh kognitif">Kategori:Kawruh kognitif</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-kawiki" data-wb-siteid="kawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-kawiki" title="Georgian">kawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-kawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:%E1%83%99%E1%83%9D%E1%83%92%E1%83%9C%E1%83%98%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9B%E1%83%94%E1%83%AA%E1%83%9C%E1%83%98%E1%83%94%E1%83%A0%E1%83%94%E1%83%91%E1%83%90" hreflang="ka" title="კატეგორია:კოგნიტური მეცნიერება">კატეგორია:კოგნიტური მეცნიერება</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-kkwiki" data-wb-siteid="kkwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-kkwiki" title="Kazakh">kkwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-kkwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B0%D1%82:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D1%82%D1%96%D0%BA_%D2%93%D1%8B%D0%BB%D1%8B%D0%BC%D0%B4%D0%B0%D1%80" hreflang="kk" title="Санат:Когнитивтік ғылымдар">Санат:Когнитивтік ғылымдар</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-kowiki" data-wb-siteid="kowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-kowiki" title="Korean">kowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-kowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99" hreflang="ko" title="분류:인지과학">분류:인지과학</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-krcwiki" data-wb-siteid="krcwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-krcwiki" title="Karachay-Balkar">krcwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-krcwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="krc"><a href="https://krc.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2_%D0%B8%D0%BB%D0%BC%D1%83%D0%BB%D0%B0" hreflang="krc" title="Категория:Когнитив илмула">Категория:Когнитив илмула</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-kywiki" data-wb-siteid="kywiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-kywiki" title="Kyrgyz">kywiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-kywiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ky"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%B4%D0%B8%D0%BA_%D0%B8%D0%BB%D0%B8%D0%BC%D0%B4%D0%B5%D1%80" hreflang="ky" title="Категория:Когнитивдик илимдер">Категория:Когнитивдик илимдер</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-lawiki" data-wb-siteid="lawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-lawiki" title="Latin">lawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-lawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="la"><a href="https://la.wikipedia.org/wiki/Categoria:Scientia_cognitiva" hreflang="la" title="Categoria:Scientia cognitiva">Categoria:Scientia cognitiva</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ltwiki" data-wb-siteid="ltwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ltwiki" title="Lithuanian">ltwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ltwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="lt"><a href="https://lt.wikipedia.org/wiki/Kategorija:Kognityviniai_mokslai" hreflang="lt" title="Kategorija:Kognityviniai mokslai">Kategorija:Kognityviniai mokslai</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-lvwiki" data-wb-siteid="lvwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-lvwiki" title="Latvian">lvwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-lvwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="lv"><a href="https://lv.wikipedia.org/wiki/Kategorija:Kognit%C4%ABv%C4%81_zin%C4%81tne" hreflang="lv" title="Kategorija:Kognitīvā zinātne">Kategorija:Kognitīvā zinātne</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-mdfwiki" data-wb-siteid="mdfwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-mdfwiki" title="Moksha">mdfwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-mdfwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B5:%D0%A1%D0%BE%D0%B4%D0%B0%D0%B2%D0%BE%D0%BC%D0%B0%D0%BD%D1%8C_%D1%82%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%BC%D0%B0" hreflang="mdf" title="Категорие:Содавомань тонадома">Категорие:Содавомань тонадома</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-mkwiki" data-wb-siteid="mkwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-mkwiki" title="Macedonian">mkwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-mkwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0" hreflang="mk" title="Категорија:Когнитивна наука">Категорија:Когнитивна наука</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-mnwiki" data-wb-siteid="mnwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-mnwiki" title="Mongolian">mnwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-mnwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="mn"><a href="https://mn.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D0%B0%D0%BB:%D0%9E%D1%8E%D1%83%D0%BD_%D1%83%D1%85%D0%B0%D0%B0%D0%BD_%D1%81%D1%83%D0%B4%D0%BB%D0%B0%D0%BB" hreflang="mn" title="Ангилал:Оюун ухаан судлал">Ангилал:Оюун ухаан судлал</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-mswiki" data-wb-siteid="mswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-mswiki" title="Malay">mswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-mswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ms"><a href="https://ms.wikipedia.org/wiki/Kategori:Sains_kognitif" hreflang="ms" title="Kategori:Sains kognitif">Kategori:Sains kognitif</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-mywiki" data-wb-siteid="mywiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-mywiki" title="Burmese">mywiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-mywiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="my"><a href="https://my.wikipedia.org/wiki/Category:%E1%80%A1%E1%80%9E%E1%80%AD%E1%80%A1%E1%80%99%E1%80%BC%E1%80%84%E1%80%BA_%E1%80%9E%E1%80%AD%E1%80%95%E1%80%B9%E1%80%95%E1%80%B6" hreflang="my" title="Category:အသိအမြင် သိပ္ပံ">Category:အသိအမြင် သိပ္ပံ</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-nlwiki" data-wb-siteid="nlwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-nlwiki" title="Dutch">nlwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-nlwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="nl"><a href="https://nl.wikipedia.org/wiki/Categorie:Cognitiewetenschap" hreflang="nl" title="Categorie:Cognitiewetenschap">Categorie:Cognitiewetenschap</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-nnwiki" data-wb-siteid="nnwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-nnwiki" title="Norwegian Nynorsk">nnwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-nnwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="nn"><a href="https://nn.wikipedia.org/wiki/Kategori:Kognitive_vitskapar" hreflang="nn" title="Kategori:Kognitive vitskapar">Kategori:Kognitive vitskapar</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-nowiki" data-wb-siteid="nowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-nowiki" title="Norwegian">nowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-nowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="no"><a href="https://no.wikipedia.org/wiki/Kategori:Kognitiv_vitenskap" hreflang="no" title="Kategori:Kognitiv vitenskap">Kategori:Kognitiv vitenskap</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ocwiki" data-wb-siteid="ocwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ocwiki" title="Occitan">ocwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ocwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="oc"><a href="https://oc.wikipedia.org/wiki/Categoria:Sci%C3%A9ncias_cognitivas" hreflang="oc" title="Categoria:Sciéncias cognitivas">Categoria:Sciéncias cognitivas</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-plwiki" data-wb-siteid="plwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-plwiki" title="Polish">plwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-plwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="pl"><a href="https://pl.wikipedia.org/wiki/Kategoria:Filozofia_umys%C5%82u_i_kognitywistyka" hreflang="pl" title="Kategoria:Filozofia umysłu i kognitywistyka">Kategoria:Filozofia umysłu i kognitywistyka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ptwiki" data-wb-siteid="ptwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ptwiki" title="Portuguese">ptwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ptwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="pt"><a href="https://pt.wikipedia.org/wiki/Categoria:Ci%C3%AAncias_cognitivas" hreflang="pt" title="Categoria:Ciências cognitivas">Categoria:Ciências cognitivas</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-rowiki" data-wb-siteid="rowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-rowiki" title="Romanian">rowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-rowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ro"><a href="https://ro.wikipedia.org/wiki/Categorie:%C8%98tiin%C8%9B%C4%83_cognitiv%C4%83" hreflang="ro" title="Categorie:Știință cognitivă">Categorie:Știință cognitivă</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ruewiki" data-wb-siteid="ruewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ruewiki" title="Rusyn">ruewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ruewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="rue"><a href="https://rue.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D2%91%D0%BE%D1%80%D1%96%D1%8F:%D0%9A%D0%BE%D2%91%D0%BD%D1%96%D1%82%D1%96%D0%B2%D0%BD%D0%B0_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0" hreflang="rue" title="Катеґорія:Коґнітівна наука">Катеґорія:Коґнітівна наука</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ruwiki" data-wb-siteid="ruwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ruwiki" title="Russian">ruwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ruwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" hreflang="ru" title="Категория:Когнитивные науки">Категория:Когнитивные науки</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-scowiki" data-wb-siteid="scowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-scowiki" title="Scots">scowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-scowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sco"><a href="https://sco.wikipedia.org/wiki/Category:Cognitive_science" hreflang="sco" title="Category:Cognitive science">Category:Cognitive science</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-sewiki" data-wb-siteid="sewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-sewiki" title="Northern Sami">sewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-sewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="se"><a href="https://se.wikipedia.org/wiki/Kategoriija:Kogni%C5%A1uvdnadie%C4%91a" hreflang="se" title="Kategoriija:Kognišuvdnadieđa">Kategoriija:Kognišuvdnadieđa</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-shwiki" data-wb-siteid="shwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-shwiki" title="Serbo-Croatian">shwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-shwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sh"><a href="https://sh.wikipedia.org/wiki/Kategorija:Kognitivna_nauka" hreflang="sh" title="Kategorija:Kognitivna nauka">Kategorija:Kognitivna nauka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-skwiki" data-wb-siteid="skwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-skwiki" title="Slovak">skwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-skwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sk"><a href="https://sk.wikipedia.org/wiki/Kateg%C3%B3ria:Kognit%C3%ADvna_veda" hreflang="sk" title="Kategória:Kognitívna veda">Kategória:Kognitívna veda</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-slwiki" data-wb-siteid="slwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-slwiki" title="Slovenian">slwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-slwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sl"><a href="https://sl.wikipedia.org/wiki/Kategorija:Kognitivna_znanost" hreflang="sl" title="Kategorija:Kognitivna znanost">Kategorija:Kognitivna znanost</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-sqwiki" data-wb-siteid="sqwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-sqwiki" title="Albanian">sqwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-sqwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sq"><a href="https://sq.wikipedia.org/wiki/Kategoria:Shkenc%C3%AB_kognitive" hreflang="sq" title="Kategoria:Shkencë kognitive">Kategoria:Shkencë kognitive</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-srwiki" data-wb-siteid="srwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-srwiki" title="Serbian">srwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-srwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" hreflang="sr" title="Категорија:Когнитивне науке">Категорија:Когнитивне науке</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-svwiki" data-wb-siteid="svwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-svwiki" title="Swedish">svwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-svwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sv"><a href="https://sv.wikipedia.org/wiki/Kategori:Kognitionsvetenskap" hreflang="sv" title="Kategori:Kognitionsvetenskap">Kategori:Kognitionsvetenskap</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-tawiki" data-wb-siteid="tawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-tawiki" title="Tamil">tawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-tawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81:%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%A4%E0%AE%BF%E0%AE%B1_%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" hreflang="ta" title="பகுப்பு:அறிதிற அறிவியல்">பகுப்பு:அறிதிற அறிவியல்</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-thwiki" data-wb-siteid="thwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-thwiki" title="Thai">thwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-thwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" hreflang="th" title="หมวดหมู่:ประชานศาสตร์">หมวดหมู่:ประชานศาสตร์</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-tkwiki" data-wb-siteid="tkwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-tkwiki" title="Turkmen">tkwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-tkwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="tk"><a href="https://tk.wikipedia.org/wiki/Kategori%C3%BDa:Kognitiw_ylymlar" hreflang="tk" title="Kategoriýa:Kognitiw ylymlar">Kategoriýa:Kognitiw ylymlar</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-tlwiki" data-wb-siteid="tlwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-tlwiki" title="Tagalog">tlwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-tlwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="tl"><a href="https://tl.wikipedia.org/wiki/Kategorya:Agham_kognitibo" hreflang="tl" title="Kategorya:Agham kognitibo">Kategorya:Agham kognitibo</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-trwiki" data-wb-siteid="trwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-trwiki" title="Turkish">trwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-trwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="tr"><a href="https://tr.wikipedia.org/wiki/Kategori:Bili%C5%9Fsel_bilim" hreflang="tr" title="Kategori:Bilişsel bilim">Kategori:Bilişsel bilim</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ttwiki" data-wb-siteid="ttwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ttwiki" title="Tatar">ttwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ttwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D3%A9%D1%80%D0%BA%D0%B5%D0%BC:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2_%D1%84%D3%99%D0%BD%D0%BD%D3%99%D1%80" hreflang="tt" title="Төркем:Когнитив фәннәр">Төркем:Когнитив фәннәр</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ukwiki" data-wb-siteid="ukwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ukwiki" title="Ukrainian">ukwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ukwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D1%96%D1%82%D0%B8%D0%B2%D0%BD%D1%96_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" hreflang="uk" title="Категорія:Когнітивні науки">Категорія:Когнітивні науки</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-urwiki" data-wb-siteid="urwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-urwiki" title="Urdu">urwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-urwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ur"><a href="https://ur.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%DB%81:%D8%B9%D9%84%D9%85_%D8%A7%D8%AF%D8%B1%D8%A7%DA%A9" hreflang="ur" title="زمرہ:علم ادراک">زمرہ:علم ادراک</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-viwiki" data-wb-siteid="viwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-viwiki" title="Vietnamese">viwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-viwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="vi"><a href="https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Khoa_h%E1%BB%8Dc_nh%E1%BA%ADn_th%E1%BB%A9c" hreflang="vi" title="Thể loại:Khoa học nhận thức">Thể loại:Khoa học nhận thức</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-xmfwiki" data-wb-siteid="xmfwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-xmfwiki" title="Mingrelian">xmfwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-xmfwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:%E1%83%99%E1%83%9D%E1%83%92%E1%83%9C%E1%83%98%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9B%E1%83%94%E1%83%9C%E1%83%AA%E1%83%90%E1%83%A0%E1%83%9D%E1%83%91%E1%83%90" hreflang="xmf" title="კატეგორია:კოგნიტური მენცარობა">კატეგორია:კოგნიტური მენცარობა</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-zh_yuewiki" data-wb-siteid="zh_yuewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-zh_yuewiki" title="Cantonese">zh_yuewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-zh_yuewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="yue"><a href="https://zh-yue.wikipedia.org/wiki/Category:%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8" hreflang="yue" title="Category:認知科學">Category:認知科學</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-zhwiki" data-wb-siteid="zhwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-zhwiki" title="Chinese">zhwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-zhwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="zh"><a href="https://zh.wikipedia.org/wiki/Category:%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8" hreflang="zh" title="Category:認知科學">Category:認知科學</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikibooks">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikibooks">Wikibooks<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikinews">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikinews">Wikinews<span class="wikibase-sitelinkgroupview-counter">(2 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-arwikinews" data-wb-siteid="arwikinews">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-arwikinews" title="Arabic">arwikinews</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-arwikinews"><span class="wikibase-sitelinkview-page" dir="auto" lang="ar"><a href="https://ar.wikinews.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" hreflang="ar" title="تصنيف:علوم استعرافية">تصنيف:علوم استعرافية</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-frwikinews" data-wb-siteid="frwikinews">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-frwikinews" title="French">frwikinews</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-frwikinews"><span class="wikibase-sitelinkview-page" dir="auto" lang="fr"><a href="https://fr.wikinews.org/wiki/Cat%C3%A9gorie:Sciences_cognitives" hreflang="fr" title="Catégorie:Sciences cognitives">Catégorie:Sciences cognitives</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikiquote">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiquote">Wikiquote<span class="wikibase-sitelinkgroupview-counter">(4 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-azwikiquote" data-wb-siteid="azwikiquote">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-azwikiquote" title="Azerbaijani">azwikiquote</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-azwikiquote"><span class="wikibase-sitelinkview-page" dir="auto" lang="az"><a href="https://az.wikiquote.org/wiki/Kateqoriya:Koqnitiv_elml%C9%99r" hreflang="az" title="Kateqoriya:Koqnitiv elmlər">Kateqoriya:Koqnitiv elmlər</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-frwikiquote" data-wb-siteid="frwikiquote">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-frwikiquote" title="French">frwikiquote</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-frwikiquote"><span class="wikibase-sitelinkview-page" dir="auto" lang="fr"><a href="https://fr.wikiquote.org/wiki/Cat%C3%A9gorie:Sciences_cognitives" hreflang="fr" title="Catégorie:Sciences cognitives">Catégorie:Sciences cognitives</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ruwikiquote" data-wb-siteid="ruwikiquote">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ruwikiquote" title="Russian">ruwikiquote</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ruwikiquote"><span class="wikibase-sitelinkview-page" dir="auto" lang="ru"><a href="https://ru.wikiquote.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" hreflang="ru" title="Категория:Когнитивные науки">Категория:Когнитивные науки</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ukwikiquote" data-wb-siteid="ukwikiquote">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ukwikiquote" title="Ukrainian">ukwikiquote</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ukwikiquote"><span class="wikibase-sitelinkview-page" dir="auto" lang="uk"><a href="https://uk.wikiquote.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D1%96%D1%82%D0%B8%D0%B2%D0%BD%D1%96_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" hreflang="uk" title="Категорія:Когнітивні науки">Категорія:Когнітивні науки</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikisource">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikisource">Wikisource<span class="wikibase-sitelinkgroupview-counter">(1 entry)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-azwikisource" data-wb-siteid="azwikisource">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-azwikisource" title="Azerbaijani">azwikisource</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-azwikisource"><span class="wikibase-sitelinkview-page" dir="auto" lang="az"><a href="https://az.wikisource.org/wiki/Kateqoriya:Koqnitiv_elml%C9%99r" hreflang="az" title="Kateqoriya:Koqnitiv elmlər">Kateqoriya:Koqnitiv elmlər</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikiversity">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiversity">Wikiversity<span class="wikibase-sitelinkgroupview-counter">(3 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-arwikiversity" data-wb-siteid="arwikiversity">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-arwikiversity" title="Arabic">arwikiversity</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-arwikiversity"><span class="wikibase-sitelinkview-page" dir="auto" lang="ar"><a href="https://ar.wikiversity.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%83%D9%84%D9%8A%D8%A9_%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A5%D8%AF%D8%B1%D8%A7%D9%83" hreflang="ar" title="تصنيف:كلية علم الإدراك">تصنيف:كلية علم الإدراك</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-enwikiversity" data-wb-siteid="enwikiversity">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-enwikiversity" title="English">enwikiversity</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-enwikiversity"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://en.wikiversity.org/wiki/Category:Cognitive_science" hreflang="en" title="Category:Cognitive science">Category:Cognitive science</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-frwikiversity" data-wb-siteid="frwikiversity">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-frwikiversity" title="French">frwikiversity</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-frwikiversity"><span class="wikibase-sitelinkview-page" dir="auto" lang="fr"><a href="https://fr.wikiversity.org/wiki/Cat%C3%A9gorie:Sciences_cognitives" hreflang="fr" title="Catégorie:Sciences cognitives">Catégorie:Sciences cognitives</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikivoyage">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikivoyage">Wikivoyage<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wiktionary">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wiktionary">Wiktionary<span class="wikibase-sitelinkgroupview-counter">(1 entry)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-azwiktionary" data-wb-siteid="azwiktionary">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-azwiktionary" title="Azerbaijani">azwiktionary</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-azwiktionary"><span class="wikibase-sitelinkview-page" dir="auto" lang="az"><a href="https://az.wiktionary.org/wiki/Kateqoriya:Koqnitiv_elml%C9%99r" hreflang="az" title="Kateqoriya:Koqnitiv elmlər">Kateqoriya:Koqnitiv elmlər</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="special">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-special">Other sites<span class="wikibase-sitelinkgroupview-counter">(1 entry)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q7129786" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-commonswiki" data-wb-siteid="commonswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-commonswiki" title="Commons">commonswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-commonswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://commons.wikimedia.org/wiki/Category:Cognitive_science" hreflang="en" title="Category:Cognitive science">Category:Cognitive science</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div></div></div></div>
+</div>
+<!-- Saved in parser cache with key wikidatawiki:pcache:idhash:7026156-0!wb=3 and timestamp 20190408151653 and revision id 907234267
+ -->
+<noscript><img src="//www.wikidata.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://www.wikidata.org/w/index.php?title=Q7129786&amp;oldid=907234267">https://www.wikidata.org/w/index.php?title=Q7129786&amp;oldid=907234267</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-uls" class="active"><a href="#" class="uls-trigger">English</a></li><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Q7129786" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Q7129786" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Q7129786" title="View the item [c]" accesskey="c">Item</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Q7129786&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Q7129786">Read</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Q7129786&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikidata" title="Search Wikidata [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikidata:Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikidata:Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-portal"><a href="/wiki/Special:MyLanguage/Project:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-villagepump"><a href="/wiki/Wikidata:Project_chat">Project chat</a></li><li id="n-special-newitem"><a href="/wiki/Special:NewItem">Create a new Item</a></li><li id="n-special-newlexeme"><a href="/wiki/Special:NewLexeme">Create a new Lexeme</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random item [x]" accesskey="x">Random item</a></li><li id="n-queryservice"><a href="//query.wikidata.org/" title="Service that enables getting queries for the data of Wikidata">Query Service</a></li><li id="n-mobile-frontend-nearby-title"><a href="/wiki/Special:Nearby">Nearby</a></li><li id="n-help"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_wikidata.org&amp;uselang=en" title="Support us">Donate</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-electronPdfService-sidebar-portlet-heading" aria-labelledby="p-electronPdfService-sidebar-portlet-heading-label">
+			<h3 id="p-electronPdfService-sidebar-portlet-heading-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="electron-print_pdf"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Q7129786&amp;action=show-download-screen">Download as PDF</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Q7129786" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Q7129786" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Q7129786&amp;oldid=907234267" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Q7129786&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wb-concept-uri"><a href="http://www.wikidata.org/entity/Q7129786" title="URI that identifies the concept described by this Item">Concept URI</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Q7129786&amp;id=907234267" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 April 2019, at 15:16.</li>
+								<li id="footer-info-copyright">All structured data from the main, property and lexeme namespaces is available under the <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; text in the other namespaces is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Special:MyLanguage/Project:Introduction" title="Special:MyLanguage/Project:Introduction">About Wikidata</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Special:MyLanguage/Project:General_disclaimer" title="Special:MyLanguage/Project:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//m.wikidata.org/w/index.php?title=Q7129786&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-data-access"><a href="/wiki/Special:MyLanguage/Wikidata:Data_access">Data access</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1331"});});</script>
+</body>
+</html>

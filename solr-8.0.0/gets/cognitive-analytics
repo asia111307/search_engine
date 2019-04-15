@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cognitive Analytics - combining Artificial Intelligence (AI) and Data Analytics  - Cognitive Analytics Research Lab</title>
+    <meta name="description" content="Cognitive Analytics applies human like intelligence to certain tasks." />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@UlsterUni">
+    <meta name="twitter:title" content="Cognitive Analytics - combining Artificial Intelligence (AI) and Data Analytics ">
+    <meta name="twitter:description" content="Cognitive Analytics applies human like intelligence to certain tasks.">
+    <meta name="twitter:image" content="https://www.ulster.ac.uk/__data/assets/image/0006/152925/RS506_PR2-robot-ISRC-002-scr.jpg">
+    <meta property="og:url" content="https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Cognitive Analytics - combining Artificial Intelligence (AI) and Data Analytics " />
+    <meta property="og:description" content="Cognitive Analytics applies human like intelligence to certain tasks." />
+    <meta property="og:image" content="https://www.ulster.ac.uk/__data/assets/image/0006/152925/RS506_PR2-robot-ISRC-002-scr.jpg" />
+    <meta property="og:image:width" content="850" />
+    <meta property="og:image:height" content="566" />
+    <link rel="alternate" type="application/rss+xml" title="Ulster University News" href="https://www.ulster.ac.uk/news/rss" />
+    <link rel="alternate" href="https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics" hreflang="en-GB" />
+    <link rel="canonical" href="https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics">
+    <link rel="apple-touch-icon" sizes="57x57" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="shortcut icon" type="image/x-icon" href="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/favicon.ico" />
+    <meta name="msapplication-TileColor" content="#1a2a4f">
+    <meta name="msapplication-TileImage" content="//cdn.ulster.ac.uk/home/ulster-frontend/favicons/mstile-144x144.png">
+    
+      <link rel="stylesheet" href="https://cdn.ulster.ac.uk/home/ulster-frontend/beta/assets/css/app.css?v=6.12.8">
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-58988308-1', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('send', 'pageview');
+    </script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGFFD8');</script>
+  </head>
+  <body id="body-element">
+    <a href="#navigation" class="hide">Skip to navigation</a>
+    <a href="#main-content" class="hide">Skip to content</a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGFFD8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<div class="grid-container hide-for-small-only">
+    <div class="grid-x">
+  	<div class="cell medium-6 large-6">
+  	    
+  <a class="brand service" href="https://www.ulster.ac.uk/cognitive-analytics-research"><img alt="Ulster University" class="logo" src="//cdn.ulster.ac.uk/home/ulster-frontend/img/ulster-university.svg"><span>Cognitive Analytics Research Lab</span></a>
+</div>
+<div class="cell medium-6 large-6 text-right m-t-10">
+        <a href="https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment" class="button secondary">Faculty of Computing, Engineering &amp; the Built Environment</a>
+        <a href="https://www.ulster.ac.uk" class="button secondary">Visit ulster.ac.uk</a>
+    </div>
+</div>
+
+<ul class="menu global-nav">
+	<li class="menu-item small" style="width:10%">
+		<a href="https://www.ulster.ac.uk/cognitive-analytics-research">Home<span class="show-for-sr"> - Ulster University website homepage</span></a>
+	</li>
+	<li class="menu-item" style="width:18%">
+		<a href="https://www.ulster.ac.uk/cognitive-analytics-research/about">About<span class="show-for-sr"></span></a>
+	</li>
+	<li class="menu-item" style="width:18%">
+		<a href="https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics">Cognitive Analytics<span class="show-for-sr"></span></a>
+	</li>
+	<li class="menu-item" style="width:18%">
+		<a href="https://www.ulster.ac.uk/cognitive-analytics-research/opportunities-for-business">Business Opportunities<span class="show-for-sr"></span></a>
+	</li>
+	<li class="menu-item" style="width:18%">
+		<a href="https://www.ulster.ac.uk/cognitive-analytics-research/research">Research<span class="show-for-sr"></span></a>
+	</li>
+		<li class="menu-item" style="width:18%">
+		<a href="https://www.ulster.ac.uk/cognitive-analytics-research/contact">Contact<span class="show-for-sr"></span></a>
+	</li>
+</ul>
+
+
+</div>
+<div id="#main-content"></div>
+
+<div class="show-for-small-only">
+	<div class="multilevel-offcanvas off-canvas position-right is-transition-push is-closed" data-off-canvas="" id="offCanvasRight" aria-hidden="true" data-e="fmy9un-e">
+		<ul class="vertical menu grid-x grid-padding-y" data-accordion-menu="" role="tree" aria-multiselectable="true" data-e="kawxeu-e">
+				<li class="menu-item small" style="width:10%">
+       <a href="https://www.ulster.ac.uk/cognitive-analytics-research">Home<span class="show-for-sr"> - Ulster University website homepage</span></a>
+	</li>
+	<li class="h4" role="treeitem">
+	<a href="https://www.ulster.ac.uk/cognitive-analytics-research/about">About<span class="show-for-sr"></span></a>
+	</li>
+	<li class="h4" role="treeitem">
+		<a href="https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics">Cognitive Analytics<span class="show-for-sr"></span></a>
+	</li>
+	<li class="h4" role="treeitem">
+		<a href="https://www.ulster.ac.uk/cognitive-analytics-research/opportunities-for-business">Business Opportunities<span class="show-for-sr"></span></a>
+	</li>
+	<li class="h4" role="treeitem">
+	<a href="https://www.ulster.ac.uk/cognitive-analytics-research/research">Research<span class="show-for-sr"></span></a>
+	</li>
+	<li class="h4" role="treeitem">
+	<a href="https://www.ulster.ac.uk/cognitive-analytics-research/contact">Contact<span class="show-for-sr"></span></a>
+	</li>
+		</ul>
+		<ul class="vertical menu">
+			<li class="h4">
+				<a href="https://twitter.com/StudyAtUlster"><span class="fa fa-twitter-square" aria-hidden="true"></span> Twitter<span class="show-for-sr"> account for Ulster University</span></a>
+			</li>
+			<li class="h4">
+				<a href="https://www.facebook.com/studyatulster"><span class="fa fa-facebook-square" aria-hidden="true"></span> Facebook<span class="show-for-sr"> account for Ulster University</span></a>
+			</li>
+			<li class="h4">
+				<a href="https://www.flickr.com/photos/universityofulster"><span class="fa fa-flickr" aria-hidden="true"></span> Flickr<span class="show-for-sr"> account for Ulster University</span></a>
+			</li>
+			<li class="h4">
+				<a href="https://www.youtube.com/user/StudyAtUlster"><span class="fa fa-youtube-square" aria-hidden="true"></span> YouTube<span class="show-for-sr"> account for Ulster University</span></a>
+			</li>
+		</ul>
+	</div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+	<div class="off-canvas-content" data-off-canvas-content="">
+		<div class="nav-bar">
+			<div class="nav-bar-left">
+				<a class="nav-bar-logo" href="https://www.ulster.ac.uk"><img alt="Ulster University" class="logo" src="//cdn.ulster.ac.uk/home/ulster-frontend/img/ulster-university-reverse.svg"></a>
+			</div>
+			<div class="nav-bar-right">
+				<ul class="menu">
+					<li></li>
+					<li><button class="offcanvas-trigger" data-open="offCanvasRight" type="button" aria-expanded="false" aria-controls="offCanvasRight"><span class="offcanvas-trigger-text hide-for-small-only">Menu</span>
+					<div class="hamburger">
+						<span class="line"></span> <span class="line"></span> <span class="line"></span>
+					</div></button></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+  
+
+
+  
+<div class="hide-for-small-only">
+	<div class="grid-container">
+		<div class="grid-x hide-bg-on-small" style="background-image:url('https://www.ulster.ac.uk/__data/assets/image/0006/152925/RS506_PR2-robot-ISRC-002-scr.jpg');background-position:0 center;background-repeat:no-repeat;background-size:cover;">
+			<div class="cell small-12 medium-4 large-4 white-text p-t-90 p-b-90 p-small-t-10 p-small-b-0 p-medium-t-20">
+				<div class="p-l-0 p-medium-l-0 p-small-t-0 p-small-b-0 p-small-l-0 p-small-r-0 m-small-b-10 m-t-30 m-b-30 m-small-t-0 m-small-b-0">
+					<div class="p-l-20 p-r-20 p-t-10 p-b-10 m-medium-r-0 bg-bright-blue">
+						<p class="h1 bl">Cognitive Analytics - combining Artificial Intelligence (AI) and Data Analytics </p>
+						<p class="m-b-10">Cognitive Analytics applies human like intelligence to certain tasks.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+  
+
+   
+<div class="grid-container">
+  <nav aria-label="You are here:" role="navigation">
+    <ul class="breadcrumbs">
+                <li><a href="https://www.ulster.ac.uk/cognitive-analytics-research">Cognitive Analytics Research Lab</a></li>
+          
+                  <li><a href="https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics">Cognitive Analytics</a></li>
+          
+            </ul>
+  </nav>
+  <p class="show-for-small-only m-b-0" id="uls-mobile-side-button">
+    <a data-toggle="uls-mobile-side-container-show" class="m-t-10 m-b-0" style="text-align:left !important; font-size:18px; border-top:1px solid #000; border-bottom:1px solid #000; display:block; padding:10px 0; color: #000;">
+      Cognitive Analytics - combining Artificial Intelligence (AI) and Data Analytics 
+      <span class="fa fa-angle-down text-right m-r-10 m-t-5" aria-hidden="true" id="uls-mobile-side-button-angle" style="float:right;"></span>
+    </a>
+  </p>
+  <div class="show-for-small-only">
+    <div class="shadow hide" data-toggler=".hide" id="uls-mobile-side-container-show">
+      <ul class="uls-side vertical menu" id="uls-mobile-side-container"></ul>
+    </div>
+  </div>
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="cell small-12 medium-3 large-3 small-order-3 hide-for-small-only">
+      <div class="radius bordered shadow card">
+        <ul class="uls-side vertical menu" id="section-nav">
+                              							              <li class="">
+                <a href="https://www.ulster.ac.uk/cognitive-analytics-research/about">
+                  About                  <span class="show-for-sr"> - view the About webpages</span>
+                </a>
+                
+                							                </li>
+                            <li class="is-active">
+                <a href="https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics">
+                  Cognitive Analytics                  <span class="show-for-sr"> - view the Cognitive Analytics webpages</span>
+                </a>
+                
+                							                </li>
+                            <li class="">
+                <a href="https://www.ulster.ac.uk/cognitive-analytics-research/opportunities-for-business">
+                  Opportunities for business                  <span class="show-for-sr"> - view the Opportunities for business webpages</span>
+                </a>
+                
+                							                </li>
+                            <li class="">
+                <a href="https://www.ulster.ac.uk/cognitive-analytics-research/research">
+                  Research                  <span class="show-for-sr"> - view the Research webpages</span>
+                </a>
+                
+                							                </li>
+                            <li class="">
+                <a href="https://www.ulster.ac.uk/cognitive-analytics-research/contact">
+                  Contact                  <span class="show-for-sr"> - view the Contact webpages</span>
+                </a>
+                
+                							                </li>
+                            <li class="">
+                <a href="https://www.ulster.ac.uk/cognitive-analytics-research/msc-data-science">
+                  MSc Data Science                  <span class="show-for-sr"> - view the MSc Data Science webpages</span>
+                </a>
+                
+                							                </li>
+              						        </ul>
+      </div>
+    </div>
+    <div id="top"></div>
+<div class="cell small-12 medium-9 large-9 small-order-4 medium-order-3 large-order-3">
+  <div class="grid-x grid-padding-x">
+            <div class="cell large-12">
+                <h1 class="bl">Cognitive Analytics - combining Artificial Intelligence (AI) and Data Analytics </h1>
+                      <p class="lead show-for-small-only">Cognitive Analytics applies human like intelligence to certain tasks.</p>
+                </div>
+    </div>
+    <hr>
+    <div class="wysiwyg" id="wysiwyg">
+      <p class="intro">Every day we create 2.5 quintillion bytes of data - 90% of the data in the world today has been created in the last two years alone.</p><p>This data comes from everywhere: sensors used to gather climate information, posts to social media sites, digital pictures and videos, purchase transaction records, and mobile phone GPS signals to name a few. Such data has been described as the &ldquo;oil&rdquo; of the 21st Century digital economy.</p><p>In this context Data Analytics is an important economic driver both nationally and internationally encompassing the processes of inspecting, cleaning, transforming, and modelling data with the goal of discovering useful information, suggesting conclusions, and supporting decision-making.</p><p>Data Analytics has evolved over the years from Descriptive (what has happened) to Diagnostic (why did it happen) to Predictive (what could happen) to Prescriptive (what action could be taken). The next big paradigm shift will be towards Cognitive Analytics which will exploit the massive advances in High Performance Computing by combining advanced Artificial Intelligence and Machine Learning techniques with data analytics approaches.</p><p><img src="https://www.ulster.ac.uk/__data/assets/image/0016/153232/Analytics-approaches-abound.jpg" alt="" /></p><h2>Harnessing the Power of Cognitive Analytics</h2><p>Cognitive Analytics applies human-like intelligence to certain tasks, and brings together a number of intelligent technologies, including semantics, artificial intelligence algorithms, deep learning and machine learning. Applying such techniques, a cognitive application can get smarter and more effective over time by learning from its interactions with data and with humans.</p><h2>Creating Competitive Advantage</h2><p>A cognitive system can create competitive advantage to business, providing real-time answers with the ability to search through massive amounts of information and making sense of context, and computing the most likely answer. The benefits are considerable, opening up opportunities to mine untapped data sources; provide highly personalised services; improve service consistency and quality; and enhance and amplify knowledge sharing.</p><p>Ulster University is uniquely placed to grasp this opportunity as it is one of only a very small number of Universities in the world that has a 15-year track record of research excellence into neuro-inspired cognitive analytics through the £20m Intelligent Systems Research Centre.</p>
+    </div>
+  </div>
+</div>  </div>
+</div>
+
+
+<footer>
+	<div class="footer" id="global-footer">
+		<div class="bg-navy">
+			<div class="grid-container p-b-20">
+				<div class="grid-x grid-padding-y grid-padding-x white-text">
+					<div class="cell large-12">
+						<h2 class="h1 separator-left">Elsewhere on Ulster</h2>
+					</div>
+					<div class="cell medium-3 large-3">
+						<h3>Faculties</h3>
+					</div>
+					<div class="cell medium-9 large-9">
+						<div class="cell medium-12 large-12">
+							<div class="grid-x grid-padding-y">
+								<div class="cell medium-6 large-6">
+									<h4 class="separator-left"><a href="https://www.ulster.ac.uk/faculties/arts-humanities-and-social-sciences">Arts, Humanities &amp; Social Sciences</a></h4>
+								</div>
+								<div class="cell medium-6 large-6">
+									<h4 class="separator-left"><a href="https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment">Computing, Engineering and the Built Environment</a></h4>
+								</div>
+								<div class="cell medium-6 large-6">
+									<h4 class="separator-left"><a href="https://www.ulster.ac.uk/faculties/life-and-health-sciences">Life and Health Sciences</a></h4>
+								</div>
+								<div class="cell medium-6 large-6">
+									<h4 class="separator-left"><a href="https://www.ulster.ac.uk/faculties/ulster-university-business-school">Ulster University Business School</a></h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="grid-container">
+			<div class="grid-x grid-padding-y grid-padding-x">
+				<div class="cell medium-3 large-3">
+					<h3 class="h6">Courses &amp; Research</h3>
+					<ul class="angle-right">
+						<li>
+							<a href="https://www.ulster.ac.uk/courses/course-finder">Search for courses</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/courses/course-finder?query=&amp;f.Entry_year|entryyear=202021&amp;f.Level|Y=Undergraduate">Undergraduate</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/courses/course-finder?query=Postgraduate&amp;f.Entry_year|entryyear=201920&amp;f.Level|Y=Postgraduate">Postgraduate</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/courses/course-finder?query=&amp;f.Attendance|modept=Part-time">Part-time</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/courses/course-finder?query=&amp;f.Entry_year|entryyear=201819&amp;f.Level|coursetype=Short+courses+and+CPD">Short courses</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/courses?query=&f.Level|elearning=eLearning">eLearning</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/research">Research &amp; Impact</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/doctoralcollege">Doctoral College</a>
+						</li>
+						<li>
+							<a href="https://pure.ulster.ac.uk">PURE</a>
+						</li>
+					</ul>
+				</div>
+				<div class="cell medium-3 large-3">
+					<h3 class="h6">Campus locations</h3>
+					<ul class="angle-right">
+						<li>
+							<a href="https://www.ulster.ac.uk/ulster-life/campuses/belfast">Belfast</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/ulster-life/campuses/coleraine">Coleraine</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/ulster-life/campuses/jordanstown">Jordanstown</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/ulster-life/campuses/magee">Magee</a>
+						</li>
+						<li>
+							<a href="//qa.ulster.ac.uk">London and Birmingham</a>
+						</li>
+					</ul>
+					<h3 class="h6">Campus facilities</h3>
+					<ul class="angle-right">
+						<li>
+							<a href="https://www.ulster.ac.uk/accommodation">Accommodation</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/sport">Sports Services</a>
+						</li>
+						<li>
+							<a href="http://library.ulster.ac.uk/">Library</a>
+						</li>
+					</ul>
+				</div>
+				<div class="cell medium-3 large-3">
+					<h3 class="h6">About Ulster University</h3>
+					<ul class="angle-right">
+						<li>
+							<a href="http://www.ulster.ac.uk/aboutus">About Ulster University</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/aboutus/contact-us">Contact Us</a>
+						</li>
+						<li>
+							<a href="http://www.ulster.ac.uk/jobs">Job opportunities</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/about/profile/key-calendar-dates">Key calendar dates</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/faculties">Faculties</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/news">News</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/events">Events</a>
+						</li>
+					</ul>
+				</div>
+				<div class="cell medium-3 large-3">
+					<h3 class="h6">Other sites</h3>
+					<ul class="angle-right">
+						<li>
+							<a href="https://www.ulster.ac.uk/alumniandsupporters">Alumni &amp; Supporters</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/brexit">Brexit</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/confucius">Confucius Institute</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/finance">Finance</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/flexible-education">Flexible Education</a>
+						</li>
+						<li>
+						<li>
+							<a href="https://www.ulster.ac.uk/isd">ISD</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/hr">People &amp; Culture</a>
+						</li>
+						<li>
+							<a href="https://www.ulster.ac.uk/studentsupport">Student Support</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="bg-light-grey">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-y grid-padding-x">
+					<div class="cell medium-6 large-6">
+						<div class="grid-x grid-padding-y grid-padding-x">
+							<div class="cell medium-6 large-6">
+								<h3 class="h5"><a title="Ulster University on Twitter" href="https://twitter.com/StudyAtUlster"><span aria-hidden="true" class="fa fa-twitter-square"></span> Twitter</a></h3>
+							</div>
+							<div class="cell medium-6 large-6">
+								<h3 class="h5"><a title="Ulster University on Facebook" href="https://www.facebook.com/studyatulster"><span aria-hidden="true" class="fa fa-facebook-square"></span> Facebook</a></h3>
+							</div>
+							<div class="cell medium-6 large-6">
+								<h3 class="h5"><a title="Ulster University on Flickr" href="https://www.flickr.com/photos/universityofulster"><span aria-hidden="true" class="fa fa-flickr"></span> Flickr</a></h3>
+							</div>
+							<div class="cell medium-6 large-6">
+								<h3 class="h5"><a title="Ulster University on YouTube" href="https://www.youtube.com/user/StudyAtUlster"><span aria-hidden="true" class="fa fa-youtube-square"></span> YouTube</a></h3>
+							</div>
+						</div>
+					</div>
+					<div class="cell medium-6 large-6">
+						<div class="grid-x grid-padding-y grid-padding-x">
+							<div class="cell medium-6 large-6 text-center"><img alt="THE Awards 2017 Top 150" class="thumbnail" height="112" src="//cdn.ulster.ac.uk/home/ulster-frontend/img/the-young-2017.jpg" width="228"></div>
+							<div class="cell medium-6 large-6 text-center"><img alt="THE Awards 2016 Most Improved Student Experience" class="thumbnail" height="112" src="//cdn.ulster.ac.uk/home/ulster-frontend/img/the-awards-2016.jpg" width="160"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bg-light-grey">
+			<div class="grid-container">
+				<div class="grid-x">
+					<div class="cell medium-12 large-12">
+						<hr>
+						<ul class="menu">
+							<li>
+								<a href="https://www.ulster.ac.uk/aboutus/cookies">Cookies &amp; Privacy</a>
+							</li>
+							<li>
+								<a href="https://www.ulster.ac.uk/aboutus/copyright">Copyright</a>
+							</li>
+							<li>
+								<a href="http://www.ulster.ac.uk/secretary/policyimplementation/foi.html">Freedom of Information</a>
+							</li>
+						</ul>
+						<hr>
+					</div>
+					<div class="cell medium-12 large-12">
+						<p>&copy; Copyright 2019 Ulster University<br>
+						Ulster University is a registered charity (registered with the Charity Commission for Northern Ireland NIC100166).</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script src="//cdn.ulster.ac.uk/home/ulster-frontend/beta/assets/js/app.js?v=3.9.5" async></script><script type="application/ld+json">// <![CDATA[
+{
+  "@context": "http://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "url": "https://www.ulster.ac.uk",
+      "logo": "https://www.ulster.ac.uk/__data/assets/image/0013/265/logo-uu-dark.png"
+    },
+    {
+      "@type": "WebSite",
+      "url": "https://www.ulster.ac.uk",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.ulster.ac.uk/search?query={search_term_string}",
+        "query-input": "required name=search_term_string"
+       }
+    },
+{
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.ulster.ac.uk/cognitive-analytics-research",
+"name": "Cognitive Analytics Research Lab"
+}
+},
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics",
+"name": "Cognitive Analytics"
+}
+}
+]
+}]
+}
+// ]]></script>  </body>
+</html>

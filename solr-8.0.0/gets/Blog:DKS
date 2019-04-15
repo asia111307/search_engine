@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Blog:DKS - EduTech Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Blog","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":104,"wgPageName":"Blog:DKS","wgTitle":"DKS","wgCurRevisionId":48145,"wgRevisionId":48145,"wgArticleId":4701,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Blog:DKS","wgRelevantArticleId":4701,"wgRequestId":"aad0825c76ccaf48402cd39b","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"srfFilteredConfig":null,"sdgDownArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/right-arrow.png","wgHeaderTabsTabIndexes":[],"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/mediawiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","openlayers","googlemaps3"],"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.vector.styles.responsive":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.feedlink":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1wt4m49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","ext.wikilog","ext.headertabs","ext.headertabs.large","ext.categoryTree","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.smw.style","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.feedlink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.responsive&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" href="/mediawiki/index.php?title=Blog:DKS&amp;view=archives" type="text/html" title="Archives"/>
+<link rel="alternate" type="application/rdf+xml" title="Blog:DKS" href="/mediawiki/index.php?title=Special:ExportRDF/Blog:DKS&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="EduTech Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//edutechwiki.unige.ch/mediawiki/api.php?action=rsd"/>
+<link rel="license" href="/en/EduTech_Wiki:Copyrights"/>
+<!--[if lt IE 9]><script src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-104 ns-subject page-Blog_DKS rootpage-Blog_DKS skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Blog:DKS</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From EduTech Wiki</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Welcome to <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a>'s Wikilog about educational technology, technologies, and related subjects.
+</p><p>It is used both as a <b>personal</b> blog and for announcing <b>EdutechWiki news</b> (for <a href="/en/Old_news" title="Old news">older news</a> we just used a wiki page).
+</p><p>Other users too can and should have a wikilog, but it never happened so far....
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20190402005403
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.006 seconds
+Real time usage: 0.007 seconds
+Preprocessor visited node count: 1/1000000
+Preprocessor generated node count: 4/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 1/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+ExtRegexFun count: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key edutechwiki_en:pcache:idhash:4701-0!canonical and timestamp 20190402005403 and revision id 48145
+ -->
+<div class="wl-wrapper"><div class="wl-roll visualClear">
+<div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Upgrades_-_2018-09-13" title="Blog:DKS/Upgrades - 2018-09-13">Upgrades - 2018-09-13</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>We upgraded this wiki to version 1.31 and the server machine to Ubuntu 18 LTS
+</p><p>The upgraded wiki seems to work fine including its most important extensions. Some minor extensions do not work and have been disabled and there may be glitches that we will iron out over time. For example this wikilog extension doesn't work completely. In order to publish an article one has to manually insert a template...
+</p><p>My <a href="/en/Mediawiki_installation" title="Mediawiki installation">Mediawiki installation</a> notes have been updated a bit. Sorry, I don't have time for a more professional documentation. Also of some interest: <a href="/en/VisualEditor" title="VisualEditor">VisualEditor</a> and <a href="/en/Mediawiki_collection_extension_installation" title="Mediawiki collection extension installation">Mediawiki collection extension installation‎‎</a>. Both do seem to work, globally speaking.
+</p><p><br />
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 13 September 2018 at 18:08 (GMT), <a href="/en/Blog_talk:DKS/Upgrades_-_2018-09-13" title="Blog talk:DKS/Upgrades - 2018-09-13">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Changes_in_the_search_functionality_and_upgrades_in_the_near_future" title="Blog:DKS/Changes in the search functionality and upgrades in the near future">Changes in the search functionality and upgrades in the near future</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>I added an <a class="external text" href="https://www.mediawiki.org/wiki/Extension:GoogleSiteSearch">extension</a> to include google search results on top of the normal wiki search results. Let's see if this works better.
+</p><p>I probably will upgrade the wiki around mid-august to version 1.31 That will mean some downtime (on and off during a day or two).
+</p><p>Finally, this summer I also will try to upgrade some of the more "classic" topics in educational technology (I promised to revise the study book on EdTech I made for Hagen University and will use the wiki to collect some information first).
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 10 July 2018 at 12:08 (GMT), <a href="/en/Blog_talk:DKS/Changes_in_the_search_functionality_and_upgrades_in_the_near_future" title="Blog talk:DKS/Changes in the search functionality and upgrades in the near future">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Computerized_embroidery_in_education_-_Visit_our_exhibits" title="Blog:DKS/Computerized embroidery in education - Visit our exhibits">Computerized embroidery in education - Visit our exhibits</a></h2><div class="wl-summary"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/en/File:Tecfa-logo-2018-round-4.jpg" class="image"><img alt="Tecfa-logo-2018-round-4.jpg" src="/mediawiki/images/thumb/0/0f/Tecfa-logo-2018-round-4.jpg/200px-Tecfa-logo-2018-round-4.jpg" width="200" height="189" class="thumbimage" srcset="/mediawiki/images/thumb/0/0f/Tecfa-logo-2018-round-4.jpg/300px-Tecfa-logo-2018-round-4.jpg 1.5x, /mediawiki/images/thumb/0/0f/Tecfa-logo-2018-round-4.jpg/400px-Tecfa-logo-2018-round-4.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/en/File:Tecfa-logo-2018-round-4.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
+<p>TECFA exhibits <a class="external text" href="http://tecfa.unige.ch/salon18">Computerized embroidery in education</a>: 32th <a class="external text" href="http://www.salondulivre.ch/fr/pages/welcome-to-the-english-page-of-the-geneva-book-and-press-fair-12636">Geneva book fair</a> <a class="external text" href="http://tecfaetu.unige.ch/stic3-4/salon-livre-2018/flyer_salonlivre2018.pdfflyer">PDF</a>, April 25-29) and <a class="external text" href="http://institutions.ville-geneve.ch/fr/mhn/votre-visite/site-du-musee-dhistoire-des-sciences/evenements/nuit-de-la-science/">Science Night</a>(July 7 and 8). 
+</p><p>In this wiki: <a href="/en/Computerized_embroidery" title="Computerized embroidery">computerized embroidery</a>
+</p><p>In the french sister wiki: <a href="http://edutechwiki.unige.ch/fr/CFAO" class="extiw" title="fr:CFAO">CFAO</a>
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 24 April 2018 at 22:31 (GMT), <a href="/en/Blog_talk:DKS/Computerized_embroidery_in_education_-_Visit_our_exhibits" title="Blog talk:DKS/Computerized embroidery in education - Visit our exhibits">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Wikispaces_is_closing" title="Blog:DKS/Wikispaces is closing">Wikispaces is closing</a></h2><div class="wl-summary"><div class="mw-parser-output"><p><a class="external text" href="http://www.wikispaces.com/">Wikispaces</a> is (was) one of the most popular tools for educators and it will shut down over the next months (classrooms will have until July 2018).
+</p><p>This is a sad moment for the world and a good one for me. I always tell people in education to <b>never</b> trust the cloud with long term projects. <b>Learn how to to install and to manage a wiki yourself and it will <i>not</i> go away</b>. 
+</p><p>Of course, doing it yourself is costly. It will cost time and some money for a good hosting plan. I prefer that as opposed to selling away my soul and loosing everything at the end. Wikispaces did have a decent policy with respect to advertisements and that is maybe why they cannot raise money for fixing the code to include the mostly useless features that modern websites should have...
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 26 February 2018 at 00:03 (GMT), <a href="/en/Blog_talk:DKS/Wikispaces_is_closing" title="Blog talk:DKS/Wikispaces is closing">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/vacation_time" title="Blog:DKS/vacation time">vacation time</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>I hope that everyone gets some time for vacation. We do and this is why EduTechWiki was down for a few days (nobody noticed that the boot partition was full...). Sorry
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 3 August 2017 at 16:11 (GMT), <a href="/en/Blog_talk:DKS/vacation_time" title="Blog talk:DKS/vacation time">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/The_Practice_of_Reproducible_Research" title="Blog:DKS/The Practice of Reproducible Research">The Practice of Reproducible Research</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>Kitzes, J., Turek, D., &amp; Deniz, F. (Eds.). (2017). The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. Oakland, CA: University of California Press.
+</p><p>This free e-book <span style="background-color:#eeeeee" class="citation">&#8220;contains a collection of 31 case studies of reproducible research workflows, written by academic researchers in the data-intensive sciences. Each case study describes how the author combined specific tools, ideas, and practices in order to complete a real-world research project. Emphasis is placed on the practical aspects of how the author organized his or her research to make it as reproducible as possible.&#8221;</span>
+</p><p><a class="external free" href="https://www.practicereproducibleresearch.org/">https://www.practicereproducibleresearch.org/</a>
+</p><p>Quote from the introduction: <span style="background-color:#eeeeee" class="citation">&#8220;A research project is computationally reproducible if a second investigator (including you in the future) can recreate the final reported results of the project, including key quantitative findings, tables, and figures, given only a set of files and written instructions.&#8221;</span>
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 8 May 2017 at 20:55 (GMT), <a href="/en/Blog_talk:DKS/The_Practice_of_Reproducible_Research" title="Blog talk:DKS/The Practice of Reproducible Research">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/(Open_access)_journals_in_educational_technology" title="Blog:DKS/(Open access) journals in educational technology">(Open access) journals in educational technology</a></h2><div class="wl-summary"><div class="mw-parser-output"><p><a class="external text" href="http://www.edtechjournals.org">EdTechJournals.org</a> created by R.A. Perkins and P.R Lowenthal currently is the best inventory (in English) of educational technology journals.
+</p>
+<ul><li><a class="external text" href="http://www.edtechjournals.org/">270 (or more) journals in educational technology (and related fields)</a>, sortable according to several criteria.</li>
+<li><a class="external text" href="http://www.edtechjournals.org/oaj-only-list/">Open Access journals only</a></li></ul>
+<p>Perkins, R. A., &amp; Lowenthal, P. R. (2016). Open access journals in educational technology: Results of a survey of experienced users. Australasian Journal of Educational Technology, 32(3), 18-37. doi: <a class="external free" href="http://dx.doi.org/10.14742/ajet.2578">http://dx.doi.org/10.14742/ajet.2578</a>
+</p><p>More information:
+</p>
+<ul><li>Originally, the “List of Ed Tech Journals” was an online spreadsheet originally created by Dr. Perkins in September 2008.</li>
+<li>The new version also includes items from George Veletsianos' <a class="external text" href="http://www.veletsianos.com/2009/08/09/open-access-educational-technology-journals/">list of open access educational technology journals</a> (<a class="external text" href="https://docs.google.com/spreadsheets/d/1HXp6ImQP6yMea4KmHVBfueNKDpR3ygpdgGmHh7gjaeo/edit#gid=0">web-accessible spreadsheet</a>)</li>
+<li><a href="/en/Educational_technology#Lists_of_Journals" title="Educational technology">Alternative lists</a></li></ul>
+
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 8 June 2016 at 14:57 (GMT), <a href="/en/Blog_talk:DKS/(Open_access)_journals_in_educational_technology" title="Blog talk:DKS/(Open access) journals in educational technology">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/A_challenge" title="Blog:DKS/A challenge">A challenge</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>"Using new digital technology to improve education is not rocket science... it is much, much harder than that” (Diana Laurillard, 2009
+</p><p>Quoted by Mark Brown, The Story of Digital Learning: The Future Is Not What It Used To Be, (<a class="external text" href="http://www.slideshare.net/mbrownz/the-story-of-digital-learning-the-future-is-not-what-it-used-to-be">slides</a>, retrieved May 25 2016)
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 25 May 2016 at 15:57 (GMT), <a href="/en/Blog_talk:DKS/A_challenge" title="Blog talk:DKS/A challenge">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/2016-02_News" title="Blog:DKS/2016-02 News">2016-02 News</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>After 6 month (or more) of being broken, the wikilog extension works again&#160;:)
+</p><p>First of all I wish everyone a happy and productive new 2016&#160;!
+</p><p>Since last summer there are not many interesting changes in this wiki I am afraid (except updates here and there). On the other hand, the <a class="external text" href="http://edutechwiki.unige.ch/fr/Accueil">french cousin</a> does fairly well thanks to the contributions of our students. 
+</p><p>Last semester (from sept 2015 to Jan 2016) I taught my first full class on digital design and fabrication. Students had to create <a href="/en/Construction_kit" title="Construction kit">construction kits</a> in one of the three categories <i>construction and design</i>, <i>conceptual manipulation</i> or reality role play<i> (explained in <a href="/en/Constructionist_learning_object" title="Constructionist learning object">Constructionist learning object</a>), or directly read <a class="external text" href="http://llk.media.mit.edu/courses/readings/classification-learning-objects.pdf">Zuckerman, Oren (2006), Historical Overview and Classification of Traditional and Digital Learning Objects</a>). The result is <a class="external text" href="http://edutechwiki.unige.ch/fr/STIC:STIC_IV_%282015%29/Productions_finales">here</a>. If you don't speak french, you still can look at pictures and try to find the downloadables. Each project has wiki page for that (follow the links to the left of the pictures).</i>
+</p><p>In the same vein, in December 2015, I got a new <a href="/en/Felix_Pro_1_3D_printer" title="Felix Pro 1 3D printer">Felix Pro 1 3D printer</a> and I am happy with it. 3D printing now is almost easy. It still takes many hours to print anything and print aborts can happen with certain designs and plastics. At least this new machine can automatically calibrate its platform and like its ancestors it's reliable  (yes I do recommend it and I believe it to be a better choice than some of these backbreaking models made in the USA liked by the trade mags). Platform calibration is IMHO the biggest stumbling block for novices. It also has a <i>quickly</i> removable platform. That prevents beginners to destroy the printer's geometry when forcibly removing prints without grace and skill.
+</p><p>While Geneva still doesn't have a Fablab (I am talking about a simple makerspace and not the "real thing"), we now got at least a <a class="external text" href="http://www.meetup.com/3DPrintGE/">loose 3D printing community</a>, organized by the <a class="external text" href="http://3dnursery.unige.ch/">3D nursery</a> from our computer science centre. The little French border town St-Julien (15 minutes away from us) is more dynamic: <a class="external free" href="http://fablab-saintjulien.xyz/">http://fablab-saintjulien.xyz/</a>.
+</p><p>The <a class="external text" href="http://citizencyberlab.eu/">citizen cyberlab</a> project is over. In this wiki, it generated two fallouts: <a href="/en/Portal:_citizen_science" title="Portal: citizen science">Portal: citizen science</a> and <a href="/en/Portal:_Data_mining_and_learning_analytics_tools" title="Portal: Data mining and learning analytics tools">Portal: Data mining and learning analytics tools</a> and I will continue working a bit in this area, teach some tools like <a href="/en/Pybossa" title="Pybossa">Pybossa</a> or <a class="external text" href="http://www.epicollect.net/">Epicollect</a>, and interact with <a class="external text" href="http://citizencyberlab.org/about.html">my other colleagues</a> involved with our new <a class="external text" href="http://citizencyberlab.org/index.html">Citizen Cyberlab</a>.
+</p><p>This year I will work a bit on literacies (digital, cultural and other sorts) and there will be traces in the wiki. I also promised to create a little Mooc on e-learning standards. Not sure that this was a good decision, but I'll try to do it (and find a way to be somewhat creative) ....
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 19 February 2016 at 22:32 (GMT), <a href="/en/Blog_talk:DKS/2016-02_News" title="Blog talk:DKS/2016-02 News">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/CFP_-_IEEE_TLT_Special_Issue_on_Wearable_Tech_and_the_Internet_of_Things_in_Education_%26_Training" title="Blog:DKS/CFP - IEEE TLT Special Issue on Wearable Tech and the Internet of Things in Education &amp; Training">CFP - IEEE TLT Special Issue on Wearable Tech and the Internet of Things in Education &amp; Training</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>From Mark J. W. Lee, Guest Editor, IEEE TLT Special Issue on "Wearable Technologies and the Internet of Things in Education and Training":
+</p><p>Manuscript proposals are being solicited for a special issue of IEEE Transactions on Learning Technologies (Impact Factor: 1.22) on "Wearable Technologies and the Internet of Things in Education and Training".
+</p><p>The deadline for the submission of proposals (500-word extended abstracts plus 8-10 key references in IEEE format) is June 15, 2015. The authors of shortlisted proposals will have until the end of September to submit their full manuscripts.
+</p><p>The Call for Papers is available at the following URL: <a class="external free" href="http://goo.gl/R9l9yo">http://goo.gl/R9l9yo</a> 
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 18 May 2015 at 10:40 (GMT), <a href="/en/Blog_talk:DKS/CFP_-_IEEE_TLT_Special_Issue_on_Wearable_Tech_and_the_Internet_of_Things_in_Education_%26_Training" title="Blog talk:DKS/CFP - IEEE TLT Special Issue on Wearable Tech and the Internet of Things in Education &amp; Training">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Server_change_and_upgrade" title="Blog:DKS/Server change and upgrade">Server change and upgrade</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>I moved this and our other wikis to new hardware with fresh software and upgraded most everything that was not freshly installed. There may be some problems that I will fix over the next few days or weeks.
+</p>
+<ul><li>Versions: Ubuntu 14.04 LTS, Php 5.5.9, MediaWiki 1.24.x</li>
+<li>The hardware is a DELL PowerEdge R815, 2x AMD Opteron 6320, 8C, 2.8GHz, 8M L2/16M L3, 128GB RAM, PERC H700 Raid Controller, 4 500GB, SATA, 2.5-in, 7.2K RPM Drives. It runs our MediaWikis and supporting software and nothing else. We bought the machine last summer, but it took time to install because I wanted to do it myself in order to keep a handle on how such things are done&#160;;)</li>
+<li><a href="/en/Mediawiki_installation" title="Mediawiki installation">Mediawiki installation</a> (installation notes for people who plan to install their own)</li>
+<li>I also enabled the visual editor. Depending on what kind of content you edit, pick either <code>Edit</code> (for visual editing), <code>Edit source</code> (for precision work) or <code>Edit form</code> (semantic forms associated with a page).</li></ul>
+
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 29 April 2015 at 18:21 (GMT), <a href="/en/Blog_talk:DKS/Server_change_and_upgrade" title="Blog talk:DKS/Server change and upgrade">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Special_issue_of_Human_Computation_on_Citizen_Science" title="Blog:DKS/Special issue of Human Computation on Citizen Science">Special issue of Human Computation on Citizen Science</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>Quote: <span style="background-color:#eeeeee" class="citation">&#8220;We are pleased to present a special issue of Human Computation. It includes a carefully vetted sample of articles submitted by attendees of the 3rd annual Citizen Cyberscience Summit. Citizen Science represents a rapidly growing application space for human computation as well as an opportunity for the general public to learn about science through participation. These papers were selected inasmuch for their meritorious scholarship as for their diversity in representing a spectrum of HC methods.&#8221;</span>
+</p>
+<ul><li><a class="external text" href="http://hcjournal.org/ojs/index.php?journal=jhc&amp;page=issue&amp;op=view&amp;path%5B%5D=2">Volume 1 • Issue 2 • December 2014</a></li></ul>
+<p>Another item of interest:
+</p>
+<ul><li><a class="external text" href="http://informalscience.org/">InformalScience.org</a>. An online community and collection of informal STEM learning projects, evaluation, and research resources ...</li></ul>
+
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 8 January 2015 at 16:51 (GMT), <a href="/en/Blog_talk:DKS/Special_issue_of_Human_Computation_on_Citizen_Science" title="Blog talk:DKS/Special issue of Human Computation on Citizen Science">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/List_of_physical_visualizations" title="Blog:DKS/List of physical visualizations">List of physical visualizations</a></h2><div class="wl-summary"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/en/File:Reckoning_Before_Writing_Bulla_01.jpg" class="image"><img alt="" src="/mediawiki/images/thumb/0/00/Reckoning_Before_Writing_Bulla_01.jpg/300px-Reckoning_Before_Writing_Bulla_01.jpg" width="300" height="205" class="thumbimage" srcset="/mediawiki/images/thumb/0/00/Reckoning_Before_Writing_Bulla_01.jpg/450px-Reckoning_Before_Writing_Bulla_01.jpg 1.5x, /mediawiki/images/thumb/0/00/Reckoning_Before_Writing_Bulla_01.jpg/600px-Reckoning_Before_Writing_Bulla_01.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/en/File:Reckoning_Before_Writing_Bulla_01.jpg" class="internal" title="Enlarge"></a></div><a class="external text" href="http://dataphys.org/list/mesopotamian-clay-tokens/">5500 BC – Mesopotamian Clay Tokens</a></div></div></div>
+<p>Pierre Dragicevic and Yvonne Jansen redesigned and updated their <a class="external text" href="http://dataphys.org/list">List of Physical Visualizations and Related Artifacts</a>.
+</p><p>Cool&#160;!
+</p><p>As of December 18, 2014, the first entry starts like this:
+<span style="background-color:#eeeeee" class="citation">&#8220;The earliest data visualizations were likely physical: built by arranging stones or pebbles, and later, clay tokens. According to an eminent archaeologist (Schmandt-Besserat, 1999): "Whereas words consist of immaterial sounds, the tokens were concrete, solid, tangible artifacts, which could be handled, arranged and rearranged at will. For instance, the tokens could be ordered in special columns according to types of merchandise, entries and expenditures; donors […]&#8221;</span>
+</p><p>This calls for further work on our little 2013 <a href="/en/Using_a_thesis_project_board" title="Using a thesis project board">Using a thesis project board</a> design experiment.
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 18 December 2014 at 21:38 (GMT), <a href="/en/Blog_talk:DKS/List_of_physical_visualizations" title="Blog talk:DKS/List of physical visualizations">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/October_2014_news" title="Blog:DKS/October 2014 news">October 2014 news</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>Sorry for not posting more updates and news over the last month. Been too busy. Our plans for the near future are to move this wiki to a better machine, upgrade to a WysWyg editor (as soon as it works with [MW version 1.24]) and redesign the home page and the overall navigation. We also plan to sponsor important new additions, such as Memorial's contributions in <a class="external text" href="http://edutechwiki.unige.ch/en/Category:Affordances_and_constraints_of_learning_technologies">Affordances and constraints of learning technologies</a> or structured information portals designed with <a href="/en/Semantic_MediaWiki" title="Semantic MediaWiki">SMW technology</a> such as <a href="/en/Portal:_Data_mining_and_learning_analytics_tools" title="Portal: Data mining and learning analytics tools">Portal: Data mining and learning analytics tools</a>.
+</p><p>Update: The new machine is still not used, still no time. But I feel that migration and updates could happen fairly soon. This would imply some downtimes...
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 10 October 2014 at 10:48 (GMT), <a href="/en/Blog_talk:DKS/October_2014_news" title="Blog talk:DKS/October 2014 news">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Serious_artwork" title="Blog:DKS/Serious artwork">Serious artwork</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>According to a slightly edited Zooniverse mailing received on oct 9 2014, 
+<a class="external text" href="http://www.weneedus.org/">We Need Us</a> is an artistic visualization of <a class="external text" href="https://www.zooniverse.org/Zooniverse">Zooniverse</a> <a href="/en/Portal:_citizen_science" title="Portal: citizen science">Citizen science</a> activities. It has has been created by artist Julie Freeman. She takes anonymised information from participant's clicks, counting the number of volunteers active, and classifications that they create, every minute. She stores this as sets of values, while also recording the frequency of activity over an hour, a day, and a month. These sets of values create rhythms that are translated into moving shapes, and play different sounds. 
+</p><p>See also <a href="/en/STEAM-powered_computing_education" title="STEAM-powered computing education">STEAM-powered computing education</a>, the combination of Art and engineering does seem to have a bright future!
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 10 October 2014 at 10:46 (GMT), <a href="/en/Blog_talk:DKS/Serious_artwork" title="Blog talk:DKS/Serious artwork">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/OpenSym_(WikiSym)_2014" title="Blog:DKS/OpenSym (WikiSym) 2014">OpenSym (WikiSym) 2014</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>OpenSym / WikiSym 2014 joint conference
+</p>
+<dl><dd>the 10th International Symposium on Open Collaboration /</dd>
+<dd>the 10th International Symposium on Wikis and Open Collaboration</dd>
+<dd>August 27-29, 2014, Berlin, Germany</dd></dl>
+<p><a class="external free" href="http://www.opensym.org/os2014/">http://www.opensym.org/os2014/</a>
+</p>
+<dl><dt>Calls Submission, deadline for papers</dt>
+<dd><b>April 20th</b>, 2014</dd></dl>
+<ul><li><a class="external text" href="http://www.opensym.org/os2014/submission/general-call/">General Call</a></li></ul>
+<dl><dt>Calls for special tracks (there are more....)</dt></dl>
+<ul><li><a class="external text" href="http://www.opensym.org/os2014/submission/research-track-calls/open-collab-wikis/">Wikis and Open Collaboration</a></li>
+<li><a class="external text" href="http://www.opensym.org/os2014/submission/research-track-calls/wikipedia/">Wikipedia</a></li>
+<li><a class="external text" href="http://www.opensym.org/os2014/submission/research-track-calls/open-educational-resources/">Open Educational Resources (OER)</a></li></ul>
+
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 20 March 2014 at 16:27 (GMT), <a href="/en/Blog_talk:DKS/OpenSym_(WikiSym)_2014" title="Blog talk:DKS/OpenSym (WikiSym) 2014">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Expanding_Your_Horizons" title="Blog:DKS/Expanding Your Horizons">Expanding Your Horizons</a></h2><div class="wl-summary"><div class="mw-parser-output"><p><a class="external text" href="http://www.expandingyourhorizons.org/">Expanding Your Horizons</a> (EYH) is an international program created to allow 11 to 14 year old girls attending public or private schools to discover the numerous careers available in the areas of science and technology.
+</p><p>Look at <a class="external text" href="http://tecfa.unige.ch/eyh/">our contribution</a> to the 2014 <a class="external text" href="http://www.expandingyourhorizons.org/conferences/Geneva/">Geneva conference</a>. Two groups of EduTech master students will run workshops featuring <a class="external text" href="http://tecfa.unige.ch/eyh/?page_id=24&amp;lang=en">3D printing</a> and <a class="external text" href="http://tecfa.unige.ch/eyh/?page_id=2&amp;lang=en">digital embroidery and cutting</a>.
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 15 November 2013 at 18:47 (GMT), <a href="/en/Blog_talk:DKS/Expanding_Your_Horizons" title="Blog talk:DKS/Expanding Your Horizons">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Semantic_MediaWiki_Convention_Fall_2013" title="Blog:DKS/Semantic MediaWiki Convention Fall 2013">Semantic MediaWiki Convention Fall 2013</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>Attending <a class="external text" href="http://semantic-mediawiki.org/wiki/SMWCon_Fall_2013">SMWCon Fall 2013</a>.
+</p>
+<ul><li>Good <a class="external text" href="http://semantic-mediawiki.org/wiki/SMWCon_Fall_2013/Conference_days">talks</a> and discussion.</li>
+<li>We also have a talk: <a class="external text" href="http://semantic-mediawiki.org/wiki/SMWCon_Fall_2013/Adding_power_to_educational_and_research_wikis_with_Semantic_MediaWiki">Adding power to educational and research wikis with Semantic MediaWiki</a> (local <a href="/en/Adding_power_to_educational_and_research_wikis_with_Semantic_MediaWiki" title="Adding power to educational and research wikis with Semantic MediaWiki">copy</a>, <a class="external text" href="http://tecfa.unige.ch/tecfa/talks/schneide/smwcon13/smwcon-2013-schneider.html#/slide1">slides</a>)</li></ul>
+
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 29 October 2013 at 15:31 (GMT), <a href="/en/Blog_talk:DKS/Semantic_MediaWiki_Convention_Fall_2013" title="Blog talk:DKS/Semantic MediaWiki Convention Fall 2013">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/What_is_learned_from_using_different_media" title="Blog:DKS/What is learned from using different media">What is learned from using different media</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>Have a look at: Patricia M. Greenfield (2009). Technology and Informal Education: What is taught and what is learned, <i>Science</i>, 323, 69-71. <a class="external text" href="http://www.cdmc.ucla.edu/Published_Research_files/greenfield_science_2009.pdf">PDF reprint</a>.
+</p><p>While the article focuses on learning from using technology it goes beyound and includes an interesting list of references. Quote <span style="background-color:#eeeeee" class="citation">&#8220;[...] no one medium can do everything. Every medium has its strengths and weaknesses; every medium develops some cognitive skills at the expense of others. Although the visual capabilities of television, video games, and the Internet may develop impressive visual intelligence, the cost seems to be deep processing: mindful knowledge acquisition, inductive analysis, critical thinking, imagination, and reflection.&#8221;</span>
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 4 October 2013 at 12:28 (GMT), <a href="/en/Blog_talk:DKS/What_is_learned_from_using_different_media" title="Blog talk:DKS/What is learned from using different media">no comments</a>.
+</p></div></div></div><div class="wl-entry visualClear"><h2><a href="/en/Blog:DKS/Parents%27_online_behavior_(as_parents)" title="Blog:DKS/Parents&#039; online behavior (as parents)">Parents&#039; online behavior (as parents)</a></h2><div class="wl-summary"><div class="mw-parser-output"><p>Interesting literature review:
+</p><p>Dworkin, J., Connell, J., &amp; Doty, J. (2013). <a class="external text" href="http://www.cyberpsychology.eu/view.php?cisloclanku=2013052301&amp;article=2">A literature review of parents’ online behavior</a>. Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 7(2), article 2. doi: 10.5817/CP2013-2-2
+</p><p>Quote: <span style="background-color:#eeeeee" class="citation">&#8220;This literature review revealed that parents go online to search for parenting information and social support and generally report satisfaction with the resources they find on the Internet. Parents still express hesitation in trusting various online resources, though, and desire greater education in Internet searching and deciphering the credibility of online information.&#8221;</span> (Abstract).
+</p><p>The review also points out that more research is needed and that not all parents may be informed consumers of online information...
+</p>
+</div>
+</div><div class="wl-summary-footer"><div class="mw-parser-output"><p>Posted by <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> (<a href="/en/User_talk:Daniel_K._Schneider" title="User talk:Daniel K. Schneider">talk</a>) on 4 October 2013 at 12:12 (GMT), <a href="/en/Blog_talk:DKS/Parents%27_online_behavior_(as_parents)" title="Blog talk:DKS/Parents&#39; online behavior (as parents)">no comments</a>.
+</p></div></div></div></div>
+<div class="wl-navbar" dir="ltr"><div class="wl-pagination"><span class="disabled">« newest</span> <span class="disabled">‹ newer 20</span> ... <a href="/mediawiki/index.php?title=Blog:DKS&amp;offset=20131004101250" class="mw-nextlink" title="Blog:DKS" rel="next">older 20 ›</a> <a href="/mediawiki/index.php?title=Blog:DKS&amp;dir=prev" class="mw-lastlink" title="Blog:DKS">oldest »</a></div></div></div></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://edutechwiki.unige.ch/mediawiki/index.php?title=Blog:DKS&amp;oldid=48145">http://edutechwiki.unige.ch/mediawiki/index.php?title=Blog:DKS&amp;oldid=48145</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Blog%3ADKS" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/en/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-blog" class="selected"><span><a href="/en/Blog:DKS">Blog</a></span></li><li id="ca-talk" class="new"><span><a href="/en/Blog_talk:DKS" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/en/Blog:DKS">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/mediawiki/index.php?title=Blog:DKS&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=Blog:DKS&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Slow Search</label>
+						</h3>
+						<form action="/mediawiki/index.php" id="searchform">
+							<div>
+								<input type="search" name="search" placeholder="Search EduTech Wiki" title="Search EduTech Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/en/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-TEST" aria-labelledby="p-TEST-label">
+			<h3 id="p-TEST-label">TEST</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Navigation_and_help" aria-labelledby="p-Navigation_and_help-label">
+			<h3 id="p-Navigation_and_help-label">Navigation and help</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Mainpage"><a href="/en/Main_Page">Main Page</a></li><li id="n-recentchanges"><a href="/en/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-about"><a href="/en/EduTech_Wiki:About">About</a></li><li id="n-randompage"><a href="/en/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li><li id="n-Editing-rules"><a href="/en/Help:Editing_rules">Editing rules</a></li><li id="n-Blog:DKS"><a href="/en/Blog:DKS">Blog:DKS</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-categorytree-portlet" aria-labelledby="p-categorytree-portlet-label">
+			<h3 id="p-categorytree-portlet-label">Categories</h3>
+			<div class="body">
+				<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Citizen_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Citizen_science">Citizen science</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Design_and_research_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Design_and_research_methods">Design and research methods</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Education_and_instruction" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Education_and_instruction">Education and instruction</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technologies">Educational technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technology_-_the_field" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technology_-_the_field">Educational technology - the field</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Position_paper">Position paper</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Psychology_and_learning" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Psychology_and_learning">Psychology and learning</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Socio-political_and_organization" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Socio-political_and_organization">Socio-political and organization</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Special_contents" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Special_contents">Special contents</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Technologies">Technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Tutorials" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Tutorials">Tutorials</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		</div>
+					</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Blog%3ADKS">Create a book</a></li><li id="coll-download-as-rl"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Blog%3ADKS&amp;returnto=Blog%3ADKS&amp;oldid=48145&amp;writer=rl">Download as PDF</a></li><li id="t-print"><a href="/mediawiki/index.php?title=Blog:DKS&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/en/Special:WhatLinksHere/Blog:DKS" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/en/Special:RecentChangesLinked/Blog:DKS" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="feedlinks"><a href="/mediawiki/index.php?title=Blog:DKS&amp;feed=atom" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom feed for this page">Atom</a></li><li id="t-specialpages"><a href="/en/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/mediawiki/index.php?title=Blog:DKS&amp;oldid=48145" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/mediawiki/index.php?title=Blog:DKS&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/mediawiki/index.php?title=Special:CiteThisPage&amp;page=Blog%3ADKS&amp;id=48145" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Big_brother" aria-labelledby="p-Big_brother-label">
+			<h3 id="p-Big_brother-label">Big brother</h3>
+			<div class="body">
+								<ul>
+					<li id="n-New-Pages"><a href="/en/Special:NewPages">New Pages</a></li><li id="n-contributionscores"><a href="/en/Special:ContributionScores">Contribution scores</a></li><li id="n-Popular-Pages"><a href="/en/Special:Popularpages">Popular Pages</a></li><li id="n-Who-is-online-.3F"><a href="/en/Special:WhosOnline">Who is online ?</a></li><li id="n-Version"><a href="/en/Special:Version">Version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-TECFA_Links" aria-labelledby="p-TECFA_Links-label">
+			<h3 id="p-TECFA_Links-label">TECFA Links</h3>
+			<div class="body">
+				<div class="sidebar_banner"><a href="http://tecfa.unige.ch/"><img title="TECFA - Educational Technology Unit - UniGE" alt="TECFA - Educational Technology Unit - Home page" src="/mediawiki/tecfa/TECFAlogoArtNoText.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/maltt"><img title="Master of Science in Learning and Teaching Technologies" alt="Master of Science in Learning and Teaching Technologies" src="/mediawiki/tecfa/LOGO_MALTT.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/formcont/"><img title="Certificate of Advanced Studies (CAS): Conception et développement de projets e-learning, Journées thématiques, TECFA, FPSE, Université de Genève" alt="Cours de formation continue offerts par TECFA, Université de Genève: CAS - Conception et développement de projets e-learning, Application des normes du e-learning, Réalisation de vidéos pédagogiques, Introduction HTML5 et CSS, Coordination des formations en ligne, Traitement de ressources multimédia, Activités pédagogiques avec Captivate" src="/mediawiki/tecfa/fclogored.png" /></a></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Page last modified 12:05, 4 October 2013.</li>
+								<li id="footer-info-copyright">By default, content is protected by a <a href="/en/EduTech_Wiki:Copyrights" title="EduTech Wiki:Copyrights">CC BY-NC-SA Licence</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/en/EduTech_Wiki:Privacy_policy" title="EduTech Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/en/EduTech_Wiki:About" title="EduTech Wiki:About">About EduTech Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/en/EduTech_Wiki:General_disclaimer" title="EduTech Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/mediawiki/tecfa/somerights.png" alt="CC BY-NC-SA Licence" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/mediawiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /mediawiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+										<li id="footer-monitoredbyico">
+						<a href="http://wikiapiary.com/wiki/EduTech_Wiki_(en)"><img src="/mediawiki/tecfa/Monitored_by_WikiApiary.png" alt="Monitored by WikiApiary" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.006","walltime":"0.007","ppvisitednodes":{"value":1,"limit":1000000},"ppgeneratednodes":{"value":4,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20190402005403","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7586057-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":271});});</script>
+	</body>
+<!-- Cached/compressed 20190402005403 -->
+</html>

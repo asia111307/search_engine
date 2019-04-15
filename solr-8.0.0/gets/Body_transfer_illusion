@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Body transfer illusion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Body_transfer_illusion","wgTitle":"Body transfer illusion","wgCurRevisionId":825599090,"wgRevisionId":825599090,"wgArticleId":27414898,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognitive neuroscience","Proprioception","Perception","Experimental psychology","Illusions","Conceptions of self","Ego psychology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Body_transfer_illusion","wgRelevantArticleId":27414898,"wgRequestId":"XLOJ3gpAIC4AALvGkNQAAADT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q4936974","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Body_transfer_illusion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Body_transfer_illusion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Body_transfer_illusion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Body_transfer_illusion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Body_transfer_illusion rootpage-Body_transfer_illusion skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Body transfer illusion</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Body transfer illusion</b> is the <a href="/wiki/Illusion" title="Illusion">illusion</a> of owning either a part of a body or an entire body other than one's own, thus it is sometimes referred to as "body ownership" in the research literature. It can be induced experimentally by manipulating the <a href="/wiki/Visual_perspective" class="mw-redirect" title="Visual perspective">visual perspective</a> of the subject and also supplying visual and sensory signals which correlate to the subject's body.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> For it to occur, <a href="/wiki/Top-down_and_bottom-up_design" title="Top-down and bottom-up design">bottom-up</a> perceptual mechanisms, such as the input of visual information, must override <a href="/wiki/Top-down_and_bottom-up_design" title="Top-down and bottom-up design">top-down</a> knowledge that the certain body (or part) does not belong. This is what results in an illusion of transfer of body ownership.<sup id="cite_ref-slater2010_3-0" class="reference"><a href="#cite_note-slater2010-3">&#91;3&#93;</a></sup> It is typically induced using <a href="/wiki/Virtual_reality" title="Virtual reality">virtual reality</a>.<sup id="cite_ref-slater2010_3-1" class="reference"><a href="#cite_note-slater2010-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Rubber_hand_illusion"><span class="tocnumber">1</span> <span class="toctext">Rubber hand illusion</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Illusion_induced_through_virtual_reality"><span class="tocnumber">2</span> <span class="toctext">Illusion induced through virtual reality</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Neural_basis"><span class="tocnumber">4</span> <span class="toctext">Neural basis</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Drug-induced_enhancement"><span class="tocnumber">5</span> <span class="toctext">Drug-induced enhancement</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Mind-body_connection"><span class="tocnumber">6</span> <span class="toctext">Mind-body connection</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Rubber_hand_illusion">Rubber hand illusion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=edit&amp;section=1" title="Edit section: Rubber hand illusion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ehrsson, Spence, and <a href="/wiki/Richard_Passingham" title="Richard Passingham">Passingham</a> (2004) did studies on the "rubber hand illusion". Subjects with normal brain function were positioned with their left hand hidden out of sight. They saw a lifelike rubber left hand in front of them. The experimenters stroked both the subjects hidden left hand and the visible rubber hand with a paintbrush. The experiment showed that if the two hands were stroked synchronously and in the same direction, the subjects began to experience the rubber hand as their own. When asked to use their right hand to point to their left hand, most of the time they pointed toward the rubber hand. If the real and rubber hands were stroked in different directions or at different times, the subjects did not experience the rubber hand as their own.
+</p><p>While the experiment was going on the experimenters also recorded the activity of their brains with a functional MRI scanner. The scans showed increased activity in the parietal lobe and then, right after, as the subjects began to experience the rubber hand as their own, in the <a href="/wiki/Premotor_cortex" title="Premotor cortex">premotor cortex</a>, the region of the brain involved in planning movements. On the other hand, when the stroking of the real and rubber hands was uncoordinated and the subjects did not experience the rubber hand as their own, the premotor cortex did not become activated. From this the experimenters concluded that the parietal cortex was involved with visual and touch processing. The premotor cortex, getting transmitted information from the parietal cortex, was involved with the feeling of ownership of the rubber hand.
+</p><p>Another study from the same laboratory provided further evidence of this ownership of the rubber hand (Ehrsson et al., 2007; Slater et al., 2009). The experimenters used the same procedure as the previous experiment to establish that feeling of ownership involved with the stimulation of the premotor cortex. Then, threatened the rubber hand by making a stabbing movement toward it with a needle (not actually making contact with the rubber hand). MRI scans showed increase activity in a region of the brain called the anterior cingulate cortex that is normally activated when a person anticipates pain, along with the supplementary motor area, that is normally activated when a person feels the urge to move his or her arm (Fried et al., 1991; Peyron, Laurent, and Garcia-Larrea, 2000). The anticipation of the needle made the subjects react as if the rubber hand was their own, moving their real hand to avoid the needle even though it was never actually in danger.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Illusion_induced_through_virtual_reality">Illusion induced through virtual reality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=edit&amp;section=2" title="Edit section: Illusion induced through virtual reality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the ways in which  body transfer illusion has been studied is through <a href="/wiki/Virtual_reality" title="Virtual reality">virtual reality</a> simulation where a first person perspective of a life-sized virtual human female body has appeared to substitute the male subjects' own body. This was demonstrated subjectively by questionnaire and physiologically through heart-rate deceleration in response to a threat to the <a href="/wiki/Virtual_body" title="Virtual body">virtual body</a>. The results support the notion that bottom-up perceptual mechanisms, such as those involving the <a href="/wiki/Premotor_cortex" title="Premotor cortex">premotor cortex</a> and <a href="/wiki/Cerebellum" title="Cerebellum">cerebellum</a>, can temporarily override top down knowledge therefore resulting in a radical illusion of transfer of body ownership. In the study, male participants  entered the virtual reality simulation and experienced various forms of stimulation including arm-stroking and other physical sensations. Afterwards the heart rate was monitored and  a questionnaire was completed.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=edit&amp;section=3" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Body transfer illusion has been used in order to treat the experience of <a href="/wiki/Phantom_limb_pain" class="mw-redirect" title="Phantom limb pain">phantom limb pain</a> by giving visual feedback of the missing limb. The <a href="/wiki/Mirror_box" title="Mirror box">mirror box</a> gives visual feedback that can allow a person using it the opportunity to "see" the missing hand, and to manipulate the hand in an attempt to relieve pain or discomfort. <a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a> is also used to treat phantom limb pain in a similar way, by allowing the user to "see" the missing limb within the virtual world and manipulate it however they choose.
+</p>
+<h2><span class="mw-headline" id="Neural_basis">Neural basis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=edit&amp;section=4" title="Edit section: Neural basis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The integration of touch stimulation via the <a href="/wiki/Somatosensory_system" title="Somatosensory system">somatosensory system</a> with visual input is essential for creating the body transfer illusion. When the body is not in motion, it perceives its position in space through the integration of multi-modal afferent signals. Motion of the body adds efferent signal information and leads to a more fluid perception of body transfer. When information from one form of signal (e.g. touch) does not match the signals from another sense (e.g. vision), the body still attempts to integrate this information.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Specifically the <a href="/wiki/Multisensory_integration#Rubber_hand_illusion" title="Multisensory integration">rubber hand illusion</a> is associated with activity in the multisensory areas, most notably the ventral premotor cortex. However, it remains to be demonstrated that this illusion does not simply reflect the dominant role of vision and that the premotor activity does not reflect a visual representation of an object near the hand.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Drug-induced_enhancement">Drug-induced enhancement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=edit&amp;section=5" title="Edit section: Drug-induced enhancement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>With <a href="/wiki/Ketamine" title="Ketamine">ketamine</a>, the body transfer illusion is ultimately enhanced and participants are more vulnerable to a false sense of limb ownership than without the use of ketamine. Although the precise nature of ketamine's impact is speculative, two features of its effects are noteworthy. First, it promotes an overall increase in the subjective and behavioral indexes of the illusion. Second, this effect is found even when a sensory asynchrony is present, a manipulation that would normally reduce the experience of the illusion. This pattern may be understood in terms of the drug's impact on the top-down–bottom-up balance that would normally account for the illusion's characteristic features since ketamine produces an overall increase in tendency to the illusion, whereas this sensitivity to the coherence of visual and tactile input is preserved. A further possibility is that ketamine enhances the salience of the visual input (the sight of a rubber hand in a position compatible with one's own hand) at the expense of information arising from the temporal asynchrony between sensory inputs. This would explain why the presence of the rubber hand is enough to enable the illusion to persist, even when in attenuated form, when visuo-tactile inputs are asynchronous.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>A very similar effect occurs with the administration of the <a href="/wiki/Dopamine" title="Dopamine">dopamine</a> and <a href="/wiki/Noradrenaline" class="mw-redirect" title="Noradrenaline">noradrenaline</a> releasing agent <a href="/wiki/Dextroamphetamine" title="Dextroamphetamine">dextroamphetamine</a>. The similarities include increased subjective reports of embodiment of the rubber hand during the illusion, and that the dextroamphetamine enhancing effect is also seen during sensory asynchrony. <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Mind-body_connection">Mind-body connection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=edit&amp;section=6" title="Edit section: Mind-body connection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Human bodily experience is characterized by the immediate and continuous experience that our body and its parts belong to us, often called <a href="/wiki/Attribution_(psychology)" title="Attribution (psychology)">self-attribution</a>, body ownership and or mineness. It is unknown if the origin of body representation is innate or if it is constructed from sensory experience.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>  A related, but distinct, bodily experience is self-localization or embodiment that is defined as the experience that the self is localized at the position of our body at a certain position in space. Recent philosophical and neurological theories converge on the relevance of such bodily experiences and associated processing of bodily information as one promising approach for the development of a comprehensive neurobiological model of self-consciousness. Yet, the scientific investigation of bodily experiences in general, and self-attribution/body ownership and self-localization/embodiment more specifically, have proven difficult and have not received the attention they deserve given their importance for neuroscientific models of self and self-consciousness.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Petkova VI, Ehrsson HH, 2008 <a rel="nofollow" class="external text" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0003832">If I Were You: Perceptual Illusion of Body Swapping</a>. <a href="/wiki/PLoS_ONE" class="mw-redirect" title="PLoS ONE">PLoS ONE</a> 3(12): e3832. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1371%2Fjournal.pone.0003832">10.1371/journal.pone.0003832</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">M. P.M. Kammers, I.J.M. van der Ham, H.C. Dijkerman, "Dissociating body representations in healthy individuals: Differential effects of a kinaesthetic illusion on perception and action", <a href="/wiki/Neuropsychologia" title="Neuropsychologia">Neuropsychologia</a>, Volume 44, Issue 12, 2006, Pages 2430–2436, ISSN 0028-3932, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.neuropsychologia.2006.04.009">10.1016/j.neuropsychologia.2006.04.009</a>.</span>
+</li>
+<li id="cite_note-slater2010-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-slater2010_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-slater2010_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Slater M, Spanlang B, Sanchez-Vives MV, Blanke O, 2010 <a rel="nofollow" class="external text" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0010564">First Person Experience of Body Transfer in Virtual Reality</a>. PLoS ONE 5(5): e10564. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1371%2Fjournal.pone.0010564">10.1371/journal.pone.0010564</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Carlson, N. R. (2010). Physiology of behavior, 11th Edition. New York: Allyn &amp; Bacon. A LA CARTE version MyPsychLab w/e-Text.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Slater M, Spanlang B, Sanchez-Vives MV, Blanke O, 2010. First Person Experience of Body Transfer in Virtual Reality. PLoS ONE 5(5): e10564. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1371%2Fjournal.pone.0010564">10.1371/journal.pone.0010564</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Manos Tsakiris, Simone Schutz-Bosbach, Shaun Gallagher, "One agency and body-ownership: Phenomenologial and neurocognitive reflections" Consciousness and Cognition Volume 16, 2007, Pages 645-660 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.concog.2007.05.012">10.1016/j.concog.2007.05.012</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"> H. Henrik Ehrsson,1 Nicholas P. Holmes,2 and Richard E. Passingham1<a rel="nofollow" class="external text" href="http://www.jneurosci.org/content/25/45/10564.short">Touching a Rubber Hand: Feeling of Body Ownership Is Associated with Activity in Multisensory Brain Areas</a> The Journal of Neuroscience, November 9, 2005, 25(45):10564-10573; <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1523%2FJNEUROSCI.0800-05.2005">10.1523/JNEUROSCI.0800-05.2005</a> </span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">L. Morgana, Danielle C. Turnerb, Philip R. Corlett, "Exploring the Impact of Ketamine on the Experience of Illusory Body Ownership" Biological Psychiatry Volume 69, Issue 1, 1 January 2011, Pages 35-41 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.biopsych.2010.07.032">10.1016/j.biopsych.2010.07.032</a> </span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">MA Albrecht, MT Martin-Iverson, G Price, J Lee, R Iyyalol, F Waters, "Dexamphetamine effects on separate constructs in the rubber hand illusion test" Psychopharmacology Volume 217, Issue 1, 2011, Pages 39-50 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs00213-011-2255-y">10.1007/s00213-011-2255-y</a> </span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Marcello Costantini, Patrick Haggard, "The rubber hand illusion: Sensitivity and reference frame for body ownership", <a href="/wiki/Consciousness_and_Cognition" title="Consciousness and Cognition">Consciousness and Cognition</a>, Volume 16, Issue 2, June 2007, Pages 229–240, ISSN 1053-8100, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.concog.2007.01.001">10.1016/j.concog.2007.01.001</a>.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"> C. Lopez, P. Halje, O. Blanke, "Body ownership and embodiment: Vestibular and multisensory mechanisms" Neurophysiologie Clinique/Clinical Neurophysiology Volume 38, Issue 3, June 2008, Pages 149-161 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.neucli.2007.12.006">10.1016/j.neucli.2007.12.006</a> </span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20190329010230
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.076 seconds
+Real time usage: 0.096 seconds
+Preprocessor visited node count: 564/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5046/2097152 bytes
+Template argument size: 2483/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6886/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.004/10.000 seconds
+Lua memory usage: 536 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   60.988      1 Template:Reflist
+100.00%   60.988      1 -total
+ 31.85%   19.426     10 Template:Doi
+ 15.78%    9.627     20 Template:Hide_in_print
+  7.88%    4.804     10 Template:Only_in_print
+  7.05%    4.299     10 Template:Str_left
+  5.76%    3.513      1 Template:Main_other
+  4.30%    2.624      1 Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27414898-0!canonical and timestamp 20190329010230 and revision id 825599090
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Body_transfer_illusion&amp;oldid=825599090">https://en.wikipedia.org/w/index.php?title=Body_transfer_illusion&amp;oldid=825599090</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_neuroscience" title="Category:Cognitive neuroscience">Cognitive neuroscience</a></li><li><a href="/wiki/Category:Proprioception" title="Category:Proprioception">Proprioception</a></li><li><a href="/wiki/Category:Perception" title="Category:Perception">Perception</a></li><li><a href="/wiki/Category:Experimental_psychology" title="Category:Experimental psychology">Experimental psychology</a></li><li><a href="/wiki/Category:Illusions" title="Category:Illusions">Illusions</a></li><li><a href="/wiki/Category:Conceptions_of_self" title="Category:Conceptions of self">Conceptions of self</a></li><li><a href="/wiki/Category:Ego_psychology" title="Category:Ego psychology">Ego psychology</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Body+transfer+illusion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Body+transfer+illusion" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Body_transfer_illusion" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Body_transfer_illusion" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Body_transfer_illusion">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Body_transfer_illusion&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Body_transfer_illusion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Body_transfer_illusion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Body_transfer_illusion&amp;oldid=825599090" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Body_transfer_illusion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4936974" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Body_transfer_illusion&amp;id=825599090" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Body+transfer+illusion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Body+transfer+illusion&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Body_transfer_illusion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4936974#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 February 2018, at 09:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Body_transfer_illusion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.076","walltime":"0.096","ppvisitednodes":{"value":564,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5046,"limit":2097152},"templateargumentsize":{"value":2483,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6886,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   60.988      1 Template:Reflist","100.00%   60.988      1 -total"," 31.85%   19.426     10 Template:Doi"," 15.78%    9.627     20 Template:Hide_in_print","  7.88%    4.804     10 Template:Only_in_print","  7.05%    4.299     10 Template:Str_left","  5.76%    3.513      1 Template:Main_other","  4.30%    2.624      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.004","limit":"10.000"},"limitreport-memusage":{"value":549153,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20190329010230","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Body transfer illusion","url":"https:\/\/en.wikipedia.org\/wiki\/Body_transfer_illusion","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4936974","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4936974","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-05-20T05:07:40Z","dateModified":"2018-02-14T09:04:19Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

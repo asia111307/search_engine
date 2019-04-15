@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.aclweb.org/portal/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>ACL Member Portal | The Association for Computational Linguistics Member Portal</title>
+  <link type="text/css" rel="stylesheet" href="https://www.aclweb.org/portal/sites/default/files/css/css_h6T-2aPf1ryzqz7pj1x983-kTYmK1thj-WUiMR7YohY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.aclweb.org/portal/sites/default/files/css/css_EPsgvacVXxxhwhLr4DGj8P1D4es4L_QnnRJPHn_TJHE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.aclweb.org/portal/sites/default/files/css/css_TT610Pr5t6za7sieHVVsGUl6Swfdc9YJVoJNJ5xLHMs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.aclweb.org/portal/sites/default/files/css/css_WXHvHo-fCkTUhX7niAsvXtBYhpSPvH-9i5QHzB6bRi8.css" media="all" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.aclweb.org/portal/sites/default/themes/acl_common/css/ie.css?pm1t5i" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://www.aclweb.org/portal/sites/default/themes/acl_common/css/ie6.css?pm1t5i" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://www.aclweb.org/portal/sites/default/files/js/js_OZNF4qYMNJNBu3SmFk-qGRaJ6GUa_41jc9ZG1TfaJgI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.migrateMute=true;jQuery.migrateTrace=false;
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.aclweb.org/portal/sites/default/files/js/js_46e7bADdrcvOy3vVyQyerRrbMI2BisAq9r91iOlSv7A.js"></script>
+<script type="text/javascript" src="https://www.aclweb.org/portal/sites/default/files/js/js_45JniWrXrY8q8AEVIV6GFupI5scizolw-FrujytMgiY.js"></script>
+<script type="text/javascript" src="https://www.aclweb.org/portal/sites/default/files/js/js_f_BpsloZtITWNBq8h8TQNh4SUGlZKD__yTkMLSN2_t8.js"></script>
+<script type="text/javascript" src="https://www.aclweb.org/portal/sites/default/files/js/js_2eFsRBA_-uelMmmx7HqQWGrADzlT5OSyUhPy0gV3Cr8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/portal\/","pathPrefix":"","ajaxPageState":{"theme":"acl_common","theme_token":"z4PyjYUg3Qhda0VJoT5qzRJjxwoSaMKNUtaU9iwwXyE","js":{"sites\/default\/modules\/contributed\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"0":1,"sites\/default\/modules\/contributed\/jquery_update\/replace\/jquery-migrate\/1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/default\/modules\/contributed\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/default\/modules\/contributed\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/default\/modules\/contributed\/nice_menus\/js\/superfish.js":1,"sites\/default\/modules\/contributed\/nice_menus\/js\/nice_menus.js":1,"sites\/default\/modules\/contributed\/spamspan\/spamspan.js":1,"sites\/default\/themes\/acl_common\/external\/bootstrap\/js\/bootstrap.js":1,"sites\/default\/themes\/acl_common\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/default\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/default\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/default\/modules\/contributed\/views\/css\/views.css":1,"misc\/drupal.css":1,"sites\/default\/modules\/contributed\/ctools\/css\/ctools.css":1,"sites\/default\/modules\/contributed\/nice_menus\/css\/nice_menus.css":1,"sites\/default\/modules\/contributed\/nice_menus\/css\/nice_menus_default.css":1,"public:\/\/spamicide\/lala.css":1,"sites\/default\/themes\/acl_common\/external\/bootstrap\/css\/bootstrap.css":1,"sites\/default\/themes\/acl_common\/css\/acl_common.css":1,"sites\/default\/themes\/acl_common\/css\/ie.css":1,"sites\/default\/themes\/acl_common\/css\/ie6.css":1}},"better_exposed_filters":{"views":{"announcements":{"displays":{"page":{"filters":[]}}},"latest_3_events_block":{"displays":{"block":{"filters":[]}}}}},"nice_menus_options":{"delay":"800","speed":"slow"},"urlIsAjaxTrusted":{"\/portal\/":true,"\/portal\/announcements?destination=announcements":true}});
+//--><!]]>
+</script>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic' rel='stylesheet' type='text/css'>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="html front not-logged-in two-sidebars page-announcements" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+  <div id="page">
+      
+    <!-- body starts -->
+    <div class="container-fluid">
+      <div class="row">
+        <!-- Left sidebar for menu -->
+        <div class="col-xs-12 col-sm-12 col-md-3 col-lg-2" id="left-menu">
+                      <div class="row-fluid"><div class="region region-sidebar-first clearfix">
+  <div id="block-nice-menus-6" class="clearfix block block-nice-menus"
+  >
+      <h2><span class="nice-menu-show-title">Menu</span></h2>
+      <div class="content"> <ul class="nice-menu nice-menu-right nice-menu-menu-website-menu" id="nice-menu-6"><li class="menu-11801 menuparent  menu-path-nolink first odd "><span title="" class="nolink">About the ACL</span><ul><li class="menu-11817 menu-path-node-2484 first odd "><a href="/portal/what-is-cl" title="">What is Computational Linguistics?</a></li>
+<li class="menu-11818 menu-path-user-register  even "><a href="/portal/user/register" title="">Join the ACL</a></li>
+<li class="menu-11819 menu-path-node-2482  odd "><a href="/portal/about" title="">Officers</a></li>
+<li class="menu-11820 menu-path-saclweborg-aclwiki-acl-lifetime-achievement-award-recipients  even "><a href="https://aclweb.org/aclwiki/ACL_Lifetime_Achievement_Award_Recipients" title="">ACL LTA Winners</a></li>
+<li class="menu-11821 menu-path-saclweborg-aclwiki-acl-fellows  odd "><a href="https://aclweb.org/aclwiki/ACL_Fellows" title="">ACL Fellows</a></li>
+<li class="menu-11822 menu-path-aclweborg-aclwiki-titlebest-paper-awards  even "><a href="http://www.aclweb.org/aclwiki/?title=Best_paper_awards" title="">Best Paper Awards</a></li>
+<li class="menu-12360 menu-path-saclweborg-portal-content-acl-diversity-statistics  odd last"><a href="https://www.aclweb.org/portal/content/acl-diversity-statistics" title="">ACL Diversity Statistics</a></li>
+</ul></li>
+<li class="menu-11800 menuparent  menu-path-nolink  even "><span title="" class="nolink">News</span><ul><li class="menu-11829 menu-path-news-list first odd "><a href="/portal/news-list" title="">ACL News</a></li>
+<li class="menu-11830 menu-path-aclawards-list  even "><a href="/portal/aclawards-list" title="">ACL Awards</a></li>
+<li class="menu-11832 menu-path-people-in-the-news  odd "><a href="/portal/people-in-the-news" title="">Members in the News</a></li>
+<li class="menu-11833 menu-path-archive-list  even last"><a href="/portal/archive-list" title="">News Archives</a></li>
+</ul></li>
+<li class="menu-11802 menuparent  menu-path-nolink  odd "><span title="" class="nolink">Journals</span><ul><li class="menu-11823 menu-path-node-2497 first odd "><a href="/portal/cljournal" title="">Computational Linguistics</a></li>
+<li class="menu-11824 menu-path-transaclorg-  even last"><a href="http://www.transacl.org/" title="">Transactions of the ACL</a></li>
+</ul></li>
+<li class="menu-11803 menuparent  menu-path-nolink  even "><span title="" class="nolink">Conferences</span><ul><li class="menu-11834 menu-path-conference-list first odd "><a href="/portal/conference-list" title="">Conference News</a></li>
+<li class="menu-11835 menu-path-node-2483  even "><a href="/portal/acl" title="">ACL</a></li>
+<li class="menu-11836 menu-path-node-2487  odd "><a href="/portal/eacl" title="">EACL</a></li>
+<li class="menu-11837 menu-path-node-2485  even "><a href="/portal/emnlp" title="">EMNLP</a></li>
+<li class="menu-11838 menu-path-node-2489  odd "><a href="/portal/naacl" title="">NAACL</a></li>
+<li class="menu-11839 menu-path-node-2488  even last"><a href="/portal/ijcnlp" title="">IJCNLP</a></li>
+</ul></li>
+<li class="menu-11840 menuparent  menu-path-nolink  odd "><span title="" class="nolink">Events</span><ul><li class="menu-11841 menu-path-acl-sponsored-events first odd "><a href="/portal/acl_sponsored_events" title="">Browse ACL Events</a></li>
+<li class="menu-11842 menu-path-non-acl-events  even "><a href="/portal/non-acl_events" title="">Browse Non-ACL Events</a></li>
+<li class="menu-11843 menu-path-node-add-event  odd "><a href="/portal/node/add/event">Add Event to the Website</a></li>
+<li class="menu-11844 menu-path-participants-by-family-name  even last"><a href="/portal/participants/by_family_name">Browse Participants List</a></li>
+</ul></li>
+<li class="menu-12355 menuparent  menu-path-acl-fellows  even "><a href="/portal/acl-fellows">ACL Fellows</a><ul><li class="menu-12357 menu-path-acl-fellows first odd last"><a href="/portal/acl-fellows">Make Fellows Nominations and Recommendations</a></li>
+</ul></li>
+<li class="menu-11804 menu-path-node-2486  odd "><a href="/portal/sigs" title="">SIGs</a></li>
+<li class="menu-11805 menuparent  menu-path-nolink  even "><span title="" class="nolink">Anthology</span><ul><li class="menu-11806 menu-path-saclweborg-anthology- first odd "><a href="https://www.aclweb.org/anthology/" title="">Anthology</a></li>
+<li class="menu-11807 menu-path-claireecsumichedu-aan-indexphp  even last"><a href="http://clair.eecs.umich.edu/aan/index.php" title="">Network</a></li>
+</ul></li>
+<li class="menu-11808 menu-path-aclweborg-aclwiki-titlemain-pageitemid42  odd "><a href="http://www.aclweb.org/aclwiki/?title=Main_Page&amp;Itemid=42" title="">Wiki</a></li>
+<li class="menu-11809 menu-path-registrydfkide-  even "><a href="http://registry.dfki.de/" title="">Software Registry</a></li>
+<li class="menu-11810 menuparent  menu-path-nolink  odd "><span title="" class="nolink">Education</span><ul><li class="menu-11814 menu-path-aclweborg-aclwiki-indexphptitlelist-of-nlp-cl-courses first odd "><a href="http://www.aclweb.org/aclwiki/index.php?title=List_of_NLP/CL_courses" title="">NLP/CL Courses</a></li>
+<li class="menu-11815 menu-path-nacloweborg-  even "><a href="http://nacloweb.org/" title="">NACLO</a></li>
+<li class="menu-11816 menu-path-hsclc-  odd last"><a href="http://hsc.lc/" title="">HSCLC</a></li>
+</ul></li>
+<li class="menu-11811 menuparent  menu-path-nolink  even "><span title="" class="nolink">Policies</span><ul><li class="menu-12177 menu-path-node-2496 first odd last"><a href="/portal/policies" title="">ACL Policies</a></li>
+</ul></li>
+<li class="menu-11812 menuparent  menu-path-nolink  odd last"><span title="" class="nolink">Archives</span><ul><li class="menu-11813 menu-path-node-2481 first odd last"><a href="/portal/node/2481" title="">Mirror of Past Conferences</a></li>
+</ul></li>
+</ul>
+ </div>
+</div>
+</div>
+ <!-- /.region -->
+</div>
+            <div id="sidebar-first" class="sidebar span3 site-sidebar-first">
+
+            </div>
+            <!-- /#sidebar-first -->
+                  </div>
+
+        <!-- Main content area fluidic -->
+
+        <div class="col-xs-12 col-xs-offset-0 col-sm-12 col-sm-offset-0 col-md-offset-1 col-md-8 col-lg-9" id="main-area">
+          <!-- Logo, site name area -->
+          <div class="row" id="logo">
+            <div class="col-xs-offset-3 col-sm-offset-3 col-md-offset-0 col-lg-offset-0 col-xs-6 col-md-6 col-sm-6 col-lg-6" id="header-search">
+              <a href="/portal/" id="logo-image">ACL Home</a>
+              <div id="site-name">
+                <a href="/portal/">
+                  Association for <br/>
+                  Computational Linguistics
+                </a>
+              </div>
+            </div>
+                          <div class="col-md-4 col-sm-4  col-xs-4 col-sm-offset-3 col-xs-offset-2 col-lg-4 col-md-offset-0 col-lg-offset-2">
+                <div id="search-box">
+                  <div class="region region-search-box clearfix">
+  <div id="block-search-form" class="clearfix block block-search">       <div class="content"> <form action="/portal/" method="post" id="search-block-form" accept-charset="UTF-8"><div> <div class="input-group">
+    <input type="text" class="form-control"  name="search_block_form" placeholder="Search this site..">
+    <div class="input-group-btn">
+      <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+    </div>
+  </div>
+  <input type="hidden" name="form_build_id" value="form-lhA3ZZF7OlpJ7PFwiVFIjwFEFw1s7WRS8GOEOjjD9dk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+
+</div></form> </div>
+</div></div>
+ <!-- /.region -->
+                </div>
+              </div>
+                      </div>
+
+          <!-- Header region -->
+          <div class="row" id="header-elements">
+                      </div>
+
+          <!-- Breadcrumbs section -->
+                    <div class="row" id="breadcrumbs">
+          	<hr id="breadcrumb-top-hr">
+          </div>
+
+
+
+          <!-- Page and right sidebar -->
+          <div class="row">
+            <!-- Page content -->
+            <div class="col-xs-12 col-sm-12 col-md-8" id="page-content">
+              <!-- Messages -->
+              
+              <!-- Featured area -->
+              
+
+                            <a id="main-content"></a>
+                                                                        <div class="tabs">
+                                  </div>
+                                                        <div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <div class="view view-announcements view-id-announcements view-display-id-page view-dom-id-49f7f1f29d53aa22357d0a6638881abf">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <article id="node-3527" class="node node-news node-promoted node-teaser clearfix">      <h2><a href="/portal/content/remembering-janyce-m-wiebe-acl-fellow">Remembering Janyce M. Wiebe, ACL Fellow</a></h2>
+        <div class="submitted"> December 20, 2018 | BY webmaster </div>
+    <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>With sadness, the ACL exec announces the premature passing of one of our own, Janyce M. Wiebe, ACL Fellow 2015. Jan was a professor of Computer Science at the University of Pittsburgh, and a former director of the Pitt Intelligent Systems Program. She was a pioneer in the now burgeoning fields of sentiment, affect and subjectivity. Her PhD thesis (1990) -Recognizing Subjective Sentences: A Computational Investigation of Narrative Text- was an early computational investigation of subjectivity in NLP.</p></div></div></div>  </div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/portal/content/remembering-janyce-m-wiebe-acl-fellow" rel="tag" title="Remembering Janyce M. Wiebe, ACL Fellow">Read more<span class="element-invisible"> about Remembering Janyce M. Wiebe, ACL Fellow</span></a></li>
+</ul>  </article>  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/portal/announcements?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/portal/announcements?page=2">3</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/portal/announcements?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/portal/announcements?page=116">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div> </div>
+</div><div id="block-block-4" class="clearfix block block-block">     <h2>What is computational linguistics?</h2>
+      <div class="content"> <p><em>Computational linguistics</em> is the scientific study of language from a computational perspective. Computational linguists are interested in providing computational models of various kinds of linguistic phenomena. These models may be "knowledge-based" ("hand-crafted") or "data-driven" ("statistical" or "empirical"). Work in computational linguistics is in some cases motivated from a scientific perspective in that one is trying to provide a computational explanation for a particular linguistic or psycholinguistic phenomenon; and in other cases the motivation may be more purely technological in that one wants to provide a working component of a speech or natural language system. Indeed, the work of computational linguists is incorporated into many working systems today, including speech recognition systems, text-to-speech synthesizers, automated voice response systems, web search engines, text editors, language instruction materials, to name just a few.</p>
+<p>Popular computational linguistics textbooks include:</p>
+<ul><li>Christopher Manning and Hinrich Schütze (1999) <em><a href="https://mitpress.mit.edu/books/foundations-statistical-natural-language-processing">Foundations of Statistical Natural Language Processing</a></em>, Cambridge, Massachusetts, USA. MIT Press.<br />
+	Also see the book's <a href="http://nlp.stanford.edu/fsnlp/">supplemental materials website</a> at Stanford.<br />
+	 </li>
+<li>Daniel Jurafsky and James Martin (2008) <em><a href="http://www.cs.colorado.edu/~martin/slp.html">An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition</a></em>, Second Edition. Prentice Hall.</li>
+</ul> </div>
+</div></div>
+ <!-- /.region -->
+                          </div>
+
+            <!-- Sidebar -->
+                          <div class="col-xs-8 col-sm-6 col-md-offset-1 col-md-3" id="page-sidebar">
+                <div class="region region-sidebar-second clearfix">
+  <div id="block-user-login" class="clearfix block block-user">     <h2>User login</h2>
+      <div class="content"> <form action="/portal/announcements?destination=announcements" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/portal/user/register" title="Create a new member account.">Create New Member Account</a></li>
+<li><a href="/portal/user/password" title="Request new password via e-mail.">Request New Password</a></li>
+<li class="last"><a href="/portal/user/username" title="Request a reminder of your username via e-mail.">Request Username Reminder</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-sKaDDMzfkXfxoc6AkeiumWfXVqNvzV2ED6RSOEuZQ9s" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-lala-wrapper"><div class="form-item form-type-textfield form-item-lala">
+  <label for="edit-lala">lala </label>
+ <input type="text" id="edit-lala" name="lala" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form> </div>
+</div>
+<div id="block-views-latest-3-events-block-block" class="clearfix block block-views">     <h2>Latest Events</h2>
+      <div class="content"> <div class="view view-latest-3-events-block view-id-latest_3_events_block view-display-id-block view-dom-id-f4077ab4a6d5a0a5078cb8f6385dc800">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/portal/content/7th-international-workshop-natural-language-processing-social-media">The 7th International Workshop on Natural Language Processing for Social Media</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/portal/content/joint-call-student-scholarship-applications-and-student-volunteers-acl-2019">Joint Call for Student Scholarship Applications and Student Volunteers for ACL 2019</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/portal/content/eighth-conference-natural-language-processing-and-chinese-computing">The 8th CCF International Conference on Natural Language Processing and Chinese Computing </a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+</div>
+ <!-- /.region -->
+              </div> <!-- /.section, /#sidebar-second -->
+                      </div>
+        </div>
+      </div>
+
+      <!-- Footer area -->
+
+      <div class="row" id="footer">
+        <P>The Association for Computational Linguistics<br/>209 N. Eighth Street, Stroudsburg PA 18360, USA<br/>
+acl@org.aclweb (unscramble me), (tel) +1-570-476-8006, (fax) +1-570-476-0860 </P>              </div> <!-- /#footer -->
+
+    </div>
+  </div>  </body>
+</html>

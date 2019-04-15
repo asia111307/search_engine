@@ -10,26 +10,30 @@
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     {% block head %}{% endblock %}
-{#    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">#}
-    <link rel="stylesheet" type="text/css" href="../static/css/styles.css?q=246756756775656755">
-
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+{#    <link rel="stylesheet" type="text/css" href="../static/css/styles.css?q=5324565768799734646">#}
 </head>
 <body>
     <nav>
+        <a href="/" class="logo-href"><div class="logo-container"><div class="logo"></div><h5>Search <br>Engine</h5></div></a>
         <form action="/search" method="post">
          <div class="searchinput">
-             <input type="text" name="query" id="query">
+             <input type="text" name="query" id="query" placeholder="What are you looking for?" autofocus>
              <button type="submit" class="btn btn-srarch"><i class="fa fa-search"></i></button>
          </div>
     </form>
     </nav>
 
-    <section class="container content">
+    <section class="content container">
         {% if text %}
         <div class="panel">
-            <h5>Matching results found: {{ text['numFound'] }}</h5>
-            <div class="panel-sort"></div>
-            <div class="panel-filter"></div>
+            <h5>You are looking for: <b>{{ query.replace('+', ' ') }}</b> <br> Matching results found: <b>{{ text['numFound'] }}</b></h5>
+            <div class="panel-filter">
+                <form method="post" action="/search/{{ query }}/filter/html"><button type="submit">Only HTMLs</button></form>
+                <form method="post" action="/search/{{ query }}/filter/pdf"><button type="submit">Only PDFs</button></form>
+                <form method="post" action="/search/{{ query }}/sort/newest"><button type="submit">Sort: newest first</button></form>
+                <form method="post" action="/search/{{ query }}/sort/oldest"><button type="submit">Sort: oldest first</button></form>
+            </div>
         </div>
         <div class="text-content"></div>
             {% for i in text['docs'] %}
@@ -38,34 +42,45 @@
                         {% if i['og_url'] %}
                             <a href="{{ i['og_url'][0] }}" target="_blank"><h4>{{ i['title'][0] if i['title'] else i['dc_title'] }}</h4></a>
                         {% else %}
-                            <h4>{{ i['title'][0] if i['title'] else i['dc_title'] }}</h4>
+                            <a href="https://www.google.com/search?q={{ i['title'][0] if i['title'] else i['dc_title'] }}" target="_blank"><h4>{{ i['title'][0] if i['title'] else i['dc_title'] }}</h4></a>
                          {% endif %}
-                    {% elif i['stream_name'] %}
+                    {% elif i['stream_name'] or i['og_title'] %}
                        {% if i['og_url'] %}
-                            <a href="{{ i['og_url'][0] }}" target="_blank"><h4>{{ i['stream_name'][0] }}</h4></a>
+                            <a href="{{ i['og_url'][0] }}" target="_blank"><h4>{{ i['stream_name'][0] if i['stream_name'] else i['og_title'][0] }}</h4></a>
                         {% else %}
-                            <h4>{{ i['stream_name'][0] }}</h4>
+                           <a href="https://www.google.com/search?q={{ i['stream_name'][0] if i['stream_name'] else i['og_title'][0] }}" target="_blank"><h4>{{ i['stream_name'][0] if i['stream_name'] else i['og_title'][0] }}</h4></a>
                         {% endif %}
+                    {% elif i['og_site_name'] %}
+                        {% if i['og_url'] %}
+                            <a href="{{ i['og_url'][0] }}" target="_blank"><h4>{{ i['og_site_name'][0] }}</h4></a>
+                        {% else %}
+                            <a href="https://www.google.com/search?q={{ i['og_site_name'][0] }}" target="_blank"><h4>{{ i['og_site_name'][0] }}</h4></a>
+                         {% endif %}
                     {% else %}
                         <h4>Unknown title</h4>
                     {% endif %}
                 <div class="meta-desc">
-                    {% if i['description'] %}
-                        <p>{{ i['description'][0] }}</p>
+                    {% if i['description'] or i['og_description'] %}
+                        <p>{{ i['description'][0] if i['description'] else i['og_description'][0] }}</p>
+                    {% endif %}
+                </div>
+                <div class="meta-keys">
+                    {% if i['keywords'] or i['article_tag'] %}
+                        <p><b>Keyords: </b>{{ i['keywords'][0] if i['keyrowrds'] else ' '.join(i['article_tag'])}}</p>
                     {% endif %}
                 </div>
                 <div class="meta">
-                    {% if i['content-type'] %}
-                    <p><b>Type: </b> {{ i['content_type'][0].upper() }}</p>
+                    {% if i['content_type'] or i['stream_content_type'] %}
+                    <p><b>Type: </b> {{ i['content_type'][0].split('/')[1].split(';')[0].upper() if i['content_type'] else i['stream_content_type'][0].split('/')[1].split(';')[0].upper() }}</p>
                     {% endif %}
-                    {% if i['article_'] %}
-                    <p><b>Category: {{ i['article_'][0] }} </b></p>
+                    {% if i['article_category'] or i['category'] %}
+                    <p><b>Category: {{ i['article_category'][0].upper() if i['article_category'] else i['category'][0].upper() }} </b></p>
                     {% endif %}
-                    {% if i['lang'] %}
-                    <p><b>Language: {{ i['lang'][0] }}</b></p>
+                    {% if i['language'] or i['content_language'] %}
+                    <p><b>Language: {{ i['language'][0] if i['language'] else i['content_language'][0] }}</b></p>
                     {% endif %}
-                    {% if i['created'] %}
-                    <p><b>Creaed:</b> {{ i['created'][0].split('T')[0] }}</p>
+                    {% if i['created'] or i['creation_date'] %}
+                    <p><b>Created:</b> {{ i['created'][0].split('T')[0] if i['created'] else i['creation_date'][0].split('T')[0] }}</p>
                     {% endif %}
                 </div>
                 </div>

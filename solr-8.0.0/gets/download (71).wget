@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="interview, einterview, interviews, interviewing, vegetarian, meat, racism, personal ads, personals, advertisement, wesleyan university, plous, social psychology network">
+	<meta name="description" content="Uses a unique interactive technology that listens and responds much like a human interviewer would. Amazing!">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <title>eInterview</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/einterview.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  </head>
+
+  <body>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html" title="eInterview homepage"><img src="img/header-icon.svg" width="145px" alt="eInterview.org"></a>
+        </div>
+        <div class="navbar-collapse collapse navbar-right">
+          <ul class="nav navbar-nav">
+            <li><a class="scroll" href="#interviews" title="Take an Interview">Take an Interview</a></li>
+            <li><a class="scroll" href="#about" title="About section">About</a></li>
+            <li><a class="scroll" href="#privacy" title="Privacy Policy section">Privacy Policy</a></li>
+            <li><a class="scroll" href="#links" title="Related Links section">Related Links</a></li>
+            <li><a class="scroll" href="#contact" title="Contact form">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+	<!-- *****************************************************************************************************************
+	 HEADERWRAP
+	 ***************************************************************************************************************** -->
+  <div id="headerwrapper" class="bg-node">
+    <div id="headerwrap">
+  	    <div class="container">
+  			<div class="row">
+  				<div class="col-lg-8 col-lg-offset-2 himg">
+  					<img src="img/logo.svg" class="img-responsive" alt="eInterview.org">
+  				</div>
+          <div class="col-lg-8 col-lg-offset-2">
+  				      <h3>Interviews So Interactive<br class="break" /> They Seem Human</h3>
+          </div>
+  				</div><!-- /row -->
+  	    </div> <!-- /container -->
+  	</div><!-- /headerwrap -->
+
+
+  <!-- *****************************************************************************************************************
+	 BREAK INTRO PARAGRAPH
+	 ***************************************************************************************************************** -->
+
+    <div id="headerwrap-intro" class="wrap-intro">
+       <div class="container">
+         <div class="row centered">
+           <div class="col-sm-9 col-md-9 col-lg-9 col-centered">
+              <p class="lead intro">Welcome to eInterview.org, a unique website that goes well beyond standard web surveys. Using an interactive technology that took eight years to develop, eInterview "listens" to you and responds much like a human interviewer would.</p>
+              <p class="lead"><a href="#interviews" class="btn btn-theme btn-wide scroll">Take Interview</a></p>
+            </div>
+          </div><!-- /row -->
+       </div> <!-- /container -->
+   </div><!-- /headerwrap -->
+
+   </div><!-- /headerwrapper -->
+	<!-- *****************************************************************************************************************
+	 INTERVIEWS
+	 ***************************************************************************************************************** -->
+	 <div id="" class="interviews"><a class="anchor" id="interviews"></a>
+	 	<div class="container">
+ 			<div class="row centered">
+        <div class="col-sm-9 col-md-9 col-lg-9 col-centered">
+               		<h2>Choose an Interview</h2>
+                    <p class="lead">You are welcome to take one or both of the interviews described below.<br class="visible-xs"><br class="visible-xs">
+				As a token of thanks for participating, one person from each interview will be randomly selected to receive a $300 cash prize.</p><br /><br class="hidden-xs">
+                </div>
+ 				<div class="col-sm-6">
+          <img src="img/icon_dietlifestyle.svg" alt="Diet and Lifestyle" class="icon-interview pointer" data-toggle="modal" data-target="#DietAndLifestyle" title="Diet &amp; Lifestyle Choices"></a>
+ 					<h5>Diet & Lifestyle Choices</h5>
+ 					<p>This interview probes the logic behind various dietary and lifestyle choices, attitudes, and beliefs. Typical length 20-30 minutes.</p>
+ 					<button type="button" class="btn btn-theme btn-wide" data-toggle="modal" data-target="#DietAndLifestyle">Begin Interview</button><br class="visible-xs" /><br class="visible-xs" /><br class="visible-xs" />
+
+ 				</div>
+ 				<div class="col-sm-6">
+          <img src="img/icon_raceadvertising.svg" alt="Race and Advertising" class="icon-interview pointer" data-toggle="modal" data-target="#RaceAndAdvertising" title="Race &amp; Advertising">
+ 					<h5>Race & Advertising</h5>
+ 					<p>This interview focuses on race relations, advertising, and opinions about discrimination. Typical length 15-20 minutes.</p>
+ 					<button type="button" class="btn btn-theme btn-wide" data-toggle="modal" data-target="#RaceAndAdvertising">Begin Interview</button><br class="visible-xs">
+ 				</div>
+	 		</div>
+	 	</div><! --/container -->
+	 </div><! --/service -->
+
+
+	<!-- *****************************************************************************************************************
+	 ABOUT
+	 ***************************************************************************************************************** -->
+
+	 <div id="" class="wrap-dk"><a class="anchor" id="about"></a>
+     	<div class="container">
+            <div class="row centered parent">
+                <div class="col-sm-4 child hidden-xs">
+                    <img src="img/icon_about.svg" width="160px" alt="" />
+                </div>
+
+                <div class="col-sm-7 pull-right">
+                    <h2>About</h2>
+                    <p class="left lead">eInterview.org is a Social Psychology Network partner site headquartered at Wesleyan University. The purpose is to conduct web-based interviews capable of changing questions, response options, and item wordings depending on the previous answers given. Development of eInterview.org began in 1999 with funding from the National Science Foundation, and the site was released in 2007.</p>
+ 					<p><a href="about" class="btn btn-theme btn-wide" title="Link to About page">More</a></p>
+                </div>
+
+	 		</div><! --/row -->
+		 </div><! --/container -->
+	 </div><! --/about -->
+
+<!-- *****************************************************************************************************************
+	 PRIVACY
+	 ***************************************************************************************************************** -->
+
+	 <div id="" class="wrap-lt"><a class="anchor" id="privacy"></a>
+     	<div class="container">
+            <div class="row centered parent">
+                <div class="col-sm-4 child-rt pull-right hidden-xs">
+                    <img src="img/icon_privacy.svg" width="160px" alt="">
+                </div>
+
+               <div class="col-sm-7 col-sm-offset-1 pull-left">
+                    <h2>Privacy Policy</h2>
+                    <p class="left lead">eInterview.org takes your privacy seriously. Please read this page for a detailed description of eInterview.org's privacy practices. (Note: Because eInterview.org is a partner site of Social Psychology Network, any use of eInterview.org indicates an acceptance of the Social Psychology Network User Policy. If you do not wish to accept this policy, please do not view any further web pages in eInterview.org.)</p>
+ 					<p><a href="privacy" class="btn btn-theme btn-wide" title="Link to Privacy Policy page">More</a></p>
+                </div>
+
+	 		</div><! --/row -->
+		 </div><! --/container -->
+	 </div><! --/about -->
+
+<!-- *****************************************************************************************************************
+	 LINKS
+	 ***************************************************************************************************************** -->
+
+	 <div id="" class="wrap-dk"><a class="anchor" id="links"></a>
+     	<div class="container">
+            <div class="row centered parent">
+                <div class="col-sm-4 child hidden-xs">
+                    <img src="img/icon_links.svg" width="160px" alt="">
+                </div>
+
+                <div class="col-sm-7 pull-right">
+                <h2>Related Links</h2>
+                    <p class="left lead">eInterview.org is a Social Psychology Network partner site headquartered at Wesleyan University. The purpose is to conduct web-based interviews capable of changing questions, response options, and item wordings depending on the previous answers given. Development of eInterview.org began in 1999 with funding from the National Science Foundation, and the site was released in 2007.</p>
+ 					<p><a href="links" class="btn btn-theme btn-wide" title="Link to Related Links page">More</a></p>
+                </div>
+
+	 		</div><! --/row -->
+		 </div><! --/container -->
+	 </div><! --/about -->
+
+	<!-- *****************************************************************************************************************
+	 CONTACT
+	 ***************************************************************************************************************** -->
+	 <div class="wrap-rd contact"><a class="anchor" id="contact"></a>
+	 	<div class="container centered">
+	 		<div class="row">
+	 			<div class="col-lg-12">
+            <h2>Contact</h2><br /><br />
+	 			</div>
+	 		</div><! --/row -->
+
+      <div class="row opensans">
+        <div class="col-lg-12">
+          <form name="sentMessage" id="contactForm" method="POST" action="contact/send.php" data-toggle="validator">
+            <div class="row">
+              <div class="col-md-12">
+                <div id="form-messages"></div>
+			        </div>
+				    </div>
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <input type="text" class="form-control input-lg" placeholder="Your Name *" title="Your Name" aria-label="Name" id="name" name="name"  data-error="*Please enter your name." required>
+                  <div class="help-block with-errors left"></div>
+                </div>
+                <div class="form-group">
+                  <input type="email" class="form-control input-lg" placeholder="Email Address *" title= "Email Address" aria-label="Email Address" id="email" name="email" data-error="*Please enter a proper email address." required>
+                  <div class="help-block with-errors left"></div>
+                </div>
+                <div class="form-group">
+                  <input type="text" class="form-control input-lg" placeholder="Phone Number" title="Phone number" aria-label="Phone number" id="phone" name="phone">
+                </div>
+                <div class="form-group">
+                  <input type="text" class="form-control input-lg" placeholder="Subject *" title="Subject" aria-label="Subject" id="subject" name="subject" data-error="*Please enter your subject." required>
+                  <div class="help-block with-errors left"></div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <textarea class="form-control input-lg" rows="9" placeholder="Your Message *" title="Your message" aria-label="Your message" id="message" name="message" data-error="*Please enter your message." required></textarea>
+                  <div class="help-block with-errors left"></div>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+              <div class="col-lg-12 text-center">
+                <div id="success"></div>
+                <br />
+                <div style="width: 300px; margin: 0 auto !important;">
+                  <div class="g-recaptcha" data-callback="recaptchaCallback" data-sitekey="6Ler5SYTAAAAACNv_76QchdEYedWsiRsPdqcdeFY" title="Google reCaptcha"></div>
+                </div>
+                <br /><br />
+                <button id="submitBtn" type="submit" class="btn btn-theme btn-wide" disabled>Send Message</button>
+              </div>
+            </div>
+          </form><br />
+        </div>
+	 		</div><! --/row -->
+	 	</div><! --/container -->
+	 </div><! --/twrap -->
+
+	<!-- *****************************************************************************************************************
+	 FOOTER
+	 ***************************************************************************************************************** -->
+    <footer>
+        <div class="container text-center">
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="col-lg-12">
+                  <p>© 2004-<script>document.write(new Date().getFullYear());</script> Scott Plous &nbsp; | &nbsp; <a href="http://www.socialpsychology.org/usage.htm" target="_blank"  class="darklink">Site Statistics</a></p>
+                </div>
+              </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Detect outdated browsers -->
+    <script src="js/browser.js" type="text/javascript"></script>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-1.12.4.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	  <script src="js/retina-1.1.0.js"></script>
+  	<script src="js/custom.js"></script>
+    <script src="js/analytics.js"></script>
+
+    <!-- Validator -->
+    <script src='js/validator.min.js'></script>
+    <script src='https://www.google.com/recaptcha/api.js' async></script>
+
+
+    <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $(".scroll").click(function(event) {
+        event.preventDefault();
+        $('html,body').animate( { scrollTop:$(this.hash).offset().top } , 1000);
+        } );
+        var textarea = document.getElementById("g-recaptcha-response");
+          textarea.setAttribute("aria-hidden", "true");
+          textarea.setAttribute("aria-label", "do not use");
+          textarea.setAttribute("aria-readonly", "true");
+     	} );
+
+	</script>
+
+    <!-- Hack to enable multiple modals by making sure the .modal-open class
+    // is set to the <body> when there is at least one modal open left -->
+    <script type="text/javascript">
+
+    function recaptchaCallback() {
+        $('#submitBtn').removeAttr('disabled');
+    };
+    // Collapse navbar when clicking on item
+    $(".nav").find("li").on("click", "a", function () {
+         $('.navbar-collapse.in').collapse('hide');
+     });
+
+    $(document).ready(function() {
+       if(window.location.href.indexOf('#DietAndLifestyle') != -1) {
+         $('#DietAndLifestyle').modal('show');
+       }
+       if(window.location.href.indexOf('#RaceAndAdvertising') != -1) {
+         $('#RaceAndAdvertising').modal('show');
+       }
+     });
+
+    $('body').on('hidden.bs.modal', function () {
+        if($('.modal.in').length > 0)
+        {
+            $('body').addClass('modal-open');
+        }
+    });
+	</script>
+
+
+	<!-- *****************************************************************************************************************
+	 MODAL - DIET & LIFESTYLE
+	 ***************************************************************************************************************** -->
+
+     <!-- Modal -->
+<div class="modal fade" id="DietAndLifestyle" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content dandl">
+        	<div class="modal-header">
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        		<h5 class="modal-title dandl" id="myModalLabel">Diet & Lifestyle Choices Interview</h5>
+      		</div>
+            <div class="modal-body">
+             <p class="lead">During the next 20-30 minutes, you'll be asked about your diet, lifestyle choices, values, ethics, and other topics. At the end, you will be given an opportunity to learn more about the topics covered.
+<!--At the end, you'll be able to compare your responses with those of other people.--></p>
+
+             <p class="lead">The interview is part of an academic study being conducted by Professor Scott Plous of Wesleyan University. All responses will be held in strict confidence, and no personal information will ever be sold or distributed for commercial purposes. </p>
+
+             <p class="lead">As a thank you, anyone completing the interview for the first time will have the chance to be entered into a $300 cash drawing. This drawing will take place after the study is over, and the winner will be contacted by email.</p>
+
+            <h5>Before you take the Interview, please note:</h5>
+            <ul>
+              <li>During the interview you will not be able to change previous answers, so please consider your answers carefully.</li>
+              <li>At the end, you will be able to view and print a complete transcript of your interview.</li>
+            </ul>
+            </div>
+            <div class="modal-footer text-center">
+             <button type="button" class="btn btn-theme btn-wide" data-dismiss="modal" data-toggle="modal" data-target="#DietAndLifestyle2">Continue</button>
+          </div>
+  		</div>
+  	</div>
+</div>
+
+     <!-- Modal 2 -->
+        <div class="modal fade" id="DietAndLifestyle2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content dandl">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        		<h5 class="modal-title" id="myModalLabel">Informed Consent Statement</h5>
+                    </div>
+                    <div class="modal-body">
+                    <p class="lead">An informed consent statement appears below. If it is acceptable to you, click the "I Agree" button. To view or print a PDF version of the consent form, click <a href="lifestyle/consent.pdf" target="_blank" title="Link opens Diet and Lifestyle consent PDF document">here</a>. </p>
+                    	<div class="box">
+                    <p>This study involves a web-based interview about various lifestyle attitudes and behaviors. The interview is not for commercial purposes; it is part of a research project being conducted by Professor Scott Plous of Wesleyan University, and it has been approved by the Wesleyan University Institutional Review Board. No deception is involved, and the study involves no more than minimal risk to participants (i.e., the level of risk encountered in daily life).<br /><br />
+
+                      Participation typically takes 20-30 minutes and is anonymous. As a token of thanks, you will have the option of being entered in a drawing for $300 cash (paid to a randomly selected participant at the conclusion of the study). During the interview, you will be asked a variety of questions about your habits and attitudes, and you will be free to answer with as much or as little detail as you would like to offer. Participation is strictly voluntary -- you may refuse participation or end the interview at any time, and you will still be entered in the cash drawing if you choose to be. In addition, please note that your decision whether to participate will have no effect on any score or grade you receive in courses taught by Professor Plous.<br /><br />
+
+                      All responses will be held in strict confidence, and in no case will data from individual participants be identified. When reporting the results, all numeric and categorical data will be pooled and published in aggregate form only. To ensure the confidentiality of responses, the interview also uses a "secure" connection of the kind typically used for credit card transactions.<br /><br />
+
+                      Many individuals find participation in this study interesting and informative, and the results will help social scientists understand how people make difficult personal decisions about their lifestyle and behavior. If you have further questions about this study or your rights, or if you wish to lodge a complaint or concern, you may contact the principal investigator, Professor Scott Plous, at (860) 685-2368, or Professor Jen Rose, Chair of the Wesleyan University Institutional Review Board, at the Department of Psychology, Wesleyan University, 207 High Street, Middletown, CT 06459.<br /><br />
+
+                      If you are 18 years of age or older, understand the statements above, and freely consent to participate in the study, check "I agree" and click "Continue" to begin the interview.
+						</div>
+                    </div>
+                    <div class="modal-footer text-center">
+                     <a href="https://secure.einterview.org/lifestyle.html" class="btn btn-theme btn-wide">I Agree</a>
+                     <button type="button" class="btn btn-theme btn-wide" data-dismiss="modal">I Disagree</button>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+
+<!-- *****************************************************************************************************************
+	 MODAL - RACE & ADVERTISING
+	 ***************************************************************************************************************** -->
+
+     <!-- Modal -->
+        <div class="modal fade" id="RaceAndAdvertising" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content randa">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h5 class="modal-title" id="myModalLabel">Race & Advertising Interview</h5>
+                    </div>
+                    <div class="modal-body">
+                      <p>During the next 15-20 minutes, you will be asked about race relations, advertising, and society. At the end, you will be given an opportunity to learn more about the topics covered.
+<!--At the end, you'll be able to compare your responses with those of other people.--></p>
+
+                      <p>The interview is part of an academic study being conducted by Professor Scott Plous of Wesleyan University. All responses will be held in strict confidence, and no personal information will ever be sold or distributed for commercial purposes.</p>
+
+                      <p>As a thank you, anyone completing the interview for the first time will have the chance to be entered into a $300 cash drawing. This drawing will take place after the study is over, and the winner will be contacted by email.</p>
+
+                      <h5>Before you take the Interview, please note:</h5>
+                      <ul>
+                        <li>During the interview you will not be able to change previous answers, so please consider your answers carefully.</li>
+                        <li>At the end, you will be able to view and print a complete transcript of your interview.</li>
+                      </ul>
+                    </div>
+                    <div class="modal-footer text-center">
+                      <button type="button" class="btn btn-theme btn-wide" data-dismiss="modal" data-toggle="modal" data-target="#RaceAndAdvertising2">Continue</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+     <!-- Modal 2 -->
+        <div class="modal fade" id="RaceAndAdvertising2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content randa">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        		            <h5 class="modal-title" id="myModalLabel">Informed Consent Statement</h5>
+                    </div>
+                    <div class="modal-body">
+                      <p class="lead">An informed consent statement appears below. If it is acceptable to you, click the "I Agree" button. To view or print a PDF version of the consent form, click <a href="ads/consent.pdf" target="_blank" title="Link opens Race and Advertising consent PDF document">here</a>. </p>
+                    	<div class="box">
+                        <p>This study involves a web-based interview about various lifestyle attitudes and behaviors. The interview is not for commercial purposes; it is part of a research project being conducted by Professor Scott Plous of Wesleyan University, and it has been approved by the Wesleyan University Institutional Review Board. No deception is involved, and the study involves no more than minimal risk to participants (i.e., the level of risk encountered in daily life).<br /><br />
+
+                        Participation typically takes 20-30 minutes and is anonymous. As a token of thanks, you will have the option of being entered in a drawing for $300 cash (paid to a randomly selected participant at the conclusion of the study). During the interview, you will be asked a variety of questions about your habits and attitudes, and you will be free to answer with as much or as little detail as you would like to offer. Participation is strictly voluntary -- you may refuse participation or end the interview at any time, and you will still be entered in the cash drawing if you choose to be. In addition, please note that your decision whether to participate will have no effect on any score or grade you receive in courses taught by Professor Plous.<br /><br />
+
+                        All responses will be held in strict confidence, and in no case will data from individual participants be identified. When reporting the results, all numeric and categorical data will be pooled and published in aggregate form only. To ensure the confidentiality of responses, the interview also uses a "secure" connection of the kind typically used for credit card transactions.<br /><br />
+
+                        Many individuals find participation in this study interesting and informative, and the results will help social scientists understand how people make difficult personal decisions about their lifestyle and behavior. If you have further questions about this study or your rights, or if you wish to lodge a complaint or concern, you may contact the principal investigator, Professor Scott Plous, at (860) 685-2368, or Professor Jen Rose, Chair of the Wesleyan University Institutional Review Board, at the Department of Psychology, Wesleyan University, 207 High Street, Middletown, CT 06459.<br /><br />
+
+                        If you are 18 years of age or older, understand the statements above, and freely consent to participate in the study, check "I agree" and click "Continue" to begin the interview.
+						         </div>
+                   </div>
+                  <div class="modal-footer text-center">
+                    <a href="https://secure.einterview.org/ads.html" class="btn btn-theme btn-wide">I Agree</a>
+                    <button type="button" class="btn btn-theme btn-wide" data-dismiss="modal">I Disagree</button>
+                  </div>
+                </div>
+            </div>
+        </div>
+        <div style="display:none;">
+          <img src="img/bg_dandl.jpg" width="1" height="1" border="0" alt="Diet and Lifestyle Background">
+          <img src="img/bg_randa.jpg" width="1" height="1" border="0" alt="Race and Advertising Background">
+        </div>
+  </body>
+</html>

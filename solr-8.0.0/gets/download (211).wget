@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cognitive Psychology Applied to User Experience in Video Games - Celia Hodent</title>
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://celiahodent.com/xmlrpc.php">
+
+<!-- This site is optimized with the Yoast SEO plugin v10.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://celiahodent.com/cognitive-psychology-applied-to-user-experience-in-video-games/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cognitive Psychology Applied to User Experience in Video Games - Celia Hodent" />
+<meta property="og:description" content="This article was originally published by Springer in February 2016 as part of the Encyclopedia of Computer Graphics and Games. Article reproduced here with their authorisation.  &nbsp; Definition The user experience (UX) entails a person’s perceptions and interactions with a product or software (such as a video game) and the satisfaction and emotions elicited via this interaction. &hellip;" />
+<meta property="og:url" content="https://celiahodent.com/cognitive-psychology-applied-to-user-experience-in-video-games/" />
+<meta property="og:site_name" content="Celia Hodent" />
+<meta property="article:tag" content="Article" />
+<meta property="article:tag" content="Cognitive psychology" />
+<meta property="article:tag" content="Ux" />
+<meta property="article:section" content="Blog" />
+<meta property="article:published_time" content="2016-03-05T04:11:33+00:00" />
+<meta property="article:modified_time" content="2018-01-20T22:39:10+00:00" />
+<meta property="og:updated_time" content="2018-01-20T22:39:10+00:00" />
+<meta property="og:image" content="https://celiahodent.com/wp-content/uploads/2015/04/Visuel-Facebook.jpg" />
+<meta property="og:image:secure_url" content="https://celiahodent.com/wp-content/uploads/2015/04/Visuel-Facebook.jpg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Person","url":"https://celiahodent.com/","sameAs":["https://www.linkedin.com/in/celiahodent","https://twitter.com/CeliaHodent"],"@id":"#person","name":"Celia Hodent"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Celia Hodent &raquo; Feed" href="https://celiahodent.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Celia Hodent &raquo; Comments Feed" href="https://celiahodent.com/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.5.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.5.1';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-61265939-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-61265939-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/celiahodent.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='social-icons-widget-widget-css'  href='https://celiahodent.com/wp-content/plugins/social-media-icons-widget/css/social_icons_widget.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://celiahodent.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://celiahodent.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='radiate-style-css'  href='https://celiahodent.com/wp-content/themes/radiate_child/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='radiate-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%7CMerriweather%3A400%2C300&#038;ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='https://celiahodent.com/wp-content/plugins/addthis-smart-layers/frontend/build/addthis_wordpress_public.min.css?ver=5.1.1' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/celiahodent.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://celiahodent.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.5.1'></script>
+<script type='text/javascript' src='https://celiahodent.com/wp-content/mu-plugins/1and1-wordpress-assistant/js/cookies.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://celiahodent.com/wp-admin/admin-ajax.php?action=addthis_global_options_settings&#038;ver=5.1.1'></script>
+<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js?ver=5.1.1#pubid=ac7d81830bf8ff3b4f5afa4dee032616'></script>
+<script type='text/javascript' src='https://celiahodent.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://celiahodent.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/celiahodent.com\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"yes","onScrollOffset":"200","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://celiahodent.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.46'></script>
+<link rel='https://api.w.org/' href='https://celiahodent.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://celiahodent.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://celiahodent.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<link rel='shortlink' href='https://celiahodent.com/?p=685' />
+<link rel="alternate" type="application/json+oembed" href="https://celiahodent.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceliahodent.com%2Fcognitive-psychology-applied-to-user-experience-in-video-games%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://celiahodent.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceliahodent.com%2Fcognitive-psychology-applied-to-user-experience-in-video-games%2F&#038;format=xml" />
+
+            <!--/ Facebook Thumb Fixer Open Graph /-->
+            <meta property="og:type" content="article" />
+            <meta property="og:url" content="https://celiahodent.com/cognitive-psychology-applied-to-user-experience-in-video-games/" />
+            <meta property="og:title" content="Cognitive Psychology Applied to User Experience in Video Games" />
+            <meta property="og:description" content="This article was originally published by Springer in February 2016 as part of the Encyclopedia of Computer Graphics and Games. Article reproduced here with their authorisation.  &nbsp; Definition The user experience (UX) entails a person’s perceptions and interactions with a product or software (such as a video game) and the satisfaction and emotions elicited via this interaction. [&hellip;]<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts below via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt -->" />
+            <meta property="og:site_name" content="Celia Hodent" />
+            <meta property="og:image" content="https://celiahodent.com/wp-content/uploads/2017/12/visuel_facebook_2017.jpg" />
+            <meta property="og:image:alt" content="" />
+            <meta property="og:image:width" content="" />
+            <meta property="og:image:height" content="" />
+
+            <meta itemscope itemtype="article" />
+            <meta itemprop="description" content="This article was originally published by Springer in February 2016 as part of the Encyclopedia of Computer Graphics and Games. Article reproduced here with their authorisation.  &nbsp; Definition The user experience (UX) entails a person’s perceptions and interactions with a product or software (such as a video game) and the satisfaction and emotions elicited via this interaction. [&hellip;]<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts below via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt -->" />
+            <meta itemprop="image" content="https://celiahodent.com/wp-content/uploads/2017/12/visuel_facebook_2017.jpg" />
+
+            <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:url" content="https://celiahodent.com/cognitive-psychology-applied-to-user-experience-in-video-games/" />
+            <meta name="twitter:title" content="Cognitive Psychology Applied to User Experience in Video Games" />
+            <meta name="twitter:description" content="This article was originally published by Springer in February 2016 as part of the Encyclopedia of Computer Graphics and Games. Article reproduced here with their authorisation.  &nbsp; Definition The user experience (UX) entails a person’s perceptions and interactions with a product or software (such as a video game) and the satisfaction and emotions elicited via this interaction. [&hellip;]<!-- AddThis Advanced Settings above via filter on get_the_excerpt --><!-- AddThis Advanced Settings below via filter on get_the_excerpt --><!-- AddThis Advanced Settings generic via filter on get_the_excerpt --><!-- AddThis Share Buttons above via filter on get_the_excerpt --><!-- AddThis Share Buttons below via filter on get_the_excerpt --><!-- AddThis Share Buttons generic via filter on get_the_excerpt --><!-- AddThis Related Posts below via filter on get_the_excerpt --><!-- AddThis Related Posts generic via filter on get_the_excerpt -->" />
+            <meta name="twitter:image" content="" />
+            
+
+
+<style>
+.scroll-back-to-top-wrapper {
+    position: fixed;
+	opacity: 0;
+	visibility: hidden;
+	overflow: hidden;
+	text-align: center;
+	z-index: 99999999;
+    background-color: #5a3c69;
+	color: #ffffff;
+	width: 40px;
+	height: 38px;
+	line-height: 38px;
+	right: 30px;
+	bottom: 30px;
+	padding-top: 2px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+.scroll-back-to-top-wrapper:hover {
+	background-color: #8c6e9b;
+  color: #ffffff;
+}
+.scroll-back-to-top-wrapper.show {
+    visibility:visible;
+    cursor:pointer;
+	opacity: 1.0;
+}
+.scroll-back-to-top-wrapper i.fa {
+	line-height: inherit;
+}
+.scroll-back-to-top-wrapper .fa-lg {
+	vertical-align: 0;
+}
+</style>		<style type="text/css" id="custom-header-css">
+		#parallax-bg { background-image: url('https://celiahodent.com/wp-content/uploads/2017/12/header_brainship_2017.jpg'); background-repeat: repeat-x; background-position: center top; background-attachment: scroll; } #masthead { margin-bottom: 350px; } 
+		@media only screen and (max-width: 600px) { #masthead { margin-bottom: 282px; }  }
+		</style>
+				<style type="text/css" id="custom-background-css">
+		body.custom-background { background: none !important; } #content { background-color: #dbdbdb; background-image: url('https://celiahodent.com/wp-content/uploads/2017/12/pattern_clair_2017.jpg'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+		</style>
+			<style type="text/css">
+			blockquote { border-color: #EAEAEA #EAEAEA #EAEAEA #5a3c69; }
+			a { color: #5a3c69; }
+			.site-title a:hover { color: #5a3c69; }
+			.main-navigation a:hover, .main-navigation ul li.current-menu-item a, .main-navigation ul li.current_page_ancestor a, .main-navigation ul li.current-menu-ancestor a, .main-navigation ul li.current_page_item a, .main-navigation ul li:hover > a { background-color: #5a3c69; }
+			.main-navigation ul li ul li a:hover, .main-navigation ul li ul li:hover > a, .main-navigation ul li.current-menu-item ul li a:hover { background-color: #5a3c69; }
+			#masthead .search-form { background-color: #5a3c69; }
+			.header-search-icon:before { color: #5a3c69; }
+			button, input[type="button"], input[type="reset"], input[type="submit"] { 	background-color: #5a3c69; }
+			#content .entry-title a:hover { color: #5a3c69; }
+			.entry-meta span:hover { color: #5a3c69; }
+			#content .entry-meta span a:hover { color: #5a3c69; }
+			#content .comments-area article header cite a:hover, #content .comments-area a.comment-edit-link:hover, #content .comments-area a.comment-permalink:hover { color: #5a3c69; }
+			.comments-area .comment-author-link a:hover { color: #5a3c69; }
+			.comment .comment-reply-link:hover { color: #5a3c69; }
+			.site-header .menu-toggle { background: #5a3c69; }
+			.site-header .menu-toggle:hover { background: #5a3c69; }
+			.main-small-navigation li:hover { background: #5a3c69; }
+			.main-small-navigation ul > .current_page_item, .main-small-navigation ul > .current-menu-item { background: #5a3c69; }
+			.main-small-navigation ul li ul li a:hover, .main-small-navigation ul li ul li:hover > a, .main-small-navigation ul li.current-menu-item ul li a:hover { background-color: #5a3c69; }
+			#featured_pages a.more-link:hover { border-color:#5a3c69; color:#5a3c69; }
+			a#back-top:before { background-color:#5a3c69; }</style>
+		<style type="text/css">#parallax-bg {
+   background-repeat: no-repeat;
+   background-size: 1500px 350px;
+   background-color:#FFF;
+}
+@media screen and (max-width: 768px) {
+#masthead {
+margin-bottom: 179px;
+}
+#parallax-bg {
+background-repeat: no-repeat;
+background-size: 768px 179px;
+margin-top: 120px
+}
+}
+@media screen and (max-width: 767px) {
+#masthead {
+margin-bottom: 140px !important;
+}
+#parallax-bg {
+background-repeat: no-repeat;
+background-size: 600px 140px;
+margin-top: 120px
+}
+@media only screen and (max-width: 400px) {
+#masthead {
+margin-bottom: 93px !important;
+}
+#parallax-bg {
+background-repeat: no-repeat;
+background-size: 400px 93px;
+margin-top: 120px
+}
+}</style>
+		<style type="text/css">
+			.site-title a {
+			color: #5a5a5a;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #dbdbdb; background-image: url("https://celiahodent.com/wp-content/uploads/2017/12/pattern_clair_2017.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-685 single-format-standard custom-background cookies-not-set do-etfw">
+<div id="parallax-bg"></div>
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+		<div class="header-wrap clearfix">
+			<div class="site-branding">
+				<h1 class="site-title"><a href="https://celiahodent.com/" title="Celia Hodent" rel="home">Celia Hodent</a></h1>
+				<h2 class="site-description">Brains, UX, and Games!</h2>
+			</div>
+
+			<div class="header-search-icon"></div>
+			<form role="search" method="get" class="search-form" action="https://celiahodent.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+	
+
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<h1 class="menu-toggle"></h1>
+				<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+				<div class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15"><a href="https://celiahodent.com/">Home</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://celiahodent.com/about/">About</a></li>
+<li id="menu-item-982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-982"><a href="https://celiahodent.com/consulting/">Consulting / Speaking</a></li>
+<li id="menu-item-1074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1074"><a href="https://celiahodent.com/category/masterclass/">Masterclass</a></li>
+<li id="menu-item-1064" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1064"><a href="https://celiahodent.com/category/blog/">Blog</a></li>
+<li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="https://celiahodent.com/resources/">Resources</a></li>
+</ul></div>			</nav><!-- #site-navigation -->				
+		</div><!-- .inner-wrap header-wrap -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+		<div class="inner-wrap">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-685" class="post-685 post type-post status-publish format-standard hentry category-blog tag-article tag-cognitive-psychology tag-ux">
+	<header class="entry-header">
+		<h1 class="entry-title">Cognitive Psychology Applied to User Experience in Video Games</h1>
+
+		<div class="entry-meta">
+			<span class="posted-on"><a href="https://celiahodent.com/cognitive-psychology-applied-to-user-experience-in-video-games/" rel="bookmark"><time class="entry-date published" datetime="2016-03-04T23:11:33-05:00">03/04/2016</time><time class="updated" datetime="2018-01-20T17:39:10-05:00">01/20/2018</time></a></span><span class="byline"><span class="author vcard"><a class="url fn n" href="https://celiahodent.com/author/celiafraggle/">Celia HODENT</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="at-above-post addthis_tool" data-url="https://celiahodent.com/cognitive-psychology-applied-to-user-experience-in-video-games/"></div><p><em>This article was originally published by <a href="http://link.springer.com/referenceworkentry/10.1007/978-3-319-08234-9_53-1" target="_blank" rel="noopener">Springer</a> in February 2016 as part of the <a href="http://link.springer.com/referencework/10.1007/978-3-319-08234-9" target="_blank" rel="noopener">Encyclopedia of Computer Graphics and Games</a>. Article reproduced here with their authorisation. </em></p>
+<p>&nbsp;</p>
+<p><strong>Definition</strong></p>
+<p>The user experience (UX) entails a person’s perceptions and interactions with a product or software (such as a video game) and the satisfaction and emotions elicited via this interaction. UX overall refers to an over-arching discipline focused on evaluation and improvement of users’ experience of a given product or software in development.</p>
+<p>Cognitive psychology is a discipline dedicated to understanding the human mind via mental processes such as problem solving, language, perception, attention, and memory.</p>
+<p><span id="more-685"></span></p>
+<p>&nbsp;</p>
+<p><strong>Introduction</strong></p>
+<p>The designer Donald Norman popularized the notion of user experience (UX) in the 1990s (Norman et al., 1995). Originating in the fields of Human Factors and Human-Computer Interaction, UX as a discipline incorporates knowledge and methodologies from behavioral sciences – including cognitive psychology – to evaluate the ease of use and emotions elicited from a product or system. Video game studios have increasingly turned to this relatively new discipline to ensure that the games they develop offer a compelling experience to the targeted players. The inclusion of UX considerations in the design process saves rather than costs a studio money as it allows for more successful game development, contrary to <a href="https://celiahodent.com/five-misconceptions-ux/" target="_blank" rel="noopener">some misconceptions</a> (see Hodent, 2015). According to game designer Tracy Fullerton, to design a game is to create an “elusive combination of challenge, competition, and interaction that players just call “fun”” (Fullerton, 2014, p. XIX). However, no objective definition of fun has emerged, nor any detailed parameters to attain it. UX offers a framework to ensure that the experience intended is the one ultimately felt by the target audience. UX representatives use guidelines (heuristics) and methodologies (user research) to anticipate and evaluate how end users interact with a specific game, software, or service and the emotions elicited via this interaction.</p>
+<p>&nbsp;</p>
+<p><strong>Considering the player’s mind</strong></p>
+<p>The user experience of video games happens in the player’s mind (see Schell, 2008). An important perspective when considering video games’ UX is that the game designers and end players may invoke different mental models. Norman described mental models in his seminal book <em>The Design of Everyday Things</em> (Norman, 1988). According to Norman, a system (such as a video game) is designed and implemented based on the designer’s mental model of what the system should entail and how it should function. Players then develop their own mental model of how <em>they</em> think the game works through their interactions with it, given their prior knowledge and expectations. The main objective of UX is to ensure that users experience the game (the system image) the way the game developers intended, through players’ perception of the game and their interaction with it. The developers have to adjust the vision of the game in development to comply with the limitations of the system (e.g. platform, performance) and the limitations of game production resources (e.g. timeline, workforce). Similarly, the developers must comply with the capabilities and limitations of the human mind to offer a compelling experience to the players. Playing a video game is a learning experience, from discovering the game to mastering its subtleties. Information that the brain processes originates from perceived input that then impacts the memory of a subject. The quality of the processing – and ultimately the quality of the retention – depends highly on the attentional resources applied, which are also dependent on the emotions and motivation felt by the players. Thus, to improve the experience of the players, <a href="https://celiahodent.com/the-gamers-brain/" target="_blank" rel="noopener">video game developers must take into account the perception, memory, and attention limitations of the brain</a>, as well as the emotions and motivation felt by the players.</p>
+<p>&nbsp;</p>
+<p><u>Perception</u></p>
+<p>Perception involves all the mental processes that allow us to sense our environment and construct our own mental representations of it. Thus, these processes are bottom-up proceeding from sensation to cognition (access to semantics) and also top-down whereby cognition (i.e. previous knowledge, expectation) impacts one’s sensations. For example, the save icon (usually symbolized by a floppy disk) is likely meaningless to young children who do not have a mental representation for this object, until they learn what it symbolizes when using a computer. This example illustrates that perception is subjective. It varies depending on the context in which the input is presented and on one’s previous knowledge or expectations. Therefore, game players or technology users may understand a specific element differently than what the designer had intended. To ensure that the game menus and signs and feedback will be understood as designed, it is important to assess them with the end users during usability tests whereby, for example, a sample of target users are presented with icons and they have to explain what the icons look like and denote. Ideally, the form (shape) of an icon should correctly inform the players about its function (what it does or how to interact with it).</p>
+<p>The signs in a video game refer to all the perceptible cues that either urge the player to execute a specific action or inform the player of a system status. For example, a yellow exclamation mark above a non-player character (NPC) encourages the player to interact with that NPC. Other signs, such as a green bar or red hearts, may inform the player of a system status, such as the avatar’s health. Game feedback is the reaction of the system to the player’s action. For example, an avatar may animate when the player uses the thumbstick or WASD keys. Another example is the ammunition count depleting when the player is shooting. Overall, all possible interactions should have signs and feedback associated with them. These signs and feedback, and the user interface overall, should be perceptible and provide enough clarity to help the player understand the game mechanics. The Gestalt principles provide useful guidelines that should help designers organize the game interface in a way that will be correctly understood by the players (see Johnson, 2010, for examples in software design). Gestalt principles account for how the human mind perceives and organizes the environment (Wertheimer, 1923). For example, the Gestalt law of proximity describes how elements that are close to one another are interpreted as belonging to the same group. When considering the heads-up display (HUD) of a game, displaying the icons and symbols representing features that are related next to each other enacts this law. Thus, it is what the end players subjectively perceive and understand about the game interface that matters, not the reality of what the developers and designers have implemented.</p>
+<p>&nbsp;</p>
+<p><u>Memory</u></p>
+<p>Memory allows us to encode, store, and retrieve information and has been seen as comprised of sensory memory, working memory, and long-term memory (Atkinson and Shiffrin, 1971; Baddeley, 1986). Sensory memory is part of perception and retains sensory information for a very short period of time (such as a fraction of a second) without it being consciously processed. For example, the persistence of vision (e.g. fleeting images) reflects sensory memory, which allows us to perceive a 24-image-per-second display as an uninterrupted animation. Working memory is a short-term component that allows for temporary storage (e.g. a few minutes) and manipulation of a very limited amount of new or already stored information. This system maintains active mental representation necessary to perform a task. For example, performing a mental calculation entails keeping numbers active in the working memory while manipulating them. Working memory requires substantial attentional resources (see the description of attention below) and therefore is very limited in duration and capacity. In fact, learning can be hampered and result in cognitive load when work-memory limits are exceeded (Sweller, 1994). Long-term memory is a multiple-system component that allows us to store knowledge of events and skills (know-how). Long-term memory has no known limits and is seen as potentially storing information indefinitely although forgetting is possible.</p>
+<p>In 1885, the psychologist Hermann Ebbinghaus illustrated with the forgetting curve how memory retention declines exponentially with time (Ebbinghaus, 1885). Retention of information, especially if not engaging emotionally or meaningful, can be very fragile. Some variables have an impact on the strength and quality of the encoding and storage of information, such as the level of processing (the deeper the process the better the retention) and the amount of repetition over time. Not only the brain is prone to memory lapses, but it can also distort memories. Because of these limitations, developers cannot rely too heavily on players’ memories. Even if some information has been encoded via tutorials during the onboarding part of the game, it is likely going to fade with time unless used regularly. This is why it is generally a good practice to reduce to a minimum the information that the players have to remember in order to enjoy the game (i.e. mechanics, controls, objectives) and to give frequent reminders, especially since a long time can elapse between two gaming sessions. It is also important to prioritize the information players have to learn and to distribute learning over time. Lastly, the strength of retention can be increased if the players can learn by doing (see Lesgold, 2001) in a meaningful context – instead of first reading tutorial texts and then doing. Therefore, it is a better practice to place the players in a situation when they have to execute a new action to accomplish an immediate goal. For example, placing a chest beyond a hole is a meaningful and active way to teach players about jumping and looting mechanics.</p>
+<p>&nbsp;</p>
+<p><u>Attention</u></p>
+<p>Our senses are continuously assailed by multiple inputs from our environment. Attention entails allocating more cognitive resources to process selected inputs while the others will be ignored (selective attention). The brain’s attentional resources being very limited, we do not methodically process all the available information from the environment. Instead, attention works like a spotlight, focusing resources to process and retain particular elements and neglecting the other inputs. For example, when in a loud and crowded cocktail party, one can pay attention to a specific conversation but cannot process all the other conversations at earreach; these are suppressed from conscious attention. Only an attention-grabbing event – such as a sudden loud sound or light flash – can then draw attention away from the current information attended. When attention is divided, for example when driving while having a conversion over the phone, it requires more cognitive load to process the different information, therefore leading to more fatigue and mistakes. In fact, the brain cannot usually multitask efficiently; either one task or both are performed less efficiently, unless at least one of the tasks is very simple or automatic (such as chewing gum while reading). Similarly, the more demanding a specific task is in terms of cognitive load (e.g. complex mental calculation) the less a subject can allocate mental effort to accomplish another task, even though simple (such as pressing a button when a red light goes off; cf. Kahneman, 1973). Subsequently, the more attention is allocated to a task or information, the better it will be retained, therefore learned, as seen in the Memory section above. Thus, it is critical to draw the players’ attention to the elements that they need to learn. Given that all of our mental processes are using the same limited attentional resources, the developers must mind the cognitive load the game demands from the player, especially during the onboarding of a video game, when the players have a lot of new information to process.</p>
+<p>When elements are unattended, there are likely not perceived at all, in a phenomenon called inattentional blindness (Mack and Rock, 1998). This phenomenon was best illustrated in the well-known “gorilla” experiment (Simons and Chabris, 1999) whereby subjects had to watch a video in which two teams of people were moving around and passing basketballs. One team was wearing black shirts and the other team white shirts. The subjects were asked to count basketball passes made by players of the white team only. In the middle of the video, a person in a black gorilla suit walked into the scene, pauses, and then walked off the scene. The results showed that most subjects, directing their attention into counting the basketball passes from the white team, missed the gorilla although quite prominent in the scene. This study explains why players, when focused on a task, can stay blind to any other information conveyed at the same time. For instance, if tutorial text information about the health mechanic is displayed while the players are experiencing their first combat, they will likely not process or even perceive that information as all their attention is focused on surviving their first enemy encounter. Therefore, it is preferable to avoid displaying important information when the players are directing their attention to another task.</p>
+<p>&nbsp;</p>
+<p><u>Emotion and Motivation</u></p>
+<p>According to Norman (2005), “the emotional side of design may be more critical to a product’s success than its practical elements” (p.5). The emotional aspect in video games is frequently addressed through aesthetics, music, or narrative. However, an important aspect of emotional game design has to be considered as well: the “game feel”. Game designer Steve Swink (2009) describes game feel as including “feelings of mastery and clumsiness, and the tactile sensation of interacting with virtual objects” (p.10). Accounting for the game feel involves carefully designing the camera, controls, and characters. For example, if the camera of the game has a very narrow field of view (FOV) it may give players a feeling of claustrophobia, which would be inappropriate for a peaceful exploration game. It could however be appropriate for a horror survival game, depending on the game design intentions.</p>
+<p>Players’ motivation is another important variable to consider when developing a game. According to Przybylski et al. (2010) “both the appeal and well-being effects of video games are based in their potential to satisfy basic psychological needs” (p. 154). Therefore, a game that satisfies basic psychological needs for competence, autonomy, and relatedness (c.f. Deci and Ryan, 1985) will more likely be engaging. Competence entails the players’ sense of mastery and feeling of progression towards clear goals (i.e. Nintendo’s <em>Legend of</em> <em>Zelda</em> series require increasing mastery to progress in the game). Autonomy encompasses offering meaningful choices to the players and opportunities for self-expression (i.e. Mojang’s <em>Minecraft</em> allows the player to experiment with the game environment in a creative way). Relatedness involves primarily the need to feel connected to others. Relatedness in games is often addressed through multiplayer features allowing players to interact with each other in real time or asynchronously, via cooperative or competitive goals. Sustained motivation and emotional connection both have an impact on the enjoyment of a game. These components also have an impact on the learning experience and the quality of information retention.</p>
+<p>&nbsp;</p>
+<p><strong>Usability and Gameflow, the two components of User Experience in Video Games</strong></p>
+<p>To ensure a good video game user experience, it is important to <a href="https://celiahodent.com/ux-practices-epic-games/" target="_blank" rel="noopener">consider its usability and gameflow</a>. Making software – such as a video game – usable means “paying attention to human limits in memory, perception, and attention; it also means anticipating likely errors that can be made and being ready for them, and working with the expectations and abilities of those who will use the software” (Isbister and Schaffer, 2008, p. 4). Usability is about removing or a least alleviating all the frustrations and confusion the player could experience while playing the game, if they are not intended by design. Broad guidelines – heuristics – can be used to attain usability. Many usability heuristics have been developed, both in web (e.g. Nielsen, 1994) and game design (e.g. Desurvire et al., 2004; Laitinen, 2008). These heuristics take into account the human brain capabilities and limitations in perception, attention, and memory described earlier. The gameflow component refers to how enjoyable and engaging the video game is. It takes its roots from the notion of flow, described by psychologist Mihaly Csikszentmihalyi as the optimal experience whereby “a person’s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile” (Csikszentmihalyi, 1990, p. 3). The gameflow component offers a set of criteria, or heuristics, to improve the emotion response and motivation felt by the players, in an adaptation of the concept of flow into games (Chen, 2007; Sweetser and Wyeth, 2005). By considering both usability and gameflow heuristics, a UX framework can be developed to provide a useful checklist for game developers (see Hodent, 2014a, for an example of a UX framework applied to game design).</p>
+<p><strong> </strong></p>
+<p><strong>Conclusion</strong></p>
+<p>To warrant an engaging and enjoyable user experience, game developers need to consider human capabilities and limitations by adopting a UX framework (Hodent, 2014b). Such framework is taking into account the limitations of the human brain in perception, attention, and memory. It also considers the emotional response and motivation felt by the players. It can be used during the development of a video game as a checklist to ensure that the usability and gameflow guidelines are respected, therefore increasing the chances of offering a compelling user experience to the targeted audience. A UX framework provides game developers with useful guidance to improve the quality of their game and ensure that their intended design is the one experienced by the target audience.</p>
+<p>&nbsp;</p>
+<p><strong>References</strong></p>
+<p>Atkinson, R.C., Shiffrin, R.M.: The control of short-term memory. Scientific Am. 225, 82-90 (1971)</p>
+<p>Baddeley, A.D.: Working Memory. Oxford University Press, New York (1986)</p>
+<p>Chen, J.: Flow in Games (and Everything Else). Commun ACM. 50, 31-34 (2007)</p>
+<p>Csikszentmihalyi, M.: Flow: The Psychology of Optimal Experience. Harper Perennial (1990)</p>
+<p>Deci, E.L., Ryan, R.M.: Intrinsic motivation and self-determination in human behavior. Plenum (1985)</p>
+<p>Desurvire, H., Caplan, M., Toth, J.A.: Using Heuristics to Evaluate the Playability of Games. Extended Abstracts CHI ’04. ACM, New York, NY, 1509-1512 (2004)</p>
+<p>Ebbinghaus, H.: Über das Gedchtnis. Untersuchungen zur experimentellen Psychologie. Duncker &amp; Humblot, Leipzig (1885)</p>
+<p>Fullerton, T.: Game design workshop: A playcentric approach to creating innovative games. CRC Press (2014)</p>
+<p>Hodent, C.: Developing UX Practices at Epic Games. Presented at the 2014 Game Developers Conference Europe, Cologne, Germany. Retrieved from <a href="http://www.gdcvault.com/play/1020934/Developing-UX-Practices-at-Epic">http://www.gdcvault.com/play/1020934/Developing-UX-Practices-at-Epic</a> (2014a)</p>
+<p>Hodent, C.: Toward a Playful and Usable Education. In Blumberg FC (Ed.) <em>Learning by playing: Video Gaming in Education</em>. Oxford University Press, New York (2014b)</p>
+<p>Hodent, C.: <a href="http://gamasutra.com/blogs/CeliaHodent/20150406/240476/5_Misconceptions_about_UX_User_Experience_in_Video_Games.php" target="_blank" rel="noopener">5 misconceptions about UX (User Experience) in video games</a>. Gamasutra (2015)</p>
+<p>Isbister K., Schaffer, N. (Eds.): Game Usability. Elsevier, Burlington (2008)</p>
+<p>Johnson, J.: Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines. Elsevier, Burlington (2010)</p>
+<p>Kahneman, D.: Attention and effort. Prentice Hall, Englewood Cliffs, NJ (1973)</p>
+<p>Laitinen, S.: Usability and Playability Expert Evaluation. In Ibister K, Schaffer N (Eds.) Game Usability. Elsevier, Burlington (2008)</p>
+<p>Lesgold, A.M.: The nature and methods of learning by doing. Am Psychol. 56, 964-973 (2001)</p>
+<p>Mack, A., Rock, I.: Inattentional blindness. MIT Press, Cambridge, MA (1998)</p>
+<p>Nielsen, J.: Heuristic evaluation. In: Nielsen J, Molich RL. (Eds.) Usability Inspection Methods. John Wiley &amp; Sons, New York (1994)</p>
+<p>Norman, D.A.: The Design of Everyday Things. Doubleday, New York (1988).</p>
+<p>Norman, D.A.: Emotional Design: Why We Love (or Hate) Everyday Things. Basic Books (2005)</p>
+<p>Norman, D.A., Miller, J., Henderson, A.: What You See, Some of What&#8217;s in the Future, And How We Go About Doing It: HI at Apple Computer. Proceedings of CHI. Denver, Colorado (1995)</p>
+<p>Przybylski, A.K., Rigby, C.S., Ryan, R.M.: A Motivational Model of Video Game Engagement. Rev Gen Psychol. 14, 154-166 (2010)</p>
+<p>Schell, J.: The Art of Game Design. Elsevier/Morgan Kaufmann, Amsterdam (2008)</p>
+<p>Simons, D.J., Chabris, C.F.: Gorillas in our midst: Sustained inattentional blindness for dynamic events. Perception. 28, 1059-1074 (1999)</p>
+<p>Sweetser, P., Wyeth, P.: GameFlow: A Model for Evaluating Player Enjoyment in Games. ACM Computers in Entertainment. 3, 1-24 (2005)</p>
+<p>Sweller, J.: Cognitive load theory, learning difficulty, and instructional design. Learning and Instr. 4, 295-312 (1994)</p>
+<p>Swink, S.: Game Feel: A Game Designer’s Guide to Virtual Sensation. Morgan Kaufmann Publishers (2009)</p>
+<p>Wertheimer, M.: Untersuchungen zur Lehre der Gestalt II, Psychol Forsch. 4, 301-350 (1923) Translation published as Laws of Organization in Perceptual Forms, In Ellis WA Source Book of Gestalt Psychology, 71–88. Routledge and Kegan Paul, London (1938)</p>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post addthis_tool" data-url="https://celiahodent.com/cognitive-psychology-applied-to-user-experience-in-video-games/"></div><!-- AddThis Share Buttons generic via filter on the_content --><!-- AddThis Related Posts below via filter on the_content --><div class="at-below-post-recommended addthis_tool" ></div><!-- AddThis Related Posts generic via filter on the_content -->			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+								<span class="cat-links">
+				<a href="https://celiahodent.com/category/blog/" rel="category tag">Blog</a>			</span>
+			
+						<span class="tags-links">
+				<a href="https://celiahodent.com/tag/article/" rel="tag">Article</a>, <a href="https://celiahodent.com/tag/cognitive-psychology/" rel="tag">Cognitive psychology</a>, <a href="https://celiahodent.com/tag/ux/" rel="tag">Ux</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+				<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+
+			<div class="nav-previous"><a href="https://celiahodent.com/five-misconceptions-ux/" rel="prev"><span class="meta-nav">&larr;</span> 5 Misconceptions about UX (User Experience) in Video Games</a></div>
+			<div class="nav-next"><a href="https://celiahodent.com/how-we-introduced-ux-to-epic-games-production-pipeline-gdc16/" rel="next">How We Introduced UX to Epic Games&#8217; Production Pipeline (GDC16) <span class="meta-nav">&rarr;</span></a></div>
+
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+			
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+				<aside id="custom_html-2" class="widget_text widget widget_custom_html"><h1 class="widget-title">Welcome!</h1><div class="textwidget custom-html-widget"><html>
+<div align="justify">
+<strong><span style="color: #5A3C69;">
+This blog is dedicated to user experience in video games (Game UX).</span></strong>
+</div>
+<div align="justify">
+<span style="color: #5A5A5A; text-align:justify">I'm a Game UX consultant, author of <a href="https://www.amazon.com/Gamers-Brain-Neuroscience-Impact-Design/dp/1498775500/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1488480359&amp;sr=1-1" target="_blank" rel="noopener"><em>The Gamer's Brain</em></a>, and I'd be happy to help your project be successful, or speak at your event. You can <a href="https://goo.gl/forms/T4ZydAqi30z7D5qG2" target="_blank" rel="noopener">contact me here.</a> 
+</span>
+</div>
+<div align="right">
+<strong>
+<span style= "text-align:right"><a href="https://celiahodent.com/about/">Read More</a></span>
+</strong>
+</div>
+</html></div></aside><aside id="widget_sp_image-2" class="widget widget_sp_image"><a href="https://www.amazon.com/Gamers-Brain-Neuroscience-Impact-Design/dp/1498775500/" target="_blank" class="widget_sp_image-image-link"><img width="250" height="377" alt="The Gamer&#039;s Brain" class="attachment-250x377 aligncenter" style="max-width: 100%;" src="https://celiahodent.com/wp-content/uploads/2017/03/The_Gamers_Brain_COVER-1.jpg" /></a><div class="widget_sp_image-description" ><p>&nbsp<br />My book  <b><span style="color: #5A3C69"><em>The Gamer's Brain: How Neuroscience and UX can Impact Video Game Design</em></span></b> is now available on <b><a href="https://www.amazon.com/Gamers-Brain-Neuroscience-Impact-Design/dp/1498775500/" target="blank">Amazon</a></b></p>
+</div></aside><aside id="social-icons-widget-2" class="widget social-icons-widget"><h1 class="widget-title">Connect With Me</h1>
+<ul class="show-labels icons-medium">
+																	<li class="linkedin"><a href="http://www.linkedin.com/in/celiahodent" target="_blank"><img class="site-icon" src="https://celiahodent.com/wp-content/plugins/social-media-icons-widget/icons/medium/linkedin.jpg" alt="LinkedIn" title="LinkedIn" height="32" width="32" /><span class="site-label">LinkedIn</span></a></li>		
+										<li class="twitter"><a href="http://twitter.com/CeliaHodent" target="_blank"><img class="site-icon" src="https://celiahodent.com/wp-content/plugins/social-media-icons-widget/icons/medium/twitter.jpg" alt="Twitter" title="Twitter" height="32" width="32" /><span class="site-label">Twitter</span></a></li>		
+								
+</ul>
+</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Post</h1>		<ul>
+											<li>
+					<a href="https://celiahodent.com/masterclass-upcoming/">Upcoming Game UX Masterclass: London UK (Jan 23) and Montpellier, France (Jan 25)</a>
+									</li>
+											<li>
+					<a href="https://celiahodent.com/gdc-2017-ux-summit-overview/">GDC 2017 UX Summit &#8211; Overview</a>
+									</li>
+											<li>
+					<a href="https://celiahodent.com/gamers-brain-part-3-ux-engagement-immersion-retention-gdc17-talk/">The Gamer&#8217;s Brain, part 3: The UX of Engagement and Immersion (or Retention) &#8211; GDC17 talk</a>
+									</li>
+											<li>
+					<a href="https://celiahodent.com/the-elusive-power-of-video-games-for-education/">The elusive power of video games for education</a>
+									</li>
+											<li>
+					<a href="https://celiahodent.com/game-ux-summit-2016/">Game UX Summit 2016 &#8211; All Sessions Summary</a>
+									</li>
+					</ul>
+		</aside><aside id="do-etfw-2" class="widget widget-do-etfw">		
+		<a class="twitter-timeline" data-height="500" data-theme="light" data-link-color="#5A3C69" data-border-color="#8C6E9B" data-chrome="nofooter noborders transparent" href="https://twitter.com/@celiahodent">Tweets by @@celiahodent</a>
+</aside><aside id="search-2" class="widget widget_search"><h1 class="widget-title">Search</h1><form role="search" method="get" class="search-form" action="https://celiahodent.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+</aside>	</div><!-- #secondary -->
+
+		</div><!-- .inner-wrap -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+			Celia Hodent<span class="sep"> | </span>Brains, UX, and Games!<br />
+						Powered by 			<a href="http://wordpress.org/" rel="generator">
+			WordPress			</a>
+			<span class="sep"> | </span>
+			Theme <a href="http://themegrill.com/" target="_blank">Radiate</a><span class="sep"> | </span>Designed by <a href="http://createandenjoy.fr" target="_blank">Create&Enjoy</a> <a href="http://createandenjoy.fr" target="_blank"><img src="https://static.wixstatic.com/media/1266d6_bc737a0faf4c414792e3004cbc2c3864.gif" width="80" height="28" align="bottom"/></a>
+      </div>
+		<!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<div class="scroll-back-to-top-wrapper">
+	<span class="scroll-back-to-top-inner">
+					<i class="fa fa-2x fa-arrow-up"></i>
+			</span>
+</div><script type='text/javascript'>
+/* <![CDATA[ */
+var scrollBackToTop = {"scrollDuration":"500","fadeDuration":"0.5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://celiahodent.com/wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js'></script>
+<script type='text/javascript' src='https://celiahodent.com/wp-content/themes/radiate_child/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='https://celiahodent.com/wp-content/themes/radiate_child/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var radiateScriptParam = {"radiate_image_link":"https:\/\/celiahodent.com\/wp-content\/uploads\/2017\/12\/header_brainship_2017.jpg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://celiahodent.com/wp-content/themes/radiate_child/js/custom.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://celiahodent.com/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0'></script>
+<script type='text/javascript' src='https://celiahodent.com/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+
+			<div id="cookie-notice" role="banner" class="cn-top bootstrap" style="color: #fff; background-color: #663366;"><div class="cookie-notice-container"><span id="cn-notice-text">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it. Thanks and good reading!</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button">Ok</a>
+				</div>
+				
+			</div>
+</body>
+</html>

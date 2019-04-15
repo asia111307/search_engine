@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+	<title>Coordination of Adaptive Neuro Fuzzy Inference System (ANFIS) and Type-2 Fuzzy Logic System-Power System Stabilizer (T2FLS-PSS) to Improve a Large-scale Power System Stability | Muljono | International Journal of Electrical and Computer Engineering (IJECE)</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Coordination of Adaptive Neuro Fuzzy Inference System (ANFIS) and Type-2 Fuzzy Logic System-Power System Stabilizer (T2FLS-PSS) to Improve a Large-scale Power System Stability" />
+			<meta name="keywords" content="ANFIS; large-scale; PSS; stability improvement; T2FLS" />
+	
+	<link rel="icon" href="https://www.iaescore.com/journals/public/journals/1/journalFavicon_en_US.ico" type="image/x-icon" />
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Contributor.Sponsor" xml:lang="en" content=""/>
+	<meta name="DC.Creator.PersonalName" content="Agung Budi Muljono"/>
+	<meta name="DC.Creator.PersonalName" content="I. M. Ginarsa"/>
+	<meta name="DC.Creator.PersonalName" content="I. M. A. Nrartha"/>
+	<meta name="DC.Creator.PersonalName" content="A. Dharma"/>
+	<meta name="DC.Date.created" scheme="ISO8601" content="2018-02-01"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2017-11-30"/>
+	<meta name="DC.Date.issued" scheme="ISO8601" content="2018-02-01"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2017-11-30"/>
+	<meta name="DC.Description" xml:lang="en" content=" Intelligent control included ANFIS and type-2 fuzzy (T2FLS) controllers grown-up rapidly and these controllers are applied successfully in power system control. Meanwhile, small signal stability problem appear in a large-scale power system (LSPS) due to load fluctuation. If this problem persists, and can not be solved, it will develop blackout on the LSPS. How to improve the LSPS stability due to load fluctuation is done in this research by coordinating of PSS based on ANFIS and T2FLS. The ANFIS parameters are obtained automatically by training process. Meanwhile, the T2FLS parameters are determined based on the knowledge that obtained from the ANFIS parameters. Input membership function (MF) of the ANFIS is 5 Gaussian MFs. On the other hand, input MF of the T2FLS is 3 Gaussian MFs. Results show that the T2FLS-PSS is able to maintain the stability by decreasing peak overshoot for rotor speed and angle. The T2FLS-PSS makes the settling time is shorter for rotor speed and angle on local mode oscillation as well as on inter-area oscillation than conventional/ ANFIS-PSS. Also, the T2FLS-PSS gives better performance than the other PSS when tested on single disturbance and multiple disturbances. "/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Identifier" content="10101"/>
+	<meta name="DC.Identifier.pageNumber" content="76-86"/>
+						<meta name="DC.Identifier.URI" content="https://www.iaescore.com/journals/index.php/IJECE/article/view/10101"/>
+	<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+	<meta name="DC.Rights" content="Copyright (c) 2018 Institute of Advanced Engineering and Science" />
+	<meta name="DC.Rights" content="http://creativecommons.org/licenses/by-nc/4.0"/>
+	<meta name="DC.Source" content="International Journal of Electrical and Computer Engineering (IJECE)"/>
+	<meta name="DC.Source.ISSN" content="2088-8708"/>
+	<meta name="DC.Source.Issue" content="1"/>	<meta name="DC.Source.URI" content="https://www.iaescore.com/journals/index.php/IJECE"/>
+	<meta name="DC.Source.Volume" content="8"/>						<meta name="DC.Subject" xml:lang="en" content="ANFIS"/>
+								<meta name="DC.Subject" xml:lang="en" content="large-scale"/>
+								<meta name="DC.Subject" xml:lang="en" content="PSS"/>
+								<meta name="DC.Subject" xml:lang="en" content="stability improvement"/>
+								<meta name="DC.Subject" xml:lang="en" content="T2FLS"/>
+				<meta name="DC.Title" content="Coordination of Adaptive Neuro Fuzzy Inference System (ANFIS) and Type-2 Fuzzy Logic System-Power System Stabilizer (T2FLS-PSS) to Improve a Large-scale Power System Stability"/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Special_Invitation"/>
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="International Journal of Electrical and Computer Engineering (IJECE)"/>
+	<meta name="citation_issn" content="2088-8708"/>
+        <meta name="citation_author" content="Agung Budi Muljono"/>
+        <meta name="citation_author_institution" content="University of Mataram"/>
+        <meta name="citation_author" content="I. M. Ginarsa"/>
+        <meta name="citation_author_institution" content="University of Mataram"/>
+        <meta name="citation_author" content="I. M. A. Nrartha"/>
+        <meta name="citation_author_institution" content="University of Mataram"/>
+        <meta name="citation_author" content="A. Dharma"/>
+        <meta name="citation_author_institution" content="Udayana University"/>
+<meta name="citation_title" content="Coordination of Adaptive Neuro Fuzzy Inference System (ANFIS) and Type-2 Fuzzy Logic System-Power System Stabilizer (T2FLS-PSS) to Improve a Large-scale Power System Stability"/>
+
+	<meta name="citation_date" content="2018/02/01"/>
+
+	<meta name="citation_volume" content="8"/>
+	<meta name="citation_issue" content="1"/>
+
+			<meta name="citation_firstpage" content="76"/>
+				<meta name="citation_lastpage" content="86"/>
+							<meta name="citation_abstract_html_url" content="https://www.iaescore.com/journals/index.php/IJECE/article/view/10101"/>
+	<meta name="citation_language" content="en"/>
+						<meta name="citation_keywords" xml:lang="en" content="ANFIS"/>
+								<meta name="citation_keywords" xml:lang="en" content="large-scale"/>
+								<meta name="citation_keywords" xml:lang="en" content="PSS"/>
+								<meta name="citation_keywords" xml:lang="en" content="stability improvement"/>
+								<meta name="citation_keywords" xml:lang="en" content="T2FLS"/>
+									<meta name="citation_pdf_url" content="https://www.iaescore.com/journals/index.php/IJECE/article/download/10101/8093"/>
+				
+
+	<link rel="stylesheet" href="https://www.iaescore.com/journals/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.iaescore.com/journals/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.iaescore.com/journals/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.iaescore.com/journals/styles/compiled.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.iaescore.com/journals/styles/articleView.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="https://www.iaescore.com/journals/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://www.iaescore.com/journals/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://www.iaescore.com/journals/public/site/sitestyle.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.iaescore.com/journals/public/journals/1/journalStyleSheet.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.iaescore.com/journals/plugins/generic/pln/css/pln.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.iaescore.com/journals/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='https://www.iaescore.com/journals/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='https://www.iaescore.com/journals/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+	</script>
+	
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://www.iaescore.com/journals/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/js/statistics/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://www.iaescore.com/journals/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://www.iaescore.com/journals/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	
+	<script type="text/javascript" src="https://www.iaescore.com/journals/js/relatedItems.js"></script>
+	<script type="text/javascript" src="https://www.iaescore.com/journals/js/inlinePdf.js"></script>
+	<script type="text/javascript" src="https://www.iaescore.com/journals/js/pdfobject.js"></script>
+
+</head>
+<body id="pkp-common-openJournalSystems">
+
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	<img src="https://www.iaescore.com/journals/public/journals/1/pageHeaderTitleImage_en_US.png" width="886" height="90" alt="International Journal of Electrical and Computer Engineering (IJECE)" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://www.iaescore.com/journals/index.php/IJECE/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div><div class="block custom" id="customblock-Profile-in-Scopus">
+	<p style="text-align: center;"><span class="blockTitle">Profile at Scopus</span></p>
+<p align="center"><strong><a title="about Scopus Journal Metrics" href="https://www.scopus.com/sources">2018 Scopus Journal Metrics</a></strong></p>
+<p>SNIP 2017: 1.001<br />CiteScore 2017: 0.99<br />SJR 2017: 0.296<br />Q2 on Computer Science<br />Q2 on Electrical &amp; Electronics Eng<br /><strong></strong><strong></strong></p>
+<p><a title="SCImago Journal &amp; Country Rank" href="http://www.scimagojr.com/journalsearch.php?q=21100373959&amp;tip=sid&amp;exact=no"><img src="http://www.scimagojr.com/journal_img.php?id=21100373959" alt="SCImago Journal &amp; Country Rank" width="186" height="186" border="0" /></a></p>
+</div>	 <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://www.iaescore.com/journals/index.php/IJECE/notification">View</a></li>
+			<li><a href="https://www.iaescore.com/journals/index.php/IJECE/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://www.iaescore.com/journals/index.php/IJECE/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://www.iaescore.com/journals/index.php/IJECE/issue/archive">By Issue</a></li>
+		<li><a href="https://www.iaescore.com/journals/index.php/IJECE/search/authors">By Author</a></li>
+		<li><a href="https://www.iaescore.com/journals/index.php/IJECE/search/titles">By Title</a></li>
+		
+					<li><a href="https://www.iaescore.com/journals/index.php/index">Other Journals</a></li>
+						</ul>
+	</div>
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, "/journals"); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://www.iaescore.com/journals/index.php/IJECE/information/readers">For Readers</a></li>		<li><a href="https://www.iaescore.com/journals/index.php/IJECE/information/authors">For Authors</a></li>		<li><a href="https://www.iaescore.com/journals/index.php/IJECE/information/librarians">For Librarians</a></li>	</ul>
+</div>
+
+			</div>
+			</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="https://www.iaescore.com/journals/index.php/IJECE/index">Home</a></li>
+		<li id="about"><a href="https://www.iaescore.com/journals/index.php/IJECE/about">About</a></li>
+
+					<li id="login"><a href="https://www.iaescore.com/journals/index.php/IJECE/login">Login</a></li>
+							<li id="register"><a href="https://www.iaescore.com/journals/index.php/IJECE/user/register">Register</a></li>
+												<li id="search"><a href="https://www.iaescore.com/journals/index.php/IJECE/search">Search</a></li>
+		
+					<li id="current"><a href="https://www.iaescore.com/journals/index.php/IJECE/issue/current">Current</a></li>
+			<li id="archives"><a href="https://www.iaescore.com/journals/index.php/IJECE/issue/archive">Archives</a></li>
+		
+					<li id="announcements"><a href="https://www.iaescore.com/journals/index.php/IJECE/announcement">Announcements</a></li>
+				
+
+								</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://www.iaescore.com/journals/index.php/IJECE/index" target="_parent">Home</a> &gt;
+	<a href="https://www.iaescore.com/journals/index.php/IJECE/issue/view/442" target="_parent">Vol 8, No 1</a> &gt;	<a href="https://www.iaescore.com/journals/index.php/IJECE/article/view/10101/8093" class="current" target="_parent">Muljono</a>
+</div>
+
+<div id="content">
+
+
+			<div id="pdfDownloadLinkContainer">
+	<a class="action pdf" id="pdfDownloadLink" target="_parent" href="https://www.iaescore.com/journals/index.php/IJECE/article/download/10101/8093">Download this PDF file</a>
+</div>
+
+
+
+
+<div id="pdfCanvasContainer">
+	<iframe src="https://www.iaescore.com/journals/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.iaescore.com%2Fjournals%2Findex.php%2FIJECE%2Farticle%2FviewFile%2F10101%2F8093" width="100%" height="100%" style="min-height: 500px;" allowfullscreen webkitallowfullscreen></iframe> 
+</div>	
+					
+
+
+ 
+
+<div id="tocGalleys"> 
+<img src="http://iaescore.com/journals/icon-graph.png" height="20px"> 
+Total views : 313 times
+
+</div> 
+
+
+
+
+
+
+<div class="separator"></div>
+
+<h3>Refbacks</h3>
+
+<ul>
+				<li>There are currently no refbacks.</li>
+	</ul>
+
+
+		
+
+<br /><br />
+<a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a><br />This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+
+
+</div> <!-- container -->
+</body>
+</html>

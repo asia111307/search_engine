@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="theme-color" content="#009eed">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.cognitive-technologies.ai/xmlrpc.php">
+		
+	<title>Machine Learning | Cognitive Technologies World</title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+<!-- /SEO Ultimate -->
+
+
+<meta property="og:type" content="website" />
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cognitive Technologies World &raquo; Feed" href="https://www.cognitive-technologies.ai/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cognitive Technologies World &raquo; Comments Feed" href="https://www.cognitive-technologies.ai/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cognitive Technologies World &raquo; Machine Learning Category Feed" href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cognitive-technologies.ai\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='layerslider-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.cognitive-technologies.ai/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/cf7-conditional-fields/style.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.2' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://www.cognitive-technologies.ai/wp-includes/css/dashicons.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jquery-ui-dialog-css'  href='https://www.cognitive-technologies.ai/wp-includes/css/jquery-ui-dialog.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_style_ui_style-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements//css/vc_styles.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widgetopts-styles-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' />
+<link rel='stylesheet' id='weblator-charts-plugin-styles-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/chart-plugin/public/assets/css/public.css?ver=1.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='core-extend-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/core-extend/assets/css/core-extend.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.cognitive-technologies.ai/wp-content/themes/bitz/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mnky_main-css'  href='https://www.cognitive-technologies.ai/wp-content/themes/bitz-child/style.css?ver=5.1.1' type='text/css' media='all' />
+<style id='mnky_main-inline-css' type='text/css'>
+		input[type='submit'], button, #wp-calendar #today, .pricing-box .plan-badge, .scrollToTop, .mm-header, .widget-area .widget .tagcloud a:hover, .page-links span, .page-links a:hover span, .pagination span.current, .pagination a:hover, blockquote.box-left, blockquote.box-right, blockquote.callout, #navigation-wrapper, #navigation-container, #navigation-inner, .article-labels span, .rating-bar-value, #site-navigation ul li.megamenu ul li.menu-label a, #mobile-site-navigation .mobile-menu-header{background-color:#009eed;}	::selection{background-color:#009eed;}::-moz-selection{background-color:#009eed;}#secondary-navigation-wrapper{background-color:rgba(0,158,237,0.98);}.header-search .searchform-wrapper {background-color:rgba(0,158,237,0.9);}		.themecolor_txt, a, a:hover, span.required,  blockquote.center p, #comments .comment-reply-link:hover,#comments .comment-meta a:hover, .vc_toggle_default .vc_toggle_title .vc_toggle_icon:after, .entry-header .entry-meta a:hover, #comments p.comment-notes:before, p.logged-in-as:before, p.must-log-in:before, .sticky .post-preview:after, .separator_w_icon i, .format-chat p:nth-child(odd):before,.author .author-info a, #comments .comment-navigation a:hover, .pagination a.next:hover, .pagination a.prev:hover, .footer-sidebar a:hover, .footer-sidebar .widget_nav_menu ul li.current-menu-item a:hover, .team_member_position, .heading_wrapper .heading_subtitle:after, .testimonials-slider .flex-control-paging li a.flex-active:after, .wpb_tour .wpb_tabs_nav li.ui-tabs-active a, .wpb_tour .wpb_tabs_nav li a:hover, .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a:hover, .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-accordion-header-active a, #site-navigation .mnky-menu-posts .menu-post-container a:hover h6, .mnky-related-posts .related-post-container a:hover h6, .mnky-posts .mp-title a:hover, .mp-author a:hover, .entry-meta-blog .meta-author:hover, .archive-layout .entry-category a:hover, .mp-category a:hover, .rating_aspect_value .rating-value, .rating_summary_value, #mobile-site-navigation ul > li > a:hover, .woocommerce-MyAccount-navigation ul li.is-active a {color:#009eed;}					input[type='submit'], #comments .comment-reply-link:hover, input:focus,textarea:focus, blockquote.border p, blockquote.bold:after, .rating-bar-value:after, .woocommerce-MyAccount-navigation ul li.is-active {border-color:#009eed;} 	#main, #site-header #header-container, #top-bar, #mobile-site-header, #container, .inner, li.megamenu-tabs .submenu-content, #navigation-inner, .page-header h1, .page-header p, .header-search .search-input, #wrapper .author {max-width:1400px; }#site-navigation ul li.megamenu > ul, #site-navigation ul li.megamenu-tabs > ul.sub-menu {width:1400px; left: calc(50% - 700px);}@media only screen and (max-width : 1400px){ #site-navigation ul li.megamenu > ul, #site-navigation ul li.megamenu-tabs > ul.sub-menu {width:100%; left:0px;} }#top-bar-wrapper{background:#000000}#top-bar-wrapper a:hover{color:#1e73be}#navigation-wrapper, #navigation-container, #navigation-inner, #menu-sidebar{height:50px;}#site-navigation ul li a, #site-utility .search_button, #menu-sidebar .widget-container, .secondary-menu-toggle, .secondary-menu-toggle i, #site-utility .header_cart_link{line-height:50px;}.header-style-2 #site-logo img, .header-style-6 #site-logo img{max-height:50px;}#site-navigation ul li a {font-size:13px}#site-navigation ul li a, #site-utility .search_button, #site-navigation .header_cart_button, .toggle-mobile-menu i, #site-utility .header_cart_link i, .secondary-menu-toggle, #secondary-menu-sidebar .widget-title, #secondary-menu-sidebar ul li, #secondary-menu-sidebar ul ul li a, #secondary-menu-sidebar ul ul li a, .secondary-navigation-close, #secondary-navigation a, .header-search .search-input {color:#ffffff}#secondary-menu-sidebar .secondary-menu-widget-area {border-color:#ffffff}#site-navigation ul li a:hover, #site-utility .search_button:hover, #site-navigation .header_cart_button:hover {color:#000000}#site-navigation ul li ul li a:hover, #site-navigation ul li ul li.current-menu-item > a,.single-post #site-navigation ul li ul li.current_page_parent > a, #site-navigation ul li ul li.current-menu-ancestor > a {background-color:#f7f7f7}#site-navigation ul li ul li a, #site-navigation ul li ul li a:hover {color:#777777}#site-navigation ul li ul li a:hover {color:#777777}#site-navigation ul li.megamenu ul li ul li a:hover, #site-navigation ul li.megamenu ul li.current-menu-item > a, #site-navigation ul li.megamenu-tabs .submenu-content .tabs-nav li:hover > a, #site-navigation ul li.megamenu-tabs .submenu-content .tabs-nav li.nav-active a  {color:#009eed;}#site-navigation ul li.megamenu > ul > li > a, #site-navigation ul li.megamenu > ul > li > a:hover{color:#444444 !important}#mobile-site-header{background:#000000}input[type='submit']:hover, button:hover {background-color:#2b2b2b}input[type='submit'], button, input[type='submit']:active, button:active {color:#ffffff}.entry-header .entry-meta, .entry-header .entry-meta a {color:#444444}.page-sidebar .widget{color:#454545}.views-low{color:#c4c4c4}.views-mid{color:#dd9933}.views-hot{color:#CB0404}body{color:#333333; font-size:16px}#content h4.wpb_toggle, .mp-author a, .entry-meta-blog .meta-author {color:#333333;}.single .entry-content{font-size:16px}h1{font-size:30px}h2{font-size:24px}h3{font-size:20px}h4{font-size:18px}h5{font-size:16px}h6{font-size:13px}h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:#2b2b2b}.footer-sidebar .vc_col-sm-3:nth-child(1) {width:50%}.footer-sidebar .vc_col-sm-3:nth-child(2) {width:17%}.footer-sidebar .vc_col-sm-3:nth-child(3) {width:17%}.footer-sidebar .vc_col-sm-3:nth-child(4) {width:16%}.footer-sidebar a:hover, .footer-sidebar .widget_nav_menu ul li.current-menu-item a:hover {color:#1e73be}/* Add class to center inline Objects */.align-center {text-align: center;}/* Overwrite wp-video class to center it */.wp-video {margin: 0 auto;}/* Fix margin-bottom for equal height columns */.vc_tta-container {margin-bottom: 0;}/* Reduce auto padding between header and body*/.page #main {background:#fff;margin:0 auto;padding: 0px 30px 30px 30px;}/* Right-align items in menu bar*/#site-navigation {overflow: hidden; display: inline-block; width: 50%;}div.menu-container {width: 100%}li.become-far-right {float:right!important}/* Newsletter Submission Form */.news-sub .name {width: 50%; float: left; box-sizing: border-box;}.news-sub .name:nth-child(1) {padding-right: 2%;}.news-sub .name:nth-child(2) {padding-left: 2%;}.news-sub .name:nth-child(3) {padding: 5% 0; padding-right: 2%;}.news-sub .name:nth-child(4) {padding: 5% 0; padding-left: 2%;}.news-sub .email {clear: both; padding: 5% 0;}/* Responsive */@media only screen and (max-device-width : 768px) {.news-sub .name {width: 100%; float:none; padding: 1% 0 !important;}}span.wpcf7-list-item {    margin-left: 0;    display: block;}.wpcf7 input[type="checkbox"] {    margin-right: 1em;}/* Reduce space between Secondary Menu Columns */#secondary-navigation ul > li {float:left; width: 20%; font-size:16px;}/* Background-Color for Secondary Menu */#secondary-navigation-inner {background-color: rgba(0,158,237,0.98);}/* Reduce letter spacing on Team-Site */ .team_member_position {letter-spacing: 0px;}/* Footer Site Info */#site-footer {background-color: #1d1d1d;}#site-footer .site-info {overflow: hidden; padding: 20px 0;}.copyright-logo {float: left;}.copyright-text {float: right;}.copyright-text ul li {margin: 0; padding: 0 5px; border-right: 1px solid #ffffff;}.copyright-text ul li:first-child {padding-left: 0;}.copyright-text ul li:last-child {border-right: none; padding-right: 0;}/*Footer links in white */#site-footer .footer-sidebar .widget a,#site-footer .footer-sidebar .textwidget,#site-footer .site-info .widget a,#site-footer .site-info .widget {color: #ffffff;}@media only screen and (max-device-width : 768px) {#site-footer .site-info {font-size: 0.8em;}.copyright-logo, .copyright-text {float: none;}.copyright-text {padding: 20px 0 40px;}}/* ** Single Post Styles */.single-layout .entry-content a {text-decoration: none;}/*Subscribe Button for Mobile Menu */#menu-item-2171 a {    margin: 30px 50px 0 50px;    padding-right: 30px !important;    text-align: center;    background-color: #0099ee;    color: #ffffff !important;}@media only screen and (max-device-width : 768px) {.vc_video-bg {    height: 0%;    overflow: hidden;    pointer-events: none;    position: absolute;    top: 0;    left: 0;    width: 0%;    z-index: 0; }}div.wpcf7-mail-sent-ok {    background-color: #dff2bf;    font-size: 16px;    padding: 10px;}
+</style>
+<link rel='stylesheet' id='mnky_post-icons-css'  href='https://www.cognitive-technologies.ai/wp-content/themes/bitz/css/post-icons.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='mnky_google-font-lato-css'  href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' type='text/css' media='all' />
+<link rel='stylesheet' id='mnky_google-font-roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-main-css'  href='https://www.cognitive-technologies.ai/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=2.29.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-custom-css'  href='https://www.cognitive-technologies.ai/wp-content/uploads/masterslider/custom.css?ver=1.1' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.3.0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.3.0'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.3.0'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/chart-plugin/public/assets/js/excanvas.js?ver=1.7.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/chart-plugin/public/assets/js/chartjs_new.js?ver=1.7.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/chart-plugin/public/assets/js/legend.js?ver=1.7.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/chart-plugin/public/assets/js/events.min.js?ver=1.7.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/chart-plugin/public/assets/js/mutate.min.js?ver=1.7.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/www.cognitive-technologies.ai\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/chart-plugin/public/assets/js/public.js?ver=1.7.4'></script>
+<meta name="generator" content="Powered by LayerSlider 6.3.0 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='https://www.cognitive-technologies.ai/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cognitive-technologies.ai/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cognitive-technologies.ai/wp-includes/wlwmanifest.xml" /> 
+<script>var ms_grabbing_curosr='https://www.cognitive-technologies.ai/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='https://www.cognitive-technologies.ai/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 2.29.0 - Responsive Touch Image Slider" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.9';
+</script>
+<script type="text/javascript">
+var ajaxurl = 'https://www.cognitive-technologies.ai/wp-admin/admin-ajax.php';
+</script>
+<link rel="stylesheet" href="https://www.cognitive-technologies.ai/wp-content/plugins/chart-plugin/public/assets/css/notie.css"><script src='https://js.tito.io/v1' async></script>
+
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/www.cognitive-technologies.ai\/wp-admin\/admin-ajax.php","essb3_nonce":"73a9f04f36","essb3_plugin_url":"https:\/\/www.cognitive-technologies.ai\/wp-content\/plugins\/easy-social-share-buttons3","essb3_facebook_total":true,"essb3_admin_ajax":false,"essb3_internal_counter":false,"essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","essb3_counter_button_min":0,"essb3_counter_total_min":0,"blog_url":"https:\/\/www.cognitive-technologies.ai\/","ajax_type":"wp","essb3_postfloat_stay":false,"essb3_no_counter_mailprint":false,"essb3_single_ajax":false,"twitter_counter":"self","post_id":10395};</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.cognitive-technologies.ai/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+<!-- Dynamic Widgets by QURL loaded - http://www.dynamic-widgets.com //-->
+<meta name="generator" content="Powered by Slider Revolution 5.4.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.cognitive-technologies.ai/wp-content/uploads/2018/02/cropped-cropped-Favicon-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.cognitive-technologies.ai/wp-content/uploads/2018/02/cropped-cropped-Favicon-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.cognitive-technologies.ai/wp-content/uploads/2018/02/cropped-cropped-Favicon-2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/02/cropped-cropped-Favicon-2-270x270.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+	
+	
+<body data-rsssl=1 class="archive category category-machine-learning category-9 sticky-sidebar _masterslider _msp_version_2.29.0 en-US wpb-js-composer js-comp-ver-5.4.5 vc_responsive" id="site-body" itemscope itemtype="http://schema.org/WebPage">
+	<div id="wrapper">
+		
+
+
+	<div id="top-bar-wrapper" class="clearfix">
+		<div id="top-bar" itemscope itemtype="http://schema.org/WPSideBar">
+		
+							<div id="topleft-widget-area">
+					<ul>
+						<li id="text-7" class="widget widget-container widget_text">			<div class="textwidget"><div class="list-group" style="font-size: 12px;"><a class="list-group-item" href="https://cognitive-technologies.ai/about-us/"><i class="fa fa-info-circle fa-2x"></i>   About us</a>      <a class="list-group-item" href="https://cognitive-technologies.ai/contact-us/"><i class="fa fa-envelope fa-2x"></i>   Contact us</a>      <a class="list-group-item" href="https://cognitive-technologies.ai/advertise/"><i class="fa fa-bullhorn fa-2x"></i>   Advertise</a>      <a class="list-group-item" href="https://cognitive-technologies.ai/become-an-author/"><i class="fa fa-pencil-square-o fa-2x"></i>   Write for us</a></div>
+</div>
+		</li>					</ul>
+				</div>
+				
+			
+							<div id="topright-widget-area" class="clearfix">
+					<ul>
+						<li id="text-8" class="widget widget-container widget_text">			<div class="textwidget"><div class="list-group" style="font-size: 12px;"><a class="list-group-item" href="https://www.linkedin.com/groups/13587750"><i class="fa fa-share-alt fa-2x"></i>   Follow Us</a></div>
+</div>
+		</li>					</ul>
+				</div>
+				
+
+		</div>
+	</div>
+	
+	
+		
+			
+
+
+	
+<header id="mobile-site-header" class="mobile-header">
+<div id="mobile-site-logo">
+<a href="https://www.cognitive-technologies.ai/"><img src="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png" alt="Cognitive Technologies World" /></a></div>		
+<a href="#mobile-site-navigation" class="toggle-mobile-menu"><i class="fa fa-bars"></i></a>	
+</header>	
+	
+
+
+	<header id="site-header" class="header-style-2" itemscope itemtype="http://schema.org/WPHeader">
+		<div id="navigation-wrapper" class="header-style-2">
+			<div id="navigation-container">
+				<div id="navigation-inner" class="clearfix">
+					<div id="site-logo">
+						<a href="https://www.cognitive-technologies.ai/"><img src="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png" alt="Cognitive Technologies World" /></a>					</div>						
+					
+											<div class="secondary-menu-toggle">
+							<i class="fa fa-bars"></i>
+						</div>
+					
+					<nav id="site-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<div class="menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-651" class="become-far-right menu-item menu-item-type-post_type menu-item-object-page menu-item-651"><a href="https://www.cognitive-technologies.ai/ai-events/">Events</a></li>
+<li id="menu-item-650" class="become-far-right menu-item menu-item-type-post_type menu-item-object-page menu-item-650"><a href="https://www.cognitive-technologies.ai/digital-hubs/">Digital Hubs</a></li>
+<li id="menu-item-585" class="megamenu-tabs become-far-right menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-585"><a href="#">Content Delivery</a>
+<ul class="sub-menu">
+	<li id="menu-item-586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-586"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/">Cognitive Intelligence</a></li>
+<li class="tab-content menu-item-586 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/anthony-lambrou-pfizer-cognitive-health/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/03/Interview-Pfizer-Anthony-Lambrou-380x250.png"  alt="Interview Anthony Lambrou" height="250" width="380"/></div><h6>Interview with Anthony Lambrou, Pfizer at Cognitive Health 2018</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/scaleup-360-cognitive-business-automation-2019/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/01/su1903-Linkedin-380x250.png"  alt="" height="250" width="380"/></div><h6>ScaleUp 360° Cognitive Business Automation 2019</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/why-do-we-need-a-digital-strategy/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/12/Saxo-Bank-Patrick-Hunger-380x250.jpg"  alt="" height="250" width="380"/></div><h6>Why Do We Need A Digital Strategy?</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/the-backbone-of-new-business-models-interview-with-sebastian-appelhans-from-thyssenkrupp/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/12/Sebastian-Appelhans-cba-380x250.jpg"  alt="" height="250" width="380"/></div><h6>The backbone of New Business Models:  Interview with Sebastian Appelhans from thyssenkrupp</h6></a></li></ul></li>	<li id="menu-item-587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-587"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-science/">Computer Science</a></li>
+<li class="tab-content menu-item-587 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/die-zukunft-der-datenanalyse-der-multi-purpose-data-lake/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/03/analytics-featured-image-380x250.jpg"  alt="" height="250" width="380"/></div><h6>Die Zukunft der Datenanalyse: Der Multi-Purpose Data Lake</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/wie-adidas-seine-datenanalyse-dank-alteryx-optimiert/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/02/Feature-Bild-Alteryx-Adidas-2-380x250.png"  alt="" height="250" width="380"/></div><h6>Wie Adidas seine Datenanalyse dank Alteryx optimiert</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/scaleup-360-cognitive-business-automation-2019/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/01/su1903-Linkedin-380x250.png"  alt="" height="250" width="380"/></div><h6>ScaleUp 360° Cognitive Business Automation 2019</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/the-backbone-of-new-business-models-interview-with-sebastian-appelhans-from-thyssenkrupp/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/12/Sebastian-Appelhans-cba-380x250.jpg"  alt="" height="250" width="380"/></div><h6>The backbone of New Business Models:  Interview with Sebastian Appelhans from thyssenkrupp</h6></a></li></ul></li>	<li id="menu-item-588" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-588"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-vision/">Computer Vision</a></li>
+<li class="tab-content menu-item-588 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/basler-ag-interview-find-the-perfect-eyes-for-your-autonomous-machines/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_Basler-AG-Interview-1-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>Basler AG Interview: Find the perfect Eyes for your Autonomous Machines</h6></a></li></ul></li>	<li id="menu-item-589" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-589"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/data-science/">Data Science</a></li>
+<li class="tab-content menu-item-589 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/anthony-lambrou-pfizer-cognitive-health/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/03/Interview-Pfizer-Anthony-Lambrou-380x250.png"  alt="Interview Anthony Lambrou" height="250" width="380"/></div><h6>Interview with Anthony Lambrou, Pfizer at Cognitive Health 2018</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/den-wald-vor-lauter-baumen-nicht-sehen/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/03/tom-becker-interview-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>Den Wald vor lauter Bäumen nicht sehen &#8211; Herausforderungen im Umgang mit Big Data</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/die-zukunft-der-datenanalyse-der-multi-purpose-data-lake/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/03/analytics-featured-image-380x250.jpg"  alt="" height="250" width="380"/></div><h6>Die Zukunft der Datenanalyse: Der Multi-Purpose Data Lake</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/welche-bedeutung-hat-datenqualitat-fur-den-geschaftserfolg/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/03/big-data-anlytics-380x250.jpg"  alt="" height="250" width="380"/></div><h6>Welche Bedeutung hat Datenqualität für den Geschäftserfolg?</h6></a></li></ul></li>	<li id="menu-item-590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-590"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/deep-learning/">Deep Learning</a></li>
+<li class="tab-content menu-item-590 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/the-backbone-of-new-business-models-interview-with-sebastian-appelhans-from-thyssenkrupp/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/12/Sebastian-Appelhans-cba-380x250.jpg"  alt="" height="250" width="380"/></div><h6>The backbone of New Business Models:  Interview with Sebastian Appelhans from thyssenkrupp</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/survey-report-integrating-autonomous-intelligent-systems/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/11/Featured-image-Autonomous-world-survey-report-380x250.jpg"  alt="" height="250" width="380"/></div><h6>Survey Report: Integrating Autonomous Intelligent Systems</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/artificial-intelligence-its-impact-on-human-behavior-in-2019/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/11/Featured-Image-Article-Vikash-Kumar-380x250.png"  alt="" height="250" width="380"/></div><h6>Artificial Intelligence &#038; Its Impact on Human Behavior In 2019</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/medtronic-interview-applying-data-mining-to-connected-medical-devices/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/10/cognitive_data-analytics-1-380x250.jpg"  alt="" height="250" width="380"/></div><h6>Medtronic Interview: Applying data mining to connected medical devices</h6></a></li></ul></li>	<li id="menu-item-591" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-591"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/imaging/">Imaging</a></li>
+<li class="tab-content menu-item-591 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/artificial-intelligence-in-medicine/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_health-1-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>Artificial Intelligence in Medicine</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/basler-ag-interview-find-the-perfect-eyes-for-your-autonomous-machines/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_Basler-AG-Interview-1-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>Basler AG Interview: Find the perfect Eyes for your Autonomous Machines</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/case-study-by-eurogate-driverless-vehicles-in-container-ports/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/04/cognitive_Michael-Hickson-1-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>Case Study by Eurogate: Driverless Vehicles in Container Ports</h6></a></li></ul></li>	<li id="menu-item-592" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-592"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" aria-current="page">Machine Learning</a></li>
+<li class="tab-content menu-item-592 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/wie-adidas-seine-datenanalyse-dank-alteryx-optimiert/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/02/Feature-Bild-Alteryx-Adidas-2-380x250.png"  alt="" height="250" width="380"/></div><h6>Wie Adidas seine Datenanalyse dank Alteryx optimiert</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/the-backbone-of-new-business-models-interview-with-sebastian-appelhans-from-thyssenkrupp/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/12/Sebastian-Appelhans-cba-380x250.jpg"  alt="" height="250" width="380"/></div><h6>The backbone of New Business Models:  Interview with Sebastian Appelhans from thyssenkrupp</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/survey-report-integrating-autonomous-intelligent-systems/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/11/Featured-image-Autonomous-world-survey-report-380x250.jpg"  alt="" height="250" width="380"/></div><h6>Survey Report: Integrating Autonomous Intelligent Systems</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/cyberark-webinar-robotic-process-automation-rpa-sichern-und-schutzen/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/10/cognitive_Cyberark-RPA-Webinar-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>CyberArk Webinar: Robotic Process Automation (RPA) sichern und schützen</h6></a></li></ul></li>	<li id="menu-item-593" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-593"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/nlp/">NLP</a></li>
+<li class="tab-content menu-item-593 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/survey-report-cognitive-technologies-for-the-digital-health-revolution/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/10/cognitive_cognitive-health-survey-2018-380x250.jpg"  alt="" height="250" width="380"/></div><h6>Survey Report: Cognitive technologies for the digital health revolution</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/teaching-autonomous-machines-interview-with-universal-robots/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_AMW-Interview-Universal-Robots-1-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>Teaching Autonomous Machines &#8211; Interview with Universal Robots</h6></a></li></ul></li>	<li id="menu-item-594" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-594"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/sensing/">Sensing</a></li>
+<li class="tab-content menu-item-594 clearfix"><ul class="mnky-menu-posts mmp-4" ><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/nov-research-based-innovation-towards-autonomous-offshore-operations/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/06/cognitive_NOV-Case-Study-1-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>NOV: Research-based Innovation Towards Autonomous Offshore Operations</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/siemens-case-study-autonomous-driving-for-railways/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/06/cognitive_Siemens-Case-Study-1-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>Siemens Case Study: Autonomous Driving for Railways</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/case-study-by-eurogate-driverless-vehicles-in-container-ports/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/04/cognitive_Michael-Hickson-1-380x250.jpeg"  alt="" height="250" width="380"/></div><h6>Case Study by Eurogate: Driverless Vehicles in Container Ports</h6></a></li><li class="menu-post-container"><a href="https://www.cognitive-technologies.ai/this-ai-startup-is-on-a-mission-to-eliminate-car-accidents/" rel="bookmark"><div class="mmp-img"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/04/cognitive_bobbycar-1-380x250.jpg"  alt="" height="250" width="380"/></div><h6>This AI Startup is On a Mission to Eliminate Car Accidents</h6></a></li></ul></li>	<li id="menu-item-595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-595"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/software-dev/">Software Dev</a></li>
+<li class="tab-content menu-item-595 clearfix"></li></ul>
+</li>
+<li id="menu-item-652" class="become-far-right menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-652"><a href="https://www.cognitive-technologies.ai/">Home</a></li>
+</ul></div>					</nav><!-- #site-navigation -->
+									
+					<div id="site-utility">
+																		
+													<button id="trigger-header-search" class="search_button" type="button">
+								<i class="fa fa-search"></i>
+							</button>
+													
+						
+					</div>
+										
+											<div class="header-search">
+								<div class="searchform-wrapper">
+		<form method="get" class="searchform" action="https://www.cognitive-technologies.ai/">
+			<input onfocus="this.value=''" onblur="this.value='Type and hit enter to search ...'" type="text" value="Type and hit enter to search ..." name="s" class="search-input" />
+		</form>
+	</div>						</div>
+													
+				</div><!-- #navigation-inner -->
+			</div><!-- #navigation-container -->
+		</div><!-- #navigation-wrapper -->
+	</header>
+	
+	
+		
+		
+		
+	
+			
+		
+					<header class="page-header">
+				<h1>
+					Machine Learning				
+				</h1>	
+								
+			</header><!-- .page-header -->
+			
+			
+		<div id="main" class="clearfix">
+
+		
+
+		<div id="container">
+			
+				<div id="content" class="float-left">
+							
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-10395" class="archive-layout clearfix archive-style-4 layout-two-column post-main post-10395 post type-post status-publish format-standard has-post-thumbnail hentry category-computer-science category-data-science category-machine-learning tag-bi tag-big-data tag-big-data-analytics tag-big-data-minds tag-data-analytics tag-datenschutz tag-digitalisierung tag-predictive-analytics tag-smart-data" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/wie-adidas-seine-datenanalyse-dank-alteryx-optimiert/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2019/02/Feature-Bild-Alteryx-Adidas-2-840x440.png"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2019/02/Feature-Bild-Alteryx-Adidas-2.png"><meta itemprop="width" content="1920"><meta itemprop="height" content="1080"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-science/" rel="category tag">Computer Science</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/data-science/" rel="category tag">Data Science</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/wie-adidas-seine-datenanalyse-dank-alteryx-optimiert/" title="View Wie Adidas seine Datenanalyse dank Alteryx optimiert" rel="bookmark">Wie Adidas seine Datenanalyse dank Alteryx optimiert</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/peter/" title="View all posts by Peter Haack" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Peter Haack</span></span></a><span class="meta-date"><time class="published" datetime="2019-02-15T11:23:54+02:00" itemprop="datePublished">February 15, 2019, 11:23 am</time><time class="meta-date-modified updated" datetime="2019-03-06T09:33:54+02:00" itemprop="dateModified">March 6, 2019</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 357<meta itemprop="interactionCount" content="UserPageVisits:357"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-10395 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-823" class="archive-layout clearfix archive-style-4 layout-two-column post-even post-secondary post-823 post type-post status-publish format-standard has-post-thumbnail hentry category-cognitive-intelligence category-computer-science category-deep-learning category-interviews category-machine-learning tag-ai tag-business-models tag-cba tag-cognitive-business-automation tag-cognitive-technologies" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/the-backbone-of-new-business-models-interview-with-sebastian-appelhans-from-thyssenkrupp/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/12/Sebastian-Appelhans-cba-840x440.jpg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/12/Sebastian-Appelhans-cba.jpg"><meta itemprop="width" content="1280"><meta itemprop="height" content="720"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/" rel="category tag">Cognitive Intelligence</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-science/" rel="category tag">Computer Science</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/deep-learning/" rel="category tag">Deep Learning</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/interviews/" rel="category tag">Interviews</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/the-backbone-of-new-business-models-interview-with-sebastian-appelhans-from-thyssenkrupp/" title="View The backbone of New Business Models:  Interview with Sebastian Appelhans from thyssenkrupp" rel="bookmark">The backbone of New Business Models:  Interview with Sebastian Appelhans from thyssenkrupp</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/leonie/" title="View all posts by Leonie Lawrence" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Leonie Lawrence</span></span></a><span class="meta-date"><time class="published" datetime="2018-12-06T10:35:14+02:00" itemprop="datePublished">December 6, 2018, 10:35 am</time><time class="meta-date-modified updated" datetime="2018-12-06T10:35:14+02:00" itemprop="dateModified">December 6, 2018</time></span><span class="meta-views"><span class="views-mid" title="Views"><i class="post-icon icon-views"></i> 283<meta itemprop="interactionCount" content="UserPageVisits:283"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-823 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-753" class="archive-layout clearfix archive-style-4 layout-two-column post-odd post-secondary post-753 post type-post status-publish format-standard has-post-thumbnail hentry category-deep-learning category-industry-reports category-machine-learning tag-autonomous-systems tag-cognitive-machines tag-system-integration" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/survey-report-integrating-autonomous-intelligent-systems/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/11/Featured-image-Autonomous-world-survey-report-840x440.jpg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/11/Featured-image-Autonomous-world-survey-report.jpg"><meta itemprop="width" content="1280"><meta itemprop="height" content="720"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/deep-learning/" rel="category tag">Deep Learning</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/industry-reports/" rel="category tag">Industry Reports</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/survey-report-integrating-autonomous-intelligent-systems/" title="View Survey Report: Integrating Autonomous Intelligent Systems" rel="bookmark">Survey Report: Integrating Autonomous Intelligent Systems</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/leonie/" title="View all posts by Leonie Lawrence" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Leonie Lawrence</span></span></a><span class="meta-date"><time class="published" datetime="2018-11-23T10:23:04+02:00" itemprop="datePublished">November 23, 2018, 10:23 am</time><time class="meta-date-modified updated" datetime="2018-12-06T10:36:09+02:00" itemprop="dateModified">December 6, 2018</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 320<meta itemprop="interactionCount" content="UserPageVisits:320"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-753 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-714" class="archive-layout clearfix archive-style-4 layout-two-column post-even post-secondary post-714 post type-post status-publish format-standard has-post-thumbnail hentry category-cognitive-intelligence category-machine-learning category-webinars tag-ai tag-cognitive tag-cyberark tag-robot-systeme tag-robotic-process-automation tag-robots tag-rpa tag-security" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/cyberark-webinar-robotic-process-automation-rpa-sichern-und-schutzen/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/10/cognitive_Cyberark-RPA-Webinar-840x440.jpeg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/10/cognitive_Cyberark-RPA-Webinar.jpeg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/" rel="category tag">Cognitive Intelligence</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/webinars/" rel="category tag">Webinars</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/cyberark-webinar-robotic-process-automation-rpa-sichern-und-schutzen/" title="View CyberArk Webinar: Robotic Process Automation (RPA) sichern und schützen" rel="bookmark">CyberArk Webinar: Robotic Process Automation (RPA) sichern und schützen</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/ayrton/" title="View all posts by Ayrton Boldt" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ayrton Boldt</span></span></a><span class="meta-date"><time class="published" datetime="2018-10-25T10:36:59+02:00" itemprop="datePublished">October 25, 2018, 10:36 am</time><time class="meta-date-modified updated" datetime="2018-11-29T11:53:03+02:00" itemprop="dateModified">November 29, 2018</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 383<meta itemprop="interactionCount" content="UserPageVisits:383"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-714 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-704" class="archive-layout clearfix archive-style-4 layout-two-column post-odd post-secondary post-704 post type-post status-publish format-standard has-post-thumbnail hentry category-cognitive-intelligence category-data-science category-industry-reports category-machine-learning tag-ai tag-industrial-internet tag-industrial-iot tag-machine-learning tag-predictive-maintenance tag-robots" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/survey-report-the-present-and-future-of-ai-in-the-industrial-sector/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/10/cognitive_IOTW-AI-Survey-Results-840x440.jpeg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/10/cognitive_IOTW-AI-Survey-Results.jpeg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/" rel="category tag">Cognitive Intelligence</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/data-science/" rel="category tag">Data Science</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/industry-reports/" rel="category tag">Industry Reports</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/survey-report-the-present-and-future-of-ai-in-the-industrial-sector/" title="View Survey Report: The Present and Future of AI in the Industrial Sector" rel="bookmark">Survey Report: The Present and Future of AI in the Industrial Sector</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/ayrton/" title="View all posts by Ayrton Boldt" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ayrton Boldt</span></span></a><span class="meta-date"><time class="published" datetime="2018-10-22T10:43:28+02:00" itemprop="datePublished">October 22, 2018, 10:43 am</time><time class="meta-date-modified updated" datetime="2018-10-22T12:36:26+02:00" itemprop="dateModified">October 22, 2018</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 369<meta itemprop="interactionCount" content="UserPageVisits:369"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-704 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-649" class="archive-layout clearfix archive-style-4 layout-two-column post-even post-secondary post-649 post type-post status-publish format-standard has-post-thumbnail hentry category-cognitive-intelligence category-interviews category-machine-learning tag-ai tag-applied-ai tag-artificial-intelligence tag-cognitive-health tag-digital-health tag-machine-learning tag-testing tag-validation" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/ai-applications-in-clinical-trial-process-optimization-bayer-interview/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/09/cognitive_bayer-interview_kevin-hua-1-840x440.jpeg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/09/cognitive_bayer-interview_kevin-hua-1.jpeg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/" rel="category tag">Cognitive Intelligence</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/interviews/" rel="category tag">Interviews</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/ai-applications-in-clinical-trial-process-optimization-bayer-interview/" title="View AI Application in Clinical Trial Process Optimization &#8211; Bayer Interview" rel="bookmark">AI Application in Clinical Trial Process Optimization &#8211; Bayer Interview</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/ayrton/" title="View all posts by Ayrton Boldt" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ayrton Boldt</span></span></a><span class="meta-date"><time class="published" datetime="2018-09-18T09:20:04+02:00" itemprop="datePublished">September 18, 2018, 9:20 am</time><time class="meta-date-modified updated" datetime="2018-10-12T18:04:43+02:00" itemprop="dateModified">October 12, 2018</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 543<meta itemprop="interactionCount" content="UserPageVisits:543"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-649 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-389" class="archive-layout clearfix archive-style-4 layout-two-column post-odd post-secondary post-389 post type-post status-publish format-standard has-post-thumbnail hentry category-computer-science category-data-science category-interviews category-machine-learning tag-bi tag-big-data tag-big-data-analytics tag-big-data-minds tag-data-analytics tag-datenschutz tag-digitalisierung tag-predictive-analytics tag-smart-data" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/vattenfall-interview-data-lake-als-teil-einer-high-level-zielarchitektur/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/06/cognitive_vattenfall-1-840x440.jpeg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/06/cognitive_vattenfall-1.jpeg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-science/" rel="category tag">Computer Science</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/data-science/" rel="category tag">Data Science</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/interviews/" rel="category tag">Interviews</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/vattenfall-interview-data-lake-als-teil-einer-high-level-zielarchitektur/" title="View Vattenfall Interview: Data Lake als Teil einer High Level Zielarchitektur" rel="bookmark">Vattenfall Interview: Data Lake als Teil einer High Level Zielarchitektur</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/ayrton/" title="View all posts by Ayrton Boldt" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ayrton Boldt</span></span></a><span class="meta-date"><time class="published" datetime="2018-08-20T08:55:21+02:00" itemprop="datePublished">August 20, 2018, 8:55 am</time><time class="meta-date-modified updated" datetime="2018-10-12T18:04:44+02:00" itemprop="dateModified">October 12, 2018</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 422<meta itemprop="interactionCount" content="UserPageVisits:422"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-389 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-497" class="archive-layout clearfix archive-style-4 layout-two-column post-even post-secondary post-497 post type-post status-publish format-standard has-post-thumbnail hentry category-cognitive-intelligence category-interviews category-machine-learning tag-autonomous-machines tag-autonomous-machines-world tag-autonomous-systems tag-business-models tag-computer-vision tag-customer-value tag-industry40 tag-machine-vision tag-use-cases" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/interview-with-migros-industry-how-does-automation-affect-business-models/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_AMW-Interview-Migros-Industry-1-840x440.jpg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_AMW-Interview-Migros-Industry-1.jpg"><meta itemprop="width" content="1275"><meta itemprop="height" content="716"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/" rel="category tag">Cognitive Intelligence</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/interviews/" rel="category tag">Interviews</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/interview-with-migros-industry-how-does-automation-affect-business-models/" title="View Interview with Migros-Industry: How does Automation affect Business Models?" rel="bookmark">Interview with Migros-Industry: How does Automation affect Business Models?</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/ayrton/" title="View all posts by Ayrton Boldt" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ayrton Boldt</span></span></a><span class="meta-date"><time class="published" datetime="2018-07-12T10:46:58+02:00" itemprop="datePublished">July 12, 2018, 10:46 am</time><time class="meta-date-modified updated" datetime="2018-10-12T18:04:48+02:00" itemprop="dateModified">October 12, 2018</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 1196<meta itemprop="interactionCount" content="UserPageVisits:1196"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-497 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-460" class="archive-layout clearfix archive-style-4 layout-two-column post-odd post-secondary post-460 post type-post status-publish format-standard has-post-thumbnail hentry category-cognitive-intelligence category-data-science category-interviews category-machine-learning tag-ai tag-artificial-intelligence tag-brownfield-approach tag-cognitive-technologies tag-new-business-models" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/interview-with-stefan-appelhans-head-of-business-process-management-thyssenkrupp/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_ai-1-840x440.jpeg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_ai-1.jpeg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/" rel="category tag">Cognitive Intelligence</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/data-science/" rel="category tag">Data Science</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/interviews/" rel="category tag">Interviews</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/interview-with-stefan-appelhans-head-of-business-process-management-thyssenkrupp/" title="View Interview with Stefan Appelhans, Head of Business Process Management, thyssenkrupp" rel="bookmark">Interview with Stefan Appelhans, Head of Business Process Management, thyssenkrupp</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/ayrton/" title="View all posts by Ayrton Boldt" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ayrton Boldt</span></span></a><span class="meta-date"><time class="published" datetime="2018-07-09T12:32:00+02:00" itemprop="datePublished">July 9, 2018, 12:32 pm</time><time class="meta-date-modified updated" datetime="2018-10-12T18:04:49+02:00" itemprop="dateModified">October 12, 2018</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 647<meta itemprop="interactionCount" content="UserPageVisits:647"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-460 -->		
+	<article itemtype="http://schema.org/Article" itemscope="" id="post-484" class="archive-layout clearfix archive-style-4 layout-two-column post-even post-secondary post-484 post type-post status-publish format-standard has-post-thumbnail hentry category-cognitive-intelligence category-interviews category-machine-learning tag-automation tag-autonomous-machines tag-autonomous-machines-world tag-autonomous-systems tag-factory-automation tag-flexible-manufacturing tag-industry40 tag-machine-vision tag-robotics" >
+	
+			
+		
+			
+				
+			<a class="post-preview" href="https://www.cognitive-technologies.ai/interview-with-faouzi-grebici-from-omron-made-for-me-instead-of-made-to-sell/" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="" src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_AMW-Interview-Omron-1-840x440.jpg"  width="840" height="440"><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_AMW-Interview-Omron-1.jpg"><meta itemprop="width" content="1278"><meta itemprop="height" content="718"></div></a>			
+							<span class="entry-category"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/" rel="category tag">Cognitive Intelligence</a>, <a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/interviews/" rel="category tag">Interviews</a>, <a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" rel="category tag">Machine Learning</a></span>
+						<header class="post-entry-header">
+				<h2 itemprop="headline" class="entry-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/interview-with-faouzi-grebici-from-omron-made-for-me-instead-of-made-to-sell/" title="View Interview with Faouzi Grebici from Omron: Made for me instead of made to sell" rel="bookmark">Interview with Faouzi Grebici from Omron: Made for me instead of made to sell</a></h2>
+			</header><!-- .entry-header -->
+			
+			
+										
+			<div class="entry-meta-blog"><a class="meta-author url meta-author-divider" href="https://www.cognitive-technologies.ai/profile/ayrton/" title="View all posts by Ayrton Boldt" rel="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ayrton Boldt</span></span></a><span class="meta-date"><time class="published" datetime="2018-06-24T09:41:32+02:00" itemprop="datePublished">June 24, 2018, 9:41 am</time><time class="meta-date-modified updated" datetime="2018-10-12T18:04:51+02:00" itemprop="dateModified">October 12, 2018</time></span><span class="meta-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 542<meta itemprop="interactionCount" content="UserPageVisits:542"/></span></span></div>				
+			
+
+				
+				
+		<div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+		</div>	
+	</article><!-- #post-484 -->					
+					<div class="pagination">
+						
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://www.cognitive-technologies.ai/category/machine-learning/page/2/'>2</a>
+<a class="next page-numbers" href="https://www.cognitive-technologies.ai/category/machine-learning/page/2/">Next</a></div>
+	</nav>					</div>
+
+				</div><!-- #content -->
+
+				<div id="sidebar" class="float-right">
+							<aside class="page-sidebar" itemscope itemtype="http://schema.org/WPSideBar">
+			<div class="widget-area">
+				<div id="text-2" class="widget widget_text">			<div class="textwidget"><aside itemscope itemtype="https://schema.org/WPAdBlock" class="site-commerc" ><div class="commercial" style="max-width:none;max-height:none;"><a href="https://auto-ai.eu/" target="_blank"  itemprop="url"> <img class="commerc-img"   src="https://cognitive-technologies.ai/wp-content/uploads/2018/01/auto.ai-eu.jpeg" alt="" itemprop="image"></a></div></aside>
+</div>
+		</div><div class="vcw-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_btn3-container vc_btn3-center" >
+	<a style="background-color:#009eef; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom" href="https://www.cognitive-technologies.ai/wp-content/uploads/2018/02/we.MEDIA_Web.pdf" title="" target="_blank">Download we.MEDIA Pack</a></div>
+<div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div>
+</div><div id="text-3" class="widget widget_text"><h3 class="widget-title">What&#8217;s new</h3>			<div class="textwidget"><div class="mnky-posts clearfix mp-layout-6" ><div id="post-342" itemscope itemtype="http://schema.org/Article" class="mp-container mp-post-1 clearfix"><a href="https://www.cognitive-technologies.ai/how-ai-machine-learning-and-automation-will-impact-business-in-2018-and-beyond/" class="mp-image" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/04/cognitive_tenfold1-1-240x166.jpeg"  alt="" height="166" width="240"/><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/04/cognitive_tenfold1-1.jpeg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a><div class="mp-content"><h2 itemprop="headline" class="mp-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/how-ai-machine-learning-and-automation-will-impact-business-in-2018-and-beyond/" title="View How AI, Machine Learning and Automation will Impact Business in 2018 and Beyond" rel="bookmark">How AI, Machine Learning and Automation will Impact Business in 2018 and Beyond</a></h2><div class="hidden-meta" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Ayrton Boldt"></div><span class="mp-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 1468<meta itemprop="interactionCount" content="UserPageVisits:1468"/></span></span></div><time datetime="2018-04-26T10:35:23+02:00" itemprop="datePublished"></time><time class="meta-date-modified" datetime="2018-10-25T10:10:30+02:00" itemprop="dateModified"></time><div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+			</div></div><div id="post-497" itemscope itemtype="http://schema.org/Article" class="mp-container mp-post-2 clearfix"><a href="https://www.cognitive-technologies.ai/interview-with-migros-industry-how-does-automation-affect-business-models/" class="mp-image" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_AMW-Interview-Migros-Industry-1-240x166.jpg"  alt="" height="166" width="240"/><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/07/cognitive_AMW-Interview-Migros-Industry-1.jpg"><meta itemprop="width" content="1275"><meta itemprop="height" content="716"></div></a><div class="mp-content"><h2 itemprop="headline" class="mp-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/interview-with-migros-industry-how-does-automation-affect-business-models/" title="View Interview with Migros-Industry: How does Automation affect Business Models?" rel="bookmark">Interview with Migros-Industry: How does Automation affect Business Models?</a></h2><div class="hidden-meta" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Ayrton Boldt"></div><span class="mp-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 1196<meta itemprop="interactionCount" content="UserPageVisits:1196"/></span></span></div><time datetime="2018-07-12T10:46:58+02:00" itemprop="datePublished"></time><time class="meta-date-modified" datetime="2018-10-12T18:04:48+02:00" itemprop="dateModified"></time><div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+			</div></div><div id="post-185" itemscope itemtype="http://schema.org/Article" class="mp-container mp-post-3 clearfix"><a href="https://www.cognitive-technologies.ai/this-ai-startup-is-on-a-mission-to-eliminate-car-accidents/" class="mp-image" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/04/cognitive_bobbycar-1-240x166.jpg"  alt="" height="166" width="240"/><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/04/cognitive_bobbycar-1.jpg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a><div class="mp-content"><h2 itemprop="headline" class="mp-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/this-ai-startup-is-on-a-mission-to-eliminate-car-accidents/" title="View This AI Startup is On a Mission to Eliminate Car Accidents" rel="bookmark">This AI Startup is On a Mission to Eliminate Car Accidents</a></h2><div class="hidden-meta" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Louis Bedigian"></div><span class="mp-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 1133<meta itemprop="interactionCount" content="UserPageVisits:1133"/></span></span></div><time datetime="2018-03-18T17:19:01+02:00" itemprop="datePublished"></time><time class="meta-date-modified" datetime="2018-10-25T10:12:11+02:00" itemprop="dateModified"></time><div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+			</div></div><div id="post-176" itemscope itemtype="http://schema.org/Article" class="mp-container mp-post-4 clearfix"><a href="https://www.cognitive-technologies.ai/nlr-aerospace-centre-an-aerospace-view-on-autonomous-transport/" class="mp-image" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/01/cognitive_drone-1-240x166.jpg"  alt="" height="166" width="240"/><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/01/cognitive_drone-1.jpg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a><div class="mp-content"><h2 itemprop="headline" class="mp-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/nlr-aerospace-centre-an-aerospace-view-on-autonomous-transport/" title="View NLR Aerospace Centre: An Aerospace View on Autonomous Transport" rel="bookmark">NLR Aerospace Centre: An Aerospace View on Autonomous Transport</a></h2><div class="hidden-meta" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Ayrton Boldt"></div><span class="mp-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 994<meta itemprop="interactionCount" content="UserPageVisits:994"/></span></span></div><time datetime="2018-03-02T09:30:45+02:00" itemprop="datePublished"></time><time class="meta-date-modified" datetime="2018-10-12T18:04:56+02:00" itemprop="dateModified"></time><div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+			</div></div><div id="post-358" itemscope itemtype="http://schema.org/Article" class="mp-container mp-post-5 clearfix"><a href="https://www.cognitive-technologies.ai/siemens-case-study-autonomous-driving-for-railways/" class="mp-image" rel="bookmark"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="https://www.cognitive-technologies.ai/wp-content/uploads/2018/06/cognitive_Siemens-Case-Study-1-240x166.jpeg"  alt="" height="166" width="240"/><meta itemprop="url" content="https://www.cognitive-technologies.ai/wp-content/uploads/2018/06/cognitive_Siemens-Case-Study-1.jpeg"><meta itemprop="width" content="1920"><meta itemprop="height" content="1280"></div></a><div class="mp-content"><h2 itemprop="headline" class="mp-title"><a itemprop="mainEntityOfPage" href="https://www.cognitive-technologies.ai/siemens-case-study-autonomous-driving-for-railways/" title="View Siemens Case Study: Autonomous Driving for Railways" rel="bookmark">Siemens Case Study: Autonomous Driving for Railways</a></h2><div class="hidden-meta" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="name" content="Ayrton Boldt"></div><span class="mp-views"><span class="views-hot" title="Views"><i class="post-icon icon-views"></i> 979<meta itemprop="interactionCount" content="UserPageVisits:979"/></span></span></div><time datetime="2018-06-28T12:12:51+02:00" itemprop="datePublished"></time><time class="meta-date-modified" datetime="2018-10-12T18:04:50+02:00" itemprop="dateModified"></time><div class="hidden-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div class="hidden-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://cognitive-technologies.ai/wp-content/uploads/2018/02/Cognitive-Technologies-Voice_small-1.png">
+			<meta itemprop="width" content="">
+			<meta itemprop="height" content="">
+			</div>
+			<meta itemprop="name" content="Cognitive Technologies World">
+			</div></div></div>
+</div>
+		</div>			</div>
+		</aside><!-- .page-sidebar -->				</div>
+				
+					</div><!-- #container -->
+		
+	</div><!-- #main  -->
+
+	
+<footer class="site-footer" id="site-footer" itemscope itemtype="http://schema.org/WPFooter">
+
+					<div class="footer-sidebar clearfix" itemscope itemtype="http://schema.org/WPSideBar">
+				<div class="inner">
+				<div class="vc_row wpb_row">
+											<div class="vc_col-sm-3">
+							<div class="widget-area">
+								<div id="text-9" class="widget widget_text">			<div class="textwidget"><div style="padding-right: 52px; margin-top: 0px;">Cognitive Technologies Voice explores and encompasses the impact of cognitive technologies, AI and its subfields and related areas, such as Machine- &amp; Deep Learning, Computer Vision, Imaging Systems, NLPS, Neural networks, Cognitive Robotics, Automated Reasoning and a lot of more, on organizations and helps leaders make wise strategy and technology choices.</div>
+</div>
+		</div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.facebook.com/Cognitive-Technoglogies-298907484266389/?modal=admin_todo_tour"><span class="mnky-font-icon change-color" style="color:#3b5998;"><i class="fa fa-facebook-square" style="font-size:28px; color:#444444; padding-left:0px; padding-right:10px;"></i></span></a>
+<a href="https://twitter.com/CognitiveTec"><span class="mnky-font-icon change-color" style="color:#55acee;"><i class="fa fa-twitter-square" style="font-size:28px; color:#444444; padding-left:0px; padding-right:10px;"></i></span></a>
+<a href="https://www.youtube.com/user/weCONECTmedia"><span class="mnky-font-icon change-color" style="color:#e52d27;"><i class="fa fa-youtube-square" style="font-size:28px; color:#444444; padding-left:0px; padding-right:10px;"></i></span></a>
+<a href="https://www.xing.com/communities/groups/cognitive-technologies-593e-1107092"><span class="mnky-font-icon change-color" style="color:#0976b4;"><i class="fa fa-linkedin-square" style="font-size:28px; color:#444444; padding-left:0px; padding-right:10px;"></i></span></a>
+<a href="https://www.linkedin.com/groups/13587750/"><span class="mnky-font-icon change-color" style="color:#026466;"><i class="fa fa-xing-square" style="font-size:28px; color:#444444; padding-left:0px; padding-right:10px;"></i></span></a>
+<a href="https://www.instagram.com/we.conect/"><span class="mnky-font-icon change-color" style="color:#c32aa3;"><i class="fa fa-instagram" style="font-size:28px; color:#444444; padding-left:0px; padding-right:40px;"></i></span></a>
+<img src="https://digital-business-hub.com/wp-content/uploads/2016/05/Made-with-heart_final-w-big.png" width="360px" height="80px" /></div></div>							</div>
+						</div>
+					
+											<div class="vc_col-sm-3">
+							<div class="widget-area">
+								<div id="text-10" class="widget widget_text"><h3 class="widget-title">Things we.MAKE</h3>			<div class="textwidget"><ul style="color: #ffffff;">
+<li><a href="http://www.we-conect.com/event/">Events</a></li>
+<li><a href="https://cognitive-technologies.ai/digital-hubs/">Digital Hubs</a></li>
+<li><a href="http://hubs.one/">hubs:</a></li>
+</ul>
+</div>
+		</div>							</div>	
+						</div>
+					
+											<div class="vc_col-sm-3">
+							<div class="widget-area">
+								<div id="text-11" class="widget widget_text"><h3 class="widget-title">Partner Us</h3>			<div class="textwidget"><ul>
+<li><a href="https://cognitive-technologies.ai/advertise/">Advertise with us</a></li>
+<li><a href="https://cognitive-technologies.ai/become-an-author/">Become an author</a></li>
+<li><a href="http://we-conect.com/we-media/">we.MEDIA</a></li>
+<li><a href="https://cognitive-technologies.ai/partner-at-our-events/">Partner at our Events</a></li>
+<li><a href="https://cognitive-technologies.ai/book-our-events/">Book our Events</a></li>
+</ul>
+</div>
+		</div>							</div>	
+						</div>
+					
+											<div class="vc_col-sm-3">
+							<div class="widget-area">
+								<div id="text-12" class="widget widget_text">			<div class="textwidget"></div>
+		</div>							</div>	
+						</div>
+									</div><!-- .vc_row -->
+				</div><!-- .inner -->
+			</div><!-- .footer-sidebar -->
+			
+		
+			
+			<div class="site-info" itemscope itemtype="http://schema.org/WPSideBar"> 
+				<div class="inner">
+					<div id="text-13" class="widget widget_text">			<div class="textwidget"><div class="copyright-logo"><img src="https://smart-mobility-hub.industryofthingsvoice.com/wp-content/uploads/sites/8/2016/05/we-conect-logo-transp.png" /></div>
+<div class="copyright-text">
+<ul>
+<li><a href=" https://cognitive-technologies.ai/imprint/">Imprint</a></li>
+<li><a href="https://cognitive-technologies.ai/privacy-policy/">Privacy Policy</a></li>
+<li><a href="https://cognitive-technologies.ai/declaration-of-consent/">Declaration of Consent</a></li>
+<li>© we.MEDIA is the media business of we.CONECT Global Leaders GmbH</li>
+</ul>
+<p>we.CONECT Global Leaders GmbH, Reichenberger Str. 124, 10999 Berlin, Germany</p>
+</div>
+</div>
+		</div>				</div>
+			</div>	
+			
+		
+</footer><!-- .site-footer -->	
+<div id="mobile-menu-bg"></div>	
+</div><!-- #wrapper -->
+
+<nav id="mobile-site-navigation">
+	<span class="mobile-menu-header"><span class="mobile-menu-heading">Menu</span><i class="fa fa-times toggle-mobile-menu"></i></span>
+	<ul id="menu-secondary-menu" class="menu"><li id="menu-item-596" class="menu-title menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-596"><a href="#">Content Delivery</a><span></span>
+<ul class="sub-menu">
+	<li id="menu-item-615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-615"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/">Cognitive Intelligence</a><span></span></li>
+	<li id="menu-item-616" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-616"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-science/">Computer Science</a><span></span></li>
+	<li id="menu-item-617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-617"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-vision/">Computer Vision</a><span></span></li>
+	<li id="menu-item-618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-618"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/data-science/">Data Science</a><span></span></li>
+	<li id="menu-item-619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-619"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/deep-learning/">Deep Learning</a><span></span></li>
+	<li id="menu-item-620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-620"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/imaging/">Imaging</a><span></span></li>
+	<li id="menu-item-621" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-621"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" aria-current="page">Machine Learning</a><span></span></li>
+	<li id="menu-item-622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-622"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/nlp/">NLP</a><span></span></li>
+	<li id="menu-item-623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-623"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/sensing/">Sensing</a><span></span></li>
+	<li id="menu-item-624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-624"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/software-dev/">Software Dev</a><span></span></li>
+</ul>
+</li>
+<li id="menu-item-625" class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-625"><a href="#">Content Types</a><span></span>
+<ul class="sub-menu">
+	<li id="menu-item-626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-626"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/articles/">Articles</a><span></span></li>
+	<li id="menu-item-627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-627"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/case-studies/">Case Studies</a><span></span></li>
+	<li id="menu-item-628" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-628"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/industry-reports/">Industry Reports</a><span></span></li>
+	<li id="menu-item-629" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-629"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/interviews/">Interview</a><span></span></li>
+	<li id="menu-item-630" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-630"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/webinars/">Webinars</a><span></span></li>
+	<li id="menu-item-631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-631"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/whitepapers/">Whitepapers</a><span></span></li>
+</ul>
+</li>
+<li id="menu-item-632" class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-632"><a href="#">Events</a><span></span>
+<ul class="sub-menu">
+	<li id="menu-item-633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-633"><a href="http://big-data-minds.com">Big Data Minds</a><span></span></li>
+	<li id="menu-item-773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-773"><a href="https://www.ai-cognitive-computing.de/">I&#8217;m AI</a><span></span></li>
+	<li id="menu-item-636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-636"><a href="http://auto-ai.eu">Auto.AI</a><span></span></li>
+	<li id="menu-item-634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-634"><a href="http://auto-ai.com/">Auto.AI USA</a><span></span></li>
+	<li id="menu-item-770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-770"><a href="https://www.cognitive-health.ai/">Cognitive Health</a><span></span></li>
+	<li id="menu-item-771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-771"><a href="https://www.cognitive-finance.ai/">Cognitive Finance</a><span></span></li>
+	<li id="menu-item-772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-772"><a href="https://www.cognitive-business-automation.com/">Cognitive Business Automation</a><span></span></li>
+	<li id="menu-item-774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774"><a href="https://www.autonomous-systems-world.com/">Autonomous Machines World</a><span></span></li>
+	<li id="menu-item-775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-775"><a href="https://www.rethink-cognitive-technologies.de/">Rethink! Cognitive Technologies</a><span></span></li>
+</ul>
+</li>
+<li id="menu-item-637" class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-637"><a href="#">About Us</a><span></span>
+<ul class="sub-menu">
+	<li id="menu-item-640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-640"><a href="https://www.cognitive-technologies.ai/about-us/">About Us</a><span></span></li>
+	<li id="menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638"><a href="https://www.cognitive-technologies.ai/team/">Our Team</a><span></span></li>
+	<li id="menu-item-653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-653"><a href="https://www.cognitive-technologies.ai/the-authors/">The Authors</a><span></span></li>
+	<li id="menu-item-641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-641"><a href="http://www.we-conect.com/career">Career</a><span></span></li>
+	<li id="menu-item-642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-642"><a href="http://www.we-conect.com">we.CONECT</a><span></span></li>
+	<li id="menu-item-639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-639"><a href="https://www.cognitive-technologies.ai/contact-us/">Contact Us</a><span></span></li>
+</ul>
+</li>
+<li id="menu-item-644" class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-644"><a href="#">Digital Hubs</a><span></span>
+<ul class="sub-menu">
+	<li id="menu-item-643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-643"><a href="http://smart-mobility-hub.com">Smart Mobility Hub</a><span></span></li>
+	<li id="menu-item-645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-645"><a href="http://enterprise-communication-hub.com/">Enterprise Communication Hub</a><span></span></li>
+	<li id="menu-item-646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-646"><a href="http://digital-business-hub.com">Digital Business Hub</a><span></span></li>
+	<li id="menu-item-647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-647"><a href="http://internet-of-strategy.com">Internet of Strategy Network</a><span></span></li>
+	<li id="menu-item-648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-648"><a href="http://industryofthingsvoice.com">Industry of Things Voice</a><span></span></li>
+	<li id="menu-item-769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-769"><a href="https://code-cafe.blog/">Code Café</a><span></span></li>
+	<li id="menu-item-776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-776"><a href="https://www.cognitive-technologies.ai/">Cognitive Technologies</a><span></span></li>
+</ul>
+</li>
+</ul>	
+			
+	
+</nav><!-- #mobile-site-navigation -->
+
+	<div id="secondary-navigation-wrapper">
+		<div id="secondary-navigation-inner">
+			<div class="secondary-navigation-close"><i class="post-icon icon-close"></i></div>
+			<nav id="secondary-navigation" class="clearfix" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul id="menu-secondary-menu-1" class="menu"><li class="menu-title menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-596"><a href="#">Content Delivery</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-615"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/cognitive-intelligence/">Cognitive Intelligence</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-616"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-science/">Computer Science</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-617"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/computer-vision/">Computer Vision</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-618"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/data-science/">Data Science</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-619"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/deep-learning/">Deep Learning</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-620"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/imaging/">Imaging</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-621"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/machine-learning/" aria-current="page">Machine Learning</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-622"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/nlp/">NLP</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-623"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/sensing/">Sensing</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-624"><a href="https://www.cognitive-technologies.ai/category/content-categories-hub1808/software-dev/">Software Dev</a></li>
+</ul>
+</li>
+<li class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-625"><a href="#">Content Types</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-626"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/articles/">Articles</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-627"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/case-studies/">Case Studies</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-628"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/industry-reports/">Industry Reports</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-629"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/interviews/">Interview</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-630"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/webinars/">Webinars</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-631"><a href="https://www.cognitive-technologies.ai/category/content-types-hub1808/whitepapers/">Whitepapers</a></li>
+</ul>
+</li>
+<li class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-632"><a href="#">Events</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-633"><a href="http://big-data-minds.com">Big Data Minds</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-773"><a href="https://www.ai-cognitive-computing.de/">I&#8217;m AI</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-636"><a href="http://auto-ai.eu">Auto.AI</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-634"><a href="http://auto-ai.com/">Auto.AI USA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-770"><a href="https://www.cognitive-health.ai/">Cognitive Health</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-771"><a href="https://www.cognitive-finance.ai/">Cognitive Finance</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-772"><a href="https://www.cognitive-business-automation.com/">Cognitive Business Automation</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774"><a href="https://www.autonomous-systems-world.com/">Autonomous Machines World</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-775"><a href="https://www.rethink-cognitive-technologies.de/">Rethink! Cognitive Technologies</a></li>
+</ul>
+</li>
+<li class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-637"><a href="#">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-640"><a href="https://www.cognitive-technologies.ai/about-us/">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638"><a href="https://www.cognitive-technologies.ai/team/">Our Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-653"><a href="https://www.cognitive-technologies.ai/the-authors/">The Authors</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-641"><a href="http://www.we-conect.com/career">Career</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-642"><a href="http://www.we-conect.com">we.CONECT</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-639"><a href="https://www.cognitive-technologies.ai/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-644"><a href="#">Digital Hubs</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-643"><a href="http://smart-mobility-hub.com">Smart Mobility Hub</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-645"><a href="http://enterprise-communication-hub.com/">Enterprise Communication Hub</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-646"><a href="http://digital-business-hub.com">Digital Business Hub</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-647"><a href="http://internet-of-strategy.com">Internet of Strategy Network</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-648"><a href="http://industryofthingsvoice.com">Industry of Things Voice</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-769"><a href="https://code-cafe.blog/">Code Café</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-776"><a href="https://www.cognitive-technologies.ai/">Cognitive Technologies</a></li>
+</ul>
+</li>
+</ul>			</nav><!-- #secondary-navigation -->
+							<aside id="secondary-menu-sidebar" class="clearfix">
+			<ul class="secondary-menu-widget-area">
+					<li id="text-6" class="widget widget-container widget_text">			<div class="textwidget"><p>©2018 All Rights Reserved | we.CONECT Global Leaders GmbH, Reichenberger Str. 124, 10999 Berlin, Germany</p>
+</div>
+		</li>			</ul>
+		</aside>
+			
+		</div>
+	</div>
+
+<a href="#top" class="scrollToTop"><i class="fa fa-angle-up"></i></a>		
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type="text/javascript" > var eventSlideShowSpeed = 1000;</script><style>.event-style{background: #98a660!important;}.event-style:hover{background: #4a5d68!important;}.event-style.active{background: #4a5d68!important;}.event-style-hover:hover{background: #4a5d68!important;}.event-style-active.active{background: #4a5d68!important;}.event-style-background-color{background: #98a660!important;}.event-style-hover-color:hover{color: #98a660!important;}#main-top-menu li a:hover{color: #98a660!important;}</style><script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements/js/tito.js'></script><script type="text/javascript">var cbn="69e6970bac"; var eventUrl =""; var bookingSlugs = {id: "", sp: "", tb_1: "", tb_2: "", tb_3: "", tb_5: ""};document.addEventListener('wpcf7mailsent', function (event) {   if ( '2323' == event.detail.contactFormId  || '2321' == event.detail.contactFormId  || '250' == event.detail.contactFormId  ){       var booking = new Booking({eventUrl: eventUrl, bookingSlugs: bookingSlugs, cbn: cbn});        booking.setData(jQuery('form.wpcf7-form'));        booking.titoInit();   }}, false);</script><div id="downloadgate" class="restructed-download-form vc_row wpb_row vc_row-fluid" title="Download Form" style="display:none;"><div role="form" class="wpcf7" id="wpcf7-f189-o1" lang="en-GB" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/category/machine-learning/#wpcf7-f189-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="189" />
+<input type="hidden" name="_wpcf7_version" value="5.1.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_GB" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f189-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:189,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<h2 class="">Download Form</h2>
+<p class="">Please complete the following fields to enable the download.<br>Note that all marked fields are required.</p>
+<div class="vc_col-sm-6 ">
+<div><label>Salutation*</label><br /><span class="wpcf7-form-control-wrap your-salutation"><select name="your-salutation" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="">---</option><option value="Mr">Mr</option><option value="Mrs">Mrs</option></select></span></div>
+<div><label>First Name*</label><span class="wpcf7-form-control-wrap first-name"><input type="text" name="first-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" /></span></div>
+<div><label>Last Name*</label><span class="wpcf7-form-control-wrap last-name"><input type="text" name="last-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" /></span></div>
+<div><label>Job Position*</label><span class="wpcf7-form-control-wrap job-position"><input type="text" name="job-position" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" /></span></div>
+<p></br></p>
+<div class="form-group"><input type="submit" value="Download" class="wpcf7-form-control wpcf7-submit btn btn-primary" /></div>
+<div >*Required fields. By submitting this form you agree with our <a href="http://we-conect.com/data-privacy">privacy policy</a>, our <a href="http://we-conect.com/declaration-of-consent">declaration of consent</a> and our <a href="http://we-conect.com/en/terms-and-conditions">terms & conditions</a>.</div>
+</div>
+<div class="vc_col-sm-6 ">
+<div><label>Industry*</label><br /><span class="wpcf7-form-control-wrap your-industry"><select name="your-industry" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="">---</option><option value="Academia">Academia</option><option value="Aerospace &amp; Defense">Aerospace &amp; Defense</option><option value="Apparel">Apparel</option><option value="Associations">Associations</option><option value="Automotive">Automotive</option><option value="Banking">Banking</option><option value="Biotechnology">Biotechnology</option><option value="Chemicals">Chemicals</option><option value="Communications">Communications</option><option value="Construction">Construction</option><option value="Consumer Goods">Consumer Goods</option><option value="Consulting">Consulting</option><option value="e-Commerce">e-Commerce</option><option value="Education">Education</option><option value="Electronics">Electronics</option><option value="Energy">Energy</option><option value="Engineering">Engineering</option><option value="Entertainment">Entertainment</option><option value="Environmental">Environmental</option><option value="Finance">Finance</option><option value="Food &amp; Beverages">Food &amp; Beverages</option><option value="Government">Government</option><option value="Hardware Provider">Hardware Provider</option><option value="Healthcare">Healthcare</option><option value="Hospitality">Hospitality</option><option value="Insurance">Insurance</option><option value="Investor">Investor</option><option value="Legal">Legal</option><option value="Logistics">Logistics</option><option value="Machinery">Machinery</option><option value="Manufacturing">Manufacturing</option><option value="Media">Media</option><option value="NGO">NGO</option><option value="Oil &amp; Gas">Oil &amp; Gas</option><option value="Pharmaceuticals">Pharmaceuticals</option><option value="Retail">Retail</option><option value="Shipping">Shipping</option><option value="Software Provider">Software Provider</option><option value="Start-up">Start-up</option><option value="Technology">Technology</option><option value="Technology Provider">Technology Provider</option><option value="Telecommunications">Telecommunications</option><option value="Tier 1">Tier 1</option><option value="Tourism">Tourism</option><option value="Transportation">Transportation</option><option value="Utilities">Utilities</option><option value="Other">Other</option></select></span></div>
+<div><label>Company*</label><span class="wpcf7-form-control-wrap your-company"><input type="text" name="your-company" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" /></span></div>
+<div class="email"><label>Email Address*</label><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" /></span></div>
+<div><label>Phone Number (incl. Country Code)*</label><span class="wpcf7-form-control-wrap your-phone-number"><input type="tel" name="your-phone-number" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel form-control" aria-required="true" aria-invalid="false" /></span></div>
+<div><label>Country*</label><br /><span class="wpcf7-form-control-wrap your-country"><select name="your-country" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="">---</option><option value="Afghanistan">Afghanistan</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="American Samoa">American Samoa</option><option value="Andorra">Andorra</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua and Barbuda">Antigua and Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Arctic Ocean">Arctic Ocean</option><option value="Aruba">Aruba</option><option value="Ashmore and Cartier Islands">Ashmore and Cartier Islands</option><option value="Atlantic Ocean">Atlantic Ocean</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Baker Island">Baker Island</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Bassas da India">Bassas da India</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option><option value="Botswana">Botswana</option><option value="Bouvet Island">Bouvet Island</option><option value="Brazil">Brazil</option><option value="British Virgin Islands">British Virgin Islands</option><option value="Brunei">Brunei</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Clipperton Island">Clipperton Island</option><option value="Cocos Islands">Cocos Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Cook Islands">Cook Islands</option><option value="Coral Sea Islands">Coral Sea Islands</option><option value="Costa Rica">Costa Rica</option><option value="Cote d&#039;Ivoire">Cote d&#039;Ivoire</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Democratic Republic of the Congo">Democratic Republic of the Congo</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="East Timor">East Timor</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Europa Island">Europa Island</option><option value="Falkland Islands (Islas Malvinas)">Falkland Islands (Islas Malvinas)</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern and Antarctic Lands">French Southern and Antarctic Lands</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Gaza Strip">Gaza Strip</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Glorioso Islands">Glorioso Islands</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guernsey">Guernsey</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard Island and McDonald Islands">Heard Island and McDonald Islands</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Howland Island">Howland Island</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indian Ocean">Indian Ocean</option><option value="Indonesia">Indonesia</option><option value="Iran">Iran</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Isle of Man">Isle of Man</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Jan Mayen">Jan Mayen</option><option value="Japan">Japan</option><option value="Jarvis Island">Jarvis Island</option><option value="Jersey">Jersey</option><option value="Johnston Atoll">Johnston Atoll</option><option value="Jordan">Jordan</option><option value="Juan de Nova Island">Juan de Nova Island</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kingman Reef">Kingman Reef</option><option value="Kiribati">Kiribati</option><option value="Kerguelen Archipelago">Kerguelen Archipelago</option><option value="Kosovo">Kosovo</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Laos">Laos</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macau">Macau</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia">Micronesia</option><option value="Midway Islands">Midway Islands</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montenegro">Montenegro</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Navassa Island">Navassa Island</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="North Korea">North Korea</option><option value="North Sea">North Sea</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pacific Ocean">Pacific Ocean</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Palmyra Atoll">Palmyra Atoll</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paracel Islands">Paracel Islands</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn Islands">Pitcairn Islands</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Republic of the Congo">Republic of the Congo</option><option value="Romania">Romania</option><option value="Russia">Russia</option><option value="Rwanda">Rwanda</option><option value="Saint Helena">Saint Helena</option><option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option><option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Serbia">Serbia</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Spratly Islands">Spratly Islands</option><option value="Sri Lanka">Sri Lanka</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard">Svalbard</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria">Syria</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tromelin Island">Tromelin Island</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos Islands">Turks and Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="USA">USA</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands">Virgin Islands</option><option value="Wake Island">Wake Island</option><option value="Wallis and Futuna">Wallis and Futuna</option><option value="West Bank">West Bank</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Yugoslavia">Yugoslavia</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select></span></div>
+<div class="form-group" style="margin-top: 10%; margin-bottom: 1%;" style="font-size:80%; color:grey;"><span class="wpcf7-form-control-wrap subscribe-newsletter"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="subscribe-newsletter[]" value="Subscribe to Newsletter" /><span class="wpcf7-list-item-label">Subscribe to Newsletter</span></span></span></span></div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div><input type="hidden" id="downloadgatehelper"/><script src="https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/js/downloadgate.min.js"></script></div><div id="su-footer-links" style="text-align: center;"></div><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.cognitive-technologies.ai\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite_scroll = "{\"loading\":{\"msgText\":\"<em>Loading...<\\\/em>\",\"finishedMsg\":\"<em>No additional posts.<\\\/em>\",\"img\":\"http:\\\/\\\/cognitive-technologies.ai\\\/wp-content\\\/plugins\\\/infinite-scroll\\\/img\\\/ajax-loader.gif\"},\"nextSelector\":\"#nav-below a:first\",\"navSelector\":\"#nav-below\",\"itemSelector\":\".post\",\"contentSelector\":\"#content\",\"debug\":false,\"behavior\":\"\"}";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/infinite-scroll/js/front-end/jquery.infinitescroll.js?ver=2.6.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements//js/event_overview.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements//js/jquery.infinitescroll.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements//js/groupFilter.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements/js/custom_mobile.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements//js/sliderwrapper.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements/js/agenda.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/we_contenttypes/we_elements/js/animation.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/themes/bitz/js/init.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/themes/bitz/js/sticky-header.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/themes/bitz/js/theia-sticky-sidebar.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.5'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.cognitive-technologies.ai/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=1.4.1'></script>
+<script type="text/javascript">
+// Because the `wp_localize_script` method makes everything a string
+infinite_scroll = jQuery.parseJSON(infinite_scroll);
+
+jQuery( infinite_scroll.contentSelector ).infinitescroll( infinite_scroll, function(newElements, data, url) { eval(infinite_scroll.callback); });
+</script>
+<link rel="stylesheet" id="essb-cct-style"  href="https://www.cognitive-technologies.ai/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css" type="text/css" media="all" /><script type="text/javascript">var essb_window = function(oUrl, oService, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; var wnd; var w = 800 ; var h = 500; if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); } else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (typeof(essb_abtesting_logger) != "undefined") { essb_abtesting_logger(oService, instance_post_id, oInstance); } var pollTimer = window.setInterval(function() { if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, instance_post_id); } }, 200); }; var essb_self_postcount = function(oService, oCountID) { if (typeof(essb_settings) != "undefined") { oCountID = String(oCountID); jQuery.post(essb_settings.ajax_url, { 'action': 'essb_self_postcount', 'post_id': oCountID, 'service': oService, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } }; var essb_smart_onclose_events = function(oService, oPostID) { if (oService == "subscribe" || oService == "comments") return; if (typeof (essbasc_popup_show) == 'function') { essbasc_popup_show(); } if (typeof essb_acs_code == 'function') { essb_acs_code(oService, oPostID); } if (typeof(after_share_easyoptin) != "undefined") { essb_toggle_subscribe(after_share_easyoptin); } }; var essb_tracking_only = function(oUrl, oService, oInstance, oAfterShare) { var element = jQuery('.essb_'+oInstance); if (oUrl == "") { oUrl = document.URL; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (oAfterShare) { essb_smart_onclose_events(oService, instance_post_id); } }; var essb_pinterest_picker = function(oInstance) { essb_tracking_only('', 'pinterest', oInstance); var e=document.createElement('script'); e.setAttribute('type','text/javascript'); e.setAttribute('charset','UTF-8'); e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e); };</script></body>
+</html>

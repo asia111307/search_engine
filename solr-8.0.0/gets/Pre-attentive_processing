@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pre-attentive processing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pre-attentive_processing","wgTitle":"Pre-attentive processing","wgCurRevisionId":752019536,"wgRevisionId":752019536,"wgArticleId":31329046,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pre-attentive_processing","wgRelevantArticleId":31329046,"wgRequestId":"XLJU6QpAAEIAAB@JVXsAAAAS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7239196","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pre-attentive_processing"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pre-attentive_processing&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pre-attentive_processing&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pre-attentive_processing"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Pre-attentive_processing rootpage-Pre-attentive_processing skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Pre-attentive processing</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Pre-attentive processing</b> is the subconscious accumulation of information from the environment.<sup id="cite_ref-Atienza_1-0" class="reference"><a href="#cite_note-Atienza-1">&#91;1&#93;</a></sup><sup id="cite_ref-Van_2-0" class="reference"><a href="#cite_note-Van-2">&#91;2&#93;</a></sup>  All available information is pre-attentively processed.<sup id="cite_ref-Van_2-1" class="reference"><a href="#cite_note-Van-2">&#91;2&#93;</a></sup> Then, the brain filters and processes what is important.  Information that has the highest salience (a stimulus that stands out the most) or relevance to what a person is thinking about is selected for further and more complete analysis by conscious (attentive) processing.<sup id="cite_ref-Atienza_1-1" class="reference"><a href="#cite_note-Atienza-1">&#91;1&#93;</a></sup><sup id="cite_ref-Van_2-2" class="reference"><a href="#cite_note-Van-2">&#91;2&#93;</a></sup> Understanding how pre-attentive processing works is useful in advertising, in education, and for prediction of <a href="/wiki/Cognition" title="Cognition">cognitive ability</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Pure-capture_and_contingent-capture"><span class="tocnumber">1</span> <span class="toctext">Pure-capture and contingent-capture</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Vision"><span class="tocnumber">2</span> <span class="toctext">Vision</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Audition"><span class="tocnumber">3</span> <span class="toctext">Audition</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Multisensory_integration"><span class="tocnumber">4</span> <span class="toctext">Multisensory integration</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Plasticity"><span class="tocnumber">5</span> <span class="toctext">Plasticity</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Deficits"><span class="tocnumber">6</span> <span class="toctext">Deficits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Pure-capture_and_contingent-capture">Pure-capture and contingent-capture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit&amp;section=1" title="Edit section: Pure-capture and contingent-capture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The reasons are unclear as to why certain information proceeds from pre-attentive to attentive processing while other information does not.  It is generally accepted that the selection involves an interaction between the salience of a stimulus and a person’s current intentions and/or goals.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>  Two models of pre-attentive processing are pure-capture and contingent-capture.<sup id="cite_ref-Folk_4-0" class="reference"><a href="#cite_note-Folk-4">&#91;4&#93;</a></sup> 
+</p><p>The "pure-capture" model focuses on stimulus salience.<sup id="cite_ref-Tollner_5-0" class="reference"><a href="#cite_note-Tollner-5">&#91;5&#93;</a></sup> If certain properties of a stimulus stand out from its background, the stimulus has a higher chance of being selected for attentive processing.<sup id="cite_ref-Folk_4-1" class="reference"><a href="#cite_note-Folk-4">&#91;4&#93;</a></sup> This is sometimes referred to as "bottom-up" processing, as it is the properties of the stimuli which affect selection. Since things that affect pre-attentive processing do not necessarily correlate with things that affect attention, stimulus salience may be more important than conscious goals. For example, pre-attentive processing is slowed by sleep deprivation while attention, although less focused, is not slowed.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>  Furthermore, when searching for a particular visual stimulus among a variety of visual distractions, people often have more trouble finding what they are looking for if one or more of the distractions is particularly salient.<sup id="cite_ref-Folk_4-2" class="reference"><a href="#cite_note-Folk-4">&#91;4&#93;</a></sup> For example, it is easier to locate a bright, green circle (which is salient) among distractor circles if they are all grey (a bland color) than it is to locate a green circle among distractor circles if some are red (also salient colour). This is thought to occur because the salient red circles attract our attention away from the target green circle. However, this is difficult to prove because when given a target (like the green circle) to search for in a laboratory experiment, participants may generalize the task to searching for anything that stands out, rather than solely searching for the target.<sup id="cite_ref-Folk_4-3" class="reference"><a href="#cite_note-Folk-4">&#91;4&#93;</a></sup> If this happens, the conscious goal becomes finding anything that stands out, which would direct the person’s attention towards red distractor circles as well as the green target. This means that a person’s goal, rather than the salience of the stimuli, could be causing the delayed ability to find the target.
+</p><p>The "contingent-capture" model emphasizes the idea that a person’s current intentions and/or goals affect the speed and efficiency of pre-attentive processing.<sup id="cite_ref-Folk_4-4" class="reference"><a href="#cite_note-Folk-4">&#91;4&#93;</a></sup> The brain directs an individual’s attention towards stimuli with features that fit in with their goals. Consequently, these stimuli will be processed faster at the pre-attentive stage and will be more likely to be selected for attentive processing.<sup id="cite_ref-Tollner_5-1" class="reference"><a href="#cite_note-Tollner-5">&#91;5&#93;</a></sup> Since this model focuses on the importance of conscious processes (rather than properties of the stimulus itself) in selecting information for attentive processing, it is sometimes called "top-down" selection.<sup id="cite_ref-Folk_4-5" class="reference"><a href="#cite_note-Folk-4">&#91;4&#93;</a></sup>  In support of this model, it has been shown that a target stimulus can be located faster if it is preceded by the presentation of a similar, priming stimulus.<sup id="cite_ref-Folk_4-6" class="reference"><a href="#cite_note-Folk-4">&#91;4&#93;</a></sup> For example, if an individual is shown the color green and then required to find a green circle among distractors, the initial exposure to the color will make it easier to find the green circle. This is because they are already thinking about and envisioning the color green, so when it shows up again as the green circle, their brain readily directs its attention towards it. This suggests that processing an initial stimulus speeds up a person’s ability to select a similar target from pre-attentive processing. However, it could be that the speed of pre-attentive processing itself is not affected by the first stimulus, but rather that people are simply able to quickly abandon dissimilar stimuli, enabling them to re-engage to the correct target more quickly.<sup id="cite_ref-Folk_4-7" class="reference"><a href="#cite_note-Folk-4">&#91;4&#93;</a></sup> This would mean that the difference in reaction time occurs at the attentive level, after pre-attentive processing and stimulus selection has already taken place.
+</p>
+<h2><span class="mw-headline" id="Vision">Vision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit&amp;section=2" title="Edit section: Vision">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Information for pre-attentive processing is detected through the five senses. In the visual system, the receptive fields at the back of the eye (<a href="/wiki/Retina" title="Retina">retina</a>) transfer the image via <a href="/wiki/Axon" title="Axon">axons</a> to the <a href="/wiki/Thalamus" title="Thalamus">thalamus</a>, specifically the <a href="/wiki/Lateral_geniculate_nucleus" title="Lateral geniculate nucleus">lateral geniculate nuclei</a>.<sup id="cite_ref-Meng_7-0" class="reference"><a href="#cite_note-Meng-7">&#91;7&#93;</a></sup>  The image then travels to the <a href="/wiki/Visual_cortex" title="Visual cortex">primary visual cortex</a> and continues on to be processed by the <a href="/wiki/Visual_cortex" title="Visual cortex">visual association cortex</a>.  At each stage, the image is processed with increasing complexity.  Pre-attentive processing starts with the <a href="/wiki/Retina" title="Retina">retinal</a> image; this image is magnified as it moves from <a href="/wiki/Retina" title="Retina">retina</a> to the cortex of the brain.<sup id="cite_ref-Meng_7-1" class="reference"><a href="#cite_note-Meng-7">&#91;7&#93;</a></sup>  Shades of light and dark are processed in the <a href="/wiki/Lateral_geniculate_nucleus" title="Lateral geniculate nucleus">lateral geniculate nuclei</a> of the <a href="/wiki/Thalamus" title="Thalamus">thalamus</a>.<sup id="cite_ref-Meng_7-2" class="reference"><a href="#cite_note-Meng-7">&#91;7&#93;</a></sup>  Simple and complex cells in the brain process boundary and surface information by deciphering the image's contrast, orientation, and edges.<sup id="cite_ref-Meng_7-3" class="reference"><a href="#cite_note-Meng-7">&#91;7&#93;</a></sup>  When the image hits the <a href="/wiki/Fovea_centralis" title="Fovea centralis">fovea</a>, it is highly magnified, facilitating object recognition. The images in the <a href="/wiki/Peripheral_vision" title="Peripheral vision">periphery</a> are less clear but help to create a complete image used for scene perception.<sup id="cite_ref-Meng_7-4" class="reference"><a href="#cite_note-Meng-7">&#91;7&#93;</a></sup> <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Visual scene segmentation is a pre-attentive process where stimuli are grouped together into specific objects against a background.<sup id="cite_ref-Appelbaum_10-0" class="reference"><a href="#cite_note-Appelbaum-10">&#91;10&#93;</a></sup> Figure and background regions of an image activate different processing centres: figures use the <a href="/wiki/Occipital_lobe" title="Occipital lobe">lateral occipital areas</a> (which involve object processing) and background engages dorso-medial areas.<sup id="cite_ref-Appelbaum_10-1" class="reference"><a href="#cite_note-Appelbaum-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>  
+</p><p>Visual pre-attentive processing uses a distinct memory mechanism.<sup id="cite_ref-Krummenacher_12-0" class="reference"><a href="#cite_note-Krummenacher-12">&#91;12&#93;</a></sup>  When a stimulus is presented consecutively, the stimulus is perceived at a faster rate than if different stimuli are presented consecutively.<sup id="cite_ref-Krummenacher_12-1" class="reference"><a href="#cite_note-Krummenacher-12">&#91;12&#93;</a></sup>  The theory behind this is called the dimension-weighting account (DWA) where each time a specific stimulus (i.e. color) is presented it contributes to the weight of the stimuli.<sup id="cite_ref-Krummenacher_12-2" class="reference"><a href="#cite_note-Krummenacher-12">&#91;12&#93;</a></sup> More presentations increase the weight of the stimuli, and therefore, subsequently decrease the reaction time to the stimulus.<sup id="cite_ref-Krummenacher_12-3" class="reference"><a href="#cite_note-Krummenacher-12">&#91;12&#93;</a></sup>  The dimensional-weighting system, which calculates pre-attentive processing for our visual system, codes the stimulus and thus directs attention to the stimulus with the most weight.<sup id="cite_ref-Krummenacher_12-4" class="reference"><a href="#cite_note-Krummenacher-12">&#91;12&#93;</a></sup> 
+</p><p>Visual pre-attentive processing is also involved in the perception of emotion.<sup id="cite_ref-Balconi_13-0" class="reference"><a href="#cite_note-Balconi-13">&#91;13&#93;</a></sup>  Human beings are social creatures and are very adept at critiquing facial expressions.  We have the ability to unconsciously process emotional stimuli and equate the stimuli, such as a face, with meaning.<sup id="cite_ref-Balconi_13-1" class="reference"><a href="#cite_note-Balconi-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Audition">Audition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit&amp;section=3" title="Edit section: Audition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The auditory system is also very important in accumulating information for pre-attentive processing. When a person’s eardrum is struck by incoming sound waves, it vibrates. This sends messages, via the <a href="/wiki/Cochlear_nerve" title="Cochlear nerve">auditory nerve</a>, to the brain for pre-attentive processing. The ability to adequately filter information from pre-attentive processing to attentive processing is necessary for the normal development of social skills.<sup id="cite_ref-Seri_14-0" class="reference"><a href="#cite_note-Seri-14">&#91;14&#93;</a></sup> For acoustic pre-attentive processing, the <a href="/wiki/Temporal_lobe" title="Temporal lobe">temporal cortex</a> was believed to be the main site of activation, however, recent evidence has indicated involvement of the <a href="/wiki/Frontal_lobe" title="Frontal lobe">frontal cortex</a> as well.<sup id="cite_ref-Habermeyer_15-0" class="reference"><a href="#cite_note-Habermeyer-15">&#91;15&#93;</a></sup><sup id="cite_ref-Klamer_16-0" class="reference"><a href="#cite_note-Klamer-16">&#91;16&#93;</a></sup> The <a href="/wiki/Frontal_lobe" title="Frontal lobe">frontal cortex</a> is predominantly associated with attentional processing, but it may also be involved in pre-attentive processing of complex and/or salient acoustic stimuli.<sup id="cite_ref-Appelbaum_10-2" class="reference"><a href="#cite_note-Appelbaum-10">&#91;10&#93;</a></sup><sup id="cite_ref-Habermeyer_15-1" class="reference"><a href="#cite_note-Habermeyer-15">&#91;15&#93;</a></sup>  For example, detecting slight variations in complex musical patterns has been shown to activate the right ventromedial <a href="/wiki/Prefrontal_cortex" title="Prefrontal cortex">prefrontal cortex</a>.<sup id="cite_ref-Habermeyer_15-2" class="reference"><a href="#cite_note-Habermeyer-15">&#91;15&#93;</a></sup>
+</p><p>It has been shown that in acoustic pre-attentive processing there is some degree of <a href="/wiki/Lateralization_of_brain_function" title="Lateralization of brain function">lateralization</a>.<sup id="cite_ref-Zaehle_17-0" class="reference"><a href="#cite_note-Zaehle-17">&#91;17&#93;</a></sup> The left hemisphere responds more to temporal acoustic information whereas the right hemisphere responds to the frequency of auditory information.<sup id="cite_ref-Zaehle_17-1" class="reference"><a href="#cite_note-Zaehle-17">&#91;17&#93;</a></sup>  Also, there is <a href="/wiki/Lateralization_of_brain_function" title="Lateralization of brain function">lateralization</a> in the perception of speech which is left hemisphere dominant for pre-attentive processing.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Multisensory_integration">Multisensory integration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit&amp;section=4" title="Edit section: Multisensory integration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>	Vision, sound, smell, touch, and taste are processed together pre-attentively when more than one sensory stimuli are present.<sup id="cite_ref-Fairhall_19-0" class="reference"><a href="#cite_note-Fairhall-19">&#91;19&#93;</a></sup>  This <a href="/wiki/Multisensory_integration" title="Multisensory integration">multisensory integration</a> increases activity in the <a href="/wiki/Superior_temporal_sulcus" title="Superior temporal sulcus">superior temporal sulcus</a> (STS), <a href="/wiki/Thalamus" title="Thalamus">thalamus</a>, and <a href="/wiki/Superior_colliculus" title="Superior colliculus">superior colliculus</a>.<sup id="cite_ref-Fairhall_19-1" class="reference"><a href="#cite_note-Fairhall-19">&#91;19&#93;</a></sup>  Specifically, the pre-attentive process of <a href="/wiki/Multisensory_integration" title="Multisensory integration">multisensory integration</a> works jointly with attention to activate brain regions such as the <a href="/wiki/Superior_temporal_sulcus" title="Superior temporal sulcus">STS</a>.<sup id="cite_ref-Fairhall_19-2" class="reference"><a href="#cite_note-Fairhall-19">&#91;19&#93;</a></sup>  <a href="/wiki/Multisensory_integration" title="Multisensory integration">Multisensory integration</a> seems to give a person the advantage of greater comprehension if both auditory and visual stimuli are being processed together.<sup id="cite_ref-Fairhall_19-3" class="reference"><a href="#cite_note-Fairhall-19">&#91;19&#93;</a></sup>  But it is important to note that <a href="/wiki/Multisensory_integration" title="Multisensory integration">multisensory integration</a> is affected by what a person pays attention to and their current goals.<sup id="cite_ref-Fairhall_19-4" class="reference"><a href="#cite_note-Fairhall-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Plasticity">Plasticity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit&amp;section=5" title="Edit section: Plasticity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>	Training can lead to changes in activity and brain structures involved in pre-attentive processing.<sup id="cite_ref-Habermeyer_15-3" class="reference"><a href="#cite_note-Habermeyer-15">&#91;15&#93;</a></sup> Professional musicians, in particular, show larger ERP (<a href="/wiki/Event-related_potential" title="Event-related potential">Event-related potential</a>) responses to deviations in auditory stimuli and have possibly related structural differences in their brains (<a href="/wiki/Transverse_temporal_gyrus" title="Transverse temporal gyrus">Heschl’s gyrus</a>, <a href="/wiki/Corpus_callosum" title="Corpus callosum">corpus callosum</a>, and <a href="/wiki/Corticospinal_tract" title="Corticospinal tract">pyramidal tracts</a>).<sup id="cite_ref-Habermeyer_15-4" class="reference"><a href="#cite_note-Habermeyer-15">&#91;15&#93;</a></sup>  This plasticity of pre-attentive processing has also been shown in perception.  Using EEG (<a href="/wiki/Electroencephalography" title="Electroencephalography">electroencephalography</a>) methods in pre-attentive colour perception, a study observed how easy it was for bilinguals to adapt to the linguistic constructs of a different culture.<sup id="cite_ref-Athanasopoulos_20-0" class="reference"><a href="#cite_note-Athanasopoulos-20">&#91;20&#93;</a></sup> This means that pre-attentive processes are not hard-wired but malleable.<sup id="cite_ref-Athanasopoulos_20-1" class="reference"><a href="#cite_note-Athanasopoulos-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Deficits">Deficits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit&amp;section=6" title="Edit section: Deficits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Deficits in the transition from pre-attentive processing to attentive processing are associated with disorders such as <a href="/wiki/Schizophrenia" title="Schizophrenia">schizophrenia</a>, <a href="/wiki/Alzheimer%27s_disease" title="Alzheimer&#39;s disease">Alzheimer's disease</a>, and <a href="/wiki/Autism" title="Autism">autism</a>.<sup id="cite_ref-Seri_14-1" class="reference"><a href="#cite_note-Seri-14">&#91;14&#93;</a></sup><sup id="cite_ref-Klamer_16-1" class="reference"><a href="#cite_note-Klamer-16">&#91;16&#93;</a></sup><sup id="cite_ref-Tales_21-0" class="reference"><a href="#cite_note-Tales-21">&#91;21&#93;</a></sup> Abnormal <a href="/wiki/Prefrontal_cortex" title="Prefrontal cortex">prefrontal cortex</a> function in <a href="/wiki/Schizophrenia" title="Schizophrenia">schizophrenics</a> results in the inability to use pre-attentive processing to recognize familiar auditory stimuli as non-threatening.<sup id="cite_ref-Klamer_16-2" class="reference"><a href="#cite_note-Klamer-16">&#91;16&#93;</a></sup>  <a href="/wiki/Schizophrenia" title="Schizophrenia">Schizophrenics</a> with positive symptoms have a greater capability of pre-attentively processing emotionally negative odors.<sup id="cite_ref-Pause_22-0" class="reference"><a href="#cite_note-Pause-22">&#91;22&#93;</a></sup>  This heightened ability to distinguish odors seems to be involved in their hypersensitivity to threatening situations.<sup id="cite_ref-Pause_22-1" class="reference"><a href="#cite_note-Pause-22">&#91;22&#93;</a></sup> <a href="/wiki/Alzheimer%27s_disease" title="Alzheimer&#39;s disease">Alzheimer's disease</a> is typically thought to affect high-level brain functioning (like memory) but can also have negative impacts on visual pre-attentive processing.<sup id="cite_ref-Tales_21-1" class="reference"><a href="#cite_note-Tales-21">&#91;21&#93;</a></sup> Some of the difficulties with social interaction seen in <a href="/wiki/Autism" title="Autism">autistics</a> may be due to an impairment in filtration of pre-attentive auditory information.<sup id="cite_ref-Seri_14-2" class="reference"><a href="#cite_note-Seri-14">&#91;14&#93;</a></sup> For example, they often have difficulty following a conversation as they cannot distinguish which parts are important and are easily distracted by other sounds.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Response_Priming" class="mw-redirect" title="Response Priming">Response Priming</a></li>
+<li><a href="/wiki/Subliminal_stimuli" title="Subliminal stimuli">Subliminal stimuli</a></li>
+<li><a href="/wiki/Unconscious_cognition" title="Unconscious cognition">Unconscious cognition</a></li>
+<li><a href="/wiki/Unconscious_thought_theory#Criticism_of_UTT" title="Unconscious thought theory">Unconscious thought theory#Criticism of UTT</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Atienza-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Atienza_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Atienza_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Atienza, M., Cantero, J. L., &amp; Escera, C. (2001). Auditory information processing during human sleep as revealed by event-related brain potentials. Clinical Neurophysiology, 112(11), 2031-2045.</span>
+</li>
+<li id="cite_note-Van-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Van_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Van_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Van_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Van der Heijden, A. H. C. (1996). Perception for selection, selection for action, and action for perception. Visual Cognition, 3(4), 357-361.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Egeth, H. E., Yantis, S. (1997). Visual attention: Control, representation, and time course. Annual Review of Psychology, 48, 269-297.</span>
+</li>
+<li id="cite_note-Folk-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Folk_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Folk_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Folk_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Folk_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Folk_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Folk_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Folk_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Folk_4-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text">Folk, C. L., &amp; Remington, R. (2006). Top-down modulation of preattentive processing: Testing the recovery account of contingent capture. Visual Cognition, 14, 445-465.</span>
+</li>
+<li id="cite_note-Tollner-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tollner_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tollner_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Tollner, T., Zehetleitner, M., Gramann, K., &amp; Muller, H. J. (2010). Top-down weighting of visual dimensions: Behavioral and electrophysiological evidence. Vision Research, 50(14), 1372-1381.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Raz, A., Deouell, L. Y., &amp; Bentin, S. (2001). Is pre-attentive processing compromised by prolonged wakefulness? Effects of total sleep deprivation on the mismatch negativity. Psychophysiology, 38, 787-795.</span>
+</li>
+<li id="cite_note-Meng-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Meng_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Meng_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Meng_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Meng_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Meng_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Meng, X., &amp; Wang, Z. (2009). A pre-attentive model of biological vision. IEEE International Conference on Intelligent Computing and Intelligent Systems, 3, 154-158.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Klein, S. A., Carney, T., Barghout-Stein, L., &amp; Tyler, C. W. (1997, June). Seven models of masking. In Electronic Imaging'97 (pp. 13-24). International Society for Optics and Photonics. </span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"> Barghout-Stein, Lauren. On differences between peripheral and foveal pattern masking. Diss. University of California, Berkeley, 1999. </span>
+</li>
+<li id="cite_note-Appelbaum-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Appelbaum_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Appelbaum_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Appelbaum_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Appelbaum, L. G., &amp; Norcia, A. M. (2009). Attentive and pre-attentive aspects of figural processing. Journal of Vision, 9(11), 1-12. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1167%2F9.11.18">10.1167/9.11.18</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Kourtzi, Z., &amp; Kanwisher, N. (2000). Cortical regions involved in perceiving object shape. Journal of Neuroscience, 20, 3310-3318.</span>
+</li>
+<li id="cite_note-Krummenacher-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Krummenacher_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Krummenacher_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Krummenacher_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Krummenacher_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Krummenacher_12-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Krummenacher, J., Grubert, A., &amp; Müller, H. J. (2010). Inter-trial and redundant-signals effects in visual search and discrimination tasks: Separable pre-attentive and post-selective effects. Vision Research, 50(14), 1382-1395. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.visres.2010.04.006">10.1016/j.visres.2010.04.006</a></span>
+</li>
+<li id="cite_note-Balconi-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Balconi_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Balconi_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Balconi, M., &amp; Mazza, G. (2009). Consciousness and emotion: ERP modulation and attentive vs. pre-attentive elaboration of emotional facial expressions by backward masking. Springer Science, 33, 113-124.</span>
+</li>
+<li id="cite_note-Seri-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Seri_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Seri_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Seri_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Seri, S., Pisani, F., Thai, J. N., &amp; Cerquiglini, A. (2007). Pre-attentive auditory sensory processing in autistic spectrum disorder. Are electromagnetic measurements telling us a coherent story? International Journal of Psychophysiology, 63(2), 159-163.</span>
+</li>
+<li id="cite_note-Habermeyer-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Habermeyer_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Habermeyer_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Habermeyer_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Habermeyer_15-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Habermeyer_15-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Habermeyer, B., Herdener, M., Esposito, F., Hilti, C. C., Klarhofer, M., di Salle, F., Wetzel, S., et al. (2009). Neural correlates of pre-attentive processing of pattern deviance in professional musicians. Human Brain Mapping, 30, 3736-3747.</span>
+</li>
+<li id="cite_note-Klamer-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Klamer_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Klamer_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Klamer_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Klamer, D., Svensson, L., Fejgin, K., &amp; Palson, E. (2011). Prefrontal NMDA receptor antagonism reduces impairments in pre-attentive information processing. European Neuropsychopharmacology, 21(3), 248-253.</span>
+</li>
+<li id="cite_note-Zaehle-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Zaehle_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Zaehle_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Zaehle, T., Jancke, L., Herrmann, C. S., Meyer, M. (2009). Pre-attentive spectro-temporal feature processing in the human auditory system. Brain Topography, 22, 97-108.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Sorokin, A., Alku, P., &amp; Kujala, T. (2010). Change and novelty detection in speech and non-speech sound streams. Brain Research, 1327, 77-90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.brainres.2010.02.052">10.1016/j.brainres.2010.02.052</a>.</span>
+</li>
+<li id="cite_note-Fairhall-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fairhall_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fairhall_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Fairhall_19-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Fairhall_19-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Fairhall_19-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Fairhall, S. L., &amp; Macaluso, E. (2009). Spatial attention can modulate audiovisual integration at multiple cortical and subcortical sites. European Journal of Neuroscience, 29, 1247-1257.</span>
+</li>
+<li id="cite_note-Athanasopoulos-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Athanasopoulos_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Athanasopoulos_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Athanasopoulos, P., Dering, B., Wiggett, A., Kuipers, J., &amp; Thierry, G. (2010). Perceptual shift in bilingualism: Brain potentials reveal plasticity in pre-attentive colour perception. <i>Cognition</i>, 116(3), 437-443. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.cognition.2010.05.016">10.1016/j.cognition.2010.05.016</a></span>
+</li>
+<li id="cite_note-Tales-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tales_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tales_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Tales, A., Haworth, J., Wilcock, G., Newton, P., &amp; Butler, S. (2008). Visual mismatch negativity highlights abnormal pre-attentive visual processing in mild cognitive impairment and Alzheimer's disease. Neuropsychologia, 46(5), 1224-1232.</span>
+</li>
+<li id="cite_note-Pause-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pause_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pause_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Pause, B. M., Hellman, G., Goder, R., Aldenhoff, J. B., &amp; Ferstl, R. (2008). Increased processing speed for emotionally negative odors in schizophrenia. International Journal of Psychophysiology,  70, 16-22.</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20190409104019
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.132 seconds
+Preprocessor visited node count: 707/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 2012/2097152 bytes
+Template argument size: 972/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 16958/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.003/10.000 seconds
+Lua memory usage: 536 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   49.579      1 Template:Reflist
+100.00%   49.579      1 -total
+ 23.25%   11.526      4 Template:Doi
+ 12.22%    6.058      8 Template:Hide_in_print
+  5.92%    2.934      4 Template:Only_in_print
+  5.52%    2.736      1 Template:Main_other
+  5.08%    2.516      4 Template:Str_left
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31329046-0!canonical and timestamp 20190409104019 and revision id 752019536
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pre-attentive_processing&amp;oldid=752019536">https://en.wikipedia.org/w/index.php?title=Pre-attentive_processing&amp;oldid=752019536</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognition" title="Category:Cognition">Cognition</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pre-attentive+processing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pre-attentive+processing" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Pre-attentive_processing" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Pre-attentive_processing" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Pre-attentive_processing">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pre-attentive_processing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pre-attentive_processing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pre-attentive_processing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pre-attentive_processing&amp;oldid=752019536" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pre-attentive_processing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7239196" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pre-attentive_processing&amp;id=752019536" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pre-attentive+processing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pre-attentive+processing&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pre-attentive_processing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pr%C3%A4attentive_Wahrnehmung" title="Präattentive Wahrnehmung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7239196#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 November 2016, at 01:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pre-attentive_processing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.132","ppvisitednodes":{"value":707,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2012,"limit":2097152},"templateargumentsize":{"value":972,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":16958,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   49.579      1 Template:Reflist","100.00%   49.579      1 -total"," 23.25%   11.526      4 Template:Doi"," 12.22%    6.058      8 Template:Hide_in_print","  5.92%    2.934      4 Template:Only_in_print","  5.52%    2.736      1 Template:Main_other","  5.08%    2.516      4 Template:Str_left"]},"scribunto":{"limitreport-timeusage":{"value":"0.003","limit":"10.000"},"limitreport-memusage":{"value":549084,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20190409104019","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

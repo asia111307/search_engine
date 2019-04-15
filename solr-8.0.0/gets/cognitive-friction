@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+    <meta http-equiv="Cache-control" content="public">
+    <meta name="csrf-token" content="qEtjYxs75ziRFFo1WfspzTs2XYAbvyayHwZ718ad"/> 
+            
+    <link rel="preconnect" href="//public-media.interaction-design.org">
+    <link rel="preconnect" href="//cdnjs.cloudflare.com" crossorigin>
+    <link rel="preconnect" href="//fonts.googleapis.com">
+    <link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="//www.google.com">
+    <link rel="preconnect" href="//google-analytics.com">
+    <link rel="preconnect" href="//www.google-analytics.com">
+    <link rel="preconnect" href="//www.googletagmanager.com">
+    <link rel="preconnect" href="//googleads.g.doubleclick.net">
+    <link rel="preconnect" href="//stats.g.doubleclick.net">
+    <link rel="preconnect" href="//js-agent.newrelic.com">
+    <link rel="preconnect" href="//bam.nr-data.net">
+        <link rel="preload" as="script" href="/manifest.js?id=1d2219c77b38d3958ec4">
+    <link rel="preload" as="script" href="/js/vendor.js?id=d3a039d33825e5aa01da">
+    <link rel="preload" as="script" href="/js/app.js?id=60df5e63c1dbbefc9880">
+    <link rel="preload" as="script" href="//d2wy8f7a9ursnm.cloudfront.net/v6/bugsnag.min.js">    
+        
+    <link rel="icon" type="image/png" sizes="32x32" href="https://public-media.interaction-design.org/images/app/favicon--32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://public-media.interaction-design.org/images/app/favicon--16x16.png">
+    <link rel="icon" href="/favicon.ico" sizes="16x16" type="image/vnd.microsoft.icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/web-app-manifest.json">
+    <link rel="mask-icon" href="https://public-media.interaction-design.org/images/app/safari-pinned-tab.svg" color="#404040">
+    <meta name="apple-mobile-web-app-title" content="UX courses">
+    <meta name="application-name" content="UX courses">
+    <meta name="theme-color" content="#404040">
+    <meta name="msapplication-config" content="/ms-app-browserconfig.xml" />
+    <title>What is Cognitive Friction? &#124; Interaction Design Foundation</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700|Roboto+Condensed:400,500,700"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/app.css?id=997f807677d1a0181cf3" />
+<script>
+
+(function() {
+    function fontsLoaded() {
+        document.documentElement.classList.add('fonts-loaded');
+        sessionStorage.fontsLoadedFoutWithClassPolyfill = true;
+    }
+
+    function iconsLoaded() {
+        document.documentElement.classList.add('icons-loaded');
+        sessionStorage.iconsLoadedFoutWithClassPolyfill = true;
+    }
+
+    
+    if (sessionStorage.fontsLoadedFoutWithClassPolyfill) {
+        fontsLoaded();
+    }
+    if (sessionStorage.iconsLoadedFoutWithClassPolyfill) {
+        iconsLoaded();
+    }
+
+    if (
+        sessionStorage.fontsLoadedFoutWithClassPolyfill &&
+        sessionStorage.iconsLoadedFoutWithClassPolyfill
+    ) {
+    return;
+    }
+
+
+    
+    if (!("fonts" in document)) {
+        fontsLoaded();
+        iconsLoaded();
+        return;
+    }
+
+    Promise.all([
+        document.fonts.load("1em Roboto"),
+        document.fonts.load("500 1em Roboto"),
+        document.fonts.load("700 1em Roboto"),
+        document.fonts.load("1em Roboto Condensed"),
+        document.fonts.load("500 1em Roboto Condensed"),
+        document.fonts.load("700 1em Roboto Condensed")
+    ]).then(function () {
+        fontsLoaded();
+    });
+
+
+    document.fonts.load('1em FontAwesome','\uf287\uf142\uf0fc').then(function () {
+        iconsLoaded();
+    });
+})();
+</script>
+<link rel="image_src" href="https://public-media.interaction-design.org/images/website-thumbnail-image.png"/>
+    <meta property="fb:app_id" content="142481353231314"/>
+    <meta property="fb:page_id" content="19975077227"/>
+    <link rel="alternate" type="application/rss+xml" title="Interaction Design Foundation - UX Feed" href="https://www.interaction-design.org/rss/site_news.xml" />
+    <link rel="canonical" href="https://www.interaction-design.org/literature/topics/cognitive-friction"/>
+    <meta name="description" content="What isCognitive Friction? Cognitive friction occurs when a user is confronted with an interface or affordance that appears to be intuitive but delivers unexpected results. This mismatch..."/>
+
+    
+        <meta property="og:site_name" content="The Interaction Design Foundation"/>
+    <meta property="og:title" content="What is Cognitive Friction?"/>
+    <meta property="og:description" content="What isCognitive Friction? Cognitive friction occurs when a user is confronted with an interface or affordance that appears to be intuitive but delivers unexpected results. This mismatch..."/>
+    <meta property="og:image" content="https://public-media.interaction-design.org/images/website-thumbnail-image.png"/>
+    <meta property="og:url" content="https://www.interaction-design.org/literature/topics/cognitive-friction" />
+
+        <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@interacting" />
+    <meta name="twitter:creator" content="@interacting" />
+
+    <script>
+    window.csrfToken = "qEtjYxs75ziRFFo1WfspzTs2XYAbvyayHwZ718ad";
+    window.currentUser = {"id":null,"email":null,"name":"Guest","slug":null};
+    window.currentUser.isGuest = function() {return true;};
+</script>
+    <script src="//d2wy8f7a9ursnm.cloudfront.net/v6/bugsnag.min.js"></script>
+    <script>
+        window.bugsnagClient = bugsnag({
+            apiKey: '4fc40517cdca4f44ae67a2e4fbe64d04',
+            appVersion: '3.185.12',
+            beforeSend: function (report) {
+                var url = report.request.url;
+
+                // Ignore errors for locally saved files
+                if (url.indexOf('file:///') > -1) {
+                    return report.ignore();
+                }
+
+                // Ignore errors within browser extensions
+                for (var frame in report.stacktrace) {
+                    var file = frame.file || report.stacktrace[frame].file;
+                    if (file && file.indexOf('moz-extension://') > -1) {
+                        return report.ignore();
+                    }
+                }
+            }
+        });
+        bugsnagClient.user = {
+            id: window.currentUser.id,
+            name: window.currentUser.name,
+            email: window.currentUser.email
+        };
+    </script>
+        </head>
+<body class=" js-layout--default">
+
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer = [[]];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KJ8XGB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KJ8XGB');</script>
+
+
+
+<div class="body-wrap">
+
+    
+    <nav class="navHeader js-navHeader">
+    <div role="alert" class="pageNotification pageNotification--outdatedBrowser in-top-tiny in-bottom-tiny js-pageNotification">
+    <div class="container out-left-none out-right-none">
+        <i class="fa fa-warning"></i>Your browser is outdated.
+        Please <a href="http://outdatedbrowser.com/en" target="_blank" rel="noopener noreferrer nofollow">switch to a modern web browser</a>
+        to improve performance and avoid security risks.
+    </div>
+</div>
+
+            <div class="navHeader__linksBar ">
+            <div class="container">
+                <ul class="inlineList navHeader__linksList">
+                    <li class="inlineList__item"><a tabindex="-1" href="/why-join-idf">Reviews / Why join our community?</a></li>
+<li class="inlineList__item"><a tabindex="-1" href="/corporate">For companies</a></li>
+<li class="inlineList__item inlineList__item--right"><a tabindex="-1" href="/faq">Frequently asked questions</a></li>
+<li class="inlineList__item"><a tabindex="-1" href="/about/contact">Contact us</a></li>
+
+
+                </ul>
+            </div>
+        </div>
+    
+    <div class="navHeader__mainBar">
+        <div class="container">
+            <div class="navHeader__mainBarInner">
+                <a class="navHeader__logo" href="/" title="Interaction Design Foundation">
+                    <img width=220 height=72 src="https://public-media.interaction-design.org/images/idf-logo-full-expanded.svg" alt="Interaction Design Foundation"/>
+                </a>
+
+                <div class="navHeader__navigation">
+                    <ul class="inlineList u-text-uppercase">
+                        <li>
+    <a         class="navHeader__link--courses link link--animatedDark"
+       href="/courses"
+       title="User Experience (UX) Courses">UX Courses</a>
+</li>
+<li>
+    <a         class="navHeader__link--community link link--animatedDark"
+       href="/community"
+       title="User Experience (UX) Community">Community</a>
+</li>
+<li>
+    <a         class="navHeader__link--literature link link--animatedDark"
+       href="/literature"
+       title="User Experience (UX) Literature">Literature</a>
+</li>
+<li>
+    <a         class=" link link--animatedDark"
+       href="/about"
+       title="About the Interaction Design Foundation">About IDF</a>
+</li>
+                    </ul>
+                </div>
+                <div class="accountDetails  accountDetails--isGuest   accountDetails--right   ">
+    <div class="accountDetails__inner">
+                    <ul class=" inlineList ">
+                <li class="login accountDetails__loginLink navHeader__loginLink"><a href="/login">Log in</a></li>
+
+                                    
+                    <li class="not-flexible">
+                                                    <a href="/join" data-gtm-cta="headerButton" class="button button--withArrowSmall">
+    <span class="sm:hide">
+        Join our community
+    </span>
+    <span class="sm:show">Join us</span>
+</a>
+                                            </li>
+                            </ul>
+            </div>
+</div>
+            </div>
+        </div>
+    </div>
+</nav>
+    <div class="mobileHeader js-mobileHeader">
+    
+    <div class="mobileHeaderMainNav">
+        <button type="button" class="btn-offcanvas js-open-offcanvas">
+            <span class="fa fa-bars"></span>
+            <span class="visually-hidden">Open menu</span>
+        </button>
+
+        <div class="mobileHeaderMainNav__logo">
+            <a href="/" title="Interaction Design Foundation" tabindex="-1">
+                <img data-src="https://public-media.interaction-design.org/images/idf-logo-full-expanded.svg"
+                        alt="IDF logo"/>
+            </a>
+        </div>
+        <div class="mobileHeaderMainNav__userMenu">
+                                                                        <a class="button" href="/join" data-gtm-cta="headerButton">Join us</a>
+                                                        </div>
+
+    </div>
+</div>
+
+<div class="offCanvas-wrap">
+    <nav class="offCanvas-menu">
+
+        <div class="accountDetails  accountDetails--isGuest    accountDetails--offCanvas   not-flexible ">
+    <div class="accountDetails__inner">
+                    <ul class=" no-bullet out-none ">
+                <li class="login accountDetails__loginLink navHeader__loginLink"><a href="/login">Log in</a></li>
+
+                                    
+                    <li class="not-flexible">
+                                                    <a href="/join" data-gtm-cta="offCanvasMenu" class="button button--withArrowSmall">
+    <span class="sm:hide">
+        Join our community
+    </span>
+    <span class="sm:show">Join us</span>
+</a>
+                                            </li>
+                            </ul>
+            </div>
+</div>
+
+        <ul class="off-canvas-list-main">
+            <li>
+    <a  tabindex="-1"        class=" "
+       href="/courses"
+       title="User Experience (UX) Courses">UX Courses</a>
+</li>
+<li>
+    <a  tabindex="-1"        class=" "
+       href="/community"
+       title="User Experience (UX) Community">Community</a>
+</li>
+<li>
+    <a  tabindex="-1"        class=" "
+       href="/literature"
+       title="User Experience (UX) Literature">Literature</a>
+</li>
+<li>
+    <a  tabindex="-1"        class=" "
+       href="/about"
+       title="About the Interaction Design Foundation">About IDF</a>
+</li>
+        </ul>
+
+        <div class="divider"></div>
+
+        <ul class="inlineList inlineList--vertical off-canvas-list-secondary">
+            <li class="inlineList__item"><a tabindex="-1" href="/why-join-idf">Reviews / Why join our community?</a></li>
+<li class="inlineList__item"><a tabindex="-1" href="/corporate">For companies</a></li>
+<li class="inlineList__item inlineList__item--right"><a tabindex="-1" href="/faq">Frequently asked questions</a></li>
+<li class="inlineList__item"><a tabindex="-1" href="/about/contact">Contact us</a></li>
+
+
+        </ul>
+
+        <div class="divider"></div>
+
+        <div class="off-canvas-social">
+            <div class="socialLinks socialLinks--white">
+                <a class="socialLinks__item" href="https://www.facebook.com/interactiondesign.org" target="_blank" rel="noopener" tabindex="-1" aria-label="Facebook page">
+                    <span class="fa-stack">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-facebook fa-stack-1x"></i>
+                    </span>
+                </a>
+
+                <a class="socialLinks__item" href="https://twitter.com/interacting" target="_blank" rel="noopener" tabindex="-1" aria-label="Twitter page">
+                    <span class="fa-stack">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-twitter fa-stack-1x"></i>
+                    </span>
+                </a>
+
+                <a class="socialLinks__item" href="https://www.pinterest.com/ixdfoundation/" target="_blank" rel="noopener" tabindex="-1" aria-label="Pinterest page">
+                    <span class="fa-stack">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-pinterest fa-stack-1x"></i>
+                    </span>
+                </a>
+
+                <a class="socialLinks__item" href="https://www.linkedin.com/company/interaction-design-org-foundation" target="_blank" rel="noopener" tabindex="-1" aria-label="Linkedin page">
+                    <span class="fa-stack">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-linkedin fa-stack-1x"></i>
+                    </span>
+                </a>
+
+                <a class="socialLinks__item" href="https://www.instagram.com/interaction_design_foundation" target="_blank" rel="noopener" tabindex="-1" aria-label="Instagram page">
+                    <span class="fa-stack">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-instagram fa-stack-1x"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+
+
+    </nav>
+
+</div>
+
+    <main class="content-wrapper">
+            <header class="heading-group">
+        <h1 class="heading heading--pageTitle">Cognitive Friction</h1>
+        <p class="heading-group__subheading">Your constantly-updated definition of Cognitive Friction  and collection of topical content and literature</p>
+    </header>
+
+    <div class="sharingPanel">
+    <div class="sharingPanel__shares">
+                    <div class="sharingPanel__sharesTotalCount">
+                <span class="sharingPanel__sharesTotalCountNumber">41</span>
+                <span class="sharingPanel__sharesTotalMessage">shares</span>
+            </div>
+                <div class="sharingPanel__services">
+            <div class="sharingPanel__service">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.interaction-design.org/literature/topics/cognitive-friction%3Futm_source%3Dfacebook%26utm_medium%3Dshare-button%26utm_campaign%3D%252Fliterature%252Ftopics%252Fcognitive-friction"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="sharingPanel__serviceIcon sharingPanel__serviceIcon--facebook js-shareLink"
+                   title="Facebook share button"></a>
+
+                <div class="sharingPanel__serviceShareCounter">25</div>
+            </div>
+            <div class="sharingPanel__service">
+                <a href="https://twitter.com/share?url=https://www.interaction-design.org/literature/topics/cognitive-friction%3Futm_source%3Dtwitter%26utm_medium%3Dshare-button%26utm_campaign%3D%252Fliterature%252Ftopics%252Fcognitive-friction&text=A+set+of+interesting+materials+about+cognitive+friction&hashtags=ux"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="sharingPanel__serviceIcon sharingPanel__serviceIcon--twitter js-shareLink"
+                   title="Twitter share button"></a>
+
+                <div class="sharingPanel__serviceShareCounter">13</div>
+            </div>
+            <div class="sharingPanel__service">
+                <a href="https://www.linkedin.com/shareArticle?url=https://www.interaction-design.org/literature/topics/cognitive-friction%3Futm_source%3Dlinkedin%26utm_medium%3Dshare-button%26utm_campaign%3D%252Fliterature%252Ftopics%252Fcognitive-friction&title=A+set+of+interesting+materials+about+cognitive+friction"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="sharingPanel__serviceIcon sharingPanel__serviceIcon--linkedin js-shareLink"
+                   title="LinkedIn share button"></a>
+
+                <div class="sharingPanel__serviceShareCounter">3</div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+    <div class="in-top-none">
+        <nav aria-label="Breadcrumb" class="breadcrumbs">
+    <div class="breadcrumbs__hint">You are here:</div>
+    <ol class="breadcrumbs__crumbs">
+                    <li class="breadcrumbs__crumbsItem breadcrumbs__crumbsItem--parent truncate">
+                                    <a href="https://www.interaction-design.org/literature" title="Literature">Literature</a>
+                            </li>
+                    <li class="breadcrumbs__crumbsItem breadcrumbs__crumbsItem--parent truncate">
+                                    <a href="https://www.interaction-design.org/literature/topics" title="Topics">Topics</a>
+                            </li>
+                <li class="breadcrumbs__crumbsItem text-gray-darker truncate" aria-current="page">Cognitive Friction</li>
+    </ol>
+</nav>
+    </div>
+
+            
+        <div class=" in-bottom-medium">
+            <div class=" js-publicationContent">
+                <section class="panel">
+                    <h2>What is Cognitive Friction?</h2>
+                    <div class="rteContent rteContent--headingSpacing">
+                        <p>Cognitive friction occurs when a user is confronted with an interface or affordance that appears to be intuitive but delivers <i>unexpected</i> results. This mismatch between the outcome of an action and the expected result causes user frustration and will impair the user experience if not jeopardize it. User research can help uncover such problems and generate friction-free design. </p>  <p>Imagine a mouse-operated graphical user interface (GUI) where selecting a folder icon requires two left clicks and opening it requires a right click. This isn’t necessarily a bad way to control the GUI—however, it’s completely <i>counter-intuitive</i>, as our experience with GUIs for decades leads us to expect that a single left click selects an icon and a double left click opens it. The conflict between our expectation and the way the interface works is called cognitive friction. As users will not be comfortable with the prospect of unlearning a conventional way of completing an action, they will reject such a design.</p><p>User interfaces that suffer from cognitive friction can negatively affect the user experience, leading to frustration and possibly the abandonment of a product. Avoiding cognitive friction is the job of the user experience design team, in conjunction with the UI and interaction design teams. To identify places where cognitive friction might occur, the team might engage in user interviews, create task flows, and design easy-to-use information architectures ahead of development. Expert evaluations and usability testing with users during the development of a product can highlight problems and point to solutions for them. Remembering that cognitive friction can arise across a range of conventions is vital. While areas such as mouse and keyboard design (including the entrenched nature of the QWERTY keyboard) appear obvious, designers should remain aware of potential pitfalls, established norms, and the need for eliminating user frustration.</p>
+                    </div>
+                </section>
+            </div>
+
+            
+                    </div>
+    
+    <div class="landing-section island island--fill background-gray-lighter">
+        <h1 class="heading heading--sectionHeading out-bottom-medium">
+            Literature on Cognitive Friction
+        </h1>
+
+        <p class="out-bottom-large u-text-center">
+            Here’s the entire UX literature on <b>Cognitive Friction</b> by
+            the Interaction Design Foundation, collated in one place:
+        </p>
+
+                    <div class="out-bottom-large">
+                <h2 class="heading heading--subSectionHeading">
+                    Featured article
+                </h2>
+
+                <div class="card card--articlePreview">
+    <div class="card__inner">
+        <div class="card__header" data-title="Read article">
+            <img data-src="https://public-media.interaction-design.org/images/ux-daily/56e051f4e863c.jpg" alt="My Head Hurts! Cognitive Friction in the Age of Mobile">
+        </div>
+        <div class="card__contents">
+            <h2 class="card__title truncate-2">My Head Hurts! Cognitive Friction in the Age of Mobile</h2>
+
+            <p>There’s nothing more annoying than when things don’t function the way we expect them to. When we develop user interfaces (UI), we try to relate it to the “real world” – think the floppy disk for “save” in most applications. Why? Because we take our cues in the digital world from ones we’ve already developed in our ordinary lives. Cognitive friction occurs when the cues don’t match our expectations. Learning to avoid cognitive friction in UI design can help make the user experience (UX) of products greater.</p><p>A key part of delivering a great user experience is getting the UI right for a digital product. Fortunately, there’s a simple shortcut when it comes to UI – the more the object within the UI mimics a real world object, the more likely that object is going to be intuitive to use and deliver a quality user experience. It’s what we call skeuomorphism.</p>
+
+            <div data-toggle-content id="full-article-content">
+                <!DOCTYPE html>
+<html><body><p>This has been a staple of UI design for a long time. There’s a reason that folders for computer files look like paper files for a filing cabinet and that the delete function resembles a trash can from the corner of your office; they deliver real world expectations for digital experiences.</p><p>In the real world, this mimicry is easy. Human beings have a multitude of senses which can be stimulated to ensure that one interaction resembles another sufficiently that it can be quickly understood by similarity. In the digital world, for the moment until augmented reality becomes more common place, the engineer is limited to sight and possible audio to give clues as the experience the user can expect.</p><p><img src="https://public-media.interaction-design.org/images/uploads/4e4e9eef1d1bcc614251fc4c43a10a1c.jpg" width="670" height="323" style="width: 670px; height: 323px;"></p><p><small><i>Author/Copyright holder: Alexander Baxevanis. Copyright terms and licence: CC BY 2.0</i></small>
+</p><h2>What is Cognitive Friction?</h2><p>Alan Cooper, the influential designer, posited, in his book The Inmates are Running the Asylum (originally published in 1999 but revised versions are available) the concept of Cognitive Friction. He said that cognitive friction occurs when a user is confronted with an interface or affordance that appears to be intuitive but delivers unexpected results.</p><p>He cites the example of pushing a button on the dashboard of his car. It immediately set off an alarm. Which, is what it was supposed to do. However, it wasn’t what he was expecting and the interaction was a source of maddening frustration for him.</p><p>Imagine if you visited a web site and saw a button on that site that said; “Sign Up” but when you pushed the button – it took you to another website. That would be an example of cognitive friction in a digital product. Your expectation is to be taken to a sign up screen and not to be redirected elsewhere on the internet.</p><p>The more times that cognitive friction occurs when a user interacts with a product – the more jarring the experience of using that product is likely to be. If it occurs often enough, there is a reasonable likelihood that the user will seek an alternative means to carry out their task.</p><p>Cognitive friction matters because it can damage user experiences and result in user churn and revenue reductions in both the short and long-term.</p><h2>How Do You Avoid Cognitive Friction?</h2><p>Avoiding cognitive friction is the job of the user experience design team in conjunction with the UI and interaction design teams.</p><h3>Before Development</h3><p>There are ways to approach the design that can help identify where cognitive friction is likely to take place and to help avoid that:</p><ul><li><strong>Conduct user interviews</strong> – learn how your users expect to undertake the task with the product. Ask questions specifically relating to the interface during prototyping and sketching.</li>	<li><strong>Create task flows</strong> – if you can create the simplest possible task flow with the greatest degree of automation (e.g. the computer not the user does the work) you are likely to minimize the opportunity for cognitive friction to occur.</li>	<li><strong>Create easy to use information architecture (IA)</strong> – the simpler the IA, the less often a user is going to get lost or confused when interacting with the product. Extend this to creating navigational models and get users to test them and feedback on them.</li>
+</ul><p><img src="https://public-media.interaction-design.org/images/uploads/4afaa1791a9b13effdec6c48541d0ea2.jpg"></p><p><small><i>Author/Copyright holder: 	Marcel Douwe Dekker. Copyright terms and licence: CC BY-SA 3.0</i></small>
+</p><ul></ul><h3>During Development Iteration</h3><p>You can also test for cognitive friction during the development lifecycle at each iteration of the product:</p><ul><li><strong>Conduct expert evaluations </strong>– cognitive walkthroughs and heuristic evaluation can be valuable tools when deployed by usability analysts. They may even uncover cognitive friction that isn’t immediately obvious to users.</li>	<li><strong>Run usability tests on wireframes and prototypes</strong> – nothing beats direct interaction with the product to test interaction design and examine how users will react to that design.<strong> </strong>The more user input you get, the more cognitive friction is likely to be identified and thus you can focus on eliminating it in the next iteration.</li>
+</ul><h2>What About Mobile Design?</h2><p>Mobile design provides new challenges when it comes to cognitive friction. The process for avoiding it is the same as on the desktop – it’s just that mobile offers far more ways to interact with a device than the traditional mouse/keyboard combination. There are gesture controls, eye movement controls, motion controls, touch screens, camera inputs, etc.</p><p>This means that it’s vital for the UX designer to examine these interactions closely; in many cases there are no “standards” (like the floppy disk, save button or the paper file, folder combination) for these interactions. It’s going to take real care and thought to create intuitive interactions that avoid cognitive friction.</p><p><img src="https://public-media.interaction-design.org/images/uploads/aa52456a97ab8fcc2d57dc807e2874dc.jpg" width="472" height="840" style="width: 472px; height: 840px;"></p><p><small><i>Author/Copyright holder: Neil Patel. Copyright terms and licence: Fair Use.</i></small></p><h2>The Takeaway</h2><p>Cognitive friction occurs when something in a product doesn’t behave in the way that we expect it to because of its resemblance to a real world object. It is a source of user frustration and can potentially mar the user experience enough to create user churn. It can be avoided through research and user testing to enable better user experiences.</p><h3>References</h3><p>You can find the original text for sale on Amazon and in other bookshops: Alan Cooper, The Inmates are Running the Asylum: Why High-tech Products Drive Us Crazy and How to Restore the Sanity – Sams – ISBN: 978-0672326141</p><p><em>Hero Image: Author/Copyright holder: Pixabay. Copyright terms and licence: Free to Use.</em></p></body></html>
+            </div>
+
+            <a class="gradient-toggle" href="#" data-toggle="full-article-content">
+                <span class="default-label">Show full article</span>
+                <span class="expanded-label">Show collapsed article</span>
+            </a>
+        </div>
+    </div>
+</div>
+
+            </div>
+        
+        
+        
+        <h2 class="heading heading--subSectionHeading">
+            All literature
+        </h2>
+
+                    <form action="/literature/topics/cognitive-friction?page=1"
+                  method="GET">
+                <div class="form form--inline form--centered">
+                    <label for="order_articles_by" class="cols-sm-2 as-plain-text">Order literature by:</label>
+                    <select name="order_by" id="order_articles_by" style="min-width: 250px;">
+                        <option value="popularity" selected>
+                            Most shared in this topic
+                        </option>
+                        <option value="date" >
+                            Latest UX literature in this topic
+                        </option>
+                    </select>
+                </div>
+            </form>
+        
+        <div class="wrapper col-md-2 out-top-none">
+                                                <div>
+                        <a href="/literature/article/we-think-therefore-it-is-conceptual-modelling-for-mobile-applications" title="We Think Therefore It Is – Conceptual Modelling for Mobile Applications">
+
+    <div class="card js-card card--article  card--mediumArticle   ">
+        <div class="card__inner">
+            <div class="card__header" data-title="Read article">
+                <img                         data-src="https://public-media.interaction-design.org/images/ux-daily/57a6132e7d81a.jpg"
+                                          alt="We Think Therefore It Is – Conceptual Modelling for Mobile Applications">
+            </div>
+            <div class="card__contents">
+                <h2 class="card__title js-cardTitle truncate-3">We Think Therefore It Is – Conceptual Modelling for Mobile Applications</h2>
+                <p class="card__copy truncate-2 ">
+                    A conceptual model is the mental model that people carry of how something should be done. Conceptual modelling can be carried out at a very early point in the design cycle so that there is a basic understanding of how users conceive tasks and this can then be brought to bear on UI design. The ability to sketch conceptual models quickly and easil...
+                </p>
+
+                <ul class="card__copy inlineList inlineList--withSeparator u-text-condensed u-text-uppercase sm:hide">
+                    <li>547 shares</li>
+                    <li>10 months ago</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</a>
+                    </div>
+                                                                <div>
+                        <a href="/literature/article/my-head-hurts-cognitive-friction-in-the-age-of-mobile" title="My Head Hurts! Cognitive Friction in the Age of Mobile">
+
+    <div class="card js-card card--article  card--mediumArticle   ">
+        <div class="card__inner">
+            <div class="card__header" data-title="Read article">
+                <img                         data-src="https://public-media.interaction-design.org/images/ux-daily/56e051f4e863c.jpg"
+                                          alt="My Head Hurts! Cognitive Friction in the Age of Mobile">
+            </div>
+            <div class="card__contents">
+                <h2 class="card__title js-cardTitle truncate-3">My Head Hurts! Cognitive Friction in the Age of Mobile</h2>
+                <p class="card__copy truncate-2 ">
+                    There’s nothing more annoying than when things don’t function the way we expect them to. When we develop user interfaces (UI), we try to relate it to the “real world” – think the floppy disk for “save” in most applications. Why? Because we take our cues in the digital world from ones we’ve already developed in our ordinary lives. Cognitive frict...
+                </p>
+
+                <ul class="card__copy inlineList inlineList--withSeparator u-text-condensed u-text-uppercase sm:hide">
+                    <li>293 shares</li>
+                    <li>1 month ago</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</a>
+                    </div>
+                                    </div>
+
+        
+    </div>
+    </main>
+
+    <footer class="footer hidePrint" role="contentinfo">
+
+    <div class="container">
+
+        <div class="footer__inner">
+                            <div class="wrapper col-md-3">
+    <div>
+        <h4 class="h1 u-text-condensed u-text-bold">About us</h4>
+        <p>
+            The Interaction Design Foundation is a 17-year-old nonprofit community, founded in Denmark.
+        </p>
+
+        <p>
+            See
+            <a class="u-text-bold" href="/why-join-idf">
+                7
+ compelling reasons to join us
+            </a>
+            or
+            <a class="u-text-bold" href="/literature/article/interaction-design-foundation-reviews-answers-to-frequently-asked-questions-by-members">
+                read in-depth reviews
+            </a>
+            from our members.
+        </p>
+
+        <p>
+            Learn about
+            <a class="u-text-bold" href="/about" title="About the Interaction Design Foundation">
+                our mission
+            </a>
+            to lower the cost of design education, or
+            <a class="u-text-bold" href="/about/careers" title="Careers and Jobs at the Interaction Design Foundation">come work with us</a>.
+        </p>
+    </div>
+
+
+    <div>
+        <h4 class="h1 u-text-condensed u-text-bold">Connect with us</h4>
+        <p>
+            Reach us at <a class="u-text-bold" href="mailto:hello@interaction-design.org">hello@interaction-design.org</a>
+            or through our <a class="u-text-bold" href="/about/contact" title="Contact the Interaction Design Foundation">online contact form</a>.
+        </p>
+        <p class="out-bottom-small">Or find us on:</p>
+        <div class="socialLinks socialLinks--white">
+    <a class="socialLinks__item" href="https://www.facebook.com/interactiondesign.org" target="_blank" rel="noopener noreferrer">
+        <span class="visually-hidden">Facebook page</span>
+        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                        </span>
+    </a>
+
+    <a class="socialLinks__item" href="https://twitter.com/interacting" target="_blank" rel="noopener noreferrer">
+        <span class="visually-hidden">Twitter page</span>
+        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                        </span>
+    </a>
+
+    <a class="socialLinks__item" href="https://www.pinterest.com/ixdfoundation/" target="_blank" rel="noopener noreferrer">
+        <span class="visually-hidden">Pinterest page</span>
+        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+                        </span>
+    </a>
+
+    <a class="socialLinks__item" href="https://www.linkedin.com/company/interaction-design-org-foundation" target="_blank" rel="noopener noreferrer">
+        <div class="visually-hidden">Linkedin page</div>
+        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                        </span>
+    </a>
+
+    <a class="socialLinks__item" href="https://www.instagram.com/interaction_design_foundation" target="_blank" rel="noopener">
+        <span class="visually-hidden">Instagram page</span>
+        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                        </span>
+    </a>
+</div>
+
+        <p class="out-top-medium">Have questions? Check our <a class="u-text-bold" href="/faq">frequently asked questions</a>.</p>
+    </div>
+
+
+    <div>
+        <h4 class="h1 u-text-condensed u-text-bold">Stay in touch</h4>
+        <p>
+            Join <span class="js-subscriberCount">146,343</span> designers and get our
+            <a class="u-text-bold" href="/newsletter" title="Design Tips">weekly design tips</a> in your inbox.
+        </p>
+        <form action="/newsletter/subscribe" method="POST" data-abide data-test="newsletterSubscription">
+            <input type="hidden" name="_token" id="csrf-token" value="qEtjYxs75ziRFFo1WfspzTs2XYAbvyayHwZ718ad"/>
+            <input type="hidden" name="mailing_listID" value="1">
+            <div class="form__field">
+                <div class= " inputGroup ">
+                    <input name="email" type="email" data-abide-validator="email" placeholder="Your email" autocomplete="email" title="Subscription form" required aria-invalid="false"/>
+                    <div class="inputGroup__addon inputGroup__addon--noBorder">
+                        <button type="submit" class="button">Sign up</button>
+                    </div>
+                </div>
+                <small class="error">Please write a valid email address.</small>
+            </div>
+        </form>
+
+        <h4 class="h1 u-text-condensed u-text-bold in-top-small out-top-large out-bottom-none">What is UX (user experience) design?</h4>
+        <p>
+            Read our
+            <a class="u-text-bold" href="#" data-reveal-id="freeEbookDialog">definitive guide on UX (User Experience) Design</a>.
+            
+        </p>
+
+    </div>
+</div>
+                    </div>
+
+    </div>
+    <div class="footer__links">
+    <div class="container">
+        <ul class="inlineList inlineList--center">
+            <li><a href="/about/copyright" id="copyrightNotice">Copyright / IP Policy</a></li>
+            <li><a href="/about/terms-of-use">General Terms of Use</a></li>
+            <li><a href="/about/privacy">Privacy Policy</a></li>
+            <li class="hideMinimalLayout">
+                <button class="button-link" type="button" data-reveal-id="freeEbookDialog">What is UX (User Experience) Design?</button>
+                            </li>
+        </ul>
+    </div>
+</div>
+</footer>
+
+
+
+</div>
+
+
+<div id="dialogsStack">                    <div id="freeEbookDialog" 
+     class="reveal-modal ebook-modal"
+     data-reveal
+     data-options="animation_speed: 100;"
+     aria-hidden="true"
+     role="dialog">
+    <div class="u-text-center">
+        <h2 class="reveal-modal__header">New to UX Design? We're giving you a free ebook!</h2>
+    </div>
+
+    <div class="row">
+    <div class="cols-md-4 in-right-none sm:in-none sm:center">
+        
+        <img class="roadblock__productImage"
+             alt="The Basics of User Experience Design"
+             src="https://public-media.interaction-design.org/images/book-covers/basics-of-ux-design.png">
+    </div>
+
+    <div class="cols-md-8">
+        <p>
+            Download our free ebook <b><i>The Basics of User Experience Design</i></b> to learn about core concepts in UX design.
+        </p>
+
+        <p class="sm:hide">
+            In 9 chapters, we'll cover: conducting user interviews,
+            design thinking, interaction design, mobile UX design,
+            usability, UX research, and many more!
+        </p>
+
+        <form method="POST" action="/newsletter/subscribe-for-ebook" data-abide>
+            <input type="hidden" name="_token" value="qEtjYxs75ziRFFo1WfspzTs2XYAbvyayHwZ718ad">
+            <input type="hidden" name="mailing_listID" value="48">
+            <div class="form__field">
+                <div class="inputGroup">
+                    <input
+                           name="email"
+                           type="email"
+                           placeholder="Enter your email address"
+                           title="Enter your email address"
+                           data-abide-validator="email"
+                           required
+                           autocomplete="email">
+                    <div class="inputGroup__addon sm:hide">
+                        <button class="button" type="submit">Download free ebook</button>
+                    </div>
+                </div>
+                <small class="error">A valid email address is required.</small>
+            </div>
+            <div class="out-top-small">
+                <input type="hidden" name="subscribe-newsletter" value="0">
+<div class="checkboxHint">
+    <input type="checkbox" class="checkboxHint__checkbox" name="subscribe-newsletter" value="1"
+    id="v7scb8fGkf2qX8fl"
+    checked  />
+    <label for="v7scb8fGkf2qX8fl">
+        Receive free UX design learning material every week
+    </label>
+    <div class="arrowPointingMessage checkboxHint__message">
+        
+        <img class="in-none image image--tiny" data-src="https://public-media.interaction-design.org/images/free-email-courses/arrow-newsletter-checkbox.svg">
+        <div class="arrowPointingMessage__message">
+            <i>Our ad-free newsletter is followed by <strong>146,343 designers</strong> — sure you don’t want to receive it?</i>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="form__controls">
+                <button class="button button--block sm:show" type="submit">Download free ebook</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+    <button type="button" class="close-reveal-modal" aria-label="Close">×</button>
+</div>
+                        
+    </div>
+<script src="//cdn.polyfill.io/v2/polyfill.min.js?features=default-3.6,fetch,Array.prototype.find,Array.prototype.includes,Array.prototype.findIndex" nomodule defer></script>
+<script src="/manifest.js?id=1d2219c77b38d3958ec4" defer></script>
+<script src="/js/vendor.js?id=d3a039d33825e5aa01da" defer></script>
+<script src="/js/app.js?id=60df5e63c1dbbefc9880" defer></script>
+
+    <script src="/js/components/socialSharing.js?id=8bb64e5de1be129350ce" defer></script>
+    <script src="/js/pages/publications/topic_definition.js?id=1b6f2fdb4c3666988503" defer></script>
+</body>
+</html>

@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html class="new-styleguide" lang="en-GB" prefix="og: http://ogp.me/ns#">
+<head>
+<title>
+            The Psychology Principles Every UI/UX Designer Needs to Know - Marvel Blog        </title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter" type="text/css">
+<link rel="stylesheet" href="https://blog.marvelapp.com/wp-content/themes/marvel/style.css" type="text/css">
+<link rel="pingback" href="https://blog.marvelapp.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" href="https://blog.marvelapp.com/feed/" title="Marvel App Blog" />
+<link rel="icon" type="image/png" href="https://marvelapp.com/static/site/images/favicon.png">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=0">
+<meta charset="UTF-8">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KTSTWG');</script>
+
+<script type="text/javascript">
+            var siteBase = 'https://marvelapp.com';
+            var headerEffect = 8;
+            var headerEffectMax = 8;
+        </script>
+
+<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-72842863-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+<script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '865922950182463');
+        fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=865922950182463&ev=PageView&noscript=1"
+        /></noscript>
+
+
+<link rel="canonical" href="https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Psychology Principles Every UI/UX Designer Needs to Know" />
+<meta property="og:description" content="Psychology plays a big part in a user’s experience with an application. By understanding how our designs are perceived, we can make adjustments so that the apps we create are more effective in achieving the goals of the user. To help you understand the perception of the user, I will introduce some design principles which I think are the most... Read More &#65515;" />
+<meta property="og:url" content="https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/" />
+<meta property="og:site_name" content="Marvel Blog" />
+<meta property="article:publisher" content="https://www.facebook.com/marvelapp" />
+<meta property="article:section" content="Viewpoint" />
+<meta property="article:published_time" content="2017-06-08T12:12:21+01:00" />
+<meta property="article:modified_time" content="2017-06-08T17:20:35+01:00" />
+<meta property="og:updated_time" content="2017-06-08T17:20:35+01:00" />
+<meta property="og:image" content="https://blog.marvelapp.com/wp-content/uploads/2017/06/XK2zt9RE.png" />
+<meta property="og:image:width" content="2400" />
+<meta property="og:image:height" content="1800" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Psychology plays a big part in a user’s experience with an application. By understanding how our designs are perceived, we can make adjustments so that the apps we create are more effective in achieving the goals of the user. To help you understand the perception of the user, I will introduce some design principles which I think are the most... Read More &#65515;" />
+<meta name="twitter:title" content="The Psychology Principles Every UI/UX Designer Needs to Know" />
+<meta name="twitter:site" content="@marvelapp" />
+<meta name="twitter:image" content="https://blog.marvelapp.com/wp-content/uploads/2017/06/XK2zt9RE.png" />
+<meta name="twitter:creator" content="@tnsrig" />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Marvel Blog &raquo; The Psychology Principles Every UI/UX Designer Needs to Know Comments Feed" href="https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/feed/" />
+<script type='text/javascript' src='https://blog.marvelapp.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://blog.marvelapp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://blog.marvelapp.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.marvelapp.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.marvelapp.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.8.9" />
+<link rel='shortlink' href='https://blog.marvelapp.com/?p=9858' />
+<link rel="alternate" type="application/json+oembed" href="https://blog.marvelapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.marvelapp.com%2Fpsychology-principles-every-uiux-designer-needs-know%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://blog.marvelapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.marvelapp.com%2Fpsychology-principles-every-uiux-designer-needs-know%2F&#038;format=xml" />
+<meta property="og:title" content="The Psychology Principles Every UI/UX Designer Needs to Know" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://blog.marvelapp.com/wp-content/uploads/2017/06/XK2zt9RE.png" />
+<meta property="og:url" content="https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/" />
+<meta property="og:description" content="Psychology plays a big part in a user’s experience with an application. By understanding how our designs are perceived, we can make adjustments so that the apps we create are more effective in achieving the goals of the user. To help you understand the perception of the user, I will introduce some design principles which I think are the most... Read More &#65515;" />
+<meta property="og:site_name" content="Marvel Blog" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@marvelapp">
+<meta name="twitter:url" content="https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/">
+<meta name="twitter:title" content="The Psychology Principles Every UI/UX Designer Needs to Know">
+<meta name="twitter:description" content="Psychology plays a big part in a user’s experience with an application. By understanding how our designs are perceived, we can make adjustments so that the apps we create are more effective in achieving the goals of the user. To help you understand the perception of the user, I will introduce some design principles which I think are the most... Read More &#65515;">
+<meta name="twitter:creator" content="@marvelapp">
+<meta name="twitter:image" content="https://blog.marvelapp.com/wp-content/uploads/2017/06/XK2zt9RE.png">
+</head>
+<body class="post-template-default single single-post postid-9858 single-format-standard">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTSTWG"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="header-bar-wrapper header-bar-reversed" id="header" style="z-index: 999">
+<div class="height-100 pageWrap pageWrap--l">
+<nav class="navHeight">
+<div class="js-logo-touch float-left height-100" style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
+<div class="display-table height-100">
+<div class="display-tableCell verticalAlign-middle">
+<a href="https://marvelapp.com/home">
+<svg class="display-block link fill-blue fill-effect--hover" id="marvel-logo" width="70" height="30" viewBox="0 0 70 30">
+<pattern id="effect" width="1" height="1" viewBox="0 0 80 30" preserveAspectRatio="none">
+<image id="effect-image" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://marvelapp.com/static/assets/images/logo/2.gif" width="80" height="30" preserveAspectRatio="none"></image>
+</pattern>
+<path d="M59.439 19.41c-25.462-1.95-46.514 4.12-51.222 6.37-2.625 1.2-2.809 2.7-2.432 3.529.341.635 1.592 1.006 2.966.335 10.106-5.399 30.554-9.705 50.697-8.47.483-.002.873-.399.871-.887-.002-.487-.396-.88-.879-.878zm6.309-7.57c-1.067 1.2-2.625 2.1-3.115 1.65-.49-.45 0-1.87 0-1.87 2.502-1.615 7.367-5.735 7.367-8.884 0-2.92-2.625-3.82-5.399-1.12-2.244 2.413-3.863 5.346-4.716 8.54-1.444 1.42-3.727 3.22-5.775 3.22-1.067 0-1.365-.75-1.216-1.765 1.75-.026 6.606-1.376 6.606-5.435-.007-.678-.294-1.322-.793-1.778-.498-.455-1.162-.681-1.832-.622-2.205 0-5.014 2.25-6.387 5.399-.375-.07-.74-.189-1.085-.353.359-.773.652-1.576.875-2.4.306-1.65-.376-2.7-1.75-2.55-.875.071-1.899.821-2.126 2.55-.092.876.066 1.761.455 2.55-.604 1.87-3.036 4.2-3.876 4.12-.84-.079.114-3.388.954-5.858.46-.474.823-1.035 1.067-1.65.235-.481.072-1.063-.376-1.35-1.251-.457-2.64.13-3.194 1.35-.334.602-.627 1.227-.875 1.87-.682.821-1.75 1.87-2.056 1.765-.455-.3 1.067-2.32.875-3.45-.136-.93-.971-1.59-1.899-1.5-1.374.194-3.194 2.788-3.194 2.788.214-.473.341-.981.376-1.5-.079-.97-1.899-1.42-2.809.371-.623 1.716-1.081 3.489-1.365 5.294-.376.821-1.899 3.22-3.115 3.3-.989.071.227-4.27.376-4.5.534-.821 1.216-2.55 1.067-3.3.013-.364-.15-.712-.436-.935-.286-.222-.662-.292-1.008-.186-.612.161-1.133.565-1.444 1.12-.437-.546-1.137-.803-1.82-.671-4.042.432-6.606 7.402-6.317 10.711.227 1.765 1.067 2.85 2.625 2.647 1.75-.221 3.194-2.77 3.194-2.77s.376 2.1 2.284 1.87c1.413-.436 2.659-1.298 3.57-2.47-.044.119-.071.244-.079.371-.306 1.765 2.625 1.57 2.887.221.875-6.67 3.115-9.44 3.797-9.44.534 0-1.444 3.15-.306 4.35.875 1.05 2.432.221 3.727-.882-.226.832-.352 1.688-.376 2.55-.079 1.87.604 3.37 2.432 3.3 2.432-.071 5.014-3.07 6.685-5.92.44.289.929.493 1.444.6-.174.667-.239 1.359-.192 2.047.149 2.17 1.671 3 3.421 2.92 2.056-.071 4.48-1.65 6.125-3.07.008.082-.021.163-.079.221-.149 1.05.079 3 1.592 3.07 1.75.15 4.786-1.65 6.309-3.529 1.094-.812-.192-2.012-1.102-1.041v.035zm1.627-9.026c.185.019.321.183.306.371 0 1.87-4.716 5.849-4.716 5.849s3.08-6.22 4.41-6.22zm-11.375 3.891c.157-.014.311.047.416.165.105.118.149.279.118.435 0 1.05-1.444 1.87-3.036 1.87.849-1.235 1.837-2.47 2.502-2.47zm-31.499 2.929c-.149 1.12-2.126 6.176-3.194 6.176-1.365.071.682-7.12 2.887-7.058.429-.018.429.282.306.882zm-17.123 1.35c1.295 0-1.067 6.67-.761 9.59.306 2.92 3.57 2.1 3.342.371-.376-2.85 1.592-11.919 3.57-11.919 1.444 0-1.592 6.22-.989 10.12.376 2.55 3.876 1.765 3.5.15-1.067-5.091 2.511-10.04 2.047-13.631-.227-1.5-1.067-2.32-2.056-2.32-3.272 0-5.932 6.591-5.932 6.591s.315-3.758-2.345-3.9c-3.876-.229-7.831 9.37-7.752 18.06.079 2.77 3.57 2.32 3.342.071-.227-3.873 2.056-13.181 4.034-13.181z" />
+</svg>
+</a>
+</div>
+<div class="contribute-button-cell display-none verticalAlign-middle paddingLeft-s">
+<div class="js-contribute-button inline fill-marvel fill-marvel--d--hover">
+<div class="verticalAlign-middle">
+<svg class="link display-inlineBlock verticalAlign-middle" width="4" height="10" viewBox="0 0 4 10">
+<path d="M4 10l-3.435-3.868c-.75-.625-.756-1.635 0-2.264l3.435-3.868v10z"></path>
+</svg>
+</div>
+<div class="verticalAlign-middle">
+<span class="contribute-button link display-inlineBlock verticalAlign-middle paddingLeftRight-xxs borderRadius-s position-relative bg-marvel bg-marvel--d--hover c-white">
+<span class="fontWeight-5 fontSize-xs lineHeight-s">
+Contribute to the blog
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mobile-share-buttons display-block float-right paddingTop-s breakPointS-paddingTop-m paddingRight-l marginRight-xxs breakPointM-display-none">
+<div class="inline">
+<div class="marginRight-xs">
+<button class="js-share-facebook uiIcon uiIcon--s borderWidth-0 button--s bg-facebook borderRadius-circle" style="width: 30px">
+<svg class="svgIcon fill-white" width="18" height="18" viewBox="0 0 18 18">
+<path d="M11.39,4.2H13V1.11C12.3,1,11,1,10.32,1,8.24,1,7,2.33,7,4.76V7H5v3H7v7h3V10h2.52l0.35-3H10V5.59A1.16,1.16,0,0,1,11.39,4.2Z" />
+</svg>
+</button>
+</div>
+<div class="marginRight-xs">
+<button class="js-share-twitter uiIcon uiIcon--s borderWidth-0 button--s bg-twitter borderRadius-circle" data-name="tnsrig" style="width: 30px">
+<svg class="svgIcon fill-white" width="18" height="18" viewBox="0 0 18 18" style="margin-left: 7px">
+<path d="M17,4.4a7,7,0,0,1-1.89.48,3.09,3.09,0,0,0,1.44-1.67A6.91,6.91,0,0,1,14.46,4a3.41,3.41,0,0,0-2.4-1A3.33,3.33,0,0,0,9.49,4.14a2.91,2.91,0,0,0-.62,2.61A9.59,9.59,0,0,1,2.11,3.54a2.9,2.9,0,0,0,1,4,3.48,3.48,0,0,1-1.49-.38,3.1,3.1,0,0,0,2.63,3,3.56,3.56,0,0,1-1.48.05,3.27,3.27,0,0,0,3.06,2.11A7,7,0,0,1,1,13.64,9.86,9.86,0,0,0,6,15a9.52,9.52,0,0,0,6.76-2.6A8.35,8.35,0,0,0,15.4,6,6.41,6.41,0,0,0,17,4.42h0v0Z" />
+</svg>
+</button>
+</div>
+<div class="marginRight-xs">
+<button class="js-share-pocket uiIcon uiIcon--s borderWidth-0 button--s bg-pocket borderRadius-circle" style="width: 30px">
+<svg class="svgIcon fill-white" width="18" height="18" viewBox="0 0 18 18">
+<path d="M17,4A2.05,2.05,0,0,0,14.9,2H3.1A2.05,2.05,0,0,0,1,4V9.51a1.91,1.91,0,0,0,0,.3,4.18,4.18,0,0,0,0,.44C1,13.43,4.59,16,9,16s8-2.57,8-5.73a4.19,4.19,0,0,0,0-.44,1.92,1.92,0,0,0,0-.3V4h0ZM13.7,7.74l-4,4a1.07,1.07,0,0,1-1.49,0l-4-4A1,1,0,1,1,5.74,6.3L9,9.56,12.26,6.3A1,1,0,0,1,13.7,7.74h0Z" />
+</svg>
+</button>
+</div>
+<div>
+<button class="js-share-linkedin uiIcon uiIcon--s borderWidth-0 button--s bg-linkedin borderRadius-circle" style="width: 30px">
+<svg class="svgIcon fill-white" width="18" height="18" viewBox="0 0 18 18" style="margin-left: 7px">
+<path d="M3.5,5A1.5,1.5,0,1,1,5,3.5,1.5,1.5,0,0,1,3.5,5ZM2,6V16H5V6H2ZM7,6V16h3V11.11C10,9.68,10.75,9,11.5,9S13,9.59,13,11.11V16h3V9.85c0-4.78-4.76-4.62-6-2.26V6Z" />
+</svg>
+</button>
+</div>
+</div>
+</div>
+<div class="height-100 float-right display-none breakPointM-display-block">
+<div class="display-table height-100">
+<div class="display-tableCell verticalAlign-middle">
+<div class="inline textAlign-right">
+<div class="verticalAlign-middle marginRight-m breakPointL-paddingRight-s">
+<a class="navigation-link link link--light fontSize-m fontWeight-4" href="https://marvelapp.com/features/">Features</a>
+</div>
+<div class="verticalAlign-middle marginRight-m breakPointL-paddingRight-s">
+<a class="navigation-link link link--light fontSize-m fontWeight-4 " href="https://marvelapp.com/stories/">Stories</a>
+</div>
+<div class="verticalAlign-middle marginRight-m breakPointL-paddingRight-s">
+<a class="navigation-link link link--light fontSize-m fontWeight-4" href="https://marvelapp.com/explore/">Explore</a>
+</div>
+<div class="verticalAlign-middle marginRight-m breakPointL-paddingRight-s">
+<a class="navigation-link link link--light fontSize-m fontWeight-4" href="https://marvelapp.com/plans/">Pricing</a>
+</div>
+<div class="verticalAlign-middle marginRight-m breakPointL-paddingRight-s">
+<a class="navigation-link link link--light fontSize-m fontWeight-4" href="https://marvelapp.com/enterprise/">Enterprise</a>
+</div>
+<div class="verticalAlign-middle marginRight-m breakPointL-paddingRight-s">
+<a class="navigation-link link link--light fontSize-m fontWeight-4 is-active" href="https://blog.marvelapp.com">Blog</a>
+</div>
+<div class="verticalAlign-middle marginRight-s">
+<a class="button button--m button--ghost bg-positive--hover" href="https://marvelapp.com/signin/?utm_source=blog-navigation&utm_medium=header-button&utm_campaign=marvel-blog-advertising&utm_content=signin">Sign In</a>
+</div>
+<div class="verticalAlign-middle">
+<a class="button button--m button--flat bg-blue" href="https://marvelapp.com/signup/?utm_source=blog-navigation&utm_medium=header-button&utm_campaign=marvel-blog-advertising&utm_content=signup">Sign Up</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="js-navigation-toggle navigation-toggle padding-m">
+<div class="navigation-toggle-icon"></div>
+<div class="padding-xs"></div>
+</div>
+</nav>
+</div>
+</div>
+<div class="share-side-nav position-fixed pinTL transitionDuration-xl transitionProperty-all transitionTimingFunction-cv-easeOutCircular display-none breakPointM-display-block" id="js-share-side-menu" style="z-index: 999">
+<div class="padding-l paddingTop-xl marginTop-l">
+<div class="marginBottom-s">
+<button class="js-share-facebook uiIcon uiIcon--m borderWidth-0 button--m bg-facebook borderRadius-circle transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" style="width: 40px">
+<svg class="svgIcon fill-white" width="24" height="24" viewBox="0 0 24 24">
+<path d="M14,22V13h2.45l0.44-4H14V7.74A1.45,1.45,0,0,1,15.69,6H17V2.14A23.35,23.35,0,0,0,14.36,2C11.75,2,10,3.66,10,6.7V9H7v4h3v9h4Z"></path>
+</svg>
+</button>
+</div>
+<div class="marginBottom-s">
+<button class="js-share-twitter uiIcon uiIcon--m borderWidth-0 button--m bg-twitter borderRadius-circle transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" data-name="tnsrig" style="width: 40px">
+<svg class="svgIcon fill-white" width="24" height="24" viewBox="0 0 24 24" style="margin-left: 9px">
+<path d="M22,5.89a8.3,8.3,0,0,1-2.36.64,4.06,4.06,0,0,0,1.8-2.23,8.3,8.3,0,0,1-2.61,1,4.13,4.13,0,0,0-3-1.28,4.06,4.06,0,0,0-4,5A11.71,11.71,0,0,1,3.39,4.74a4,4,0,0,0,1.27,5.39A4.14,4.14,0,0,1,2.8,9.63a4.06,4.06,0,0,0,3.29,4,4.18,4.18,0,0,1-1.85.07,4.1,4.1,0,0,0,3.83,2.81A8.34,8.34,0,0,1,2,18.19,11.75,11.75,0,0,0,8.29,20,11.5,11.5,0,0,0,20,8a8.28,8.28,0,0,0,2-2.09h0Z"></path>
+</svg>
+</button>
+</div>
+<div class="marginBottom-s">
+<button class="js-share-pocket uiIcon uiIcon--m borderWidth-0 button--m bg-pocket borderRadius-circle transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" style="width: 40px">
+<svg class="svgIcon fill-white" width="24" height="24" viewBox="0 0 24 24" style="margin-top: 9px">
+<path d="M22,5.56A2.6,2.6,0,0,0,19.38,3H4.62A2.6,2.6,0,0,0,2,5.56v7.1a2.52,2.52,0,0,0,0,.39,5.52,5.52,0,0,0,0,.57C2,17.7,6.48,21,12,21s10-3.3,10-7.37a5.53,5.53,0,0,0,0-.57,2.53,2.53,0,0,0,0-.39V5.56Zm-3.87,4.58-5.16,5a1.43,1.43,0,0,1-1.94,0l-5.16-5a1.26,1.26,0,0,1,0-1.82,1.36,1.36,0,0,1,1.88,0L12,12.44l4.25-4.12a1.36,1.36,0,0,1,1.88,0A1.26,1.26,0,0,1,18.13,10.14Z"></path>
+</svg>
+</button>
+</div>
+<div>
+<button class="js-share-linkedin uiIcon uiIcon--m borderWidth-0 button--m bg-linkedin borderRadius-circle transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" style="width: 40px">
+<svg class="svgIcon fill-white" width="24" height="24" viewBox="0 0 24 24" style="margin-top: 6px; margin-left:9px">
+<path d="M6,4A2,2,0,1,1,4,2,2,2,0,0,1,6,4ZM6,8H2V22H6V8Zm7,0H9V22h4V15c0-4.06,5-4.39,5,0v7h4V13.19c0-6.85-7.25-6.56-9-3.19V8Z"></path>
+</svg>
+</button>
+</div>
+</div>
+</div>
+<div class="mask-bottom position-relative width-100 height-70 breakPointM-height-70 bg-snow--d">
+<div class="js-hero-image hero-image position-absolute pinFill backgroundSize-cover backgroundPosition-centerCenter" style="background-image: url(https://blog.marvelapp.com/wp-content/uploads/2017/06/psy.png)">
+</div>
+<div class="position-absolute pinTL gradient-black width-100 height-40 opacity-50"></div>
+<div class="js-hero-fade hero-fade position-absolute pinFill bg-black zi-chrome opacity-0 pointerEvents-none"></div>
+</div>
+<section class="pageWrap pageWrap--s marginTop-l">
+<div class="marginBottom-s breakPointM-marginBottom-m textAlign-center">
+<h1 class="c-slate fontSize-xxl lineHeight-xxl breakPointM-fontSize-xxxl breakPointM-lineHeight-xxxl breakPointL-fontSize-xxxxl breakPointL-lineHeight-xxxxl fontWeight-5">
+The Psychology Principles Every UI/UX Designer Needs to Know </h1>
+</div>
+<div class="textAlign-center">
+<span class="fontWeight-3 c-silver">
+<span class="lineHeight-m fontSize-m breakPointM-fontSize-l breakPointM-lineHeight-l breakPointM-fontSize-xl breakPointM-lineHeight-xl">
+Posted 1 year ago by
+<a class="link link--light" href="https://blog.marvelapp.com/author/thanasis-rigopoulos/">Thanasis Rigopoulos</a> </span>
+</span>
+<div class="marginTop-s breakPointM-marginTop-m paddingTop-xxs">
+<a class="link display-inlineBlock marginLeftRight-s paddingLeftRight-xs fontSize-s lineHeight-m fontWeight-5 c-white borderRadius-s bg-green" href="https://blog.marvelapp.com/category/viewpoint/">
+Viewpoint </a>
+</div>
+</div>
+</section>
+<div id="blog-content" class="blog-content paddingLeftRight-s marginTop-l breakPointM-marginTopBottom-xl breakPointS-paddingLeftRight-0">
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Psychology plays a big part in a user’s experience with an application. By understanding how our designs are <em>perceived</em>, we can make adjustments so that the apps we create are more effective in achieving the goals of the user. </p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">To help you understand the perception of the user, I will introduce some design principles which I think are the most important, and also provide common examples of these principles in practice. Let&#8217;s start with the Von Restorff effect:</p>
+<h2 class="pageWrap pageWrap--s marginTop-xl marginBottom-l c-slate lineHeight-xl fontSize-xl fontWeight-5 breakPointM-lineHeight-xxl breakPointM-fontSize-xxl" style="margin-left: auto; margin-right: auto;">Von Restorff effect</h2>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">The Von Restorff effect (also known as the isolation effect) predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered!</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Does this ring any bells?</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">This is the main reason why all call-to-actions (CTAs) look different from the rest of the action buttons on a site or application!</p>
+<div id="attachment_6580" style="width: 1610px" class="wp-caption aligncenter"><a class="link link--blue fontWeight-4" href="https://blog.marvelapp.com/wp-content/uploads/2017/06/19hp1-4D43u4FUi9w5HTZzQ.png"><img class="wp-image-6580 size-full" src="https://blog.marvelapp.com/wp-content/uploads/2017/06/19hp1-4D43u4FUi9w5HTZzQ.png" width="1600" height="1200" title="" alt="" /></a><p class="wp-caption-text">Von Restorff Effect Example</p></div>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">We want users to be able to differentiate between a simple action button and a CTA, in order for them to have a clear understanding what the CTA does, whilst also remembering it throughout their use of the application or site.</p>
+<blockquote class="pageWrap pageWrap--s position-relative marginTopBottom-l breakPointM-marginTopBottom-xl"><div class="blog-quote-before position-absolute bg-marvel"></div><div class="tweet-quote blog-quote-after position-absolute bg-marvel cursor-pointer transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover zi-weak"><svg class="fill-white opacity-0 pointerEvents-none position-absolute pinCenter transitionProperty-all transitionTimingFunction-easeInOut" xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20"><path d="M24,2.37a9.64,9.64,0,0,1-2.83.79A5,5,0,0,0,23.34.37a9.72,9.72,0,0,1-3.13,1.23A4.86,4.86,0,0,0,16.62,0a5,5,0,0,0-4.8,6.2A13.87,13.87,0,0,1,1.67.92,5.13,5.13,0,0,0,3.19,7.67,4.81,4.81,0,0,1,1,7a5,5,0,0,0,3.95,5,4.82,4.82,0,0,1-2.22.09,4.94,4.94,0,0,0,4.6,3.51A9.72,9.72,0,0,1,0,17.73,13.69,13.69,0,0,0,7.55,20c9.14,0,14.31-7.92,14-15A10.17,10.17,0,0,0,24,2.37Z" /></svg></div><p class="blog-quote position-relative textAlign-center c-marvel"><span class="blog-quote-text transitionDuration-l transitionProperty-all transitionTimingFunction-easeInOut">&#8220;When multiple similar objects are present, the one that differs from the rest is most likely to be remembered!&#8221;</p></span></blockquote>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl"><svg id="part1" class="centered display-block marginTop-xl fill-slate" width="48px" height="4px" viewBox="0 0 48 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Group-7" transform="translate(1.000000, 1.000000)" stroke="#3B4859" fill="#3B4859"> <circle id="Oval-2" cx="1" cy="1" r="1"></circle> <circle id="Oval-2" cx="23" cy="1" r="1"></circle> <circle id="Oval-2" cx="45" cy="1" r="1"></circle> </g> </g></svg></p>
+<h2 class="pageWrap pageWrap--s marginTop-xl marginBottom-l c-slate lineHeight-xl fontSize-xl fontWeight-5 breakPointM-lineHeight-xxl breakPointM-fontSize-xxl" style="margin-left: auto; margin-right: auto;">Serial position effect</h2>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">The Serial Position Effect is the propensity of a user to best remember the first and last items in a series.</p>
+<div id="attachment_6580" style="width: 1610px" class="wp-caption aligncenter"><a class="link link--blue fontWeight-4" href="https://blog.marvelapp.com/wp-content/uploads/2017/06/1CpPcu45_U03GXNeJ9PKo7A.png"><img class="aligncenter size-full wp-image-6580" src="https://blog.marvelapp.com/wp-content/uploads/2017/06/1CpPcu45_U03GXNeJ9PKo7A.png" title="" alt="" /></a><p class="wp-caption-text">From left to right, Twitter, Medium, ProductHunt</p></div>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">This is why most applications nowadays ditch the hamburger menu and go for a bottom or top bar navigation, placing the most important user actions to the right or left. In the image above, you can see some examples from popular iOS applications. Each put the “Home” and “Profile” items all the way to the left and right, with serial position effect in mind.</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl"><svg class="centered display-block marginTop-xl fill-slate" width="48px" height="4px" viewBox="0 0 48 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Group-7" transform="translate(1.000000, 1.000000)" stroke="#3B4859" fill="#3B4859"> <circle id="Oval-2" cx="1" cy="1" r="1"></circle> <circle id="Oval-2" cx="23" cy="1" r="1"></circle> <circle id="Oval-2" cx="45" cy="1" r="1"></circle> </g> </g></svg></p>
+<h2 class="pageWrap pageWrap--s marginTop-xl marginBottom-l c-slate lineHeight-xl fontSize-xl fontWeight-5 breakPointM-lineHeight-xxl breakPointM-fontSize-xxl" style="margin-left: auto; margin-right: auto;">Cognitive load</h2>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Cognitive load refers to the total amount of mental effort being used in a person&#8217;s working memory. To put it simply, it is the amount of thought you need to exercise in order to complete a specific task.</p>
+<blockquote class="pageWrap pageWrap--s position-relative marginTopBottom-l breakPointM-marginTopBottom-xl"><div class="blog-quote-before position-absolute bg-marvel"></div><div class="tweet-quote blog-quote-after position-absolute bg-marvel cursor-pointer transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover zi-weak"><svg class="fill-white opacity-0 pointerEvents-none position-absolute pinCenter transitionProperty-all transitionTimingFunction-easeInOut" xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20"><path d="M24,2.37a9.64,9.64,0,0,1-2.83.79A5,5,0,0,0,23.34.37a9.72,9.72,0,0,1-3.13,1.23A4.86,4.86,0,0,0,16.62,0a5,5,0,0,0-4.8,6.2A13.87,13.87,0,0,1,1.67.92,5.13,5.13,0,0,0,3.19,7.67,4.81,4.81,0,0,1,1,7a5,5,0,0,0,3.95,5,4.82,4.82,0,0,1-2.22.09,4.94,4.94,0,0,0,4.6,3.51A9.72,9.72,0,0,1,0,17.73,13.69,13.69,0,0,0,7.55,20c9.14,0,14.31-7.92,14-15A10.17,10.17,0,0,0,24,2.37Z" /></svg></div><p class="blog-quote position-relative textAlign-center c-marvel"><span class="blog-quote-text transitionDuration-l transitionProperty-all transitionTimingFunction-easeInOut">&#8220;Cognitive load is the amount of thought you need to exercise in order to complete a specific task.&#8221;</p></span></blockquote>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Cognitive load theory can be differentiated into three types:</p>
+<ol class="pageWrap pageWrap--s list list--ordered marginBottom-l lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">
+<li>Intrinsic cognitive load</li>
+<li>Extraneous cognitive load</li>
+<li>Germane cognitive load</li>
+</ol>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">I will touch upon the Intrinsic and Germane types as I think that these are the most applicable to UX design.</p>
+<h3 class="pageWrap pageWrap--s marginTop-l marginBottom-m c-slate lineHeight-xl fontSize-xl fontWeight-5">Intrinsic Cognitive Load</h3>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Intrinsic cognitive load is the difficulty associated with a specific instructional topic. It&#8217;s the main reason <em>micro-copy</em> and <em>copy</em> play a huge role in a good user experience.</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">For example most of the time on applications’ empty states, we prompt users to complete a task. Here, the copy needs to be short, simple and with the appropriate words in order for the user to be able to easily follow the instructions.</p>
+<div id="attachment_6580" style="width: 1610px" class="wp-caption aligncenter"><a class="link link--blue fontWeight-4" href="https://blog.marvelapp.com/wp-content/uploads/2017/06/10dupJKct795FFvJnJchbEA.png"><img class="aligncenter size-full wp-image-6580" src="https://blog.marvelapp.com/wp-content/uploads/2017/06/10dupJKct795FFvJnJchbEA.png" title="" alt="" /></a><p class="wp-caption-text">From left to right, Stayful, Serist, Lucidchart</p></div>
+<h3 class="pageWrap pageWrap--s marginTop-l marginBottom-m c-slate lineHeight-xl fontSize-xl fontWeight-5">Germane Cognitive Load</h3>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Germane cognitive load is the cognitive load devoted to processing information and construction of schemas. The schemas describe a pattern of thought that organises categories of information and any relationships among them.</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">One of the reasons we use design patterns is because they&#8217;re something we&#8217;re programmed to do by default – so it’s easier for the users to recognise and learn something new if they can discern it into a pattern from something they already understand.</p>
+<blockquote class="pageWrap pageWrap--s position-relative marginTopBottom-l breakPointM-marginTopBottom-xl"><div class="blog-quote-before position-absolute bg-marvel"></div><div class="tweet-quote blog-quote-after position-absolute bg-marvel cursor-pointer transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover zi-weak"><svg class="fill-white opacity-0 pointerEvents-none position-absolute pinCenter transitionProperty-all transitionTimingFunction-easeInOut" xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20"><path d="M24,2.37a9.64,9.64,0,0,1-2.83.79A5,5,0,0,0,23.34.37a9.72,9.72,0,0,1-3.13,1.23A4.86,4.86,0,0,0,16.62,0a5,5,0,0,0-4.8,6.2A13.87,13.87,0,0,1,1.67.92,5.13,5.13,0,0,0,3.19,7.67,4.81,4.81,0,0,1,1,7a5,5,0,0,0,3.95,5,4.82,4.82,0,0,1-2.22.09,4.94,4.94,0,0,0,4.6,3.51A9.72,9.72,0,0,1,0,17.73,13.69,13.69,0,0,0,7.55,20c9.14,0,14.31-7.92,14-15A10.17,10.17,0,0,0,24,2.37Z" /></svg></div><p class="blog-quote position-relative textAlign-center c-marvel"><span class="blog-quote-text transitionDuration-l transitionProperty-all transitionTimingFunction-easeInOut">&#8220;It’s easier for users to learn something new if they can discern it to a pattern from something they understand&#8221;</p></span></blockquote>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl"><svg class="centered display-block marginTop-xl fill-slate" width="48px" height="4px" viewBox="0 0 48 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Group-7" transform="translate(1.000000, 1.000000)" stroke="#3B4859" fill="#3B4859"> <circle id="Oval-2" cx="1" cy="1" r="1"></circle> <circle id="Oval-2" cx="23" cy="1" r="1"></circle> <circle id="Oval-2" cx="45" cy="1" r="1"></circle> </g> </g></svg></p>
+<h2 class="pageWrap pageWrap--s marginTop-xl marginBottom-l c-slate lineHeight-xl fontSize-xl fontWeight-5 breakPointM-lineHeight-xxl breakPointM-fontSize-xxl" style="margin-left: auto; margin-right: auto;">Hick’s Law</h2>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Hick’s Law is the most popular principle, along with the Gestalt Laws.</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">It’s also very simple to understand and practice. Hick&#8217;s Law describes that the time it takes for a person to make a decision depends on the choices available to him or her. So if the number of choices increases, the time to make a decision increases logarithmically.</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">A very nice example of Hick’s Law that applies to user experience design are lists:</p>
+<div id="attachment_6580" style="width: 1610px" class="wp-caption aligncenter"><a class="link link--blue fontWeight-4" href="https://blog.marvelapp.com/wp-content/uploads/2017/06/1WLT8LMUF7RqozfG38TIL3A.png"><img class="aligncenter size-full wp-image-6580" src="https://blog.marvelapp.com/wp-content/uploads/2017/06/1WLT8LMUF7RqozfG38TIL3A.png" title="" alt="" /></a><p class="wp-caption-text">Hick’s Law Example</p></div>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl"><svg class="centered display-block marginTop-xl fill-slate" width="48px" height="4px" viewBox="0 0 48 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Group-7" transform="translate(1.000000, 1.000000)" stroke="#3B4859" fill="#3B4859"> <circle id="Oval-2" cx="1" cy="1" r="1"></circle> <circle id="Oval-2" cx="23" cy="1" r="1"></circle> <circle id="Oval-2" cx="45" cy="1" r="1"></circle> </g> </g></svg></p>
+<h2 class="pageWrap pageWrap--s marginTop-xl marginBottom-l c-slate lineHeight-xl fontSize-xl fontWeight-5 breakPointM-lineHeight-xxl breakPointM-fontSize-xxl" style="margin-left: auto; margin-right: auto;">Law of Proximity</h2>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Law of proximity is part of the Gestalt Laws of Perceptual Organization, and it states that objects that are near, or proximate to each other, tend to be grouped together. To put it in simpler terms, our brain can easily associate objects close to each other, better than it does objects that are spaced far apart. This clustering occurs because humans have a natural tendency to organise and group things together.</p>
+<div id="attachment_6580" style="width: 1610px" class="wp-caption aligncenter"><a class="link link--blue fontWeight-4" href="https://blog.marvelapp.com/wp-content/uploads/2017/06/1Jn2VR9U2bNj8Nh2d8zf5ug.png"><img class="aligncenter size-full wp-image-6580" src="https://blog.marvelapp.com/wp-content/uploads/2017/06/1Jn2VR9U2bNj8Nh2d8zf5ug.png" title="" alt="" /></a><p class="wp-caption-text">Law of Proximity Example</p></div>
+<blockquote class="pageWrap pageWrap--s position-relative marginTopBottom-l breakPointM-marginTopBottom-xl"><div class="blog-quote-before position-absolute bg-marvel"></div><div class="tweet-quote blog-quote-after position-absolute bg-marvel cursor-pointer transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover zi-weak"><svg class="fill-white opacity-0 pointerEvents-none position-absolute pinCenter transitionProperty-all transitionTimingFunction-easeInOut" xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20"><path d="M24,2.37a9.64,9.64,0,0,1-2.83.79A5,5,0,0,0,23.34.37a9.72,9.72,0,0,1-3.13,1.23A4.86,4.86,0,0,0,16.62,0a5,5,0,0,0-4.8,6.2A13.87,13.87,0,0,1,1.67.92,5.13,5.13,0,0,0,3.19,7.67,4.81,4.81,0,0,1,1,7a5,5,0,0,0,3.95,5,4.82,4.82,0,0,1-2.22.09,4.94,4.94,0,0,0,4.6,3.51A9.72,9.72,0,0,1,0,17.73,13.69,13.69,0,0,0,7.55,20c9.14,0,14.31-7.92,14-15A10.17,10.17,0,0,0,24,2.37Z" /></svg></div><p class="blog-quote position-relative textAlign-center c-marvel"><span class="blog-quote-text transitionDuration-l transitionProperty-all transitionTimingFunction-easeInOut">&#8220;The Law of Proximity states that objects that are near, or proximate to each other, tend to be grouped together&#8221;</p></span></blockquote>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">In the example above, there are 72 circles. We recognise the circles in groups, based on the distance between them. <em>Categorically</em>, we also perceive that there&#8217;s a group of 36 circles on the left side of the image, and 3 groups of 12 circles on the right side of the image.</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">I believe this example makes it clear that there is a need to group things together when designing a UI, as well as the importance of being careful when putting things together since users may naturally think they are associated with each other.</p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl"><svg class="centered display-block marginTop-xl fill-slate" width="48px" height="4px" viewBox="0 0 48 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Group-7" transform="translate(1.000000, 1.000000)" stroke="#3B4859" fill="#3B4859"> <circle id="Oval-2" cx="1" cy="1" r="1"></circle> <circle id="Oval-2" cx="23" cy="1" r="1"></circle> <circle id="Oval-2" cx="45" cy="1" r="1"></circle> </g> </g></svg></p>
+<p class="pageWrap pageWrap--s marginBottom-m paddingBottom-s c-slate lineHeight-l fontSize-l fontWeight-3 breakPointM-fontSize-xl breakPointM-lineHeight-xl">Thanks for reading, you can see more of my work on <a class="link link--blue fontWeight-4" href="https://www.behance.net/tnsrig">Behance</a> and <a class="link link--blue fontWeight-4" href="https://github.com/thanasisrig">GitHub</a>. Feel free to get in touch on <a class="link link--blue fontWeight-4" href="https://twitter.com/@tnsrig">Twitter</a> with your thoughts! </p>
+</div>
+<section class="pageWrap pageWrap--s marginTopBottom-xl">
+<div class="breakPointM-display-table bg-marvel borderRadius-l">
+<div class="display-block paddingTop-m breakPointS-paddingTop-l breakPointM-display-none textAlign-center">
+<img class="height-auto" alt="Design and prototyping for everyone" src="https://blog.marvelapp.com/wp-content/themes/marvel/assets/images/upsells/signup-mobile.png" srcset="https://blog.marvelapp.com/wp-content/themes/marvel/assets/images/upsells/signup-mobile@2x.png 2x" width="320" style="max-width: 90%" />
+</div>
+<div class="breakPointM-width-50 breakPointM-display-tableCell verticalAlign-middle padding-m textAlign-center breakPointM-textAlign-left breakPointS-padding-l breakPointM-padding-0 breakPointM-paddingLeft-l">
+<div class="marginBottom-xs">
+<h2 class="fontWeight-5 fontSize-l c-white">
+Design and prototyping for everyone </h2>
+</div>
+<div class="marginBottom-m">
+<h3 class="fontSize-m lineHeight-m fontWeight-3 c-white opacity-70">
+Thousands of individuals and teams use Marvel to design and prototype ideas. </h3>
+</div>
+<a class="button button--m bg-white c-slate bg-snow--hover" href="https://marvelapp.com/signup?utm_source=psychology-principles-every-uiux-designer-needs-know&utm_medium=end-of-post-upsell&utm_campaign=marvel-blog-advertising&utm_content=signupUpsell">
+Get Started, it's Free! </a>
+</div>
+<div class="display-none breakPointM-width-50 breakPointM-display-tableCell textAlign-right">
+<img class="borderRadiusRight-l" alt="Design and prototyping for everyone" src="https://blog.marvelapp.com/wp-content/themes/marvel/assets/images/upsells/signup.png" srcset="https://blog.marvelapp.com/wp-content/themes/marvel/assets/images/upsells/signup@2x.png 2x" width="360" height="220" />
+</div>
+</div>
+</section>
+<section class="js-author-section paddingBottom-l breakPointM-paddingBottom-xl">
+<div class="pageWrap pageWrap--s">
+<div class="position-relative textAlign-center marginBottom-l display-none breakPointM-display-block">
+<div class="position-absolute pinAll">
+<div class="display-table width-100 height-100">
+<div class="display-tableCell verticalAlign-middle">
+<div class="width-100 bg-smoke" style="height:1px"></div>
+</div>
+</div>
+</div>
+<div class="breakPointM-inline position-relative display-inlineBlock paddingLeftRight-m bg-white breakPointM-paddingTopBottom-s">
+<div class="marginBottom-m breakPointM-marginBottom-0 breakPointM-marginRight-s">
+<button class="js-share-facebook uiIcon uiIcon--m borderWidth-0 button--m bg-facebook borderRadius-circle transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" style="width: 40px">
+<svg class="svgIcon fill-white" width="24" height="24" viewBox="0 0 24 24">
+<path d="M14,22V13h2.45l0.44-4H14V7.74A1.45,1.45,0,0,1,15.69,6H17V2.14A23.35,23.35,0,0,0,14.36,2C11.75,2,10,3.66,10,6.7V9H7v4h3v9h4Z"></path>
+</svg>
+</button>
+</div>
+<div class="marginBottom-m breakPointM-marginBottom-0 breakPointM-marginRight-s">
+<button class="js-share-twitter uiIcon uiIcon--m borderWidth-0 button--m bg-twitter borderRadius-circle transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" data-name="tnsrig" style="width: 40px">
+<svg class="svgIcon fill-white" width="24" height="24" viewBox="0 0 24 24" style="margin-left: 9px">
+<path d="M22,5.89a8.3,8.3,0,0,1-2.36.64,4.06,4.06,0,0,0,1.8-2.23,8.3,8.3,0,0,1-2.61,1,4.13,4.13,0,0,0-3-1.28,4.06,4.06,0,0,0-4,5A11.71,11.71,0,0,1,3.39,4.74a4,4,0,0,0,1.27,5.39A4.14,4.14,0,0,1,2.8,9.63a4.06,4.06,0,0,0,3.29,4,4.18,4.18,0,0,1-1.85.07,4.1,4.1,0,0,0,3.83,2.81A8.34,8.34,0,0,1,2,18.19,11.75,11.75,0,0,0,8.29,20,11.5,11.5,0,0,0,20,8a8.28,8.28,0,0,0,2-2.09h0Z"></path>
+</svg>
+</button>
+</div>
+<div class="marginBottom-m breakPointM-marginBottom-0 breakPointM-marginRight-s">
+<button class="js-share-pocket uiIcon uiIcon--m borderWidth-0 button--m bg-pocket borderRadius-circle transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" style="width: 40px">
+<svg class="svgIcon fill-white" width="24" height="24" viewBox="0 0 24 24" style="margin-top: 9px">
+<path d="M22,5.56A2.6,2.6,0,0,0,19.38,3H4.62A2.6,2.6,0,0,0,2,5.56v7.1a2.52,2.52,0,0,0,0,.39,5.52,5.52,0,0,0,0,.57C2,17.7,6.48,21,12,21s10-3.3,10-7.37a5.53,5.53,0,0,0,0-.57,2.53,2.53,0,0,0,0-.39V5.56Zm-3.87,4.58-5.16,5a1.43,1.43,0,0,1-1.94,0l-5.16-5a1.26,1.26,0,0,1,0-1.82,1.36,1.36,0,0,1,1.88,0L12,12.44l4.25-4.12a1.36,1.36,0,0,1,1.88,0A1.26,1.26,0,0,1,18.13,10.14Z"></path>
+</svg>
+</button>
+</div>
+<div>
+<button class="js-share-linkedin uiIcon uiIcon--m borderWidth-0 button--m bg-linkedin borderRadius-circle transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" style="width: 40px">
+<svg class="svgIcon fill-white" width="24" height="24" viewBox="0 0 24 24" style="margin-top: 6px; margin-left:9px">
+<path d="M6,4A2,2,0,1,1,4,2,2,2,0,0,1,6,4ZM6,8H2V22H6V8Zm7,0H9V22h4V15c0-4.06,5-4.39,5,0v7h4V13.19c0-6.85-7.25-6.56-9-3.19V8Z"></path>
+</svg>
+</button>
+</div>
+</div>
+</div>
+<div class="textAlign-center">
+<div class="marginBottom-m">
+<div style="margin-left: 35px">
+<a class="avatar avatar--l display-inlineBlock transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular scaleUp--hover" href="https://blog.marvelapp.com/author/thanasis-rigopoulos/" style="margin-left: -35px">
+<img src="https://blog.marvelapp.com/wp-content/uploads/2017/06/1-qPl_1lhdqji9SrbGJI3d_w-96x96.jpeg" width="70" height="70" alt="Thanasis Rigopoulos" class="avatar avatar-70 wp-user-avatar wp-user-avatar-70 alignnone photo" /> <span class="avatar-border"></span>
+</a>
+</div>
+</div>
+<div class="marginBottom-m">
+<span class="author-name lineHeight-m breakPointM-lineHeight-xl fontWeight-4">
+<a class="link link--dark" href="https://blog.marvelapp.com/author/thanasis-rigopoulos/">Thanasis Rigopoulos</a> </span>
+</div>
+<div class="centered fontWeight-3 fontSize-m lineHeight-m breakPointM-fontSize-l breakPointM-lineHeight-l c-silver" style="max-width: 540px">
+<p class="">UI/UX Interaction Designer・Early Adopter・Start Up Enthusiast・Mobile UI/UX <a class="link link--blue" href="https://twitter.com/@travelplanet24">@travelplanet24</a> <a class="link link--blue" href="https://twitter.com/@airtickets_gr">@airtickets_gr</a> ・Writes on <a class="link link--blue" href="http://bit.ly/2thanasis">Medium</a>. Say hi on <a class="link link--blue" href="https://twitter.com/tnsrig">Twitter</a>!</p> </div>
+</div>
+</div>
+</section>
+<section class="bg-black">
+<div class="uneven-bottom-edge paddingBottom-xl bg-steel">
+<div class="pageWrap pageWrap--l">
+<div class="position-relative textAlign-center paddingTopBottom-l breakPointM-paddingTopBottom-xl">
+<div class="position-absolute pinBL width-100 display-none breakPointM-display-block" style="bottom: -70px">
+<div class="ventura-word c-white whiteSpace-nowrap" style="opacity: 0.03">
+Good Stuff
+</div>
+</div>
+<h2 class="c-white fontSize-xl lineHeight-xl breakPointM-fontSize-xxl breakPointM-lineHeight-xxl">
+Related Posts
+</h2>
+</div>
+<div class="grid grid--1 breakPointM-grid--3 grid--m breakPointL-grid--l">
+<div class="js-post">
+<div class="post-card post-card--fixed-height overflow-hidden position-relative bg-white borderRadius-l transitionTimingFunction-ease-in-out transitionDuration-l transitionProperty-all ">
+<div class="marginBottom-m breakPointS-marginBottom-l breakPointM-marginBottom-m breakPointL-marginBottom-l position-relative">
+<a class="aspectRatio aspectRatio--60 width-100 display-block" href="https://blog.marvelapp.com/accessibility-before-aesthetics/">
+<div class="aspectRatio-content borderRadiusTop-l backgroundPosition-centerCenter backgroundSize-cover" style="background-image: url(https://blog.marvelapp.com/wp-content/uploads/2019/04/access-1500x750.png)"></div>
+</a>
+<div class="position-absolute pinFill borderRadiusTop-l bg-green opacity-0 transitionTimingFunction-ease-in-out transitionDuration-l transitionProperty-all pointerEvents-none"></div>
+<div class="position-absolute pinFill pinFill pointerEvents-none">
+<div class="pinFill display-table">
+<div class="display-tableCell verticalAlign-middle textAlign-center">
+<svg class="svgIcon fill-white" width="62" height="42" viewBox="0 0 62 42">
+ <path d="M46.5,42C38,42,31,32.58,31,21S38,0,46.5,0,62,9.42,62,21,55,42,46.5,42Zm0-39C39.61,3,34,11.07,34,21s5.61,18,12.5,18c6.06,0,11.13-6.25,12.26-14.5A8.5,8.5,0,1,1,59,22c0-.32,0-0.63,0-1C59,11.07,53.39,3,46.5,3Zm4,14A5.5,5.5,0,1,0,56,22.5,5.51,5.51,0,0,0,50.5,17Zm-35,25C7,42,0,32.58,0,21S7,0,15.5,0,31,9.42,31,21,24,42,15.5,42Zm0-39C8.61,3,3,11.07,3,21S8.61,39,15.5,39c6.06,0,11.13-6.25,12.26-14.5A8.5,8.5,0,1,1,28,22c0-.32,0-0.63,0-1C28,11.07,22.39,3,15.5,3Zm4,14A5.5,5.5,0,1,0,25,22.5,5.51,5.51,0,0,0,19.5,17Z" />
+</svg>
+</div>
+</div>
+</div>
+<div class="position-absolute paddingLeftRight-m" style="bottom: -11px">
+<a class="link display-inlineBlock marginLeftRight-xs paddingLeftRight-xxs lineHeight-m fontSize-xs lineHeight-s fontWeight-5 c-white borderRadius-s bg-green" href="https://blog.marvelapp.com/category/viewpoint/">
+Viewpoint </a>
+</div>
+</div>
+<div class="paddingLeftRight-m">
+<div class="breakPointS-paddingLeftRight-xs breakPointM-paddingLeftRight-0 breakPointL-paddingLeftRight-xs">
+<div class="paddingTop-xxs breakPointS-paddingTop-0 breakPointM-paddingTop-xxs breakPointL-paddingTop-0 marginBottom-s">
+<a href="https://blog.marvelapp.com/accessibility-before-aesthetics/" class="link link--dark fontWeight-5 fontSize-xl lineHeight-l breakPointS-fontSize-xxl breakPointS-lineHeight-xl breakPointM-fontSize-xl breakPointM-lineHeight-l breakPointL-fontSize-xxl breakPointL-lineHeight-xl truncateText-three">
+Accessibility Before Aesthetics </a>
+</div>
+<div class="marginBottom-s inline truncateText">
+<div class="verticalAlign-middle marginRight-xs">
+<div style="margin-left: 10px">
+<a class="avatar avatar--xxs display-inlineBlock transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular " href="https://blog.marvelapp.com/author/arijit-dey/" style="margin-left: -10px">
+<img src="https://blog.marvelapp.com/wp-content/uploads/2019/04/15eImhKrJI3pkgYOh8ws1SQ-32x32.jpeg" width="22" height="22" alt="Arijit Dey" class="avatar avatar-22 wp-user-avatar wp-user-avatar-22 alignnone photo" /> <span class="avatar-border"></span>
+</a>
+</div>
+</div>
+<div class="verticalAlign-middle">
+<span class="fontSize-m lineHeight-m c-silver fontWeight-3">
+<a class="link link--light" href="https://blog.marvelapp.com/author/arijit-dey/">Arijit Dey</a> </span>
+</div>
+</div>
+<div class="textAlign-left c-slate fontSize-m lineHeight-m breakPointS-fontSize-l breakPointS-lineHeight-l fontWeight-3 truncateText-three" style="max-height: 105px">
+<p>It’s time we start addressing accessibility before aesthetics in our design processes to create meaningful products for our diversified societies and cultures. Before diving into the why, how and what of it, let’s revisit the definitions of these terms to set the context. Accessibility As the definition goes, it’s simply the quality of being able to be reached or entered&#8230;. <a class="link link--blue fontWeight-4" href="https://blog.marvelapp.com/accessibility-before-aesthetics/">Read More &#65515;</a></p>
+</div>
+</div>
+</div>
+<div class="breakPointM-position-absolute width-100 padding-m" style="bottom: 0">
+<div class="breakPointS-paddingLeftRight-xs breakPointS-paddingBottom-xs breakPointM-paddingLeftRight-0 breakPointM-paddingBottom-0 breakPointL-paddingLeftRight-xs breakPointL-paddingBottom-xs">
+<a class="button button--l button--ghost bg-green--hover width-100" href="https://blog.marvelapp.com/accessibility-before-aesthetics/">
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="js-post">
+<div class="post-card post-card--fixed-height overflow-hidden position-relative bg-white borderRadius-l transitionTimingFunction-ease-in-out transitionDuration-l transitionProperty-all ">
+<div class="marginBottom-m breakPointS-marginBottom-l breakPointM-marginBottom-m breakPointL-marginBottom-l position-relative">
+<a class="aspectRatio aspectRatio--60 width-100 display-block" href="https://blog.marvelapp.com/investigate-first-design/">
+<div class="aspectRatio-content borderRadiusTop-l backgroundPosition-centerCenter backgroundSize-cover" style="background-image: url(https://blog.marvelapp.com/wp-content/uploads/2019/03/hi-1500x1014.png)"></div>
+</a>
+<div class="position-absolute pinFill borderRadiusTop-l bg-green opacity-0 transitionTimingFunction-ease-in-out transitionDuration-l transitionProperty-all pointerEvents-none"></div>
+<div class="position-absolute pinFill pinFill pointerEvents-none">
+<div class="pinFill display-table">
+<div class="display-tableCell verticalAlign-middle textAlign-center">
+<svg class="svgIcon fill-white" width="62" height="42" viewBox="0 0 62 42">
+<path d="M46.5,42C38,42,31,32.58,31,21S38,0,46.5,0,62,9.42,62,21,55,42,46.5,42Zm0-39C39.61,3,34,11.07,34,21s5.61,18,12.5,18c6.06,0,11.13-6.25,12.26-14.5A8.5,8.5,0,1,1,59,22c0-.32,0-0.63,0-1C59,11.07,53.39,3,46.5,3Zm4,14A5.5,5.5,0,1,0,56,22.5,5.51,5.51,0,0,0,50.5,17Zm-35,25C7,42,0,32.58,0,21S7,0,15.5,0,31,9.42,31,21,24,42,15.5,42Zm0-39C8.61,3,3,11.07,3,21S8.61,39,15.5,39c6.06,0,11.13-6.25,12.26-14.5A8.5,8.5,0,1,1,28,22c0-.32,0-0.63,0-1C28,11.07,22.39,3,15.5,3Zm4,14A5.5,5.5,0,1,0,25,22.5,5.51,5.51,0,0,0,19.5,17Z" />
+</svg>
+</div>
+</div>
+</div>
+<div class="position-absolute paddingLeftRight-m" style="bottom: -11px">
+<a class="link display-inlineBlock marginLeftRight-xs paddingLeftRight-xxs lineHeight-m fontSize-xs lineHeight-s fontWeight-5 c-white borderRadius-s bg-green" href="https://blog.marvelapp.com/category/viewpoint/">
+Viewpoint </a>
+</div>
+</div>
+<div class="paddingLeftRight-m">
+<div class="breakPointS-paddingLeftRight-xs breakPointM-paddingLeftRight-0 breakPointL-paddingLeftRight-xs">
+<div class="paddingTop-xxs breakPointS-paddingTop-0 breakPointM-paddingTop-xxs breakPointL-paddingTop-0 marginBottom-s">
+<a href="https://blog.marvelapp.com/investigate-first-design/" class="link link--dark fontWeight-5 fontSize-xl lineHeight-l breakPointS-fontSize-xxl breakPointS-lineHeight-xl breakPointM-fontSize-xl breakPointM-lineHeight-l breakPointL-fontSize-xxl breakPointL-lineHeight-xl truncateText-three">
+Investigate First, Design After </a>
+</div>
+<div class="marginBottom-s inline truncateText">
+<div class="verticalAlign-middle marginRight-xs">
+<div style="margin-left: 10px">
+<a class="avatar avatar--xxs display-inlineBlock transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular " href="https://blog.marvelapp.com/author/sungjoon-steve-won/" style="margin-left: -10px">
+<img src="https://blog.marvelapp.com/wp-content/uploads/2019/03/1xVt67WvqsPN2_hlv3G9yMA@2x-32x32.jpeg" width="22" height="22" alt="Sungjoon Steve Won" class="avatar avatar-22 wp-user-avatar wp-user-avatar-22 alignnone photo" /> <span class="avatar-border"></span>
+</a>
+</div>
+</div>
+<div class="verticalAlign-middle">
+<span class="fontSize-m lineHeight-m c-silver fontWeight-3">
+<a class="link link--light" href="https://blog.marvelapp.com/author/sungjoon-steve-won/">Sungjoon Steve Won</a> </span>
+</div>
+</div>
+<div class="textAlign-left c-slate fontSize-m lineHeight-m breakPointS-fontSize-l breakPointS-lineHeight-l fontWeight-3 truncateText-three" style="max-height: 105px">
+<p>As designers, we are all problem solvers. And from the view of building out the problem space, there are different roles to perform. Exact details can vary depending on your team and the project, and the following is a general definition of these roles. As a Lead Designer, you are expected to discover a new problem seed and lead others&#8230; <a class="link link--blue fontWeight-4" href="https://blog.marvelapp.com/investigate-first-design/">Read More &#65515;</a></p>
+</div>
+</div>
+</div>
+<div class="breakPointM-position-absolute width-100 padding-m" style="bottom: 0">
+<div class="breakPointS-paddingLeftRight-xs breakPointS-paddingBottom-xs breakPointM-paddingLeftRight-0 breakPointM-paddingBottom-0 breakPointL-paddingLeftRight-xs breakPointL-paddingBottom-xs">
+<a class="button button--l button--ghost bg-green--hover width-100" href="https://blog.marvelapp.com/investigate-first-design/">
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="js-post">
+<div class="post-card post-card--fixed-height overflow-hidden position-relative bg-white borderRadius-l transitionTimingFunction-ease-in-out transitionDuration-l transitionProperty-all ">
+<div class="marginBottom-m breakPointS-marginBottom-l breakPointM-marginBottom-m breakPointL-marginBottom-l position-relative">
+<a class="aspectRatio aspectRatio--60 width-100 display-block" href="https://blog.marvelapp.com/four-reasons-design-without-color-first/">
+<div class="aspectRatio-content borderRadiusTop-l backgroundPosition-centerCenter backgroundSize-cover" style="background-image: url(https://blog.marvelapp.com/wp-content/uploads/2019/03/Colour-1500x659.png)"></div>
+</a>
+<div class="position-absolute pinFill borderRadiusTop-l bg-green opacity-0 transitionTimingFunction-ease-in-out transitionDuration-l transitionProperty-all pointerEvents-none"></div>
+<div class="position-absolute pinFill pinFill pointerEvents-none">
+<div class="pinFill display-table">
+<div class="display-tableCell verticalAlign-middle textAlign-center">
+<svg class="svgIcon fill-white" width="62" height="42" viewBox="0 0 62 42">
+<path d="M46.5,42C38,42,31,32.58,31,21S38,0,46.5,0,62,9.42,62,21,55,42,46.5,42Zm0-39C39.61,3,34,11.07,34,21s5.61,18,12.5,18c6.06,0,11.13-6.25,12.26-14.5A8.5,8.5,0,1,1,59,22c0-.32,0-0.63,0-1C59,11.07,53.39,3,46.5,3Zm4,14A5.5,5.5,0,1,0,56,22.5,5.51,5.51,0,0,0,50.5,17Zm-35,25C7,42,0,32.58,0,21S7,0,15.5,0,31,9.42,31,21,24,42,15.5,42Zm0-39C8.61,3,3,11.07,3,21S8.61,39,15.5,39c6.06,0,11.13-6.25,12.26-14.5A8.5,8.5,0,1,1,28,22c0-.32,0-0.63,0-1C28,11.07,22.39,3,15.5,3Zm4,14A5.5,5.5,0,1,0,25,22.5,5.51,5.51,0,0,0,19.5,17Z" />
+</svg>
+</div>
+</div>
+</div>
+<div class="position-absolute paddingLeftRight-m" style="bottom: -11px">
+<a class="link display-inlineBlock marginLeftRight-xs paddingLeftRight-xxs lineHeight-m fontSize-xs lineHeight-s fontWeight-5 c-white borderRadius-s bg-green" href="https://blog.marvelapp.com/category/viewpoint/">
+Viewpoint </a>
+</div>
+</div>
+<div class="paddingLeftRight-m">
+<div class="breakPointS-paddingLeftRight-xs breakPointM-paddingLeftRight-0 breakPointL-paddingLeftRight-xs">
+<div class="paddingTop-xxs breakPointS-paddingTop-0 breakPointM-paddingTop-xxs breakPointL-paddingTop-0 marginBottom-s">
+<a href="https://blog.marvelapp.com/four-reasons-design-without-color-first/" class="link link--dark fontWeight-5 fontSize-xl lineHeight-l breakPointS-fontSize-xxl breakPointS-lineHeight-xl breakPointM-fontSize-xl breakPointM-lineHeight-l breakPointL-fontSize-xxl breakPointL-lineHeight-xl truncateText-three">
+Four Reasons Why You Should Design Without Color First </a>
+</div>
+<div class="marginBottom-s inline truncateText">
+<div class="verticalAlign-middle marginRight-xs">
+<div style="margin-left: 10px">
+<a class="avatar avatar--xxs display-inlineBlock transitionDuration-l transitionProperty-all transitionTimingFunction-cv-easeOutCircular " href="https://blog.marvelapp.com/author/anand-satyan/" style="margin-left: -10px">
+<img src="https://blog.marvelapp.com/wp-content/uploads/2019/03/02bIikp9esQAiFuyf-32x32.jpg" width="22" height="22" alt="Anand Satyan" class="avatar avatar-22 wp-user-avatar wp-user-avatar-22 alignnone photo" /> <span class="avatar-border"></span>
+</a>
+</div>
+</div>
+<div class="verticalAlign-middle">
+<span class="fontSize-m lineHeight-m c-silver fontWeight-3">
+<a class="link link--light" href="https://blog.marvelapp.com/author/anand-satyan/">Anand Satyan</a> </span>
+</div>
+</div>
+<div class="textAlign-left c-slate fontSize-m lineHeight-m breakPointS-fontSize-l breakPointS-lineHeight-l fontWeight-3 truncateText-three" style="max-height: 105px">
+<p>Creating your screens in grayscale before adding color forces you think clearly and prioritize right when it comes to UX design. 1. You focus on layout and spacing When you start designing keeping the B&amp;W color palette constraint in mind, most of your thinking time goes into figuring out how to space things right to be able to seem like things&#8230; <a class="link link--blue fontWeight-4" href="https://blog.marvelapp.com/four-reasons-design-without-color-first/">Read More &#65515;</a></p>
+</div>
+</div>
+</div>
+<div class="breakPointM-position-absolute width-100 padding-m" style="bottom: 0">
+<div class="breakPointS-paddingLeftRight-xs breakPointS-paddingBottom-xs breakPointM-paddingLeftRight-0 breakPointM-paddingBottom-0 breakPointL-paddingLeftRight-xs breakPointL-paddingBottom-xs">
+<a class="button button--l button--ghost bg-green--hover width-100" href="https://blog.marvelapp.com/four-reasons-design-without-color-first/">
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="fixed-footer is-sticky is-shown sticky-footer display-none breakPointM-display-block">
+<div class="textAlign-left cf pageWrap pageWrap--s borderRadiusTop-l height-100 bg-white boxShadow-outside--black--transparent">
+<div class="padding-s textAlign-left float-left">
+<img style="width: 40px; height: 40px; border-radius: 4px" src="https://blog.marvelapp.com/wp-content/themes/marvel/assets/images/sticky-footer/marvel-icon-footer.png" />
+</div>
+<div class="paddingTopBottom-xs textAlign-left float-left">
+<h1 class="c-slate truncateText fontWeight-5 fontSize-l lineHeight-l">
+Free prototyping and wireframing </h1>
+<p class="c-silver lineHeight-s fontSize-s fontWeight-3">
+Join over 1 million people on Marvel bringing their ideas to life. </p>
+</div>
+<div class="padding-s float-right">
+<a href="https://marvelapp.com/signup?utm_source=psychology-principles-every-uiux-designer-needs-know&utm_medium=floating-footer-post-upsell&utm_campaign=marvel-blog-advertising&utm_content=signupUpsell">
+<div class="button button--flat button--m bg-positive">
+Sign up for free </div>
+</a>
+</div>
+</div>
+</section>
+<footer class="width-100">
+<div class="js-navigation-links navigation-links position-fixed pinAll textAlign-center zi-max opacity-0 visibility-hidden">
+<div class="display-table height-100">
+<div class="links-menu display-tableCell verticalAlign-middle">
+<div class="marginBottom-s">
+<a class="js-navigation-link link c-white fontSize-m lineHeight-m fontWeight-5" href="https://marvelapp.com/features/">Features</a>
+</div>
+ <div class="marginBottom-s">
+<a class="js-navigation-link link c-white fontSize-m lineHeight-m fontWeight-5" href="https://marvelapp.com/stories/">Stories</a>
+</div>
+<div class="marginBottom-s">
+<a class="js-navigation-link link c-white fontSize-m lineHeight-m fontWeight-5" href="https://marvelapp.com/explore/">Explore</a>
+</div>
+<div class="marginBottom-s">
+<a class="js-navigation-link link c-white fontSize-m lineHeight-m fontWeight-5" href="https://marvelapp.com/plans/">Pricing</a>
+</div>
+<div class="marginBottom-s">
+<a class="js-navigation-link link c-white fontSize-m lineHeight-m fontWeight-5" href="https://marvelapp.com/enterprise/">Enterprise</a>
+</div>
+<div class="marginBottom-s">
+<a class="js-navigation-link link c-white fontSize-m lineHeight-m fontWeight-5" href="http://blog.marvelapp.com/">Blog</a>
+</div>
+<div class="marginBottom-s">
+<span class="js-contribute-button link c-white fontSize-m lineHeight-m fontWeight-5">Contribute</span>
+</div>
+<div class="marginBottom-s">
+<a class="js-navigation-link link c-white fontSize-m lineHeight-m fontWeight-5" href="https://marvelapp.com/signin">Sign In</a>
+</div>
+<div class="verticalAlign-middle">
+<a class="js-navigation-link link c-white fontSize-m lineHeight-m fontWeight-5" href="https://marvelapp.com/signup">Sign Up</a>
+</div>
+</div>
+</div>
+<div class="js-navigation-toggle navigation-toggle toggle-close opacity-0 padding-m">
+<div class="navigation-toggle-icon"></div>
+<div class="padding-xs"></div>
+</div>
+</div>
+<div class="footer width-100 bg-black">
+<div class="pageWrap pageWrap--m position-relative">
+<div class="breakPointM-width-50 breakPointM-display-tableCell breakPointM-verticalAlign-middle paddingTopBottom-l breakPointS-paddingTopBottom-xl textAlign-center breakPointM-textAlign-left breakPointM-paddingRight-m">
+<div class="marginBottom-s">
+<h3 class="display-inlineBlock fontSize-xl lineHeight-l breakPointM-fontSize-xxl breakPointM-lineHeight-xl breakPointL-fontSize-xxxl breakPointL-lineHeight-xxxl c-white">
+The all-in-one <br class="display-none breakPointL-display-block"> enterprise design platform
+</h3>
+</div>
+<div class="marginBottom-l">
+<span class="display-inlineBlock fontWeight-3 fontSize-m lineHeight-m breakPointS-fontSize-l breakPointS-lineHeight-l c-white opacity-80" style="max-width: 460px">
+From built-in wireframing to developer handoff, Marvel gives every team the tools they need to bring ideas to life.
+</span>
+</div>
+<div class="marginBottom-l">
+<a href="https://marvelapp.com/enterprise?utm_source=psychology-principles-every-uiux-designer-needs-know&utm_medium=footer-enterprise-upsell&utm_campaign=marvel-blog-advertising&utm_content=enterpriseUpsell" class="button button--l button--flat bg-marvel" style="min-width: 200px">
+Find out more
+</a>
+</div>
+<div class="inline paddingTop-xs">
+<div class="marginRight-m paddingRight-xxs marginBottom-m verticalAlign-middle">
+<svg class="opacity-40 fill-white display-block" width="82" height="24" viewBox="159 188 82 24">
+<path d="M188.6 195.4c-.6-.4-1.4-.8-1.6-.9-.9-.4-1.5-.2-2.2.2-.4.2-.7.6-1.1 1.1l-9.6 10.9 1-3.8 1.8-5.1c.5-1.7.1-2-1.4-3l-.2-.1c-1-.7-1.5-.3-1.8.7l-.8 1.7-8.4 7.5 2.4-7.1c.2-.8.2-1.2-.5-1.7l-1.7-1.2c-.6-.4-1.1-.4-1.8 0l-2 1.2c-.6.4-.8.7-.3 1.1l2 1.4-3.3 10c-.2.8-.2 1.3.3 1.7l1.9 1.3c.8.5 1 .3 1.4-.1l8-7.6-1.2 3.3c-.8 2.4-.6 2.7 1 3.8l1.3.9c.8.2 1.3-.2 1.9-1l11.2-13.1-.1 10.2-1.7-.7c-.6-.3-1.4-.6-1.4.5v1.8c0 .8.4 1.7 1.3 2l1.1.5c.9.4 1.3.5 2.2 0 .1 0 1.9-1.1 1.9-1.1.9-.5 1.1-.9 1.1-1.6v-.9l.1-10.3c.2-1.5-.2-2.1-.8-2.5zm49.7-.9c-.9 0-1.5.4-1.5.4l-1.6 1c-.6.4-.8.7-.3 1.1l2 1.4c.2.2.1 2.3-.5 4.2-.7 2.1-1.3 3-2.4 4.4-1 1.2-2.7 2.5-4 1.9-1.2-.6-.9-3 .5-6.3.6-1.4 1.4-2.8 2.1-4.2.5-1.4.4-1.9-.6-2.6l-1.4-1.1c-1-.6-2.2-.6-3.3.5l-9 9.7 1.5-5 .4-1.1c.5-1.7 0-2-1.5-3l-.2-.1c-1-.7-1.5-.3-1.8.7l-8.4 8.1 2.2-6.9c.4-1.4-.7-2.1-1.9-3-1.2-.9-1.9-.3-2.9.9l-9.6 11.1 3.7-12c.4-1.2.1-1.6-.5-2.1l-1.4-.8h24.1c.5 0 .6-.3.3-.9l-.9-1.9c-.3-.6-.6-1-1.3-1h-45.4c-.5 0-.6.3-.3.9l.9 1.9c.3.6.6.9 1.3.9h19.9l-4.7 15.2c-.8 2.4-.6 2.7 1 3.8 1.6 1.1 2 1.4 3.3-.2l10.8-12.9-3.5 10.6c-.3 1.1-.2 1.6.3 1.9l1.6 1.1c.7.5 1 .6 1.9-.3l8.6-8.4-2.2 5.6c-.4 1.4-.3 1.6 1 2.5l.8.6c.8.5 1.3.6 2-.2l11.1-12.3c-.7 1.3-1.4 2.6-1.9 3.9-1 3.2-1.4 8.2 2.8 9.1.6.1 1.1.2 1.7.2 6-.2 9.2-6.4 9.9-11.3.4-3.1-.2-4.5-.9-5.3-.6-.5-1-.7-1.8-.7z"></path>
+</svg>
+</div>
+<div class="marginRight-m paddingRight-xxs marginBottom-m verticalAlign-middle">
+<svg class="opacity-40 fill-white display-block" width="115" height="38" viewBox="0 0 140 38">
+<path d="M51.15,28.44h3.19L53.8,25.93V11H50.75v6.81a4.76,4.76,0,0,0-3.68-1.7c-3.05,0-5.42,2.57-5.42,6.29S44,28.7,47.07,28.7a4.73,4.73,0,0,0,3.74-1.79l0.34,1.53h0Zm60.36-9a2.82,2.82,0,0,1,1.71.55l1.45-3.29a4.11,4.11,0,0,0-2.22-.61,3.67,3.67,0,0,0-3.25,1.82l-0.31-1.53h-3.14l0.51,2.37v9.7h3.05V20.76a2.33,2.33,0,0,1,2.2-1.3h0Zm8.93,6a2.91,2.91,0,0,1-3.08-3,3.08,3.08,0,0,1,6.16,0,2.91,2.91,0,0,1-3.08,3h0ZM44.61,22.41a3.08,3.08,0,0,1,6.16,0,3.08,3.08,0,0,1-6.16,0h0ZM134,25.47a2.91,2.91,0,0,1-3.08-3,3.08,3.08,0,0,1,6.16,0,3,3,0,0,1-3.08,3h0ZM61.76,19.2a2.73,2.73,0,0,1,2.94,2.14H58.82a2.69,2.69,0,0,1,2.94-2.14h0Zm36.48,0a2.73,2.73,0,0,1,2.94,2.14H95.3a2.74,2.74,0,0,1,2.94-2.14h0ZM83.35,28.44h4.91l3.19-12.1H88.11L85.8,26.16l-2.34-9.79H80.18l3.17,12.07h0Zm-7.84,0h3.05V16.34H75.51v12.1h0Zm-13.29.23A8.84,8.84,0,0,0,67,27.29l-1.17-2.66a7.38,7.38,0,0,1-3.57.92A3.2,3.2,0,0,1,59,23.74h8.61a7.19,7.19,0,0,0,.14-1.41,5.86,5.86,0,0,0-6-6.24c-3.45,0-6,2.54-6,6.29s2.48,6.29,6.36,6.29h0ZM140,22.41a6,6,0,1,0-12,0,6,6,0,1,0,12,0h0ZM98.67,28.7a8.6,8.6,0,0,0,4.76-1.39l-1.17-2.66a7.38,7.38,0,0,1-3.57.92,3.2,3.2,0,0,1-3.22-1.82h8.61a7.19,7.19,0,0,0,.14-1.41,5.86,5.86,0,0,0-6-6.24c-3.45,0-6,2.54-6,6.29s2.48,6.29,6.36,6.29h0Zm21.76,0a5.92,5.92,0,0,0,6-6.29,6,6,0,1,0-12,0,5.92,5.92,0,0,0,6,6.29h0Zm-50.72-.26h3.05V11H69.71V28.44h0ZM77,14.7a2,2,0,1,0-1.94-2,1.93,1.93,0,0,0,1.94,2h0ZM24.59,0L22.85,16.75l-3-14.12-9.36,2,2.94,14.12L0,21.63,2.4,32.89,26.1,38l5.42-12.27L34.09,1l-9.5-1h0Zm-7.5,24.31a1.7,1.7,0,0,1-1.83.17c-0.68-.23-1-1-0.74-2.08a1.49,1.49,0,0,1,1.57-.87,1.11,1.11,0,0,1,.51.12,1.53,1.53,0,0,1,.48,2.66h0ZM24,25.06c-0.37.64-1.28,0.72-2.22,0.26a1.38,1.38,0,0,1-.54-1.56A1.37,1.37,0,0,1,21.51,23a1.49,1.49,0,0,1,1-.66,1.73,1.73,0,0,1,1.63.87A1.76,1.76,0,0,1,24,25.06h0Z"></path>
+</svg>
+</div>
+<div class="marginRight-m paddingRight-xxs marginBottom-m verticalAlign-middle">
+<svg class="opacity-40 fill-white display-block" width="58" height="22" viewBox="0 0 58 22">
+<path d="M57.8 4.8l-1.8.6c-.7-2.2-2.7-3.7-5.4-3.7-2.9 0-4.8 1.5-4.8 4 0 5.3 12.1 2.5 12.1 10 0 3.6-2.9 6.1-7.1 6.1-4 0-6.3-1.9-8-4.9l1.6-1c1.1 2.3 3.1 4.1 6.2 4.1 3.5 0 5.4-1.6 5.4-4.3 0-5.4-12.1-2.7-12.1-10 0-4.3 3.9-5.7 6.7-5.7 3.3 0 6.2 1.5 7.2 4.8m-29.8.1c0 1.2.8 2.2 2.5 4.1 2-1.2 3.2-2.5 3.2-4.1 0-1.6-1.1-2.9-2.9-2.9-1.7.1-2.8 1.4-2.8 2.9m2.1 6.4c-2.8 1.5-4 2.8-4 4.7 0 2.2 1.9 4 4.4 4 2.3 0 3.4-1 4.7-3.1l-5.1-5.6zm9.8 10.7l-3.5-3.8c-1.3 2-3 3.5-5.9 3.5-3.7 0-6.4-2.6-6.4-5.7 0-2.6 1.6-4.3 4.7-6-1.8-1.8-2.7-3.3-2.7-5 0-2.5 2.1-4.6 4.7-4.6 2.7 0 4.8 2 4.8 4.6 0 2.5-1.9 4.1-3.8 5.4l4.4 4.8 2.6-4.2 1.6 1-2.9 4.7 3.9 4.2-1.5 1.1zm-20.6-21.7v21.4h-1.9v-17.5l-7 13.7h-1.5l-7-13.7v17.5h-1.9v-21.4h2l7.6 14.8 7.6-14.8h2.1z"></path>
+ </svg>
+</div>
+<div class="marginBottom-m verticalAlign-middle">
+<svg class="opacity-40 fill-white display-block" width="116" height="24" viewBox="0 0 116 24">
+<path d="M31.2 3.6h-6.4v1.4h1.6l-.1 12h-1.5v1.4h5.7c4.8 0 7.8-2.4 7.8-7.7 0-4.8-2.9-7.1-7.1-7.1zm3.7 11.9c-1 1.1-2.5 1.6-4.6 1.6h-2.2l.1-12h2.2c1.9 0 3.3.2 4.4 1.3 1 .9 1.7 2.5 1.7 4.5 0 1.9-.7 3.6-1.6 4.6zm30.1-1.2c0-1.8 0-3.6.1-5.4h3.3v-1.4h-3.3l.1-2.8-1.7.1v2.7h-1.7v1.4h1.7c0 1.6-.1 4.9-.1 6.2 0 1.4 0 3.6 2.9 3.6.9 0 1.8-.2 2.4-.5l.1-1.5c-.4.2-1.2.4-2.1.4-1.7.1-1.7-1.2-1.7-2.8zm13.2-3.1c0-2.9-1.5-4-4.2-4-1.3 0-2.5.4-3.7.9v2.6h1.5v-1.7c.8-.3 1.7-.4 2.3-.4 1.7 0 2.4.7 2.4 2.8v.8c-3.7 0-6.7.2-6.7 3.4 0 2.7 2.1 3.1 3.3 3.1 1.9 0 2.9-.9 3.5-2.6-.1.4-.2 1.3-.2 1.9v.4h2.7v-1.4h-1.2c.2-2 .3-4.9.3-5.8zm-4.6 6.2c-1.1 0-2-.7-2-1.9 0-2.1 2.5-2.1 5-2.1 0 3.1-1.9 4-3 4zm11.3-5.3c-1.5-.3-2.5-.6-2.5-1.8 0-1.2 1.5-1.7 2.4-1.7.5 0 1.5.1 1.9.4v1.6h1.6l-.1-2.6c-.8-.4-2.4-.7-3.3-.7-3 0-4.1 1.5-4.1 3.3 0 2.1 1.4 2.7 4.2 3.3 1.1.3 2.2.6 2.2 1.7 0 1.2-1.4 1.8-2.4 1.8-.7 0-1.8-.2-2.4-.5v-1.6h-1.6l.1 2.8c.7.4 2.5.7 3.6.7 3 0 4.3-1.6 4.3-3.5-.1-1.9-1.2-2.8-3.9-3.2zm13.1 4.9h-4.8l.1-12h1.5v-1.4h-4.9v1.4h1.7l-.1 12h-1.6v1.4h9.7v-3.7h-1.5l-.1 2.3zm8.4-6.4c1.6-.3 2.8-1.5 2.8-3.5 0-1.6-.7-2.6-1.8-3.1-.8-.4-1.6-.5-3-.5h-5v1.5h1.6v13.4h4.1c2.5 0 5.1-1 5.1-4.1-.1-2.4-1.9-3.7-3.8-3.7zm-3.6-5.7h1.7c.9 0 2.9 0 2.9 2.5 0 2.3-1.8 2.7-3.6 2.7h-1v-5.2zm1.3 12.2h-1.3v-5.6h1.7c1.7 0 3.7.4 3.7 2.8.1 2.8-2.4 2.8-4.1 2.8zm-60.9-9.6h-3.3v1.4h1.7l-.2 8.1h-1.4v1.4h4.5v-1.4h-1.4l.1-9.5zm16.5 0h-3.3v1.4h1.7l-.1 8.1h-1.4v1.4h4.4v-1.4h-1.4l.1-9.5zm54.9 9.5l.1-9.6h-3.3v1.4h1.7l-.1 8.2h-1.4v1.4h4.5v-1.4h-1.5zm-62.1.7l-2.8-.5c-1.3-.2-1.7-.3-1.7-.9 0-.8 1.4-1.1 1.8-1.1 2.4 0 4.4-1.4 4.4-3.9 0-.8-.1-1.6-.8-2.3l-.3-.3 1.9.3v-1.5l-3.7.1c-.4-.1-.9-.2-1.4-.2-2.5 0-4.3 1.7-4.3 3.9 0 2.8 1.9 3.5 2.6 3.7-.9.2-1.9.5-1.9 1.6 0 1 .8 1.5 1.6 1.7-1.4.3-2.6 1-2.6 2.7 0 2.1 2.5 3 5 3 2.6 0 5.1-1.1 5.1-3.6-.1-1.8-1.2-2.4-2.9-2.7zm-5.4-6.4c0-1.6 1.2-2.5 2.8-2.5 2 0 2.8 1.4 2.8 2.5 0 1.5-1.1 2.7-2.9 2.7-1.4 0-2.7-1.2-2.7-2.7zm3.2 11.4c-1 0-3.5-.2-3.5-1.9 0-1.4 2.1-2 2.3-2l2.8.4c.9.1 1.8.3 1.8 1.3 0 1.5-2.1 2.2-3.4 2.2zm-8.2-16.6c.7 0 1.2-.6 1.2-1.3 0-.7-.6-1.3-1.2-1.3-.7 0-1.2.6-1.2 1.3 0 .7.5 1.3 1.2 1.3zm16.6 0c.7 0 1.2-.6 1.2-1.3 0-.7-.6-1.3-1.2-1.3-.7 0-1.2.6-1.2 1.3-.1.7.5 1.3 1.2 1.3zm55 0c.7 0 1.2-.6 1.2-1.3 0-.7-.6-1.3-1.2-1.3-.7 0-1.2.6-1.2 1.3-.1.7.5 1.3 1.2 1.3zm-99.2 5.5s.1.6 0 .9c-.1.2.4-.2.4-.4.1-.2-.1-.9-.4-.5zm-.8 2.1v.1c.1.1.1.2.1.2s.1 0 .1-.1v-.4l-.1.1s-.1 0-.1.1zm-3.1-13.7c-5.8 0-10.5 4.9-10.6 10.9v.3c.1 6 4.8 10.9 10.6 10.9s10.6-4.9 10.6-11.1c0-6.1-4.8-11-10.6-11zm5.2 8.9l.1-.4.1.4.4.1-.3.1-.2.3-.1-.3-.3-.1.3-.1zm-3.6-1.8l.2-.6.2.6.5.3-.5.2-.3.5-.2-.5-.5-.3.6-.2zm-3.1-4l.1-.3.1.3.2.1-.1.1-.2.3-.1-.3-.2-.1.2-.1zm-4.6 7l-.1-.3-.3-.2.3-.1.1-.5.2.4.3.2-.3.2-.2.3zm5.3 4.8l-.2.4-.2-.4-.4-.2.4-.2.2-.5.2.5.4.2-.4.2zm7.7 2.6s-.1-.4-.4-.2c-.3.2-.4.7-1.1.3 0 0-.1 0-.2.1-.8.2-1.1-.8-1.1-.8s-.1 0-.3-.2c-.2-.2-.1-.8 0-1.1l.2-.4-.9.9c0 .1 0 .2-.1.3-.1 0-.1 0-.2.1 0 .1.1.1.2.1s.1.5-.1.7c-.1-.2-.5-.3-.5-.4 0-.2-.1-.6 0-.8.1-.2.3-.2.3-.2l.7-.8-.3-.3c-.7 0-1.1-.8-1.1-.6 0 .1.1.8.1.8s0 .1.1.3c.1.2.2.4.2.5 0 .1-.4.4-.5.4-.2.1-.9.6-.9.6v.2h-.5s.1.3 0 .4c-.1.1-.7.2-.7.1l.1-.5c0-.1.2-.2.2-.2s.2 0 .3-.2c.1-.2.3-.2.3-.3.1-.1.9-.9 1-.9 0-.1 0-.3-.1-.5-.2-.2-.3-.2-.4-.4-.1-.2-.1-.3-.2-.4l-.5-.5c-.1-.1-.1-.5-.1-.7-1.8.5-2.6-.2-2.7 0v.3s-.5.7-.5.8c0 .1-.2.7-.2.7l-.1.1v.2c-.1.1-.6 1.1-.6 1.2 0 .2-.1.4-.2.5-.1.1-.3.1-.3.1s.1.2 0 .4c-.4.2-.8 0-.7-.2 0-.2.2-.4.3-.4.1-.1.2-.2.2-.3 0-.1.2-.1.3-.2l.3-.4c.1-.2.1-.3.1-.6s.1-.3.1-.4c0-.1 0-.3.1-.4 0-.5.2-1.2.2-1.2s-.1-.3-.3-.4c-.6.1-1.1-.4-1.2-.4-.1 0-.5 0-.4.2l.1.9c.1.3.3.4.3.5v.2-.1s0-.1.1 0c.2.2.3.3.2.7-.4.1-.6-.3-.7-.4-.1-.1-.1-.1-.1-.2l-.2-.1c-.1-.1 0-.4 0-.7 0-.2-.1-.7-.1-.8 0-.2-.1-.2-.1-.5s.1-.1.2-.3c.1-.2.3-.2.5-.2s1.1.1 1.1.1-.1-.8 0-1.3c0-.4.3-.3.4-.4 0-.1.1-1.1.1-1.3 0-.2.1-.7.3-1 .1-.3.2-.8.2-.8s.1-.2-.1.1c-.2.3-.9.2-1 .3-.1 0-.2.1-.2.2s-.2.1-.3.1c0 0 0-.1-.1-.1 0 0 0 .1-.3-.1-.2-.1 0-.3-.1-.4 0-.1 0-.1.1-.2l.3-.2.1-.2.2-.2.1-.1h.1s-.2-.2-.4 0c-.3.2-.4 0-.4 0 .1 0 .2-.1.3-.2 0-.1.2-.2.3-.2-.1 0-.1 0-.2-.1l-.2-.2c-.1 0-.1 0-.1-.1-.1 0-.1 0-.1-.1h-.1c-.2-.1-.2-.1-.3-.2-.1 0-.1 0-.1-.1h-.1c-.1 0-.1-.1-.1-.1h-.1c-.1 0-.1 0-.1-.1-.1 0-.1 0-.1-.1 0 0-.1 0-.1-.1 0 0-.1 0-.1-.1-.1 0-.1 0-.1-.1 0 0-.1 0-.1-.1-.3-.1-.4-.2-.4-.2-.1-.2.2 0 .2 0l.1.1s.1 0 .1.1c0 0 .1 0 .1.1 0 0 .1 0 .1.1.1 0 .1 0 .1.1.1 0 .1 0 .1.1.1 0 .1 0 .1.1h.1c.1 0 .1 0 .1.1.1 0 .1 0 .1.1.1 0 .1 0 .1.1h.1c.1 0 .1 0 .1.1.6 0 .7 0 .7.1h.1c.1 0 .1 0 .2.1h.1s-.2-.3.1-.5c.3-.1.5.4.7.3.3-.3-.1-.5-.1-.5s.3 0 .4.2c.1.3 0 .4 0 .4s.2 0 .2-.3c.1-.3-.2-.4-.3-.5 0 0 .5-.1.7.3 0 .2.1.4.1.5h.4c.1 0 .2.1.3.2l.3.3.2.3h.1c.1.1.2.1.3.1.1 0 .4.1.4.5.1.5.4.5.4.5s-.4.3-.6-.4c0 0-.1.1 0 .3l.1.4c0 .1.2.1.2.3 0 .2.2.2.2.2s-.3.2-.6-.2v.2c.1.3 0 .6 0 .9 0 .3-.1.7 0 .7.1.1.3.3.5.4.2.1.7.3.9.3.2 0 .6-.1 1.4 0 .8.1 1.5 1.2 1.5 1.2h.1c.1 0 .8-.2 1-.2.2 0 .8.2 1.2.5.3.2.6.7.8 1.5.2.7-.2 1.5-.7 2-.3.3-.4.5-.4.8 0 .1 0 .2.1.3.3.3.7.2.8-.1 0 0 0 .2-.1.3 0 0 .3-.1.4-.4 0 0-.1.6-.6.8-.4.1-.7 0-.7 0s0 .4.3.3c.3-.1.7-.3.9 0 .4.2.1.4.1.4z"></path>
+</svg>
+</div>
+</div>
+</div>
+<div class="breakPointM-width-50 breakPointM-display-tableCell breakPointM-verticalAlign-middle textAlign-center paddingBottom-l breakPointS-paddingBottom-xl breakPointM-padding-0">
+<img alt="The all-in-one enterprise design platform" class="display-block width-100" src="https://blog.marvelapp.com/wp-content/themes/marvel/assets/images/devices-new.png" srcset="https://blog.marvelapp.com/wp-content/themes/marvel/assets/images/devices-new@2x.png 2x" style="max-width: 638px" />
+</div>
+</div>
+</div>
+</footer>
+<div class="modal-overlay zi-max" id="contribute-to-blog">
+<div class="modal-container">
+<div class="display-table width-100 height-100">
+<div class="modal-icon-wrapper">
+<div class="js-close-modal modal-icon modal-icon--light modal-iconClose modal-iconClose--outside"></div>
+</div>
+<div class="display-tableCell verticalAlign-middle padding-m">
+<div class="modal modal--s modal--borderless">
+<div class="marginTop-s marginBottom-xs breakPointS-marginTop-0">
+<h3 class="c-slate lineHeight-l fontSize-xl fontWeight-5 textAlign-center">
+Contribute to the blog
+</h3>
+</div>
+<div class="marginBottom-l">
+<p class="c-silver textAlign-center fontWeight-3 fontSize-m lineHeight-m breakPointM-fontSize-l breakPointM-lineHeight-l">
+Got a great post you've written that would benefit our awesome community of 500,000 readers? Or maybe you've just got an idea in the works? Let us know!
+</p>
+</div>
+<form name="contribute">
+<div class="marginBottom-m name">
+<div class="width-100 uiIcon uiIcon--l">
+<input type="text" class="js-name width-100 input input--default input--l" spellcheck="false" name="name" placeholder="Your full name">
+<svg class="svgIcon fill-smoke--d" width="30" height="30" viewBox="0 -6 30 30" enable-background="new 0 -6 30 30">
+<path d="M22.9 16.2c.1-.1.1-.3.1-.4-.2-.8-.5-1.4-.9-1.9s-1-1-1.7-1.4c-.2-.1-.6-.3-1.3-.6-.6-.2-1.1-.4-1.4-.6-.3-.2-.6-.4-.7-.7-.1-.4.1-1 .5-1.7 1.5-2.3 1.8-4.3.8-5.9-.3-.6-.7-1.1-1.3-1.5-.6-.3-1.3-.5-2-.5s-1.4.2-2 .5c-.6.4-1.1.8-1.5 1.5-1 1.6-.7 3.6.8 5.9.5.7.7 1.3.5 1.7-.1.2-.2.4-.5.6-.2.2-.5.3-.7.4-.2.1-.5.2-.9.4-.6.3-1.1.4-1.3.6-.7.4-1.3.9-1.7 1.4-.2.4-.5 1-.7 1.8 0 .1 0 .3.1.4l.3.3c1.6.3 4.1.5 7.6.5 2.3 0 4.2-.1 5.8-.3.2 0 .4 0 .6-.1.2 0 .4-.1.5-.1l.3-.1h.30000000000000004c.2 0 .3-.1.4-.2z" />
+</svg>
+</div>
+<div class="error textAlign-center"></div>
+</div>
+<div class="marginBottom-m email">
+<div class="width-100 uiIcon uiIcon--l">
+<input class="js-email width-100 input input--default input--l" type="email" spellcheck="false" name="email" placeholder="Email address">
+<svg class="svgIcon fill-smoke--d" width="30" height="30" viewBox="0 -6 30 30" enable-background="new 0 -6 30 30">
+<path d="M15 11.9c-.9 0-1.7-.2-2.3-.7l-5.7-4.4v8.1c0 .1 0 .3.1.4.1.1.2.2.3.2 2.5.4 5 .5 7.5.5s5-.2 7.5-.5c.1 0 .3-.1.4-.2.2-.1.2-.3.2-.4v-8.1l-5.7 4.4c-.6.5-1.4.7-2.3.7zm-1.3-2.3c.3.3.8.4 1.3.4s1-.1 1.3-.4l6.1-4.7c.3-.3.5-.6.6-1v-.8c0-.1 0-.3-.1-.4-.1-.1-.2-.2-.4-.2-2.5-.3-5-.5-7.5-.5s-5 .2-7.5.5c-.1 0-.2.1-.3.2-.2.1-.2.3-.2.4v.9c.1.3.3.6.6 1l6.1 4.6z" />
+</svg>
+</div>
+<div class="error textAlign-center"></div>
+</div>
+<div class="marginBottom-m phone-number">
+<div class="input-tel--l">
+<input type="text" class="js-phone-number width-100 input input--default input--l input--tel" type="tel" spellcheck="false" name="phone-number" placeholder="Phone number">
+</div>
+<div class="error textAlign-center"></div>
+</div>
+<div class="marginBottom-m">
+<div>
+<textarea class="js-idea textarea textarea--default textarea--m" type="textarea" name="article-idea" placeholder="Your article idea in 100 words or less"></textarea>
+</div>
+<div class="error textAlign-center"></div>
+</div>
+<button id="contribute-button" type="submit" class="width-100 button button--l button--flat bg-blue display-block">
+Submit your idea
+</button>
+</form>
+<div id="contribute-success" class="position-absolute pinTL borderRadius-l bg-white zi-overlay concealed">
+<div class="display-table width-100 height-100">
+<div class="display-tableCell verticalAlign-middle">
+<div class="marginBottom-m">
+<div class="position-relative bg-green borderRadius-circle centered" style="width:100px; height:100px">
+<svg class="display-block position-absolute pinCenter fill-white" width="50" height="38" viewBox="0 0 50 38">
+<path d="M13.9 36.7l-12.2-11.7c-2.3-2.2-2.3-5.7 0-7.9l.1-.1c2.3-2.2 6-2.2 8.3 0l7 6.8 22.8-22.2c2.3-2.2 6-2.2 8.3 0l.1.1c2.3 2.2 2.3 5.7 0 7.9l-27.9 27c-1.8 1.8-4.7 1.8-6.5.1"></path>
+</svg>
+</div>
+</div>
+<div class="marginBottom-xs">
+<h3 class="c-slate fontSize-xl lineHeight-xl fontWeight-5 textAlign-center">
+Thank you!
+</h3>
+</div>
+<div class="paddingLeftRight-xl">
+<p class="fontSize-l fontWeight-3 lineHeight-l textAlign-center c-silver">
+Someone from our team will be in touch shortly.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+ </div>
+</div>
+</div>
+</div>
+<div class="modal-overlay zi-max" id="newsletter-modal">
+<div class="modal-container">
+<div class="display-table width-100 height-100">
+<div class="modal-icon-wrapper">
+<div class="js-close-modal modal-icon modal-icon--light modal-iconClose modal-iconClose--outside"></div>
+</div>
+<div class="display-tableCell verticalAlign-middle padding-m">
+<div class="modal modal--s modal--borderless">
+<div class="marginTop-s marginBottom-xs breakPointS-marginTop-0">
+<h3 class="c-slate lineHeight-l fontSize-xl fontWeight-5 textAlign-center">
+Looking for the best stories in the design world?
+</h3>
+</div>
+<div class="marginBottom-l">
+<p class="c-silver textAlign-center fontWeight-3 fontSize-m lineHeight-m breakPointM-fontSize-l breakPointM-lineHeight-l">
+We’ve got your back! Subscribe below and get them delivered right to your inbox every week.
+</p>
+</div>
+<form name="subscribe" class="js-newsletter-form">
+<div class="marginBottom-m">
+<div class="width-100 uiIcon uiIcon--l">
+<input class="js-newsletter-input input input--l input--default width-100" type="email" name="email" placeholder="Enter your email address to subscribe">
+<svg class="svgIcon fill-smoke--d" width="30" height="30" viewBox="0 -6 30 30">
+<path d="M15 11.9c-.9 0-1.7-.2-2.3-.7l-5.7-4.4v8.1c0 .1 0 .3.1.4.1.1.2.2.3.2 2.5.4 5 .5 7.5.5s5-.2 7.5-.5c.1 0 .3-.1.4-.2.2-.1.2-.3.2-.4v-8.1l-5.7 4.4c-.6.5-1.4.7-2.3.7zm-1.3-2.3c.3.3.8.4 1.3.4s1-.1 1.3-.4l6.1-4.7c.3-.3.5-.6.6-1v-.8c0-.1 0-.3-.1-.4-.1-.1-.2-.2-.4-.2-2.5-.3-5-.5-7.5-.5s-5 .2-7.5.5c-.1 0-.2.1-.3.2-.2.1-.2.3-.2.4v.9c.1.3.3.6.6 1l6.1 4.6z"></path>
+</svg>
+</div>
+</div>
+<div class="js-newsletter-error position-absolute fontSize-m linHeight-m c-negative" style="bottom: -35px; left: 0"></div>
+<button class="js-newsletter-link width-100 button button--flat button--l button--stateful bg-marvel" type="submit">
+<span>Subscribe Now</span>
+</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+
+<script type="text/javascript">
+(function(d,w) {
+w._hsq = w._hsq || [];
+w._hsq.push(["setContentType", "blog-post"]);
+})(document, window);
+</script>
+
+
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3308085.js"></script>
+
+<script type='text/javascript' src='https://blog.marvelapp.com/wp-content/themes/marvel/assets/main.min.js?ver=0.1'></script>
+<script type='text/javascript' src='https://blog.marvelapp.com/wp-includes/js/comment-reply.min.js?ver=4.8.9'></script>
+<script type='text/javascript' src='https://blog.marvelapp.com/wp-includes/js/wp-embed.min.js?ver=4.8.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"marvelapp"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.marvelapp.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.8.9'></script>
+
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:260784,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3308085.js"></script>
+
+</html>
+
+

@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Bienvenue à TECFA</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+ <meta name="HandheldFriendly" content="true" >
+ <meta name="MobileOptimized" content="320" >
+ <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scaleable=no, width=device-width" >
+ <link rel="stylesheet" type="text/css" href="/styles/tecfa-default-NEW.css" >
+ <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet"> 
+</head>
+
+<body style="box-shadow:none;">
+<!-- Changed by: Philippe Lemay, 22-Mar-1999 -->
+<!-- Changed by: D.K.S., 27-Sep-1999 -->
+<!-- Destroyed by: Bertrand, 4-Avril-2001 -->
+<!-- Changed by: VS, 8-Nov-2001 -->
+<!-- Changed by: Z, 1-Mar-2002 - mise à jour des news -->
+<!-- Changed by: MB, 28-Avr-2005 -->
+<!-- Changed by: DKS, 21-oct-2005 -->
+<!-- Changed by: MB, 9-jan-2008 -->
+<h1 style="display: none;">TECFA - Université de Genève</h1>
+
+<!--=======================================================-->
+<!--TECFA HEADER LOGO+NAV LINK-->
+<!--=======================================================-->
+<table cellpadding="0" cellspacing="0" width="100%" id="header">
+<tbody>
+<tr style="max-width:1380px;margin: auto;display: block;">
+  <td>
+
+    <a href="/welcome.html" style="text-decoration:none; border-bottom: none;"><img alt="Tecfa-Affiche" src="/gif/TECFAlogoCol_765×393.png" id="logo" class="noSmallScreen nosmartphone"></a>
+    <a href="/welcome.html" style="text-decoration:none; border-bottom: none;"><img alt="Tecfa-Affiche" src="/gif/server/TECFA_white.png" id="logo" class="displaySmartphone displaySmallScreen"></a>
+      <a href="https://www.unige.ch/fapse/" style="text-decoration:none;border-bottom: none;"><img alt="Tecfa-Affiche" src="/gif/server/fapse70.png" id="logo2" class="noSmallScreen nosmartphone"></a>
+  </td>
+  <td style="text-align:right;">
+<div style="display:inline-block;padding:2px 0px;font-size:0.9em;"><a class="navi" href="http://tecfaetu.unige.ch/">TecfaEtu</a>&nbsp;&nbsp;</div><br>
+<div style="display:inline-block;padding:2px 0px;font-size:0.9em;"> <a class="navi" href="http://tecfalms.unige.ch/moodle">Tecfa LMS</a>&nbsp;&nbsp;</div><br>
+<div style="display:inline-block;padding:2px 0px;font-size:0.9em;"> <a class="navi" href="http://edutechwiki.unige.ch/en/">EdutechWiki</a>&nbsp;&nbsp;</div><br>
+<div style="display:inline-block;padding:2px 0px;font-size:0.9em;"><a class="navi" href="https://tecfa.unige.ch/intranet/">Intranet</a>&nbsp;&nbsp;</div>
+</td>
+</tbody>
+</table>
+<!--=======================================================-->
+<!--MENU-->
+<!--=======================================================-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" id="computerMenu">
+<tbody>
+<tr style="text-align:center;">
+	<td class="emptyCell"></td>
+	<td class="tab blueTab">
+		<a class="navi2" href="/welcome.html.en">Home</a>
+	</td>
+	<td class="tab greenTab">
+		<a class="navi2" href="/tecfa-people/tecfa-people.html">People</a>
+	</td>
+	<td class="tab orangeTab">
+		<a class="navi2" href="/tecfa/teaching/teaching-overview.html">Teaching</a>
+	</td>
+	<td class="tab purpleTab">
+		<a class="navi2" href="/tecfa/research/research-overview.html">Research projects</a>
+	</td>
+	<td class="emptyCell"></td>
+</tr>
+</tbody>
+</table>
+
+<!-- Menu for small screen and smartphone-->
+<!--=======================================================-->
+<table border="0" cellpadding="1px" cellspacing="0" width="100%" id="smallMenu">
+<tbody>
+<tr style="text-align:center;">
+	<td class="tab blueTab" style="box-shadow:0px 2px 1px -1px rgba(0, 0, 0, 1) inset;">
+		<a class="navi2" href="/welcome.html.en">Home</a>
+	</td>
+	<td class="tab greenTab" style="box-shadow:0px 2px 1px -1px rgba(0, 0, 0, 1) inset;">
+		<a class="navi2" href="/tecfa-people/tecfa-people.html">People</a>
+	</td>
+</tr>
+<tr style="text-align:center;">
+	<td class="tab orangeTab">
+		<a class="navi2" href="/tecfa/teaching/teaching-overview.html">Teaching</a>
+	</td>
+	<td class="tab purpleTab">
+		<a class="navi2" href="/tecfa/research/research-overview.html">Research projects</a>
+	</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="1px" cellspacing="0" width="100%" id="smartphoneMenu">
+<tbody>
+<tr style="text-align:center;">
+	<td class="blueTab" style="box-shadow:0px 2px 1px -1px rgba(0, 0, 0, 1) inset;">
+		<a class="navi2" href="/welcome.html.en">Home</a>
+	</td>
+	</tr>
+	<tr>
+	<td class="greenTab">
+		<a class="navi2" href="/tecfa-people/tecfa-people.html">People</a>
+	</td>
+</tr>
+<tr style="text-align:center;">
+	<td class="orangeTab">
+		<a class="navi2" href="/tecfa/teaching/teaching-overview.html">Teaching</a>
+	</td>
+		</tr>
+	<tr>
+	<td class="purpleTab">
+		<a class="navi2" href="/tecfa/research/research-overview.html">Research projects</a>
+	</td>
+</tr>
+</tbody>
+</table>
+
+<!--=======================================================-->
+<!--PAGE CONTENT-->
+<!--=======================================================-->
+
+<div class="container" style="border-radius: 5px 5px 0 0">
+<div style="display:inline-block;float:right;padding:5px;font-size:0.8em;">
+		<!--<a  style="text-decoration:none;" href="http://tecfa.unige.ch/welcome.html"><img alt="search" style="vertical-align:middle;" src="/gif/server/blue-home.png" height="14"><b style="vertical-align:middle;"> HOME</b></a>&nbsp;&nbsp;
+		<a  style="text-decoration:none;" href="/navi/search.html"><img alt="search" style="vertical-align:middle;" src="/gif/server/search.png" height="15" width="15"><b style="vertical-align:middle;"> SEARCH</b></a>&nbsp;&nbsp;-->
+		<a style="text-decoration:none;" href="welcome.html.fr"><img alt="Francais" style="vertical-align:middle;" src="/gif/server/francais.png" height="15" width="15"><b style="vertical-align:middle;"> FR</b></a>
+	</div>
+		<br>
+		<br>
+		<table align="center" border="0" cellpadding="5" cellspacing="3" width="100%">
+		<tbody>
+		<tr>
+			<td>
+				<p style="text-align:justify; margin-top:20px;font-size:1.4em;color:#333;">
+				TECFA is an academic unit in the field of  <b>educational technology</b>, belonging to the <a href="http://www.unige.ch/fapse/index.html" class="niceLink">School of Psychology and Education</a> - <a href="http://www.unige.ch/fapse/index.html" class="niceLink"> University of Geneva</a>.				
+				</p>
+			</td>
+		</tr>
+		</tbody>
+		</table>
+	<h1 style="font-size:1.8em;line-height:2em;">INFORMATION</h1>
+	<table align="center" cellpadding="5" cellspacing="3" width="100%"  style="text-align: justify; ">
+	<tbody>
+	<tr>
+		<td class="noSmartphone noSmallScreen">
+			<img alt="event" src="/gif/server/laser-cutting.png" height="40" width="40">
+		</td>
+		<td>
+TECFA exhibits <a href="http://tecfa.unige.ch/salon18">Computerized embroidery in education</a>: 32e <a href="http://www.salondulivre.ch/fr/pages/welcome-to-the-english-page-of-the-geneva-book-and-press-fair-12636"> Salon du livre</a> (<a href="http://tecfaetu.unige.ch/stic3-4/salon-livre-2018/flyer_salonlivre2018.pdf"> flyer PDF</a>, April 25-29) and <a href="http://institutions.ville-geneve.ch/fr/mhn/votre-visite/site-du-musee-dhistoire-des-sciences/evenements/nuit-de-la-science/">nuit de la science</a> (July 7 and 8). 
+
+		</td>
+	</tr>	
+	  <!--
+		<tr>
+			<td class="noSmartphone noSmallScreen">
+				<img alt="job" src="/gif/server/job.png" height="40" width="40">
+			</td>
+			<td>
+Assistant professor (tenure track) in the use of learning technology and innovation in education and continuing education. <b>Application deadline:</b> December 20, 2016. <a href="tecfa/annonces/Prof-TECFA-2016-EnglishDescriptionFinal.pdf">Job annoncement</a> (PDF) - <a href="http://tecfa.unige.ch/tecfa/annonces/Annonce-PAST-TECFAUNID-complete.pdf">Annonce officielle</a> (PDF). 
+		</td>
+		</tr>
+	-->
+	<tr>
+		<td class="noSmartphone noSmallScreen">
+			<img alt="Tecfa-Affiche" src="/gif/server/edutechwiki.png" height="30" width="40">
+		</td>
+		<td>
+			<a href="http://edutechwiki.unige.ch/en/">EduTech Wiki</a>: visit and contribute to our wiki on Educational Technology and related fields
+		</td>
+	</tr>
+	<tr>
+		<td class="noSmartphone noSmallScreen">
+			<img alt="Tecfa-Affiche" src="/gif/server/research.png" height="40" width="40">
+		</td>
+		<td>
+			Research at TECFA : : <a href="http://tecfa.unige.ch/tecfa/research/research-overview.html#phd">Phd projects</a>
+		</td>
+	</tr>
+	<tr><td class="noSmartphone noSmallScreen" style="width:40px;text-align:center;vertical-align:top;padding-top:10px;">
+			<img alt="Tecfa-Affiche" src="/gif/server/diplome.png" height="40" width="40">
+		</td>
+		<td>
+			<a href="http://tecfalabs.unige.ch/maltt/">Next Master Maltt thesis defences</a>
+		</td>
+	</tr>
+	</tbody>
+	</table>	
+<br><br>
+<!--Les 3 blocs de couleurs homepage-->
+<div style="text-align: center;">
+	<a href="/tecfa/tecfa-overview.html" class="blockLink blue">
+		<img src="/gif/server/tecfaLogoMini.png">
+		<p>Tecfa unit</p>
+	</a>
+	<a href="http://edutechwiki.unige.ch/fr/Jeudi_du_jeu" class="blockLink green">
+		<img src="/gif/server/iconJeudiJeu.png">
+		<p>Jeudi du Jeu	</p>
+	</a>
+	<a href="tecfa/brownbags/welcome.htm" class="blockLink orange">
+		<img src="/gif/server/BrownBagApple23.png">
+		<p>Brownbag Seminars</p>
+	</a>
+</div>
+<!---->
+</div>
+<div class="container" style="border-radius: 0 0 5px 5px; margin-bottom: 50px;">
+	<h1 style="font-size:1.8em;line-height:2em;">EDUCATION</h1>
+	<table align="center" cellpadding="5" cellspacing="3" width="100%"  style="text-align: justify; ">
+	<tbody>
+	<tr>
+		<td style="width:40px;text-align:center;vertical-align:top;padding-top:10px;" class="noSmartphone noSmallScreen">
+			<span class="arrowBlue"></span>
+		</td>
+		<td>
+			<a href="http://tecfa.unige.ch/maltt">MSc MALTT :</a><br>
+			 <i>Master of Science in Learning and Teaching Technologies (educational technology, e-learning, interactive multimedia, ICT in education, ....). Applications should be sent by April 30 (1st session). </i>
+		</td>
+	</tr>
+	<tr>
+		<td style="width:40px;text-align:center;vertical-align:top;padding-top:10px;" class="noSmartphone noSmallScreen">
+			<span class="arrowBlue"></span>
+		</td>
+		<td>
+			<a href="http://www.unige.ch/formcont/elearning.html" title="Certificat en conception et développement de projets e-learning" target="_blank">Continuing Education </a> : <br>
+			<i>CAS en Conception et développement de projets e-learning - 4 modules, with or without project development and evaluation, 14  ECTS credits. Introduction: Développer des compétences pour les nouveaux dispositifs de formation en ligne, choice of 2 out of 3 of the following modules: Conception de dispositif de formation e-learning, Techniques de la formation en ligne, Gestion et suivi de la formation en ligne. Modules run from October to December and from March to June.</i></td>
+	</tr>
+	<!--
+	<tr>
+		<td style="width:40px;text-align:center;vertical-align:top;padding-top:10px;" class="noSmartphone noSmallScreen">
+			<span class="arrowBlue"></span>
+		</td>
+		<td>
+			<a href="http://edutechwiki.unige.ch/fr/Webmaster_Flash">Animation et interaction avec Animate CC</a><br>
+			<i>Atelier de formation continue, 5 journées intensives </i>
+		</td>
+	</tr>
+	-->
+	<tr>
+		<td style="width:40px;text-align:center;vertical-align:top;padding-top:10px;" class="noSmartphone noSmallScreen">
+			<span class="arrowBlue"></span>
+		</td>
+		<td>
+			<a href="/tecfa/teaching/acredite" target="blank">Master Acredite</a>
+			<i>Postgraduate diploma UTICEF : Utilisation des Technologies de l'Information et de la Communication dans l'Enseignement et la Formation</i>
+		</td>
+	</tr>
+	<!-- START FLash a trasher - c'est un gag qu'on laisse pour le Weekend <tr> <td colspan="2" bgcolor="#000033"> <embed src="/guides/flash/ex/flint/flint-blue-fire-logo.swf" quality="high" bgcolor="#000033" width="600" height="270" name="flint-fire-ad" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">Techniques de la formation en ligne </embed> </td> </tr> END FLash a trasher -->
+	</tbody>
+	</table>
+</div>
+<!--=======================================================-->
+<!--FOOTER-->
+<!--=======================================================-->
+<div style="width:100%;display:block;text-align:center; border-top:1px solid rgb(238,238,238);margin-top:20px;background-color:#333;">
+	<div style="display: inline-block;margin: 50px;padding: 0 30px;border-radius: 20px;color:#f1f1f1;">
+
+		<div style="display:inline-block;vertical-align:middle;">
+		<img src="/gif/TECFABlancsmall.png" style="width:150px;" alt="Faculté de Psychologie et des Sciences de l'Education - Université de Genève" align="left" border="0" width="200">
+		</div>
+		<div style="display:inline-block;padding: 15px;font-size: 0.9em;vertical-align:middle;color:#f1f1f1;">
+		<b> Adress :</b> TECFA - FPSE, 42 bd Pont-d'Arve, CH-1211 Geneva 4, Switzerland. <br>
+		<b>Office :</b> Uni Pignon, 5th floor (<a href="http://www.unige.ch/presse/static/plan/mail.html">(How to get there)</a><br>
+		<b>Mailing Address : </b> TECFA - FPSE, 40 bd Pont-d'Arve, CH-1211 Geneva 4, Switzerland<br>
+		<b>Secretariat:</b> (41) 022 379 93 20
+		</div>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hypercalculia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hypercalculia","wgTitle":"Hypercalculia","wgCurRevisionId":882990828,"wgRevisionId":882990828,"wgArticleId":55536169,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","CS1 maint: Uses editors parameter","All stub articles","Cognitive psychology","Cognitive neuroscience","Developmental neuroscience","Developmental psychology","Psychiatric diagnosis","Spectrum disorders","Symptoms and signs: Nervous system","Cognitive psychology stubs","Developmental psychology stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hypercalculia","wgRelevantArticleId":55536169,"wgRequestId":"XLHwugpAAEMAAJWZ4ogAAAAE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q55614132","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hypercalculia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hypercalculia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hypercalculia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hypercalculia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hypercalculia rootpage-Hypercalculia skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Hypercalculia</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/hypercalculia" class="extiw" title="wiktionary:Special:Search/hypercalculia">hypercalculia</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<p><b>Hypercalculia</b> is "a specific <a href="/wiki/Developmental_psychology" title="Developmental psychology">developmental</a> condition in which the ability to perform <a href="/wiki/Mathematics" title="Mathematics">mathematical</a> calculations is significantly superior to general learning ability and to school attainment in maths."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> A 2002 <a href="/wiki/Neuroimaging" title="Neuroimaging">neuroimaging</a> study of a child with hypercalculia suggested greater brain volume in the right <a href="/wiki/Temporal_lobe" title="Temporal lobe">temporal lobe</a>. Serial <a href="/wiki/Single-photon_emission_computed_tomography" title="Single-photon emission computed tomography">SPECT</a> scans revealed hyperperfusion over right <a href="/wiki/Parietal_lobe" title="Parietal lobe">parietal areas</a> during performance of arithmetic tasks.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Math_and_reading_achievement_profiles_in_autistic_individuals"><span class="tocnumber">1</span> <span class="toctext">Math and reading achievement profiles in autistic individuals</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Math_and_reading_achievement_profiles_in_autistic_individuals">Math and reading achievement profiles in autistic individuals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hypercalculia&amp;action=edit&amp;section=1" title="Edit section: Math and reading achievement profiles in autistic individuals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Children at any age may be stronger in language or in mathematics, but very rarely in both. Autistic children are no different. A study published in 2014 examined the reading and math achievement profiles and their changes over time looking at a sample of children between the ages 6-9 with an <a href="/wiki/Autism_spectrum" title="Autism spectrum">autism spectrum disorder</a>. What they found was that there are four distinct achievement profiles: higher-achieving (39%), hyperlexia (9%), hypercalculia (20%) and lower-achieving (32%).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> A previous study of 2009 had estimated at 16.2% the rate of hypercalculia in ASD adolescents.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hypercalculia&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Acalculia" title="Acalculia">Acalculia</a></li>
+<li><a href="/wiki/Dyscalculia" title="Dyscalculia">Dyscalculia</a></li>
+<li><a href="/wiki/Mental_calculator" title="Mental calculator">Mental calculator</a></li>
+<li><a href="/wiki/Numerical_cognition" title="Numerical cognition">Numerical cognition</a></li>
+<li><a href="/wiki/Savant_syndrome" title="Savant syndrome">Savant syndrome</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hypercalculia&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Boucher, Jill M. (2017). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dnoEDgAAQBAJ&amp;printsec=frontcover"><i>Autism Spectrum Disorder. Characteristics, Causes and Practical Issues</i></a>. <a href="/wiki/Thousand_Oaks,_California" title="Thousand Oaks, California">Thousand Oaks, California</a>: <a href="/wiki/SAGE_Publications" class="mw-redirect" title="SAGE Publications">SAGE</a>. p.&#160;<a rel="nofollow" class="external text" href="https://books.google.com/books?id=dnoEDgAAQBAJ&amp;pg=PA284&amp;&amp;dq=%22A+specific+developmental+condition+in+which+the+ability+to+perform+mathematical+calculations+is+significantly+superior+to+general+learning+ability+and+to+school+attainment+in+maths%22">284</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-47398699-0" title="Special:BookSources/1-47398699-0">1-47398699-0</a>. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-473-98699-2" title="Special:BookSources/978-1-473-98699-2">978-1-473-98699-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Autism+Spectrum+Disorder.+Characteristics%2C+Causes+and+Practical+Issues&amp;rft.place=Thousand+Oaks%2C+California&amp;rft.pages=284&amp;rft.pub=SAGE&amp;rft.date=2017&amp;rft.isbn=1-47398699-0&amp;rft.aulast=Boucher&amp;rft.aufirst=Jill+M.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdnoEDgAAQBAJ%26printsec%3Dfrontcover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercalculia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">González-Garrido, Andrés Antonio <a href="/wiki/Et_al." class="mw-redirect" title="Et al.">et al.</a> (November–December 2002). "Hypercalculia in savant syndrome: central executive failure?". <i>Archives of Medical Research</i>. <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>. <b>33</b> (6): 586–589. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0188-4409%2802%2900404-6">10.1016/S0188-4409(02)00404-6</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12505107">12505107</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Archives+of+Medical+Research&amp;rft.atitle=Hypercalculia+in+savant+syndrome%3A+central+executive+failure%3F&amp;rft.volume=33&amp;rft.issue=6&amp;rft.pages=586-589&amp;rft.date=2002-11%2F2002-12&amp;rft_id=info%3Adoi%2F10.1016%2FS0188-4409%2802%2900404-6&amp;rft_id=info%3Apmid%2F12505107&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercalculia" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wei, Xin; Christiano, Elizabeth RA; Yu, Jennifer W.; Wagner, Mary; Spiker, Donna (February 1, 2015) [January 21, 2014]. <a rel="nofollow" class="external text" href="https://www.researchgate.net/profile/Xin_Wei6/publication/259847841_Reading_and_math_achievement_profiles_and_longitudinal_growth_trajectories_of_children_with_an_autism_spectrum_disorder/links/02e7e52e7cdc79d2d8000000.pdf">"Reading and math achievement profiles and longitudinal growth trajectories of children with an autism spectrum disorder"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/Autism_(journal)" title="Autism (journal)">Autism</a></i>. SAGE. <b>19</b> (2): 200–210. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F1362361313516549">10.1177/1362361313516549</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24449604">24449604</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autism&amp;rft.atitle=Reading+and+math+achievement+profiles+and+longitudinal+growth+trajectories+of+children+with+an+autism+spectrum+disorder&amp;rft.volume=19&amp;rft.issue=2&amp;rft.pages=200-210&amp;rft.date=2015-02-01&amp;rft_id=info%3Adoi%2F10.1177%2F1362361313516549&amp;rft_id=info%3Apmid%2F24449604&amp;rft.aulast=Wei&amp;rft.aufirst=Xin&amp;rft.au=Christiano%2C+Elizabeth+RA&amp;rft.au=Yu%2C+Jennifer+W.&amp;rft.au=Wagner%2C+Mary&amp;rft.au=Spiker%2C+Donna&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FXin_Wei6%2Fpublication%2F259847841_Reading_and_math_achievement_profiles_and_longitudinal_growth_trajectories_of_children_with_an_autism_spectrum_disorder%2Flinks%2F02e7e52e7cdc79d2d8000000.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercalculia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jones, Catherine R. G.; <a href="/wiki/Francesca_Happ%C3%A9" title="Francesca Happé">Happé, Francesca</a>; Golden, Hannah; Marsden, Anita J. S.; Tregay, Jenifer; <a href="/wiki/Emily_Simonoff" title="Emily Simonoff">Simonoff, Emily</a>; Pickles, Andrew; Baird, Gillian; Charman, Tony (November 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171208210042/https://core.ac.uk/download/pdf/83131.pdf">"Reading and arithmetic in adolescents with autism spectrum disorders: Peaks and dips in attainment"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/Neuropsychology_(journal)" title="Neuropsychology (journal)">Neuropsychology</a></i>. <a href="/wiki/American_Psychological_Association" title="American Psychological Association">American Psychological Association</a>. <b>23</b> (6): 718–728. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2Fa0016360">10.1037/a0016360</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19899830">19899830</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neuropsychology&amp;rft.atitle=Reading+and+arithmetic+in+adolescents+with+autism+spectrum+disorders%3A+Peaks+and+dips+in+attainment&amp;rft.volume=23&amp;rft.issue=6&amp;rft.pages=718-728&amp;rft.date=2009-11&amp;rft_id=info%3Adoi%2F10.1037%2Fa0016360&amp;rft_id=info%3Apmid%2F19899830&amp;rft.aulast=Jones&amp;rft.aufirst=Catherine+R.+G.&amp;rft.au=Happ%C3%A9%2C+Francesca&amp;rft.au=Golden%2C+Hannah&amp;rft.au=Marsden%2C+Anita+J.+S.&amp;rft.au=Tregay%2C+Jenifer&amp;rft.au=Simonoff%2C+Emily&amp;rft.au=Pickles%2C+Andrew&amp;rft.au=Baird%2C+Gillian&amp;rft.au=Charman%2C+Tony&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20171208210042%2Fhttps%3A%2F%2Fcore.ac.uk%2Fdownload%2Fpdf%2F83131.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercalculia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Dilly, Laura J.; Hall, Christine M. (2018). <a rel="nofollow" class="external text" href="https://books.google.com/?id=YVlxDwAAQBAJ&amp;pg=PT182&amp;dq=%22Early+Numeracy+and+Math+Calculation%22">"Early Numeracy and Math Calculation"</a>. <a rel="nofollow" class="external text" href="https://books.google.com/?id=YVlxDwAAQBAJ&amp;printsec=frontcover"><i>Autism Spectrum Disorder Assessment in Schools</i></a>. <a href="/wiki/Abingdon-on-Thames" title="Abingdon-on-Thames">Abingdon-on-Thames</a>: <a href="/wiki/Routledge" title="Routledge">Routledge</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-35124243-1" title="Special:BookSources/1-35124243-1">1-35124243-1</a>. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-351-24243-1" title="Special:BookSources/978-1-351-24243-1">978-1-351-24243-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Early+Numeracy+and+Math+Calculation&amp;rft.btitle=Autism+Spectrum+Disorder+Assessment+in+Schools&amp;rft.place=Abingdon-on-Thames&amp;rft.pub=Routledge&amp;rft.date=2018&amp;rft.isbn=1-35124243-1&amp;rft.aulast=Dilly&amp;rft.aufirst=Laura+J.&amp;rft.au=Hall%2C+Christine+M.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DYVlxDwAAQBAJ%26pg%3DPT182%26dq%3D%2522Early%2BNumeracy%2Band%2BMath%2BCalculation%2522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercalculia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hypercalculia&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation journal"><a href="/wiki/Alexis_Lemaire" title="Alexis Lemaire">Alexis Lemaire</a>; Francis Rousseaux (September 2009). "Hypercalculia for the mind emulation". <i><a href="/wiki/AI_%26_Society" title="AI &amp; Society">AI &amp; Society</a></i>. <a href="/wiki/Springer_Publishing" title="Springer Publishing">Springer</a>. <b>24</b> (2): 191–196. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs00146-009-0187-4">10.1007/s00146-009-0187-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AI+%26+Society&amp;rft.atitle=Hypercalculia+for+the+mind+emulation&amp;rft.volume=24&amp;rft.issue=2&amp;rft.pages=191-196&amp;rft.date=2009-09&amp;rft_id=info%3Adoi%2F10.1007%2Fs00146-009-0187-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercalculia" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Joel E. Morgan; Joseph H. Ricker, eds. (2016) [<a rel="nofollow" class="external text" href="https://books.google.com/books?id=eYxdAAAACAAJ">2008</a>]. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=WMWjCwAAQBAJ&amp;pg=PT587&amp;dq=%22Hypercalculia+and+calendar+calculation%22">"Hypercalculia and calendar calculation"</a>. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=WMWjCwAAQBAJ&amp;printsec=frontcover"><i>Textbook of Clinical Neuropsychology</i></a>. <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-13498205-4" title="Special:BookSources/1-13498205-4">1-13498205-4</a>. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-134-98205-9" title="Special:BookSources/978-1-134-98205-9">978-1-134-98205-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Hypercalculia+and+calendar+calculation&amp;rft.btitle=Textbook+of+Clinical+Neuropsychology&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=2016&amp;rft.isbn=1-13498205-4&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DWMWjCwAAQBAJ%26pg%3DPT587%26dq%3D%2522Hypercalculia%2Band%2Bcalendar%2Bcalculation%2522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHypercalculia" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Pervasive_developmental_disorders_and_autism_spectrum_(F84,_299)" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Pervasive_developmental_disorders" title="Template:Pervasive developmental disorders"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pervasive_developmental_disorders" title="Template talk:Pervasive developmental disorders"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pervasive_developmental_disorders&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Pervasive_developmental_disorders_and_autism_spectrum_(F84,_299)" style="font-size:114%;margin:0 4em"><a href="/wiki/Pervasive_developmental_disorder" title="Pervasive developmental disorder">Pervasive developmental disorders</a> and <a href="/wiki/Autism_spectrum" title="Autism spectrum">autism spectrum</a> (<a href="/wiki/ICD-10_Chapter_V:_Mental_and_behavioural_disorders" title="ICD-10 Chapter V: Mental and behavioural disorders">F84</a>, <a href="/wiki/List_of_ICD-9_codes_290%E2%80%93319:_mental_disorders#Other_psychoses_(295–299)" title="List of ICD-9 codes 290–319: mental disorders">299</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Main</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Causes_of_autism" title="Causes of autism">Causes</a></li>
+<li><a href="/wiki/Conditions_comorbid_to_autism_spectrum_disorders" title="Conditions comorbid to autism spectrum disorders">Comorbid conditions</a></li>
+<li><a href="/wiki/Epidemiology_of_autism" title="Epidemiology of autism">Epidemiology</a></li>
+<li><a href="/wiki/Heritability_of_autism" title="Heritability of autism">Heritability</a></li>
+<li><a href="/wiki/Societal_and_cultural_aspects_of_autism" title="Societal and cultural aspects of autism">Societal and cultural aspects</a></li>
+<li><a href="/wiki/Medical_model_of_autism" title="Medical model of autism">Medical model</a></li>
+<li><a href="/wiki/Autism_therapies" title="Autism therapies">Therapies</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Diagnoses</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autism_spectrum" title="Autism spectrum">Autism spectrum</a> (<a href="/wiki/High-functioning_autism" title="High-functioning autism">High-functioning autism</a></li>
+<li><a href="/wiki/Autism" title="Autism">Classic Autism</a></li>
+<li><a href="/wiki/Asperger_syndrome" title="Asperger syndrome">Asperger syndrome</a></li>
+<li><a href="/wiki/Pervasive_developmental_disorder_not_otherwise_specified" title="Pervasive developmental disorder not otherwise specified">Pervasive developmental disorder not otherwise specified</a></li>
+<li><a href="/wiki/Childhood_disintegrative_disorder" title="Childhood disintegrative disorder">Childhood disintegrative disorder</a></li>
+<li><a href="/wiki/Rett_syndrome" title="Rett syndrome">Rett syndrome</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related conditions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alexithymia" title="Alexithymia">Alexithymia</a></li>
+<li><a href="/wiki/Attention_deficit_hyperactivity_disorder" title="Attention deficit hyperactivity disorder">Attention deficit hyperactivity disorder</a></li>
+<li><a href="/wiki/Anxiety_disorder" title="Anxiety disorder">Anxiety disorder</a> (<a href="/wiki/Obsessive%E2%80%93compulsive_disorder" title="Obsessive–compulsive disorder">obsessive–compulsive disorder</a>)</li>
+<li><a href="/wiki/Late_talker" title="Late talker">Late talker</a></li>
+<li><a href="/wiki/Epilepsy" title="Epilepsy">Epilepsy</a></li>
+<li><a href="/wiki/Fragile_X_syndrome" title="Fragile X syndrome">Fragile X syndrome</a></li>
+<li><a href="/wiki/Hyperlexia" title="Hyperlexia">Hyperlexia</a></li>
+<li><a href="/wiki/Savant_syndrome" title="Savant syndrome">Savant syndrome</a></li>
+<li><a href="/wiki/Sensory_processing_disorder" title="Sensory processing disorder">Sensory processing disorder</a></li>
+<li><a href="/wiki/Intellectual_disability" title="Intellectual disability">Intellectual disability</a></li>
+<li><a href="/wiki/Developmental_coordination_disorder" title="Developmental coordination disorder">Developmental coordination disorder</a></li>
+<li><a href="/wiki/Multiple_complex_developmental_disorder" title="Multiple complex developmental disorder">Multiple complex developmental disorder</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Controversies_in_autism" title="Controversies in autism">Controversies</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autism_rights_movement" title="Autism rights movement">Autism rights movement</a></li>
+<li><a href="/wiki/Autistic_enterocolitis" title="Autistic enterocolitis">Autistic enterocolitis</a></li>
+<li><a href="/wiki/Facilitated_communication" title="Facilitated communication">Facilitated communication</a></li>
+<li><a href="/wiki/MMR_vaccine_and_autism" title="MMR vaccine and autism">MMR vaccine</a></li>
+<li><a href="/wiki/Thiomersal_and_vaccines" title="Thiomersal and vaccines">Thiomersal</a> (<a href="/wiki/Chelation_therapy" title="Chelation therapy">Chelation</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Diagnostic scales</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gilliam_Asperger%27s_disorder_scale" title="Gilliam Asperger&#39;s disorder scale">Gilliam Asperger's disorder scale</a></li>
+<li><a href="/wiki/Autism_Diagnostic_Observation_Schedule" title="Autism Diagnostic Observation Schedule">Autism Diagnostic Observation Schedule</a></li>
+<li><a href="/wiki/Autism_Diagnostic_Interview" title="Autism Diagnostic Interview">Autism Diagnostic Interview</a></li>
+<li><a href="/wiki/Autism-spectrum_quotient" title="Autism-spectrum quotient">Autism-spectrum quotient</a></li>
+<li><a href="/wiki/Childhood_Autism_Rating_Scale" title="Childhood Autism Rating Scale">Childhood Autism Rating Scale</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Outline_of_autism" title="Outline of autism">Autism-related topics</a></li>
+<li><a href="/wiki/List_of_autistic_fictional_characters" title="List of autistic fictional characters">Fictional characters</a></li>
+<li><a href="/wiki/List_of_schools_for_people_on_the_autistic_spectrum" title="List of schools for people on the autistic spectrum">Schools</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/File:Autism-stacking-cans_2nd_edit.jpg" class="image"><img alt="Autism-stacking-cans 2nd edit.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Autism-stacking-cans_2nd_edit.jpg/12px-Autism-stacking-cans_2nd_edit.jpg" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Autism-stacking-cans_2nd_edit.jpg/17px-Autism-stacking-cans_2nd_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Autism-stacking-cans_2nd_edit.jpg/23px-Autism-stacking-cans_2nd_edit.jpg 2x" data-file-width="409" data-file-height="559" /></a> <a href="/wiki/Portal:Pervasive_developmental_disorders" title="Portal:Pervasive developmental disorders"><b>Portal</b></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Autism_resources" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Autism_resources" title="Template:Autism resources"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Autism_resources" title="Template talk:Autism resources"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Autism_resources&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Autism_resources" style="font-size:114%;margin:0 4em"><a href="/wiki/Autism" title="Autism">Autism</a> resources</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Autism&amp;#10;**_outline&amp;#10;**_spectrum">
+<ul><li><a href="/wiki/Autism" title="Autism">Autism</a>
+<ul><li><a href="/wiki/Outline_of_autism" title="Outline of autism">outline</a></li>
+<li><a href="/wiki/Autism_spectrum" title="Autism spectrum">spectrum</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Awareness</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autism_friendly" title="Autism friendly">Autism friendly</a></li>
+<li><a href="/wiki/Autism_Sunday" title="Autism Sunday">Autism Sunday</a></li>
+<li><a href="/wiki/Communication_Shutdown" title="Communication Shutdown">Communication Shutdown</a></li>
+<li><a href="/wiki/World_Autism_Awareness_Day" title="World Autism Awareness Day">World Autism Awareness Day</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Culture</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autistic_art" title="Autistic art">Autistic art</a></li>
+<li><a href="/wiki/Autism_spectrum_disorders_in_the_media" title="Autism spectrum disorders in the media">Autism spectrum disorders in the media</a></li>
+<li><a href="/wiki/List_of_autistic_fictional_characters" title="List of autistic fictional characters">Fictional characters</a></li>
+<li><a href="/wiki/List_of_films_about_autism" title="List of films about autism">Films about autism</a></li>
+<li><a href="/wiki/Circle_of_Friends_(disabled_care)" title="Circle of Friends (disabled care)">Circle of Friends</a></li>
+<li><a href="/wiki/Neurodiversity" title="Neurodiversity">Neurodiversity</a></li>
+<li><a href="/wiki/Medical_model_of_autism" title="Medical model of autism">Medical model of autism</a></li>
+<li><a href="/wiki/Societal_and_cultural_aspects_of_autism" title="Societal and cultural aspects of autism">Societal and cultural aspects of autism</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Therapies" style="font-size:114%;margin:0 4em"><a href="/wiki/Autism_therapies" title="Autism therapies">Therapies</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Psychotropic medication (<a href="/wiki/Antipsychotic" title="Antipsychotic">antipsychotics</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aripiprazole" title="Aripiprazole">Aripiprazole</a></li>
+<li><a href="/wiki/Risperidone" title="Risperidone">Risperidone</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a> (ABA)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cognitive_behavioral_therapy" title="Cognitive behavioral therapy">Cognitive behavior therapy</a>
+<ul><li>social skills training</li></ul></li>
+<li><a href="/wiki/Discrete_trial_training" title="Discrete trial training">Discrete trial training</a> (<a href="/wiki/Ole_Ivar_Lovaas" title="Ole Ivar Lovaas">Lovaas</a>)</li>
+<li>Early start denver model</li>
+<li><a href="/wiki/Pivotal_response_treatment" title="Pivotal response treatment">Pivotal response treatment</a></li>
+<li><a href="/wiki/Positive_behavior_support" title="Positive behavior support">Schoolwide positive behavior support</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Developmental</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Floortime" title="Floortime">Floortime</a> (<a href="/wiki/PLAY_Project" title="PLAY Project">The PLAY Project</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Controversial</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auditory_integration_training" title="Auditory integration training">Auditory integration training</a></li>
+<li><a href="/wiki/Aversion_therapy" title="Aversion therapy">Aversive therapy</a>/<a href="/wiki/Electric_shock" class="mw-redirect" title="Electric shock">Electric shocks</a> (<a href="/wiki/Judge_Rotenberg_Educational_Center" title="Judge Rotenberg Educational Center">Judge Rotenberg Educational Center</a>)</li>
+<li><a href="/wiki/Chelation_therapy" title="Chelation therapy">Chelation of mercury</a></li>
+<li><a href="/wiki/Ethical_challenges_to_autism_treatment" class="mw-redirect" title="Ethical challenges to autism treatment">Ethical challenges to autism treatment</a></li>
+<li><a href="/wiki/Facilitated_communication" title="Facilitated communication">Facilitated communication</a></li>
+<li><a href="/wiki/Gluten-free,_casein-free_diet" title="Gluten-free, casein-free diet">Gluten-free casein-free diet</a></li>
+<li><a href="/wiki/Hug_machine" title="Hug machine">Hug machine</a></li>
+<li><a href="/wiki/Hyperbaric_medicine" title="Hyperbaric medicine">Hyperbaric oxygen therapy</a></li>
+<li><a href="/wiki/Attachment_therapy" title="Attachment therapy">Holding therapy</a></li>
+<li><a href="/wiki/Relationship_Development_Intervention" title="Relationship Development Intervention">Relationship development intervention</a></li>
+<li><a href="/wiki/Secretin" title="Secretin">Secretin</a></li>
+<li><a href="/wiki/Sensory_integration_therapy" title="Sensory integration therapy">Sensory integration therapy</a></li>
+<li><a href="/wiki/Son-Rise" title="Son-Rise">Son-Rise</a></li>
+<li><a href="/wiki/Vitamin_B12" title="Vitamin B12">Vitamin B12</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Occupational_therapy" title="Occupational therapy">Occupational therapy</a></li>
+<li><a href="/wiki/Picture_Exchange_Communication_System" class="mw-redirect" title="Picture Exchange Communication System">Picture Exchange Communication System</a> (PECS)</li>
+<li><a href="/wiki/Social_Stories" title="Social Stories">Social Stories</a></li>
+<li><a href="/wiki/Speech-language_pathology" title="Speech-language pathology">Speech therapy</a></li>
+<li><a href="/wiki/Selective_serotonin_reuptake_inhibitor" title="Selective serotonin reuptake inhibitor">SSRI antidepressants</a></li>
+<li><a href="/wiki/Treatment_and_Education_of_Autistic_and_Related_Communication_Handicapped_Children" title="Treatment and Education of Autistic and Related Communication Handicapped Children">Structured teaching (TEACCH)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Centers" style="font-size:114%;margin:0 4em">Centers</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Research</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">United States</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_for_Science_in_Autism_Treatment" title="Association for Science in Autism Treatment">Association for Science in Autism Treatment</a></li>
+<li><a href="/wiki/Simons_Foundation_Autism_Research_Initiative" title="Simons Foundation Autism Research Initiative">Simons Foundation Autism Research Initiative</a></li>
+<li><a href="/wiki/Autism_Research_Institute" title="Autism Research Institute">Autism Research Institute</a></li>
+<li><a href="/wiki/Autism_Science_Foundation" title="Autism Science Foundation">Autism Science Foundation</a></li>
+<li><a href="/wiki/National_Alliance_for_Autism_Research" title="National Alliance for Autism Research">National Alliance for Autism Research</a></li>
+<li><a href="/wiki/Yale_Child_Study_Center" title="Yale Child Study Center">Yale Child Study Center</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">United Kingdom</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autism_Research_Centre" title="Autism Research Centre">Autism Research Centre (UK)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">other&#160;/&#32;see also</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Outline_of_autism#Conditions_and_research_areas" title="Outline of autism">Conditions and research areas</a></li>
+<li><a href="/wiki/Outline_of_autism#Researchers_and_therapists" title="Outline of autism">Researchers</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Therapy</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">United States</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Center_for_Autism_and_Related_Disorders" title="Center for Autism and Related Disorders">Center for Autism and Related Disorders</a> (CARD)</li>
+<li><a href="/wiki/MIND_Institute" title="MIND Institute">MIND Institute</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Schools</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ESPA_College" title="ESPA College">ESPA College (UK)</a></li>
+<li><a href="/wiki/Exceptional_Minds" title="Exceptional Minds">Exceptional Minds (USA)</a></li>
+<li><a href="/wiki/Pathlight_School" title="Pathlight School">Pathlight School (Singapore)</a></li>
+<li><a href="/wiki/Sunfield_Children%27s_Home" title="Sunfield Children&#39;s Home">Sunfield Children's Home (UK)</a></li>
+<li><a href="/wiki/TreeHouse_School" title="TreeHouse School">TreeHouse School (UK)</a></li>
+<li><a href="/wiki/Western_Autistic_School" title="Western Autistic School">Western Autistic School (Australia)</a></li>
+<li><i><a href="/wiki/List_of_schools_for_people_on_the_autistic_spectrum" title="List of schools for people on the autistic spectrum">List of schools</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Organizations" style="font-size:114%;margin:0 4em">Organizations</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Americas</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">United States</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autism_National_Committee" title="Autism National Committee">Autism National Committee</a></li>
+<li><a href="/wiki/Autism_Network_International" title="Autism Network International">Autism Network International</a></li>
+<li><a href="/wiki/Autism_Science_Foundation" title="Autism Science Foundation">Autism Science Foundation</a></li>
+<li><a href="/wiki/Autistic_Self_Advocacy_Network" title="Autistic Self Advocacy Network">Autistic Self Advocacy Network</a></li>
+<li><a href="/wiki/Autism_Society_of_America" title="Autism Society of America">Autism Society of America</a></li>
+<li><a href="/wiki/Autism_Speaks" title="Autism Speaks">Autism Speaks</a></li>
+<li><a href="/wiki/Daniel_Jordan_Fiddle_Foundation" title="Daniel Jordan Fiddle Foundation">Daniel Jordan Fiddle Foundation</a></li>
+<li><a href="/wiki/Generation_Rescue" title="Generation Rescue">Generation Rescue</a></li>
+<li><a href="/wiki/Interactive_Autism_Network" title="Interactive Autism Network">Interactive Autism Network</a></li>
+<li><a href="/wiki/LENA_Foundation" title="LENA Foundation">LENA Foundation</a></li>
+<li><a href="/wiki/Talk_About_Curing_Autism" title="Talk About Curing Autism">Talk About Curing Autism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Centro_Ann_Sullivan_del_Per%C3%BA" title="Centro Ann Sullivan del Perú">Centro Ann Sullivan (Peru)</a></li>
+<li>Filipino-Canadian Autism Parent Support Group (Canada)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Action_for_Autism" title="Action for Autism">Action for Autism (India)</a></li>
+<li><a href="/wiki/Autism_Resource_Centre_(Singapore)" title="Autism Resource Centre (Singapore)">Autism Resource Centre (Singapore)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Caribbean</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autistic_Society_of_Trinidad_and_Tobago" title="Autistic Society of Trinidad and Tobago">Autistic Society (Trinidad and Tobago)</a></li>
+<li><a href="/wiki/Maia_Chung_Autism_and_Disabilities_Foundation" title="Maia Chung Autism and Disabilities Foundation">Maia Chung Autism and Disabilities Foundation (Jamaica)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Europe</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">UK</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autism_Anglia" title="Autism Anglia">Autism Anglia</a></li>
+<li><a href="/wiki/The_Autism_Directory" title="The Autism Directory">The Autism Directory</a></li>
+<li><a href="/wiki/Autism_Awareness_Campaign_UK" title="Autism Awareness Campaign UK">Autism Awareness Campaign UK</a></li>
+<li><a href="/wiki/Autism_Cymru" title="Autism Cymru">Autism Cymru</a></li>
+<li><a href="/wiki/Autism_Plus" title="Autism Plus">Autism Plus</a></li>
+<li><a href="/wiki/Autistica" title="Autistica">Autistica</a></li>
+<li><a href="/wiki/National_Autistic_Society" title="National Autistic Society">National Autistic Society</a></li>
+<li><a href="/wiki/Sacar_(charity)" title="Sacar (charity)">Sacar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Specialisterne" title="Specialisterne">Specialisterne (Denmark)</a></li>
+<li><a href="/wiki/Aspies_For_Freedom" title="Aspies For Freedom">Aspies For Freedom</a></li>
+<li><a href="/w/index.php?title=Alliance_Autiste&amp;action=edit&amp;redlink=1" class="new" title="Alliance Autiste (page does not exist)">Alliance Autiste</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oceania</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Luke_Priddis_Foundation" title="Luke Priddis Foundation">Luke Priddis Foundation (Australia)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autism_rights_movement" title="Autism rights movement">Autism rights movement</a></li>
+<li><a href="/wiki/Wrong_Planet" title="Wrong Planet">Wrong Planet</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Literature" style="font-size:114%;margin:0 4em">Literature</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Non-fiction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Accidental_Teacher" title="The Accidental Teacher">The Accidental Teacher: Life Lessons from My Silent Son</a></li>
+<li><a href="/wiki/Aspergirls" title="Aspergirls">Aspergirls: Empowering Females with Asperger's Syndrome</a></li>
+<li><a href="/wiki/Animals_in_Translation" title="Animals in Translation">Animals in Translation</a></li>
+<li><a href="/wiki/In_a_Different_Key" title="In a Different Key">In a Different Key</a></li>
+<li><a href="/wiki/Life_Animated" class="mw-redirect" title="Life Animated">Life Animated</a></li>
+<li><a href="/wiki/Neurotribes" class="mw-redirect" title="Neurotribes">Neurotribes</a></li>
+<li><a href="/wiki/Autism%27s_False_Prophets" title="Autism&#39;s False Prophets">Autism's False Prophets</a></li>
+<li><a href="/wiki/Freaks,_Geeks,_and_Asperger_Syndrome" title="Freaks, Geeks, and Asperger Syndrome">Freaks, Geeks, and Asperger Syndrome: A User Guide to Adolescence</a></li>
+<li><a href="/wiki/Like_Colour_to_the_Blind" title="Like Colour to the Blind">Like Colour to the Blind</a></li>
+<li><a href="/wiki/Look_Me_in_the_Eye" title="Look Me in the Eye">Look Me in the Eye</a></li>
+<li><a href="/wiki/Mother_Warriors" title="Mother Warriors">Mother Warriors</a></li>
+<li><a href="/wiki/Nobody_Nowhere" title="Nobody Nowhere">Nobody Nowhere</a></li>
+<li><a href="/wiki/Overcoming_Autism" title="Overcoming Autism">Overcoming Autism</a></li>
+<li><a href="/wiki/Somebody_Somewhere_(book)" title="Somebody Somewhere (book)">Somebody Somewhere</a></li>
+<li><a href="/wiki/Son-Rise:_The_Miracle_Continues" title="Son-Rise: The Miracle Continues">Son-Rise: The Miracle Continues</a></li>
+<li><a href="/wiki/Strange_Son" title="Strange Son">Strange Son</a></li>
+<li><a href="/wiki/Switched_On_(book)" title="Switched On (book)">Switched On</a></li>
+<li><a href="/wiki/Unstrange_Minds" title="Unstrange Minds">Unstrange Minds</a></li>
+<li><a href="/wiki/Extreme_Love:_Autism" title="Extreme Love: Autism">Extreme Love: Autism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fiction</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jonathan_Mitchell_(writer)#Hobbies" title="Jonathan Mitchell (writer)">The Mu Rhythm Bluff</a></li>
+<li><a href="/wiki/The_Curious_Incident_of_the_Dog_in_the_Night-Time" title="The Curious Incident of the Dog in the Night-Time">The Curious Incident of the Dog in the Night-Time</a></li>
+<li><a href="/wiki/Dear_John_(novel)" title="Dear John (novel)">Dear John</a></li>
+<li><a href="/wiki/House_Rules_(novel)" title="House Rules (novel)">House Rules</a></li>
+<li><a href="/wiki/Mockingbird_(Erskine_novel)" title="Mockingbird (Erskine novel)">Mockingbird</a></li>
+<li><a href="/wiki/Saving_Max" title="Saving Max">Saving Max</a></li>
+<li><a href="/wiki/Speed_of_Dark" title="Speed of Dark">Speed of Dark</a></li>
+<li><a href="/wiki/The_Winter_Journey_(novel)" title="The Winter Journey (novel)">The Winter Journey</a></li>
+<li><a href="/wiki/With_the_Light" title="With the Light">With the Light</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">For younger people</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Everybody_Is_Different" title="Everybody Is Different">Everybody Is Different: A Book for Young People Who Have Brothers or Sisters With Autism</a></li>
+<li><a href="/wiki/Ian%27s_Walk:_A_Story_about_Autism" title="Ian&#39;s Walk: A Story about Autism">Ian's Walk: A Story about Autism</a></li>
+<li><a href="/wiki/Marcelo_in_the_Real_World" title="Marcelo in the Real World">Marcelo in the Real World</a></li>
+<li><a href="/wiki/Rage:_A_Love_Story" title="Rage: A Love Story">Rage: A Love Story</a></li>
+<li><a href="/wiki/Rules_(novel)" title="Rules (novel)">Rules</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Journals</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autism_(journal)" title="Autism (journal)">Autism</a></li>
+<li><a href="/wiki/Journal_of_Autism_and_Developmental_Disorders" title="Journal of Autism and Developmental Disorders">Journal of Autism and Developmental Disorders</a></li>
+<li><a href="/wiki/Molecular_Autism" title="Molecular Autism">Molecular Autism</a></li>
+<li><a href="/wiki/Research_in_Autism_Spectrum_Disorders" title="Research in Autism Spectrum Disorders">Research in Autism Spectrum Disorders</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Stroop_icon.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Stroop_icon.svg/40px-Stroop_icon.svg.png" decoding="async" width="40" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Stroop_icon.svg/60px-Stroop_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Stroop_icon.svg/80px-Stroop_icon.svg.png 2x" data-file-width="340" data-file-height="318" /></a></td><td><i>This <a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive psychology</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Hypercalculia&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Cognitive-psych-stub" title="Template:Cognitive-psych-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cognitive-psych-stub" title="Template talk:Cognitive-psych-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cognitive-psych-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Emojione_1F476.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Emojione_1F476.svg/40px-Emojione_1F476.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Emojione_1F476.svg/60px-Emojione_1F476.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Emojione_1F476.svg/80px-Emojione_1F476.svg.png 2x" data-file-width="512" data-file-height="512" /></a></td><td><i>This <a href="/wiki/Developmental_psychology" title="Developmental psychology">developmental psychology</a>–related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Hypercalculia&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Developmental-psych-stub" title="Template:Developmental-psych-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Developmental-psych-stub" title="Template talk:Developmental-psych-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Developmental-psych-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20190411235753
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.497 seconds
+Preprocessor visited node count: 1570/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 157624/2097152 bytes
+Template argument size: 1572/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27661/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 3.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  366.412      1 -total
+ 56.21%  205.950      1 Template:Reflist
+ 39.23%  143.732      3 Template:Cite_book
+ 33.27%  121.896     10 Template:Navbox
+ 24.95%   91.403      3 Template:ISBN
+ 15.43%   56.551      1 Template:Autism_resources
+ 15.09%   55.308      3 Template:Catalog_lookup_link
+ 14.46%   52.973      4 Template:Cite_journal
+ 11.65%   42.691      1 Template:Navbox_with_collapsible_groups
+  9.00%   32.975      1 Template:Pervasive_developmental_disorders
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:55536169-0!canonical and timestamp 20190411235753 and revision id 882990828
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hypercalculia&amp;oldid=882990828">https://en.wikipedia.org/w/index.php?title=Hypercalculia&amp;oldid=882990828</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_psychology" title="Category:Cognitive psychology">Cognitive psychology</a></li><li><a href="/wiki/Category:Cognitive_neuroscience" title="Category:Cognitive neuroscience">Cognitive neuroscience</a></li><li><a href="/wiki/Category:Developmental_neuroscience" title="Category:Developmental neuroscience">Developmental neuroscience</a></li><li><a href="/wiki/Category:Developmental_psychology" title="Category:Developmental psychology">Developmental psychology</a></li><li><a href="/wiki/Category:Psychiatric_diagnosis" title="Category:Psychiatric diagnosis">Psychiatric diagnosis</a></li><li><a href="/wiki/Category:Spectrum_disorders" title="Category:Spectrum disorders">Spectrum disorders</a></li><li><a href="/wiki/Category:Symptoms_and_signs:_Nervous_system" title="Category:Symptoms and signs: Nervous system">Symptoms and signs: Nervous system</a></li><li><a href="/wiki/Category:Cognitive_psychology_stubs" title="Category:Cognitive psychology stubs">Cognitive psychology stubs</a></li><li><a href="/wiki/Category:Developmental_psychology_stubs" title="Category:Developmental psychology stubs">Developmental psychology stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hypercalculia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hypercalculia" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hypercalculia" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hypercalculia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hypercalculia">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hypercalculia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hypercalculia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hypercalculia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hypercalculia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hypercalculia&amp;oldid=882990828" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hypercalculia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55614132" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hypercalculia&amp;id=882990828" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hypercalculia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hypercalculia&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hypercalculia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55614132#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 February 2019, at 16:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hypercalculia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.497","ppvisitednodes":{"value":1570,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":157624,"limit":2097152},"templateargumentsize":{"value":1572,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27661,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  366.412      1 -total"," 56.21%  205.950      1 Template:Reflist"," 39.23%  143.732      3 Template:Cite_book"," 33.27%  121.896     10 Template:Navbox"," 24.95%   91.403      3 Template:ISBN"," 15.43%   56.551      1 Template:Autism_resources"," 15.09%   55.308      3 Template:Catalog_lookup_link"," 14.46%   52.973      4 Template:Cite_journal"," 11.65%   42.691      1 Template:Navbox_with_collapsible_groups","  9.00%   32.975      1 Template:Pervasive_developmental_disorders"]},"scribunto":{"limitreport-timeusage":{"value":"0.141","limit":"10.000"},"limitreport-memusage":{"value":3962363,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n  [\"text\"] = \"'''Portal'''\",\n}\n"},"cachereport":{"origin":"mw1241","timestamp":"20190411235753","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hypercalculia","url":"https:\/\/en.wikipedia.org\/wiki\/Hypercalculia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q55614132","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q55614132","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-10-15T02:31:23Z","dateModified":"2019-02-12T16:32:15Z","headline":"developmental condition"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

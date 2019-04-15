@@ -1,0 +1,2166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if lt IE 7 ]> <html class="ie6" lang="pl-PL" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="pl-PL" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="pl-PL" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="pl-PL" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="pl-PL" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <title>Home - Praca UX</title>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://praca.uxlabs.pl/feed/" />
+    <link rel="pingback" href="https://praca.uxlabs.pl/xmlrpc.php" />
+
+    
+    
+<!-- This site is optimized with the Yoast SEO plugin v10.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://praca.uxlabs.pl/" />
+<meta property="og:locale" content="pl_PL" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Praca UX" />
+<meta property="og:url" content="https://praca.uxlabs.pl/" />
+<meta property="og:site_name" content="Praca UX" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Home - Praca UX" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://praca.uxlabs.pl/#website","url":"https://praca.uxlabs.pl/","name":"Praca UX","potentialAction":{"@type":"SearchAction","target":"https://praca.uxlabs.pl/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="msvalidate.01" content="B9F345ECAF43C64A3EFFD1E970737789" />
+<meta name="google-site-verification" content="D6Fvy3m00d-m9ebjgNQT7RQ-zbKh3NqZ8ucRoxHlExE" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/praca.uxlabs.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style type="text/css">
+	</style>
+	<link rel='stylesheet' id='bootstrap-css'  href='https://praca.uxlabs.pl/wp-content/plugins/easy-bootstrap-shortcodes/styles/bootstrap.min.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-fa-icon-css'  href='https://praca.uxlabs.pl/wp-content/plugins/easy-bootstrap-shortcodes/styles/font-awesome.min.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://praca.uxlabs.pl/wp-includes/css/dist/block-library/style.min.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://praca.uxlabs.pl/wp-includes/css/dashicons.min.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='at-main-css-css'  href='https://praca.uxlabs.pl/wp-content/themes/flatroller/style.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-basic-css'  href='https://praca.uxlabs.pl/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rpt-css'  href='https://praca.uxlabs.pl/wp-content/plugins/responsive-pricing-table-pro/inc/css/rpt_style.min.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ebs_dynamic_css-css'  href='https://praca.uxlabs.pl/wp-content/plugins/easy-bootstrap-shortcodes/styles/ebs_dynamic_css.php?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://praca.uxlabs.pl/wp-content/themes/jobroller/theme-framework/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-color-css'  href='https://praca.uxlabs.pl/wp-content/themes/flatroller/css/blue.css?ver=5.0.4' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var AppThemes = {"ajaxurl":"\/wp-admin\/admin-ajax.php","current_url":"https:\/\/praca.uxlabs.pl\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/plugins/easy-bootstrap-shortcodes/js/bootstrap.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/flatroller/includes/scripts/jquery.tinynav.js?ver=5.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flatroller_params = {"text_mobile_top_navigation":"Id\u017a do...","text_mobile_primary_navigation":"Nawigacja","home_url":"https:\/\/praca.uxlabs.pl\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/flatroller/includes/scripts/scripts.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/includes/js/jquery.defaultvalue.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/includes/js/jquery.tag.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/includes/js/jquery.smooth-scroll.min.js?ver=2.0'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/includes/js/jquery.lazyload.mini.js?ver=1.5.0'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/includes/js/jquery.elastic.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/includes/js/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/includes/js/jquery.qtip.min.js?ver=3.0.3'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/framework/js/validate/jquery.validate.min.js?ver=1.15.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jobroller_params = {"lazyload_placeholder":"https:\/\/praca.uxlabs.pl\/wp-content\/themes\/jobroller\/images\/grey.gif","ajax_url":"https:\/\/praca.uxlabs.pl\/wp-admin\/admin-ajax.php","get_sponsored_results_nonce":"69ae8b514f","nonce":"3e1d2bc116","si_empty":"Wska\u017anik si\u0142y","si_short":"Bardzo s\u0142abe","si_bad":"S\u0142abe","si_good":"\u015arednie","si_strong":"Silne","si_mismatch":"Niezgodno\u015b\u0107","msg_invalid_email":"Niepoprawny adres e-mail.","msg_fields_required":"All fields are required.","no_more_results":"No more results to show."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/includes/js/theme-scripts.min.js?ver=1.8.7'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/themes/jobroller/theme-framework/js/footable/jquery.footable.min.js?ver=2.0.3'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/jquery/ui/autocomplete.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://www.google.com/jsapi?ver=5.0.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/plugins/responsive-pricing-table-pro/inc/js/rptp.min.js?ver=5.0.4'></script>
+<link rel='https://api.w.org/' href='https://praca.uxlabs.pl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://praca.uxlabs.pl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://praca.uxlabs.pl/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://praca.uxlabs.pl/' />
+<link rel="alternate" type="application/json+oembed" href="https://praca.uxlabs.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpraca.uxlabs.pl%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://praca.uxlabs.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpraca.uxlabs.pl%2F&#038;format=xml" />
+<link rel="shortcut icon" href="https://praca.uxlabs.pl/wp-content/themes/jobroller/images/favicon.ico" />
+
+	<!-- start wp_head -->
+
+	<meta name="version" content="JobRoller 1.8.7" />
+
+	<!-- end wp_head -->
+
+	<style type="text/css">
+		body.custom-background { background-color: #ececec; background-image: none; }
+	</style>
+		<style type="text/css" id="wp-custom-css">
+			/*
+Tutaj możesz dodać własny CSS.
+
+
+Naciśnij ikonkę pomocy, żeby dowiedzieć się więcej.
+*/		</style>
+	    <style type="text/css">
+
+		
+    </style>
+
+<!-- Hotjar Tracking Code for praca.uxlabs.pl -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:642252,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+
+</head>
+
+<body id="top" class="home page-template page-template-index page-template-index-php page page-id-1767 custom-background style-pro-gray  extra-width responsive-menu" >
+
+	
+    <div id="wrapper">
+
+		
+				<div id="topNav">
+
+	<div class="inner">
+
+		<ul id="menu-top" class="menu"><li class="page_item page-item-398"><a href="https://praca.uxlabs.pl/regulamin/">Regulamin</a></li>
+<li class="page_item page-item-1705"><a href="https://praca.uxlabs.pl/newsletter/">Zapisz się na newsletter</a></li>
+<li class="page_item page-item-5597"><a href="https://praca.uxlabs.pl/kontakt/">Kontakt</a></li>
+<li class="right "><a href="https://praca.uxlabs.pl/wp-login.php">Loguj/Rejestruj</a></li><li class="right "><a href="https://praca.uxlabs.pl/submit/">Dodaj ofertę pracy</a></li></ul>
+		<div class="clear"></div>
+
+	</div><!-- end inner -->
+
+</div><!-- end topNav -->
+
+<div id="header">
+
+	<div class="inner">
+
+		<div class="logo_wrap">
+
+				<h1 id="logo">
+					<a href="https://praca.uxlabs.pl/" class="logo custom-header-image"><img src="https://praca.uxlabs.pl/wp-content/uploads/2016/02/cropped-cropped-praca_ux_nowe_logo_site.png" height="56" width="280" alt="Praca UX" /></a>
+		
+			</h1>
+	
+			
+			<div class="clear"></div>
+
+		</div><!-- end logo_wrap -->
+
+	</div><!-- end inner -->
+
+</div><!-- end header -->
+
+<div class="header_menu">
+
+	<div class="header_menu_res">
+		
+		<a class="menu-toggle" href="#"><i class="fa fa-reorder"></i>Nawigacja</a>
+        <ul class="menu"><li class="page_item current_page_item"><a href="https://praca.uxlabs.pl/oferty/">Ostatnie oferty pracy</a></li><li class="page_item "><a href="https://praca.uxlabs.pl/typ/elastyczna/">Elastyczna</a></li><li class="page_item "><a href="https://praca.uxlabs.pl/typ/etat/">Etat</a></li><li class="page_item "><a href="https://praca.uxlabs.pl/typ/kontrakt-b2b/">Kontrakt B2B</a></li><li class="page_item "><a href="https://praca.uxlabs.pl/typ/staz/">Staż</a></li><li class="page_item "><a href="https://praca.uxlabs.pl/typ/uop-lub-b2b/">Umowa o pracę lub B2B</a></li></ul>
+        <div class="clear"></div>
+    
+	</div><!-- /header_menu_res -->
+
+</div><!-- /header_menu -->
+		
+		<div class="clear"></div>
+				
+
+
+	<form action="https://praca.uxlabs.pl/" method="get" id="searchform">
+
+		<div class="search-wrap">
+
+			<div class="search-for">
+				<input type="text" id="search" title="" name="s" class="text" placeholder="Wszystkie oferty pracy" value="" />
+			</div>
+			<div class="search-location">
+				<input type="text" id="near" title="Lokalizacja" name="location" class="text" placeholder="Lokalizacja" value="" />
+			</div>
+				<div class="radius">
+		<label for="radius">Promień:</label>
+		<select name="radius" class="radius" id="radius">
+<option value="0"  selected='selected'>Auto</option><option value="1" >1 km</option><option value="5" >5 km</option><option value="10" >10 km</option><option value="50" >50 km</option><option value="100" >100 km</option><option value="1000" >1&nbsp;000 km</option><option value="5000" >5&nbsp;000 km</option>		</select>
+	</div><!-- end radius -->
+			<div class="search-button">
+				<label for="search"><button type="submit" title="Dalej" class="submit"><i class="fa fa-search"></i></button></label>
+
+				<input type="hidden" name="ptype" value="job_listing" />
+
+				<input type="hidden" name="latitude" id="field_latitude" value="" />
+				<input type="hidden" name="longitude" id="field_longitude" value="" />
+				<input type="hidden" name="full_address" id="field_full_address" value="" />
+				<input type="hidden" name="north_east_lng" id="field_north_east_lng" value="" />
+				<input type="hidden" name="south_west_lng" id="field_south_west_lng" value="" />
+				<input type="hidden" name="north_east_lat" id="field_north_east_lat" value="" />
+				<input type="hidden" name="south_west_lat" id="field_south_west_lat" value="" />
+			</div>
+
+			
+
+		</div><!-- end search-wrap -->
+
+	</form>
+
+		
+		<div id="content">
+		
+			<div class="inner">
+			
+				
+				<div id="mainContent" class="nosearch">
+
+					
+
+
+
+	
+
+
+<div class="section">
+
+	<h2 class="pagetitle">
+
+		<small class="rss">
+			<a href="https://praca.uxlabs.pl/feed/?post_type=job_listing"><i class="fa fa-rss"></i></a>
+		</small>
+
+		Najnowsze oferty
+	</h2>
+	
+	
+		<form class="filter" method="get" action="https://praca.uxlabs.pl/oferty/">
+				<p>
+					<input type="checkbox" name="czesc-etatu" id="czesc-etatu"  checked='checked' value="show" />
+					<label for="czesc-etatu">Część etatu</label>
+				</p>
+				<p>
+					<input type="checkbox" name="elastyczna" id="elastyczna"  checked='checked' value="show" />
+					<label for="elastyczna">Elastyczna</label>
+				</p>
+				<p>
+					<input type="checkbox" name="etat" id="etat"  checked='checked' value="show" />
+					<label for="etat">Etat</label>
+				</p>
+				<p>
+					<input type="checkbox" name="kontrakt-b2b" id="kontrakt-b2b"  checked='checked' value="show" />
+					<label for="kontrakt-b2b">Kontrakt B2B</label>
+				</p>
+				<p>
+					<input type="checkbox" name="staz" id="staz"  checked='checked' value="show" />
+					<label for="staz">Staż</label>
+				</p>
+				<p>
+					<input type="checkbox" name="uop-lub-b2b" id="uop-lub-b2b"  checked='checked' value="show" />
+					<label for="uop-lub-b2b">Umowa o pracę lub B2B</label>
+				</p>
+				<p>
+					<input type="checkbox" name="zlecenie" id="zlecenie"  checked='checked' value="show" />
+					<label for="zlecenie">Zlecenie</label>
+				</p>
+		<p>
+			<input type="submit" value="Filtr" class="submit" />
+			<input type="hidden" name="action" value="Filter" />
+		</p>
+
+		
+		<div class="clear"></div>
+	</form>
+
+	
+
+
+    <ol class="jobs">
+
+        		
+			
+             
+            <li class="job">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/Plej-logo-podstawowe-RGB-48x48.jpg" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/Plej-logo-podstawowe-RGB-48x48.jpg 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/Plej-logo-podstawowe-RGB-150x150.jpg 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/Plej-logo-podstawowe-RGB-300x300.jpg 300w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/Plej-logo-podstawowe-RGB-28x28.jpg 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/ux-designer-47/">UX designer</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>15.04</span>
+						<span class="company">				<a href="https://plej.pl/" rel="nofollow">Plej Sp. z o.o.</a>
+	</span>
+						<span class="job-type"><span class="jtype etat">Etat</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Warszawa</strong>, <span>mazowieckie, Polska</span></span>
+						<span> <i class="fa fa-money"></i></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job job-alt">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/pobrane-48x48.png" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/pobrane-48x48.png 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/pobrane-150x150.png 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/pobrane-28x28.png 28w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/pobrane.png 225w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/ux-researcher-33/">UX Researcher</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>15.04</span>
+						<span class="company">				<a href="http://divante.co" rel="nofollow">Divante Sp. z o.o.</a>
+	</span>
+						<span class="job-type"><span class="jtype kontrakt-b2b">Kontrakt B2B</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Gdziekolwiek</strong></span>
+						<span> <i class="fa fa-money"></i><a href="https://praca.uxlabs.pl/wynagrodzenie/6000-8000/" rel="tag">6.000 - 8.000</a></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job">
+			
+							
+				<div class="job-thumbnail"><img src="https://praca.uxlabs.pl/wp-content/themes/flatroller/images/no-thumb-sm.jpg" class="listing_thumbnail" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/staz-ux-ui/">Staż UX/UI</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>12.04</span>
+						<span class="company">				<a href="https://kariera.comarch.pl/staz/staz-ux-ui/" rel="nofollow">Comarch</a>
+	</span>
+						<span class="job-type"><span class="jtype staz">Staż</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Kraków</strong>, <span>małopolskie, Polska</span></span>
+						<span> <i class="fa fa-money"></i></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job job-alt">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/IC_new_logo-48x48.png" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/IC_new_logo-48x48.png 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/IC_new_logo-150x150.png 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/IC_new_logo-300x300.png 300w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/IC_new_logo-28x28.png 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/staz-w-dziale-user-experience/">Staż w Dziale User Experience</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>12.04</span>
+						<span class="company">				<a href="http://www.intercars.com.pl" rel="nofollow">Inter Cars S.A.</a>
+	</span>
+						<span class="job-type"><span class="jtype staz">Staż</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Warszawa</strong>, <span>mazowieckie, Polska</span></span>
+						<span> <i class="fa fa-money"></i><a href="https://praca.uxlabs.pl/wynagrodzenie/2000-4000/" rel="tag">2.000 - 4.000</a></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo_productvision-48x48.png" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo_productvision-48x48.png 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo_productvision-28x28.png 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/product-designer-37/">Product Designer</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>12.04</span>
+						<span class="company">				<a href="http://www.profitroom.pl" rel="nofollow">Profitroom Sp. z o.o.</a>
+	</span>
+						<span class="job-type"><span class="jtype uop-lub-b2b">Umowa o pracę lub B2B</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Poznań</strong>, <span>wielkopolskie, Polska</span></span>
+						<span> <i class="fa fa-money"></i><a href="https://praca.uxlabs.pl/wynagrodzenie/10000-i-wiecej/" rel="tag">10.000-12.000</a></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job job-alt">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/BSH_Logo_Black_sRGB-48x48.jpg" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/BSH_Logo_Black_sRGB-48x48.jpg 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/BSH_Logo_Black_sRGB-150x150.jpg 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/BSH_Logo_Black_sRGB-300x300.jpg 300w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/BSH_Logo_Black_sRGB-28x28.jpg 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/ui-ux-designer-home-connect/">UI/UX Designer Home Connect</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>12.04</span>
+						<span class="company">				<a href="https://www.bsh-group.com/pl/" rel="nofollow">BSH Sprzęt Gospodarstwa Domowego Sp. z o.o</a>
+	</span>
+						<span class="job-type"><span class="jtype etat">Etat</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Warszawa</strong>, <span>mazowieckie, Polska</span></span>
+						<span> <i class="fa fa-money"></i><a href="https://praca.uxlabs.pl/wynagrodzenie/do-negocjacji/" rel="tag">Do negocjacji</a></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/lh_lufthansa_systems_1lin_blue_cmyk-48x48.png" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/lh_lufthansa_systems_1lin_blue_cmyk-48x48.png 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/lh_lufthansa_systems_1lin_blue_cmyk-150x150.png 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/lh_lufthansa_systems_1lin_blue_cmyk-300x300.png 300w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/lh_lufthansa_systems_1lin_blue_cmyk-28x28.png 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/senior-user-experience-designer-8/">Senior User Experience Designer</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>12.04</span>
+						<span class="company">				<a href="http://lhsystems.pl" rel="nofollow">Lufthansa Systems</a>
+	</span>
+						<span class="job-type"><span class="jtype etat">Etat</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Gdańsk</strong>, <span>pomorskie, Polska</span></span>
+						<span> <i class="fa fa-money"></i></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job job-alt">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/lh_lufthansa_systems_1lin_blue_cmyk-48x48.png" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/lh_lufthansa_systems_1lin_blue_cmyk-48x48.png 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/lh_lufthansa_systems_1lin_blue_cmyk-150x150.png 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/lh_lufthansa_systems_1lin_blue_cmyk-300x300.png 300w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/12/lh_lufthansa_systems_1lin_blue_cmyk-28x28.png 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/senior-ui-visual-designer/">Senior UI / Visual designer</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>12.04</span>
+						<span class="company">				<a href="http://lhsystems.pl" rel="nofollow">Lufthansa Systems </a>
+	</span>
+						<span class="job-type"><span class="jtype etat">Etat</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Gdańsk</strong>, <span>pomorskie, Polska</span></span>
+						<span> <i class="fa fa-money"></i></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/overlap-logo-square-yellow-48x48.png" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/overlap-logo-square-yellow-48x48.png 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/overlap-logo-square-yellow-150x150.png 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/overlap-logo-square-yellow-300x300.png 300w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/overlap-logo-square-yellow-250x250.png 250w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/overlap-logo-square-yellow-28x28.png 28w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/overlap-logo-square-yellow.png 456w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/ux-designer-379/">UX Designer</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>12.04</span>
+						<span class="company">				<a href="https://www.overlap.studio" rel="nofollow">Overlap Studio sp. z o.o.</a>
+	</span>
+						<span class="job-type"><span class="jtype kontrakt-b2b">Kontrakt B2B</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Warszawa</strong>, <span>mazowieckie, Polska</span></span>
+						<span> <i class="fa fa-money"></i><a href="https://praca.uxlabs.pl/wynagrodzenie/6000-8000/" rel="tag">6.000 - 8.000</a></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job job-alt">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-48x48.jpg" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-48x48.jpg 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-150x150.jpg 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-300x300.jpg 300w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-250x250.jpg 250w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-28x28.jpg 28w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo.jpg 500w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/senior-ux-designer-85/">Senior UX Designer</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>10.04</span>
+						<span class="company">				<a href="http://tylko.com" rel="nofollow">tylko.com</a>
+	</span>
+						<span class="job-type"><span class="jtype kontrakt-b2b">Kontrakt B2B</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Warszawa</strong>, <span>mazowieckie, Polska</span></span>
+						<span> <i class="fa fa-money"></i><a href="https://praca.uxlabs.pl/wynagrodzenie/12-000-14-000/" rel="tag">12.000-14.000</a></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-2-48x48.png" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-2-48x48.png 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-2-150x150.png 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-2-28x28.png 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/ux-team-lead-2/">UX Team Lead</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>10.04</span>
+						<span class="company">				<a href="https://www.bosch.pl/" rel="nofollow">Robert Bosch</a>
+	</span>
+						<span class="job-type"><span class="jtype etat">Etat</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Warszawa</strong>, <span>mazowieckie, Polska</span></span>
+						<span> <i class="fa fa-money"></i></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job job-alt">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo_180x100px-1-48x48.jpg" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo_180x100px-1-48x48.jpg 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo_180x100px-1-28x28.jpg 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/ux-researcher-32/">UX Researcher</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>9.04</span>
+						<span class="company">				<a href="https://allegro.pl/praca" rel="nofollow">Allegro</a>
+	</span>
+						<span class="job-type"><span class="jtype etat">Etat</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Poznań</strong>, <span>wielkopolskie, Polska</span></span>
+						<span> <i class="fa fa-money"></i></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-white0-48x48.png" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-white0-48x48.png 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-white0-150x150.png 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2019/04/logo-white0-28x28.png 28w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/head-of-product-design-2/">Head of Product Design</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>9.04</span>
+						<span class="company">				<a href="https://grupadomodi.pl/" rel="nofollow">Grupa Domodi</a>
+	</span>
+						<span class="job-type"><span class="jtype uop-lub-b2b">Umowa o pracę lub B2B</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Wrocław</strong>, <span>Województwo dolnośląskie, Polska</span></span>
+						<span> <i class="fa fa-money"></i><a href="https://praca.uxlabs.pl/wynagrodzenie/do-negocjacji/" rel="tag">Do negocjacji</a></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job job-alt">
+			
+							
+				<div class="job-thumbnail"><img width="48" height="48" src="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/10/logo_300x300px-48x48.jpg" class="attachment-sidebar-thumbnail size-sidebar-thumbnail" alt="" srcset="https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/10/logo_300x300px-48x48.jpg 48w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/10/logo_300x300px-150x150.jpg 150w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/10/logo_300x300px-250x250.jpg 250w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/10/logo_300x300px-28x28.jpg 28w, https://praca.uxlabs.pl/wp-content/uploads/company_logos/2018/10/logo_300x300px.jpg 300w" sizes="(max-width: 48px) 100vw, 48px" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/senior-ux-designer-68/">UX Designer</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>8.04</span>
+						<span class="company">				<a href="https://allegro.pl/praca" rel="nofollow">Allegro</a>
+	</span>
+						<span class="job-type"><span class="jtype etat">Etat</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Gdziekolwiek</strong></span>
+						<span> <i class="fa fa-money"></i></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+			
+             
+            <li class="job">
+			
+							
+				<div class="job-thumbnail"><img src="https://praca.uxlabs.pl/wp-content/themes/flatroller/images/no-thumb-sm.jpg" class="listing_thumbnail" /></div>
+
+                <div class="job-title">
+										<h3><a href="https://praca.uxlabs.pl/oferty/senior-ux-designer-84/">Senior UX Designer</a></h3>
+					<div class="job-meta iconfix">
+						<span class="date"><i class="fa fa-calendar"></i>5.04</span>
+						<span class="company">				<a href="https://spartez.com/jobs/senior-ux-designer" rel="nofollow">Spartez</a>
+	</span>
+						<span class="job-type"><span class="jtype etat">Etat</span></span>
+						<span class="location"><i class="fa fa-map-marker"></i><strong>Gdańsk</strong>, <span>pomorskie, Polska</span></span>
+						<span> <i class="fa fa-money"></i><a href="https://praca.uxlabs.pl/wynagrodzenie/16-000-i-wiecej/" rel="tag">16.000-i-wiecej</a></span>
+					</div>
+									</div>
+				
+								
+            </li>
+			
+			
+        		
+		
+    </ol>
+
+
+
+	<div class="clear"></div>
+
+<div class="paging">
+
+	
+		<a href="https://praca.uxlabs.pl/oferty/" title="More...">More...</a>
+
+	
+	<div class="top"><a href="#top" title="Powrót do góry">Góra &uarr;</a></div>
+</div>	
+	
+	<div class="clear"></div>
+</div><!-- end section -->
+
+
+<div class="clear"></div>
+</div><!-- end main content -->
+
+<div id="sidebar">
+
+	<ul class="widgets">
+
+		
+	<li class="widget widget-submit">
+
+		
+			<div>
+				<a href="https://praca.uxlabs.pl/submit/" class="button"><span>Dodaj ofertę pracy</span></a>
+							</div>
+
+		
+		
+	</li>
+
+
+		<li class="widget widget-nav">
+	<ul class="display_section">
+		<li><a href="#browseby" class="noscroll">Przeglądaj po&hellip;</a></li>
+		<li><a href="#tags" class="noscroll">Tagi</a></li>
+	</ul>
+	<div id="browseby" class="tabbed_section">
+		<div class="contents">
+			<ul>
+						<li>
+			<a class="top" href="#open">Typ pracy</a>
+			<ul>
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/typ/czesc-etatu/">Część etatu</a>
+					</li>
+
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/typ/elastyczna/">Elastyczna</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/typ/etat/">Etat</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/typ/kontrakt-b2b/">Kontrakt B2B</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/typ/staz/">Staż</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/typ/uop-lub-b2b/">Umowa o pracę lub B2B</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/typ/zlecenie/">Zlecenie</a>
+					</li>
+
+					
+							</ul>
+		</li>
+		
+						<li>
+			<a class="top" href="#open">Wynagrodzenie pracy</a>
+			<ul>
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/10000-i-wiecej/">10.000-12.000</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/12-000-14-000/">12.000-14.000</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/14-000-16-000/">14.000-16.000</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/16-000-i-wiecej/">16.000-i-wiecej</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/2000-4000/">2.000 - 4.000</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/2000-i-mniej/">2.000 i mniej</a>
+					</li>
+
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/4000-6000/">4.000 - 6.000</a>
+					</li>
+
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/6000-8000/">6.000 - 8.000</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/8000-10000/">8.000 - 10.000</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/wynagrodzenie/do-negocjacji/">Do negocjacji</a>
+					</li>
+
+												
+						
+					
+							</ul>
+		</li>
+		
+						<li>
+			<a class="top" href="#open">Kategoria pracy</a>
+			<ul>
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/architekt-informacji/">architekt informacji</a>
+					</li>
+
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/badacz/">Badacz</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/product-designer/">Product Designer</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/product-manager/">Product manager</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/product-owner/">product owner</a>
+					</li>
+
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/projektant/">projektant</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/user-experience/">user experience</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/user-experience-designer/">user experience designer</a>
+					</li>
+
+												
+						
+					
+								<li class="page_item ">
+						<a href="https://praca.uxlabs.pl/kategorie/wyroznione/">Wyróżnione</a>
+					</li>
+
+					
+							</ul>
+		</li>
+		
+				<li><a class="top" href="#open">Data opublikowania</a><ul><li><a href="https://praca.uxlabs.pl/date/?time=today&#038;jobs_by_date=1">Dzisiaj</a></li><li><a href="https://praca.uxlabs.pl/date/?time=week&#038;jobs_by_date=1">Ten tydzień</a></li><li><a href="https://praca.uxlabs.pl/date/?time=lastweek&#038;jobs_by_date=1">Ostatni tydzień</a></li><li><a href="https://praca.uxlabs.pl/date/?time=month&#038;jobs_by_date=1">Ten miesiąc</a></li></ul></li>
+				
+			</ul>
+		</div>
+	</div>
+	<div id="tags" class="tabbed_section">
+		<div class="contents">
+
+					<ul class="job_tags">
+						<li><a href="https://praca.uxlabs.pl/tagi/2d/">#2D</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/brand-design/">#brand design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/career/">#CAREER</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/copy/">#copy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/crazyegg/">#CrazyEgg</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design/">#design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/dialogue-design/">#dialogue design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ecommerceux/">#eCommerce#UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/euro-net/">#euro-net</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/g2a-praca-rzeszow/">#g2a praca rzeszów</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/g2a-pracag2a-karierasenior-uxdesign-thinking/">#g2a praca#g2a kariera#Senior UX#Design Thinking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/googleanalytics/">#GoogleAnalytics</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interviewing/">#interviewing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/performancematters/">#performancematters</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/productdesign/">#productdesign</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/qualityassurance/">#qualityassurance</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/staz/">#staz</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/stazux/">#stazux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/testing/">#testing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/tieto/">#tieto</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uidesigner/">#uidesigner</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user_interface/">#user_interface</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/userexperience/">#userexperience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/userinterface/">#userinterface</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-productdesign-ui/">#ux #productdesign #ui</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-design-mobile/">#UX; #DESIGN; #MOBILE</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/00-695/">00-695</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/02-784/">02-784</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/02-952/">02-952</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/10clouds/">10clouds</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/20-607/">20-607</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/54-203/">54-203</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/80-266/">80-266</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ab/">A/B</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ab-tests/">A/B tests</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/abb/">ABB</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/accessibility/">accessibility</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adar/">adar</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adf/">ADF</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/administracja/">administracja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/administrator/">administrator</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/administrator-sap/">administrator sap</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe/">Adobe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-analytics/">adobe analytics</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-cc/">adobe cc</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-cc-design/">adobe cc design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-creative-suite/">Adobe Creative Suite</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-cs/">Adobe CS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-illustrator/">Adobe illustrator</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-photoshop/">Adobe Photoshop</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-photoshop-i-adobe-illustrator/">Adobe Photoshop i Adobe Illustrator</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-suit/">Adobe Suit</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-suite/">Adobe Suite</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-suite-software/">Adobe Suite Software</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adobe-xd/">Adobe Xd</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/adwords/">Adwords</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/aftersales/">aftersales</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/agencja/">agencja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/agencja-interaktywna/">agencja interaktywna</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/agile/">agile</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/agile-team/">Agile Team</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ai/">ai</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/airhelp/">airhelp</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/airlines/">airlines</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ajax/">AJAX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/al-to/">al.to</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/alior/">alior</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/aliorbank/">aliorbank</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/allegro/">allegro</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/allocation/">Allocation</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/amd/">AMD</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/amerykanski-team/">amerykański team</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analityk/">analityk</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analityk-biznesowy/">analityk biznesowy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analityk-internetowy/">analityk internetowy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analityk-systemowy/">analityk systemowy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analityk-web/">analityk web</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analityk-webowy/">analityk webowy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analityka/">analityka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analityka-internetowa/">analityka internetowa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analiza/">analiza</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analiza-rynku/">analiza rynku</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analizy/">analizy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analysis/">analysis</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analyst/">analyst</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analytic/">Analytic</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analytics/">analytics</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/analyzing/">analyzing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/android/">android</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/angielski/">angielski</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/angular/">Angular</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/angularjs/">AngularJS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/animation/">animation</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/aplikacje/">aplikacje</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/aplikacje-biznesowe/">aplikacje biznesowe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/aplikacje-mobilne/">aplikacje mobilne</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/app/">app</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/application/">application</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/application-development-framework/">Application Development Framework</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/applications/">applications</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/apps/">apps</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/appstore/">Appstore</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ar/">AR</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/architecture-of-information/">Architecture of information</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/architekt/">architekt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/architekt-informacji/">architekt informacji</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/architekt-systemow/">Architekt Systemów</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/architektura/">Architektura</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/architektura-informacji/">architektura informacji</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/artificial-intelligence/">artificial intelligence</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/asp-net/">ASP.NET</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/asseco-poland/">asseco poland</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/asystent/">asystent</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ats/">ats</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/auditor/">auditor</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/audyt/">audyt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/audytor/">audytor</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/audyty/">audyty</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/audyty-dostepnosci/">audyty dostępności</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/automotive/">automotive</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/avsystem/">avsystem</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/axuer/">Axuer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/axure/">axure</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/axure-code/">Axure Code</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/axure-photoshop/">Axure Photoshop</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/axure-rp/">axure rp</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/azure/">Azure</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/b2b/">b2b</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badacz-2/">badacz</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badacz-user-experience/">badacz User Experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badacz-ux/">badacz ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badaczka/">badaczka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badania/">badania</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badania-ilosciowe/">badania ilościowe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badania-ilosciowejakosciowe/">badania ilościowe/jakościowe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badania-jakosciowe/">badania jakościowe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badania-ux/">badania UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badania-uzytecznosci/">badania użyteczności</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badania-z-uzytkownikami/">badania z użytkownikami</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badanie/">badanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/badanie-turystow/">badanie turystów</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/balsamiq/">Balsamiq</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/bandanna-z-uzytkownikami/">bandanna z użytkownikami</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/bank/">bank</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/banking/">banking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/bankowosc/">bankowość</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/bankwosc-internetowa/">bankwość internetowa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/bb8/">bb8</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/beka/">beka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/benchmarking/">benchmarking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/berlin/">berlin</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/big-data/">Big Data</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/blockchain/">BlockChain</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/blueprints/">blueprints</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/booking-flow/">booking flow</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/booksy/">booksy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/bootstrap/">bootstrap</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/brand/">brand</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/branded-products/">branded products</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/branding/">branding</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/branza-lotnicza/">branża lotnicza</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/bristol/">bristol</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/browary/">browary</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/brutto/">brutto</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/budapeszt/">budapeszt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/business-analyst/">Business Analyst</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/business-apps/">business apps</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/buzz/">buzz</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/c/">c+</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cc/">cc</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cc-technology/">cc technology</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/chatbots/">chatbots</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/chuj_z_lasem/">chuj_z_lasem</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cloud/">cloud</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/clouds/">clouds</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cms/">CMS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/codilime-ux/">CODILIME UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/coe/">coe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/coffee/">coffee</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/coffeescript/">CoffeeScript</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cogision/">cogision</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cogniance/">Cogniance</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cognitive/">cognitive</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/communication/">communication</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/community/">community</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/compliance/">Compliance</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/consultant/">consultant</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/content/">content</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/contentowe/">contentowe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/convenience/">convenience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/conversion/">conversion</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/conversion-optimisation/">conversion optimisation</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/conversion-optimizer/">conversion optimizer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/conversion-rate-optimisation/">conversion rate optimisation</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/conversion-specialist/">conversion specialist</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/copywriting/">copywriting</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/corel/">corel</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cracow/">cracow</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/crafton/">crafton</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/creative/">creative</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/crm/">CRM</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cro/">cro</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cro-specialist/">cro specialist</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cryptocurrency/">cryptocurrency</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/csm/">CSM</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/css/">css</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/css3/">CSS3</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/customer-experience/">customer experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/customer-journey/">customer journey</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/customer-journeys/">Customer Journeys</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/customer-success/">Customer Success</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/customer-success-manager/">Customer Success Manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/customerexperience/">customerexperience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cx/">cx</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/cx-design/">cx design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/czestochowa/">częstochowa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/daftcode/">Daftcode</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/data-science/">data science</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/datascience/">datascience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/debug-documents/">debug documents</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/decerto/">decerto</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/deisgner/">deisgner</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/desgner/">desgner</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/desigh-thinking/">Desigh Thinking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-2/">design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-lead/">Design Lead</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-patterns/">design patterns</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-research/">design research</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-sprint/">Design Sprint</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-team/">design team</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-team-lead/">Design Team Lead</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-team-leader/">Design Team Leader</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-thinking/">design thinking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/design-workshop/">design workshop</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/designer/">designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/designer-ux/">Designer UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/designers/">designers</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/designing/">designing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/designthinking/">designthinking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/desktop/">desktop</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/developer/">developer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/developing-product/">Developing Product</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/development/">development</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/deweloper/">deweloper</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/diabdis/">diabdis</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/digital/">Digital</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/digital-brand/">digital brand</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/digital-interfaces/">digital interfaces</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/digital-product-designer/">digital product designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/digital-products/">digital products</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/director/">director</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/dmo/">DMO</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/do-kosza/">do kosza</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/dostepnosc/">dostępność</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/doswiadczenie/">doświadczenie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/doswiadczenie-uzytkownika/">doświadczenie użytkownika</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/dreamjob/">dreamjob</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/dtp/">dtp</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/dutch/">dutch</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/dynatrace/">dynatrace</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/e-commerce/">e-commerce</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/e-learning/">e-learning</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/e-point/">e-point</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/e-uslugi/">e-usługi</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ebm/">EBM</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ecommerce/">ecommerce</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ecommerce-user-interfaces/">ecommerce user interfaces</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/edisonda/">EDISONDA</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/edukacja/">edukacja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/egnyte/">Egnyte</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ehealth/">eHealth</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ekspert/">ekspert</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ekspert-ux/">Ekspert UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/el-passion/">EL Passion</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/emberjs/">EmberJS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/end-user-study/">End User Study</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/engeneer/">engeneer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/english/">english</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/enterprise/">enterprise</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/enterprise-software/">Enterprise Software</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/enterprise-ux/">enterprise UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/erp/">ERP</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/es6/">ES6</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/etat-2/">etat</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/etat-axure/">etat axure</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/evaluation/">Evaluation</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/excel/">excel</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/experience/">experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/experience-designer/">experience designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/experienced/">experienced</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/experiencedesign/">experiencedesign</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/expert/">expert</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/expert-ds-ux/">expert ds. UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/eye-tracking/">eye tracking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/f/">f</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fajnie/">fajnie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fandom/">fandom</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/feedback/">feedback</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fia/">fia</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fiba/">fiba</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fina/">fina</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/finance/">Finance</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/financial/">financial</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/finans/">finans</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/finanse/">finanse</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/findings/">findings</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fintech/">fintech</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/flinto/">flinto</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/flow/">flow</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/flows/">flows</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/framer/">framer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/freelance/">freelance</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/freelancer/">freelancer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fronend/">fronend</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/front/">FRONT</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/front-end/">front end</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/front-end-ux/">Front end. ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/frontend/">frontend</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fuel/">fuel</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fullstory/">fullstory</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fun/">fun</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/funkcjonalnosci/">funkcjonalności</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/furniture/">furniture</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/fuze/">Fuze</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gaiq/">gaiq</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/game/">game</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/game-design/">game design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gamedev/">gamedev</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gamers/">gamers</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/games/">games</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gamification/">gamification</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gaming/">gaming</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gdansk/">gdańsk</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gdynia/">gdynia</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ge/">GE</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/geneva/">geneva</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gerere/">gerere</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/getresponse/">GetResponse</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gfx/">gfx</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gig/">gig</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/global/">global</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/global-brand/">Global Brand</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/google-analytics/">google analytics</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/google-material-design/">google material design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/googleplay/">googleplay</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gov/">gov</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graficzka/">graficzka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/grafik/">grafik</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/grafik-dtpwebdesigner/">GRAFIK DTP/WEBDESIGNER</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/grafik-komputerowy/">grafik komputerowy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/grafika/">grafika</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphic/">Graphic</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphic-design/">graphic design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphic-designer/">graphic designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphical-user-interfaces/">graphical user interfaces</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphicdesign/">graphicdesign</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphicdesigner/">graphicdesigner</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphics/">graphics</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphics-designer/">graphics designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/graphis/">graphis</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gratka/">gratka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gratka-pl/">gratka.pl</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/growbots/">growbots</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/growth/">growth</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gry/">gry</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gry-wideo/">gry wideo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/grywalizacja/">grywalizacja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/guerilla-testing/">guerilla testing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/guerrilla-research/">guerrilla research</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/gui/">gui</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/guidelines/">guidelines</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hacker/">hacker</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/haml/">Haml</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hays/">hays</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hc/">HC</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hci/">hci</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/head/">head</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/health-care/">Health care</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/healthcare/">Healthcare</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/heath-care/">heath care</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/heatmap/">heatmap</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/heatmaps/">heatmaps</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hifi/">hifi</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/high-scale/">high scale</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hiring/">hiring</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/home-office/">home office</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hotjar/">hotjar</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hotjat/">hotjat</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/html/">html</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/html5/">html5</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/human-experience/">human experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/human-computer-interaction/">human-computer interaction</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/hx/">hx</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/i-speak-english/">i speak english</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ia/">IA</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ict/">ICT</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/id/">ID</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/idi/">idi</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/illustration/">illustration</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/illustrator/">illustrator</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ilustrator/">Ilustrator</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/imac/">iMac</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/impact/">impact</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/indesign/">InDesign</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/indoor-positioning/">indoor positioning</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/infographics/">infographics</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/information-architect/">information architect</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/information-architecture/">Information Architecture</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/informatyka/">informatyka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ing/">ing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/innowacja/">innowacja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/insys/">insys</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interaction/">interaction</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interaction-design/">interaction design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interaction-design-prototyping/">Interaction Design &amp; Prototyping</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interaction-designer/">interaction designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interactive/">interactive</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interactive-designer/">interactive designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interakcja/">interakcja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interakcje/">interakcje</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interface/">interface</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interface-design/">Interface design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interfaces/">interfaces</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interfejs/">interfejs</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interfejsy/">interfejsy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/interfejsy-uzytkownika/">interfejsy użytkownika</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/intern/">intern</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/international-coupons/">international coupons</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/internet/">internet</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/internship/">internship</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/internsip/">internsip</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/invision/">invision</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ios/">iOS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ios-human-interface-guildelines/">iOS human interface guildelines</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/iot/">Iot</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/iphone/">iPhone</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/irise/">iRise</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/iso-13407/">ISO 13407</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/it-2/">it</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/it-audit/">IT audit</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/it-security/">IT Security</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/iteo/">iteo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ixd/">ixd</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/j2ee/">j2ee</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jakosc/">jakość</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jakosciowa-i-ilosciowa-walidacja-hipotez/">jakościowa i ilościowa walidacja hipotez</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jamf/">Jamf</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/java/">java</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/java-script/">java script</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/javascript/">javascript</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/javascript-developer/">JavaScript Developer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jest-lepiej/">jest lepiej</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jezus-maria/">Jezus Maria</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jira/">jira</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/job/">job</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jobs/">jobs</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jpa/">JPA</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jquery/">jQuery</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/js/">js</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/junior/">junior</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/junior-badacz/">junior badacz</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/junior-designer/">junior designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/junior-product-manager/">Junior Product Manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/junior-ui-designer/">junior ui designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/junior-ux/">junior ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/junior-ux-designer/">junior ux designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/juniorux/">juniorux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jutro-od-nowa/">jutro od nowa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/jwt/">jwt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/k2-user-experience/">k2 user experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kam/">KAM</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kartka/">kartka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kasa/">kasa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/katowice/">katowice</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kawa/">kawa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/key-account-manager/">Key Account Manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kierownik/">kierownik</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kierownik-zespolu/">Kierownik Zespołu</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/koder/">koder</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kompetencje/">kompetencje</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/koncepja/">koncepja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/konkurs/">konkurs</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/konsultant/">konsultant</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/konsultant-ux/">konsultant ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/konsulting/">konsulting</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kontrakt/">kontrakt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kontraktowa/">kontraktowa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/konwersja/">Konwersja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/koordynator/">koordynator</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/krakow/">kraków</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/kreacja/">Kreacja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ktora/">ktora</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/la-wonderlab/">la wonderlab</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/labolatorium/">labolatorium</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lead/">Lead</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lead-generation/">lead generation</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/leader/">leader</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/leadership/">leadership</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lean/">lean</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lean-ux/">Lean UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lemon-sky/">lemon sky</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/less/">Less</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/less-sass/">LESS/SASS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lider/">lider</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/likims/">LikiMS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/linguistics/">linguistics</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lofi/">lofi</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lorem/">lorem</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lotnictwo/">lotnictwo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lublin/">lublin</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lubuskie/">lubuskie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/lodz/">Łódź</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/m-commerce/">m-commerce</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mac/">Mac</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/macbook/">MacBook</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/machinelearning/">machinelearning</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/magic-mouse/">Magic Mouse</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/makieta/">makieta</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/makietowanie/">makietowanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/makiety/">makiety</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/management/">Management</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/manager/">manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mapy/">mapy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/marketing-2/">marketing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/marketplace/">marketplace</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/marvel/">marvel</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/marvel-app/">Marvel App</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/material-design/">Material Design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/media/">media</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/messenger/">messenger</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/metody-badawcze/">metody badawcze</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/microsoft-ax/">Microsoft AX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/microsoft-dynamics-nav-erp-system/">Microsoft Dynamics NAV ERP system</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/miedzynarodowe-srodowisko-pracy/">międzynarodowe środowisko pracy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/milosc/">miłość</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mixpanel/">Mixpanel</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ml/">ml</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mlodszy-badacz/">młodszy badacz</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mlodszy-programista/">młodszy programista</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mlodszy-projektant/">młodszy projektant</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile/">mobile</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-aplications/">mobile aplications</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-app/">mobile app</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-application/">mobile application</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-applications/">mobile applications</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-apps/">mobile apps</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-banking/">Mobile Banking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-design/">mobile design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-designer/">mobile designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-interface/">mobile interface</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-platforms/">mobile platforms</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-ui-design/">mobile UI design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobile-ux/">mobile ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobileapps/">mobileapps</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobilegames/">mobilegames</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mobilne/">mobilne</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mock-ups/">mock-ups</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mockup/">mockup</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mockups/">mockups</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mokotow/">mokotów</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/motion-design/">motion design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mrp/">MRP</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ms-office/">MS OFFICE</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mssql/">mssql</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/mysql/">MYSQL</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/nad-morzem/">nad morzem</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/nadmorzem/">nadmorzem</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/nadzieja/">nadzieja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/nastepna/">następna</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/naszemiasto-pl/">Naszemiasto.pl</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/navigate-user-interfaces/">navigate user interfaces</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/navigation-models/">navigation models</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/net/">net</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/new-technologies/">NEW TECHNOLOGIES</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/niemcy/">niemcy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/nlp/">NLP</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/nokorpo/">nokorpo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/nowe-idzie-od-morza/">Nowe idzie od morza</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/nowe-technologie/">nowe technologie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/npm/">npm</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/objective-c/">Objective-C</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/obsluga-sklepu-online/">obsługa sklepu online</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/oferta/">oferta</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/offer/">offer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/omnigraffe/">Omnigraffe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/omnigraffle/">omnigraffle</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/online/">online</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/oop/">OOP</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/operational-risk-management/">Operational Risk Management</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/optimisation/">optimisation</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/optimisations/">optimisations</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/optimization/">Optimization</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/optymalizacja/">optymalizacja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/optymalizacja-konwersji/">optymalizacja konwersji</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/optymalizacja-wspolczynnika-konwersji/">optymalizacja współczynnika konwersji</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/orange/">orange</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ott/">ott</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/panel-zarzadzania/">panel zarządzania</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/panstwo/">państwo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/papierowe-prototypy/">papierowe prototypy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/pasja/">pasja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/pc-sas-base/">PC SAS Base</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/personas/">Personas</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/photoshop/">Photoshop</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/photoshop-illustrator/">Photoshop. Illustrator</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/php/">php</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/picodi/">picodi</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/pitch/">pitch</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/pixers/">pixers</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/planowanie/">planowanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/platform/">platform</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/pleo/">pleo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/platny-staz/">płatny staż</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/pm/">pm</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/po/">po</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/polska/">Polska</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/polska-press/">Polska Press</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/polska-press-internet/">Polska Press Internet</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/position/">position</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/pozamiatane/">pozamiatane</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/poznan/">poznań</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/pr/">pr</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca/">praca</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-dla-juniora/">praca dla juniora</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-dla-studenta/">praca dla studenta</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-it/">praca it</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-krakow/">praca kraków</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-stala/">praca stała</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-ui/">praca ui</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-ux/">praca ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-ux-designer/">praca UX designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-w-startupie/">Praca w startupie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-warszawa/">praca Warszawa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-zdalna/">praca zdalna</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praca-zdalna-cala-polska/">Praca zdalna (cała Polska)</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/praktyki/">praktyki</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/presentation-and-facilitating-skills/">presentation and facilitating skills</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/proces/">proces</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/process-excellence-team/">Process Excellence team</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/procesy/">procesy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/prodct/">prodct</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/product/">product</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/product-design/">Product Design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/product-designer/">product designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/product-development/">product development</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/product-manager/">Product Manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/product-owners/">product owners</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/productcamp/">ProductCamp</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/productdesigner/">productdesigner</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/producthouse/">producthouse</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/produkcja/">produkcja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/produkt/">produkt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/produkty-digitalowe/">produkty digitalowe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/proejtkowanie/">proejtkowanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/professional/">professional</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/programista/">programista</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/programista-php/">programista PHP</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/programmer/">programmer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/programming/">programming</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/programowanie/">programowanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/project-manager/">project manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projects/">projects</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projekt/">projekt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projekt-badawczy/">projekt badawczy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projekt-funkcjonalny/">projekt funkcjonalny</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektant/">projektant</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektant-aplikacji/">projektant aplikacji</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektant-doswiadczen/">projektant doświadczeń</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektant-interakcji/">projektant interakcji</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektant-stron/">projektant stron</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektant-ui/">projektant ui</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektant-ux/">projektant ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektant-ux-wroclaw/">Projektant UX Wrocław</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektantka/">projektantka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektantow-interakcji/">projektantów interakcji</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektantux/">projektantux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektosonda/">projektosonda</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie/">projektowanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie-badan/">projektowanie badań</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie-graficzne/">projektowanie graficzne</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie-interakcji/">projektowanie interakcji</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie-serwisow/">projektowanie serwisów</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie-stron/">projektowanie stron</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie-user-experience/">projektowanie User Experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie-uslug/">projektowanie usług</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektowanie-ux/">Projektowanie UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projektownaie/">projektownaie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projekty/">projekty</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/projekty-spoleczne/">projekty społeczne</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/proptech/">proptech</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/prototyp/">prototyp</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/prototype/">prototype</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/prototype-testing/">prototype testing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/prototyping/">prototyping</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/prototypowanie/">prototypowanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/prototypownie/">prototypownie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/prototypy/">prototypy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/przemysl/">przemysł</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/przeprowadzanie-badan/">przeprowadzanie badań</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/przetwarzanie-mowy-naturalnej/">przetwarzanie mowy naturalnej</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ps/">PS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/psd/">PSD</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/public/">public</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/python/">python</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/qa/">QA</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/qml/">QML</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/qt/">Qt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/qualitatiive/">qualitatiive</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/quantitative/">quantitative</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/raporty/">raporty</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/react/">react</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/react-js/">React.js</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/reactjs/">ReactJS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/reading/">reading</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/reaserch/">reaserch</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/reasercher/">reasercher</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/remote/">remote</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/remote-reserach/">remote reserach</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/remote-testing/">remote testing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/remote-usability/">remote usability</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/remote-work/">remote work</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/reporting/">reporting</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/reports/">reports</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/research/">research</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/researcher/">researcher</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/researcher-ux/">researcher ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/responsive/">responsive</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/responsive-web-design/">Responsive Web Design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/rest/">REST</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/retail-2/">retail</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/risk-and-control-assessments/">Risk and Control Assessments</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/risk-control/">Risk Control</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/risk-managemen/">Risk Managemen</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/roche/">Roche</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/rozpacz/">rozpacz</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/rozwoj/">rozwój</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ruby-on-rails/">Ruby on Rails</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/rwd/">RWD</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/rzeszow/">rzeszów</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sdesign/">s=design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/saas/">SaaS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sagiton/">sagiton</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sales/">sales</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/salesforce/">salesforce</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/samospelnienie/">samospełnienie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sap/">sap</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sas/">SAS</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/saska-kepa/">saska kępa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sass/">Sass</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/scenarios/">scenarios</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/scrum/">scrum</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/scrum-team/">Scrum Team</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sd/">SD</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/search/">search</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/searching-mechanisms/">searching mechanisms</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sem/">SEM</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senfino/">Senfino</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior/">senior</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-designer/">senior designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-product-manager/">senior product manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-projektant-ui/">Senior Projektant UI</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-projektant-ux/">Senior Projektant UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-uiux-designer/">senior ui/ux designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-user-experience/">Senior User Experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-ux/">Senior UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-ux-designer/">senior UX designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/senior-ux-designer-ux-designer/">SENIOR UX DESIGNER UX DESIGNER</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/seo/">seo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/seocopywriting/">seocopywriting</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/serior/">serior</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/server-side-apps/">server side apps</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/service/">Service</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/service-design/">service design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/service-designer/">Service Designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/service-experience-designer/">service experience designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/serwisy-internetowe/">serwisy internetowe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/shaders/">Shaders</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/single-page-webapp/">single-page-webapp</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/site-manager/">site manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/site-maps/">site maps</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sketcgm-zeplin/">sketcgm zeplin</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sketch/">Sketch</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sketch-app/">sketch app</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sketches/">sketches</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sketching/">sketching</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/skrypt/">skrypt</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/slaskie/">śląskie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/smart-home/">smart home</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/smartphone/">smartphone</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/socia-media/">socia media</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/social/">social</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/social-media/">social media</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/software/">software</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/software-design/">Software Design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/software-house/">software house</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/software-intelligence/">Software Intelligence</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sopot/">sopot</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/spartez/">spartez</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/specialist/">specialist</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/specialista/">specialista</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/specjalista/">specjalista</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/specjalista-ds-uzytecznosci/">specjalista ds. użyteczności</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/specjalista-ux/">specjalista UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/specjalista-ux-wroclaw/">Specjalista UX Wrocław</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/specking/">specking</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/spedycja/">spedycja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/spelnienie/">spełnienie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/spoleczny/">spoleczny</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/spoleczne-projekty/">społeczne projekty</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/spring/">SPRING</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sprint/">sprint</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sprzedaz/">sprzedaż</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sql/">sql</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/starszy/">starszy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/starszy-programista/">starszy programista</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/starszy-projektant-ux/">Starszy Projektant UX</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/start-up/">start-up</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/startup/">startup</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/startups/">startups</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/staz-2/">staż</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/stazysta/">stażysta</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/strategia/">strategia</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/strategia-emarketing/">strategia emarketing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/strategia-ux/">strategia ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/student/">student</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/studio-projektowe/">Studio projektowe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/stxnext/">stxnext</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/swansea/">swansea</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/symetria/">Symetria</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/syncano/">syncano</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/syncron/">Syncron</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/systems/">systems</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/systemy-graficzne/">systemy graficzne</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/szatak/">szatak</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/szczecin/">szczecin</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/szczescie/">szczęście</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/szlachetna-paczka/">szlachetna paczka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/sztuczna-inteligencja/">sztuczna inteligencja</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/tablet/">tablet</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/team/">team</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/team-leader/">team leader</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/teamleader/">teamleader</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/tech/">tech</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/technical/">technical</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/technologiczny/">technologiczny</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/tensquaregames/">tensquaregames</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/test/">test</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/tester/">tester</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/tester-oprogramowania/">tester oprogramowania</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/testowanie/">testowanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/testy/">testy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/testy-ab/">testy a/b</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/testy-na-uzytkownikach/">testy na użytkownikach</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/testy-uzytecznosci/">testy użyteczności</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/testy-zdalne/">testy zdalne</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/the-story/">the story</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/tlumaczenia/">tłumaczenia</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/torun/">Toruń</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/trainee/">trainee</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/transaction-flows/">transaction flows</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/transport/">transport</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/travel/">travel</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/trojmiasto/">trójmiasto</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/truck/">truck</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/trucks/">trucks</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/tworzenie-stron/">tworzenie stron</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/typescript/">TypeScript</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/u/">U</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/u-designer/">u designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ucd/">ucd</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uczy/">uczy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui/">ui</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui-artist/">ui artist</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui-design/">ui design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui-designer/">ui designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui-developer/">UI Developer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui-ux/">ui ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui-illustrator-indesig-photoshop/">UI; Illustrator; InDesig; Photoshop</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui-ux-ui-designer/">ui; ux; ui designer;</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ui-ux-designer/">UI/ UX designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uiux-designer/">UI/UX Designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uid8/">UID8</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uidesign/">uidesign</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uiux/">uiux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uk/">uk</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ul/">ul</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/unity/">Unity</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/unix/">unix</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uop/">uop</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usability/">usability</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usability-engineering/">Usability engineering</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usability-projektowanie-ux-interfejs/">usability projektowanie ux interfejs</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usability-tools/">usability tools</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usabilitytools/">usabilitytools</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/use-experience/">use experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usebility/">Usebility</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uselab/">uselab</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user/">user</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-ex0eruence-designer/">user ex0eruence designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-exeperience/">user exeperience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-exerience/">user exerience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-experiance/">user experiance</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-experieence/">user experieence</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-experience/">user experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-experience-design/">User Experience design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-experience-designer/">user experience designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-experience-leader/">User Experience Leader</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-experience-researcher/">User Experience Researcher</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-flows/">user flows</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-interface/">User interface</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-interface-design/">User Interface Design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-interface-design-patterns/">User Interface Design Patterns</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-interface-designer/">user interface designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-requirements-gathering/">user requirements gathering</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-research/">user research</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-researcher/">user researcher</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-testing/">user testing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-tests/">user tests</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/user-centered-design/">user-centered-design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usertesty/">usertesty</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uslugi/">usługi</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usmiech-klienta/">uśmiech klienta</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/usmiech-usera/">uśmiech usera</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uu-designer/">UU designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux/">ux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-architect/">ux architect</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-consultant/">ux consultant</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-deigner/">ux deigner</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-desginer/">ux desginer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-design/">ux design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-design-designer-graphic-grafik/">ux design designer graphic grafik</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-designer/">ux designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-designer-junior-ux-designer/">UX designer Junior UX Designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-designer-specialist-it/">UX designer specialist IT</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-designer-wroclaw/">UX Designer Wrocław</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-desinger/">UX Desinger</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-developer/">UX developer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-ecommerce-uxeria-unicorn/">ux ecommerce uxeria unicorn</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-evangelist/">UX Evangelist</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-experience/">ux experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-hcd-research-startup/">ux hcd research startup</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-lead/">ux lead</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-leader/">ux leader</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-manager/">UX Manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-pin/">UX Pin</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-pind/">UX Pind</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-reasearch/">ux reasearch</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-research/">ux research</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-researcher/">ux researcher</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-specialist/">ux specialist</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-team-lead/">ux team lead</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-ui-axure/">ux ui axure</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-usability-graphic-design-grafika-grafik/">ux usability graphic design grafika grafik</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-warsaw/">ux warsaw</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux_intern/">ux_intern</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux_za_przeproszeniem/">ux_za_przeproszeniem</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-user-experience/">UX; user experience</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxdesktopprojekt-badawczy/">UX;desktop;projekt badawczy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/ux-iu/">ux/iu</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxui/">UX/UI</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxui-design/">UX/UI design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxui-designer/">UX/UI Designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxui-director/">ux/ui director</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxd/">uxd</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxdesign/">uxdesign</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxdesigner/">uxdesigner</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxeria/">Uxeria</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxlab/">uxlab</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxnet/">UXnet</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uxpin/">uxpin</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/uzytecznosc/">użyteczność</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/vba/">VBA</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/visual/">visual</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/visual-and-interaction-designer/">Visual and Interaction Designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/visual-communication/">visual communication</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/visual-design/">visual design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/visual-design-principle/">visual design principle</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/visual-designer/">visual designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/visual-desinger/">visual desinger</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/voice-assistants/">voice assistants</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/voice-user-interface/">Voice-User Interface</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/volvo/">Volvo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/vr/">VR</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/w-zaleznosci-od-doswiadczenia/">w zależności od doświadczenia</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/warsaw/">warsaw</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/warszawa/">warszawa</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/warszawapowisle/">Warszawa/Powiśle</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/warsztat/">warsztat</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/warsztaty/">warsztaty</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wcag/">wcag</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wcag-2-0/">wcag 2.0</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wearables/">WEARABLES</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web/">web</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-4-0/">web 4.0</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-accessibility/">web accessibility</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-analyst/">web analyst</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-analytics/">web analytics</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-app/">web app</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-application/">Web application</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-applications/">web applications</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-design/">web design</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-designe/">web designe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-designer/">web designer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-developer/">web developer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-development/">web development</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/web-project-manager/">Web Project Manager</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/webdesign/">webdesign</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/webdesigner/">Webdesigner</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/webdeveloper/">webdeveloper</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/webdevelopment/">webdevelopment</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/webmaster/">webmaster</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/webowy/">webowy</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/webservices/">webservices</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/website/">website</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/websiteaudyto/">websiteaudyto</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wideo/">wideo</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wikia/">wikia</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/windows/">windows</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wiosna/">wiosna</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wireframe/">wireframe</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wireframes/">wireframes</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wirtualna_polska/">Wirtualna_Polska</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wonder-life/">wonder life</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wordpress/">wordpress</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/work/">work</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/work-offer/">work offer</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/workshop/">workshop</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/workshops/">workshops</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wp/">WP</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/writing/">writing</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wroclaw/">wroclaw</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wscieklosc/">wściekłość</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/www/">www</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wykladowca/">Wykładowca</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wyszukiwarka/">wyszukiwarka</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/wywiady/">wywiady</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/x-com/">x-com</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/x-kom/">x-kom</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/xcode/">Xcode</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/xcom/">xcom</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/xhtml/">XHTML</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/xkom/">xkom</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/xtb/">xtb</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/yellow-pages/">yellow pages</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/yuux/">yuux</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zabierzow/">zabierzów</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zadowolenie/">zadowolenie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zajebisty/">zajebisty</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zarzadzanie/">zarządzanie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zdalna/">zdalna</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zdalnie/">zdalnie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zeplin/">zeplin</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zielona-gora/">zielona góra</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zlecenie/">zlecenie</a></li>
+						<li><a href="https://praca.uxlabs.pl/tagi/zmien-srodowisko/">zmień środowisko</a></li>
+				</ul>
+
+		</div>
+	</div>
+</li>
+
+		<li id="mc4wp_form_widget-5" class="widget widget_mc4wp_form_widget"><div></div><h2 class="widget_title">Nowe oferty dla UX co tydzień!</h2><div class="widget_content"><script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.4 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-2273 mc4wp-form-basic" method="post" data-id="2273" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><p>
+    <label>Imię:</label>
+    <input type="text" name="FNAME" placeholder="Podaj swoje imię" >
+	<label>E-mail: </label>
+	<input type="email" id="mc4wp_email" name="EMAIL" placeholder="Podaj swój e-mail" required />
+</p>
+
+<p>
+	<input type="submit" value="Zapisz się" />
+</p>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555331080" /><input type="hidden" name="_mc4wp_form_id" value="2273" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div></li><li id="jr_facebook-5" class="widget widget-facebook"><div></div><h2 class="widget_title">Facebook</h2><div class="widget_content">
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.3&appId=235643263204884";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+			<div class="fb-page" data-href="https://www.facebook.com/pracaux"  data-width = "260"   data-height = "250"   data-hide-cover = "false"   data-show-facepile = "true"   data-show-posts = "false"   data-hide-cta = "false"   data-small-header = "false"   data-adapt-container-width = "true"   >
+			<div class="fb-xfbml-parse-ignore">
+				<blockquote cite="https://www.facebook.com/pracaux">
+					<a href="https://www.facebook.com/pracaux">Facebook</a>
+				</blockquote>
+			</div>
+		</div>
+	</div></li><li id="top_listings_overall-2" class="widget widget_top_listings_overall"><div></div><h2 class="widget_title">Popularne oferty</h2><div class="widget_content"><ul class="pop"><li><a href="https://praca.uxlabs.pl/oferty/senior-ux-designer-68/">UX Designer</a> (1,221&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/junior-designer/">Junior UX Designer</a> (879&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/ui-ux-designer-home-connect/">UI/UX Designer Home Connect</a> (607&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/senior-ui-visual-designer/">Senior UI / Visual designer</a> (435&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/mid-senior-ux-ui-designer/">Mid-Senior UX/UI Designer</a> (378&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/product-designer-remote-2/">Product Designer, remote</a> (282&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/product-designer-36/">Product Designer</a> (272&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/senior-ux-designer-74/">Senior UX Designer</a> (269&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/ux-designer-378/">UX Designer</a> (267&nbsp;wyświetleń)</li><li><a href="https://praca.uxlabs.pl/oferty/junior-mid-web-designer-ui-designer/">Junior/Mid Web Designer, UI Designer</a> (258&nbsp;wyświetleń)</li></ul></div></li>
+		
+	</ul>
+
+</div><!-- end sidebar -->
+
+				<div class="clear"></div>
+
+			</div><!-- end inner -->
+    
+		</div><!-- end content -->
+
+	 	<div id="footer-top">
+	<div class="inner">
+				</div>
+</div>
+
+<div id="footer">
+
+    	<div class="inner">
+
+	<p><a href="https://praca.uxlabs.pl/kontakt">Kontakt</a> | Copyright &copy; 2019 Praca UX 
+
+		</div><!-- end inner -->
+
+</div><!-- end footer -->
+
+
+
+
+				
+</div><!-- end wrapper -->
+
+
+	
+		<script>
+	
+			jQuery('#mainContent ul.display_section li a').click(function(){
+				jQuery('#mainContent div.myjobs_section').hide();
+				jQuery(jQuery(this).attr('href')).show();
+				jQuery('#mainContent ul.display_section li').removeClass('active');
+				jQuery(this).parent().addClass('active');
+				return false;
+			});
+			jQuery('#mainContent ul.display_section li a:eq(0)').click();
+
+			// trigger the selected tab
+					</script>
+		
+	
+
+<!-- start wp_footer -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-167612-17']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- end wp_footer -->
+
+<script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/comment-reply.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-includes/js/wp-embed.min.js?ver=5.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.4'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://praca.uxlabs.pl/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.4'></script>
+<![endif]-->
+		<script type="text/javascript">
+			/* <![CDATA[ */
+
+			// Sidebar
+			jQuery('ul.widgets li.widget.widget-nav div ul li ul, ul.widgets li.widget.widget-nav div').hide();
+			jQuery('.widget-nav div.tabbed_section:eq(0), .widget-nav div.tabbed_section:eq(0) .contents').show();
+			jQuery('.widget-nav ul.display_section li:eq(0)').addClass('active');
+
+			// Tabs
+			jQuery('.widget-nav ul.display_section li a').click(function(){
+
+				jQuery('.widget-nav div.tabbed_section .contents').fadeOut();
+				jQuery('.widget-nav div.tabbed_section').hide();
+
+				jQuery(jQuery(this).attr('href')).show();
+				jQuery(jQuery(this).attr('href') + ' .contents').fadeIn();
+
+				jQuery('.widget-nav ul.display_section li').removeClass('active');
+				jQuery(this).parent().addClass('active');
+
+				return false;
+			});
+
+			// Sliding
+			jQuery('ul.widgets li.widget.widget-nav div ul li a.top').click(function(){
+				jQuery(this).parent().find('ul').slideToggle();
+			});
+			/* ]]> */
+		</script>
+
+</body>
+
+</html>
+<!-- Dynamic page generated in 3.958 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-04-15 14:24:40 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

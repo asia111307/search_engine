@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Three-stratum theory - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Three-stratum_theory","wgTitle":"Three-stratum theory","wgCurRevisionId":882867722,"wgRevisionId":882867722,"wgArticleId":3145530,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognitive psychology","Intelligence"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Three-stratum_theory","wgRelevantArticleId":3145530,"wgRequestId":"XLIGyQpAMFEAAJj7iFEAAACN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7798005","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/50/Carroll_three_stratum_model_of_human_Intelligence.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Three-stratum_theory"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Three-stratum_theory&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Three-stratum_theory&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Three-stratum_theory"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Three-stratum_theory rootpage-Three-stratum_theory skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Three-stratum theory</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The <b>three-stratum theory</b> is a theory of <a href="/wiki/Cognition" title="Cognition">cognitive ability</a> proposed by the American <a href="/wiki/Psychologist" title="Psychologist">psychologist</a> <a href="/wiki/John_Bissell_Carroll" title="John Bissell Carroll">John Carroll</a> in 1993.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-Carroll1997_2-0" class="reference"><a href="#cite_note-Carroll1997-2">&#91;2&#93;</a></sup> It is based on a <a href="/wiki/Factor_analysis" title="Factor analysis">factor-analytic</a> study of the <a href="/wiki/Correlation" class="mw-redirect" title="Correlation">correlation</a> of <a href="/wiki/Differential_psychology" title="Differential psychology">individual-difference</a> variables from data such as psychological tests, school marks and competence ratings. These analyses suggested a three-layered model where each layer accounts for the variations in the correlations within the previous layer.
+</p><p>The three layers (strata) are defined as representing narrow, broad, and <a href="/wiki/G_factor_(psychometrics)" title="G factor (psychometrics)">general cognitive ability</a>. The factors describe stable and observable differences among individuals in the performance of tasks. Carroll argues further that they are not mere artifacts of a mathematical process, but likely reflect  physiological factors explaining differences in ability (e.g., nerve firing rates). This does not alter the effectiveness of factor scores in accounting for behavioral differences.
+</p><p>Carroll proposes a taxonomic dimension in the distinction between level factors and speed factors. The tasks that contribute to the identification of level factors can be sorted by difficulty and individuals differentiated by whether they have acquired the skill to perform the tasks. Tasks that contribute to speed factors are distinguished by the relative speed with which individuals can complete them. Carroll suggests that the distinction between level and speed factors may be the broadest taxonomy of cognitive tasks that can be offered. Carroll distinguishes his hierarchical approach from taxonomic approaches such as Guilford’s <a href="/wiki/J._P._Guilford#Guilford.27s_Structure_of_Intellect" title="J. P. Guilford">Structure of Intellect</a> model (three-dimensional model with contents, operations, and products).
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:502px;"><a href="/wiki/File:Carroll_three_stratum_model_of_human_Intelligence.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Carroll_three_stratum_model_of_human_Intelligence.png/500px-Carroll_three_stratum_model_of_human_Intelligence.png" decoding="async" width="500" height="229" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Carroll_three_stratum_model_of_human_Intelligence.png/750px-Carroll_three_stratum_model_of_human_Intelligence.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/50/Carroll_three_stratum_model_of_human_Intelligence.png 2x" data-file-width="757" data-file-height="346" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Carroll_three_stratum_model_of_human_Intelligence.png" class="internal" title="Enlarge"></a></div>Carroll's three-stratum model. Key: <a href="/wiki/G_factor_(psychometrics)" title="G factor (psychometrics)">fluid intelligence</a> (Gf), crystallized intelligence (Gc), general memory and learning (Gy), broad visual perception (Gv), broad auditory perception (Gu), broad retrieval ability (Gr), broad cognitive speediness (Gs), and processing speed (Gt). Carroll regarded the broad abilities as different "flavors" of <i><a href="/wiki/G_factor_(psychometrics)" title="G factor (psychometrics)">g</a></i>.</div></div></div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development_of_the_three-stratum_theory"><span class="tocnumber">1</span> <span class="toctext">Development of the three-stratum theory</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Development_of_the_three-stratum_theory">Development of the three-stratum theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-stratum_theory&amp;action=edit&amp;section=1" title="Edit section: Development of the three-stratum theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The three-stratum theory is derived primarily from Spearman's (1927)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> model of general intelligence and Horn &amp; Cattell's (1966)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> theory of fluid and crystallized intelligence. His factor analyses were largely consistent with the Horn-Cattell model except that Carroll believed that general intelligence was a meaningful construct.
+</p><p>This model suggests that intelligence is best conceptualized in a hierarchy of three strata.
+</p><p>Stratum III (general intelligence): <i>g</i> factor, accounts for the correlations among the broad abilities at Stratum II.
+</p><p>Stratum II (broad abilities): 8 broad abilities—fluid intelligence, crystallized intelligence, general memory and learning, broad visual perception, broad auditory perception, broad retrieval ability, broad cognitive speediness, and processing speed.
+</p><p>Stratum I (specific level): more specific factors under the stratum II.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Kevin McGrew (2005)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> integrated the Horn-Cattell model with Carroll's to create the <a href="/wiki/Cattell%E2%80%93Horn%E2%80%93Carroll_theory" title="Cattell–Horn–Carroll theory">Cattell-Horn-Carroll Theory of Cognitive Abilities (CHC Theory)</a>, which has since been influential in guiding test development. Johnson and Bouchard<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> have criticized CHC theory and the two major theories on which it is based, suggesting that their <a href="/wiki/G-VPR_model" title="G-VPR model">g-VPR model</a> provides a better explanation of the available data.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-stratum_theory&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/CHC_theory" class="mw-redirect" title="CHC theory">CHC theory</a></li>
+<li><a href="/wiki/G_factor_(psychometrics)" title="G factor (psychometrics)"><i>g</i> factor</a></li>
+<li><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Fluid and crystallized intelligence</a></li>
+<li><a href="/wiki/G-VPR_model" title="G-VPR model">g-VPR model</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Human_intelligence_topics" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Human_intelligence_topics" title="Template:Human intelligence topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Human_intelligence_topics" title="Template talk:Human intelligence topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Human_intelligence_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Human_intelligence_topics" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_intelligence" title="Human intelligence">Human intelligence</a> <a href="/wiki/Outline_of_human_intelligence" title="Outline of human intelligence">topics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Collective_intelligence" title="Collective intelligence">Collective</a></li>
+<li><a href="/wiki/Emotional_intelligence" title="Emotional intelligence">Emotional</a></li>
+<li><a href="/wiki/Intellectual_giftedness" title="Intellectual giftedness">Intellectual</a></li>
+<li><a href="/wiki/Linguistic_intelligence" title="Linguistic intelligence">Linguistic</a></li>
+<li><a href="/wiki/Theory_of_multiple_intelligences" title="Theory of multiple intelligences">Multiple</a></li>
+<li><a href="/wiki/Social_intelligence" title="Social intelligence">Social</a></li>
+<li><a href="/wiki/Spatial_intelligence_(psychology)" title="Spatial intelligence (psychology)">Spatial</a>&#160;(<a href="/wiki/Spatial_visualization_ability" title="Spatial visualization ability">visuospatial</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div class="hlist hlist-separated"><ul><li>Abilities</li><li>Traits</li><li>Constructs</li></ul></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cognition" title="Cognition">Cognition</a></li>
+<li><a href="/wiki/Communication" title="Communication">Communication</a></li>
+<li><a href="/wiki/Creativity" title="Creativity">Creativity</a></li>
+<li><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Fluid and crystallized intelligence</a></li>
+<li><a href="/wiki/G_factor_(psychometrics)" title="G factor (psychometrics)"><i>g</i> factor</a></li>
+<li><a href="/wiki/Intelligence_quotient" title="Intelligence quotient">Intelligence quotient</a></li>
+<li><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></li>
+<li><a href="/wiki/Learning" title="Learning">Learning</a></li>
+<li><a href="/wiki/Memory" title="Memory">Memory</a></li>
+<li><a href="/wiki/Problem_solving" title="Problem solving">Problem solving</a></li>
+<li><a href="/wiki/Reason" title="Reason">Reasoning</a></li>
+<li><a href="/wiki/Thought" title="Thought">Thought</a>&#160;(<a href="/wiki/Abstraction" title="Abstraction">abstraction</a>)</li>
+<li><a href="/wiki/Understanding" title="Understanding">Understanding</a></li>
+<li><a href="/wiki/Visual_system" title="Visual system">Visual processing</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Models and theories</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cattell%E2%80%93Horn%E2%80%93Carroll_theory" title="Cattell–Horn–Carroll theory">Cattell–Horn–Carroll theory</a></li>
+<li><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Fluid and crystallized intelligence</a></li>
+<li><a href="/wiki/Theory_of_multiple_intelligences" title="Theory of multiple intelligences">Multiple-intelligences theory</a></li>
+<li><a class="mw-selflink selflink">Three-stratum theory</a></li>
+<li><a href="/wiki/Triarchic_theory_of_intelligence" title="Triarchic theory of intelligence">Triarchic theory</a></li>
+<li><a href="/wiki/PASS_theory_of_intelligence" title="PASS theory of intelligence">PASS theory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Areas of research</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Evolution_of_human_intelligence" title="Evolution of human intelligence">Evolution of human intelligence</a></li>
+<li><a href="/wiki/Heritability_of_IQ" title="Heritability of IQ">Heritability of IQ</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li>
+<li><a href="/wiki/Environment_and_intelligence" title="Environment and intelligence">Intelligence and environment</a>&#160;/&#32;<a href="/wiki/Impact_of_health_on_intelligence" title="Impact of health on intelligence">health</a>&#160;/&#32;<a href="/wiki/Cognitive_epidemiology" title="Cognitive epidemiology">longevity</a>&#160;/&#32;<a href="/wiki/Neuroscience_and_intelligence" title="Neuroscience and intelligence">neuroscience</a>&#160;/&#32;<a href="/wiki/Race_and_intelligence" title="Race and intelligence">race</a>&#160;/&#32;<a href="/wiki/Sex_differences_in_intelligence" title="Sex differences in intelligence">gender</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow plainlist" colspan="2"><div>
+<ul><li><img alt="Outline" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/10px-Global_thinking.svg.png" decoding="async" title="Outline" width="10" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/15px-Global_thinking.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/21px-Global_thinking.svg.png 2x" data-file-width="130" data-file-height="200" /> <a href="/wiki/Outline_of_human_intelligence" title="Outline of human intelligence">Outline of human intelligence</a>&#160;/&#32;<a href="/wiki/Outline_of_thought" title="Outline of thought">thought</a></li></ul>
+</div></td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-stratum_theory&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">J. B. Carroll (1993), <i>Human cognitive abilities: A survey of factor-analytic studies</i>, Cambridge University Press, New York, NY, USA.</span>
+</li>
+<li id="cite_note-Carroll1997-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carroll1997_2-0">^</a></b></span> <span class="reference-text">J. B. Carroll (1997), "The three-stratum theory of cognitive abilities" in D. P. Flanagan, J. L. Genshaft et al., <i>Contemporary intellectual assessment: Theories, tests, and issues</i>, Guilford Press, New York, NY, USA, pp. 122-130.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Spearman, C. (1927), <i>The abilities of man</i>, London: MacMillan</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Horn, J. &amp; Cattell, R. (1966). "Refinement and test of the theory of fluid and crystallized general intelligences". <i>Journal of Educational Psychology</i>. <b>57</b> (5): 253–270. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2Fh0023816">10.1037/h0023816</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Educational+Psychology&amp;rft.atitle=Refinement+and+test+of+the+theory+of+fluid+and+crystallized+general+intelligences.&amp;rft.volume=57&amp;rft.issue=5&amp;rft.pages=253-270&amp;rft.date=1966&amp;rft_id=info%3Adoi%2F10.1037%2Fh0023816&amp;rft.au=Horn%2C+J.&amp;rft.au=Cattell%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-stratum+theory" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.intelltheory.com/carroll.shtml">"Human Intelligence: John B. Carrol"</a>. <i>www.intelltheory.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.intelltheory.com&amp;rft.atitle=Human+Intelligence%3A+John+B.+Carrol&amp;rft_id=http%3A%2F%2Fwww.intelltheory.com%2Fcarroll.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-stratum+theory" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">McGrew, Cognitive Abilities. In D. P. Flanagan &amp; P. L. Harrison (Eds.). (2012). <i>Contemporary intellectual assessment</i>: <i>Theories, tests, and issues.</i> (pp. 151–179). New York: Guilford Press.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Johnson, W. &amp; Bouchard Jr., T. (2005). "The structure of human intelligence: It is verbal, perceptual, and image rotation (VPR), not fluid and crystallized". <i>Intelligence</i>. <b>33</b> (4): 393–416. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.intell.2004.12.002">10.1016/j.intell.2004.12.002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Intelligence&amp;rft.atitle=The+structure+of+human+intelligence%3A+It+is+verbal%2C+perceptual%2C+and+image+rotation+%28VPR%29%2C+not+fluid+and+crystallized&amp;rft.volume=33&amp;rft.issue=4&amp;rft.pages=393-416&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1016%2Fj.intell.2004.12.002&amp;rft.aulast=Johnson&amp;rft.aufirst=W.&amp;rft.au=Bouchard+Jr.%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-stratum+theory" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-stratum_theory&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="APA" class="citation book">Hunt, Earl (2011). <i>Human intelligence</i>. Cambridge: Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-88162-3" title="Special:BookSources/978-0-521-88162-3">978-0-521-88162-3</a>. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=DwO4TtKAiCoC&amp;pg=PA106&amp;dq=the+three-stratum+model&amp;hl=zh-CN&amp;sa=X&amp;ved=0ahUKEwiqwbDSxMLMAhUpJMAKHTwhBZwQ6AEIOzAE#v=onepage&amp;q=the%20three-stratum%20model&amp;f=false">Lay summary</a> (2011).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+intelligence&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2011&amp;rft.isbn=978-0-521-88162-3&amp;rft.aulast=Hunt&amp;rft.aufirst=Earl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-stratum+theory" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li>Keith, T. &amp; Reynolds, M.  (2010). <a rel="nofollow" class="external text" href="http://www.iapsych.com/articles/keith2010.pdf">Cattell-Horn-Carroll abilities and cognitive tests: What we've learned from 20 years of research</a>. <i><a href="/wiki/Psychology_in_the_Schools" title="Psychology in the Schools">Psychology in the Schools</a></i>, <i>47</i>(7),  635-650.</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20190411141908
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.257 seconds
+Preprocessor visited node count: 365/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18853/2097152 bytes
+Template argument size: 84/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12341/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 2.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  217.589      1 -total
+ 69.73%  151.717      1 Template:Reflist
+ 57.46%  125.033      2 Template:Cite_journal
+ 26.11%   56.816      1 Template:Human_intelligence_topics
+ 22.94%   49.913      1 Template:Navbox
+  4.43%    9.635      1 Template:Icon
+  4.40%    9.583      1 Template:Hlist
+  4.07%    8.856      1 Template:Cite_book
+  3.49%    7.597      1 Template:Cite_web
+  1.91%    4.148      6 Template:\
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3145530-0!canonical and timestamp 20190411141908 and revision id 882867722
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Three-stratum_theory&amp;oldid=882867722">https://en.wikipedia.org/w/index.php?title=Three-stratum_theory&amp;oldid=882867722</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_psychology" title="Category:Cognitive psychology">Cognitive psychology</a></li><li><a href="/wiki/Category:Intelligence" title="Category:Intelligence">Intelligence</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Three-stratum+theory" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Three-stratum+theory" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Three-stratum_theory" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Three-stratum_theory" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Three-stratum_theory">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Three-stratum_theory&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Three-stratum_theory&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Three-stratum_theory" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Three-stratum_theory" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Three-stratum_theory&amp;oldid=882867722" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Three-stratum_theory&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7798005" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Three-stratum_theory&amp;id=882867722" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Three-stratum+theory">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Three-stratum+theory&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Three-stratum_theory&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B7%D8%A8%D9%82%D8%A7%D8%AA_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB" title="نظرية الطبقات الثلاث – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Teoria_dels_tres_estrats" title="Teoria dels tres estrats – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tre-stratumteorien" title="Tre-stratumteorien – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Teor%C3%ADa_de_los_tres_estratos_de_la_inteligencia" title="Teoría de los tres estratos de la inteligencia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mod%C3%A8le_hi%C3%A9rarchique_%C3%A0_trois_strates_de_John_Carroll" title="Modèle hiérarchique à trois strates de John Carroll – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7798005#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 February 2019, at 20:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Three-stratum_theory&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.257","ppvisitednodes":{"value":365,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18853,"limit":2097152},"templateargumentsize":{"value":84,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12341,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  217.589      1 -total"," 69.73%  151.717      1 Template:Reflist"," 57.46%  125.033      2 Template:Cite_journal"," 26.11%   56.816      1 Template:Human_intelligence_topics"," 22.94%   49.913      1 Template:Navbox","  4.43%    9.635      1 Template:Icon","  4.40%    9.583      1 Template:Hlist","  4.07%    8.856      1 Template:Cite_book","  3.49%    7.597      1 Template:Cite_web","  1.91%    4.148      6 Template:\\"]},"scribunto":{"limitreport-timeusage":{"value":"0.116","limit":"10.000"},"limitreport-memusage":{"value":2788495,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190411141908","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Three-stratum theory","url":"https:\/\/en.wikipedia.org\/wiki\/Three-stratum_theory","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7798005","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7798005","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-12T23:39:24Z","dateModified":"2019-02-11T20:46:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/50\/Carroll_three_stratum_model_of_human_Intelligence.png"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1246"});});</script>
+</body>
+</html>

@@ -1,0 +1,2279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=fCzlsmYQFAUQ_UXneGJNag&gtm_preview=env-2&gtm_cookies_win=x';
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TZGWTGG');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"598a124f17","applicationID":"3007887","transactionName":"MQcDMkECCkNSW0YMWghNLDBwTCVCR1FRCVAlDQ8SQQwIXFZKHSNACg41A0sXJkl3d3s=","queueTime":0,"applicationTime":358,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUHUl5WGwAAVFZaDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>Frontiers | PyNN: a common interface for neuronal network simulators | Frontiers in Neuroinformatics</title>
+
+    <link rel="shortcut icon" href="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/favicon_16x16.ico" type="image/x-icon" />
+
+    <meta property="og:type" content="article" />
+    <meta property="frontiers:type" content="Article" />
+    <meta property="og:site_name" name="site_name" content="Frontiers" />
+    <meta property="og:title" name="Title" content="PyNN: a common interface for neuronal network simulators" />
+    <meta property="og:description" name="Description" content="Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others.  On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task.   A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by  providing a foundation for simulator-agnostic analysis, visualization, and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source s..." />
+    <meta property="og:url" name="url" content="https://www.frontiersin.org/article/10.3389/neuro.11.011.2008/full" />
+        <meta property="og:image" content="https://www.frontiersin.org/files/MyHome%20Article%20Library/388/388_Thumb_400.jpg" />
+            <meta name="citation_volume" content="2" />
+        <meta name="citation_journal_title" content="Frontiers in Neuroinformatics" />
+        <meta name="citation_publisher" content="Frontiers" />
+        <meta name="citation_journal_abbrev" content="Front. Neuroinform." />
+        <meta name="citation_issn" content="1662-5196" />
+        <meta name="citation_doi" content="10.3389/neuro.11.011.2008" />
+        <meta name="citation_pages" content="11" />
+        <meta name="citation_language" content="English" />
+        <meta name="citation_title" content="PyNN: a common interface for neuronal network simulators" />
+        <meta name="citation_keywords" content="computational neuroscience; interoperability; large-scale models; Parallel Computing; python; reproducibility; simulation; translation" />
+        <meta name="citation_abstract" content="Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others. On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task. A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by providing a foundation for simulator-agnostic analysis, visualization, and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source software and is available from http://neuralensemble.org/PyNN." />
+        <meta name="description" content="Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others. On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task. A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by providing a foundation for simulator-agnostic analysis, visualization, and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source software and is available from http://neuralensemble.org/PyNN." />
+        <meta name="citation_online_date" content="2008/12/22" />
+        <meta name="citation_date" content="2009" />
+        <meta name="citation_publication_date" content="2009/01/27" />
+        <meta name="citation_pdf_url" content="https://www.frontiersin.org/articles/10.3389/neuro.11.011.2008/pdf" />
+        <meta name="citation_author" content="Davison, Andrew P" />
+        <meta name="citation_author_institution" content="CNRS, Unit&#233; de Neurosciences Int&#233;gratives et Computationelles, Gif sur Yvette, France" />
+        <meta name="citation_author_email" content="andrew.davison@unic.cnrs-gif.fr" />
+        <meta name="citation_author" content="Br&#252;derle, Daniel" />
+        <meta name="citation_author_institution" content="University of Heidelberg, Kirchhoff Institute for Physics, Heidelberg, Germany" />
+        <meta name="citation_author_email" content="mail@danielbruederle.de" />
+        <meta name="citation_author" content="Eppler, Jochen M" />
+        <meta name="citation_author_institution" content="Albert-Ludwigs-University, Bernstein Center for Computational Neuroscience, Freiburg, Germany" />
+        <meta name="citation_author_institution" content="Honda Research Institute, GmbH, Offenbach, Germany" />
+        <meta name="citation_author_email" content="j.eppler@fz-juelich.de" />
+        <meta name="citation_author" content="Kremkow, Jens" />
+        <meta name="citation_author_institution" content="CNRS, Institut de Neurosciences Cognitives de la M&#233;diterran&#233;e, Marseille, France" />
+        <meta name="citation_author_institution" content="Neurobiology and Biophysics,Bernstein Center for Computational Neuroscience,Albert-Ludwigs-University, Bernstein Center for Computational Neuroscience, Freiburg, Germany" />
+        <meta name="citation_author_email" content="kremkow@biologie.uni-freiburg.de" />
+        <meta name="citation_author" content="Muller, Eilif" />
+        <meta name="citation_author_institution" content="Ecole Polytechnique F&#233;d&#233;rale de Lausanne, Brain Mind Institute, Lausanne, Switzerland" />
+        <meta name="citation_author_email" content="eilif.mueller@epfl.ch" />
+        <meta name="citation_author" content="Pecevski, Dejan" />
+        <meta name="citation_author_institution" content="Technische Universit&#228;t Graz, Institute For Theoretical Computer Science, Graz, Austria" />
+        <meta name="citation_author_email" content="dejan.tugraz@gmail.com" />
+        <meta name="citation_author" content="Perrinet, Laurent" />
+        <meta name="citation_author_institution" content="CNRS, Institut de Neurosciences Cognitives de la M&#233;diterran&#233;e, Marseille, France" />
+        <meta name="citation_author_email" content="laurent.perrinet@univ-amu.fr" />
+        <meta name="citation_author" content="Yger, Pierre" />
+        <meta name="citation_author_institution" content="CNRS, Unit&#233; de Neurosciences Int&#233;gratives et Computationelles, Gif sur Yvette, France" />
+        <meta name="citation_author_email" content="pierre.yger@gmail.com" />
+    <meta name="Keywords" content="computational neuroscience, interoperability, large-scale models, Parallel Computing, python, reproducibility, simulation, translation" />
+
+
+    <script type="text/javascript">
+
+        var CurrentIBarMenu = 'bysubjects';
+        var CurrentPageCode = 'ARTICLE_PAGE_NEW';
+
+        var FRConfiguration = (function() {
+            return {
+                Environment: 'Live',
+                SANVirtualPath: 'http://www.frontiersin.org/files/',
+                SharepointWebsiteUrl: 'https://www.frontiersin.org',
+                CommunityWebsiteUrl: 'http://community.frontiersin.org',
+                FrontiersJournalUIUrl: 'https://www.frontiersin.org',
+                FrontiersJournalAPIUrl: 'https://api-journal.frontiersin.org',
+                FrontiersReviewUIUrl: '',
+                FrontiersReviewAPIUrl: '',
+                FrontiersNetworkingAPIUrl: 'https://api-network.frontiersin.org',
+                FrontiersCookie: 'frontiersN',
+                FrontiersCookieRememberMe: 'frontiersNt',
+                FrontiersLoginUrl: 'https://www.frontiersin.org/Login.aspx',
+                FrontiersRegistrationUrl: 'http://www.frontiersin.org/Registration/Register.aspx',
+                IsJournalCommentApiEnabled : 'True'
+            };
+        })();
+
+        var FRLanguage = (function() {
+            var languageSet = {"ART_FRONTIERS":"Frontiers ","Article_AcceptedDate":"Accepted: ","Article_AnalyticsToolTip":"The total view count is updated once a day, so not to worry if you don\u0027t see immediate results.","Article_AnalyticsTotalViews":"total views","Article_AnalyticsViewImpact":"View Article Impact","Article_ArchiveLinkText":"Articles","Article_BibTex":"BibTex","Article_Citation":"Citation: ","Article_Commentary":"COMMENTARY","Article_Copyright":"Copyright: ","Article_CopyrightText":"This is an open-access article distributed under the terms of the \u003ca href=\"http://creativecommons.org/licenses/by/4.0/\"\u003eCreative Commons Attribution License (CC BY)\u003c/a\u003e. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.","Article_Correspondence":"* Correspondence: ","Article_DownloadArticle":"Download Article","Article_DownloadPDF":"Download PDF","Article_DownloadProvisionalArticle":"Download Provisional Article","Article_DownloadProvisionalPDF":"Download Provisional PDF","Article_EditedBy":"Edited by: ","Article_EndNote":"EndNote","Article_EPUB":"EPUB","Article_ExportCitation":"Export Citation","Article_JATS":"JATS","Article_Keywords":"Keywords: ","Article_NLM":"XML (NLM)","Article_OriginalArticle":"ORIGINAL ARTICLE","Article_PaperPendingPublishedDate":"Paper pending published: ","Article_PDF":"PDF","Article_ProvisionalPDF":"Provisional PDF","Article_PublishedDate":"Published online: ","Article_ReadFullText":"Read Full Text","Article_ReceivedDate":"Received: ","Article_ReferenceManager":"Reference Manager","Article_ReviewedBy":"Reviewed by: ","Article_RTInfoText":"This article is part of the Research Topic","Article_ShareOn":"SHARE ON","Article_SimpleTEXTfile":"Simple TEXT file","Article_SupplementalData":"SUPPLEMENTAL DATA","Article_TableOfContent":"TABLE OF CONTENTS","Article_ViewEnhancedPDF":"ReadCube","Article_XML":"XML","BrowserWarningText":"\u003ch2\u003eWarning!\u003c/h2\u003e\u003cp\u003eYou are using an \u003cstrong\u003eoutdated\u003c/strong\u003e browser. This page doesn\u0027t support Internet Explorer 6, 7 and 8.\u003cbr /\u003ePlease \u003ca class=\"blue\" href=\"http://browsehappy.com/\"\u003eupgrade your browser\u003c/a\u003e or \u003ca class=\"blue\" href=\"http://www.google.com/chromeframe/?redirect=true\"\u003eactivate Google Chrome Frame\u003c/a\u003e to improve your experience.\u003c/p\u003e","COMMENT_HEADERTEXT":"Comment text too long","COMMENT_WARNINGTEXT":"Comments must be less than 4,000 characters. You have entered ","Impact_BackToArticle":"Back to article","People_Also_LookedAt":"People also looked at"};
+
+            return {
+                value: function(key) {
+                    if (languageSet[key]) {
+                        return languageSet[key];
+                    } else {
+                        throw new Error('Unable to get the value status from the language set'); // Use Error, not FRError
+                    }
+                }
+            };
+
+        })();
+
+        var FRJournalDetails = (function() {
+            return {
+                JournalType: 'journal',
+                JournalId: '12',
+                SectionId: '0'
+            };
+        })();
+
+        var FRArticleRecaptchaSettings = (function() {
+            return {
+                RecaptchaSiteKey: '6LdG3i0UAAAAAOC4qUh35ubHgJotEHp_STXHgr_v'
+            };
+        })();
+
+    </script>
+
+    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-535f7e222fc3ca72"></script>
+
+
+    <script language="javascript">
+        var addthis_config = addthis_config || {};
+        addthis_config.data_track_addressbar = false;
+        addthis_config.data_track_clickback = false;
+    </script>
+
+    
+    
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+    <![endif]-->
+
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+    <script src="/areas/research-topics/scripts/frontiers/common/frontiers.markerclusterer.js"></script>
+
+
+
+    <link href="https://209cd62b0febf2a55d40-715eb384bc6027b876e93ad33d5c5ec3.ssl.cf3.rackcdn.com/font-awesome-4.3.0/css/font-awesome.css" rel="stylesheet"/>
+
+    <link href="https://9d0dd7a648345f19af83-877d2ecaf11b88d5e17327c758e17ef6.ssl.cf2.rackcdn.com/museo-sans-1.0.1/css/museo-sans.css" rel="stylesheet"/>
+
+    <link href="https://9d0dd7a648345f19af83-877d2ecaf11b88d5e17327c758e17ef6.ssl.cf2.rackcdn.com/museo-slab-1.0.1/css/museo-slab.css" rel="stylesheet"/>
+
+    <link href="https://209cd62b0febf2a55d40-715eb384bc6027b876e93ad33d5c5ec3.ssl.cf3.rackcdn.com/open-sans-1.0.0/css/open-sans.css" rel="stylesheet"/>
+
+    <link href="/areas/articles/css/app?v=CaLtx65_hB9Riy9_q6VeIw6cLd_LOO_8A1dCd8RogGk1" rel="stylesheet"/>
+
+    
+    <style type="text/css"> .journal-neuroinformatics {
+ background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 99% -34px;
+ background-size: 41%;
+}
+
+/* Displays/Screens (e.g. 19" WS @ 1440x900) --------------- */ @media only screen and (max-width: 1649px) {
+.journal-neuroinformatics {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 99% -54px;
+ background-size: 44%;
+ }}
+
+/* Displays/Screens (e.g. MacBook @ 1280x800) -------------- */
+@media only screen and (max-width: 1409px) {
+.journal-neuroinformatics {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 835px -61px;
+  background-size: 44%; 
+ }}
+ 
+/* Large Devices, Wide Screens --------- */  @media only screen and (max-width : 1250px) {
+.journal-neuroinformatics {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 825px -30px;
+  background-size: 44%; 
+ }}
+
+/* Medium Devices, Desktops ---------- */  @media only screen and (max-width : 992px) { 
+.journal-neuroinformatics {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 680px -27px;
+  background-size: 41%; 
+ }}
+
+/* Small Devices, Tablets ------------ */  @media only screen and (max-width : 768px) {
+.journal-neuroinformatics {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 355px -20px;
+  background-size: 64%; 
+ }}
+
+/* Small Devices, Tablets  --------- */ @media only screen and (max-width : 640px) {
+.journal-neuroinformatics {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 305px 10px;
+  background-size: 64%; 
+ }}
+
+/* Extra Small Devices, Phones-----------  */  @media only screen and (max-width : 480px) {
+.journal-neuroinformatics {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 225px 20px;
+  background-size: 61%; 
+ }}
+
+/* Custom, iPhone Retina  -------*/  @media only screen and (max-width : 320px) {
+.journal-neuroinformatics {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroinformatics.png') no-repeat 165px 170px;
+  background-size: 51%; 
+ }} </style>
+    
+</head>
+<body class="journal-neuroinformatics">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZGWTGG&gtm_auth=fCzlsmYQFAUQ_UXneGJNag&gtm_preview=env-2&gtm_cookies_win=x"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <link href="https://api-journal.frontiersin.org/areas/header/content/styles/frontiers.header.v3.css" rel="stylesheet"></link><div class="header-compact">
+    <div class="navbar navbar-fixed-top">
+        <div class="row container">
+            <div class="navbar-header">
+                <div class="col-xs-6 header-left-container">
+                    <ul class="navbar-toggle inline-list navbar-mobile" data-toggle="collapse" data-target="#">
+    <li class="no-left-margin">
+        <a class="brand home" href="https://www.frontiersin.org">
+            <img class="header-logo">
+        </a>
+    </li>
+    <li class="clickable no-left-margin">
+        <div class="journal-dropdown-responsive">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </div>
+    </li>
+</ul>
+
+<ul class="inline-list navbar-collapse collapse navbar-desktop">
+    <li class="header-inline-element no-left-margin">
+        <a class="brand home" href="https://www.frontiersin.org" onclick="FRHeader.trackOutboundLink('Header_Action', 'link', 'click_header_home', 'https://www.frontiersin.org');return false;">
+            <img class="header-logo">
+        </a>
+    </li>
+    <li class="no-left-margin">
+        <a class="home" href="https://www.frontiersin.org" onclick="FRHeader.trackOutboundLink('Header_Action', 'link', 'click_header_home', 'https://www.frontiersin.org');return false;">
+            Home
+        </a>
+    </li>
+    <li class="no-left-margin">
+        <a class="about" href="https://www.frontiersin.org/AboutFrontiers.aspx" onclick="FRHeader.trackOutboundLink('Header_Action', 'link', 'click_header_about', 'https://www.frontiersin.org/AboutFrontiers.aspx');return false;">
+            About
+        </a>
+    </li>
+    <li class="submit-container">
+        <a class="submit" href="https://www.frontiersin.org/Submission/SubmissionInfo.aspx" onclick="FRHeader.trackOutboundLink('Header_Action', 'link', 'click_header_submit', 'https://www.frontiersin.org/Submission/SubmissionInfo.aspx');return false;">
+            Submit
+        </a>
+    </li>
+    <li class="no-padding-right journal-drop hidden">
+        <a class="byjournal bysubjects" data-test-id="journal-bydropdown">
+            <span>Journals</span><img class="drop-down-arrow" src="https://api-journal.frontiersin.org/Areas/Header/Content/Images/header-arrow-down.png" alt="" />
+        </a>
+    </li>
+    <li class="journalAZ hidden">
+        <a class="bysubjects" href="https://www.frontiersin.org/AboutFrontiers.aspx?stage=journalseries" data-test-id="journal-atoz">
+            Journals A-Z
+        </a>
+    </li>
+    
+    <li class="research-topic-container">
+        <a class="research-topic" href="https://www.frontiersin.org/research-topics" onclick="FRHeader.trackOutboundLink('Header_Action', 'link', 'click_header_rt', 'https://www.frontiersin.org/research-topics');return false;">
+            Research Topics
+        </a>
+    </li>
+    
+</ul>
+
+                </div>
+                <div class="header-search">
+                    <div class="search-swappable hidden-xs">
+    <a class="search-icon-container hidden" data-test-id="search-icon">
+        <img class="search-icon" src="https://api-journal.frontiersin.org/Areas/Header/Content/Images/header-search.png" />
+    </a>
+    <form class="search-bar-container hide">
+        <input data-test-id="search-field" placeholder="Search for articles, people, events and more." class="header-search-field">
+        <input data-test-id="search-btn" type="button" class="header-search-btn" value="">
+    </form>
+</div>
+
+                </div>
+                <div class="col-xs-6 pull-right unlogged-user hidden">
+
+
+    <ul class="inline-list pull-right">
+        <li>
+            <a class="login-container" data-test-id="login-link" href="https://www.frontiersin.org/people/login" data-header-tracking='{ "category": "Header_Action", "action": "link", "label": "click_header_login" }'>
+                <span>Login</span>
+            </a>
+        </li>
+        <li>
+            <a class="register-container" data-test-id="register-link" href="https://www.frontiersin.org/register" >
+                <span>Register</span>
+            </a>
+        </li>
+    </ul>
+
+<div class="popover-wrapper popover-login" style="display: none">
+    <div class="popover-menu login-popover">
+        <form action="https://www.frontiersin.org/Login.aspx" name="login-form" method="POST" class="login-form">
+            <div class="third-party-signin-row row-inside-column">
+                <h1>Login using</h1>
+                <div class="third-party-buttons">
+                    <div class="third-party-button-wrapper" id="third-party-btn-for-linkedin">
+                        <a data-type="3">
+                            <div class="radius">
+                                <div class="third-party-icon linkedin-icon-wrapper">
+                                    <div class="linkedin-icon"></div>
+                                </div>
+                            </div>
+                            <div class="third-party-name">LinkedIn</div>
+                        </a>
+                    </div><div class="third-party-button-wrapper" id="third-party-btn-for-twitter">
+                        <a data-type="2">
+                            <div class="radius">
+                                <div class="third-party-icon twitter-icon-wrapper">
+                                    <div class="twitter-icon"></div>
+                                </div>
+                            </div>
+                            <div class="third-party-name">Twitter</div>
+                        </a>
+                    </div>
+                    <div class="third-party-button-wrapper" id="third-party-btn-for-facebook">
+                        <a data-type="1">
+                            <div class="radius">
+                                <div class="third-party-icon facebook-icon-wrapper">
+                                    <div class="facebook-icon"></div>
+                                </div>
+                            </div>
+                            <div class="third-party-name">Facebook</div>
+                        </a>
+                    </div>
+                    <div class="info-button-wrapper" id="third-party-information-button">
+                        <a class="popover-login-info-trigger">
+                            <div class="info-button">i</div>
+                        </a>
+                        <div class="popover-wrapper popover-login-info" style="display: none">
+                            <div class="popover-menu">
+                                <h1 class="popover-title">You can login by using one of your existing accounts.</h1>
+                                <span style="float: none; display: inline">
+                                    We will be provided with an authorization token (please note: passwords are not shared with us) and will sync your accounts for you. This means that you will not need to remember your user name and password in the future and you will be able to login with the account you choose to sync, with the click of a button.
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="or-row" id="or-circle-divider">
+                <div class="or-divider or-divider-inside-column">
+                    <div class="or-circle">OR</div>
+                </div>
+            </div>
+            <div class="loginForm">
+                <div class="form-field-label">Email *</div>
+                <div class="form-field">
+                    <input runat="server" tabindex="5" name="txtLoginEmail" type="text">
+                    <div class="form-field-error-msg">
+                        <div class="error-icon-small"></div>
+                        Please fill in this field
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div class="form-field-label">Password *</div>
+                <div class="form-field">
+                    <input runat="server" tabindex="6" name="txtLoginPassword" type="password">
+                    <div class="form-field-error-msg">
+                        <div class="error-icon-small"></div>
+                        Please fill in this field
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div id="rememberMeWrapper">
+                    <div class="checkbox-remember-container">
+                        <input runat="server" tabindex="7" name="chkLoginRememberMe" type="checkbox">
+                    </div>
+                    <div class="checkbox-remember-label">Remember me</div>
+                    <div class="forgot-password">
+                        <a href="https://registration.frontiersin.org/people/forgot-password">Forgot Password?</a>
+                    </div>
+                </div>
+                <div class="login-page-submit" id="formSubmitWrapper">
+                    <div>
+                        <input name="hdnIsPopupLogin" runat="server" value="1" type="hidden">
+                        <button type="submit" tabindex="8" class="btn btn-loginlogout-blue btn-flat input-block-level">Login</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+                </div>
+                <div class="col-xs-6 pull-right logged-user hidden">
+                    <ul class="logged navbar-toggle inline-list pull-right navbar-mobile" data-toggle="collapse" data-target="#LefttHeader">
+
+    <li>
+        <div id="myfrontierssponsive" class="clickable profile-dropdown-responsive hidden">
+            <a class="myfrontiersmobile">
+                <p class="frontiers-letter">
+                    Frontiers
+                </p>
+            </a>
+        </div>
+    </li>
+    <li class="myofficecontainer">
+        <div id="myoffice" class="clickable profile-dropdown-responsive">
+            <p class="frontiers-letter">
+                Frontiers
+            </p>
+            <em class="down-arrow-rhs"></em>
+        </div>
+
+        <div id="myofficeresponsive" class="clickable profile-dropdown-responsive hidden">
+            <p class="frontiers-letter">
+                Office
+            </p>
+            <em class="down-arrow-rhs"></em>
+        </div>
+    </li>
+    <li class="no-left-margin profile-container-responsive">
+        <a href="javascript:void(0)">
+            <img class="profile-pic responsive lo_sensitive">
+        </a>
+    </li>
+
+</ul>
+
+<ul class="logged inline-list pull-right navbar-collapse collapse navbar-desktop">
+    <li class="myfrontiers-container">
+        <a>
+            <span>My frontiers</span>
+            <em></em>
+        </a>
+    </li>
+
+    <li class="myfrontiersbeta-container hidden">
+        <a class="myfrontiersbeta">
+            <span>My Frontiers</span>
+        </a>
+    </li>
+
+    <li class="myoffice-container hidden">
+        <a>
+            <span>Office</span>
+            <em></em>
+        </a>
+    </li>
+
+    <li class="myhome-container">
+        <a class="myhome" title="My Home" data-placement="left" data-header-tracking='{ "category": "Header_Action", "action": "link", "label": "click_header_loop" }'>
+            <i class="fromSprite loop-logo"></i>
+        </a>
+    </li>
+    <li class="no-left-margin impact-container">
+        <a class="popover-impact-disabled" title="My Impact" data-placement="left" data-header-tracking='{ "category": "Header_Action", "action": "link", "label": "click_header_impact" }'>
+            <i class="fromSprite impactLogo"></i>
+        </a>
+    </li>
+    
+    <li class="no-left-margin username-container">
+        <a class="username lo_sensitive" data-header-tracking='{ "category": "Header_Action", "action": "link", "label": "click_header_user" }'></a>
+    </li>
+    <li class="no-left-margin profile-container">
+        <a class="popover-profile-trigger">
+            <img class="profile-pic desktop lo_sensitive">
+        </a>
+    </li>
+</ul>
+
+<div class="popover-wrapper popover-impact" style="display: none">
+    <em></em>
+    <div class="popover-menu impact-popover"></div>
+</div>
+
+<div class="popover-wrapper popover-notification" style="display: none">
+    <em></em>
+    <input id="hdnLastNotificationId" type="hidden" />
+    <div class="popover-menu notifications-popover"></div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    
+
+    <!--[if lte IE 8]>
+        <div class="row">
+            <div class="col-md-16">
+                <div style="margin-bottom: 15px;"><h2>Warning!</h2><p>You are using an <strong>outdated</strong> browser. This page doesn't support Internet Explorer 6, 7 and 8.<br />Please <a class="blue" href="http://browsehappy.com/">upgrade your browser</a> or <a class="blue" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p></div>
+            </div>
+        </div>
+    <![endif]-->
+
+    <div class="page-container">
+        
+
+<header>
+
+            <a href="https://blog.frontiersin.org/2018/07/06/journal-impact-factor-frontiers-in-neuroscience-journal-series/?utm_source=FWEB&amp;utm_medium=FJOUR&amp;utm_campaign=IF18_JOURN_FNINS-TOP" target="_blank">
+            <div class="impact-metric-marketing animated slideInRight">
+                
+                <div class="pull-right impact-metric-impact-factor text-center ">
+                    <span class="impact-metric-impact-label">Impact Factor</span>
+                    <span class="impact-metric-impact-number impact-numerical-padding">3.074</span>
+                    <span class="clearfix"></span>
+                    <div class="impact-from">2017 JCR, Clarivate Analytics 2018</div>
+                </div>
+
+
+                <span class="impact-metric-message">
+                    <p><font face="Calibri, Segoe UI, Calibri, Thonburi, Arial, Verdana, sans-serif, Mongolian Baiti, Microsoft Yi Baiti, Javanese Text"><span style="font-size: 13.3333px; white-space: pre-wrap;">The <strong>world's most-cited</strong> Neurosciences journals</span></font></p>
+                </span>
+
+            </div>
+        </a>
+<div id="journal-header" class="journal-home" style="position: relative;">
+    <div class="container-fluid main-container-xxl">
+        <table id="logo-table" style="width:100%">
+            <tr>
+                    <td class="left-cell specialty-journal" width="100%" valign="bottom" align="center">
+                        <div>
+                            <h1>
+                                <a href="https://www.frontiersin.org/journals/12" data-test-id="journal-link">
+                                    <span>Frontiers </span>in Neuroinformatics
+                                </a>
+                            </h1>
+                        </div>
+                    </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+    <div id="journal-nav">
+    <div class="container-fluid main-container-xxl">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="nav-wrapper">
+                    <nav class="navbar navbar-default">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#journal-navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="pull-left">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </span>
+                            <span class="pull-right hidden-xs">Journal</span>
+                        </button>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse no-transition journal-nav-bar" id="journal-navbar-collapse">
+                            <ul class="nav navbar-nav">
+                                <li class="tab-overview icon icon-left">
+                                    <a href="https://www.frontiersin.org/journals/neuroinformatics#"><span class="sr-only">(current)</span><i class="fa fa-home"></i>Journal</a>
+                                </li>
+                                <li class="tab-about">
+                                    <a href="https://www.frontiersin.org/journals/neuroinformatics#about">About</a>
+                                </li>
+                                <li class="tab-archive active">
+                                    <a href="https://www.frontiersin.org/journals/neuroinformatics#articles">Articles</a>
+                                </li>
+                                <li class="tab-research-topics">
+                                    <a href="https://www.frontiersin.org/journals/neuroinformatics#research-topics">Research topics</a>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">For authors <span class="caret"></span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="https://www.frontiersin.org/journals/neuroinformatics#why-submit">Why submit?</a></li>
+                                        <li><a href="https://www.frontiersin.org/about/publishing-fees" target="_blank">Fees</a></li>
+                                        <li><a href="https://www.frontiersin.org/journals/neuroinformatics#article-types">Article types</a></li>
+                                        <li><a href="https://www.frontiersin.org/journals/neuroinformatics#author-guidelines">Author guidelines</a></li>
+                                        <li><a href="https://www.frontiersin.org/journals/neuroinformatics#review-guidelines">Review guidelines</a></li>
+                                        <li><a href="https://www.frontiersin.org/journals/neuroinformatics#submission-checklist">Submission checklist</a></li>
+                                        <li><a href="https://www.frontiersin.org/journals/neuroinformatics#contact-editorial-office">Contact editorial office</a></li>
+                                            <li><a href="https://www.frontiersin.org/submission/submissioninfo.aspx" class="action-link">Submit your manuscript</a></li>
+                                    </ul>
+                                </li>
+                                <li class="tab-editorial-board">
+                                    <a href="https://www.frontiersin.org/journals/neuroinformatics#editorial-board">Editorial board</a>
+                                </li>
+                            </ul>
+                        </div><!-- /.navbar-collapse -->
+                        <ul class="list-inline follow-us nav navbar-nav">
+                            <li class="twitter icon button">
+                                <a data-test-id="twitter-link" href="https://twitter.com/@FrontNeurosci">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="rss icon button">
+                                <a data-test-id="rss-link" href="https://www.frontiersin.org/journals/neuroinformatics/rss">
+                                    <i class="fa fa-rss"></i>
+                                </a>
+                            </li>
+                            <li class="alerts icon button">
+                                <a data-test-id="alert-link" href="http://connect.frontiersin.org/subscriptions/subscribe?item=1&amp;field=55">
+                                    <i class="fa fa-bell" style="width: auto; padding-right: 7px; padding-left: 7px;"><span class="article-alert-text" style="font-family: MuseoSans, 'Helvetica Neue', Helvetica, Arial, sans-serif; margin-left: 6px; font-weight: 700; letter-spacing: 0px; font-size: 13px;">Article alerts</span></i>
+                                </a>
+                            </li>
+                                    
+                            
+                        </ul>
+
+                    </nav>
+                </div><!-- / .nav-wrapper -->
+            </div>
+        </div>
+    </div>
+</div>
+
+</header>
+
+<div class="journal-actions article-actions">
+    <div class="container-fluid main-container-xxl">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-lg-push-6 col-md-push-6 col-research-topic">
+                    <div class="research-topic-container">
+                        <div class="research-topic-data">
+                            <h5 class="topic-title">
+                                <span>This article is part of</span> the Research Topic
+                            </h5>
+                            <p style="margin-bottom:0;">
+                                <a href="https://www.frontiersin.org/research-topics/8" data-test-id="relatedRT-link" class="topic-link-trim">
+                                    Python in neuroscience
+                                </a>
+                            </p>
+</div>
+                    </div>
+            </div>
+            <section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-lg-pull-6 col-md-pull-6">
+                <a href="https://www.frontiersin.org/journals/12#articles" class="archive-link hidden-sm hidden-xs" data-test-id="archive-link">
+                    <i class="fa fa-angle-left"></i> Articles
+                </a>
+            </section>
+        </div>
+    </div>
+</div>
+
+
+<aside id="anchors" class="pull-left table-of-contents side-article">
+    <div class="side-people hidden-sm hidden-xs">
+    </div>
+    <nav>
+            <header><h5 class="like-h4" style="padding-top: 14px; padding-left: 6px; margin-bottom: 6px;">TABLE OF CONTENTS</h5></header>
+            <ul class="nav nav-list list-unstyled contents">
+                <li>
+<!--RightMenu_Section_Start-->
+<div class="rightMenuBox">
+<div>
+		<div class="arrow">&nbsp;</div>
+		<div class="menutext"><a href="#h1">Abstract</a></div>
+	</div>
+	<div class="clear"></div>
+		<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h2">Introduction</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h3">Design Goals</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h4">Usage Examples</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h5">Principal Concepts</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h6">Implementation</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h7">Limitations on Reproducibility</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h8">Discussion</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h9">Conflict of Interest Statement</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h10">Acknowledgements</a></div>
+</div>
+<div class="clear"></div>
+<div>
+<div class="arrow">&nbsp;</div>
+<div class="menutext"><a href="#h11">References</a></div>
+</div>
+<div class="clear"></div>
+
+</div>
+
+
+<!--RightMenu_Section_End-->                </li>
+            </ul>
+    </nav>
+</aside>
+
+
+<div id="article" class="boxed white no-padding">
+    <div class="container-fluid main-container-xxl">
+            <div class="side-article-mrk hidden-md hidden-lg top clearfix">
+                <style type="text/css"><!--
+.spotlight-title:hover,
+.spotlight-title:focus {
+ color: #555 !important; 
+}
+.spotlight-link {
+ color: #f2b12f !important;
+}
+.spotlight-link:hover,
+.spotlight-link:focus {
+ color: #e5a812 !important;
+}
+--></style>
+<div class="spotlight"><a href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB"><img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/article-marketing-message-1f3be380-af93-4b04-a218-32e22eb3bdda.png" alt="" /></a><br />
+<h3 style="font-weight: 500;"><a class="spotlight-title" tabindex="0" href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB" target="_blank">Want to win $100,000 to host your own conference?</a></h3>
+<a class="spotlight-link" href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB" target="_blank">Suggest a Research Topic</a></div>
+            </div>
+        <div class="row">
+
+            
+<aside class="a col-xs-12 col-sm-12 col-lg-2 col-md-3 pull-right side-article right-container">
+        <button type="button" class="navbar-toggle navbar-download collapsed" data-toggle="collapse" data-target=".show" aria-expanded="false">
+            <span class="icon"><i class="fa fa-download"></i></span>
+        </button>
+    <button type="button" class="navbar-toggle navbar-share collapsed" data-toggle="collapse" data-target=".show" aria-expanded="false">
+        <span class="icon"><i class="fa fa-share-alt"></i></span>
+    </button>
+        <div class="side-article-download show collapse clearfix">
+            <ul class="list-unstyled list-inline clearfix">
+                    <li class="dropdown text-center paper">
+                        <a data-target="#" class="dropdown-toggle" data-test-id="download-button" data-toggle="dropdown" role="button" aria-expanded="false">
+                            <span class="icon icon-article"><i class="fa fa-file-pdf-o"></i></span>
+                            <span class="icon-label">Download Article</span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                                <li>
+                                    <a class="download-files-pdf action-link" href="/articles/10.3389/neuro.11.011.2008/pdf" data-test-id="article-downloadpdf">
+                                        Download PDF
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="download-files-readcube" href="http://www.readcube.com/articles/10.3389/neuro.11.011.2008" data-test-id="article-viewenhancedpdf">
+                                        ReadCube
+                                    </a>
+                                </li>
+                                                            <li class="disable">
+
+                                        <span class="supplemental-data-disabled">
+                                            Supplementary
+                                            <br>
+                                            Material
+                                        </span>
+
+                                </li>
+                        </ul>
+                    </li>
+                <li class="dropdown text-center citation">
+                    <a data-target="#" class="dropdown-toggle" data-test-id="citation-button" data-toggle="dropdown" role="button" aria-expanded="false">
+                        <span class="icon icon-citation"><i class="fa fa-quote-left"></i></span>
+                        <span class="icon-label">Export citation</span>
+                    </a>
+                    <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a data-test-id="article-endnote" href="https://www.frontiersin.org/articles/10.3389/neuro.11.011.2008/endNote">
+                                    EndNote
+                                </a>
+                            </li>
+                            <li>
+                                <a data-test-id="article-referencemanager" href="https://www.frontiersin.org/articles/10.3389/neuro.11.011.2008/reference">
+                                    Reference Manager
+                                </a>
+                            </li>
+                            <li>
+                                <a data-test-id="article-simpletextfile" href="https://www.frontiersin.org/articles/10.3389/neuro.11.011.2008/text">
+                                    Simple TEXT file
+                                </a>
+                            </li>
+                            <li>
+                                <a data-test-id="article-bibtex" href="https://www.frontiersin.org/articles/10.3389/neuro.11.011.2008/bibTex">
+                                    BibTex
+                                </a>
+                            </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    <div class="side-article-impact">
+        <ul class="nav">
+            <li class="impact-data" title="The total view count is updated once a day, so not to worry if you don&#39;t see immediate results.">
+                <span class="title-number"></span>
+                <span class="title-text">total views</span>
+            </li>
+            <li class="hidden-sm hidden-xs">
+                <div class="altmetric-icon">
+                    <div class='altmetric-embed' data-badge-type='1' data-doi='10.3389/neuro.11.011.2008' data-link-target="new"></div>
+                </div>
+            </li>
+        </ul>
+            <a type="button" class="btn btn-default hidden-sm hidden-xs btn-impact " data-test-id="view-article-impact" href="http://loop-impact.frontiersin.org/impact/article/388#views" target="_blank">
+                <span class="icon-impact"><i class="fa fa-line-chart"></i></span> View Article Impact
+            </a>            
+    </div>
+        <div class="side-article-mrk hidden-sm hidden-xs clearfix">
+            <style type="text/css"><!--
+.spotlight-title:hover,
+.spotlight-title:focus {
+ color: #555 !important; 
+}
+.spotlight-link {
+ color: #f2b12f !important;
+}
+.spotlight-link:hover,
+.spotlight-link:focus {
+ color: #e5a812 !important;
+}
+--></style>
+<div class="spotlight"><a href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB"><img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/article-marketing-message-1f3be380-af93-4b04-a218-32e22eb3bdda.png" alt="" /></a><br />
+<h3 style="font-weight: 500;"><a class="spotlight-title" tabindex="0" href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB" target="_blank">Want to win $100,000 to host your own conference?</a></h3>
+<a class="spotlight-link" href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB" target="_blank">Suggest a Research Topic</a></div>
+        </div>
+    <div class="side-article-share show collapse">        
+        <h5 class="like-h4">SHARE ON</h5>
+        <ul class="share-media clearfix" style="padding: 0;">
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_facebook at300b" addthis:title="PyNN: a common interface for neuronal network simulators" addthis:description="Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others.  On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task.   A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by  providing a foundation for simulator-agnostic analysis, visualization, and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source s..." addthis:url="https://www.frontiersin.org/article/10.3389/neuro.11.011.2008" title="Facebook"></a>
+                </div>
+                <a><span class="facebook_count"></span></a>
+            </li>
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_twitter at300b" addthis:title="PyNN: a common interface for neuronal network simulators" addthis:description="Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others.  On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task.   A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by  providing a foundation for simulator-agnostic analysis, visualization, and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source s..." addthis:url="https://www.frontiersin.org/article/10.3389/neuro.11.011.2008" title="Tweet"></a>
+                </div>
+                <a><span class="twitter_count"></span></a>
+            </li>
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_google at300b" addthis:title="PyNN: a common interface for neuronal network simulators" addthis:description="Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others.  On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task.   A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by  providing a foundation for simulator-agnostic analysis, visualization, and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source s..." addthis:url="https://www.frontiersin.org/article/10.3389/neuro.11.011.2008" title="Google"></a>
+                </div>
+                <a><span class="googleplus_count"></span></a>
+            </li>
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_linkedin at300b" addthis:title="PyNN: a common interface for neuronal network simulators" addthis:description="Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others.  On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task.   A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by  providing a foundation for simulator-agnostic analysis, visualization, and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source s..." addthis:url="https://www.frontiersin.org/article/10.3389/neuro.11.011.2008" title="LinkedIn"></a>
+                </div>
+                <a><span class="linkedin_count"></span></a>
+            </li>
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_more at300b" addthis:title="PyNN: a common interface for neuronal network simulators" addthis:description="Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others.  On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task.   A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by  providing a foundation for simulator-agnostic analysis, visualization, and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source s..." addthis:url="https://www.frontiersin.org/article/10.3389/neuro.11.011.2008" title="View more services"></a>
+                </div>
+                <a><span class="total_count"></span></a>
+            </li>
+        </ul>
+    </div>
+</aside>
+
+
+            
+<main class="b col-xs-12 col-sm-12 col-lg-8 col-lg-push-2 col-md-7 col-md-push-2 pull-left">
+    <div class="article-section">
+        <div class="article-container" data-html="True">
+            <div class="abstract-container">
+                
+                <div class="article-header-container">
+                    <!-- Start CrossMark Snippet v2.0 -->
+                    <!-- End CrossMark Snippet -->
+                    <div class="header-bar-one">
+                      <h2>Original Research ARTICLE
+
+                        </h2>
+                    </div>
+                    <div class="header-bar-three">
+                        Front. Neuroinform., 27 January 2009
+                                 | <a href="https://doi.org/10.3389/neuro.11.011.2008">https://doi.org/10.3389/neuro.11.011.2008</a>
+                    </div>
+                </div>
+                
+<!--Abstract_Section_Start-->
+<div class="JournalAbstract">	
+				<div><a id="h1" name="h1"></a>
+
+<h1>PyNN: a common interface for neuronal network simulators
+</h1>
+				</div>
+				<div class="paperauthor">
+						<a href="http://www.frontiersin.org/Community/WhosWhoDetails.aspx?UID=937&sname=AndrewDavison">Andrew P. Davison</a><sup>1*</sup>,
+<a href="http://www.frontiersin.org/Community/WhosWhoDetails.aspx?UID=2479&sname=DanielBrÃƒÂ¼derle">Daniel Br&#x000FC;derle</a><sup>2</sup>,
+<a href="http://www.frontiersin.org/Community/WhosWhoDetails.aspx?UID=2466&sname=JochenEppler">Jochen Eppler</a><sup>3,4</sup>,
+<a href="http://www.frontiersin.org/Community/WhosWhoDetails.aspx?UID=2608&sname=JensKremkow">Jens Kremkow</a><sup>5,6</sup>,
+<a href="http://www.frontiersin.org/Community/WhosWhoDetails.aspx?UID=1458&sname=EilifMuller">Eilif Muller</a><sup>7</sup>,
+<a href="http://www.frontiersin.org/Community/WhosWhoDetails.aspx?UID=2475&sname=DejanPecevski">Dejan Pecevski</a><sup>8</sup>,
+<a href="http://www.frontiersin.org/Community/WhosWhoDetails.aspx?UID=2578&sname=LaurentPerrinet">Laurent Perrinet</a><sup>6</sup> and <a href="http://www.frontiersin.org/Community/WhosWhoDetails.aspx?UID=2703&sname=PierreYger">Pierre Yger</a><sup>1</sup>
+				</div>
+				<div class="paperaffiliation">
+						<div class="paperaffiliationorder">1</div>
+<div class="paperaffiliationtext">Unit&#x000E9; de Neurosciences Int&#x000E9;gratives et Computationelles, CNRS, Gif sur Yvette, France</div>
+<div class="paperaffiliationorder">2</div>
+<div class="paperaffiliationtext">Kirchhoff Institute for Physics, University of Heidelberg, Heidelberg, Germany</div>
+<div class="paperaffiliationorder">3</div>
+<div class="paperaffiliationtext">Honda Research Institute Europe GmbH, Offenbach, Germany</div>
+<div class="paperaffiliationorder">4</div>
+<div class="paperaffiliationtext">Berstein Center for Computational Neuroscience, Albert-Ludwigs-University, Freiburg, Germany</div>
+<div class="paperaffiliationorder">5</div>
+<div class="paperaffiliationtext">Neurobiology and Biophysics, Institute of Biology III, Albert-Ludwigs-University, Freiburg, Germany</div>
+<div class="paperaffiliationorder">6</div>
+<div class="paperaffiliationtext">Institut de Neurosciences Cognitives de la M&#x000E9;diterran&#x000E9;e, CNRS, Marseille, France</div>
+<div class="paperaffiliationorder">7</div>
+<div class="paperaffiliationtext">Laboratory of Computational Neuroscience, Ecole Polytechnique F&#x000E9;d&#x000E9;rale de Lausanne, Lausanne, Switzerland</div>
+<div class="paperaffiliationorder">8</div>
+<div class="paperaffiliationtext">Institute for Theoretical Computer Science, Graz University of Technology, Graz, Austria</div>
+
+				</div><div class="clear"></div>
+				
+				<div class="abstracttext">
+						Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading to considerable difficulty in porting models from one simulator to another. This impedes communication between investigators and makes it harder to reproduce and build on the work of others. On the other hand, simulation results can be cross-checked between different simulators, giving greater confidence in their correctness, and each simulator has different optimizations, so the most appropriate simulator can be chosen for a given modelling task. A common programming interface to multiple simulators would reduce or eliminate the problems of simulator diversity while retaining the benefits. PyNN is such an interface, making it possible to write a simulation script once, using the Python programming language, and run it without modification on any supported simulator (currently NEURON, NEST, PCSIM, Brian and the Heidelberg VLSI neuromorphic hardware). PyNN increases the productivity of neuronal network modelling by providing high-level abstraction, by promoting code sharing and reuse, and by providing a foundation for simulator-agnostic analysis, visualization and data-management tools. PyNN increases the reliability of modelling studies by making it much easier to check results on multiple simulators. PyNN is open-source software and is available from <a href="http://neuralensemble.org/PyNN">http://neuralensemble.org/PyNN</a>
+
+.
+
+				</div>
+	
+</div>
+<!--Abstract_Section_End--><!--Fulltext_Section_Start-->
+				<div id="fulltext">	
+<div><a id="h2" name="h2"></a>
+
+<h2>Introduction</h2></div>
+<div class="fulltextdescription">Science rests upon the three pillars of open communication, reproducibility of results and building upon what has gone before. In these respects, computational neuroscience ought to be in a good position, since computers by design excel at repeating the same task without variation, as many times as desired: reproducibility of computational results ought, then, to be a trivial task. Similarly, the Internet enables almost instantaneous transmission of research materials, i.e. source code, between labs.</div>
+<div class="fulltextdescription">However, in practice this theoretical ease of reproducibility and communication is seldom achieved outside of a single lab and a time frame of a few months or years. While a given scientist may easily be able to reproduce a result obtained a few months ago, precisely reproducing a result obtained several years ago is likely to be rather more difficult, and the general experience seems to be that reproducing the results of others is both difficult and time consuming: very many published papers lack sufficient detail to rebuild a model from scratch, and typographic errors are common.</div>
+<div class="fulltextdescription">Having available the source code of the model greatly improves the situation, but here still there are numerous barriers to reproducibility and to building upon previously published models. One is that source code can rapidly go out of date as computer architectures, compiler standards and simulators develop. Another is that model source code is often not written with reuse and extension in mind, and so considerable rewriting to modularize the code is necessary. Probably the most important barrier is that code written for one simulator is not compatible with any other simulator.</div>
+<div class="fulltextdescription">Although many computational models in neuroscience are written from the ground up in a general purpose programming language such as C&#43;&#43; or Fortran, probably the majority use a special purpose simulator that allows models to be expressed in terms of neuroscience-specific concepts such as neurons, ion channels, synapses; the simulator takes care of translating these concepts into a system of equations and of numerically solving the equations. A large number of such simulators are available (reviewed in <a href="#B2">Brette et al., 2007</a>
+
+), mostly as open-source software, and each has its own programming language, configuration syntax and/or graphical interface, which creates considerable difficulty in translating models from one simulator to another, or even in understanding someone else&#x02019;s code, with obvious negative consequences for communication between investigators, reproducibility of others&#x02019; models and building on existing models.</div>
+<div class="fulltextdescription">However, the diversity of simulators also has a number of positive consequences: (i) it allows cross-checking &#x02013; the probability of two different simulators having the same bugs or hidden assumptions is very small; (ii) each simulator has a different balance between efficiency (how fast the simulations run), flexibility (how easy it is to add new functionality; the range of models that can be simulated), scalability (for parallel, distributed computation on clusters or supercomputers), and ease of use, so the most appropriate can be chosen for a given task.</div>
+<div class="fulltextdescription">Addressing the problems associated with an ecosystem of multiple simulators while retaining the benefits would greatly increase the ease of reproducibility of computational models in neuroscience and hence make it easier to verify the validity of published models and to build upon previous work.</div>
+<div class="fulltextdescription">There are at least two possible (and complementary) approaches to this. One is to enable direct, efficient communication between different simulators at run-time, allowing different components of a model to be simulated on different simulators (<a href="#B6">Ekeberg and Djurfeldt, 2008</a>
+
+). This approach addresses the problem of building a model from diverse components, but still leaves the problem of having to use different programming languages, and does not enable straightforward cross-checking. The other approach is to develop a system for model specification that is simulator-independent. Translation then only has to be done once for each simulator and not once for each model.</div>
+<div class="fulltextdescription">Here we can take advantage of the recent, rapid emergence of the Python programming language as an alternative interface to several of the more widely-used simulators. Thus, for example, both NEURON and NEST may be controlled either via their original, native interpreter (Hoc and SLI, respectively) or via Python. More recent simulators (e.g. PCSIM, Brian) have Python as the only available scripting language. This widespread adoption of Python is probably due to a number of factors, including the powerful data structures, clean and expressive syntax, extensive library, maturity of tools for numerical analysis and visualization (allowing use of a single language for the entire modelling workflow from simulation to analysis to graphing), and the ease-of-use of Python as a glue language which allows computation-intensive code written in a low-level language such as C to be transparently accessed within high-level Python code.</div>
+<div class="fulltextdescription">Python alone does not address the translation problem (although it does make the translation process easier, since at least simple data structures such as lists and arrays are the same for each simulator), since neuroscience-specific concepts are still expressed differently. However, it is now possible to define a simulator-independent Python interface for neuronal network simulators and to implement automatic translation to any Python-enabled simulator. We have designed and implemented such an interface, PyNN (pronounced &#x0201C;pine&#x0201D;). In this paper we describe its design, concepts, implementation and use. We do not attempt here to provide a complete user guide &#x02013; this may be found online at <a href="http://neuralensemble.org/PyNN">http://neuralensemble.org/PyNN</a>
+
+.</div>
+<div><a id="h3" name="h3"></a>
+
+<h2>Design Goals</h2></div>
+<div class="fulltextdescription">When designing and implementing a common simulator interface, the following goals should be taken into account. These are the goals we have kept in mind when designing and implementing the PyNN interface, but they are equally applicable to any other such interface.</div>
+<div class="fulltextdescription">Write the code for a model once, run it on any supported simulator or hardware device <i>without modification</i>. This is the primary design goal for PyNN.</div>
+<div class="fulltextdescription">Support a high-level of abstraction. For example, it is often preferable to deal with a single object representing a population of neurons than to deal with all the individual neurons directly. Each single neuron can be accessed when necessary, but in many cases the population is the more useful abstraction. The advantages of this approach are that (i) it is easier to maintain a conceptual idea of the model, without being distracted by implementation details, and (ii) the internal implementation of an object can be optimized for speed, parallelization or memory requirements without changing the interface presented to the user.</div>
+<div class="fulltextdescription">Support any feature provided by at least two supported simulators. The aim is to strike a balance between supporting all features of all simulators (unfeasible) and supporting only the subset of features common to all simulators (overly restrictive).</div>
+<div class="fulltextdescription">Allow mixing of PyNN and native simulator code. PyNN should not limit the range of models that can be implemented. Following the two-simulator rule, above, there will be things that are possible in one simulator and not in any other. Although a model implementation consisting of 100% PyNN is the best scenario for running on multiple simulators, an implementation with 50% PyNN code will be easier to convert between simulators than one with no PyNN code.</div>
+<div class="fulltextdescription">Facilitate porting of models between simulators. PyNN changes the process of porting a model between simulators from all-or-nothing, in which the validity of the translated model cannot be tested until the entire translation is complete, to an incremental approach, in which the native code is gradually replaced by simulator-independent code. At each stage, the hybrid code remains runnable, and so it is straightforward to verify that the model behaviour has not been changed.</div>
+<div class="fulltextdescription">Minimize dependencies, to make installation as simple as possible and maximize flexibility. There are no visualization and few data analysis tools built-in to PyNN, which means the user can use any such tools they wish.</div>
+<div class="fulltextdescription">Present a consistent interface on output as well as on input. The formats used for simulation outputs are consistent across simulator back-ends, making it a stable base upon which to build more complex systems of simulation control, data-analysis and visualization.</div>
+<div class="fulltextdescription">Prioritize compatibility over optimizations, but allow compatibility-breaking optimizations to be selected by a deliberate choice of the user (e.g. the <code>compatible_output</code> flag of the various <code>print()</code> methods is <code>True</code> by default, but can be set to <code>False</code> to get potentially-faster writing of data to file).</div>
+<div class="fulltextdescription">API Versioning. The PyNN API will inevitably evolve over time, as more simulators are supported and to take account of the preferences of the community of users. To ensure backwards compatibility, the API should be versioned so that the user can indicate which version was used for a particular implementation. Note that the examples given in this paper use version 0.4 of the API.</div>
+<div class="fulltextdescription">Transparent parallelization. Code that runs on a single processor should run on multiple processors (using MPI) without changes.</div>
+<div class="fulltextdescription">Some of these goals are somewhat contradictory: for example, having a high level of abstraction and making porting easy. Reconciling this particular pair of goals has led to the presence in PyNN of both a high-level, object-oriented interface and a low-level, procedural interface that is more similar to the interface of many existing simulators. These will be discussed further below.</div>
+<div><a id="h4" name="h4"></a>
+
+<h2>Usage Examples</h2></div>
+<div class="fulltextdescription">Before describing in detail the concepts underlying the PyNN interface, we will work through some examples of how it is used in practice: first a simple example using the low-level, procedural interface and then a more complex example using the high-level, object-oriented interface.</div>
+<div class="fulltextdescription">For the simple example, we will build a network consisting of a single integrate-and-fire (IF) cell receiving spiking input from a Poisson process.</div>
+<div class="fulltextdescription">First, we choose which simulator to use by importing the relevant module from PyNN:</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i001.gif" alt="yes"/></div>
+<div class="fulltextdescription">If we wanted to use PCSIM, we would just import <code>pyNN.pcsim,</code> etc. Whichever simulator back-end we use, none of the code below would change.</div>
+<div class="fulltextdescription">Next we set global parameters of the simulator:</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i002.gif" alt="yes"/></div>
+<div class="fulltextdescription">Now we create two cells: an IF neuron with synapses that respond to a spike with a step increase in synaptic conductance, which then decays exponentially, and a &#x0201C;spike source&#x0201D;, a simple cell that emits spikes at predetermined times but cannot receive input spikes.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i003.gif" alt="yes"/></div>
+<div class="fulltextdescription">Behind the scenes, the <code>create()</code> function translates the standard PyNN model name, <code>IF_cond_exp</code> in this case, into the model name used by the simulator, <code>Standard_IF</code> for NEURON, <code>iaf_cond_exp</code> for NEST, for example and also translates parameter names and units into simulator-specific names and units. To take one example, the <code>i_offset</code> parameter represents the amplitude of a constant current injected into the cell, and is given in nanoamps. The equivalent parameter of the NEST <code>iaf_cond_exp</code> model has the name <code>I_e</code> and units of picoamps, so PyNN both converts the name and multiplies the numerical value by 1000 when running with NEST. Standard cell models and automatic translation are discussed in more detail in the next section.</div>
+<div class="fulltextdescription">The <code>create()</code> function returns an <code>ID</code> object, which provides access to the parameters of the cell models, e.g.:</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i004.gif" alt="yes"/></div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i005.gif" alt="yes"/></div>
+<div class="fulltextdescription">Having created the cells, we connect them with the <code>connect()</code> function:</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i006.gif" alt="yes"/></div>
+<div class="fulltextdescription">Now we tell the system what variable or variables to record, run the simulation and finish.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i007.gif" alt="yes"/></div>
+<div class="fulltextdescription">The result of running the above model is shown in Figure <a href="#F1">1</a>
+
+, which also shows the degree of reproducibility obtainable between different simulators for such a simple network.</div>
+
+<div class="imagecontainer">
+	<div class="imagethumbnail">
+		<div>
+			<a href="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_m/fninf-02-011-g001.jpg" target="_blank">
+			<img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_t/fninf-02-011-g001.gif" id="F1"  alt="" /></a>
+
+
+		</div>
+		<div>
+			<a href="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-g001.gif"  target="_blank" title="View figure in a separate window">[View Larger Version of this Image]</a>
+
+
+		</div>
+	</div>
+	<div class="imagedescription"><b>Figure 1. Results of running first example given in the text, with NEURON, NEST and PCSIM as back-end simulators. (A)</b> Entire membrane potential trace with integration time-step 0.1 ms. <b>(B)</b> Zoom into a smaller region of the trace, showing small numerical differences between the results of the different simulators. <b>(C)</b> Results of a simulation with integration time-step 0.01 ms, showing greatly reduced numerical differences.</div>
+
+</div>
+
+<div class="fulltextdescription">The low-level, procedural interface, using the <code>create()</code>, <code>connect()</code> and <code>record()</code> functions, is useful for simple models or when porting an existing model written in a different language that uses the create/connect idiom. For larger, more complex networks we have found that an object-oriented approach, with a higher-level of abstraction, is more effective, since it both clarifies the conceptual structure of the model, by hiding implementation details, and allows behind-the-scenes optimizations.</div>
+<div class="fulltextdescription">To illustrate the high-level, object-oriented interface we turn now from the simple example of a few neurons to a more complex example: a network of several thousand excitatory and inhibitory neurons that displays self-sustained activity (based on the &#x0201C;CUBA&#x0201D; model of <a href="#B18">Vogels and Abbott (2005)</a>
+
+, and reproducing the benchmark model used in <a href="#B2">Brette et al. (2007)</a>
+
+). This still is not a particularly complicated network, since it has only two cell types, no spatial structure and no heterogeneity of neuronal or connection properties, but in demonstrating how building such a network becomes trivial using PyNN we hope to convince the reader that building genuinely complex, structured and heterogeneous networks becomes manageable.</div>
+<div class="fulltextdescription">Again, we begin by choosing which simulator to use. We also import some classes from PyNN&#x02019;s random module.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i008.gif" alt="yes"/></div>
+<div class="fulltextdescription">We next specify the parameters of the neuron model (the same model and same parameters are used for both excitatory and inhibitory neurons).</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i009.gif" alt="yes"/></div>
+<div class="fulltextdescription">Parameters with dimensions of voltage are in millivolts, time in milliseconds and capacitance in nanofarads. The units convention is discussed further in the next section.</div>
+<div class="fulltextdescription">We now initialize the simulation, this time accepting the default values for the global parameters.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i010.gif" alt="yes"/></div>
+<div class="fulltextdescription">Now, rather than creating each cell separately, we just create a <code>Population</code> object for each different type of cell:</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i011.gif" alt="yes"/></div>
+<div class="fulltextdescription">By default, all cells of a given Population are created with identical parameters, but these can be changed afterwards. Here we wish to randomize the value of the membrane potential at the start of the simulation to values between &#x02212;50 and &#x02212;70 mV.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i012.gif" alt="yes"/></div>
+<div class="fulltextdescription"><code>randomInit()</code> is a convenience method for randomizing the initial membrane potential. For the more general case of randomizing any cell parameter use <code>rset()</code>.</div>
+<div class="fulltextdescription">Just as individual neurons are encapsulated within <code>Population</code>s, connections between neurons are encapsulated within <code>Projection</code>s. To create a <code>Projection</code> object, we need to specify how the neurons will be connected, either via an algorithm or via an explicit list. Different algorithms are encapsulated in different <code>Connector</code> classes, e.g. 
+<code>FixedProbabilityConnector,AllToAllConnector</code>. An explicit list of connections can be provided via a <code>FromListConnector</code> or a <code>FromFileConnector.</code></div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i013.gif" alt="yes"/></div>
+<div class="fulltextdescription">Note that weights are in microsiemens and delays in milliseconds. Where the delay is not specified, the global minimum delay specified in the <code>setup()</code> function is used. Here we set all weights and delays of a <code>Projection</code> to the same value, but it is equally possible to pass the constructor a <code>RandomDistribution</code> object, as we did above for the initial membrane potential, or an explicit list of values.</div>
+<div class="fulltextdescription">To create a <code>Projection</code>, we need to specify the pre- and post-synaptic <code>Populations</code>, a <code>Connector</code> object, and a synapse type. The standard IF cells each have two synapse types, &#x0201C;<code>excitatory</code>&#x0201D; and &#x0201C;<code>inhibitory</code>&#x0201D;. User-defined models can use arbitrary names, e.g. &#x0201C;<code>AMPA</code>&#x0201D;, &#x0201C;<code>NMDA</code>&#x0201D;.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i014.gif" alt="yes"/></div>
+<div class="fulltextdescription">Having constructed the network, we now need to instrument it, using the <code>record()</code> (for recording spikes) and <code>record_v()</code> (membrane potential) methods of the <code>Population</code> objects. Here we choose to record spikes from 1000 of the excitatory neurons (chosen at random) and all of the inhibitory neurons, and to record the membrane potential of two specific excitatory neurons. We then run the simulation for 1000 ms.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i015.gif" alt="yes"/></div>
+<div class="fulltextdescription">After running the simulation, we can access the results or write them to file.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i016.gif" alt="yes"/></div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i017.gif" alt="yes"/></div>
+<div class="fulltextdescription">The results of running simulations of the above network with two different simulator back-ends are shown in Figure <a href="#F2">2</a>
+
+.</div>
+
+<div class="imagecontainer">
+	<div class="imagethumbnail">
+		<div>
+			<a href="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_m/fninf-02-011-g002.jpg" target="_blank">
+			<img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_t/fninf-02-011-g002.gif" id="F2"  alt="" /></a>
+
+
+		</div>
+		<div>
+			<a href="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-g002.gif"  target="_blank" title="View figure in a separate window">[View Larger Version of this Image]</a>
+
+
+		</div>
+	</div>
+	<div class="imagedescription"><b>Figure 2. Results of running the second example given in the text, with NEURON and NEST as back-end simulators.</b>  Note that the network connectivity and initial conditions were identical in the two cases. <b>(A)</b> Membrane potential traces for two excitatory neurons. Note that the NEST and NEURON traces are very similar for the first 50 ms, but after that diverge rapidly due to the effects of network activity, which amplifies the small numerical integration differences. <b>(B)</b> Spiking activity of excitatory (black) and inhibitory (green) neurons. Each dot represents a spike and each row of dots a different neuron. All 5000 neurons are shown. <b>(C)</b> Distribution of pooled inter-spike intervals (ISIs) for excitatory and inhibitory neurons. <b>(D)</b> Distribution over neurons of the coefficient of variation of the ISI [CV(ISI)].</div>
+
+</div>
+
+<div><a id="h5" name="h5"></a>
+
+<h2>Principal Concepts</h2></div>
+<div class="fulltextdescription">To achieve the goal of &#x0201C;<i>write the code for a model once, run it on any supported simulator without modification</i>&#x0201D; requires (i) a common interface, (ii) neuron and synapse models that are standardized across simulators, (iii) consistent handling of physical units, (iv) consistent handling of (pseudo-)random numbers. To achieve the twin goals of supporting a high-level of abstraction and facilitating porting of models between simulators requires both an object-oriented and a procedural interface. The implementation of all these requirements is described in more depth in the following. We also illustrate the mixing of PyNN and native simulator code, and how PyNN can support features that are found in only a single simulator back-end, by describing support for multi-compartmental models.</div>
+<div><h3>Standard Cell Models</h3></div>
+<div class="fulltextdescription">A fundamental concept in PyNN is the cell type &#x02013; a given model of a neuron, representable by a set of equations, and comprising sub-threshold behaviour, spiking mechanism and post-synaptic response. The public interface of a cell type is mainly defined by its parameters. Different neurons of the same cell type may have very different behaviour if they have different values of the parameters. For example, the Izhikevich model (<a href="#B13">Izhikevich, 2003</a>
+
+), can reproduce a wide range of spiking patterns, from fast-spiking through regular spiking to multiple types of bursting, depending on the parameter values chosen. A cell type is therefore a model type rather than a biologically defined cell type (such as &#x0201C;Layer V pyramidal neuron&#x0201D;, for example).</div>
+<div class="fulltextdescription">When using a given simulator back-end, PyNN can work with any cell type that is supported by that simulator. In this case, the cell type is generally represented by a string, holding a model name that is meaningful for that simulator, e.g. &#x0201C;<code>iaf_neuron</code>&#x0201D; in NEST.</div>
+<div class="fulltextdescription">Of course, such a cell type will only work with one simulator. To create a model that will run on different simulators requires you to use one of PyNN&#x02019;s built-in, standard cell models, each represented by a sub-class of the <code>StandardCell</code> class. The models provided by PyNN include various simple IF models, the Izhikevich-like adaptive exponential IF model (<a href="#B1">Brette and Gerstner, 2005</a>
+
+), a single-compartment neuron with Hodgkin&#x02013;Huxley sodium and potassium channels, and various models that emit spikes (e.g. according to a Poisson process) but cannot receive them.</div>
+<div class="fulltextdescription">The <code>StandardCell</code> class contains machinery for translating model names, parameter names and parameter units between PyNN standardized values and simulator-specific values. This is particularly useful when the underlying simulators use different unit systems or different parameterizations of the same set of equations, e.g. when one simulator expects the membrane time constant and another the membrane leak conductance. An example of the translations performed by PyNN is given in Table <a href="#T1">1</a>
+
+.</div>
+<div class="fulltextimage"><a name="T1" id="T1"></a>
+
+<img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-t001.gif" alt="yes" /></div>
+<div class="fulltextdescription">Currently, all the standard cell types are single-compartment or point neuron models, since PyNN currently supports only one simulator for multi-compartmental models (NEURON). Further details on using multi-compartmental models with PyNN&#x02019;s NEURON back-end are given below. We plan in future to allow specifying multi-compartmental cell types using a NeuroML description (<a href="#B5">Crook et al., 2005</a>
+
+).</div>
+<div><h3>Units</h3></div>
+<div class="fulltextdescription">As is clear from the previous section, each simulator back-end has its own convention for which units to use for which physical quantities. The exception to this is Brian, which has a system for explicitly specifying units and for checking that equations are dimensionally consistent. In the future, we plan to adopt Brian&#x02019;s system for PyNN, but for now we have chosen to use a convention, which is similar to that of NEURON and NEST in that the units are those that tend to be used by experimental physiologists. An alternative would have been the convention used by PCSIM (and also by the GENESIS simulator) of using pure SI units with no prefixes. The advantage of the latter convention is that there is no need for checking equations for dimensional consistency. The disadvantage is that numerical values in such a system are often very large or very small, and hence the human intuition for reasonable and unreasonable parameter values is mostly lost.</div>
+<div class="fulltextdescription">Irrespective of the relative merits of different conventions, the most important thing is that PyNN now provides a single convention which is valid across simulators. In detail, the convention is as follows: voltage &#x02013; mV, current &#x02013; nA, conductance &#x02013; &#x003BC;S, time &#x02013; ms, capacitance &#x02013; nF.</div>
+<div><h3>Standard Synapse Models</h3></div>
+<div class="fulltextdescription">In PyNN, the shape and time-course of the elementary post-synaptic current or conductance change in response to a pre-synaptic spike are considered to be a part of the post-synaptic neuron model, while all other properties of a synaptic connection, notably its weight (the peak current or conductance of the synaptic response), delay (for point models, this implicitly includes axonal propagation, chemical transmission and dendritic propagation; more morphologically and/or biophysically detailed models may model explicitly some or all of these sources of delay), and short- and long-term plasticity, are considered to depend on both pre- and post-synaptic neurons, and so are encapsulated in the concept of &#x0201C;synapse type&#x0201D; that mirrors the &#x0201C;cell type&#x0201D; discussed above.</div>
+<div class="fulltextdescription">The default type of synaptic connection in PyNN is static, with fixed synaptic weights. To model dynamic synapses, for which the synaptic weight (and possibly other properties, such as rise-time) varies depending on the recent history of post- and/or pre-synaptic activity, we use the same idea as for neurons, of standardized, named models that have the same interface and behaviour across simulators, even if the underlying implementation may be very different.</div>
+<div class="fulltextdescription">Where the approach for dynamic synapses differs from that for neurons is that we attempt a greater degree of compositionality, i.e. we decompose models into a number of components, for example for short-term and long-term dynamics, or for the timing-dependence and the weight-dependence of STDP rules, that can then be composed in different ways.</div>
+<div class="fulltextdescription">The advantage of this is that if we have <i>n</i> different models for component A and <i>m</i> models for component B, then we require only <i>n</i> &#43; <i>m</i> models rather than <i>n</i> &#x000D7; <i>m</i>, which had advantages in terms of code-simplicity and in shorter model names. The disadvantage is that not all combinations may exist, if the underlying simulator implements composite models rather than using components itself: in this situation, PyNN checks whether a given composite model AB exists for a given simulator and raises an Exception if it does not. The composite approach may be extended to neuron models in future versions of the PyNN interface depending on the experience with composite synapse models.</div>
+<div class="fulltextdescription">Currently only a single model exists in PyNN for the short-term plasticity component, the Tsodyks&#x02013;Markram model (<a href="#B14">Markram et al., 1998</a>
+
+). For long-term plasticity there is a spike-timing-dependent plasticity STDP component, which itself is composed of separate timing-dependence and weight-dependence components.</div>
+<div><h3>Low-Level, Procedural Interface</h3></div>
+<div class="fulltextdescription">We refer to the procedural interface as &#x0201C;low-level&#x0201D; because it deals with a lower level of abstraction &#x02013; individual neurons and individual synapses &#x02013; than the object-oriented interface. The procedural interface consists of the functions <code>create()</code>, <code>connect()</code>, <code>set()</code>, <code>record()</code> (for recording spikes) and <code>record_v()</code> (for recording membrane potential). Each of these functions operates on, or returns, either individual cell <code>ID</code> objects or lists of such objects. As was described in the Usage Examples section, as well as being passed around as arguments, the <code>ID</code> object may be used for accessing/
+modifying the parameters of individual neurons, and takes care of parameter translation using the <code>StandardCell</code> mechanisms described above.</div>
+<div class="fulltextdescription">It is possible to some extent to mix the low-level and high-level interfaces. For example, it is possible to access individual neurons within a <code>Population</code> as <code>ID</code> objects and then use the <code>connect()</code> function to connect them, instead of using a <code>Projection</code> object.</div>
+<div class="fulltextdescription">Why have both a low-level and high-level interface? Having both is a potential source of confusion for users and is definitely a maintenance burden for developers. The main reason is to support the use of PyNN as a porting tool. The majority of neuronal network models using existing simulators use a procedural approach, and so conversion to PyNN is easier if PyNN supports the same approach. In addition, when developing a PyNN interface for a simulator, or for neuromorphic hardware, that deals primarily with individual cells and synaptic connections, it is easier to implement only the low-level interface, since the high-level interface can be built upon it.</div>
+<div><h3>High-Level, Object-Oriented Interface</h3></div>
+<div class="fulltextdescription">Object-oriented programming has been used for many years in computer science as a method for reducing program complexity. As the ambition and scope of large-scale, biologically detailed neuronal network modelling increases, reducing program complexity will become more and more critical, as the limiting factor in computational neuroscience becomes the productivity of the programmer and not the capacity of the computer (<a href="#B19">Wilson, 2006</a>
+
+). It is for this reason that the preferred interface in PyNN for developing new models is an object-oriented one.</div>
+<div class="fulltextdescription">The object-oriented interface is built around three main classes:</div>
+<div class="fulltextdescription">Population &#x02013; a group of cells all with the same cell type (model type). It is generally considered that the cells in a <code>Population</code> should all represent the same biological cell type, i.e. although parameter values may vary between cells in the group, all cells should have qualitatively the same firing response. This is not enforced, but is a good guideline to follow for producing understandable code. The <code>Population</code> class eliminates tedious iteration over lists of neurons and enables more efficient, array-based management of neuron properties.</div>
+<div class="fulltextdescription">Projection &#x02013; the set of connections of a given synapse type between two <code>Population</code>s. Creating a Projection requires specifying the pre- and post-synaptic <code>Population</code>s, the synapse type, and the algorithm used to determine which neurons connect to which.</div>
+<div class="fulltextdescription">Connector &#x02013; an encapsulation of the connection algorithm used in creating a Projection. Simple examples of such algorithms are &#x0201C;all-to-all&#x0201D;, &#x0201C;one-to-one&#x0201D; and &#x0201C;connect-each-pre-and-post-synaptic-cell-with-a-fixed-probability&#x0201D;. It is also possible to provide an explicit list of which cells are to be connected to which others. Each algorithm is defined within a subclass of the <code>Connector</code> class. PyNN contains a number of such classes, but it is fairly straightforward for a user to define their own algorithms.</div>
+<div class="fulltextdescription">In future development of PyNN, we plan to extend the interface to still higher-level abstractions, such as layers, cortical columns, brain areas and inter-areal projections. We also aim to use the high-level interface as a link between spiking network models and more abstract models that do not represent individual neurons, such as mean-field models.</div>
+<div><h3>Random Numbers</h3></div>
+<div class="fulltextdescription">The central nervous system contains many sources of noise, and activity patterns are often sufficiently complex, and possibly chaotic, to make a stochastic representation a reasonable model.</div>
+<div class="fulltextdescription">This can become a problem when comparing the behaviour of a given model run on different simulators, since random differences might obscure real inconsistencies between implementations of the model. Similarly, when performing distributed computations on parallel machines, the model behaviour should not depend on the number of processors used (<a href="#B15">Morrison et al., 2005</a>
+
+), and random differences can conceal real differences between the parallel and serial implementations.</div>
+<div class="fulltextdescription">For these reasons, it is important to be able to use identical sequences of random numbers in different simulators, and to have the random number used at a particular point in the program execution be independent of which processor it is running on.</div>
+<div class="fulltextdescription">Another consideration is that simulations in most cases use only pseudo-random sequences, and low-quality random number generators (RNGs) may have correlations between different elements of the sequence that can significantly affect the qualitative behaviour of a network. Hence it is necessary to be able to test the simulation with different RNGs.</div>
+<div class="fulltextdescription">PyNN supports simulator-independent RNGs and use of different generators &#x02013; currently any of the generators provided by the <code>numpy</code> package or by the GNU Scientific Library (GSL) can be used.</div>
+<div class="fulltextdescription">This is done by wrapping the <code>numpy</code> and GSL RNGs in classes with a common interface. PyNN&#x02019;s <code>random</code> module contains the classes <code>NumpyRNG</code> and <code>GSLRNG</code>, which both have a single method, <code>next(n, distribution, parameters)</code>, which returns <code>n</code> random numbers from a distribution of type <code>distribution</code> with parameters <code>parameters</code>, e.g.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i018.gif" alt="yes"/></div>
+<div class="fulltextdescription">Since all PyNN code that uses random numbers accesses the RNG classes only through this <code>next()</code> method, a user can substitute their own RNG simply by defining a wrapper class with such a method.</div>
+<div class="fulltextdescription">Since very often one wishes to use the same random distribution repeatedly, rather than changing distribution each time, the <code>random</code> module also provides the <code>RandomDistribution</code> class, which is initialized with the distribution name and parameters, and thereafter the <code>next()</code> method is simplified to take a single argument, the number of values to draw from the distribution, e.g.</div>
+<div class="fulltextdescription"><img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i019.gif" alt="yes"/></div>
+<div class="fulltextdescription">Note that NumpyRNG and GSLRNG distributions may not have the same names, e.g. &#x0201C;normal&#x0201D; for <code>NumpyRNG</code> and &#x0201C;gaussian&#x0201D; for <code>GSLRNG</code>, and the arguments may also differ. One of our future plans is to extend the <code>random</code> module in order to harmonize names across RNGs.</div>
+<div><h3>Multi-Compartmental Models</h3></div>
+<div class="fulltextdescription">PyNN currently supports only a single simulator, NEURON, that is suitable for many-compartment models. Given the principle of supporting simulator-independence only for features that are shared by at least two of the supported simulators, and given PyNN&#x02019;s focus on network modelling, PyNN does not provide an API for specifying simulator-independent multi-compartmental models. This is a possible future development &#x02013; preliminary work has been done on a PyNN interface to the MOOSE simulator (<a href="#B16">Ray and Bhalla, 2008</a>
+
+) &#x02013; but a more likely path would be to make use of the NeuroML standards for specifying multi-compartmental models. In this scenario, the filename of a NeuroML level 2 file, specifying a single cell type, would be passed as the <code>cellclass</code> argument to the PyNN <code>create()</code> function or <code>Population</code> constructor.</div>
+<div class="fulltextdescription">However, since native and PyNN code can be mixed, the <code>pyNN.neuron</code> module already supports simulations with multi-compartmental models. The pre-synaptic compartment whose voltage is watched to trigger synaptic transmission (e.g. axon terminal) can be specified using the <code>source</code> argument to the <code>Projection</code> constructor, and the post-synaptic mechanism specified with the <code>target</code> argument.</div>
+<div><h3>Debugging</h3></div>
+<div class="fulltextdescription">Should an error occur in a PyNN simulation, a good first step is to re-run it on another simulator back-end and so narrow down the source of the problem to one back-end in particular. Nevertheless, it has proven to be the case that the additional layers of abstraction provided by PyNN sometimes make it harder to track down sources of errors. To counterbalance this, PyNN traps errors coming from the simulator core and employs Python&#x02019;s introspection capabilities to provide additional information about the error context. For example, if an invalid parameter name is provided to a neuron model, the error message lists all the valid parameter names for that model. Furthermore, logging can be switched on via the <code>init_logging()</code> function in the <code>pyNN.utility</code> module, causing detailed information about what the system is doing to be written to file, a valuable resource for tracking down bugs.</div>
+<div><a id="h6" name="h6"></a>
+
+<h2>Implementation</h2></div>
+<div class="fulltextdescription">PyNN is both a definition of a common simulator interface and an implementation of this interface for each supported simulator. PyNN is implemented as a Python package containing a <code>common</code> module, which defines the API and contains functionality common to all simulator back-ends, a <code>random</code> module (described above), and a module for each simulator back-end, as shown in Figure <a href="#F3">3</a>
+
+. Each simulator module separately implements the API, although it can make use of much shared code in <code>common</code>. In most cases, the simulator modules have been implemented by, or in close collaboration with, the simulator developers.</div>
+
+<div class="imagecontainer">
+	<div class="imagethumbnail">
+		<div>
+			<a href="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_m/fninf-02-011-g003.jpg" target="_blank">
+			<img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_t/fninf-02-011-g003.gif" id="F3"  alt="" /></a>
+
+
+		</div>
+		<div>
+			<a href="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-g003.gif"  target="_blank" title="View figure in a separate window">[View Larger Version of this Image]</a>
+
+
+		</div>
+	</div>
+	<div class="imagedescription"><b>Figure 3. The architecture of PyNN.</b> </div>
+</div>
+
+<div class="fulltextdescription">PyNN currently fully supports the following simulators: NEURON (<a href="#B4">Carnevale and Hines, 2006</a>
+
+; <a href="#B11">Hines and Carnevale, 1997</a>
+
+; <a href="#B12">Hines et al., 2008</a>
+
+), NEST (<a href="#B7">Eppler et al., 2008</a>
+
+; <a href="#B8">Gewaltig and Diesmann, 2007</a>
+
+), PCSIM (<a href="http://www.lsm.tugraz.at/pcsim/">http://www.lsm.tugraz.at/pcsim/</a>
+
+) and Brian (<a href="#B10">Goodman and Brette, 2008</a>
+
+). Support for MOOSE (<a href="#B16">Ray and Bhalla, 2008</a>
+
+) and for export in NeuroML format (<a href="#B5">Crook et al., 2005</a>
+
+) is under development.</div>
+<div class="fulltextdescription">PyNN also supports the Heidelberg neuromorphic hardware system (<a href="#B17">Schemmel et al., 2007</a>
+
+). This illustrates a major benefit of the existence of a common neuronal simulation interface: novel simulation or emulation systems do not need to develop their own programming interface, but can benefit from an existing one that guarantees interoperability with existing tools. Using PyNN as the interface to neuromorphic hardware systems provides the possibility of closing the gap between the two domains of numerical simulation and physical emulation, which have so far coexisted rather separately.</div>
+<div><a id="h7" name="h7"></a>
+
+<h2>Limitations on Reproducibility</h2></div>
+<div class="fulltextdescription">For a given model with a given parameter set run on a given version of a given simulator, it should be possible to exactly reproduce a simulation result, independent of computer architecture (except where this affects the precision of the floating-point representation) or operating system. For parallel systems, results should also be independent of how many threads or processes are used in the computation, although here exact quantitative reproduction is harder to achieve. Reproducibility across different versions of a given simulator is not essential provided the precise version used to generate a given result is specified, but it is of course highly desirable. When running a model on different simulators, exact reproduction is impossible to achieve, except in simple cases, due to round-off errors in floating point calculations. When validating a model implementation by running it on two or more simulators, therefore, what level of reproducibility is achievable, and how can we tell whether any differences are due to round-off error or to implementation errors?</div>
+<div class="fulltextdescription">To get a preliminary handle on this problem, we have compared the difference in model activity between two simulators to the difference due to two different initial conditions with the same simulator.</div>
+<div class="fulltextdescription">Our test case is the balanced random network, based on <a href="#B18">Vogels and Abbott (2005)</a>
+
+, whose implementation was shown above. The activity pattern of this network is very sensitive to initial conditions (chaotic or near-chaotic), and so we cannot use differences in the precise spike pattern to measure reproducibility: we are more interested in the statistical properties of the activity, and so we have chosen to take the distribution of inter-spike intervals (ISIs) of excitatory neurons (see Figure <a href="#F2">2</a>
+
+C) as a measure of network activity.</div>
+<div class="fulltextdescription">To measure the difference between the distributions from two different runs we use the Kolmogorov&#x02013;Smirnov two-sample test. We ran the simulation ten times, each time with a different seed for the RNG used to generate the initial membrane potential distribution, with both NEURON and NEST back-ends. This gave values for the Kolmogorov&#x02013;Smirnov D-statistic between 0.008 and 0.026 (<i>n</i> <img src="https://www.frontiersin.org/files/Articles/388/fninf-02-011/image_n/fninf-02-011-i020.gif" alt="yes" align="middle" /> 19000) with a mean of 0.015, with associated <i>p</i>-values (probability that the two distributions are the same) between 6.3 &#x000D7; 10<sup>&#x02212;5</sup> and 0.68 with mean 0.15.</div>
+<div class="fulltextdescription">We then ran the simulation twenty times just on NEURON, each time with a different RNG seed, to give 10 pairs of distributions. In this case the <i>D</i>-values were in the range 0.007&#x02013;0.026, mean 0.015, and the <i>p</i>-values in the range 2.8 &#x000D7; 10<sup>&#x02212;5</sup> to 0.77, mean 0.20.</div>
+<div class="fulltextdescription">In summary, the differences due to different simulators are in almost exactly the same range as those due to different initial conditions, suggesting that the differences between the simulators are indeed due to round-off errors and that there are not, therefore, any implementation errors in this case.</div>
+<div class="fulltextdescription">It is also interesting to note that in most cases the null hypothesis is supported, i.e. the distributions are the same, but that for some initial conditions there are highly significant differences between the ISI distributions. The ISI distribution may not therefore be the best measure for reproducibility in this case.</div>
+<div><a id="h8" name="h8"></a>
+
+<h2>Discussion</h2></div>
+<div class="fulltextdescription">In this article we have presented PyNN, a Python-based common simulator interface, which allows simulator-independent model specification. PyNN is already in use in a number of research groups, and has been a key technology enabling improved communication between labs in a pan-European collaborative project with a major component of modelling and of neuromorphic hardware development (the FACETS project: <a href="http://www.facets-project.org">http://www.facets-project.org</a>
+
+).</div>
+<div class="fulltextdescription">By providing a standard simulation platform, PyNN also has the potential to act as the foundation for other, simulator agnostic but neuroscience-specific, tools such as analysis, visualization and data-management software.</div>
+<div class="fulltextdescription">PyNN is not the only project to address simulator-independent model specification and simulator interoperability (review in <a href="#B3">Cannon et al., 2007</a>
+
+). neuroConstruct (<a href="#B9">Gleeson et al., 2007</a>
+
+) is a tool to develop networks of morphologically-detailed neurons using a graphical user interface (GUI), that can generate code for both the NEURON and GENESIS simulators. A limitation with respect to PyNN is that since it uses code generation rather than a direct interface, neuroConstruct cannot receive information back from the simulator except by reading the data files it generates. A second limitation is that features that are not available through the GUI cannot be incorporated in a model. The NeuroML standards (<a href="#B5">Crook et al., 2005</a>
+
+, <a href="http://www.neuroml.org">http://www.neuroml.org</a>
+
+) are intended to provide an infrastructure for exchanging model specifications between groups in a simulator-independent way. Their scope includes much more detailed levels of modelling, e.g. membrane ion channels and detailed dendritic morphology, than are supported by PyNN. They have the advantage over PyNN of being language-independent, since specifications are written in XML, for which tools exist in all major programming languages. The major disadvantage of purely declarative specifications is lack of flexibility: if a concept or entity is not defined in the standard, it is not possible to specify models that use it, whereas with a procedural/imperative or mixed declarative-procedural specification such as is achievable with PyNN, arbitrary specifications are possible.</div>
+<div class="fulltextdescription">Although we emphasize here the differences between the GUI, pure-declarative, and programming-interface approaches to simulator-independent model specification, in fact they are highly complementary. Graphical interfaces are particularly good for beginners, for teaching, for giving high-level overviews of a system, and for integrating analysis and visualization tools. It would be very useful for neuroConstruct to be able to generate PyNN code, for example, in addition to code for NEURON and GENESIS. Declarative specifications reach the highest levels of system-independence, for the range of concepts that are supported. They are also particularly suitable for transformation into human-readable formats and for automated GUI generation. As such, they seem to be best suited for domains in which the modelling approach is fairly stable, e.g. for describing neuron morphologies or non-stochastic ion channel models. In PyNN, we plan to support simulator-independent multi-compartmental models using NeuroML: in this scenario cell models would be specified in NeuroML while PyNN would be used for network specification and for simulation setup and control.</div>
+<div class="fulltextdescription">Our main priorities for future development of PyNN are to increase the number of supported simulators (simulator developers who are interested in PyNN support for their simulator are encouraged to contact us), improve the support for multi-compartmental modelling, and extend the interface towards higher-level abstractions, such as cortical columns and more abstract modelling approaches. PyNN is open source software (CeCILL licence, <a href="http://www.cecill.info">http://www.cecill.info</a>
+
+) and has an open development model: anyone who wishes to contribute is welcome and invited to do so.</div>
+<div><a id="h9" name="h9"></a>
+
+<h2>Conflict of Interest Statement</h2></div>
+<div class="fulltextdescription">The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</div>
+<div><a id="h10" name="h10"></a>
+
+<h2>Acknowledgements</h2></div>
+<div class="fulltextdescription">This work was supported by the European Union (FACETS project, FP6-2004-IST-FETPI-015879). Jens Kremkow is also supported by the German Federal Ministry of Education and Research (BMBF grant 01GQ0420 to BCCN, Freiburg).</div>
+<div><a id="h11" name="h11"></a>
+
+<h2>References</h2></div>
+<div class="fulltextdescription"><div><a name="B1" id="B1"></a>
+
+Brette, R., and Gerstner, W. (2005). Adaptive exponential integrate-and-fire model as an effective description of neuronal activity. <i>J. Neurophysiol.</i> 94, 3637&#x02013;3642.
+</div><div class="referenceslink"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&#x00026;Cmd=ShowDetailView&#x00026;TermToSearch=16014787" target="_blank">Pubmed Abstract</a>
+
+ | <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?db=pubmed&#x00026;cmd=prlinks&#x00026;retmode=ref&#x00026;id=16014787" target="_blank">Pubmed Full Text</a>
+
+ | <a href="http://dx.doi.org/10.1152/jn.00686.2005" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B2" id="B2"></a>
+
+Brette, R., Rudolph, M., Carnevale, T., Hines, M., Beeman, D., Bower, J., Diesmann, M., Morrison, A., Goodman P. H., Harris, F. Jr, Zirpe, M., Natschlager, T., Pecevski, D., Ermentrout, B., Djurfeldt, M., Lansner, A., Rochel, O., Vieville, T., Muller, E., Davison, A., El Boustani, S., and Destexhe, A. (2007). Simulation of networks of spiking neurons: a review of tools and strategies. <i>J Comput. Neurosci.</i> 23, 349&#x02013;398.
+</div><div class="referenceslink"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&#x00026;Cmd=ShowDetailView&#x00026;TermToSearch=17629781" target="_blank">Pubmed Abstract</a>
+
+ | <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?db=pubmed&#x00026;cmd=prlinks&#x00026;retmode=ref&#x00026;id=17629781" target="_blank">Pubmed Full Text</a>
+
+ | <a href="http://dx.doi.org/10.1007/s10827-007-0038-6" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B3" id="B3"></a>
+
+Cannon, R., Gewaltig, M., Gleeson, P., Bhalla, U., Cornelis, H., Hines, M., Howell, F., Muller, E., Stiles, J., Wils, S., and De Schutter, E. (2007). Interoperability of neuroscience modeling software: current status and future directions. <i>Neuroinformatics</i> 5, 127&#x02013;138.
+</div><div class="referenceslink"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&#x00026;Cmd=ShowDetailView&#x00026;TermToSearch=17873374" target="_blank">Pubmed Abstract</a>
+
+ | <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?db=pubmed&#x00026;cmd=prlinks&#x00026;retmode=ref&#x00026;id=17873374" target="_blank">Pubmed Full Text</a>
+
+ | <a href="http://dx.doi.org/10.1007/s12021-007-0004-5" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B4" id="B4"></a>
+
+Carnevale, N. T., and Hines, M. L. (2006). The NEURON Book. Cambridge, University Press.
+</div><div class="referenceslink"></div></div>
+<div class="fulltextdescription"><div><a name="B5" id="B5"></a>
+
+Crook, S., Beeman, D., Gleeson, P., and Howell, F. (2005). XML for model specification in neuroscience: an introduction and workshop summary. <i>Brains Minds Media</i> 1, bmm228 (urn:nbn:de:0009&#x02013;3&#x02013;2282).
+</div><div class="referenceslink"></div></div>
+<div class="fulltextdescription"><div><a name="B6" id="B6"></a>
+
+Ekeberg, &#x000D6;., and Djurfeldt, M. (2008). MUSIC &#x02013; multisimulation coordinator: request for comments. <i>Nat. Precedings</i> <a href="http://dx.doi.org/10.1038/npre.2008.1830.1">http://dx.doi.org/10.1038/npre.2008.1830.1</a>
+
+.
+</div><div class="referenceslink"><a href="http://dx.doi.org/ 10.1038/npre.2008.1830.1" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B7" id="B7"></a>
+
+Eppler, J., Helias, M., Diesmann, M., and Gewaltig, M.-O. (2008). PyNEST: a convenient interface to the NEST simulator. <i>Front. Neuroinform</i>. 2. doi: 10.3389/neuron.11.012.2008.
+</div><div class="referenceslink"><a href="http://dx.doi.org/10.3389/neuro.11.012.2008" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B8" id="B8"></a>
+
+Gewaltig, M.-O., and Diesmann, M. (2007). NEST (NEural Simulation Tool). <i>Scholarpedia</i> 2, 1430.
+</div><div class="referenceslink"></div></div>
+<div class="fulltextdescription"><div><a name="B9" id="B9"></a>
+
+Gleeson, P., Steuber, V., and Silver, R. A. (2007). neuroConstruct: a tool for modeling networks of neurons in 3D space. <i>Neuron</i> 54, 219&#x02013;235.
+</div><div class="referenceslink"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&#x00026;Cmd=ShowDetailView&#x00026;TermToSearch=17442244" target="_blank">Pubmed Abstract</a>
+
+ | <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?db=pubmed&#x00026;cmd=prlinks&#x00026;retmode=ref&#x00026;id=17442244" target="_blank">Pubmed Full Text</a>
+
+ | <a href="http://dx.doi.org/10.1016/j.neuron.2007.03.025" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B10" id="B10"></a>
+
+Goodman, D., and Brette, R. (2008). Brian: a simulator for spiking neural networks in Python. <i>Front. Neuroinform</i>. 2. doi: 10.3389/neuron.11.005.2008.
+</div><div class="referenceslink"><a href="http://dx.doi.org/10.3389/neuro.11.005.2008" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B11" id="B11"></a>
+
+Hines, M. L., and Carnevale, N. T. (1997). The NEURON simulation environment. <i>Neural Comput.</i> 9, 1179&#x02013;1209.
+</div><div class="referenceslink"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&#x00026;Cmd=ShowDetailView&#x00026;TermToSearch=9248061" target="_blank">Pubmed Abstract</a>
+
+ | <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?db=pubmed&#x00026;cmd=prlinks&#x00026;retmode=ref&#x00026;id=9248061" target="_blank">Pubmed Full Text</a>
+
+ | <a href="http://dx.doi.org/10.1162/neco.1997.9.6.1179" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B12" id="B12"></a>
+
+Hines, M., Davison, A., and Muller, E. (2008). NEURON and Python. <i>Front. Neuroinform</i>. 2. doi: 10.3389/neuron.11.001.2009.
+</div><div class="referenceslink"><a href="http://dx.doi.org/ 10.3389/neuron.11.001.2009" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B13" id="B13"></a>
+
+Izhikevich, E. (2003). Simple model of spiking neurons. <i>IEEE Trans Neural Netw.</i> 14, 1569&#x02013;1572.
+</div><div class="referenceslink"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&#x00026;Cmd=ShowDetailView&#x00026;TermToSearch=18244602" target="_blank">Pubmed Abstract</a>
+
+ | <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?db=pubmed&#x00026;cmd=prlinks&#x00026;retmode=ref&#x00026;id=18244602" target="_blank">Pubmed Full Text</a>
+
+ | <a href="http://dx.doi.org/10.1109/TNN.2003.820440" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B14" id="B14"></a>
+
+Markram, H., Wang, Y., and Tsodyks, M. (1998). Differential signaling via the same axon of neocortical pyramidal neurons. <i>Proc. Natl. Acad. Sci. USA</i> 95, 5323&#x02013;5328.
+</div><div class="referenceslink"><a href="http://dx.doi.org/10.1073/pnas.95.9.5323" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B15" id="B15"></a>
+
+Morrison, A., Mehring, C., Geisel, T., Aertsen, A., and Diesmann, M. (2005). Advancing the boundaries of high-connectivity network simulation with distributed computing. <i>Neural Comput.</i> 17, 1776&#x02013;1801.
+</div><div class="referenceslink"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&#x00026;Cmd=ShowDetailView&#x00026;TermToSearch=15969917" target="_blank">Pubmed Abstract</a>
+
+ | <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?db=pubmed&#x00026;cmd=prlinks&#x00026;retmode=ref&#x00026;id=15969917" target="_blank">Pubmed Full Text</a>
+
+ | <a href="http://dx.doi.org/10.1162/0899766054026648" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B16" id="B16"></a>
+
+Ray, S., and Bhalla, U. (2008). PyMOOSE: interoperable scripting in Python for MOOSE. <i>Front. Neuroinform</i>. 2. doi: 10.3389/neuron.11.006.2008.
+</div><div class="referenceslink"><a href="http://dx.doi.org/ 10.3389/neuron.11.006.2008." target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B17" id="B17"></a>
+
+Schemmel, J., Br&#x000FC;derle, D., Meier, K., and Ostendorf, B. (2007). Modeling synaptic plasticity within networks of highly accelerated I&#x00026;F neurons. In Proceedings of the 2007 IEEE International Symposium on Circuits and Systems (ISCAS&rsquo;07). New Orleans, IEEE Press, pp. 3367&#x02013;3370. doi: 10.1109/ISCAS.2007.378289.
+</div><div class="referenceslink"><a href="http://dx.doi.org/ 10.1109/ISCAS.2007.378289." target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B18" id="B18"></a>
+
+Vogels, T., and Abbott, L. (2005). Signal propagation and logic gating in networks of integrate-and-fire neurons. <i>J. Neurosci.</i> 25, 10786&#x02013;10795.
+</div><div class="referenceslink"><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&#x00026;Cmd=ShowDetailView&#x00026;TermToSearch=16291952" target="_blank">Pubmed Abstract</a>
+
+ | <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?db=pubmed&#x00026;cmd=prlinks&#x00026;retmode=ref&#x00026;id=16291952" target="_blank">Pubmed Full Text</a>
+
+ | <a href="http://dx.doi.org/10.1523/JNEUROSCI.3508-05.2005" target="_blank">CrossRef Full Text</a>
+
+</div></div>
+<div class="fulltextdescription"><div><a name="B19" id="B19"></a>
+
+Wilson, G. (2006). Where&#x02019;s the real bottleneck in scientific computing? <i>Am. Sci.</i> 94, 5&#x02013;6.
+</div><div class="referenceslink"></div></div>
+</div>
+<!--Fulltext_Section_End--><!--Metadata_Section_Start-->
+<div class="thinLineM20"></div>
+<div id="metacontainer" class="metacontainer">
+					 	<div class="metakey">Keywords:</div>
+						<div class="metavalue">
+							 Python, interoperability, large-scale models, simulation, parallel computing, reproducibility, computational neuroscience, translation
+						</div>
+						<div class="clear"></div>
+						<div class="metakey">Citation:</div>
+						<div class="metavalue">
+							 Davison AP, Br&#x000FC;derle D, Eppler J, Kremkow J, Muller E, Pecevski D, Perrinet L and Yger P (2009). PyNN: a common interface for neuronal network simulators. <i>Front. Neuroinform.</i> <b>2</b>:11. doi: 10.3389/neuro.11.011.2008
+
+						</div>
+						<div class="clear"></div>
+						<div class="metadatekey">Received:</div><div class="metadatevalue">21 September 2008;</div>
+						<div class="metadatekey">&nbsp;Paper pending published:</div><div class="metadatevalue">21 October 2008;</div>
+						<div class="clear"></div><div class="metadatekey clear">Accepted:</div><div class="metadatevalue">22 December 2008;</div>
+						 
+						<div class="metadatekey">&nbsp;Published online:</div><div class="metadatevalue">27 January 2009.</div>
+						<div class="clear"></div>
+						<div class="metablankLine"></div>
+						<div class="AbstractSummary">
+
+<div>
+<p>Edited by:</p>
+ Rolf K&#246;tter, Radboud University
+Nijmegen, The Netherlands
+</div>
+
+<div>
+  <p>Reviewed by:</p>
+  Graham Cummins, Montana State
+University, USA<br />
+Fred Howell, Textensor Limited, UK
+</div>
+
+</div>
+<div class="metakey">Copyright:</div>
+						<div class="metavalue"> 
+							&#x000A9; 2009 Davison, Br&#x000FC;derle, Eppler, Kremkow, Muller, Pecevski, Perrinet and Yger. This is an open-access article subject to an exclusive license agreement between the authors and the Frontiers Research Foundation, which permits unrestricted use, distribution, and reproduction in any medium, provided the original authors and source are credited.
+
+						</div>
+						<div class="clear"></div>
+						<div class="metakey">*Correspondence:</div>
+						<div class="metavalue"> 
+							 Andrew Davison, UNIC, B&#x000E2;t. 32/33, CNRS, 1 Avenue de la Terrasse, 91198 Gif sur Yvette, France. 
+e-mail: andrew.davison@unic.cnrs-gif.fr
+						</div>
+				</div> 
+				<!--Metadata_Section_End-->                
+                <div class="thin-line-dark"></div>
+                    <div class="social-feed"></div>
+                    <div class="container-bordered comment-list social-feed">
+                        <div class="container-comments">                           
+                        </div>
+
+                        <div class="loading-wrapper" style="padding-left: 49%">
+                            <img style="padding-top: 5%; padding-bottom: 5%;" src="/areas/research-topics/images/frontiers/common/icon/loading.gif" alt="Loading.." />
+                        </div>                       
+                    </div>
+
+            </div>
+        </div>
+    </div>
+</main>
+
+            <div class="clearfix visible-sm"></div>
+
+            
+    <div class="c col-xs-12 col-sm-12 col-lg-2 col-md-3 pull-right side-article related right-container-articles" style="clear: right !important">
+        
+        <article class="widget-listing commentary-article hidden">
+            <h5 class="like-h4">COMMENTARY</h5>
+        </article>
+
+        <article class="widget-listing original-article hidden">
+            <h5 class="like-h4">ORIGINAL ARTICLE</h5>
+        </article>
+
+        <article class="widget-listing people-also-looked-at side-article-related hidden">
+            <h5 class="like-h4">People also looked at</h5>
+        </article>
+            <div class="side-article-mrk clearfix hidden-md hidden-lg">
+                <style type="text/css"><!--
+.spotlight-title:hover,
+.spotlight-title:focus {
+ color: #555 !important; 
+}
+.spotlight-link {
+ color: #f2b12f !important;
+}
+.spotlight-link:hover,
+.spotlight-link:focus {
+ color: #e5a812 !important;
+}
+--></style>
+<div class="spotlight"><a href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB"><img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/article-marketing-message-1f3be380-af93-4b04-a218-32e22eb3bdda.png" alt="" /></a><br />
+<h3 style="font-weight: 500;"><a class="spotlight-title" tabindex="0" href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB" target="_blank">Want to win $100,000 to host your own conference?</a></h3>
+<a class="spotlight-link" href="https://spotlight.frontiersin.org/how-to-enter/?utm_source=FWEB&amp;utm_medium=FMAIN&amp;utm_campaign=SPOTLIGHT&amp;utm_term=BANNER&amp;utm_content=WEB" target="_blank">Suggest a Research Topic</a></div>
+            </div>
+
+
+    </div>
+
+
+        </div>
+    </div>
+</div>
+<div id="divTemplates">
+    <div class="modal fade modal-container impact-modal-container" data-backdrop="static" id="impactModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+</div>
+
+
+
+
+
+
+<script type="text/template" id="template-impact-modal">
+
+    <div class="container">
+        <div class="row">
+            <div style="padding-bottom: 100px">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header clearfix">
+                            <button type="button" class="close btn-close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h3 class="modal-title" id="myModalLabel">Impact</h3>
+                            <h6>
+                                <a href="javascript:void(0)" class="article-title" data-dismiss="modal" aria-hidden="true">
+                                    PyNN: a common interface for neuronal network simulators
+                                </a>
+                            </h6>
+                        </div>
+                        <div class="modal-body">
+                            <img class="loader" src="/areas/journals/images/icon/loading.gif" alt="Loading.." />
+
+                            <div class="row article-impact-tabs hidden">
+                                <!-- Nav tabs -->
+                                <ul class="nav nav-tabs impact-tabs clearfix">
+                                    <li class="active nav-tab-views"><a href="#views-tab" data-toggle="tab" data-tab-type="views"><span class="total-views" data-tab-type="views"></span>Views</a></li>
+                                    <li class="nav-tab-citations"><a href="#citations-tab" data-toggle="tab" data-tab-type="citations"><span class="highest-Citation" data-tab-type="citations"></span>Citations</a></li>
+                                    <li class="nav-tab-demographics"><a href="#demographics-tab" data-toggle="tab" data-tab-type="demographics">Demographics</a></li>
+                                        <li class="nav-tab-social-buzz"><a href="#social-buzz-tab" data-toggle="tab" data-tab-type="socialbuzz">Social Buzz</a></li>
+                                </ul>
+                                <div class="tab-content impact-tabs">
+                                    <!-- VIEWS TAB -->
+                                    <div class="tab-pane active" id="views-tab">
+                                        <h5 style="padding-left: 68px; display: none;" class="sincebeginning">Since beginning</h5>
+                                        <h5 style="padding-left: 68px; display: none;" class="thisyear">Last 12 months</h5>
+                                        <h5 style="padding-left: 68px; display: none;" class="thismonth">Last 30 days</h5>
+
+
+                                        <p style="display: none;height:60px" class="views-empty-message lead">No records found</p>
+                                        <div class="chart-container">
+                                            <p class="info sincebeginning" style="display: none;"><strong class="begin-views-downloads download-font-styles"> </strong> views and downloads <strong class="begin-views year-font-styles"> </strong> views <strong class="begin-downloads year-font-styles"> </strong> downloads</p>
+                                            <p class="info thisyear" style="display: none;"><strong class="year-views-downloads download-font-styles"> </strong> views and downloads <strong class="year-views year-font-styles"> </strong> views <strong class="year-downloads year-font-styles"> </strong> downloads</p>
+                                            <p class="info thismonth" style="display: none;"><strong class="month-views-downloads download-font-styles"> </strong> views and downloads <strong class="month-views year-font-styles"> </strong> views <strong class="month-downloads year-font-styles"> </strong> downloads</p>
+                                            <div id="views-timeline-chart" class="views-bar-charts"></div>
+                                            <div id="views-bar-chart" class="views-timeline-charts"></div>
+                                        </div>
+                                        <div id="views-chart-controls" class="input-block-level" style="display: none;">
+                                            <!-- Split button -->
+                                            <div class="btn-group pull-right">
+                                                <button type="button" class="btn btn-flat dropdown-toggle" data-toggle="dropdown" >
+                                                    <span id="Period" data-bind="label">Select a time period</span>&nbsp;<span class="caret"></span>
+                                                </button>
+                                                <ul id="PeriodDrop" class="dropdown-menu" role="menu">
+                                                    <li class="beginning" ><a>Since beginning</a></li>
+                                                    <li class="year"><a>Last 12 months</a></li>
+                                                    <li class="month"><a>Last 30 days</a></li>
+                                                </ul>
+                                            </div>
+                                            <div style="padding-left: 72px;" class="btn-group pull-left" data-toggle="tooltip" title="Toggle between timeline and bar chart views">
+                                                <button type="button" class="btn btn-flat btn-line active" id="views-timeline-button">
+                                                    <span style="padding: 0 4px">&nbsp;&nbsp;</span>
+                                                </button>
+                                                <button type="button" class="btn btn-flat btn-line" id="views-bar-button">
+                                                    <span style="padding: 0 4px">&nbsp;&nbsp;</span>
+                                                </button>
+
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div><!-- /#views-chart-controls -->
+
+                                    </div><!-- /#views-tab -->
+                                    <!-- CITATIONS TAB -->
+                                    <div class="tab-pane " id="citations-tab">
+                                        <img class="citation-loader" src="/Images/Frontiers/Common/Icon/loading.gif" alt="Loading.." />
+                                        <div style="width: 350px; margin: 0 auto;" class="citation-container hidden">
+                                            <h5 style="text-align:center; margin-bottom: 0; padding-bottom: 0;">Article Citations</h5>
+                                            <div class="scopus" style="width: 50%; float: left; text-align: center;">
+                                                <a href= "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&amp;doi=10.3389/neuro.11.011.2008&amp;origin=inward"><h5><span class="repository">by Scopus</span></h5></a>
+                                                <!-- Split button -->
+                                                <div class="citation-count-container">
+                                                    <div class="citation-panel">
+                                                        <p class="citation-count"><span class="citaion-scopus"></span></p>
+                                                    </div><!-- /.citation-panel -->
+                                                </div><!-- /.well -->
+                                            </div>
+
+                                            <div class="crossref" style="width: 50%; float: right; text-align: center;">
+                                                <a href="http://www.crossref.org/"><h5><span class="repository">by CrossRef</span></h5></a>
+                                                <!-- Split button -->
+                                                <div class="clearfix"></div>
+                                                <div class="citation-count-container">
+                                                    <div class="citation-panel">
+                                                        <p class="citation-count"><span class="citation-crossref"></span></p>
+                                                    </div><!-- /.citation-panel -->
+
+                                                </div><!-- /.well -->
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </div><!-- /#citations-tab -->
+                                    <!-- DEMOGRAPHICS TAB -->
+                                    <div class="tab-pane " id="demographics-tab">
+
+                                        <div class="btn-group pull-right" id="demographics-dropdown" style="margin-right: 10px;">
+                                            &nbsp;
+                                        </div>
+
+                                        <div id="map-container">
+
+                                            <div id="map">
+
+                                            </div>
+                                            <img class="map-loading" src="/Images/Frontiers/Common/Icon/loading.gif" alt="Loading.." />
+                                        </div>
+                                        <div class="clearfix"></div>
+
+                                        <div class="row">
+                                            <div class="col-xs-6">
+                                                <h5>Top countries</h5>
+                                                <div id="demographics-top-countries"></div>
+                                            </div>
+                                            <div class="col-xs-6">
+                                                <h5>Top referring sites</h5>
+                                                <div id="demographics-top-sites"></div>
+                                            </div>
+                                        </div>
+                                        <hr>
+                                        <div class="row">
+                                            <div class="col-xs-4">
+                                                <h5 style="text-align: center;">Domain</h5>
+                                                <div id="demographics-domain"></div>
+                                            </div>
+                                            <div class="col-xs-4">
+                                                <h5 style="text-align: center;">Field</h5>
+                                                <div id="demographics-field"></div>
+                                            </div>
+                                            <div class="col-xs-4">
+                                                <h5 style="text-align: center;">Specialty</h5>
+                                                <div id="demographics-specialty"></div>
+                                            </div>
+                                        </div>
+                                        <hr>
+                                        <div class="row">
+                                            <div class="col-xs-4">
+                                                <h5 style="text-align: center;">Industry</h5>
+                                                <div id="demographics-industry"></div>
+                                            </div>
+
+                                            <div class="col-xs-4">
+                                                <h5 style="text-align: center;">Education</h5>
+                                                <div id="demographics-education"></div>
+                                            </div>
+
+                                            <div class="col-xs-4">
+                                                <h5 style="text-align: center;">Position</h5>
+                                                <div id="demographics-position"></div>
+                                            </div>
+                                          
+                                        </div>
+                                        <div class="clearfix"></div>
+
+                                        <div class="demographics-age-gender">
+                                            <hr>
+                                            <h5 style="margin: 35px 0px;">Age and Gender</h5>
+                                            <div id="demographics-age" style="min-width: 800px; height: 400px; margin: 0 auto"></div>
+                                        </div>
+                                    </div><!-- /#demographics-tab -->
+                                        <!-- SOCIAL BUZZ TAB -->
+                                        <div class="tab-pane " id="social-buzz-tab">
+                                            <h5 class="altmetric-title">Altmetric</h5>
+                                            <div id="altmetric-donut" data-badge-details="right" data-badge-type="medium-donut" data-doi="<%- doi %>" data-hide-no-mentions="false" class="altmetric-embed"></div>
+
+                                            <div id='main' class="social-buzz-content-area hidden">
+                                                <div id='content'>
+                                                    <div id='details'>
+                                                        <div class="row">
+                                                            <div class="col-xs-6">
+                                                                <h5>Sources</h5>
+                                                            </div>
+                                                            <div class="col-xs-6">
+                                                                <ul class="nav nav-tabs pull-right">
+                                                                    <li class='active'><a href="#altmetric-all-tab"  data-toggle="tab">All</a></li>
+                                                                    <li id='tab_for_msm'><a href="#details_msm" data-toggle="tab">News</a></li>
+                                                                    <li id='tab_for_blogs'><a href="#details_blogs" data-toggle="tab">Blogs</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="tabbable">
+                                                            <div class="tab-content">
+
+                                                                <div class='details tab-pane ' id='details_blogs'>
+
+                                                                    <div class="blogs-posts"></div>
+                                                                </div> <!--Blog-->
+
+                                                                <div class='details tab-pane' id='details_msm'>
+
+                                                                    <div class="news-posts"></div>
+                                                                </div> <!--News-->
+
+                                                                <div class='details tab-pane active' id='altmetric-all-tab'>
+                                                                    <div class="all-posts"></div>
+                                                                </div> <!--All-->
+
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class='clearfix'></div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <!-- /#social-buzz-tab -->
+                                </div>
+                            </div><!-- /.row -->
+
+                        </div><!-- /.modal-body -->
+                        <div class="modal-footer">
+                            <span class="modal-footer-pmc">The displayed data aggregates results from <a href="https://www.frontiersin.org">Frontiers</a> and <a href="http://www.ncbi.nlm.nih.gov/pmc/">PubMed Central®</a>.</span>
+                            <button type="button" class="btn btn-new-orange btn-flat btn-close" data-dismiss="modal">Close</button>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+            </div><!-- /.col-xs-9 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+
+</script>
+
+
+
+<script type="text/template" id="template-social-buzz-blogs-posts">
+    <div class='posts_info'>So far Altmetric has seen <b><%- blogsCount %></b> posts.</div>
+    <% _.each( socialBuzzPosts, function( socialBuzzPost ){ %>
+
+    <div class='postbox'>
+        <div class='title'><a target='_blank' href="<%- socialBuzzPost.Url%>" ><%- socialBuzzPost.Title %></a></div>
+        <div class='source'><a target='_blank' href="<%- socialBuzzPost.Author.Url %>" ><%- socialBuzzPost.Author.Name %></a></div>
+        <div class='snippet'>
+            <p><%- socialBuzzPost.Summary %></p>
+        </div>
+        <div class="footer blog">
+            <%-  FRArticleImpact.formattedPostedDate(socialBuzzPost.PostedOn) %>
+        </div>
+    </div>
+
+    <% }); %>
+
+</script>
+
+
+<script type="text/template" id="template-social-buzz-news-posts">
+    <div class='posts_info'>So far Altmetric has seen <b><%- newsCount %></b> stories.</div>
+    <% _.each( socialBuzzPosts, function( socialBuzzPost ){ %>
+    <div class='postbox'>
+        <div class='author source' style='width: 80px;'>
+            <div style='max-width: 80px; overflow: hidden;'>
+                <img width='80' src="<%- socialBuzzPost.Author.Image %>" class="photo" />
+            </div>
+        </div>
+
+        <div class="entry-content" style="margin-left: 0px;">
+            <div class='title'>
+                <a target='_blank' href="<%- socialBuzzPost.Url%>"><%- socialBuzzPost.Title %> </a>
+            </div>
+            <div class='source'><%- socialBuzzPost.Author.Name %></div>
+            <div class='snippet'>
+                <p><%- socialBuzzPost.Summary %></p>
+            </div>
+        </div>
+        <div class="footer">
+            <%-  FRArticleImpact.formattedPostedDate(socialBuzzPost.PostedOn) %>
+        </div>
+    </div>
+
+    <% }); %>
+
+</script>
+
+
+<script type="text/template" id="template-social-buzz-all-posts">
+
+    <div class="posts_info">So far Altmetric has seen <b><%- allCount %></b> stories.</div>
+
+    <% _.each( socialBuzzPosts, function( socialBuzzPost ){ %>
+    <% if (socialBuzzPost.Type == "Blogs") {%>
+
+    <div class='postbox'>
+        <div class='title'><a target='_blank' href="<%- socialBuzzPost.Url%>" ><%- socialBuzzPost.Title %></a></div>
+        <div class='source'><a target='_blank' href="<%- socialBuzzPost.Author.Url %>" ><%- socialBuzzPost.Author.Name %></a></div>
+        <div class='snippet'>
+            <p><%- socialBuzzPost.Summary %></p>
+        </div>
+        <div class="footer blog">
+            <%-  FRArticleImpact.formattedPostedDate(socialBuzzPost.PostedOn) %>
+        </div>
+    </div>
+
+    <% } %>
+    <%  if(socialBuzzPost.Type == "News"){ %>
+    <div class='postbox'>
+        <div class='author source' style='width: 80px;'>
+            <div style='max-width: 80px; overflow: hidden;'>
+                <img width='80' src="<%- socialBuzzPost.Author.Image %>" class="photo" />
+            </div>
+        </div>
+
+        <div class="entry-content" style="margin-left: 0px;">
+            <div class='title'>
+                <a target='_blank' href="<%- socialBuzzPost.Url%>"><%- socialBuzzPost.Title %> </a>
+            </div>
+            <div class='source'><%- socialBuzzPost.Author.Name %></div>
+            <div class='snippet'>
+                <p><%- socialBuzzPost.Summary %></p>
+            </div>
+        </div>
+        <div class="footer">
+            <%-  FRArticleImpact.formattedPostedDate(socialBuzzPost.PostedOn)%>
+        </div>
+    </div>
+    <% } %>
+    <% }); %>
+
+</script>
+
+
+
+
+
+
+    <div class="modal fade modal-container supplementary-modal-container"
+     data-backdrop="static"
+     data-keyboard="false"
+     id="supplementaryFilesModal"
+     tabindex="-1" role="dialog"
+     aria-labelledby="mySupplementaryModalLabel"
+     aria-hidden="true">
+</div>
+
+
+
+
+<script type="text/template" id="template-supplementary-files-modal">
+    <div class="supplementary-material-wrapper modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <a class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a>
+                <h4>Supplementary Material</h4><br>
+                <p class="supplementary-empty-message">There is no supplementary material currently available for this article</p>
+                <div class="loading-wrapper"
+                     id="loader"
+                     style="display:none">
+                    Loading supplemental data...
+                    <img style="" src="/Areas/Articles/Images/Icon/loading.gif" alt="Loading.." />
+                </div>
+                <br />
+                <div class="table-responsive" id="localFiles">
+                </div>
+                <div id="figshare-widget-container">
+
+                </div>
+            </div>
+            <br />
+            <div class="modal-footer bottom-links">
+                <a class="btn btn-default" data-dismiss="modal">Close</a>
+            </div>
+        </div>
+
+    </div>
+</script>
+
+
+
+
+
+<script type="text/template" id="template-local-files-modal">
+    <table class="table table-striped supplementary-content" id="localFilesTable">
+        <thead>
+            <tr>
+                <th>&nbsp;</th>
+                <th>File Name</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody class="file-content">
+            <% _.each(supplimentalFileDetails.FileDetails, function(fileViewModel){   %>
+            <tr>
+                <th scope="row"><a data-test-id="<%= fileViewModel.TestId %>" href="<%= fileViewModel.FileDownloadUrl %>"><img class="img-figure" src="<%= fileViewModel.ImageUrl %>"></a></th>
+                <td>
+                    <a  href="<%= fileViewModel.FileDownloadUrl %>">
+                        <%= fileViewModel.FileName %>
+                    </a>
+                </td>
+                <td><a  href="<%= fileViewModel.FileDownloadUrl %>" class="btn-link"><i class="fa fa-download" aria-hidden="true"></i></a></td>
+            </tr>
+            <% }); %>
+        </tbody>
+    </table>
+</script>
+
+
+
+
+
+
+
+    <div class="modal fade modal-container notifyme-modal-container" data-backdrop="static" id="notifyModal" tabindex="-1" role="dialog" aria-labelledby="Notify on publication" aria-hidden="true">
+</div>
+
+
+
+<script type="text/template" id="template-notify-me-modal">
+    <div class="modal-f page-container simple-modal" role="dialog" aria-labelledby="NotfifyMeModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <form onsubmit="return false" id="modalnotifyme">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                            <h3>Notify me on publication</h3>
+                        </div>
+                        <div class="modal-body">
+
+                            <div class="form-group">
+                                <label>Please enter your email address:</label>
+                            <input type="email" required class="form-control" id="txt_notification_email_id" placeholder="Email">
+                            </div>
+
+                        <div class="g-recaptcha" id="recaptcha"></div><br />
+
+                        <p class="small" style="color: #555;">If you already have an account, please <a href="<%=login.FrontiersLoginUrl%>?returnUrl=<%=currentPage%>" class="text-blue">login</a>.</p>
+                        <p class="small" style="color: #555;">You don't have a Frontiers account ? You can <a href="<%=login.FrontiersRegistrationUrl%>" class="text-blue">register here</a>.</p>
+                        </div>
+                        <div class="modal-footer">
+                        <button type="button" id="article_notify_non_registered_user" class="btn btn-default btn-progress" style="width: 118px; visibility:hidden;">Notify me</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+</script>
+
+<script type="text/template" id="template-notifyme-mailselection-modal">
+    <div class="modal-f page-container simple-modal" tabindex="-1" role="dialog" aria-labelledby="NotfifyMeModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h3>Select one of your emails</h3>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label>You have multiple emails registered with Frontiers:</label>
+                        </div>
+                                           
+                        <% _.each(userEmailList, function(user){   %>
+                        <input type="radio" value="<%=user%>" name="notify_Emailcollection"> <%=user%><br>
+                        <% }); %>
+
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="article_notify_loggedin_user" class="btn btn-default btn-progress" style="width: 118px;">Notify me</button>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</script>
+
+<script type="text/template" id="template_notifyme_error_modal">
+    <div class="modal-f page-container simple-modal" tabindex="-1" role="dialog" aria-labelledby="NotfifyMeModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h3>Notify me on publication</h3>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <p class="text-red"><strong><%=message%></strong></p>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" data-dismiss="modal" class="btn btn-default btn-progress" style="width: 118px;">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+
+
+
+
+
+
+    
+
+<script type="text/template" id="template-article-comments">
+
+    <div class="w100pc float_left CommentsHolder" id="div_article_comment_holder">
+        <% if(journalComments.Count !=0) { %>
+        <div id="divActivityBox" class="commentBox bubbleInfo " style="z-index: 300;">
+            <div class="float_left w100pc divActivityBox">
+                <p id="pAllUsers" class="pb0 float_left w581 pAllUsers">
+                    <a id="aAllUsers" href="javascript:void(0);" class="fontnormal trigger">
+                        <%- journalComments.Count %> Comments
+                    </a> <%= journalComments.CommentedUsers %>
+                </p>
+            </div>
+        </div>
+        <% } %>
+
+        <% _.each( journalComments.Comments, function( comment ){ %>
+
+        <div class="commentBox">
+
+            <% if (comment.IsDeleted) {%>
+
+            <div class="wrapper pt4 pb4">
+                <div class="imgHolder mr10"> <!--<a  class="fontnormal">--><img width="32" src="/Design/Images/default_profile_32.jpg" onerror="this.src='/Design/Images/default_profile_32.jpg';" alt=""><!--</a>--></div>
+                <div class="content w555">
+                    <!-- <p class="mtm3" style='word-wrap:break-word'><a  class="fontnormal">User</a> </p>-->
+                    <p class="mtm3">User</p><ul class="toolbar mt4 disblk w100pc">
+                        <li class="pl0">
+                            <p class="date">Comment deleted on <%- GetFormattedCommentDeletedDate(comment.CommentedDate) %></p>
+                        </li>
+                        <li class="float_right pr0"></li>
+                    </ul>
+                </div>
+            </div>
+
+            <% } else {%>
+
+            <div class="wrapper pt4 pb4">
+                <div class="imgHolder mr10"> <a class="fontnormal" data-test-id="article_commenteduser_profileimage_link" href="<%- comment.CommentedUser.ProfileUrl %>"><img src="<%- comment.CommentedUser.ThumbnailUrl %>" onerror="this.src='/Images/Frontiers/Common/Profile/default_profile_32.jpg';" alt=""></a></div>
+                <div class="content w555 comment-body">
+                    <p class="mtm3" style="word-wrap:break-word">
+                        <a class="fontnormal" data-test-id="article_commenteduser_profile_link" href="<%- comment.CommentedUser.ProfileUrl %>">
+                            <%- comment.CommentedUser.FullName %>
+                        </a>
+                        <span class="comment-text"><%= comment.Comment %></span>
+                    </p>
+                    <ul class="toolbar mt4 disblk w100pc">
+                        <li class="pl0"><p class="date"><%- GetFormattedCommentDate(comment.CommentedDate) %></p></li>
+                        <% if (comment.IsEditVisible)
+                        { %>
+                        <li>|</li>
+                        <li><a href="javascript:void(0);" data-test-id="article_comment_edit_link" class="fontnormal btn-edit-comment" id="btnEditcom" data-comment-id="<%- comment.CommentId %>">Edit</a></li>
+                        <% } %>
+                        <% if (comment.IsDeleteVisible)
+                        { %>
+                        <li>|</li>
+                        <li><a href="javascript:void(0);" data-test-id="article_comment_delete_link" class="fontnormal btn-delete-comment" id="btnDeletecom" data-comment-id="<%- comment.CommentId %>">Delete</a></li>
+                        <% }%>
+                        <li class="float_right pr0"></li>
+                    </ul>
+                </div>
+            </div>
+            <% }%>
+        </div>
+
+        <%  }); %>
+    </div>
+
+    <div id="div_add_comment" class="commentBox">
+        <div class="imgTn32"
+             style="display: none;">
+            <% if(journalComments.LoginUserId !=0) { %>
+            <img src="<%- journalComments.LoggedInUserInfo.ThumbnailUrl %>" alt=""
+                 onerror="this.src='/Images/Frontiers/Common/Profile/default_profile_32.jpg';">
+            <% } else {%>
+            <img src="/Design/Images/default_profile_32.jpg" alt=""
+                 onerror="this.src='/Images/Frontiers/Common/Profile/default_profile_32.jpg';">
+            <% }%>
+
+        </div>
+        <div class="wrapper pt4 pb4 wAuto">
+            <textarea onfocus="showUserImageOnAdd(this)"
+                      onblur="hideUserImage(this)"
+                      id="txt_comment"
+                      cols=""
+                      rows="1"
+                      style="overflow: hidden; word-wrap: break-word; resize: horizontal;"
+                      data-test-id="article_comment_add_textarea" 
+                      class="write setfocus autoext w535 frUIResizeTextArea comment-textarea is-ui animated-resize grey_90">Write a comment...</textarea>
+        </div>
+        <div class="commentAddWrap">
+            <div>
+                <a class="addBtnComment" data-test-id="article_comment_add_button"  onclick="javascript:AddComments(this);" href="javascript:void(0);" id="btnAddcom"><span>Add</span></a>
+            </div>
+        </div>
+    </div>
+
+</script>
+
+<script type="text/template" id="template-article-edit-comments">
+
+
+    <div id="edit-comment-form" class="wrapper pt4 pb4 wAuto edit-comments">
+        <textarea class="txt-comment"
+                  onfocus="showUserImageOnEdit(this)"
+                  onblur="hideUserImage(this)"
+                    data-test-id="article_comment_edit_textarea" 
+                  rows="3"><%= commentText %> </textarea>
+        <div>
+            <a class="btn btn-add-comment addBtnComment" data-test-id="article_comment_edit_button" data-comment-id="<%- commentId %>">Add</a>
+        </div>
+    </div>
+
+</script>
+
+
+
+</div>
+
+    </div>
+
+    
+<footer class="footer-new">
+    <div class="container-fluid main-container-xxl">
+        <div class="col-lg-2 col-lg-offset-2 col-md-3 col-sm-3">
+            <ul class="list-unstyled">
+                <li><a href="https://www.frontiersin.org/Journal/Frontiers.aspx">Home</a></li>
+                <li><a href="https://www.frontiersin.org/about">About Frontiers</a></li>
+                <li><a href="https://www.frontiersin.org/about/journalseries">Journals A-Z</a></li>
+                <li><a href="https://www.frontiersin.org/about/Institutional_Membership">Institutional Membership</a></li>
+
+            </ul>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-3">
+            <ul class="list-unstyled">
+                <li><a href="https://www.frontiersin.org/about/contact">Contact</a></li>
+                
+                <li><a href="https://blog.frontiersin.org">News</a></li>
+            </ul>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-3">
+            <ul class="list-unstyled">
+                <li><a href="https://www.frontiersin.org/submissioninfo">Submit</a></li>
+                <li><a target="_blank" href="https://frontiers.zendesk.com/hc/en-us">FAQs</a></li>
+                <li><a href="https://www.frontiersin.org/TermsandConditions.aspx">Terms &amp; Conditions</a></li>
+                <li><a href="https://www.frontiersin.org/legal/privacy-policy">Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-3">
+            <ul class="list-unstyled">
+                <li><a href="http://connect.frontiersin.org/subscriptions/subscribe">Newsletters</a></li>
+                <li><a href="https://blog.frontiersin.org/2013/11/01/frontiers-social-media-and-rss/">RSS/Twitter</a></li>
+                <li><a href="https://www.frontiersin.org/Team.aspx">Team</a></li>
+                <li><a href="https://www.frontiersin.org/Careers">Careers</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+
+<div class="footer-copyright-new">
+    <div class="container-fluid main-container-xxl">
+        <div class="col-md-12 text-center"> © 2007 - 2019 Frontiers Media S.A. All Rights Reserved </div>
+    </div>
+</div>
+
+
+    <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+
+    <script src="/areas/articles/scripts/frontiers/common/frontiers.banners-1.0.js"></script>
+
+
+
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+    <script src="/areas/articles/js/vendors?v=m3ItdAkHsKHA4JnU2Jk5BuO77bBpDeX0_4_qxHTdIcE1"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+ 
+
+    <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+ 
+
+    <script src="/areas/articles/js/frontiers?v=5v0iGBYObQPdGzZnFPxtIO2dA9KNYK-QopChGFPTMCE1"></script>
+
+
+    <script type="text/javascript">
+
+        var FRArticle = (function() {
+            return {
+                ArticleId: '388',
+                DOI:'10.3389/neuro.11.011.2008',
+                LoginUserId: '0',
+                DomainId: '1',
+                FieldId: '55',
+                SpecialityId: '752',
+                IsPreview: FRSafe.boolean('False'),
+                IsViewImpactFromLoop: FRSafe.boolean('False'),
+                IsPublished: 'True',
+                FigShareApiUrl: 'https://api.figshare.com/v2/collections/search',
+                FigShareTimeOut: '3000'
+            };
+        })();
+
+        var FRSocial = (function() {
+            return {
+                itemId: 14,
+                itemTypeId: 1,
+                entityId: '388',
+                ownerId: '937',
+                sanPath: 'http://www.frontiersin.org/files/',
+                subItemId: '8',
+                loginUserId: '0',
+                ownerNWDBId: '8',
+                pageType: 1,
+                loopUrl:'https://loop.frontiersin.org'
+            };
+        })();
+    </script>
+
+    <script>
+        var FRAjaxSettings = (function () {
+
+            function urlLowercase() {
+                $.ajaxSetup({
+                    beforeSend: function (jqXHR, settings) {
+                        settings.url = settings.url.toLowerCase();
+                    }
+                });
+            }
+
+            return { urlLowercase: urlLowercase };
+        })();
+
+        FRAjaxSettings.urlLowercase();
+    </script>
+
+    <script src="https://api-journal.frontiersin.org/areas/header/content/scripts/frontiers.header.v3.js"></script><script src="https://api-journal.frontiersin.org/header/taxonomy?v=1555323635711"></script><script src="https://api-journal.frontiersin.org/header/userprofile"></script>
+
+    <script type="text/javascript">
+
+        if (!FRArticle.IsPreview) {
+
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function() {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-9164039-1', 'www.frontiersin.org');
+         
+        }
+    </script>
+
+    
+    <script src="/areas/articles/js/app?v=GXcf1aBTidJEeJeoa80-V9smBPn2Iey_Dc1EcQNS7IM1"></script>
+
+    <script src="https://widgets.figshare.com/static/figshare.js"></script>
+
+
+</body>
+</html>

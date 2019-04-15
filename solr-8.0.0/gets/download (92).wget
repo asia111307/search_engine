@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84777433-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>The Perception Lab</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="BLUE.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35864674-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+<div id="header">
+<div id="logo"><img src="WEBPAGE/images/Logos/Blue_2.gif" alt="" width="577" height="138" /></div>
+<div id="menu">
+  <ul>
+  		<li><a href="../index.html" accesskey="1" title="">Home</a></li>
+		<li><a href="WEBPAGE/Research/Research.html" accesskey="3" title="">Research</a></li>
+        <li><a href="WEBPAGE/Publications/Publications.html" accesskey="7" title="">Publications</a></li>
+		<li><a href="WEBPAGE/Participate/Participate.php" accesskey="2" title="">Participate</a></li>
+		<li><a href="http://cherry.dcs.aber.ac.uk/Transformer/index.html" accesskey="8" title="">Face Morph</a></li>
+        <li><a href="WEBPAGE/People/People.html" accesskey="4" title="">People</a></li>
+        <li><a href="WEBPAGE/Transforms/Transforms.html" accesskey="5" title="">Demos</a></li>
+		<li><a href="WEBPAGE/Links/Links.html" accesskey="6" title="">Links</a></li>
+    </ul>
+</div>
+</div><hr />
+<!-- start page -->
+<div id="page">
+	<!-- start content -->
+	<div id="content">
+	  <div class="post">
+	    <h2 class="title">The Perception Lab</h2>
+
+        <h4>The Perception Lab is run by Dave Perrett. We are based in the University of St Andrews in Fife, Scotland. Our research is funded by the <a href="http://www.esrc.ac.uk/" target="new">ESRC</a>, <a href="http://www.bbsrc.ac.uk/" target="new">BBSRC</a>, <a href="http://www.sinapse.ac.uk/" target="new">S.I.N.A.P.S.E</a>, and the <a href="http://www.epsrc.ac.uk/Pages/default.aspx" target="new">EPSRC</a>.<br>
+
+        </h4>
+
+        <h4>In the lab, we investigate the many facets of face perception... what makes one person appear more trustworthy and cooperative than another? What is the relationship between health and attractiveness, and which physiological factors influence this relationship? How big do differences between facial characteristics have to be for us to perceive them? These are just a few of the topics we are interested in. 
+
+          </br>
+
+        </h4>
+
+        <h4>Use the links above to find out more about us and our work, or click <a href="WEBPAGE/Participate/Participate.php">HERE</a> to participate in one of our experiments!</h4>
+
+		
+<h4>&nbsp; </h4>
+
+<h2 class="title">Selected Recent Publications</h2>
+
+<p>Henderson AJ, Holzleitner IJ, Talamas SN, <em> Perrett DI. (2016) Perception of health from facial cues.<em> Phil. Trans. R. Soc. B. </em><a href="http://rstb.royalsocietypublishing.org/content/371/1693/20150380.abstract" target="new">Abstract</a></p>
+<p>Talamas, S.N., Mavor, K. I., Axelsson, J., Sundelin, T., & Perrett, D. I. (2016). Eyelid-openness and mouth curvature influence perceived intelligence beyond attractiveness. <em>Journal of Experimental Psychology: General. </em><a href="http://psycnet.apa.org/psycinfo/2016-10028-001/" target="new">Abstract</a></p>
+<p>Talamas, S.N., Mavor, K. I., & Perrett, D. I. (2016). Blinded by beauty: Attractiveness bias and accurate perceptions of academic performance. <em> Public Library of Science One. </em><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148284" target="new">Available Online</a></p>
+<p>Talamas, S.N., Mavor, K. I., & Perrett, D. I. (2016). Own intelligence and endorsement of the intelligence-attractiveness halo.<em> Personality and Individual Differences. </em><a href="http://www.sciencedirect.com/science/article/pii/S0191886916301088" target="new">Abstract</a></p>
+<p>Holzleitner,   IJ, Hunter, DW, Tiddeman, BP, Seck, A, Re, DE, &amp; Perrett, DI    (2014). Men's facial masculinity: when (body) size matters.<em> Perception, 43</em>(11), 1191-1202. <a href="http://www.perceptionweb.com/abstract.cgi?id=p7673" target="new">Abstract</a></p>
+<p>Batres C & Perrett DI (2014) The Influence of the Digital Divide on Face Preferences in El Salvador: People without Internet Access Prefer More Feminine Men, More Masculine Women, and Women with Higher Adiposity. <em>PLoS ONE 9</em>(7): e100966. <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100966" target="new">Available online</a></p>
+<p>Re, D.E., DeBruine, L.M., Jones, B.C., &amp; Perrett, D.I. (2013). Facial cues to perceived height influence leadership choices in simulated war and peace contexts. <em>Evolutionary Psychology.</em> <a href="http://perceptionlab.com/WEBPAGE/Publications/Papers/Re_2013_EvolPsych.pdf">Available as PDF</a></p>
+<p>Re, D.E., Dzhelyova, M., Holzleitner, I. J., Tigue, C. C., Feinberg, &amp; Perrett, D.I. (2012). Apparent height and body mass index influence perceived leadership ability in three-dimensional faces. <em>Perception.</em> <a href="http://perceptionlab.com/WEBPAGE/Publications/Papers/Re_2012_Perception.pdf">Available as PDF</a></p>
+<p>Re, D.E., &amp; Perrett, D.I. (2012). Concordant preferences for actual height and facial cues to height. <em>Personality and Individual Differences.</em> <a href="http://perceptionlab.com/WEBPAGE/Publications/Papers/Re_Perrett2012.pdf">Available as PDF</a></p>
+<p>Hahn, A.C., Whitehead, R.D., Albrecht, M.A., Lefevre, C.E. &amp; Perrett, D.I. (2012). Hot or not? Thermal reactions to social contact<em>. Biology Letters. </em> <a href="http://rsbl.royalsocietypublishing.org/content/early/2012/05/29/rsbl.2012.0338">Available Online</a></p>
+<p>Lefevre, C. E., Lewis, G. J., Bates, T. C., Dzhelyova, M., Coetzee, V. , Deary, I. J., &amp; Perrett, D. I. (2012). No evidence for sexual dimorphism of facial width-to-height ratio in four large adult samples. <em>Evolution and Human Behavior</em>. <a href="http://www.ehbonline.org/article/S1090-5138%2812%2900027-X/abstract?elsca1=etoc&elsca2=email&elsca3=1090-5138_201211_33_6&elsca4!%20=elsevier">Available Online</a></p>
+<p>Whitehead, R.D., Re, D., Xiao, D., Ozakinci, G. &amp; Perrett, D.I. (2012). You are what you eat: Within-subject increases in fruit and vegetable consumption confer beneficial skin-color changes. <em>PLOSone, 7</em>(3), e32988. <a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0032988">Available Online</a></p>
+<p align=centre> <a href="WEBPAGE/Publications/Publications.html">For a full list of publications click here</a></p>
+<p>&nbsp;</p>
+<h2 class="title">Recent Media</h2>
+<p>Men Make Women Glow! <a href="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-18263092"> BBC coverage of a recent study from the lab</a></p>
+
+<p>There's An App For That! <a href="http://itunes.apple.com/gb/app/facetransformer-art-edition/id442729566?mt=8\">Face Transformer App for iPhone!</a></p>
+
+<p>Meet the Royal Heirs (Online Article) <a href="http://www.newscientist.com/blogs/shortsharpscience/2011/04/heir-apparent-what-will-and-ka.html">Available Via the New Scientist Website</a></p>
+<p>&nbsp;</p>
+
+<h2 class="title">Current Vacancies</h2>
+		<h4>There are no current vacancies. However, if you are interested in joining the lab please contact Dave Perrett to discuss possible PhD or Post-Doc opportunities.</a></h4>
+
+<p>&nbsp;</p>
+</div>
+
+	</div>
+
+	<!-- end content -->
+
+	<!-- start sidebar -->
+	<div id="sidebar">
+		<ul>
+		  <li>
+		    <h2>Contact </h2>
+		    <ul>
+		      <ul>
+		        <ul>
+		          <ul>
+		            <li>The Perception Lab</li>
+		            <li>School of Psychology &amp; Neuroscience</li>
+		            <li>University of St Andrews</li>
+		            <li> St Mary's Quad</li>
+		            <li>South Street</li>
+		            <li> St Andrews, Fife</li>
+		            <li> KY16 9JP</li>
+		            <li>Scotland</li>
+		            <li>United Kingdom</li>
+		            <li></li>
+		            <li> tel: +44 (0) 1334 463044</li>
+		            <li></li>
+		            <li><a href="mailto:imaging@perceptionlab.com"><strong>Email us</strong></a></li>
+		            <li><a href="https://www.facebook.com/PerceptionLabStAndrews" target="new"><strong>Like us on Facebook</strong></a></li>
+		            <li></li>
+		            <li>
+		              <h2>Dave's New Book</h2>
+	                </li>
+		            <li><img src="WEBPAGE/In_Your_Face/Smallcover.jpg" alt="" width="126" height="188" longdesc="WEBPAGE/In_Your_Face/In_Your_Face.html" /></li>
+		            <li></li>
+		            <li><a href="WEBPAGE/In_Your_Face/In_Your_Face.html"><strong>Visit the Interactive Book Demo</strong></a></li>
+		            <li></li>
+	              </ul>
+	            </ul>
+	          </ul>
+	        </ul>
+		  </li>
+		</ul>
+	</div><div style="clear: both;">&nbsp;</div>
+</div>
+<!-- end page -->
+<div id="footer"><strong>The material on this server may not be reproduced   without permission. The University of St. Andrews, Centre for Sponsored   Programmes levies as charge for reproduction of images part of the proceeds are   used by the Perception Lab to help fund further research. Higher quality images   available on request. For more information please contact the Perception lab.</strong>
+  <p class="credit">Designed by <a href="http://www.flash-templates-today.com/">Free Flash Templates</a>.</p>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8376141-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+

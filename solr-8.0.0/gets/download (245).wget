@@ -1,0 +1,568 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class=" html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky_disabled html_header_shrinking_disabled html_header_transparency html_mobile_menu_phone html_disabled html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_entry_id_6545 ">
+<head>
+
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,900" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
+<meta name="google-site-verification" content="Gv6MCBbGee5Ec9QpkWYuGdVXCDd1PeiJsdVCNWG280E" />
+<meta charset="UTF-8" />
+
+<!-- page title, displayed in your browser bar -->
+
+<title>What are the challenges, real-life use cases and advantages of Cognitive Computing? - Maruti Techlabs</title>
+
+<link rel="icon" href="https://cdn.marutitech.com/wp-content/uploads/2017/07/newmlogo_compressed-300x300.png" type="image/png">
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+
+<!-- [BEGIN] Scripts added via Head-and-Footer-Scripts-Inserter plugin by Space X-Chimp ( https://www.spacexchimp.com ) -->
+
+
+
+
+
+
+
+
+
+<!-- [END] Scripts added via Head-and-Footer-Scripts-Inserter plugin by Space X-Chimp ( https://www.spacexchimp.com ) -->
+
+<!-- Speed of this site is optimised by WP Performance Score Booster plugin v1.9 - https://dipakgajjar.com/wp-performance-score-booster/ -->
+
+	<!-- Meta Tag Manager -->
+	<meta name="google-site-verification" content="1SpfaM72CrkNMde8jIS_xVfkN3iWnIMK8SaYm0vYKHE" />
+	<meta name="keywords" content="cognitive computing, artificial intelligence, ai chatbot, machine learning, ibm watson, enterprise solution, benefits of cognitive computing, advantages of cognitive computing, gartner, cognitive solutions" />
+	<!-- / Meta Tag Manager -->
+
+<script>
+dataLayer = [{"title":"What are the challenges, real-life use cases and advantages of Cognitive Computing?","author":"Dhanraj Vyas","wordcount":2339,"logged_in":"false","page_id":6545,"post_date":"2018-11-13 12:20:48"}];
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWMXSM');</script>
+<!-- End Google Tag Manager -->
+<!-- This site is optimized with the Yoast SEO plugin v6.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="With a multitude of technologies like natural language processing, real time computing, and machine learning, the business advantages of cognitive computing are plenty. With its unique capabilities, enterprises can get deeper insights through cognitive learning methods &amp; scale quickly while reaping benefits."/>
+<link rel="canonical" href="https://www.marutitech.com/advantages-of-cognitive-computing/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="What are the challenges, real-life use cases and advantages of Cognitive Computing? - Maruti Techlabs" />
+<meta property="og:description" content="With a multitude of technologies like natural language processing, real time computing, and machine learning, the business advantages of cognitive computing are plenty. With its unique capabilities, enterprises can get deeper insights through cognitive learning methods &amp; scale quickly while reaping benefits." />
+<meta property="og:url" content="https://www.marutitech.com/advantages-of-cognitive-computing/" />
+<meta property="og:site_name" content="Maruti Techlabs" />
+<meta property="article:tag" content="AI" />
+<meta property="article:tag" content="AI assisted chatbot" />
+<meta property="article:tag" content="AI Chatbot" />
+<meta property="article:tag" content="ai for customer service" />
+<meta property="article:tag" content="Artificial Intelligence" />
+<meta property="article:tag" content="Artificial Intelligence customer support" />
+<meta property="article:tag" content="Bot" />
+<meta property="article:tag" content="Bots" />
+<meta property="article:tag" content="Business Process Automation" />
+<meta property="article:tag" content="Chatbot Architecture" />
+<meta property="article:tag" content="Chatbot with AI" />
+<meta property="article:tag" content="Chatbot with Artificial Intelligence" />
+<meta property="article:tag" content="Chatbots" />
+<meta property="article:tag" content="Cognitive Computing" />
+<meta property="article:tag" content="Cognitive Computing System" />
+<meta property="article:tag" content="Cognitive Systems" />
+<meta property="article:tag" content="Data Analysis" />
+<meta property="article:tag" content="Gartner" />
+<meta property="article:tag" content="IBM" />
+<meta property="article:tag" content="IBM Watson" />
+<meta property="article:tag" content="Machine Learning" />
+<meta property="article:tag" content="Natural Language Generation" />
+<meta property="article:tag" content="Natural Language Processing" />
+<meta property="article:tag" content="Natural Language Understanding" />
+<meta property="article:tag" content="Process Automation" />
+<meta property="article:tag" content="Royal Bank of Scotland" />
+<meta property="article:tag" content="Software bots" />
+<meta property="article:tag" content="The Microsoft Cognitive Toolkit" />
+<meta property="article:tag" content="WotNot" />
+<meta property="article:section" content="Artificial Intelligence and Machine Learning" />
+<meta property="article:published_time" content="2018-11-13T12:20:48+00:00" />
+<meta property="article:modified_time" content="2018-12-24T12:41:58+00:00" />
+<meta property="og:updated_time" content="2018-12-24T12:41:58+00:00" />
+<meta property="og:image" content="https://cdn.marutitech.com/wp-content/uploads/2018/11/Cognitive-Computing.png" />
+<meta property="og:image:secure_url" content="https://cdn.marutitech.com/wp-content/uploads/2018/11/Cognitive-Computing.png" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1080" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="With a multitude of technologies like natural language processing, real time computing, and machine learning, the business advantages of cognitive computing are plenty. With its unique capabilities, enterprises can get deeper insights through cognitive learning methods &amp; scale quickly while reaping benefits." />
+<meta name="twitter:title" content="What are the challenges, real-life use cases and advantages of Cognitive Computing? - Maruti Techlabs" />
+<meta name="twitter:image" content="https://cdn.marutitech.com/wp-content/uploads/2018/11/Cognitive-Computing.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.marutitech.com\/","name":"Maruti Techlabs","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.marutitech.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.marutitech.com\/advantages-of-cognitive-computing\/","sameAs":[],"@id":"#organization","name":"Maruti Techlabs","logo":""}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Maruti Techlabs &raquo; Feed" href="https://www.marutitech.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Maruti Techlabs &raquo; Comments Feed" href="https://www.marutitech.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Maruti Techlabs &raquo; What are the challenges, real-life use cases and advantages of Cognitive Computing? Comments Feed" href="https://www.marutitech.com/advantages-of-cognitive-computing/feed/" />
+
+<!-- google webfont font replacement -->
+<link rel='stylesheet' id='avia-google-webfont' href='//fonts.googleapis.com/css?family=PT+Sans%7CLato:300,400,700' type='text/css' media='all'/> 
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.marutitech.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-group-css' href='https://cdn.marutitech.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/plugins/simple-job-board/public/css/font-awesome.min.css,wp-content/plugins/simple-job-board/public/css/jquery-ui.css,wp-content/plugins/simple-job-board/public/css/simple-job-board-public.css,wp-content/plugins/download-monitor/assets/css/frontend.css,wp-content/themes/enfold/css/grid.css,wp-content/themes/enfold/css/base.css,wp-content/themes/enfold/css/layout.css,wp-content/themes/enfold/css/shortcodes.css,wp-content/uploads/dynamic_avia/enfold.css' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-job-board-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i&#038;ver=2.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tt-easy-google-fonts-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3Aregular&#038;subset=latin%2Call&#038;ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-group-css' href='https://cdn.marutitech.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/enfold/js/aviapopup/magnific-popup.css,wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-print-group-css' href='https://cdn.marutitech.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/enfold/css/print.css' type='text/css' media='print' />
+<link rel='stylesheet' id='avia-custom-group-css' href='https://cdn.marutitech.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/enfold/css/custom.css,wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css,wp-content/uploads/sass/a3_lazy_load.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdn.marutitech.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://cdn.marutitech.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://cdn.marutitech.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/enfold/js/avia-compat.js,wp-includes/js/mediaelement/mediaelement-and-player.min.js,wp-includes/js/mediaelement/mediaelement-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='https://www.marutitech.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.marutitech.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.marutitech.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='https://www.marutitech.com/?p=6545' />
+<link rel="alternate" type="application/json+oembed" href="https://www.marutitech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.marutitech.com%2Fadvantages-of-cognitive-computing%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.marutitech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.marutitech.com%2Fadvantages-of-cognitive-computing%2F&#038;format=xml" />
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.case-study-new .wpcf7-form p:nth-child(6) {
+    width: 100% !important;
+    float: left !important;
+}
+
+.case-study-new .wpcf7-form p:nth-child(7) {
+    width: 100% !important;
+}
+
+.case-study-new .wpcf7-form p{
+  min-height: 123px !important;
+}
+
+.wpcf7-response-output{
+	float:left;
+}
+
+.wpcf7-mail-sent-ng{
+  	color: #fff !important;
+    border: none !important;
+}
+
+.wpcf7-not-valid-tip{
+  color: white !important;
+}
+
+.wpcf7-form-control-wrap{
+  min-height:123px !important;
+}
+
+@media only screen and (max-width: 348px){
+  .case-study-new .wpcf7-form {
+    background: #1b445a !important;
+    padding: 0px !important;
+    float: left;
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<script type="text/javascript" src="https://secure.leadforensics.com/js/133080.js" ></script>
+<noscript><img alt="" src="https://secure.leadforensics.com/133080.png" style="display:none;" /></noscript><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Maruti Techlabs RSS2 Feed" href="https://www.marutitech.com/feed/" />
+<link rel="pingback" href="https://www.marutitech.com/xmlrpc.php" />
+
+<style type='text/css' media='screen'>
+ #top #header_main > .container, #top #header_main > .container .main_menu ul:first-child > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:54px; line-height: 54px; }
+ .html_top_nav_header .av-logo-container{ height:54px;  }
+ .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:54px; } 
+</style>
+<!--[if lt IE 9]><script src="https://cdn.marutitech.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]--><style id="tt-easy-google-font-styles" type="text/css">p { font-family: 'PT Sans'; font-size: 18px; font-style: normal; font-weight: 400; }
+h1 { font-family: 'PT Sans'; font-style: normal; font-weight: 400; text-decoration: none; text-transform: none; }
+h2 { font-family: 'PT Sans'; font-style: normal; font-weight: 400; text-decoration: none; text-transform: none; }
+h3 { font-family: 'PT Sans'; font-style: normal; font-weight: 400; text-decoration: none; text-transform: none; }
+h4 { font-family: 'PT Sans'; font-style: normal; font-weight: 400; }
+h5 { }
+h6 { }
+</style>
+<!-- [BEGIN] Scripts added via Head-and-Footer-Scripts-Inserter plugin by Space X-Chimp ( https://www.spacexchimp.com ) -->
+
+
+
+
+
+
+
+
+
+<!-- [END] Scripts added via Head-and-Footer-Scripts-Inserter plugin by Space X-Chimp ( https://www.spacexchimp.com ) -->
+
+
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 3.4.7
+Installed: enfold
+AviaFramework Version: 2.3
+AviaBuilder Version: 0.8
+ML:512-PU:10-PLA:30
+WP:4.9.4
+Updates: disabled
+-->
+
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('https://cdn.marutitech.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('https://cdn.marutitech.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('https://www.marutitech.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('https://www.marutitech.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('https://cdn.marutitech.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+			
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-47328646-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+</head>
+
+
+
+
+<body id="top" class="post-template-default single single-post postid-6545 single-format-standard stretched pt_sans lato no_sidebar_border enfold blog-detail standard-mtech" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+<div class='sticky-bar-main'>Do you have a Project or an Idea? Let SPECTER - our bot help you   <div class='sticky-bar-button'><a href="https://www.marutitech.com/business-chatbot">CHAT NOW</a></div></div>
+
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class=' header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_phone av_header_transparency av_header_searchicon_disabled av_header_unstick_top_disabled av_bottom_nav_disabled  av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+<a id="advanced_menu_toggle" href="#" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><a id="advanced_menu_hide" href="#" 	aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><strong class='logo'><a href='https://www.marutitech.com/'><img height='100' width='300' src='https://cdn.marutitech.com/wp-content/uploads/2017/04/logo.png' alt='Maruti Techlabs' /></a></strong><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-1"><a itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-977" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/bot-development/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Bot Development</span></a></li>
+	<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/it-strategy-and-technology-consulting/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">IT Strategy and Technology Consulting</span></a></li>
+	<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/web-and-mobile-development/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Web and Mobile Development</span></a></li>
+	<li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/big-data-and-analytics/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Big Data and Analytics</span></a></li>
+	<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/salesforce-services/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Salesforce Services</span></a></li>
+</ul>
+</li>
+<li id="menu-item-168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-2"><a itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Resources</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/blog/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Blogs</span></a></li>
+	<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/ebooks/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Ebooks</span></a></li>
+	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/casestudy/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Case Studies</span></a></li>
+	<li id="menu-item-1075" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/white-paper/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">White Papers</span></a></li>
+	<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.marutitech.com/videos/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Videos</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3"><a href="https://www.marutitech.com/about-us/careers/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Careers</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4"><a href="https://www.marutitech.com/about-us/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">About</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="https://www.marutitech.com/contact-us/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Get in Touch</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+</ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' data-scroll-offset='0'>
+
+	<div id='full_slider_1' class='avia-fullwidth-slider main_color avia-shadow  avia-builder-el-0  el_before_av_textblock  avia-builder-el-first  container_wrap sidebar_right'   ><div  data-size='no scaling'  data-lightbox_size='large'  data-animation='slide'  data-ids='5979'  data-video_counter='0'  data-autoplay='false'  data-bg_slider='false'  data-slide_height=''  data-handle='av_slideshow_full'  data-interval='5'  data-class=' '  data-css_id=''  data-scroll_down=''  data-control_layout='av-control-default'  data-custom_markup=''  data-perma_caption=''  data-autoplay_stopper=''  data-src=''  data-position='top left'  data-repeat='no-repeat'  data-attach='scroll'  data-stretch=''  class='avia-slideshow avia-slideshow-1  av-control-default avia-slideshow-no scaling av_slideshow_full   avia-slide-slider '  itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><ul class='avia-slideshow-inner' ><li  class=' av-single-slide slide-1 ' ><div data-rel='slideshow-1' class='avia-slide-wrap'  ><div class = "caption_fullwidth av-slideshow-caption caption_center"><div class = "container caption_container"><div class = "slideshow_caption"><div class = "slideshow_inner_caption"><div class = "slideshow_align_caption"><h1  style='font-size:60px; color:#ffffff; ' class='avia-caption-title'  itemprop="name" ><font>What are the challenges, real-life use cases and advantages of Cognitive Computing?</font></h1></div></div></div></div></div><img src='https://cdn.marutitech.com/wp-content/uploads/2017/06/Artificial-Intelligence-and-Machine-Learning.jpg' width='2000' height='430' title='Artificial-Intelligence-and-Machine-Learning' alt=''  itemprop="contentURL"  /></div></li></ul></div></div><div id='after_full_slider_1' class='main_color container_wrap sidebar_right'   ><div class='container' ><div class='template-page content  av-content-small alpha units'><div class='post-entry post-entry-type-page post-entry-6545'><div class='entry-content-wrapper clearfix'>
+<section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class='avia_textblock '   itemprop="text" ><p>Cognitive computing has taken the tech industry by storm and has become the new buzzword among entrepreneurs and tech enthusiasts. Based on the basic premise of stimulating the human thought process, the applications and advantages of cognitive computing are a step beyond the conventional AI systems.</p>
+<p>According to <a href="https://money.cnn.com/2016/04/13/technology/watson-david-kenny/index.html">David Kenny</a>, General Manager, IBM Watson &#8211; the most advanced cognitive computing framework, “AI can only be as smart as the people teaching it.” The same is not true for the latest cognitive revolution. Cognitive computing process uses a blend of artificial intelligence, neural networks, machine learning, natural language processing, sentiment analysis and contextual awareness to solve day-to-day problems just like humans. <a href="https://www.ibm.com/blogs/internet-of-things/iot-cognitive-computing-watson/">IBM defines cognitive computing</a> as an advanced system that learns at scale, reason with purpose and interacts with humans in a natural form.</p>
+<p><strong>Cognitive Computing vs. Artificial Intelligence </strong></p>
+<p>While artificial intelligence’s basic use case is to implement the best algorithm to solve a problem, <a href="https://www.marutitech.com/cognitive-computing-features-scope-limitations/">cognitive computing</a> goes a step beyond and tries to mimic human intelligence and wisdom by analyzing a series of factors. When compared with Artificial Intelligence, cognitive computing is an entirely different concept.</p>
+<ul>
+<li><strong>Cognitive computing learns &amp; imitates the human thought process</strong></li>
+</ul>
+<p>Unlike <a href="https://wotnot.io/">artificial intelligence</a> systems that just takes care of a given problem, cognitive computing learns by studying patterns and suggests humans to take relevant action based on its understanding. In the case of artificial intelligence, the system takes full control of a process and takes steps to complete a task or avoid a scenario by using a pre-defined algorithm. While in comparison, cognitive computing is a different field altogether where it serves as an assistant instead of the one completing the task. In this way, cognitive computing gives humans the power of faster and more accurate data analysis without having to worry about the wrong decisions taken by the machine learning system.</p>
+<ul>
+<li><strong>Cognitive computing doesn’t throw humans out of the picture </strong></li>
+</ul>
+<p>As discussed above, cognitive computing’s main aim is to assist humans in decision making. This endows humans with superior grade precision in analysis while ensuring everything is in their control. To illustrate, let’s take the example of <a href="https://chatbotsmagazine.com/is-conversational-ai-the-future-of-healthcare-658a3d8e9dd5">artificial intelligence in healthcare</a> system. An AI-backed system would make all decision regarding treatment without consultation with a human doctor, while cognitive computing would supplement the human diagnosis with its own set of data and analysis which helps in improves the quality of decision and adds a human touch to critical processes.</p>
+<p><img class="lazy lazy-hidden aligncenter size-full wp-image-6547" src="https://cdn.marutitech.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing.jpg" alt="Advantages-of-Cognitive-Computing" width="2048" height="1743" srcset="" data-srcset="https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing.jpg 2048w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-300x255.jpg 300w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-768x654.jpg 768w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-1030x877.jpg 1030w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-1500x1276.jpg 1500w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-705x600.jpg 705w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-450x383.jpg 450w" sizes="(max-width: 2048px) 100vw, 2048px" /><noscript><img class="aligncenter size-full wp-image-6547" src="https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing.jpg" alt="Advantages-of-Cognitive-Computing" width="2048" height="1743" srcset="https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing.jpg 2048w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-300x255.jpg 300w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-768x654.jpg 768w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-1030x877.jpg 1030w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-1500x1276.jpg 1500w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-705x600.jpg 705w, https://cdn.marutitech.com/wp-content/uploads/2018/11/Advantages-of-Cognitive-Computing-450x383.jpg 450w" sizes="(max-width: 2048px) 100vw, 2048px" /></noscript></p>
+<p><strong>Going Cognitive: Advantages of Cognitive Computing</strong></p>
+<p>In the field of process automation, the modern computing system is set to revolutionize the current and legacy systems. According to <a href="https://www.gartner.com/en/newsroom/press-releases/2017-08-15-gartner-identifies-three-megatrends-that-will-drive-digital-business-into-the-next-decade">Gartner</a>, cognitive computing will disrupt the digital sphere unlike any other technology introduced in the last 20 years. By having the ability to analyze and process large amounts of volumetric data, cognitive computing helps in employing a computing system for relevant real-life system. Cognitive computing has a host of benefits including the following:</p>
+<ul>
+<li><strong>Accurate Data Analysis </strong></li>
+</ul>
+<p>Cognitive systems are highly-efficient in collecting, juxtaposing and cross-referencing information to analyze a situation effectively. If we take the case of the healthcare industry, cognitive systems such as <a href="https://www.ibm.com/watson/">IBM Watson</a> helps physicians to collect and analyze data from various sources such as previous medical reports, medical journals, diagnostic tools &amp; past data from the medical fraternity thereby assisting physicians in providing a data-backed treatment recommendation that benefits both the patient as well as the doctor. Instead of replacing doctors, cognitive computing employs <a href="https://www.marutitech.com/robotic-process-automation-vs-traditional-automation/">robotic process automation</a> to speed up the data analysis.</p>
+<ul>
+<li><strong>Leaner &amp; More Efficient Business Processes</strong></li>
+</ul>
+<p>Cognitive computing can analyze emerging patterns, spot business opportunities and take care of critical process-centric issues in real time. By examining a vast amount of data, a cognitive computing system such as Watson can simplify processes, reduce risk and pivot according to changing circumstances. While this prepares businesses in building a proper response to uncontrollable factors, at the same time it helps to create lean business processes.</p>
+<ul>
+<li><strong>Improved Customer Interaction </strong></li>
+</ul>
+<p>The technology can be used to enhance customer interactions with the help of robotic process automation. Robots can provide contextual information to customers without needing to interact with other staff members. As cognitive computing makes it possible to provide only relevant, contextual and valuable information to the customers, it improves customer experience, thus making customers satisfied and much more engaged with a business.</p>
+<p><strong>Cognitive Computing at Work: How Global Organizations are Leveraging the Technology</strong></p>
+<p>According to tech pundits, cognitive computing is the future. A lot of successful and established businesses have already integrated the technology into their routine business affairs. There are a number of successful use case scenarios and cognitive computing examples that show the world how to implement cognitive computing, efficiently. Let us look at some successful use cases of the technology:</p>
+<ul>
+<li><strong>Cora- Intelligent Agent by Royal Bank of Scotland </strong></li>
+</ul>
+<p>With the help of IBM Watson, <a href="https://www.insider.co.uk/news/rbs-cora-ai-messaging-app-12688390">Royal Bank of Scotland developed an intelligent assistant that is capable of handling 5000 queries in a single day</a>. Using cognitive learning capabilities, the assistant gave RBS the ability to analyze customer grievance data and create a repository of commonly asked questions. Not only did the assistant analyze queries, but, it was also capable of providing 1000 different responses and understand 200 customer intents.</p>
+<p>The digital assistant learned how customers ask general questions, how to handle the query and transfer to a human agent if it is too complicated.</p>
+<ul>
+<li><strong>Healthcare Concierge by Welltok</strong></li>
+</ul>
+<p>Welltok developed an efficient healthcare concierge &#8211; CaféWell that updates customers relevant health information by processing a vast amount of medical data. <a href="https://www.welltok.com/cafewell-2/">CaféWell</a> is a holistic population health tool that is being used by health insurance providers to help their customers with relevant information that improves their health. By collecting data from various sources and instant processing of questions by end-users, CaféWell offers smart and custom health recommendations that enhance the health quotient.</p>
+<p>Welltok’s CEO, Jeff Margolis while discussing CaféWell says, “We must transform beyond the current ‘sick-care’ system built for patients, to one that optimizes each consumer’s health status. To do so, the industry needs a practical, but a radically different approach to engaging the 85% of the nation’s population who are making daily choices that impact their health”</p>
+<ul>
+<li><strong>Personal Travel planner to simplifying travel planning by WayBlazer </strong></li>
+</ul>
+<p>Powered with cognitive technology, <a href="https://www.wayblazer.ai/">WayBlazer’s travel planer makes it easier for travelers to plan for trips by asking questions in natural language</a>. The concierge asks basic questions and provides customized results by collecting and processing travel data as well as insights about traveler preferences.</p>
+<p>Such type of cognitive-powered tool helps travelers to save time in searching for flights, booking hotels and plan activities without researching on several websites before finalizing on travel. Travel agents have been successfully using such a tool that has helped increase their revenues and customer delight at the same time.</p>
+<ul>
+<li><strong>Edge up’s Smart Tool to Manage Fantasy Football Teams via Mobile App </strong></li>
+</ul>
+<p>Fantasy Football is a very popular entertainment pastime for more than 33 million people around the globe. With the help of cognitive learning and computing, <a href="https://www.ibm.com/blogs/client-voices/cognitive-fantasy-sports-edge-up-sports-fantasy-football/">Edge Up Sports developed a tool and integrated with their mobile app that helped users to draft their fantasy teams by asking simple questions</a>.</p>
+<p>The questions, drafted in natural language, make it easier for users to take a decision which is then analyzed by the system by browsing through data about a player across social media, news reports and gauging user sentiment that help team managers make better decisions.<strong> </strong></p>
+<p><strong>Problems with Cognitive Computing: Challenges for a Better Future </strong></p>
+<p>Every new technology faces some issues during its lifecycle. Despite having the potential to change lives owing to inherent advantages of cognitive computing, the innovation is being resisted by humans due to the fear of change. People are coming up with several cognitive computing disadvantages throwing significant challenges in the path towards greater adoption, such as below:</p>
+<ul>
+<li><strong>Security </strong></li>
+</ul>
+<p>When digital devices manage critical information, the question of security automatically comes into the picture. With the capability to handle a large amount of data and analyze the same, cognitive computing has a significant challenge concerning data security and encryption.</p>
+<p>With more and more connected devices coming into the picture, cognitive computing will have to think about the issues related to a security breach by developing a full-proof security plan that also has a mechanism to identify suspicious activity to promote data integrity.</p>
+<ul>
+<li><strong>Adoption </strong></li>
+</ul>
+<p>The biggest hurdle in the path of success for any new technology is voluntary adoption. To make cognitive computing successful, it is essential to develop a long-term vision of how the new technology will make processes and businesses better.</p>
+<p>Through collaboration between various stakeholders such as technology developers, enterprises, government and individuals, the adoption process can be streamlined. At the same time, it is essential to have a data privacy framework that will further boost adoption of cognitive computing.</p>
+<ul>
+<li><strong>Change Management </strong></li>
+</ul>
+<p>Change management is another crucial challenge that cognitive computing will have to overcome. People are resistant to change because of their natural human behavior &amp; as cognitive computing has the power to learn like humans, people are fearful that machines would replace humans someday. This has gone on to impact the growth prospects to a high level.</p>
+<p>However, cognitive technology is built to work in sync with humans. Human beings will nurture the technology by feeding information into the systems. This makes it a great example of a human-machine interaction that people will have to accept.</p>
+<ul>
+<li><strong>Lengthy Development Cycles </strong></li>
+</ul>
+<p>One of the greatest challenges is the time invested in the development of scenario-based applications via cognitive computing. Cognitive computing currently is being developed as a generalized solution &#8211; this means that the solution cannot be implemented across multiple industry segments without powerful development teams and a considerable amount of time to develop a solution.</p>
+<p>Lengthy development cycles make it harder for smaller companies to develop cognitive capabilities on their own. With time, as the development lifecycles tend to shorten, cognitive computing will acquire a bigger stage in the future for sure.</p>
+<p><strong>Wrapping Up </strong></p>
+<p>As a part of the digital evolutionary cycle, cognitive technology adoption starts with the identification of manual processes that can be automated using the technology. Many companies such as IBM have already pioneered the cognitive technology sphere that is fueling several truly-digital organizations across the globe.</p>
+<p>With every passing minute, more data is being analyzed to gain insights into past events and improve current and future processes. Not only does cognitive tech help in previous analysis but will also assist in predicting future events much more accurately through predictive analysis.</p>
+<p>Being such a robust and agile technology, the future possibilities and avenues both in B2B and B2C segment are immense. The power and advantages of cognitive computing is being already leveraged in financial and healthcare domains with IBM Watson. In the future, it is believed that such a technology will help humans become more efficient than before, delegate mundane analysis and focus on creative work.</p>
+<p>Despite all the challenges and hurdles, the benefits of cognitive technology cannot be overlooked. It will be in favor of all the organizations and humanity, at large, to start the transition process and adopt innovative technology for a bright and much more efficient future.</p>
+<p>Cognitive technology is sure to revolutionize multiple industry segments in the years to come. For every business, this entails an excellent opportunity to leverage for making a multitude of processes leaner. To utilize the full potential of innovative breakthroughs like cognitive tech, you need a <a href="https://www.marutitech.com/contact-us">resilient tech partner</a> that understands the modern trends &amp; is engaged in developing cutting-edge business solutions. If you would like to understand how we can assist you in adopting AI &amp; Cognitive Technology within your business, get in touch today and find how we can help improve critical business processes through ingenuity and innovation.</p>
+</div></section>
+<div class='av-social-sharing-box  avia-builder-el-2  el_after_av_textblock  el_before_av_hr '><div class='av-share-box'><ul class='av-share-box-list noLightbox'><li class='av-share-link av-social-link-facebook' ><a target='_blank' href='http://www.facebook.com/sharer.php?u=https://www.marutitech.com/advantages-of-cognitive-computing/&amp;t=What%20are%20the%20challenges%2C%20real-life%20use%20cases%20and%20advantages%20of%20Cognitive%20Computing%3F' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Facebook'><span class='avia_hidden_link_text'>Share on Facebook</span></a></li><li class='av-share-link av-social-link-twitter' ><a target='_blank' href='https://twitter.com/share?text=What%20are%20the%20challenges%2C%20real-life%20use%20cases%20and%20advantages%20of%20Cognitive%20Computing%3F&url=https://www.marutitech.com/?p=6545' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Twitter'><span class='avia_hidden_link_text'>Share on Twitter</span></a></li><li class='av-share-link av-social-link-pinterest' ><a target='_blank' href='http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.marutitech.com%2Fadvantages-of-cognitive-computing%2F&amp;description=What%20are%20the%20challenges%2C%20real-life%20use%20cases%20and%20advantages%20of%20Cognitive%20Computing%3F&amp;media=https%3A%2F%2Fwww.marutitech.com%2Fwp-content%2Fuploads%2F2018%2F11%2FCognitive-Computing-705x397.png' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Pinterest'><span class='avia_hidden_link_text'>Share on Pinterest</span></a></li><li class='av-share-link av-social-link-linkedin' ><a target='_blank' href='http://linkedin.com/shareArticle?mini=true&amp;title=What%20are%20the%20challenges%2C%20real-life%20use%20cases%20and%20advantages%20of%20Cognitive%20Computing%3F&amp;url=https://www.marutitech.com/advantages-of-cognitive-computing/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Linkedin'><span class='avia_hidden_link_text'>Share on Linkedin</span></a></li></ul></div></div>
+<div style='height:20px' class='hr hr-invisible  avia-builder-el-3  el_after_av_social_share  el_before_av_one_full '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<div class="flex_column av_one_full  av-animated-generic pop-up  flex_column_div av-zero-column-padding first  avia-builder-el-4  el_after_av_hr  el_before_av_hr  " style='background-image:url(https://cdn.marutitech.com/wp-content/uploads/2017/06/free-consultation_compressed-1.jpg); background-position:center center; background-repeat:no-repeat; border-radius:0px; '><section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class='avia_textblock  av_inherit_color'  style='color:#ffffff; '  itemprop="text" ><div class="free-consultation-blog-main">
+<h3 class="free-consultation-blog" style="text-align: center;"><span style="color: #ffffff;">Have Questions? </span></h3>
+<h3 class="free-consultation-blog" style="text-align: center;"><span style="color: #ffffff;">Request 30 minutes Free Consultation</span></h3>
+</div>
+</div></section>
+<div class='avia-button-wrap avia-button-center  avia-builder-el-6  el_after_av_textblock  avia-builder-el-last '><a href='https://www.marutitech.com/free-consultation-page/' class='avia-button  avia-icon_select-no avia-color-light avia-size-small avia-position-center '   ><span class='avia_iconbox_title' >REQUEST NOW</span></a></div></div>
+<div  class='hr hr-default  avia-builder-el-7  el_after_av_one_full  avia-builder-el-last '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+</div></div></div><!-- close content main div --> <!-- section close by builder template --><aside class='sidebar sidebar_right smartphones_sidebar_active alpha units'  role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" ><div class='inner_sidebar extralight-border'><section id="categories-2" class="widget clearfix widget_categories"><h3 class="widgettitle">Blog Categories</h3>		<ul>
+	<li class="cat-item cat-item-16"><a href="https://www.marutitech.com/category/analytics-and-business-intelligence/" >Analytics and Business Intelligence</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://www.marutitech.com/category/artificial-intelligence/" >Artificial Intelligence and Machine Learning</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://www.marutitech.com/category/blockchain/" >Blockchain</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.marutitech.com/category/bots-and-chatbots/" >Bot Development</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://www.marutitech.com/category/business-strategy/" >Business Strategy</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://www.marutitech.com/category/mobile-web-app/" >Mobile and Web Application</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://www.marutitech.com/category/salesforce/" >Salesforce</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://www.marutitech.com/category/software-development-practices/" >Software Development Practices</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.marutitech.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://www.marutitech.com/category/user-experience/" >User Experience</a>
+</li>
+		</ul>
+<span class="seperator extralight-border"></span></section></div></aside>		</div><!--end builder template--></div><!-- close default .container_wrap element -->						<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column   first el_before_'><section id="text-7" class="widget clearfix widget_text">			<div class="textwidget"><p><a href="#"><img class="lazy lazy-hidden" src="https://cdn.marutitech.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://cdn.marutitech.com/wp-content/uploads/2017/04/footer-logo.png" alt="Maruti Techlabs" /><noscript><img src="https://cdn.marutitech.com/wp-content/uploads/2017/04/footer-logo.png" alt="Maruti Techlabs" /></noscript></a></p>
+</div>
+		<span class="seperator extralight-border"></span></section><section id="nav_menu-5" class="widget clearfix widget_nav_menu"><div class="menu-services-container"><ul id="menu-services" class="menu"><li id="menu-item-3302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3302"><a href="https://www.marutitech.com/bot-development/">Bot Development</a></li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://www.marutitech.com/it-strategy-and-technology-consulting/">IT Strategy and Technology Consulting</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="https://www.marutitech.com/web-and-mobile-development/">Web and Mobile Development</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://www.marutitech.com/salesforce-services/">Salesforce Services</a></li>
+<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://www.marutitech.com/big-data-and-analytics/">Big Data and Analytics</a></li>
+</ul></div><span class="seperator extralight-border"></span></section><section id="nav_menu-4" class="widget clearfix widget_nav_menu"><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-862"><a href="https://www.marutitech.com/">Home</a></li>
+<li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a href="https://www.marutitech.com/about-us/">About</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-864"><a href="https://www.marutitech.com/about-us/careers/">Careers</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="https://www.marutitech.com/casestudy/">Case Studies</a></li>
+<li id="menu-item-868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-868"><a href="https://www.marutitech.com/videos/">Videos</a></li>
+<li id="menu-item-867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-867"><a href="https://www.marutitech.com/ebooks/">Ebooks</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a href="https://www.marutitech.com/blog/">Blogs</a></li>
+<li id="menu-item-3311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3311"><a href="https://www.marutitech.com/contact-us/">Get in Touch</a></li>
+</ul></div><span class="seperator extralight-border"></span></section><section id="text-11" class="widget clearfix widget_text">			<div class="textwidget"><p><strong><font color="000000">Call us: +1 844-430-8484<br />
+</font></strong><strong><font color="000000">hello@marutitech.com</font></strong></p>
+</div>
+		<span class="seperator extralight-border"></span></section><section id="text-9" class="widget clearfix widget_text">			<div class="textwidget"><ul class="social-media-footer">
+<li><a href="https://plus.google.com/+Marutitech" target="_blank"class="gplus"></a></li>
+<li><a href="https://www.youtube.com/channel/UCYUfs2E0HakEmFICFMTKc7A"  target="_blank" class="ytube"></a></li>
+<li><a href="https://www.facebook.com/marutitech"  target="_blank" class="fb"></a></li>
+<li><a href="https://twitter.com/MarutiTech"  target="_blank" class="twitter"></a></li>
+<li><a href="https://www.linkedin.com/company/maruti-techlabs-pvt-ltd-" target="_blank" class="linkedin"></a></li>
+</ul></div>
+		<span class="seperator extralight-border"></span></section></div>
+
+					</div>
+
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+
+			
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>Copyright © 2019 Maruti Techlabs Pvt. Ltd.   </span>
+
+                        
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+
+<!-- [BEGIN] Scripts added via Head-and-Footer-Scripts-Inserter plugin by Space X-Chimp ( https://www.spacexchimp.com ) -->
+<script src="https://app.wotnot.io/08138ec1c3e74489a9008b8bc82ad3f920180202134329931255EHtD8EDS8D.js" defer=""></script>
+
+
+
+
+
+
+
+
+<!-- [END] Scripts added via Head-and-Footer-Scripts-Inserter plugin by Space X-Chimp ( https://www.spacexchimp.com ) -->
+
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://cdn.marutitech.com/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://cdn.marutitech.com/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://www.marutitech.com/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWMXSM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.marutitech.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"av_blog","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["categories-2"]},{"sidebar":"av_footer_1","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["text-11"]}];
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.marutitech.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/js/scripts.js,wp-content/themes/enfold/js/avia.js,wp-content/themes/enfold/js/shortcodes.js,wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js,wp-content/themes/enfold/js/stickySidebar.js,wp-content/themes/enfold/js/custom.js,wp-includes/js/mediaelement/wp-mediaelement.min.js,wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js,wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.min.js,wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"200"};
+var a3_lazyload_extend_params = {"edgeY":"200"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.marutitech.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js,wp-includes/js/wp-embed.min.js'></script>
+
+<!-- [BEGIN] Scripts added via Head-and-Footer-Scripts-Inserter plugin by Space X-Chimp ( https://www.spacexchimp.com ) -->
+<!-- Hotjar Tracking Code for https://www.marutitech.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:813927,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script type="text/javascript">
+_linkedin_data_partner_id = "280802";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=280802&fmt=gif" />
+</noscript>
+
+
+
+<!-- [END] Scripts added via Head-and-Footer-Scripts-Inserter plugin by Space X-Chimp ( https://www.spacexchimp.com ) -->
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+
+Served from: www.marutitech.com @ 2019-04-15 13:26:38 by W3 Total Cache
+-->

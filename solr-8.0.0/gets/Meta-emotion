@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Meta-emotion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Meta-emotion","wgTitle":"Meta-emotion","wgCurRevisionId":887769307,"wgRevisionId":887769307,"wgArticleId":11627603,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Philosophy of mind","Cognitive science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Meta-emotion","wgRelevantArticleId":11627603,"wgRequestId":"XLNvdApAAD8AAJSBnLQAAACF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q869898","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Meta-emotion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Meta-emotion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Meta-emotion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Meta-emotion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Meta-emotion rootpage-Meta-emotion skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Meta-emotion</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Meta-emotion</b> is "an organized and structured set of emotions and cognitions about the emotions, both one's own emotions and the emotions of others".<sup id="cite_ref-Gottmanetal_1-0" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup> This broad definition of meta-emotion sparked psychologists' interest in the topic, particularly regarding parental meta-emotion philosophy.
+</p><p>Meta-emotion refers to the idea that whenever we elicit a certain emotion, we also deal with subsequent emotions regarding how we experienced the primary emotion. While some psychologists have examined the influence of meta-emotions on how individuals interpret and deal with their own and others' emotions, much of the literature regarding meta-emotion has focused on how parental meta-emotion impacts the social-emotional development of their children.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Meta-emotions can be short-term or long-term. The latter can be a source of discouragement or even <a href="/wiki/Psychological_repression" class="mw-redirect" title="Psychological repression">psychological repression</a>, or encouragement of specific emotions, having implications for personality traits, <a href="/wiki/Psychodynamics" title="Psychodynamics">psychodynamics</a>, family and <a href="/wiki/Group_dynamics" title="Group dynamics">group dynamics</a>, <a href="/wiki/Organizational_climate" class="mw-redirect" title="Organizational climate">organizational climate</a>, emotional disorders, but also emotional <a href="/wiki/Awareness" title="Awareness">awareness</a>, and <a href="/wiki/Emotional_intelligence" title="Emotional intelligence">emotional intelligence</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Research_by_Gottman"><span class="tocnumber">1</span> <span class="toctext">Research by Gottman</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Types_of_parental_meta-emotion_philosophy"><span class="tocnumber">1.1</span> <span class="toctext">Types of parental meta-emotion philosophy</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Emotion-coaching_philosophy"><span class="tocnumber">1.1.1</span> <span class="toctext">Emotion-coaching philosophy</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Dismissive_philosophy"><span class="tocnumber">1.1.2</span> <span class="toctext">Dismissive philosophy</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Disapproving_philosophy"><span class="tocnumber">1.1.3</span> <span class="toctext">Disapproving philosophy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Impact_of_parental_meta-emotion_on_children_and_adolescents"><span class="tocnumber">1.2</span> <span class="toctext">Impact of parental meta-emotion on children and adolescents</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Impact_on_marital_conflict_or_stability"><span class="tocnumber">1.3</span> <span class="toctext">Impact on marital conflict or stability</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Fathers"><span class="tocnumber">1.3.1</span> <span class="toctext">Fathers</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Mothers"><span class="tocnumber">1.3.2</span> <span class="toctext">Mothers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Friendships_in_adolescence"><span class="tocnumber">1.4</span> <span class="toctext">Friendships in adolescence</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Measuring_meta-emotion_philosophy"><span class="tocnumber">1.5</span> <span class="toctext">Measuring meta-emotion philosophy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">2</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Research_by_Gottman">Research by Gottman</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=1" title="Edit section: Research by Gottman">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1997, Gottman, Katz, &amp; Hooven used the term <b>meta-emotion</b> to describe parents' reactions to their children's emotional displays.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Baker, Fenning, &amp; Crnic (2010)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> defined meta-emotion philosophy as "parental attitudes toward emotion".   
+</p><p>Broadly speaking, meta-emotion encompasses both feelings and thoughts about emotion. According to Gottman et al. (2006),<sup id="cite_ref-Gottman_5-0" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup> the term meta-emotion does not merely refer to an individual's emotional reactions to his or her own emotions, but refers also to the "executive functions of emotion" (243). Greenberg (2002)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> suggested that meta-emotions are to be considered a type of "secondary emotion", a temporal concept in which a secondary emotion follows a primary emotion. For example, anxiety (the secondary emotion) may follow anger (the primary emotion).  
+</p><p>The term meta-emotion was unexpectedly coined as a result of the initial work of Gottman et al. (1996). For years, developmental psychology research has focused on parental affect, responsiveness, and parenting style. Gottman, Katz, &amp; Hooven (1996) believed that there was not enough attention given to parents' feelings and thoughts about their own emotions and their children's emotions. While researching the effects of parents' marital relationship on children, Gottman et al. (1996) found that there was a large variety of attitudes and philosophies that parents held about their own emotions and their children's emotions.<sup id="cite_ref-Gottman_5-1" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup>  In order to examine these differences, Katz &amp; Gottman (1986) developed a meta-emotion interview and deemed the term "meta-emotion structure", to refer to parents' feelings about feelings. They believed that meta-emotion was a "pervasive and understudied dimension in emotion research" (250). Katz &amp; Gottman (1986) paralleled their concept of meta-emotion with that of the meta-cognition construct <a href="/wiki/Metacognition" title="Metacognition">Metacognition</a>.<sup id="cite_ref-KatzGottman_7-0" class="reference"><a href="#cite_note-KatzGottman-7">&#91;7&#93;</a></sup> Hooven, Gottman, &amp; Katz (1995)<sup id="cite_ref-HoovenGottmanKatz_8-0" class="reference"><a href="#cite_note-HoovenGottmanKatz-8">&#91;8&#93;</a></sup> used the term "meta-emotion structure" to refer to "the parents' awareness of specific emotions, their awareness and acceptance of these emotions in their child, and their coaching of the emotion in their child" (231). The results of their study demonstrated that parental meta-emotion variables were related to their abilities to both interact with their children and resolve marital conflict. Gottman, Katz &amp; Hooven (1996) suggested that parents' own feelings and thoughts about their emotions strongly influence the ways in which they parent.<sup id="cite_ref-Gottman_5-2" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Types_of_parental_meta-emotion_philosophy">Types of parental meta-emotion philosophy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=2" title="Edit section: Types of parental meta-emotion philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In their paper published in 1996, Gottman, Katz &amp; Hooven outlined different types of parental meta-emotion philosophy. These include emotion-coaching philosophy and a dismissing meta-emotion philosophy.<sup id="cite_ref-Gottman_5-3" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup> That there are two major meta-emotion philosophies continues to be the general consensus among psychologists studying meta-emotion: emotion-coaching philosophy, in which the parents are comfortable with the emotions of themselves and their children, and an emotion-dismissing philosophy in which parents view negative emotions as harmful.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Emotion-coaching_philosophy">Emotion-coaching philosophy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=3" title="Edit section: Emotion-coaching philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Parents who follow an emotion-coaching philosophy tend to be aware of their emotions and the emotions of others. They are able to talk about these emotions and help their children understand and express their emotions, particularly sadness and anger. The authors found a distinction between emotion-coaching philosophy and parental warmth.<sup id="cite_ref-Gottman_5-4" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup>
+</p><p>There are five major characteristics of the emotion-coaching philosophy:
+</p>
+<ul><li>The parent is aware of the child's emotion.</li>
+<li>The parent sees the child's emotion as an opportunity for intimacy or teaching.</li>
+<li>The parent helps the child to verbally label the emotions the child is having.</li>
+<li>The parent empathizes with or validates the child's emotion.</li>
+<li>The parent helps the child to problem solve (280).<sup id="cite_ref-Gottman_5-5" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup></li></ul>
+<p>A crucial aspect of the emotion-coaching philosophy is that the parent utilizes the child's negative emotions to form an emotional connection with their child, primarily for the reasons of intimacy and teaching.<sup id="cite_ref-Gottman_5-6" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Dismissive_philosophy">Dismissive philosophy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=4" title="Edit section: Dismissive philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Parents with a dismissing meta-emotion philosophy feel as though their child's anger or sadness could be harmful to their child, that their primary job is to alleviate these harmful emotions as quickly as possible, and that their child should know that these negative emotions will not last. Although parents with a dismissing philosophy may be sensitive to their child's emotions and truly want to be helpful, these parents believe that ignoring or denying negative emotions is the best approach to helping their children. Parents with a dismissing meta-emotion philosophy are often unable to provide insight into their child's emotions and do not view negative emotions as an opportunity for growth or intimacy.<sup id="cite_ref-Gottman_5-7" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup> Parents may partake in a dismissing approach by attempting to distract the child or belittling the causes of the negative emotions.<sup id="cite_ref-Gottman_5-8" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Disapproving_philosophy">Disapproving philosophy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=5" title="Edit section: Disapproving philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Another possible type of parental meta-emotion is the disapproving philosophy. These parents reprimand their children for any type of emotional expression, even if the child's actions are appropriate. As a result, these children start to view their emotions as inappropriate and invalid, and have a difficult time with emotion regulation.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> For disapproving parents, negative emotions require a disciplinary response. Some disapproving parents may view their child's negative emotions as a means by which the child is attempting to manipulate or control the parent.<sup id="cite_ref-Gottman_5-9" class="reference"><a href="#cite_note-Gottman-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Impact_of_parental_meta-emotion_on_children_and_adolescents">Impact of parental meta-emotion on children and adolescents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=6" title="Edit section: Impact of parental meta-emotion on children and adolescents">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There have been many studies examining the impact of different parental meta-emotion philosophies on adolescents. For example, researchers have studied the relation between meta-emotion philosophy and adolescent depression, as well as the impact of parental meta-emotion on adolescent affect and coping skills. Other psychologists have examined the impact of maternal meta-emotion philosophy on children's <a href="/wiki/Attachment_theory" title="Attachment theory">attachment inclination</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>Gottman et al. (1997)<sup id="cite_ref-Gottmanetal_1-1" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup> highlighted two specific aspects of parental meta-emotion that impact children and family outcomes: 1) emotional awareness, and 2) emotion coaching. Gottman, Katz, &amp; Hooven—among the leading psychologists regarding meta-emotion—firmly believe in the significant impact of parental meta-emotion on many aspects of their children's lives: "There is evidence that from the beginning of a child's life, parents' interaction with the child has implications for the child's ability to self-regulate, focus attention, share intersubjective meaning, for the essential affectional bonds with parents, and be able to interact with a changing environment" (87).<sup id="cite_ref-Gottmanetal_1-2" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup>
+</p><p>There has been a growing interest in examining the impact of the various types of parental meta-emotion philosophies on children's emotional states and <a href="/wiki/Child_depression" class="mw-redirect" title="Child depression">depressive symptoms</a>. For example, Hunter et al. (2011)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> examined the associations between the meta-emotion philosophies of fathers, mothers, and adolescents. They found that when parents held an emotion-coaching philosophy, the adolescents tended to have fewer behavioral and emotional issues. They concluded that: "The quality of the meta-emotion philosophy developed by adolescents may have implications for their mental health. In particular, evidence suggests that beliefs about emotion are relevant to depressive disorders, with negative beliefs associated with an increased risk for adolescent depression."  Similarly, Katz &amp; Hunter (2007)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> examined the effects of maternal meta-emotion on adolescent depressive symptoms. The authors found that adolescents with high levels of depressive symptoms tended to have mothers who were less accepting of their own emotions. Mothers who were more accepting of their own emotions tended to have adolescents with higher self-esteem, fewer externalizing problems, and fewer depressive symptoms. In conclusion, this study demonstrated a strong correlation between maternal meta-emotion philosophy and adolescent depression. Thus, these authors suggest that meta-emotion philosophy is related to adolescent <a href="/wiki/Depression_(mood)" title="Depression (mood)">depression</a> and <a href="/wiki/Affect_(psychology)" title="Affect (psychology)">affect</a>.
+</p><p>Another study found that mothers with a meta-emotion philosophy that is higher in both awareness and acceptance were correlated with fewer negative social behaviors during mother-child interactions.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> This suggests that maternal meta-emotion philosophy also influences the interactions between the mother and her adolescent. It would be interesting to examine whether or not this holds true for fathers and their adolescents as well. 
+</p><p>Aside from examining the impact of parental meta-emotion on children's affect and depressive symptomatology, some psychologists have researched the influence of meta-emotion on the development of children's coping strategies. Lagacé-Séguin &amp; Gionet (2009)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> were interested in studying the nature versus nurture debate regarding children's development of coping strategies. To do so, they examined the impact of both temperament (nature) and parental meta-emotion philosophy (nurture) on the development of coping skills in early adolescents. The authors found many interactions between parental meta-emotion and the adolescent's temperament. For example, they found that emotion-coaching parenting was related to distraction coping strategies for children with lower negative affect and higher <a href="/wiki/Surgency" title="Surgency">surgency</a>. The authors concluded that parental meta-emotion philosophy styles can interact with a child's temperament and predict the adolescents' coping styles.
+</p>
+<h3><span class="mw-headline" id="Impact_on_marital_conflict_or_stability">Impact on marital conflict or stability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=7" title="Edit section: Impact on marital conflict or stability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gottman et al.<sup id="cite_ref-Gottmanetal_1-3" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup> examined whether meta-emotion variables applied solely to <a href="/wiki/Parenting_styles" title="Parenting styles">parenting styles</a> or if these variables also impacted a couple's marriage.  To examine this question, Gottman et al. examined the longitudinal stability of the participants' marriage and how the couples resolved their conflicts. They assessed both parents' sadness and anger meta-emotions.
+</p>
+<h4><span class="mw-headline" id="Fathers">Fathers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=8" title="Edit section: Fathers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Gottman et al. found that fathers who are more aware of their sadness were more affectionate and have wives who were "less contemptuous and belligerent"<sup id="cite_ref-Gottmanetal_1-4" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup> (198).  Fathers who followed an emotion-coaching philosophy with concern to both sadness and anger were less defensive and more affectionate, but fathers who were merely aware of their own anger and their child's anger were more defensive and belligerent.  Thus, the father's awareness of his anger was not necessarily a positive quality with concern to his marriage.  On the other hand, fathers who maintained an emotion-coaching philosophy were more affectionate with their spouses and have wives who were also more affectionate and less contemptuous.
+</p>
+<h4><span class="mw-headline" id="Mothers">Mothers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=9" title="Edit section: Mothers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Gottman et al.<sup id="cite_ref-Gottmanetal_1-5" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup> examined mothers' sadness and anger meta-emotions as well.  They found that mothers who were aware of their own sadness and their children's sadness were less belligerent, and had husbands who were also less belligerent and contemptuous.  Mothers who followed an emotion-coaching philosophy with concern to sadness tended to have husbands were "less disgusted and less belligerent" (201).  Gottman et al. found that mothers who were aware of their children's anger were less contemptuous, but also less affectionate toward their husbands.  They concluded that for mothers, awareness of their child's emotions had a positive impact on marital interaction, but for fathers, awareness of his child's anger did not have positive implications for his marriage.<sup id="cite_ref-Gottmanetal_1-6" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Friendships_in_adolescence">Friendships in adolescence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=10" title="Edit section: Friendships in adolescence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rowsell et al. studied relationship between meta-emotion and friendships in adolescence. Students from five Australian high schools completed questionnaires. The total sample of participants was 795.  They found that emotion identification skill in early adolescence was predictive of friendships for females in late adolescence. Specifically, girls starting out with low emotion identification skill in Grade 8 tended to have fewer female friendships and more male friendships in Grade 12. There were no effects for males. Lower initial  emotion identification skill was associated with significant improvements in awareness over time, but these improvements had no effect on friendships in Grade 12. The emotion identification skill that girls enter high school with may influence their friendship composition into late adolescence.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Measuring_meta-emotion_philosophy">Measuring meta-emotion philosophy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=11" title="Edit section: Measuring meta-emotion philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The meta-emotion interview is the most widely used measurement tool of meta-emotion.  Each parent is separately interviewed about their own encounters with anger and sadness, their beliefs about emotional expression, and their attitudes and responses to their children's sadness and anger. This interview was semi-structured, allowing for flexibility for both the interviewer and the interviewee. The interview was audio-taped and designed to evaluate three dimensions of meta-emotion for sadness and anger: the parent's awareness of their own emotion, their awareness of the child's emotion, and the coaching of the child's emotion.<sup id="cite_ref-Gottmanetal_1-7" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup>
+</p><p>Gottman, Katz, &amp; Hooven updated their first meta-emotion interview<sup id="cite_ref-Gottmanetal_1-8" class="reference"><a href="#cite_note-Gottmanetal-1">&#91;1&#93;</a></sup> to target parents' awareness of their own emotions and their children's emotions, as well as the parents' method of interacting with their children when the child is actively experiencing emotions. The interview outlines four types of parenting styles: emotion-coaching, laissez-faire, dismissing, and disapproving. It is an hour-long structured interview that is scored from audio-tapes<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>The primary goal of the most recent Meta-Emotion Interview (MEI) is to gain a clear idea of how an individual experiences a particular emotion. Although it was first used to examine the emotions of sadness and anger, it has since been expanded to include pride and love/affection. The MEI focuses on one emotion at a time—all the questions are answered about one particular emotion (i.e.: sadness) before the interviewer moves on to the next emotion. For each emotion, the individual is first asked about their childhood and how their family handled and expressed each emotion. Then, they are asked about how they experience the emotion now. The questions particularly target how they experience each emotion in their relationships with their spouse and/or child. The MEI also addresses nonverbal expressions of emotion. For example, the interviewer asks what the individual looks like when he or she experiences a particular emotion (i.e.: "What do you look like when you are sad?"). The MEI is videotaped and then coded using the MEI Coding System, which focuses on four main dimensions of emotion: awareness, acceptance, dysregulation, and coaching. Awareness refers to the extent to which the individual acknowledges that they are experiencing an emotion. Acceptance refers to whether the individual not only allows themselves to experience the emotion, but also feels comfortable expressing it. Dysregulation relates to the individual's reported difficulties regulating their expression of the particular emotion. Finally, coaching refers to the degree to which individuals are able to identify and accept others' (i.e.: spouse or child) emotional experience in a positive manner.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Lagacé-Séguin &amp; Coplan (2005) constructed the first published self-report parenting scale (the Maternal Emotional Styles Questionnaire) used to measure emotion coaching and emotion dismissing meta-emotion philosophy.  The psychometric properties (i.e, reliability and validity) of the MESQ were found to be more than acceptable and the measure has been used in conjunction with child temperament to predict social outcomes for children based on theory of Goodness of Fit (Lagacé-Séguin &amp; Coplan,2005).
+</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meta-emotion&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Gottmanetal-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gottmanetal_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gottmanetal_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gottmanetal_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gottmanetal_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Gottmanetal_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Gottmanetal_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Gottmanetal_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Gottmanetal_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Gottmanetal_1-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text">Gottman, J. M., Katz, L. F., &amp; Hooven, C. (1997). Meta-emotion: How families communicate emotionally. Hillsdale, NJ, England: Lawrence Erlbaum Associates, Inc.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Ferrari, M., &amp; Koyama, E. (2002). Meta-emotions about anger and amae: A cross-cultural comparison. Consciousness &amp; Emotion, 3(2), 197-211. Retrieved from <a rel="nofollow" class="external free" href="http://search.proquest.com/docview/620031891">http://search.proquest.com/docview/620031891</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Mitmansgruber, H., Beck, T. N., Höfer, S., &amp; Schüßler, G. (2009). When you don't like what you feel: Experiential avoidance, mindfulness and meta-emotion in emotion regulation. Personality and Individual Differences, 46(4), 448-453. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.paid.2008.11.013">10.1016/j.paid.2008.11.013</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Baker, J. K., Fenning, R. M., &amp; Crnic, K. A. (2011). Emotion socialization by mothers and fathers: Coherence among behaviors and associations with parent attitudes and childrens social competence. Social Development, 20(2), 412-430. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1467-9507.2010.00585.x">10.1111/j.1467-9507.2010.00585.x</a></span>
+</li>
+<li id="cite_note-Gottman-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gottman_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gottman_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gottman_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gottman_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Gottman_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Gottman_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Gottman_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Gottman_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Gottman_5-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Gottman_5-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text">Gottman, J. M., Katz, L. F., &amp; Hooven, C. (1996). Parental meta-emotion philosophy and the emotional life of families: Theoretical models and preliminary data. Journal of Family Psychology, 10(3), 243-268. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1037%2F0893-3200.10.3.243">10.1037/0893-3200.10.3.243</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Greenberg, L. S. (2002). Emotion-focused therapy: Coaching clients to work through their feelings. Washington, DC, US: American Psychological Association. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1037%2F10447-000">10.1037/10447-000</a></span>
+</li>
+<li id="cite_note-KatzGottman-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-KatzGottman_7-0">^</a></b></span> <span class="reference-text">Katz, L. F., &amp; Gottman, J. M. (1999).  Parent meta-emotion interview. Seattle, WA: University of Washington.</span>
+</li>
+<li id="cite_note-HoovenGottmanKatz-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-HoovenGottmanKatz_8-0">^</a></b></span> <span class="reference-text">Hooven, C., Gottman, J. M., &amp; Katz, L. F. (1995). Parental meta-emotion structure predicts family and child outcomes. Cognition and Emotion, 9(2-3), 229-264. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1080%2F02699939508409010">10.1080/02699939508409010</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Baker, J. K., Fenning, R. M., &amp; Crnic, K. A. (2011). Emotion socialization by mothers and fathers: Coherence among behaviors and associations with parent attitudes and childrens social competence. Social Development, 20(2), 412-430. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1467-9507.2010.00585.x">10.1111/j.1467-9507.2010.00585.x</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Gottman, J. &amp; DeClaire, J. (1997). Raising an emotionally intelligent child: The heart of parenting. Fireside; New York.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Yeh, K., Cheng, S., &amp; Yang, Y. (2005). The influence of maternal meta-emotion philosophy on children's. Chinese Journal of Psychology, 47(2), 195-196. Retrieved from <a rel="nofollow" class="external free" href="http://search.proquest.com/docview/620834431">http://search.proquest.com/docview/620834431</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Hunter, E. C., Katz, L. F., Shortt, J. W., Davis, B., Leve, C., Allen, N. B., &amp; Sheeber, L. B. (2011). How do I feel about feelings? Emotion socialization in families of depressed and healthy adolescents. Journal of Youth and Adolescence, 40(4), 428-441. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs10964-010-9545-2">10.1007/s10964-010-9545-2</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Katz, L. F., &amp; Hunter, E. C. (2007). Maternal meta-emotion philosophy and adolescent depressive symptomatology. Social Development, 16(2), 343-360. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1467-9507.2007.00388.x">10.1111/j.1467-9507.2007.00388.x</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Yap, M. B. H., Allen, N. B., Leve, C., &amp; Katz, L. F. (2008). Maternal meta-emotion philosophy and socialization of adolescent affect: The moderating role of adolescent temperament. Journal of Family Psychology, 22(5), 688-700. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1037%2Fa0013104">10.1037/a0013104</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Lagacé-Séguin, D., &amp; Gionet, A. (2009). Parent meta-emotion and temperament predict coping skills in early adolescence.  International Journal of Adolescence and Youth, 14, 367-382.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rowsell, H. Claire; Joseph Ciarrochi (February 2014). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S0140197113001693">"The role of emotion identification skill in the formation of male and female friendships: A longitudinal study"</a>. <i>Journal of Adolescence</i>. <b>37</b> (2): 103–11. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.adolescence.2013.11.005">10.1016/j.adolescence.2013.11.005</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24439616">24439616</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Adolescence&amp;rft.atitle=The+role+of+emotion+identification+skill+in+the+formation+of+male+and+female+friendships%3A+A+longitudinal+study&amp;rft.volume=37&amp;rft.issue=2&amp;rft.pages=103-11&amp;rft.date=2014-02&amp;rft_id=info%3Adoi%2F10.1016%2Fj.adolescence.2013.11.005&amp;rft_id=info%3Apmid%2F24439616&amp;rft.aulast=Rowsell&amp;rft.aufirst=H.+Claire&amp;rft.au=Joseph+Ciarrochi&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0140197113001693&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMeta-emotion" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Hakim-Larson, J., Parker, A., Lee, C., Goodwin, J., &amp; Voelker, S. (2006). Measuring parental meta-emotion: Psychometric properties of the emotion-related parenting styles self-test. Early Education and Development, 17(2), 229-251. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1207%2Fs15566935eed1702_2">10.1207/s15566935eed1702_2</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Manusov, V. L. (2005). The sourcebook of nonverbal measures: Going beyond words. Mahwah, N.J: Lawrence Erlbaum.</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Emotions_(list)" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Emotion-footer" title="Template:Emotion-footer"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Emotion-footer" title="Template talk:Emotion-footer"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Emotion-footer&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Emotions_(list)" style="font-size:114%;margin:0 4em"><a href="/wiki/Emotion" title="Emotion">Emotions</a> (<a href="/wiki/Contrasting_and_categorization_of_emotions" title="Contrasting and categorization of emotions">list</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Emotion" title="Emotion">Emotions</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adoration" title="Adoration">Adoration</a></li>
+<li><a href="/wiki/Aesthetic_emotions" title="Aesthetic emotions">Aesthetic emotions</a></li>
+<li><a href="/wiki/Affection" title="Affection">Affection</a></li>
+<li><a href="/wiki/Psychomotor_agitation" title="Psychomotor agitation">Agitation</a></li>
+<li><a href="/wiki/Pain" title="Pain">Agony</a></li>
+<li><a href="/wiki/Amusement" title="Amusement">Amusement</a></li>
+<li><a href="/wiki/Anger" title="Anger">Anger</a></li>
+<li><a href="/wiki/Anguish" title="Anguish">Anguish</a></li>
+<li><a href="/wiki/Annoyance" title="Annoyance">Annoyance</a></li>
+<li><a href="/wiki/Anxiety" title="Anxiety">Anxiety</a></li>
+<li><a href="/wiki/Apathy" title="Apathy">Apathy</a></li>
+<li><a href="/wiki/Arousal" title="Arousal">Arousal</a></li>
+<li><a href="/wiki/Interpersonal_attraction" title="Interpersonal attraction">Attraction</a></li>
+<li><a href="/wiki/Awe" title="Awe">Awe</a></li>
+<li><a href="/wiki/Boredom" title="Boredom">Boredom</a></li>
+<li><a href="/wiki/Calmness" title="Calmness">Calmness</a></li>
+<li><a href="/wiki/Compassion" title="Compassion">Compassion</a></li>
+<li><a href="/wiki/Contempt" title="Contempt">Contempt</a></li>
+<li><a href="/wiki/Contentment" title="Contentment">Contentment</a></li>
+<li><a href="/wiki/Defeatism" title="Defeatism">Defeat</a></li>
+<li><a href="/wiki/Depression_(mood)" title="Depression (mood)">Depression</a></li>
+<li><a href="/wiki/Desire" title="Desire">Desire</a></li>
+<li><a href="/wiki/Disappointment" title="Disappointment">Disappointment</a></li>
+<li><a href="/wiki/Disgust" title="Disgust">Disgust</a></li>
+<li><a href="/wiki/Ecstasy_(emotion)" title="Ecstasy (emotion)">Ecstasy</a></li>
+<li><a href="/wiki/Embarrassment" title="Embarrassment">Embarrassment</a>
+<ul><li><a href="/wiki/Vicarious_embarrassment" title="Vicarious embarrassment">Vicarious</a></li></ul></li>
+<li><a href="/wiki/Empathy" title="Empathy">Empathy</a></li>
+<li><a href="/wiki/Attention" title="Attention">Enthrallment</a></li>
+<li><a href="/wiki/Enthusiasm" title="Enthusiasm">Enthusiasm</a></li>
+<li><a href="/wiki/Envy" title="Envy">Envy</a></li>
+<li><a href="/wiki/Euphoria" title="Euphoria">Euphoria</a></li>
+<li><a href="/wiki/Stimulation" title="Stimulation">Excitement</a></li>
+<li><a href="/wiki/Fear" title="Fear">Fear</a></li>
+<li><a href="/wiki/Flow_(psychology)" title="Flow (psychology)">Flow (psychology)</a></li>
+<li><a href="/wiki/Frustration" title="Frustration">Frustration</a></li>
+<li><a href="/wiki/Gratitude" title="Gratitude">Gratitude</a></li>
+<li><a href="/wiki/Grief" title="Grief">Grief</a></li>
+<li><a href="/wiki/Guilt_(emotion)" title="Guilt (emotion)">Guilt</a></li>
+<li><a href="/wiki/Happiness" title="Happiness">Happiness</a></li>
+<li><a href="/wiki/Hatred" title="Hatred">Hatred</a></li>
+<li><i><a href="/wiki/Hiraeth" title="Hiraeth">Hiraeth</a></i></li>
+<li><a href="/wiki/Homesickness" title="Homesickness">Homesickness</a></li>
+<li><a href="/wiki/Hope" title="Hope">Hope</a></li>
+<li><a href="/wiki/Horror_and_terror" title="Horror and terror">Horror</a></li>
+<li><a href="/wiki/Hostility" title="Hostility">Hostility</a></li>
+<li><a href="/wiki/Humiliation" title="Humiliation">Humiliation</a></li>
+<li><i><a href="/wiki/Hygge" title="Hygge">Hygge</a></i></li>
+<li><a href="/wiki/Hysteria" title="Hysteria">Hysteria</a></li>
+<li><a href="/wiki/Infatuation" title="Infatuation">Infatuation</a></li>
+<li><a href="/wiki/Emotional_security" title="Emotional security">Insecurity</a></li>
+<li><a href="/wiki/Insult" title="Insult">Insult</a></li>
+<li><a href="/wiki/Interest_(emotion)" title="Interest (emotion)">Interest</a></li>
+<li><a href="/wiki/Irritability" title="Irritability">Irritation</a></li>
+<li><a href="/wiki/Isolation_(psychology)" title="Isolation (psychology)">Isolation</a></li>
+<li><a href="/wiki/Jealousy" title="Jealousy">Jealousy</a></li>
+<li><a href="/wiki/Joy" title="Joy">Joy</a></li>
+<li><a href="/wiki/Limerence" title="Limerence">Limerence</a></li>
+<li><a href="/wiki/Loneliness" title="Loneliness">Loneliness</a></li>
+<li><a href="/wiki/Desire" title="Desire">Longing</a></li>
+<li><a href="/wiki/Love" title="Love">Love</a></li>
+<li><a href="/wiki/Lust" title="Lust">Lust</a></li>
+<li><a href="/wiki/Melancholia" title="Melancholia">Melancholy</a></li>
+<li><i><a href="/wiki/Mono_no_aware" title="Mono no aware">Mono no aware</a></i></li>
+<li><a href="/wiki/Neglect" title="Neglect">Neglect</a></li>
+<li><a href="/wiki/Nostalgia" title="Nostalgia">Nostalgia</a></li>
+<li><a href="/wiki/Panic" title="Panic">Panic</a></li>
+<li><a href="/wiki/Passion_(emotion)" title="Passion (emotion)">Passion</a></li>
+<li><a href="/wiki/Pity" title="Pity">Pity</a></li>
+<li><a href="/wiki/Pleasure" title="Pleasure">Pleasure</a></li>
+<li><a href="/wiki/Pride" title="Pride">Pride</a>
+<ul><li><a href="/wiki/Hubris" title="Hubris">hubris</a></li></ul></li>
+<li><a href="/wiki/Rage_(emotion)" title="Rage (emotion)">Rage</a></li>
+<li><a href="/wiki/Regret" title="Regret">Regret</a></li>
+<li><a href="/wiki/Social_rejection" title="Social rejection">Rejection</a></li>
+<li><a href="/wiki/Remorse" title="Remorse">Remorse</a></li>
+<li><a href="/wiki/Resentment" title="Resentment">Resentment</a></li>
+<li><a href="/wiki/Sadness" title="Sadness">Sadness</a></li>
+<li><i><a href="/wiki/Saudade" title="Saudade">Saudade</a></i></li>
+<li><i><a href="/wiki/Schadenfreude" title="Schadenfreude">Schadenfreude</a></i></li>
+<li><i><a href="/wiki/Sehnsucht" title="Sehnsucht">Sehnsucht</a></i></li>
+<li><a href="/wiki/Sentimentality" title="Sentimentality">Sentimentality</a></li>
+<li><a href="/wiki/Shame" title="Shame">Shame</a></li>
+<li><a href="/wiki/Acute_stress_reaction" title="Acute stress reaction">Shock</a></li>
+<li><a href="/wiki/Shyness" title="Shyness">Shyness</a></li>
+<li><a href="/wiki/Sorrow_(emotion)" title="Sorrow (emotion)">Sorrow</a></li>
+<li><a href="/wiki/Spite_(sentiment)" title="Spite (sentiment)">Spite</a></li>
+<li><a href="/wiki/Psychological_stress" title="Psychological stress">Stress</a></li>
+<li><a href="/wiki/Suffering" title="Suffering">Suffering</a></li>
+<li><a href="/wiki/Surprise_(emotion)" title="Surprise (emotion)">Surprise</a></li>
+<li><a href="/wiki/Sympathy" title="Sympathy">Sympathy</a></li>
+<li><a href="/wiki/Chronic_stress" title="Chronic stress">Tenseness</a></li>
+<li><a href="/wiki/Wonder_(emotion)" title="Wonder (emotion)">Wonder</a></li>
+<li><a href="/wiki/Worry" title="Worry">Worry</a></li></ul>
+</div></td><td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Plutchik-wheel.svg" class="image"><img alt="Plutchik-wheel.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/200px-Plutchik-wheel.svg.png" decoding="async" width="200" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/300px-Plutchik-wheel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/400px-Plutchik-wheel.svg.png 2x" data-file-width="715" data-file-height="725" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/World_view" title="World view">World views</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cynicism_(contemporary)" title="Cynicism (contemporary)">Cynicism</a></li>
+<li><a href="/wiki/Defeatism" title="Defeatism">Defeatism</a></li>
+<li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Optimism" title="Optimism">Optimism</a></li>
+<li><a href="/wiki/Pessimism" title="Pessimism">Pessimism</a></li>
+<li><a href="/wiki/Recluse" title="Recluse">Reclusion</a></li>
+<li><a href="/wiki/Weltschmerz" title="Weltschmerz">Weltschmerz</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20190413200015
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.255 seconds
+Preprocessor visited node count: 804/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18149/2097152 bytes
+Template argument size: 2271/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15592/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 1.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.468      1 -total
+ 86.94%  155.168      1 Template:Reflist
+ 62.11%  110.849      1 Template:Cite_journal
+ 13.01%   23.220      1 Template:Emotion-footer
+ 10.06%   17.955      1 Template:Navbox
+  8.40%   14.996     10 Template:Doi
+  4.07%    7.261     20 Template:Hide_in_print
+  1.97%    3.509      1 Template:Main_other
+  1.90%    3.384     10 Template:Only_in_print
+  1.67%    2.985     10 Template:Str_left
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11627603-0!canonical and timestamp 20190413200015 and revision id 887769307
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Meta-emotion&amp;oldid=887769307">https://en.wikipedia.org/w/index.php?title=Meta-emotion&amp;oldid=887769307</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Philosophy_of_mind" title="Category:Philosophy of mind">Philosophy of mind</a></li><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Meta-emotion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Meta-emotion" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Meta-emotion" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Meta-emotion" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Meta-emotion">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Meta-emotion&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Meta-emotion&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Meta-emotion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Meta-emotion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Meta-emotion&amp;oldid=887769307" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Meta-emotion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q869898" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Meta-emotion&amp;id=887769307" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Meta-emotion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Meta-emotion&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Meta-emotion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Metaemoci%C3%B3" title="Metaemoció – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B4%88%EA%B0%90%EC%A0%95" title="초감정 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Meta%C4%8Dustva" title="Metačustva – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q869898#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 March 2019, at 18:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Meta-emotion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.255","ppvisitednodes":{"value":804,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18149,"limit":2097152},"templateargumentsize":{"value":2271,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15592,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  178.468      1 -total"," 86.94%  155.168      1 Template:Reflist"," 62.11%  110.849      1 Template:Cite_journal"," 13.01%   23.220      1 Template:Emotion-footer"," 10.06%   17.955      1 Template:Navbox","  8.40%   14.996     10 Template:Doi","  4.07%    7.261     20 Template:Hide_in_print","  1.97%    3.509      1 Template:Main_other","  1.90%    3.384     10 Template:Only_in_print","  1.67%    2.985     10 Template:Str_left"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":1834705,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20190413200015","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1268"});});</script>
+</body>
+</html>

@@ -1,0 +1,537 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Journal of Artificial Intelligence Research
+					</title>
+
+	
+<link rel="icon" href="https://www.jair.org/public/journals/1/favicon_en_US.png">
+<meta name="generator" content="Open Journal Systems 3.1.0.0">
+<link rel="alternate" type="application/atom+xml" href="https://www.jair.org/index.php/jair/gateway/plugin/WebFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://www.jair.org/index.php/jair/gateway/plugin/WebFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://www.jair.org/index.php/jair/gateway/plugin/WebFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="https://www.jair.org/index.php/jair/$$$call$$$/page/page/css?name=bootstrap" type="text/css" /><link rel="stylesheet" href="https://www.jair.org/index.php/jair/$$$call$$$/page/page/css?name=bootstrapTheme-cosmo" type="text/css" /><link rel="stylesheet" href="https://www.jair.org/index.php/jair/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://www.jair.org/public/journals/1/styleSheet.css" type="text/css" />
+</head><body class="pkp_page_index pkp_op_index has_site_logo">
+	<div class="pkp_structure_page">
+
+		<nav id="accessibility-nav" class="sr-only" role="navigation" aria-labelled-by="accessible-menu-label">
+			<div id="accessible-menu-label">
+				Quick jump to page content
+			</div>
+			<ul>
+			  <li><a href="#main-navigation">Main Navigation</a></li>
+			  <li><a href="#main-content">Main Content</a></li>
+			  <li><a href="#sidebar">Sidebar</a></li>
+			</ul>
+		</nav>
+
+				<header class="navbar navbar-default" id="headerNavigationContainer" role="banner">
+
+						<div class="container-fluid">
+				<div class="row">
+					<nav aria-label="User Navigation">
+						
+	<ul id="navigationUser" class="nav nav-pills tab-list pull-right">
+														<li class="">
+				<a href="https://www.jair.org/index.php/jair/user/register">
+					Register
+									</a>
+							</li>
+														<li class="">
+				<a href="https://www.jair.org/index.php/jair/login">
+					Login
+									</a>
+							</li>
+										</ul>
+
+					</nav>
+				</div><!-- .row -->
+			</div><!-- .container-fluid -->
+
+			<div class="container-fluid">
+
+				<div class="navbar-header">
+
+										<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-menu" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+
+																<h1 class="site-name">
+																		
+																			<a href="https://www.jair.org/index.php/jair/index" class="navbar-brand navbar-brand-logo">
+								<img src="https://www.jair.org/public/journals/1/pageHeaderLogoImage_en_US.png" alt="Page Header Logo">
+							</a>
+																	</h1>
+					
+				</div>
+
+								<nav id="nav-menu" class="navbar-collapse collapse" aria-label="Site Navigation">
+										
+	<ul id="main-navigation" class="nav navbar-nav">
+														<li class="">
+				<a href="https://www.jair.org/index.php/jair/issue/current">
+					Current
+									</a>
+							</li>
+														<li class="">
+				<a href="https://www.jair.org/index.php/jair/issue/archive">
+					Archives
+									</a>
+							</li>
+																												<li class=" dropdown">
+				<a href="https://www.jair.org/index.php/jair/about" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+					About
+											<span class="caret"></span>
+									</a>
+									<ul class="dropdown-menu ">
+																					<li class="">
+									<a href="https://www.jair.org/index.php/jair/about">
+										About the Journal
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/about/submissions">
+										Submissions
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/about/editorialTeam">
+										Masthead
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/News">
+										News
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/about/contact">
+										Contact
+									</a>
+								</li>
+																		</ul>
+							</li>
+																					<li class=" dropdown">
+				<a href="https://www.jair.org/index.php/jair/navigationMenu/view/tracks" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+					Special Tracks
+											<span class="caret"></span>
+									</a>
+									<ul class="dropdown-menu ">
+																					<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/surveypapers">
+										Surveys
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/IJCAIJAIR">
+										IJCAI-JAIR Awards
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/awardedPapers">
+										Conference Award Track
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/specialtrack_dlkrr">
+										Deep Learning, Knowledge Representation and Reasoning
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/SpecialTrack-AIandSociety">
+										AI and Society
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/specialtrack-CrossLanguage">
+										Cross-Language Algorithms and Applications
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/specialtrack_DescriptionLogics">
+										Description Logics
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/specialtrack_NonmonotonicReasoning">
+										Nonmonotonic Reasoning
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/specialtrack-ipc4">
+										4th International Planning Competition
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://www.jair.org/index.php/jair/navigationMenu/view/specialtrack-ipc3">
+										3rd International Planning Competition
+									</a>
+								</li>
+																		</ul>
+							</li>
+			</ul>
+
+
+																<div class="pull-md-right">
+							<form class="navbar-form navbar-left" role="search" method="post" action="https://www.jair.org/index.php/jair/search/search">
+  <div class="form-group">
+    <input class="form-control" name="query" value="" type="text" aria-label="Search Query" placeholder="">
+  </div>
+  <button type="submit" class="btn btn-default">Search</button>
+</form>
+						</div>
+									</nav>
+
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+				<div class="pkp_structure_content container">
+			<main class="pkp_structure_main col-xs-12 col-sm-8 col-md-8" role="main">
+<div id="main-content" class="page_index_journal" role="content">
+
+	
+
+			<div class="homepage-image">
+			<img class="img-responsive" src="https://www.jair.org/public/journals/1/homepageImage_en_US.jpg" alt="">
+		</div>
+	
+	
+		
+
+				<section class="current_issue">
+			<header class="page-header">
+				<h2>
+					Recent Articles
+				</h2>
+			</header>
+			<div class="issue-toc">
+        	<div class="media-list">
+            			
+<div class="article-summary media">
+	
+	<div class="media-body">
+		<h3 class="media-heading">
+			<a href="https://www.jair.org/index.php/jair/article/view/11418">
+				Modeling and Planning with Macro-Actions in Decentralized POMDPs
+			</a>
+		</h3>
+
+		
+							<div class="meta">
+											<div class="authors">
+							Christopher Amato, George Konidaris, Leslie P. Kaelbling, Jonathan P. How
+						</div>
+									</div>
+			
+									<div class="btn-group" role="group">
+									
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11418/26486">
+
+		
+	PDF
+
+	</a>							</div>
+<!--
+<ul class="galleys_links">
+															<li>
+			
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11418/26486">
+
+		
+	PDF
+
+	</a>		</li>
+	</ul>
+<ul class="galleys_links">
+															</ul>
+-->
+												</div>
+
+	
+</div><!-- .article-summary -->	    			
+<div class="article-summary media">
+	
+	<div class="media-body">
+		<h3 class="media-heading">
+			<a href="https://www.jair.org/index.php/jair/article/view/11408">
+				Polynomial and Exponential Bounded Logic Programs with Function Symbols: Some New Decidable Classes
+			</a>
+		</h3>
+
+		
+							<div class="meta">
+											<div class="authors">
+							Vernon Asuncion, Yan Zhang, Heng Zhang, Ruixuan Li
+						</div>
+									</div>
+			
+									<div class="btn-group" role="group">
+									
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11408/26485">
+
+		
+	PDF
+
+	</a>							</div>
+<!--
+<ul class="galleys_links">
+															<li>
+			
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11408/26485">
+
+		
+	PDF
+
+	</a>		</li>
+	</ul>
+<ul class="galleys_links">
+															</ul>
+-->
+												</div>
+
+	
+</div><!-- .article-summary -->	    			
+<div class="article-summary media">
+	
+	<div class="media-body">
+		<h3 class="media-heading">
+			<a href="https://www.jair.org/index.php/jair/article/view/11400">
+				Distributed Gibbs: A Linear-Space Sampling-Based DCOP Algorithm
+			</a>
+		</h3>
+
+		
+							<div class="meta">
+											<div class="authors">
+							Duc Thien Nguyen, William Yeoh, Hoong Chuin Lau, Roie Zivan
+						</div>
+									</div>
+			
+									<div class="btn-group" role="group">
+									
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11400/26483">
+
+		
+	PDF
+
+	</a>							</div>
+<!--
+<ul class="galleys_links">
+															<li>
+			
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11400/26483">
+
+		
+	PDF
+
+	</a>		</li>
+	</ul>
+<ul class="galleys_links">
+															</ul>
+-->
+												</div>
+
+	
+</div><!-- .article-summary -->	    			
+<div class="article-summary media">
+	
+	<div class="media-body">
+		<h3 class="media-heading">
+			<a href="https://www.jair.org/index.php/jair/article/view/11396">
+				A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems
+			</a>
+		</h3>
+
+		
+							<div class="meta">
+											<div class="authors">
+							Felipe Leno Da Silva, Anna Helena Reali Costa
+						</div>
+									</div>
+			
+									<div class="btn-group" role="group">
+									
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11396/26482">
+
+		
+	PDF
+
+	</a>							</div>
+<!--
+<ul class="galleys_links">
+															<li>
+			
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11396/26482">
+
+		
+	PDF
+
+	</a>		</li>
+	</ul>
+<ul class="galleys_links">
+															</ul>
+-->
+												</div>
+
+	
+</div><!-- .article-summary -->	    			
+<div class="article-summary media">
+	
+	<div class="media-body">
+		<h3 class="media-heading">
+			<a href="https://www.jair.org/index.php/jair/article/view/11395">
+				Computing and Explaining Query Answers over Inconsistent DL-Lite Knowledge Bases
+			</a>
+		</h3>
+
+		
+							<div class="meta">
+											<div class="authors">
+							Meghyn Bienvenu, Camille Bourgaux, François Goasdoué
+						</div>
+									</div>
+			
+									<div class="btn-group" role="group">
+									
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11395/26481">
+
+		
+	PDF
+
+	</a>							</div>
+<!--
+<ul class="galleys_links">
+															<li>
+			
+
+	
+		
+
+<a class="galley-link btn btn-primary pdf" role="button" href="https://www.jair.org/index.php/jair/article/view/11395/26481">
+
+		
+	PDF
+
+	</a>		</li>
+	</ul>
+<ul class="galleys_links">
+															</ul>
+-->
+												</div>
+
+	
+</div><!-- .article-summary -->	            </div>
+    </div><!-- .issue-toc -->			<a href="https://www.jair.org/index.php/jair/issue/archive" class="btn btn-primary read-more">
+				<!--View All Issues-->
+                                View All Volumes
+				<span class="glyphicon glyphicon-chevron-right"></span>
+			</a>
+		</section>
+	
+		</div><!-- .page -->
+
+
+	</main>
+
+				
+					<aside id="sidebar" class="pkp_structure_sidebar left col-xs-12 col-sm-4 col-md-4" role="complementary" aria-label="Sidebar">
+				<div class="pkp_block block_custom" id="customblock-News">
+	<div class="content">
+		<div class="sidebar-widget-header">NEWS</div>
+<p><a href="https://jair.org/index.php/jair/navigationMenu/view/News">Comments Welcome on New Site</a></p>
+<p><a href="/index.php/jair/navigationMenu/view/News#support-jair-holidays">Help Support JAIR</a></p>
+<p><a href="/index.php/jair/navigationMenu/view/specialtrack_dlkrr">New Special Track on Deep Learning, Knowledge Representation, and Reasoning</a></p>
+<p><a href="http://jair.org/index.php/jair/navigationMenu/view/SpecialTrack-AIandSociety">New Special Track on AI &amp; Society</a></p>
+	</div>
+</div><div class="pkp_block block_custom" id="customblock-Submission">
+	<div class="content">
+		<div class="sidebar-widget-header">SUBMISSIONS&nbsp;</div>
+<p>JAIR invites submissions in all areas of AI. Articles published in JAIR must meet the highest quality standards as measured by originality and significance of the contribution.</p>
+<p><a href="/index.php/jair/about/submissions">Submit an Article</a></p>
+	</div>
+</div><div class="pkp_block block_custom" id="customblock-AfiliatedSites">
+	<div class="content">
+		<div class="sidebar-widget-header">AI ACCESS FOUNDATION</div>
+<p><img class="aiaccess-item" src="/public/site/images/pkpadmin/aiaccess2.jpg" alt=""></p>
+<p class="aiaccess-item">JAIR is published by&nbsp;AI Access Foundation,&nbsp;a nonprofit public charity whose purpose is to facilitate the dissemination of scientific results in artificial intelligence. JAIR, established in 1993, was&nbsp;one of the first open-access scientific journals on the Web, and has been a leading publication venue since its inception.&nbsp;We invite you to check out our other initiatives.</p>
+<p><a href="http://aiaccess.org/">Learn more</a></p>
+	</div>
+</div><div class="pkp_block block_make_submission">
+	<div class="content">
+		<a class="block_make_submission_link" href="https://www.jair.org/index.php/jair/about/submissions">
+			Make a Submission
+		</a>
+	</div>
+</div>
+			</aside><!-- pkp_sidebar.left -->
+				</div><!-- pkp_structure_content -->
+
+	<footer class="footer" role="contentinfo">
+
+		<div class="container">
+
+			<div class="row">
+								<div class="col-md-10">
+					<p><a title="FAQ" href="http://jair.org/index.php/jair/faq">FAQ</a>&nbsp; &nbsp;|&nbsp;&nbsp;&nbsp;<a title="Mailing List" href="http://mailman.isi.edu/mailman/listinfo/jairsubscribers">Mailing List</a>&nbsp; |&nbsp;&nbsp;&nbsp;<a title="Donate to JAIR" href="http://jair.org/index.php/jair/donation">Donate to JAIR</a>&nbsp; |&nbsp; &nbsp;<a title="Follow us on Twitter" href="https://twitter.com/JAIR_Editor">Follow us on Twitter</a><br><br>© Copyright 1993-2017 AI Access Foundation, Inc.</p>
+				</div>
+				
+				<div class="col-md-2" role="complementary">
+					<a href="">
+						<img class="img-responsive" alt="Public Knowledge Project" src="https://www.jair.org/templates/images/ojs_brand.png">
+					</a>
+				</div>
+
+			</div> <!-- .row -->
+		</div><!-- .container -->
+	</footer>
+</div><!-- pkp_structure_page -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js" type="text/javascript"></script><script src="https://www.jair.org/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js" type="text/javascript"></script><script src="https://www.jair.org/plugins/themes/bootstrap3/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Note taking - EduTech Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Note_taking","wgTitle":"Note taking","wgCurRevisionId":62047,"wgRevisionId":62047,"wgArticleId":3043,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognitive tools","Research methodologies","Writing","Knowledge and idea management"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Note_taking","wgRelevantArticleId":3043,"wgRequestId":"85a1cd7eb4e2e2e916702dd4","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"srfFilteredConfig":null,"sdgDownArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/right-arrow.png","wgHeaderTabsTabIndexes":[],"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/mediawiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","openlayers","googlemaps3"],"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.vector.styles.responsive":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1wt4m49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.wikilog","ext.headertabs","ext.headertabs.large","ext.categoryTree","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.responsive&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rdf+xml" title="Note taking" href="/mediawiki/index.php?title=Special:ExportRDF/Note_taking&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="EduTech Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//edutechwiki.unige.ch/mediawiki/api.php?action=rsd"/>
+<link rel="license" href="/en/EduTech_Wiki:Copyrights"/>
+<!--[if lt IE 9]><script src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Note_taking rootpage-Note_taking skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Note taking</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From EduTech Wiki</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Note_taking_methods"><span class="tocnumber">2</span> <span class="toctext">Note taking methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#The_Cornell_method"><span class="tocnumber">2.1</span> <span class="toctext">The Cornell method</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#SQ3R"><span class="tocnumber">2.2</span> <span class="toctext">SQ3R</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Concept_maps_and_mind_maps"><span class="tocnumber">2.3</span> <span class="toctext">Concept maps and mind maps</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Charting"><span class="tocnumber">2.4</span> <span class="toctext">Charting</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Critical_Web_Reader"><span class="tocnumber">2.5</span> <span class="toctext">Critical Web Reader</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Finding_notes"><span class="tocnumber">3</span> <span class="toctext">Finding notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Links"><span class="tocnumber">4</span> <span class="toctext">Links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Notetaking_tools"><span class="tocnumber">4.1</span> <span class="toctext">Notetaking tools</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#General_links_and_methods"><span class="tocnumber">4.2</span> <span class="toctext">General links and methods</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Article_deconstruction"><span class="tocnumber">4.3</span> <span class="toctext">Article deconstruction</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition"><span class="mw-headline-number">1</span> Definition</span></h2>
+<p><b>Note taking</b> (or <b>notetaking</b>)  is the practice of writing down pieces of information in a systematic way.
+</p><p><a href="/en/User:DSchneider" class="mw-redirect" title="User:DSchneider">DSchneider</a> has the impression that Note taking includes the following:
+</p>
+<ul><li>Taking notes in a lecture or a discussion</li>
+<li>Taking notes in a lecture + processing/annotating/rewriting these notes</li>
+<li>Taking notes from reading / on the Web in some systematic way.</li></ul>
+<p>See also: <a href="/en/Literature_review" title="Literature review">literature review</a> (since before and during a literature review, you may engage in note taking) and <a href="/en/Methodology_tutorial_-_finding_a_research_subject" title="Methodology tutorial - finding a research subject">Methodology tutorial - finding a research subject</a>
+</p>
+<h2><span class="mw-headline" id="Note_taking_methods"><span class="mw-headline-number">2</span> Note taking methods</span></h2>
+<h3><span class="mw-headline" id="The_Cornell_method"><span class="mw-headline-number">2.1</span> The Cornell method</span></h3>
+<p>The "Cornell method" has been designed for classroom note taking and it includes post-processing.
+</p><p>According to the <a class="external text" href="http://tntt.sourceforge.net/wiki/index.php/Cornell_note-taking_method">TNTT Wiki</a> (<span style="&quot;class=&quot;comment&quot;">retrieved, 17:17, 15 September 2006 (MEST)</span>)
+</p>
+<div style="padding:2px;border-style:dotted;border-width:thin;margin-left:1em;margin-right:1em;margin-top:0.5ex;margin-bottom:0.5ex;">
+<p>The Cornell method is probably the most useful method for students at university. It was devised 40 years ago by Walter Pauk, a lecturer at Cornell University in the United States, for his students. This method is used by dividing the paper in two columns. The first column is used to enter key or cue words while the second is the notes column (for recording ideas and facts). There are six steps to Cornell note-taking:
+</p>
+<ul><li><b>Record</b> During the lecture, <i>record</i> as many facts and ideas as possible in the notes column.</li>
+<li><b>Reduce</b> After the lecture, read through the notes taken and <i>reduce</i> to key words and phrases, or questions. The key words and phrases are used as cues to help recall the ideas and facts. The questions are to add clarity to the facts and ideas.</li>
+<li><b>Recite</b> Using only the key words, phrases and questions in the cue word column <i>recite</i> the ideas and facts in the notes column. It is important that you are not just mechanically repeating, but using your own words.</li>
+<li><b>Reflect</b> Based on the facts and ideas learnt, <i>reflect</i> upon how this fits in with what you already know, and how this knowledge can be applied.</li>
+<li><b>Review</b> On a frequent basis, <i>review</i> your past notes by reciting and reflecting upon them.</li>
+<li><b>Recapitulate</b> After you have reduced, recited and reflected upon your note, you should <i>recapitulate</i> each main idea using complete sentences at the bottom of the key word column.</li></ul></div>
+<h3><span class="mw-headline" id="SQ3R"><span class="mw-headline-number">2.2</span> SQ3R</span></h3>
+<p>SQ3R is a note taking method from readings
+</p><p>According to <a class="external text" href="http://www.education.ex.ac.uk/dll/studyskills/note_taking_skills.htm">Note taking skills - from lectures and readings</a> website (retrieved 13:17, 2 March 2009 (UTC)):
+</p><p><br />
+</p>
+<div style="padding:2px;border-style:dotted;border-width:thin;margin-left:1em;margin-right:1em;margin-top:0.5ex;margin-bottom:0.5ex;">
+<p>Rowntree (1976: 40-64) outlines what he calls the 'SQ3R' approach to reading and note taking from text.  He suggests that students should use the following activities in order to get the most from a reading in the most efficient way.
+</p>
+<ol><li><b>Survey</b> - flip through the chapter or book and note the layout, first and last chapters or paragraphs, look at the headings used, familiarise yourself with the reading.</li>
+<li><b>Question</b> - Ask questions about the way the reading is structured and think about the questions you will need to keep in mind while reading.  Think about whether or not you think the book is relevant or if it's current and if it suits the purpose of your study.</li>
+<li><b>Read</b> - read actively but quickly, looking for the main points of the reading - don't take any notes - you might want to read through twice quickly.</li>
+<li><b>Recall</b> - Write down the main points of the reading and any really important facts, and opinions that help support the main points.  Also record the bibliographic details.</li>
+<li><b>Review</b> - repeat the first three steps over and make sure you haven't missed anything.  At this point you might like to finalise your notes and re-read your notes or write down how the material you've just covered relates to your question or task.</li></ol></div>
+<h3><span class="mw-headline" id="Concept_maps_and_mind_maps"><span class="mw-headline-number">2.3</span> Concept maps and mind maps</span></h3>
+<p>The idea is to map out concepts, either as they are found or received or during the <i>Review</i> process in the Cornell or SQ3R method.
+</p>
+<ul><li><a href="/en/Mind_map" title="Mind map">Mind maps</a> (i.e. hierarchical trees) can be used to take lecture notes in real time, but more often to organize concepts into a hierarchical tree.</li>
+<li><a href="/en/Concept_map" title="Concept map">concept maps</a> allow to visualize more complex relationships between different concepts. They allow for example to integrate old and new knowledge and to construct a representation of a complex concept. Finally, concept maps also can be used a design tool. For example, after the initial literature review for a paper or a thesis, a student may create a <a href="/en/Conjecture_map" title="Conjecture map">conjecture map</a> that relates theory to design to observable process to outcomes.</li></ul>
+<h3><span class="mw-headline" id="Charting"><span class="mw-headline-number">2.4</span> Charting</span></h3>
+<p>Charting is method that helps to summarize the most important concepts found in articles and to identify implicit relations (what concepts go together and which authors). This concept charting technique uses a table with columns representing concepts and rows representing a text.
+</p>
+<table border="1">
+<tbody><tr>
+<th rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="5">
+<p>Concepts
+</p>
+</th></tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Articles
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Concept A
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Concept B
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Concept C
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Concept D
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>....
+</p>
+</th></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1
+</p>
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+<p>x
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>x
+</p>
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>x
+</p>
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+<p>x
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>x
+</p>
+</td>
+<td rowspan="1" colspan="1">
+</td></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>...
+</p>
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+<p>x
+</p>
+</td></tr></tbody></table>
+<dl><dt><b>Recommended procedure</b></dt>
+<dd>Step 1:  Read texts "diagonally", and just mark the most relevant concepts, theories, models, hypothesis, etc.</dd>
+<dd>Step 2:  Make a matrix of the most important concepts like above</dd>
+<dd>Step 3: Sort concepts. Keep the most important ones, unite the similar ones and throw away the ones you won't need (the theory part must support the empirical part, nothing else)</dd>
+<dd>Step 4: Write ...</dd></dl>
+<p>Since normal paper is not wide enough, <a href="/en/User:DSchneider" class="mw-redirect" title="User:DSchneider">DSchneider</a> thinks that one should use either a huge sheet of page (flip chart size) or use a word processor or spreadsheet.
+</p>
+<h3><span class="mw-headline" id="Critical_Web_Reader"><span class="mw-headline-number">2.5</span> Critical Web Reader</span></h3>
+<p><span style="background-color:#eeeeee" class="citation">&#8220;The <i>Critical Web Reader</i>&#8221;</span> is a set of Web-based literacy and technology tools designed to guide teachers and students to critically evaluate Web-based texts and technologies. Within the CRW, teachers create activities which direct students to explore one or more websites through a series of “lenses”. Lenses include sets of questions, tips, and suggestions to guide readers to examine websites from multiple perspectives.
+(<a class="external text" href="http://cwr.indiana.edu/">CRW web site</a>, retrieved 14:04, 22 April 2009 (UTC).
+</p><p>There exist four standard "lenses":
+</p>
+<ul><li>Descriptive lens: Includes the three following main questions: (1) What do I first notice about this site&#160;?, (2) What useful information can I identify? (headings, topic sentences, images, photos sound clips, videos) (3) What does this site tell me about the: author, sponsor, intended audience.</li>
+<li>Academic lens: (1) What is this site about&#160;?, (2) What do I already know about the topic? (3) What claims does the author/creator make? (4) What evidence is used to support these claims&#160;? (Facts, Statistics, Examples, Quotations, Testimonials). (5) Are the claims and evidence convincing?</li>
+<li>Critical lens: ...</li>
+<li>Reflective lens: ...</li></ul>
+<p>Currently (May 2009) this web tool is avaible for teachers and their classes upon request. Registered websites can be viewed through a lens: guiding questions are to the left and relate to the website viewed in the main frame. Blue prompts may be clicked on to view definitions and examples. Student responses can be entered through a the reader notes area at the bottom.
+</p><p>The theorectical foundations of the "lenses model" is literacy understood as socially situated practices, disciplined inquiry in social studies, and new literacies. It is mapped to Green's (1988) conceptual model with its three dimensions: the operational, academic, and critical.
+</p>
+<ul><li>The operational dimension <span style="background-color:#eeeeee" class="citation">&#8220;places an emphasis on the literacy skills and strategies that students need to cultivate "in order to operate effectively in specific contexts" (Green, 1988:160).&#8221;</span> (Damico, 2006).</li>
+<li><span style="background-color:#eeeeee" class="citation">&#8220;The academic dimension focuses on the ways that readers create meanings that are appropriate and relevant to subject-specific literacy practices&#8221;</span> (Damico, 2006).</li>
+<li><span style="background-color:#eeeeee" class="citation">&#8220;The critical dimension emphasizes how readers develop an awareness of the ways that texts function ideologically; that is, how texts reflect the values, perspectives and interests of particular groups.&#8221;</span> (Damico, 2006).</li></ul>
+<p>From this general three dimensions model, the authors then formulate an operational conceptual model for guided web page reading:
+</p>
+<div style="padding:2px;border-style:dotted;border-width:thin;margin-left:1em;margin-right:1em;margin-top:0.5ex;margin-bottom:0.5ex;">
+<ol><li>Operational
+<ol><li>Identifying and sorting the components of the Web page (e.g., an initial descriptive reading of the range of texts and links contained on the site);</li>
+<li>Locating key information on the site by scanning for headings and topic sentences;</li>
+<li>Determining credibility of author(s) or creator(s) of site (e.g., Who are they? What are their educational, political, commercial affiliations?); and considering the intended audience;</li>
+<li>Choosing whether to examine the site more closely or to move on to another site.</li></ol></li>
+<li>Academic
+<ol><li>Identifying and drawing upon relevant prior knowledge;</li>
+<li>Evaluating claims and evidence within the site; and</li>
+<li>Checking and cross-checking claims and evidence from other Web sites and sources to build contextualized interpretations.</li></ol></li>
+<li>Critical
+<ol><li>Determining perspectives included and omitted in the site;</li>
+<li>Identifying techniques (such as loaded words, use of provocative images, links to highly reputable Web sites, etc.) that author/creator uses to try to influence readers;</li>
+<li>Considering how one's own beliefs, values, perspectives, prejudices, etc. shape one's reading.</li></ol></li></ol></div><p> (<a class="external text" href="http://www.thenjournal.org/feature/92/">Damico et al.</a>, 2006), retrieved 14:04, 22 April 2009 (UTC).
+</p><p>The last step in implementing this model was to phrase the questions used to prompt learners in the tool. However, teachers are to build ad-hoc lenses or  built on other conceptual models...
+</p>
+<h2><span class="mw-headline" id="Finding_notes"><span class="mw-headline-number">3</span> Finding notes</span></h2>
+<p>See <a href="/en/Indexing" title="Indexing">indexing</a> (some note taking software has built-in indexing tools).
+</p><p>If you use a wiki or blog for note taking you may use <a href="/en/Tagging" title="Tagging">tags</a>, called categories in this wiki. 
+</p>
+<h2><span class="mw-headline" id="Links"><span class="mw-headline-number">4</span> Links</span></h2>
+<h3><span class="mw-headline" id="Notetaking_tools"><span class="mw-headline-number">4.1</span> Notetaking tools</span></h3>
+<p>Note taking tools are a specific form of <a href="/en/Cognitive_tool" title="Cognitive tool">cognitive tool</a>, see also <a href="/en/Writing_tool" title="Writing tool">writing tools</a> for an overview on different genres of writing tools.
+</p><p>For a better list of tools, see <a class="external text" href="http://en.wikipedia.org/wiki/Comparison_of_notetaking_software">Comparison of notetaking software</a> (Wikipedia).
+</p>
+<dl><dt>Paper</dt></dl>
+<ul><li>See <a href="/en/Paper" title="Paper">paper</a></li></ul>
+<dl><dt>Stand-alone programs</dt></dl>
+<ul><li><a class="external text" href="http://tntt.sourceforge.net/">The Note Taking tool (TNTT)</a>: The Note Taking Tool (TNTT), which started life as a University project, has now grown up and become open source! TNTT is a note-taking application tailored for use by students in academic environments. It helps students maximize the potential of their note-taking by guiding them through the Cornell method.</li></ul>
+<ul><li><a class="external text" href="http://sourceforge.net/projects/notalon/">Notalon: An Open-Source Cornell Notes Application</a></li></ul>
+<ul><li><a href="/en/Scribe_note-taking_application" title="Scribe note-taking application">Scribe note-taking application</a></li></ul>
+<ul><li><a class="external text" href="http://www.sommestad.com/lm__index2.htm">The Literary machine</a> <span style="background-color:#eeeeee" class="citation">&#8220; is a dynamic archive and an idea management tool aimed at creative thinking - built especially with the writer in mind. It is packed with indexing and display techniques so general and potent that you will use it as an intelligence center.&#8221;</span> (There is a freeware version)</li></ul>
+<ul><li><a class="external text" href="http://softwarebybrian.com/cms/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=2">Text Block Writer</a> <span style="background-color:#eeeeee" class="citation">&#8220; is a virtual index card program for writers.  It can be used to organize research papers, articles, fiction, non-fiction, books and whatever related to writing.  It is intended for people like me who use paper index cards to write all the notes and pieces of an essay, and then arrange the pieces and then use that to type them into the computer.&#8221;</span></li></ul>
+<ul><li><a class="external text" href="http://www.education-world.com/a_lesson/03/lp322-04.shtml">Graphic Organizer: Research Note Taking Made Easy</a>. This is a rtf (word) template.</li></ul>
+<ul><li><a class="external text" href="http://www.jhorman.org/wikidPad/">WikiPad</a>. This looks like a wiki for individual use, but there are some extra features (not tested / DKS).</li></ul>
+<ul><li><a href="/en/Zotero" title="Zotero">Zotero</a> is a free, fairly easy-to-use Firefox extension to help you collect, manage, and cite your research source <b>and</b> take notes.</li></ul>
+<ul><li><a class="external text" href="http://www.capturesaver.com/capturesaver/index.htm">CaptureSaver</a>. lets you download web pages and save them into an off-line research and reference library while you are surfing the Internet.</li></ul>
+<dl><dt>Collaborative scribbling and annotation tools</dt></dl>
+<ul><li>See the <a href="/en/Tablet_PC" title="Tablet PC">tablet PC</a> article for such applications, there exist several very interesting applications for teaching and learning such as <a href="/en/Freestyler" title="Freestyler">Freestyler</a>, <a href="/en/Classroom_Presenter" title="Classroom Presenter">Classroom Presenter</a> and <a href="/en/Group_Scribbles" title="Group Scribbles">Group Scribbles</a>.</li>
+<li>The most well known commercial product for tablet PC note taking is probably Microsoft <a class="external text" href="http://office.microsoft.com/en-us/onenote/">OneNote</a></li></ul>
+<dl><dt>On-line and multi-platform tools</dt></dl>
+<ul><li>See also the <a href="/en/On-screen_annotation" title="On-screen annotation">on-screen annotation</a> and <a href="/en/List_of_web_2.0_applications" title="List of web 2.0 applications">list of web 2.0 applications</a>, there may be other entries. Almost any writing tool can be used to take notes. Below are just some that appear in "note taking" lists. Some tools (e.g. Evernote) also have desktop applications.</li></ul>
+<ul><li><a class="external text" href="http://cwr.indiana.edu/">Critical Web reader</a> (open for classes upon request).</li></ul>
+<ul><li><a class="external text" href="http://stu.dicio.us/">stu.dicio.us</a>. On-line notetaking, note sharing. Autolinks to Wikipedia and Google. Interface with Facebook, etc. It's a <a href="/en/Social_software" title="Social software">social software</a></li></ul>
+<ul><li><a class="external text" href="http://evernote.com/">Evernote</a> (and similar tools) all to capture anything, share it and find it. Quote: "Evernote makes it easy to remember things big and small from your everyday life using your computer, phone, tablet and the web." There is a free version as well as pro versions.</li></ul>
+<ul><li><a class="external text" href="https://flipboard.com/">Flipboard</a>, an alternative to Evernote.</li></ul>
+<ul><li><a href="/en/Wiki" title="Wiki">Wikis</a>. Most entries in <b>this</b> wiki are just note takings (12:55, 21 September 2006 (MEST)). Some wikis can run on your personal computer and only need moderate installation skills. Currently (feb 2009) we think that <a class="external text" href="http://www.splitbrain.org/projects/dokuwiki">Dokuwiki</a> is the best light-weight system. You do need to install a <a href="/en/WAMP" title="WAMP">WAMP</a> server first though. Otherwise, you also may consider using a <a class="external text" href="http://edutechwiki.unige.ch/en/Wiki#Wiki_hosting%7Conline">wiki service</a> such as pbWiki, wikispaces or deki.</li></ul>
+<ul><li><a href="/en/C3MS" title="C3MS">C3MS</a>, i.e. community portals, for example <a class="external text" href="http://designedtoinspire.com/drupal/node/398">Jennifer Maddrell</a> extends this to create <a href="/en/Electronic_portfolio" title="Electronic portfolio">electronic portfolio</a>-like systems</li></ul>
+<h3><span class="mw-headline" id="General_links_and_methods"><span class="mw-headline-number">4.2</span> General links and methods</span></h3>
+<ul><li><a class="external text" href="https://custom-writing.org/blog/note-taking">Note Taking Methods for Effective Learning: 40 Best Templates</a> by Jack Milgram, 2017.</li></ul>
+<ul><li><a class="external text" href="http://www.education.ex.ac.uk/dll/studyskills/note_taking_skills.htm">Note taking skills - from lectures and readings</a>, Department of Lifelong Learning: Study Skills Series, University of Exeter</li></ul>
+<ul><li><a class="external text" href="http://en.wikipedia.org/wiki/Note_taking">Wikipedia: Notetaking</a></li></ul>
+<ul><li><a class="external text" href="http://en.wikipedia.org/wiki/Cornell_Notes">Wikipedia: Cornell Notes</a></li></ul>
+<ul><li><a class="external text" href="http://en.wikipedia.org/wiki/SQ3R">Wikipedia: SQ3R</a> (webpage describing the method)</li></ul>
+<ul><li><a class="external text" href="http://www.clt.cornell.edu/campus/learn/LSC%20Resources/cornellsystem.pdf">Explanation of the Cornell note-taking system</a></li></ul>
+<ul><li><a class="external text" href="http://www.ic.arizona.edu/ic/wrightr/other/sq3r.html">The SQ3R Method</a>(webpage describing the method)</li></ul>
+<ul><li><a class="external text" href="http://ucc.vt.edu/academic_support/study_skills_information/sq3r_reading-study_system.html">SQ3R - Reading/Study System</a> (Virginia Tech).</li></ul>
+<h3><span class="mw-headline" id="Article_deconstruction"><span class="mw-headline-number">4.3</span> Article deconstruction</span></h3>
+<ul><li><a class="external text" href="http://jeromyanglim.blogspot.com.au/2009/09/introduction-to-journal-article.html">Introduction to Journal Article Deconstruction</a>, by Jeromy Anglim's,Saturday, September 19, 2009 and all his <a class="external text" href="http://jeromyanglim.blogspot.ch/search/label/Article%20Deconstruction">related posts</a></li></ul>
+<h2><span class="mw-headline" id="References"><span class="mw-headline-number">5</span> References</span></h2>
+<ul><li>Bauer, A. &amp; Koedinger, K. (2005). Designing an Online Note Taking Tool from the Ground Up. In P. Kommers &amp; G. Richards (Eds.), Proceedings of World Conference on Educational Multimedia, Hypermedia and Telecommunications 2005 (pp. 4181-4186). Chesapeake, VA: AACE. <a class="external text" href="http://www.editlib.org/index.cfm?fuseaction=Reader.ViewAbstract&amp;paper_id=20734">Abstract/HTML/PDF</a></li></ul>
+<ul><li>Boch, Françoise and Annie Piolat, Note Taking and Learning, A Summary of Research, <i>The WAC Journal</i> <a class="external text" href="http://wac.colostate.edu/journal/vol16/boch.pdf">PDF</a> (Recommended overview article).</li></ul>
+<ul><li>Damico, J., Baildon, M., Campano, G. (2006). Integrating literacy, technology and disciplined inquiry in social studies: The development and application of a conceptual model. THEN: Journal. <a class="external text" href="http://www.thenjournal.org/feature/92/">HTML</a> (Open access).</li></ul>
+<ul><li>Exter, Marisa E.; Ying Wang, Max F. Exter, and James S. Damico (2009). Designing a Tool to Support Critical Web Reading, <i>TechTrends</i>, 53 (1), 23-28. <a class="external text" href="http://www.springerlink.com/content/xq6u4324nru68902">Abstract/PDF</a></li></ul>
+<ul><li>Green, B. (1988). Subject-specific literacy and school learning: A focus on writing. Australian Journal of Education, 32(2), 156-179.</li></ul>
+<ul><li>Robinson, Francis Pleasant. (1970) Effective study (4th ed.). New York: Harper &amp; Row.</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20190401182341
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.042 seconds
+Real time usage: 0.044 seconds
+Preprocessor visited node count: 145/1000000
+Preprocessor generated node count: 350/1000000
+Post‐expand include size: 9751/2097152 bytes
+Template argument size: 8793/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+ExtRegexFun count: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    6.786      1 -total
+ 39.01%    2.647      3 Template:Quotationbox
+ 26.38%    1.790      6 Template:Quotation
+ 20.40%    1.384      1 Template:Retr
+-->
+</div>
+<!-- Saved in parser cache with key edutechwiki_en:pcache:idhash:3043-0!canonical and timestamp 20190401182341 and revision id 62047
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://edutechwiki.unige.ch/mediawiki/index.php?title=Note_taking&amp;oldid=62047">http://edutechwiki.unige.ch/mediawiki/index.php?title=Note_taking&amp;oldid=62047</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/en/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/en/Category:Cognitive_tools" title="Category:Cognitive tools">Cognitive tools</a></li><li><a href="/en/Category:Research_methodologies" title="Category:Research methodologies">Research methodologies</a></li><li><a href="/en/Category:Writing" title="Category:Writing">Writing</a></li><li><a href="/en/Category:Knowledge_and_idea_management" title="Category:Knowledge and idea management">Knowledge and idea management</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Note+taking" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/en/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/en/Note_taking" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/mediawiki/index.php?title=Talk:Note_taking&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/en/Note_taking">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/mediawiki/index.php?title=Note_taking&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=Note_taking&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Slow Search</label>
+						</h3>
+						<form action="/mediawiki/index.php" id="searchform">
+							<div>
+								<input type="search" name="search" placeholder="Search EduTech Wiki" title="Search EduTech Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/en/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-TEST" aria-labelledby="p-TEST-label">
+			<h3 id="p-TEST-label">TEST</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Navigation_and_help" aria-labelledby="p-Navigation_and_help-label">
+			<h3 id="p-Navigation_and_help-label">Navigation and help</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Mainpage"><a href="/en/Main_Page">Main Page</a></li><li id="n-recentchanges"><a href="/en/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-about"><a href="/en/EduTech_Wiki:About">About</a></li><li id="n-randompage"><a href="/en/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li><li id="n-Editing-rules"><a href="/en/Help:Editing_rules">Editing rules</a></li><li id="n-Blog:DKS"><a href="/en/Blog:DKS">Blog:DKS</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-categorytree-portlet" aria-labelledby="p-categorytree-portlet-label">
+			<h3 id="p-categorytree-portlet-label">Categories</h3>
+			<div class="body">
+				<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Citizen_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Citizen_science">Citizen science</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Design_and_research_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Design_and_research_methods">Design and research methods</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Education_and_instruction" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Education_and_instruction">Education and instruction</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technologies">Educational technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technology_-_the_field" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technology_-_the_field">Educational technology - the field</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Position_paper">Position paper</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Psychology_and_learning" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Psychology_and_learning">Psychology and learning</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Socio-political_and_organization" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Socio-political_and_organization">Socio-political and organization</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Special_contents" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Special_contents">Special contents</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Technologies">Technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Tutorials" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Tutorials">Tutorials</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		</div>
+					</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Note+taking">Create a book</a></li><li id="coll-download-as-rl"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Note+taking&amp;returnto=Note+taking&amp;oldid=62047&amp;writer=rl">Download as PDF</a></li><li id="t-print"><a href="/mediawiki/index.php?title=Note_taking&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/en/Special:WhatLinksHere/Note_taking" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/en/Special:RecentChangesLinked/Note_taking" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/en/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/mediawiki/index.php?title=Note_taking&amp;oldid=62047" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/mediawiki/index.php?title=Note_taking&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/mediawiki/index.php?title=Special:CiteThisPage&amp;page=Note_taking&amp;id=62047" title="Information on how to cite this page">Cite this page</a></li><li id="t-smwbrowselink"><a href="/en/Special:Browse/:Note-5Ftaking" rel="search">Browse properties</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Big_brother" aria-labelledby="p-Big_brother-label">
+			<h3 id="p-Big_brother-label">Big brother</h3>
+			<div class="body">
+								<ul>
+					<li id="n-New-Pages"><a href="/en/Special:NewPages">New Pages</a></li><li id="n-contributionscores"><a href="/en/Special:ContributionScores">Contribution scores</a></li><li id="n-Popular-Pages"><a href="/en/Special:Popularpages">Popular Pages</a></li><li id="n-Who-is-online-.3F"><a href="/en/Special:WhosOnline">Who is online ?</a></li><li id="n-Version"><a href="/en/Special:Version">Version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-TECFA_Links" aria-labelledby="p-TECFA_Links-label">
+			<h3 id="p-TECFA_Links-label">TECFA Links</h3>
+			<div class="body">
+				<div class="sidebar_banner"><a href="http://tecfa.unige.ch/"><img title="TECFA - Educational Technology Unit - UniGE" alt="TECFA - Educational Technology Unit - Home page" src="/mediawiki/tecfa/TECFAlogoArtNoText.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/maltt"><img title="Master of Science in Learning and Teaching Technologies" alt="Master of Science in Learning and Teaching Technologies" src="/mediawiki/tecfa/LOGO_MALTT.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/formcont/"><img title="Certificate of Advanced Studies (CAS): Conception et développement de projets e-learning, Journées thématiques, TECFA, FPSE, Université de Genève" alt="Cours de formation continue offerts par TECFA, Université de Genève: CAS - Conception et développement de projets e-learning, Application des normes du e-learning, Réalisation de vidéos pédagogiques, Introduction HTML5 et CSS, Coordination des formations en ligne, Traitement de ressources multimédia, Activités pédagogiques avec Captivate" src="/mediawiki/tecfa/fclogored.png" /></a></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Page last modified 18:51, 4 May 2017.</li>
+								<li id="footer-info-copyright">By default, content is protected by a <a href="/en/EduTech_Wiki:Copyrights" title="EduTech Wiki:Copyrights">CC BY-NC-SA Licence</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/en/EduTech_Wiki:Privacy_policy" title="EduTech Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/en/EduTech_Wiki:About" title="EduTech Wiki:About">About EduTech Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/en/EduTech_Wiki:General_disclaimer" title="EduTech Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/mediawiki/tecfa/somerights.png" alt="CC BY-NC-SA Licence" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/mediawiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /mediawiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+										<li id="footer-monitoredbyico">
+						<a href="http://wikiapiary.com/wiki/EduTech_Wiki_(en)"><img src="/mediawiki/tecfa/Monitored_by_WikiApiary.png" alt="Monitored by WikiApiary" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.042","walltime":"0.044","ppvisitednodes":{"value":145,"limit":1000000},"ppgeneratednodes":{"value":350,"limit":1000000},"postexpandincludesize":{"value":9751,"limit":2097152},"templateargumentsize":{"value":8793,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    6.786      1 -total"," 39.01%    2.647      3 Template:Quotationbox"," 26.38%    1.790      6 Template:Quotation"," 20.40%    1.384      1 Template:Retr"]},"cachereport":{"timestamp":"20190401182341","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7586057-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":116});});</script>
+	</body>
+<!-- Cached/compressed 20190401182341 -->
+</html>

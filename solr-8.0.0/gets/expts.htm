@@ -1,0 +1,1640 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<html>
+	<head>
+	<title>Online Social Psychology Studies</title>
+	<META HTTP-EQUIV="Content-Type" content="text/html; charset=utf-8">
+	
+<meta name="keywords" content="psychology experiments, psychological research, online studies, surveys, questionnaires, social, personality, network, online, experiment, experiments, interpersonal, perception">
+<meta name="description" content="Web-based research experiments related to social psychology">
+<link rel="alternate" type="application/rss+xml" title="Psychology Headlines Around the World" href="http://www.socialpsychology.org/headlines.rss">
+<link rel="alternate" type="application/rss+xml" title="Psychology Job Forum" href="http://www.socialpsychology.org/feed.rss?type=jobforum">
+<link rel="alternate" type="application/rss+xml" title="Online Social Psychology Studies" href="http://www.socialpsychology.org/feed.rss?type=studylinks">
+<link rel="alternate" type="application/rss+xml" title="Psychology Student Discussion Forum" href="http://www.socialpsychology.org/feed.rss?type=studentforum">
+<link rel="alternate" type="application/rss+xml" title="Psychology Professional Discussion Forum" href="http://www.socialpsychology.org/feed.rss?type=professionalforum">
+<link rel="alternate" type="application/rss+xml" title="SPN Listserv Message Center" href="http://www.socialpsychology.org/feed.rss?type=listserv">
+<meta property="og:image" content="http://www.socialpsychology.org/images/SPNlogo-facebook.jpg"/>
+<link rel="image_src" href="http://www.socialpsychology.org/images/SPNlogo-facebook.jpg" />
+
+	<link rel="search" type="application/opensearchdescription+xml" title="Social Psychology Network" href="http://www.socialpsychology.org/client/search-plugin.xml">
+	<!-- This page Copyright 1996-2019, S. Plous -->
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" type="text/css" href="/css/old_print.css" media="print" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/css-style/component.css" />
+<link rel="stylesheet" href="//www.socialpsychology.org/css/old2.css?v=5" type="text/css" media="screen" title="no title" charset="utf-8">
+<link rel="stylesheet" type="text/css" href="/admin/contrib/ajaxtabs/ajaxtabs.css">
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+	<link rel="stylesheet" href="/scripts/lightbox/lightbox.css" type="text/css" media="screen" title="no title" charset="utf-8">
+
+	
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript" charset="utf-8"></script><style>
+.bt-wrapper {
+	color: black;
+	font-size: 12px;
+	font-family: helvetica;
+}
+</style>
+	<script src="/js/libs/jquery.bt.js"></script>
+	<script src="/scripts/jquery.lazyload.min.js"></script>
+	<script language="javascript" type="text/javascript">
+	$(function() {
+	    $("img.lazy").lazyload({
+	        event : "sporty",
+			threshold : 2000,
+			skip_invisible: false
+	    });
+	});
+
+	$(window).bind("load", function() {
+	    var timeout = setTimeout(function() { $("img.lazy").trigger("sporty") }, 1000);
+	});
+	</script>
+
+	<script language="javascript" type="text/javascript">
+
+		var jQueryLoaded = true, lightBoxClick = false;
+
+
+		// fade in content, settings screen
+		function alertBox(url) {
+
+			if(jQueryLoaded) {
+
+					var blackOverlay = $(document.createElement('div')).addClass("blackOverlay").css({'height': $(document).height()});
+
+					$(document.body).append('<div class="lightBox"><div class="lightBoxContent"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div class="t"><div class="b"><div class="l"><div class="r"><div><a class="close"></a><iframe src="' + url + '"></iframe></div></div></div></div></div></div></div></div></div></div></div>');
+					$(document.body).append(blackOverlay);
+
+					$(".lightBox").show().click(function() {
+
+						lightBoxClick = true;
+
+					});
+
+					$(".lightBox").find("a.close").click(function() {
+
+						$(".lightBox").remove();
+						$(".blackOverlay").remove();
+						$("body").unbind();
+
+					});
+
+					$("body").click(function() {
+
+						if(!lightBoxClick) {
+
+							$(".lightBox").remove();
+							$(".blackOverlay").remove();
+							$(this).unbind();
+
+						}
+
+					});
+
+				}
+		}
+
+		var img1 = new Image;
+		img1.src = "/images/nav_fav_box_o.gif";
+		var img2 = new Image;
+		img2.src = "/images/nav_directory_o.gif";
+		var img3 = new Image;
+		img3.src = "/images/send-message_o.gif";
+		var img4 = new Image;
+		img4.src = "/images/search-messages_o.gif";
+		var img5 = new Image;
+		img5.src = "/images/printview_o.gif";
+		var img6 = new Image;
+		img6.src = "/images/but_quicksearch.gif";
+		var img7 = new Image;
+		img7.src = "/images/ya_headsearch_o.gif";
+		var img8 = new Image;
+		img8.src = "/images/ya_headsearch_ao.gif";
+		var img10 = new Image;
+		img10.src = "/images/printview_o.gif";
+		var img10 = new Image;
+		img10.src = "/images/nav_forums_o.gif";
+
+		function rollover(target,imgName) {
+			if (document.images) {
+				imgchange = '/images/' + imgName + '.gif';
+				document[target].src = imgchange;
+				}
+		}
+
+		var isMajor = parseInt(navigator.appVersion);
+		var isMinor = parseFloat(navigator.appVersion);
+		var isNS = (document.layers);
+		var isIE = (document.all);
+		var isMoz = (document.getElementById)
+		var isMac = (navigator.appVersion.indexOf("Mac") != -1);
+		//swidth = screen.width;
+		//sheight = screen.height;
+		swidth = 800;
+		if (isMac && !isIE) {
+			swidth = document.documentElement.clientWidth;
+			sheight = document.height;
+		} else if (isMac) {
+			swidth = document.body.offsetWidth;
+			sheight = document.body.offsetHeight;
+		} else if (isNS && isMajor <= 4) {
+			swidth = screen.width;
+			sheight = screen.height;
+		} else if (isMoz && document.body) {
+			swidth = document.body.clientWidth;
+			sheight = screen.height;
+		} else if (isIE && document.body) {
+			swidth = document.body.offsetWidth;
+			sheight = document.body.offsetHeight;
+		} else if (document.width) {
+			swidth = document.width;
+			sheight = document.height;
+		} else if (document.body) {
+			if (document.body.clientWidth) {
+				swidth = document.body.clientWidth;
+				sheight = document.body.clientHeight;
+			} else if (document.body.offsetWidth) {
+				swidth = document.body.offsetWidth;
+				sheight = document.body.offsetHeight;
+			} else {
+				swidth = screen.width;
+				sheight = screen.height;
+			}
+		}
+		if (!swidth) {
+			swidth = 800;
+		}
+		showRight = false;
+		wideScreen = false;
+		columnWidth=22;
+		if (swidth >= 900) {
+			showRight = true;
+			columnWidth=22;
+		}
+		if (swidth >= 1200) {
+			wideScreen = true;
+			columnWidth=28;
+		}
+
+		function getMidWidth() {
+			midWidth = (swidth-197)*((100-columnWidth)/100);
+			midWidth = midWidth - 20
+			return 1;
+		}
+
+		winWidthStart = 0
+		function windload() {
+			if (document.body) {
+				winWidthStart = document.body.clientWidth;
+			}
+		}
+
+		function checkwindow() {
+			if (winWidthStart > 0 && document.body) {
+				temp = winWidthStart/document.body.clientWidth;
+				if (temp < .85) {
+					window.location.href = window.location.href;
+				}
+			}
+		}
+
+		var newwin;
+		function popup(y,z,j,k){
+			var itop=(screen.height/2)-(k/2) - 20;
+			var ileft=(screen.width/2)-(j/2);
+			temp = "width=" + j + ",height=" + k + ",screenX=" + ileft + ",screenY=" + itop + ",left=" + ileft + ",top=" + itop;
+			temp2 = "toolbar=0,location=0,directories=0,statusbar=0,menubar=0,scrollbars=1,resizable=1,"
+			newwin = window.open(y,z,temp2 + temp);
+			return false;
+		}
+
+		if (document.layers) {
+			document.writeln('<link rel="stylesheet" href="/style-ns.css">');
+		} else if (swidth >= 1200) {
+			document.writeln('<link rel="stylesheet" href="/style-lg.css">');
+		} else {
+			document.writeln('<link rel="stylesheet" href="/style-sm.css">');
+		}
+		</script>
+</head><body style="margin: 0;" onLoad="windload();">
+	<a name="top"></a>
+<!-- <table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="top"> -->
+
+<!-- <map name="logolinks">
+<area shape=rect coords="362,54,455,76" onClick="return trackSPNClick('link','41839','http://www.wesleyan.edu/');" href="http://www.wesleyan.edu/" target="_blank" alt="Wesleyan University" title="Wesleyan University">
+<area shape=rect coords="218,54,349,76" href="http://www.socialpsychology.org/plous.htm" alt="Scott Plous's Homepage">
+<area shape=rect coords="0,0,459,53" href="http://www.socialpsychology.org/" alt="Return to SPN Homepage">
+<area shape=rect coords="0,54,217,76" href="http://www.socialpsychology.org/" alt="Return to SPN Homepage">
+</map> -->
+
+<a href="http://www.socialpsychology.org"><img src="/images/topHeader/logo.png" id="logo" /></a>
+<div id="topHeader">
+	<h1><a href="http://www.socialpsychology.org/">Social Psychology Network</a></h1>
+	<h2><a href="//www.socialpsychology.org/plous.htm" target="_blank">Maintained by Scott Plous</a>, <a href="//www.wesleyan.edu" target="_blank">Wesleyan University</a></h2>
+
+		<ul style="top: 25px">
+
+		<li>
+			<a>Directories <span style="font-size: 10px;">&#x25BC;</span></a>
+			<ul>
+				<li><a href="//www.socialpsychology.org/profilesearch.htm">Professional Profiles</a></li>
+				<li><a href="//www.socialpsychology.org/directory">Social Media Directory</a></li>
+				<li><a href="//www.socialpsychology.org/membership-directory">Membership Directory</a></li>
+			</ul>
+		</li>
+		<li>
+			<a>Forums <span style="font-size: 10px;">&#x25BC;</span></a>
+			<ul>
+				<li><a href="//www.socialpsychology.org/forums.htm">Overview of Forums</a></li>
+				<li><a href="http://www.facebook.com/socialpsychology" target="_blank">SPN on Facebook</a></li>
+				<li><a href="//www.socialpsychology.org/forums/listservcenter.htm">Listserv Message Center</a></li>
+				<li><a href="//www.socialpsychology.org/forums/jobforum/">Job Posting Forum</a></li>
+				<li><a href="//www.socialpsychology.org/forums/addalink.htm">Add-a-Link Page</a></li>
+			</ul>
+		</li>
+		<li>
+			<!-- Maps! -->
+			<a>Maps <span style="font-size: 10px;">&#x25BC;</span></a>
+			<ul>
+				<li><a href="//www.socialpsychology.org/profilemap.htm">Profiled Experts</a></li>
+				<li><a href="//www.socialpsychology.org/maps/gradprograms/">Graduate Programs</a></li>
+				<li><a href="//www.socialpsychology.org/maps/researchgroups/">Research Groups</a></li>
+			</ul>
+		</li>
+		<!--
+		<li><a> <img src="http://plous.socialpsychology.org/photo.jpg"> <span style="font-size: 10px;">&#x25BC;</span></a>
+			<ul class="signin">
+				<li><a>My Account</a></li>
+				<li><a>View Profile</a></li>
+				<li><a>Sign Out</a></li>
+			</ul>
+		</li>
+			-->
+		<li style="padding-left: 0px;">
+			<a style="background: transparent url(/img/profile/14-gear.png) 13px 8px no-repeat;width:35px;padding-left: 37px;">
+				<span style="font-size: 10px;text-align: right;">▼</span>
+			</a>
+
+			<ul id="sessionDropdown"></ul>
+		</li>
+		<script>if(document.cookie.match("http_socialpsychology")) { document.getElementById("sessionDropdown").innerHTML = '<li><a href="https://www.socialpsychology.org/account">Account</a></li><li><a href="https://www.socialpsychology.org/logout">Sign out</a></li>'; } else { document.getElementById("sessionDropdown").innerHTML = '<li><a href="//www.socialpsychology.org/support.htm">Join</a></li><li><a href="https://www.socialpsychology.org/login">Sign in</a></li></ul>'; }</script>
+			<script type="text/javascript" language="javascript" src="/spn.js"></script>
+	</ul>
+	</div>
+
+<!-- end header begin main body table -->
+
+<!-- <div > -->
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="height: '100%';" id="sectionBody">
+<tr valign="top">
+
+	<td id="dynTD" style="width: 75%;">
+
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr valign="top">
+	<td width="202" id="lColumn">
+				<div class="leftColumn" id="leftColumnID" style="position:relative;">
+			<div class="topBarSwoosh" style="top: -43px;"></div>
+
+			
+			<div class="sideBox search">
+				<form action="http://www.socialpsychology.org/client/search-tabs.php" id="quicksearch"  onsubmit="if (this.searchterm.value.replace(/^\s+|\s+$/g, '') == '') { alert ('Please enter one or more keywords you wish to search for.'); return false;}">
+
+					<input type="search" name="searchterm" id="search" autosave="spnsearch" results="10" x-webkit-speech onwebkitspeechchange="$('.sideBox.search button').click()" />
+					<button class="old_button" type="submit">Search</button>
+
+					<select name="search" class="searchOptionsSelect">
+						<option value="simple">All Links</option>
+						<option value="books">Books</option>
+						<option value="journals">Journals</option>
+						<option value="articles">Articles</option>
+						<option value="software">Software</option>
+						<option value="courses">Courses</option>
+						<option value="people">People</option>
+						<option value="organizations">Organizations</option>
+					</select>
+					<a href="http://www.socialpsychology.org/asearch.htm" id="advancedSearch">Advanced</a>
+				</form>
+			</div>
+
+			<div class="sideBox partnerSites">
+				<h2>Partner Sites</h2>
+				<ul>
+					<li class="up"><span></span><a href="http://www.understandingprejudice.org/">Understanding Prejudice</a></li>
+					<li class="einterview"><span></span><a href="http://www.einterview.org/">eInterview</a></li>
+					<li class="at"><span></span><a href="http://www.actionteaching.org/">Action Teaching</a></li>
+					<li class="randomizer"><span></span><a href="http://www.randomizer.org/">Research Randomizer</a></li>
+					<li class="prisonexp"><span></span><a href="http://www.prisonexp.org/">Stanford Prison Experiment</a></li>
+					<li class="jigsaw"><span></span><a href="http://www.jigsaw.org/">The Jigsaw Classroom</a></li>
+					<li class="chemo"><span></span><a href="http://www.joechemo.org/">Joe Chemo</a></li>
+				</ul>
+				<div class="foot"></div>
+			</div>
+
+
+			<div class="sideBox psychOptions">
+				<h2>Social Psychology Pages</h2>
+				<ul>
+					<li><a href="//www.socialpsychology.org/social.htm" title="Social Psychology Topics">Social Psychology Topics</a></li>
+					<!-- <li><a href="/maps/gradprograms/" title="Graduate Programs">Graduate Programs</a></li> -->
+					<li><a href="//www.socialpsychology.org/journals.htm">Professional Journals</a></li>
+					<li><a href="//www.socialpsychology.org/teaching.htm">Teaching Resources</a></li>
+					<li><a href="//www.socialpsychology.org/texts.htm">Psychology Textbooks</a></li>
+					<li><a href="//www.socialpsychology.org/expts.htm">Online Psychology Studies</a></li>
+
+				</ul>
+				<div class="foot"></div>
+			</div>
+
+			<div class="sideBox otherOptions">
+				<h2>Other Psychology Pages</h2>
+				<ul>
+					<li><a href="//www.socialpsychology.org/psylinks.htm">Links by Psychology Area</a></li>
+					<li><a href="//www.socialpsychology.org/psych.htm">Organizations &amp; Conferences</a></li>
+					<li><a href="//www.socialpsychology.org/career.htm">Psychology Career Center</a></li>
+					<li><a href="//www.socialpsychology.org/ranking.htm">Ph.D. Program Rankings</a></li>
+					<li><a href="//www.socialpsychology.org/clinrank.htm">Clinical Psychology Programs</a></li>
+					<li><a href="//www.socialpsychology.org/distance.htm">Distance Learning and MOOCs</a></li>
+					<li><a href="//www.socialpsychology.org/blogs.htm">Blogs, Podcasts, and RSS</a></li>
+				</ul>
+				<div class="foot"></div>
+			</div>
+
+			<div class="about sideBox">
+				<h2>About the Network</h2>
+				<ul>
+					<li><a href="//www.socialpsychology.org/about.htm">History and Mission</a></li>
+					<li><a href="//www.socialpsychology.org/support.htm">Join or Donate to SPN</a></li>
+					<li><a href="//www.socialpsychology.org/financial.htm">Institutional Contributors</a></li>
+					<li><a href="//www.socialpsychology.org/membership-directory">Individual SPN Members</a></li>
+					<li><a href="//www.socialpsychology.org/endorsements/">Endorsements of the Network</a></li>
+					<li><a href="//www.socialpsychology.org/usage.htm">Site Usage Statistics</a></li>
+					<li><a href="//www.socialpsychology.org/policy.htm">SPN User Policy</a></li>
+					<li><a href="//www.socialpsychology.org/contact.htm">Contact Us</a></li>
+				</ul>
+				<div class="foot"></div>
+			</div>
+			<div class="socialMedia">
+					<a href="http://www.twitter.com/PsychNews" target="_blank"><img src="//www.socialpsychology.org/img/social/custom/twitter.svg" height="32px" width="32px" alt="SPN on Twitter" /></a>
+					<a href="http://www.facebook.com/socialpsychology" target="_blank"><img src="//www.socialpsychology.org/img/social/custom/fb_icon.svg" height="32px" width="32px" alt="Find us on Facebook" /></a>
+					<a href="//www.socialpsychology.org/rss/news.htm" target="_blank"><img src="//www.socialpsychology.org/img/social/custom/rss_icon.svg" height="32px" width="32px" alt="SPN RSS News"/></a>
+			</div>
+
+			
+		</div>
+
+	</td>
+	<td>
+		<div class="centerContent" style="height:0px;"></div>
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tr valign="top">
+		<td><img src="/images/trans.gif" width="18" height="1" alt="" border="0"></td>
+							<td>
+			<div align="center" valign="bottom">
+			<span class="insideTitle">Online Social Psychology Studies</span>
+						</div>
+			<p>
+
+			<script>
+function trackStudyClick(id,url) {
+    if(document.images){
+        (new Image()).src="http://www.socialpsychology.org/client/redirect.php?what=psychStudy&url="+url+
+        "&from=page&id="+id;
+    }
+    return true;
+}
+</script>
+	
+<table width="100%" border=0 cellpadding=0 cellspacing=0><tr valign="top"><td><img src="/images/ledger.jpg" alt="" width=80 height=80 hspace=5 border=0></td><td>  </td><td>
+This page contains links to <b>515</b> web-based experiments, surveys, and other social psychology studies. If you would like us to add a link to your study, click <a href="/addstudy.htm">here</a>.
+<p>
+<table border=0 cellpadding=0 cellspacing=0><tr><td valign="top"><a target="_blank" href="https://www.twitter.com/Psych_Studies"><img src="/img/social/custom/twitter.svg" alt="RSS Feed" height="12" vspace="3" border="0"></a></td><td><img src="/images/trans.gif" width="5" height="1" alt="" border="0"></td><td valign="top"> To help reach a wide audience, study links posted here are also publicized via <a target="_blank" href="http://www.twitter.com/Psych_Studies">Twitter</a> and an <a target="_blank" href="http://www.socialpsychology.org/feed.rss?type=studylinks">RSS feed</a> (a combined subscriber base of over 240,000 people). All told, SPN has posted links to 2,511 studies and generated a total of 1,435,793 visits to these studies (an average of 215 visits per study for links posted in the past month).
+<p>
+Please note, however, that SPN does not endorse the content or quality of studies that appear below. Any use of SPN pages, feeds, or derivative services indicates acceptance of the <a href="javascript:;" onClick="return popup('/policyPopup.htm','UserPolicy',400,500)">SPN User Policy</a>.</td></tr></table>
+<p>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width=3 bgcolor="#616150"><img src="/images/crnr_lt_brn.gif" alt="" width="3" height="19" border="0"></td>
+<td bgcolor="#616150" width="99%" class="cotitle" align="center">Table of Contents (click on a category of interest)</td>
+<td bgcolor="#616150"><img src="/images/crnr_rt_brn.gif" alt="" width="27" height="19" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td background="/images/co_bg_rvs.gif"><img src="/images/pix_brown.gif" width="1" height="8" alt="" border="0"></td>
+<td width="99%" background="/images/co_bg_rvs.gif" align=right><img src="/images/crnr_rt_brn_bot.gif" alt="" width="17" height="8" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="bottom">
+<td width=1 bgcolor="#616150"><img src="/images/pix_white.gif" width="1" height="2" alt="" border="0"></td>
+<td width="3" background="/images/co_bg_rvs.gif"><img src="/images/crnr_lb_brn.gif" width="3" height="3" alt="" border="0"></td>
+<td width="7" background="/images/co_bg_rvs.gif"><img src="/images/trans.gif" width="7" height="1" alt="" border="0"></td>
+<td background="/images/co_bg_rvs.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="top">
+<td width="50%">
+<a class="insidelink" href="#professional"><b>Professional Research:</b></a><br>
+<img src="/images/trans.gif" width="1" height="3" alt="" border="0"><br>
+<table border=0 cellpadding=0 cellspacing=0>
+<tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#pinterpersonal">Interpersonal Relation</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#pperception">Social Perception</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#pbeliefs">Beliefs and Attitudes</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#ppersonality">Personality and Individual Differences</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#pjudgment">Judgment and Decision Making</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#pinternet">Psychology of the Internet</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#pother">Other Social Psychology Topics</a></td></tr></table><br>
+<a class="insidelink" href="#student"><b>Student Research:</b></a><br>
+<img src="/images/trans.gif" width="1" height="3" alt="" border="0"><br>
+<table border=0 cellpadding=0 cellspacing=0>
+<tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#sinterpersonal">Interpersonal Relations</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#sperception">Social Perception</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#sbeliefs">Beliefs and Attitudes</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#spersonality">Personality and Individual Differences</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#sjudgment">Judgment and Decision Making</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#sinternet">Psychology of the Internet</a></td></tr><tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#sother">Other Social Psychology Topics</a></td></tr></table>
+</td>
+<td width="10"><img src="/images/trans.gif" width="10" height="1" alt="" border="0"></td>
+<td width="1" background="/images/pix_lightgray.gif"><img src="/images/trans.gif" width="1" height="1" alt="" border="0"></td>
+<td width="10"><img src="/images/trans.gif" width="10" height="1" alt="" border="0"></td>
+<td width="50%">
+<a class="insidelink" href="#resources"><b>Web Experiment Resources:</b></a><br>
+<img src="/images/trans.gif" width="1" height="3" alt="" border="0"><br>
+<table border=0 cellpadding=0 cellspacing=0>
+<tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#listings">Other Listings of Online Studies</a></td></tr>
+<tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#howto">How-to Guides</a></td></tr>
+<tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#software">Software for Experimentation</a></td></tr>
+<tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#services">Web-Based Data Collection Services</a></td></tr>
+<tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#subjectpool">Subject Pool Management</a></td></tr>
+<tr valign="top"><td>  </td><td align=right><img src="/images/bullet.gif" width="4" height="4" hspace=4 vspace=6 alt="" border="0"></td><td><a class="insidelink" href="#additional">Additional Resources</a></td></tr>
+</table>
+</td>
+</tr>
+</table><img src="/images/trans.gif" width="1" height="10" alt="" border="0"><br>
+<script>
+widthVar = getMidWidth();
+document.write('<img src="/images/trans.gif" width="' + widthVar + '" height="8" alt="" border="0"><br>');
+</script>
+<noscript>
+<img src="/images/trans.gif" width="1" height="8" alt="" border="0"><br>
+</noscript>
+</td>
+<td width="7" background="/images/co_bg_rvs.gif"><img src="/images/trans.gif" width="7" height="1" alt="" border="0"></td>
+<td width="3" background="/images/co_bg_rvs.gif"><img src="/images/crnr_rb_brn.gif" width="3" height="3" alt="" border="0"></td>
+<td width="1" background="/images/pix_brown.gif"><img src="/images/pix_white.gif" width="1" height="2" alt="" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#616150"><img src="/images/pix_white.gif" width="4" height="1" alt="" border="0"></td>
+<td bgcolor="#616150" align="right"><img src="/images/pix_white.gif" width="4" height="1" alt="" border="0"></td>
+</tr></table>
+
+</td></tr></table>
+
+<br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width=3 bgcolor="#003399"><img src="/images/crnr_lt_blue.gif" alt="" width="3" height="19" border="0"></td>
+<td bgcolor="#003399" width="99%" class="cotitle" align="center">
+<a name="professional"></a>
+Professional Research</td>
+<td bgcolor="#003399"><img src="/images/crnr_rt_blue.gif" alt="" width="27" height="19" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="/images/pix_blue.gif" width="1" height="8" alt="" border="0"></td>
+<td width="99%" align=right><img src="/images/crnr_rt_blue_bot.gif" alt="" width="17" height="8" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="bottom">
+<td width=1 bgcolor="#003399"><img src="/images/pix_white.gif" width="1" height="2" alt="" border="0"></td>
+<td width="3"><img src="/images/crnr_lb_blue.gif" width="3" height="3" alt="" border="0"></td>
+<td width="7"><img src="/images/trans.gif" width="7" height="1" alt="" border="0"></td>
+<td>
+<script>
+widthVar = getMidWidth();
+document.write('<img src="/images/trans.gif" width="' + widthVar + '" height="8" alt="" border="0"><br>');
+</script>
+<a name="pinterpersonal"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Interpersonal Relations:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('758','https://secure.einterview.org/ads/')" href="https://secure.einterview.org/ads/">Advertising and Race Relations</a> (Wesleyan University)
+		<li><a target="_blank" onClick="trackStudyClick('8125','https://utk.co1.qualtrics.com/jfe/form/SV_eJUiBmx3QY6e02V')" href="https://utk.co1.qualtrics.com/jfe/form/SV_eJUiBmx3QY6e02V">Allyship and Advocacy: Experiences of Allies</a> (University of Tennessee)
+		<li><a target="_blank" onClick="trackStudyClick('1950','http://www.surveymonkey.com/s.aspx?sm=H_2bORfOmciMlfb0Y3N8Vykw_3d_3d')" href="http://www.surveymonkey.com/s.aspx?sm=H_2bORfOmciMlfb0Y3N8Vykw_3d_3d">Athletes and Relationships</a> (California State University, San Bernardino)
+		<li><a target="_blank" onClick="trackStudyClick('8516','https://goucher.co1.qualtrics.com/jfe/form/SV_40JQ8bYYUWAQgxn')" href="https://goucher.co1.qualtrics.com/jfe/form/SV_40JQ8bYYUWAQgxn">Attitudes and Beliefs about Close Relationships</a> (Goucher College)
+		<li><a target="_blank" onClick="trackStudyClick('2976','https://www.surveymonkey.com/s/NHMXX8H')" href="https://www.surveymonkey.com/s/NHMXX8H">Attitudes Toward Gender Roles in Relationships</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3531','https://rutgers.qualtrics.com/SE/?SID=SV_a5ZwbJiieIX0uJ7')" href="https://rutgers.qualtrics.com/SE/?SID=SV_a5ZwbJiieIX0uJ7">Attitudes Towards Former Friendships</a> (Rutgers University)
+		<li><a target="_blank" onClick="trackStudyClick('5343','https://www.surveymonkey.com/r/J3ZTMST')" href="https://www.surveymonkey.com/r/J3ZTMST">Breakups and Facebook</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3066','https://www.surveymonkey.com/s/GSRTZH2')" href="https://www.surveymonkey.com/s/GSRTZH2">Breakups and Personal Growth</a> (Brunel University, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('7567','https://www.psychdata.com/s.asp?SID=173673')" href="https://www.psychdata.com/s.asp?SID=173673">Childhood Experiences and Psychological Wellbeing</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('8194','https://mysocialbrain.org/net_info.html')" href="https://mysocialbrain.org/net_info.html">Choose Your Friends Wisely!</a> (Princeton University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('8520','http://34.selectsurvey.net/easternct/TakeSurvey.aspx?SurveyID=l2LIm755')" href="http://34.selectsurvey.net/easternct/TakeSurvey.aspx?SurveyID=l2LIm755">Conflict, Jealousy, and Love (MEN Only)</a> (Eastern Connecticut State University)
+		<li><a target="_blank" onClick="trackStudyClick('8288','https://www.surveymonkey.com/r/CorrelatesofNonMonogamy')" href="https://www.surveymonkey.com/r/CorrelatesofNonMonogamy">Correlates of Non-Monogamy</a> (St. Francis College)
+		<li><a target="_blank" onClick="trackStudyClick('8659','https://www.surveymonkey.com/r/C2Z8SDT')" href="https://www.surveymonkey.com/r/C2Z8SDT">Different Relationship Configurations</a> (St. Francis College)
+		<li><a target="_blank" onClick="trackStudyClick('8869','https://www.psychdata.com/s.asp?SID=184176')" href="https://www.psychdata.com/s.asp?SID=184176">Early Childhood Experience and Depression</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('8813','https://www.psychdata.com/s.asp?SID=184358')" href="https://www.psychdata.com/s.asp?SID=184358">Early Childhood Experiences and Adult Attachment</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('2905','http://sunderlandpsychology.biz.tc/menum.htm')" href="http://sunderlandpsychology.biz.tc/menum.htm">Economic Game-Playing Between Individuals</a> (University of Sunderland, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7730','http://ifpresearch.rohcg.on.ca/FathersStudy.aspx?W=5')" href="http://ifpresearch.rohcg.on.ca/FathersStudy.aspx?W=5">Experience as a Father</a> (Royal’s Institute of Mental Health Research, CA)
+		<li><a target="_blank" onClick="trackStudyClick('7869','http://www.surveygizmo.com/s3/3413006/MindRel?source=socpsych')" href="http://www.surveygizmo.com/s3/3413006/MindRel?source=socpsych">Experiences of Relationships Study</a> (University of Rochester, U.S.)
+		<li><a target="_blank" onClick="trackStudyClick('7351','https://surreyfahs.eu.qualtrics.com/SE/?SID=SV_72NRkOPRYNwA1WR')" href="https://surreyfahs.eu.qualtrics.com/SE/?SID=SV_72NRkOPRYNwA1WR">Exploring Everyday Relationship Emotions</a> (University of Surrey, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7289','https://usapsychology.qualtrics.com/SE/?SID=SV_2i2mh37GaLoMlU1')" href="https://usapsychology.qualtrics.com/SE/?SID=SV_2i2mh37GaLoMlU1">Exploring Religious and Relationship Habits</a> (University of South Alabama)
+		<li><a target="_blank" onClick="trackStudyClick('3401','http://eu.qualtrics.com/SE/?SID=SV_d5N16KHnLrMjkuF')" href="http://eu.qualtrics.com/SE/?SID=SV_d5N16KHnLrMjkuF">Friends, Relatives and Moral Dilemmas</a> (University of Oxford, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3151','https://seanacademic.qualtrics.com/SE/?SID=SV_9mHTHtiCqgAaQba')" href="https://seanacademic.qualtrics.com/SE/?SID=SV_9mHTHtiCqgAaQba">Friendship, Kinship and Moral Dilemmas</a> (University of Oxford, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4690','http://www.surveygizmo.com/s3/1717662/Movies?source=SocPsych')" href="http://www.surveygizmo.com/s3/1717662/Movies?source=SocPsych">Happily Ever After? Relationships and Movies</a> (University of Rochester)
+		<li><a target="_blank" onClick="trackStudyClick('8531','https://smuniversity.qualtrics.com/jfe/form/SV_8Igr75sD1yqFHhj')" href="https://smuniversity.qualtrics.com/jfe/form/SV_8Igr75sD1yqFHhj">Healthy Relationships Survey</a> (Saint Mary's University (CA))
+		<li><a target="_blank" onClick="trackStudyClick('7600','https://qtrial2014.az1.qualtrics.com/jfe3/preview/SV_4NKHHbiAyAReqSF?Q_CHL=preview')" href="https://qtrial2014.az1.qualtrics.com/jfe3/preview/SV_4NKHHbiAyAReqSF?Q_CHL=preview">Hormones and Couple Dynamics</a> (Saint Louis University)
+		<li><a target="_blank" onClick="trackStudyClick('8648','https://loras.qualtrics.com/jfe/form/SV_0fxmIzeqsfn4acR')" href="https://loras.qualtrics.com/jfe/form/SV_0fxmIzeqsfn4acR">How Does It Feel to Lose a Friend?</a> (Loras College)
+		<li><a target="_blank" onClick="trackStudyClick('7315','https://goo.gl/forms/TiZUjT29swPhu0972')" href="https://goo.gl/forms/TiZUjT29swPhu0972">Information Exchange in Interpersonal Relationship</a> (Monk Prayogshala)
+		<li><a target="_blank" onClick="trackStudyClick('4449','https://docs.google.com/forms/d/1f9ZsWnjob4jOBXMmCjEV9UUADaYyAczXnXnEPDjVG-8/viewform?c=0&w=1&usp=mail_form_link')" href="https://docs.google.com/forms/d/1f9ZsWnjob4jOBXMmCjEV9UUADaYyAczXnXnEPDjVG-8/viewform?c=0&w=1&usp=mail_form_link">Information Exhange in Relationships</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('3532','https://purdue.qualtrics.com/SE/?SID=SV_9uhHcL0BtrDABQV')" href="https://purdue.qualtrics.com/SE/?SID=SV_9uhHcL0BtrDABQV">Interpersonal Memory Processes</a> (Purdue University)
+		<li><a target="_blank" onClick="trackStudyClick('4125','https://www.surveymonkey.com/s/LGBTQFamily')" href="https://www.surveymonkey.com/s/LGBTQFamily">LGBT*Q Family Microaggressions</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('7620','https://usapsychology.qualtrics.com/jfe/form/SV_cNM5ODMF95MtZT7')" href="https://usapsychology.qualtrics.com/jfe/form/SV_cNM5ODMF95MtZT7">Mental Health Within Romantic Relationships</a> (University of South Alabama)
+		<li><a target="_blank" onClick="trackStudyClick('4942','http://colostatepsych.co1.qualtrics.com/SE/?SID=SV_1KPU56iskKW0noV')" href="http://colostatepsych.co1.qualtrics.com/SE/?SID=SV_1KPU56iskKW0noV">Parental Attitudes and Behaviors</a> (Colorado State University)
+		<li><a target="_blank" onClick="trackStudyClick('8867','https://utexas.qualtrics.com/jfe/form/SV_9Ahsw0A8rSu3bV3')" href="https://utexas.qualtrics.com/jfe/form/SV_9Ahsw0A8rSu3bV3">Partner Influence on Diet & Exercise Goals</a> (University of Texas Austin)
+		<li><a target="_blank" onClick="trackStudyClick('2311','http://www.psyresearch.org/couples/')" href="http://www.psyresearch.org/couples/">Partners' Expectations and Perceptions</a> (Alliant International University)
+		<li><a target="_blank" onClick="trackStudyClick('2672','http://colostatepsych.qualtrics.com/SE/?SID=SV_81XycyuqrIaKLaY')" href="http://colostatepsych.qualtrics.com/SE/?SID=SV_81XycyuqrIaKLaY">Perceived Aspects of the GLBT Community</a> (Colorado State University)
+		<li><a target="_blank" onClick="trackStudyClick('8797','https://www.surveygizmo.com/s3/4603758/An-Examination-of-Boss-Attributes-and-Boss-Behaviors-Perceptions-of-the-Bossed')" href="https://www.surveygizmo.com/s3/4603758/An-Examination-of-Boss-Attributes-and-Boss-Behaviors-Perceptions-of-the-Bossed">Perceptions of the Bossed (10-minute survey)</a> (National Louis University)
+		<li><a target="_blank" onClick="trackStudyClick('8752','http://www.tinyurl.com/uwsastudy')" href="http://www.tinyurl.com/uwsastudy">Perceptions of Unwanted Sexual Activity</a> (Kwantlen Polytechnic University)
+		<li><a target="_blank" onClick="trackStudyClick('8696','https://goo.gl/forms/7YMOLtSnMeDdtOZo2')" href="https://goo.gl/forms/7YMOLtSnMeDdtOZo2">Personality and Communication</a> (Monk Prayogshala, IN)
+		<li><a target="_blank" onClick="trackStudyClick('8046','https://fau.az1.qualtrics.com/jfe/form/SV_byIwp15JwCQOUhn?rs=spn')" href="https://fau.az1.qualtrics.com/jfe/form/SV_byIwp15JwCQOUhn?rs=spn">Personality, Beliefs, & Behavior in Relationships</a> (Florida Atlantic University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('2336','https://www.surveymonkey.com/s/transgenderexperiences')" href="https://www.surveymonkey.com/s/transgenderexperiences">Positive Transgender Experiences</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8807','https://www.psychdata.com/s.asp?SID=184951')" href="https://www.psychdata.com/s.asp?SID=184951">Purpose in Life</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('2335','http://northeastern.qualtrics.com/SE/?SID=SV_8B5FGqUD4KCtMws')" href="http://northeastern.qualtrics.com/SE/?SID=SV_8B5FGqUD4KCtMws">Rating My Doctor</a> (Northeastern University)
+		<li><a target="_blank" onClick="trackStudyClick('8853','https://ousurvey.qualtrics.com/jfe/form/SV_6y6i52NXAH1uqS9?Source=spn')" href="https://ousurvey.qualtrics.com/jfe/form/SV_6y6i52NXAH1uqS9?Source=spn">Reading, Romance, Science Fiction, and Other World</a> (University of Oklahoma)
+		<li><a target="_blank" onClick="trackStudyClick('7866','https://www.psychdata.com/s.asp?SID=173674')" href="https://www.psychdata.com/s.asp?SID=173674">Regulatory Processes Associated with Positive</a> (Barry University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('894','https://www.surveymonkey.com/s.aspx?sm=WLo74nRHyrhja1rlw7tfSg_3d_3d')" href="https://www.surveymonkey.com/s.aspx?sm=WLo74nRHyrhja1rlw7tfSg_3d_3d">Relationship Experiences and Intergroup Attitudes</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('7837','https://psybilkent.eu.qualtrics.com/jfe/form/SV_bm9wVpaqLJ642pv')" href="https://psybilkent.eu.qualtrics.com/jfe/form/SV_bm9wVpaqLJ642pv">Romantic Relationship Processes</a> (Middle East Technical University, TR)
+		<li><a target="_blank" onClick="trackStudyClick('7313','http://survey.ex.ac.uk/index.php/296563?lang=en')" href="http://survey.ex.ac.uk/index.php/296563?lang=en">Sexual Behaviours and Attitudes</a> (University of Exeter, UK)
+		<li><a target="_blank" onClick="trackStudyClick('5497','https://www.surveymonkey.com/r/heterosexual')" href="https://www.surveymonkey.com/r/heterosexual">Sexual Identity: Heterosexual Participants</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('7726','https://towsonpsychology.az1.qualtrics.com/jfe/form/SV_cMzhPsAPz5UXNuR')" href="https://towsonpsychology.az1.qualtrics.com/jfe/form/SV_cMzhPsAPz5UXNuR">Sexual Orientation and Intrusive Thinking</a> (Towson University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('861','https://survey.cla.umn.edu/8054/')" href="https://survey.cla.umn.edu/8054/">Sexuality Across the Lifespan</a> (University of Minnesota)
+		<li><a target="_blank" onClick="trackStudyClick('8754','https://goo.gl/forms/fwT58tFbR5Ev5oIY2')" href="https://goo.gl/forms/fwT58tFbR5Ev5oIY2">Smartphone Use Habits</a> (Charles Sturt University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('8621','https://www.surveymonkey.ca/r/XNL8XG7')" href="https://www.surveymonkey.ca/r/XNL8XG7">Social Adversity Study</a> (University of Victoria, CA)
+		<li><a target="_blank" onClick="trackStudyClick('7797','https://smuniversity.qualtrics.com/jfe/form/SV_bauJdDkHlQmIPqZ')" href="https://smuniversity.qualtrics.com/jfe/form/SV_bauJdDkHlQmIPqZ">Social Preferences and Academic Adjustment</a> (Saint Mary's University, CA)
+		<li><a target="_blank" onClick="trackStudyClick('7584','https://www.psychdata.com/s.asp?SID=175982')" href="https://www.psychdata.com/s.asp?SID=175982">Spirituality/Religiosity as Predictor of Wellbeing</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('8287','https://bsu.qualtrics.com/jfe/form/SV_0vzvCgjRlCCnZcx')" href="https://bsu.qualtrics.com/jfe/form/SV_0vzvCgjRlCCnZcx">Survey of Men's Sexting Behaviors</a> (Ball State University)
+		<li><a target="_blank" onClick="trackStudyClick('6626','https://bsu.qualtrics.com/SE/?SID=SV_dmw3FvWfaQ9M6bj')" href="https://bsu.qualtrics.com/SE/?SID=SV_dmw3FvWfaQ9M6bj">Survey of Sexual Relationships</a> (Ball State University)
+		<li><a target="_blank" onClick="trackStudyClick('8624','https://www.surveymonkey.com/r/VXXYNKH')" href="https://www.surveymonkey.com/r/VXXYNKH">The Emotional Experiences of Mothering Study</a> (Eastern University)
+		<li><a target="_blank" onClick="trackStudyClick('6845','https://www.surveygizmo.com/s3/2630839/FindPartners?source=socpsych')" href="https://www.surveygizmo.com/s3/2630839/FindPartners?source=socpsych">The Finding Partners in the 21st Century Survey</a> (University of Rochester)
+		<li><a target="_blank" onClick="trackStudyClick('5177','http://www.surveygizmo.com/s3/2072885/screen?source=socpsy')" href="http://www.surveygizmo.com/s3/2072885/screen?source=socpsy">The Movies and Parenting Study</a> (University of Rochester)
+		<li><a target="_blank" onClick="trackStudyClick('8856','https://tinyurl.com/kpurelationshipstudy')" href="https://tinyurl.com/kpurelationshipstudy">The Relationship Visibility Study</a> (Cory Pedersen)
+		<li><a target="_blank" onClick="trackStudyClick('7536','https://www.surveymonkey.com/r/ExploringSexuality')" href="https://www.surveymonkey.com/r/ExploringSexuality">Understanding Individuals Exploring Sexuality</a> (Towson University)
+	</ul>
+<p>
+<a name="pperception"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Social Perception:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('7152','https://goldpsych.eu.qualtrics.com/SE/?SID=SV_3xiPIrHPGM1Rgs5')" href="https://goldpsych.eu.qualtrics.com/SE/?SID=SV_3xiPIrHPGM1Rgs5">A One-Question Study on Sexuality</a> (Goldsmiths, Univ. of London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8325','https://wcu.az1.qualtrics.com/jfe/form/SV_6DSCCtqUadkxwkR')" href="https://wcu.az1.qualtrics.com/jfe/form/SV_6DSCCtqUadkxwkR">A Study of Personality & Social Perceptions</a> (Western Carolina University)
+		<li><a target="_blank" onClick="trackStudyClick('4789','https://www.surveymonkey.com/s/BiFamily')" href="https://www.surveymonkey.com/s/BiFamily">Bisexuality: Family Perceptions and Experiences</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8865','https://mysocialbrain.org/drawem_info.html')" href="https://mysocialbrain.org/drawem_info.html">Draw Your Feelings!</a> (Princeton University)
+		<li><a target="_blank" onClick="trackStudyClick('4399','http://fppvu.qualtrics.com/SE/?SID=SV_8nUvLEFa1yOgdql')" href="http://fppvu.qualtrics.com/SE/?SID=SV_8nUvLEFa1yOgdql">Emotions, Morality, and Punishment</a> (VU Univ. Amsterdam, The Netherlands)
+		<li><a target="_blank" onClick="trackStudyClick('2525','http://tinyurl.com/4yp55vb')" href="http://tinyurl.com/4yp55vb">Experiences of LGBQ Asian Americans</a> (Teachers College, Columbia Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('8127','https://utk.co1.qualtrics.com/jfe/form/SV_56X0l1HyO4oBHM1')" href="https://utk.co1.qualtrics.com/jfe/form/SV_56X0l1HyO4oBHM1">Exploring Reactions to Sexual Assault Allegations</a> (Univ. of Tennessee)
+		<li><a target="_blank" onClick="trackStudyClick('4950','https://www.surveymonkey.com/r/WZNRW25')" href="https://www.surveymonkey.com/r/WZNRW25">Face Judgements and Economic Inequality</a> (Brunel University)
+		<li><a target="_blank" onClick="trackStudyClick('7842','https://qtrial2014.az1.qualtrics.com/jfe/form/SV_3OG7GGv15bjyP5j')" href="https://qtrial2014.az1.qualtrics.com/jfe/form/SV_3OG7GGv15bjyP5j">Foreign Born Students’ Perceptions of Self, Family</a> (Towson University, U.S.)
+		<li><a target="_blank" onClick="trackStudyClick('3765','https://www.isurvey.soton.ac.uk/condition_start.php?id=174')" href="https://www.isurvey.soton.ac.uk/condition_start.php?id=174">Forming Interpersonal Impressions</a> (University of Dayton)
+		<li><a target="_blank" onClick="trackStudyClick('7319','https://goldpsych.eu.qualtrics.com/SE/?SID=SV_1N3pHqbqnAe3m0B')" href="https://goldpsych.eu.qualtrics.com/SE/?SID=SV_1N3pHqbqnAe3m0B">Forming Opinions of Others</a> (Goldsmiths, Univ. of London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('1281','http://www.surveymonkey.com/s.aspx?sm=ySPPuFlIOu5ZVo5iXVH6MQ_3d_3d')" href="http://www.surveymonkey.com/s.aspx?sm=ySPPuFlIOu5ZVo5iXVH6MQ_3d_3d">Identity and Foreign Policy</a> (Claremont Graduate University)
+		<li><a target="_blank" onClick="trackStudyClick('5592','http://brunellifesc.qualtrics.com/SE/?SID=SV_3Xcn38DcBxU88IJ')" href="http://brunellifesc.qualtrics.com/SE/?SID=SV_3Xcn38DcBxU88IJ">Impression Management</a> (Brunel University)
+		<li><a target="_blank" onClick="trackStudyClick('6941','http://opinionmatters.org/21445/lang-en')" href="http://opinionmatters.org/21445/lang-en">Investigating Perspectives on Children's Cinema</a> (Adelphi University)
+		<li><a target="_blank" onClick="trackStudyClick('2015','http://kellogg.qualtrics.com/SE?SID=SV_e9FPZvuWyBlroxe')" href="http://kellogg.qualtrics.com/SE?SID=SV_e9FPZvuWyBlroxe">Jewish Participants' Relationship to Community</a> (Northwestern University)
+		<li><a target="_blank" onClick="trackStudyClick('2785','https://www.surveymonkey.com/s/judgments2011')" href="https://www.surveymonkey.com/s/judgments2011">Judgments and Perspective Taking</a> (Manhattan College)
+		<li><a target="_blank" onClick="trackStudyClick('7092','http://brunellifesc.eu.qualtrics.com/SE/?SID=SV_eP8tP7Y34aEStsF')" href="http://brunellifesc.eu.qualtrics.com/SE/?SID=SV_eP8tP7Y34aEStsF">Just How Good Are You?</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8131','https://www.surveymonkey.com/r/LGBTQTrumpPresident')" href="https://www.surveymonkey.com/r/LGBTQTrumpPresident">LGBTQ Experiences During the Trump Administration</a> (Univ. of Tennessee)
+		<li><a target="_blank" onClick="trackStudyClick('5296','https://docs.google.com/forms/d/1vw56_P1uWNi_oYCYvGw_sVqX75BsV1ORkgFv6oDc4I8/viewform')" href="https://docs.google.com/forms/d/1vw56_P1uWNi_oYCYvGw_sVqX75BsV1ORkgFv6oDc4I8/viewform">Life Experience and Impression Formation</a> (University of Plymouth, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3498','https://www.isurvey.soton.ac.uk/7260')" href="https://www.isurvey.soton.ac.uk/7260">Memory and Name Recognition</a> (University of Southampton, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('7058','https://utpbcomm.qualtrics.com/SE/?SID=SV_ea4ARIc916n1prv&Source=SPN')" href="https://utpbcomm.qualtrics.com/SE/?SID=SV_ea4ARIc916n1prv&Source=SPN">Perception & Attitude toward Police</a> (Univ. of Texas of the Permian Basin)
+		<li><a target="_blank" onClick="trackStudyClick('818','http://www.surveymonkey.com/s.asp?u=422723691892')" href="http://www.surveymonkey.com/s.asp?u=422723691892">Perceptions of Religious Community Leaders</a> (Claremont Graduate Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('4934','http://csusbpsych.co1.qualtrics.com/SE/?SID=SV_bf1LcgttIQkdNaZ')" href="http://csusbpsych.co1.qualtrics.com/SE/?SID=SV_bf1LcgttIQkdNaZ">Perceptions to Relationships</a> (California State Univ. San Bernardino)
+		<li><a target="_blank" onClick="trackStudyClick('1087','http://www.surveymonkey.com/s.aspx?sm=jTRGKcodbX6rFtRArwM3dA_3d_3d>Click Here to take survey')" href="http://www.surveymonkey.com/s.aspx?sm=jTRGKcodbX6rFtRArwM3dA_3d_3d>Click Here to take survey">Performance Feedback II</a> (Central Michigan University)
+		<li><a target="_blank" onClick="trackStudyClick('1780','https://www.surveymonkey.com/s/VN7WWBC')" href="https://www.surveymonkey.com/s/VN7WWBC">Personal Judgments in Social Situations II</a> (Queen's Univ. Belfast, UK)
+		<li><a target="_blank" onClick="trackStudyClick('1449','http://www.surveymonkey.com/s.aspx?sm=l7IX6QF17dudeKrwOooVfQ_3d_3d')" href="http://www.surveymonkey.com/s.aspx?sm=l7IX6QF17dudeKrwOooVfQ_3d_3d">Religiousness and Identity</a> (Claremont Graduate University)
+		<li><a target="_blank" onClick="trackStudyClick('8269','https://fielding.az1.qualtrics.com/jfe/form/SV_6LttGOY9aYjJgO1')" href="https://fielding.az1.qualtrics.com/jfe/form/SV_6LttGOY9aYjJgO1">Risk Taking Behaviors</a> (Fielding Graduate University)
+		<li><a target="_blank" onClick="trackStudyClick('2156','http://www.isurvey.soton.ac.uk/1126')" href="http://www.isurvey.soton.ac.uk/1126">Sharing Your Experiences</a> (University of Southampton, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('2097','http://kellogg.qualtrics.com/SE?SID=SV_af2RwPsqjGHrcSE')" href="http://kellogg.qualtrics.com/SE?SID=SV_af2RwPsqjGHrcSE">Social Information Processing and Judgment</a> (Northwestern University)
+		<li><a target="_blank" onClick="trackStudyClick('5227','https://qtrial2014az1.az1.qualtrics.com/SE/?SID=SV_4UCtwKBRMHQGjJj')" href="https://qtrial2014az1.az1.qualtrics.com/SE/?SID=SV_4UCtwKBRMHQGjJj">Students' Perceptions of Sexual Situations</a> (Loyola University Maryland)
+		<li><a target="_blank" onClick="trackStudyClick('8806','https://www.psychdata.com/s.asp?SID=184385')" href="https://www.psychdata.com/s.asp?SID=184385">Transgender Attitudes</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('8814','https://bostonu.qualtrics.com/jfe/form/SV_bmjuk27nH8pjfxP')" href="https://bostonu.qualtrics.com/jfe/form/SV_bmjuk27nH8pjfxP">Women's Perceptions of Solitude and Well-being</a> (Boston University)
+		<li><a target="_blank" onClick="trackStudyClick('7091','http://brunellifesc.eu.qualtrics.com/SE/?SID=SV_6RsnTU08MpBqkfz')" href="http://brunellifesc.eu.qualtrics.com/SE/?SID=SV_6RsnTU08MpBqkfz">Word Knowledge and Memory</a> (Brunel University, UK)
+	</ul>
+<p>
+<a name="pbeliefs"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Beliefs and Attitudes:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('8650','https://www.surveymonkey.co.uk/r/HABIT31')" href="https://www.surveymonkey.co.uk/r/HABIT31">A Brief Survey on Habits</a> (University of Bath, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7010','https://uic.qualtrics.com/SE/?SID=SV_aadbbN3eewCyObz')" href="https://uic.qualtrics.com/SE/?SID=SV_aadbbN3eewCyObz">Adults' Participation in Learning Activities</a> (University of Illinois at Chicago)
+		<li><a target="_blank" onClick="trackStudyClick('8773','https://qtrial2018q4az1.az1.qualtrics.com/jfe/form/SV_77Ct9qdXDAMAIa9')" href="https://qtrial2018q4az1.az1.qualtrics.com/jfe/form/SV_77Ct9qdXDAMAIa9">Aliens, Ghosts, and the Paranormal</a> (University of Sunderland (UK))
+		<li><a target="_blank" onClick="trackStudyClick('3539','https://www.surveymonkey.com/s/F3YW6NZ')" href="https://www.surveymonkey.com/s/F3YW6NZ">Assessing Behaviors and Attitudes</a> (Univeristy of St. Thomas, Houston)
+		<li><a target="_blank" onClick="trackStudyClick('4941','https://www.surveymonkey.com/r/FGTLYGP')" href="https://www.surveymonkey.com/r/FGTLYGP">Attachment Orientation and Antisocial Behaviour</a> (Brunel Univ. London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3340','https://www.surveymonkey.com/s/DVAW')" href="https://www.surveymonkey.com/s/DVAW">Attitudes and Beliefs Towards Domestic Violence</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('2887','https://www.isurvey.soton.ac.uk/condition_start.php?id=132')" href="https://www.isurvey.soton.ac.uk/condition_start.php?id=132">Attitudes to Business</a> (University of Southampton, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('6921','https://uweauclaire.qualtrics.com/SE/?SID=SV_9QxCxaS7gX9ZlOZ')" href="https://uweauclaire.qualtrics.com/SE/?SID=SV_9QxCxaS7gX9ZlOZ">Attitudes toward Police and Policing</a> (University of Wisconsin-Eau Claire)
+		<li><a target="_blank" onClick="trackStudyClick('2733','https://www.surveymonkey.com/s/SameSexPerformance')" href="https://www.surveymonkey.com/s/SameSexPerformance">Attitudes Toward Same-Sex Performance</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('5447','https://ndstate.co1.qualtrics.com/jfe/form/SV_0OgREk0J62mYiIl')" href="https://ndstate.co1.qualtrics.com/jfe/form/SV_0OgREk0J62mYiIl">Attitudes Towards Drinking, Eating, and Body Image</a> (Walden University)
+		<li><a target="_blank" onClick="trackStudyClick('8380','https://www.surveymonkey.com/r/8D6FPR7')" href="https://www.surveymonkey.com/r/8D6FPR7">Attitudes Towards Same Sex Marriage</a> (Central Queensland Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('8795','http://tinyurl.com/kpubodystudy')" href="http://tinyurl.com/kpubodystudy">Body Shape's Influence on Trait Impressions</a> (Kwantlen Polytechnic Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('8019','https://uelpsych.eu.qualtrics.com/jfe/form/SV_cYDjKLLMTr9VzsF')" href="https://uelpsych.eu.qualtrics.com/jfe/form/SV_cYDjKLLMTr9VzsF">Cognitive Bias Associated with Physical Stature</a> (Univ. of East London,UK)
+		<li><a target="_blank" onClick="trackStudyClick('4234','https://docs.google.com/forms/d/138HiqlsNWe7y50CgH9rhYVIcjwaYeILzeJrzWuaEMpc/viewform?usp=send_form')" href="https://docs.google.com/forms/d/138HiqlsNWe7y50CgH9rhYVIcjwaYeILzeJrzWuaEMpc/viewform?usp=send_form">Contextual Swearing</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('7268','https://goldpsych.eu.qualtrics.com/SE/?SID=SV_aacSoEX4lRwGXhr')" href="https://goldpsych.eu.qualtrics.com/SE/?SID=SV_aacSoEX4lRwGXhr">Controversial Social and Political Issues</a> (Goldsmiths University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('2072','http://affect.questionpro.com/')" href="http://affect.questionpro.com/">Determinants of Affect and Approval</a> (UCLA)
+		<li><a target="_blank" onClick="trackStudyClick('7612','https://www.psychdata.com/s.asp?SID=175880')" href="https://www.psychdata.com/s.asp?SID=175880">Did You Have an Erection? - Male Rape Myths</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('5025','http://fppvu.qualtrics.com/SE/?SID=SV_723ndR3fUujcJJr')" href="http://fppvu.qualtrics.com/SE/?SID=SV_723ndR3fUujcJJr">Do You Behave Differently?</a> (VU University Amsterdam, The Netherlands)
+		<li><a target="_blank" onClick="trackStudyClick('4231','https://www.surveymonkey.com/s/ExAtBelS14')" href="https://www.surveymonkey.com/s/ExAtBelS14">Existential Attitudes and Beliefs I</a> (Muhlenberg College)
+		<li><a target="_blank" onClick="trackStudyClick('3352','https://www.surveymonkey.com/s/JXPZC36')" href="https://www.surveymonkey.com/s/JXPZC36">Father's Talking to Children About Puberty</a> (Univ. of Mary Washington)
+		<li><a target="_blank" onClick="trackStudyClick('8505','https://www.surveymonkey.co.uk/r/RWRWGR5')" href="https://www.surveymonkey.co.uk/r/RWRWGR5">Global Warming</a> (University of Bath, UK)
+		<li><a target="_blank" onClick="trackStudyClick('2320','https://www.psychdata.com/s.asp?SID=136372')" href="https://www.psychdata.com/s.asp?SID=136372">Have You Been Questioned for Jury Duty?</a> (Rider University)
+		<li><a target="_blank" onClick="trackStudyClick('7420','https://loyola.co1.qualtrics.com/SE/?SID=SV_cSKLS5pUoI8ZQUd')" href="https://loyola.co1.qualtrics.com/SE/?SID=SV_cSKLS5pUoI8ZQUd">How People Feel When They Don't Look Their Best</a> (Loyola Univ. Maryland)
+		<li><a target="_blank" onClick="trackStudyClick('6785','https://www.surveymonkey.com/r/S2LFPVP')" href="https://www.surveymonkey.com/r/S2LFPVP">Impact of Religious Beliefs on Understanding</a> (Ambrose University, Canada)
+		<li><a target="_blank" onClick="trackStudyClick('8733','https://tinyurl.com/yazmv3uf')" href="https://tinyurl.com/yazmv3uf">Irregular Menstrual Status on Attitudes toward Sex</a> (Kwantlen Polytechnic University)
+		<li><a target="_blank" onClick="trackStudyClick('7545','https://www.surveymonkey.com/r/LGBTelection')" href="https://www.surveymonkey.com/r/LGBTelection">LGBTQ Experiences Following the U.S. 2016 Election</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('7248','https://survey.co1.qualtrics.com/SE/?SID=SV_bvaMpWPbrcRp4JT')" href="https://survey.co1.qualtrics.com/SE/?SID=SV_bvaMpWPbrcRp4JT">Loving vs Punitve God:Compassion towards Migrants</a> (St. Josephs College)
+		<li><a target="_blank" onClick="trackStudyClick('7436','https://edinburghppls.qualtrics.com/SE/?SID=SV_9RmCC0PIr3DJIPj')" href="https://edinburghppls.qualtrics.com/SE/?SID=SV_9RmCC0PIr3DJIPj">Measure of Environmental Attitudes and Behavior</a> (Univ. of Edinburgh, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8518','https://ousurvey.qualtrics.com/jfe/form/SV_byzEFDn46zbaVlX?Source=spn')" href="https://ousurvey.qualtrics.com/jfe/form/SV_byzEFDn46zbaVlX?Source=spn">Media, Meaning, & Judgment</a> (University of Oklahoma)
+		<li><a target="_blank" onClick="trackStudyClick('5139','https://memphis.co1.qualtrics.com/SE/?SID=SV_29TrpAk5YpH4icB')" href="https://memphis.co1.qualtrics.com/SE/?SID=SV_29TrpAk5YpH4icB">Men at Work: Stress and Appraisal</a> (The University of Memphis)
+		<li><a target="_blank" onClick="trackStudyClick('8031','https://pace.az1.qualtrics.com/jfe/form/SV_4GG8l8Yw6D82TvT')" href="https://pace.az1.qualtrics.com/jfe/form/SV_4GG8l8Yw6D82TvT">Mental/Physical Health and Engagement in Exercise</a> (Pace University)
+		<li><a target="_blank" onClick="trackStudyClick('8755','https://www.surveymonkey.com/r/KWPNBCC')" href="https://www.surveymonkey.com/r/KWPNBCC">Mercy as an Experience</a> (Life University)
+		<li><a target="_blank" onClick="trackStudyClick('8226','https://uic.ca1.qualtrics.com/jfe/form/SV_bJgTLvUsM2YAT5P')" href="https://uic.ca1.qualtrics.com/jfe/form/SV_bJgTLvUsM2YAT5P">Money-earning motives, socio-personal beliefs</a> (Univ. of Illinois at Chicago)
+		<li><a target="_blank" onClick="trackStudyClick('2881','https://www.isurvey.soton.ac.uk/3985')" href="https://www.isurvey.soton.ac.uk/3985">Moral Capital Scale</a> (University of Southampton, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('2192','http://moralpsychology.questionpro.com/')" href="http://moralpsychology.questionpro.com/">Moral Psychology</a> (University of California, Los Angeles)
+		<li><a target="_blank" onClick="trackStudyClick('8149','https://southalabama.az1.qualtrics.com/jfe/form/SV_3dvX0OVyl1WuV81')" href="https://southalabama.az1.qualtrics.com/jfe/form/SV_3dvX0OVyl1WuV81">On Religion & Pornography</a> (University of South Alabama, U.S.)
+		<li><a target="_blank" onClick="trackStudyClick('4484','http://siumarketing.az1.qualtrics.com/SE/?SID=SV_72ikh82dofozKip')" href="http://siumarketing.az1.qualtrics.com/SE/?SID=SV_72ikh82dofozKip">Online Media Study</a> (Southern Illinois University Carbondale)
+		<li><a target="_blank" onClick="trackStudyClick('2947','https://www.surveymonkey.com/s/sougamingsurvey')" href="https://www.surveymonkey.com/s/sougamingsurvey">Parental Policies and Awareness of Video Gaming</a> (Southern Oregon Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('8839','https://kennesaw.co1.qualtrics.com/jfe/form/SV_0Htj232qUKCoi6p')" href="https://kennesaw.co1.qualtrics.com/jfe/form/SV_0Htj232qUKCoi6p">Parenting and psychology</a> (Kennesaw State University)
+		<li><a target="_blank" onClick="trackStudyClick('2521','https://sites.google.com/site/perceptionsofgovernmentstudy/')" href="https://sites.google.com/site/perceptionsofgovernmentstudy/">Perceptions of Government</a> (Long Island University, C.W. Post Campus)
+		<li><a target="_blank" onClick="trackStudyClick('6866','https://survey.co1.qualtrics.com/SE/?SID=SV_3OeN9EfEclzwKxv')" href="https://survey.co1.qualtrics.com/SE/?SID=SV_3OeN9EfEclzwKxv">Perceptions of Groups</a> (Saint Xavier University)
+		<li><a target="_blank" onClick="trackStudyClick('7109','https://uhcl.co1.qualtrics.com/SE/?SID=SV_8IGlPnNjUsyQmj3')" href="https://uhcl.co1.qualtrics.com/SE/?SID=SV_8IGlPnNjUsyQmj3">Perceptions of Social Group Attitudes</a> (University of Houston-Clear Lake)
+		<li><a target="_blank" onClick="trackStudyClick('8796','https://tinyurl.com/ybj3ag24')" href="https://tinyurl.com/ybj3ag24">Perceptions of Variation in Female Genitalia</a> (Kwantlen Polytechnic Uni.)
+		<li><a target="_blank" onClick="trackStudyClick('3212','http://bit.ly/QcOBuE')" href="http://bit.ly/QcOBuE">Personality and Attitudes Assessment III</a> (Muhlenberg College)
+		<li><a target="_blank" onClick="trackStudyClick('8003','https://edinburgh.eu.qualtrics.com/jfe/form/SV_8hMjh6ocgwU6JzD')" href="https://edinburgh.eu.qualtrics.com/jfe/form/SV_8hMjh6ocgwU6JzD">Political Ideology and the Environment</a> (University of Edinburgh, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3319','http://people.aut.ac.nz/~jawood/narr1_0.html')" href="http://people.aut.ac.nz/~jawood/narr1_0.html">Psychology of Fictional Narratives</a> (Auckland U. of Technol., New Zealand)
+		<li><a target="_blank" onClick="trackStudyClick('8819','https://kennesaw.co1.qualtrics.com/jfe/form/SV_8923m8FCGqrwlHn')" href="https://kennesaw.co1.qualtrics.com/jfe/form/SV_8923m8FCGqrwlHn">Psychosocial Development and Social Opinion</a> (Kennesaw State University)
+		<li><a target="_blank" onClick="trackStudyClick('8011','https://winchesterpsychology.qualtrics.com/jfe/form/SV_cTFEKM06vgUw8pD')" href="https://winchesterpsychology.qualtrics.com/jfe/form/SV_cTFEKM06vgUw8pD">Public Perceptions of Antimicrobial Resistance</a> (Winchester Univ., UK)
+		<li><a target="_blank" onClick="trackStudyClick('8822','https://www.psychdata.com/s.asp?SID=184216')" href="https://www.psychdata.com/s.asp?SID=184216">Racial Identity, Socialization, and Police</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('6893','http://tinyurl.com/ReligiousConvertsExtn')" href="http://tinyurl.com/ReligiousConvertsExtn">Religious and Spiritual Conversion Experiences</a> (Leeds Beckett Univ. (UK))
+		<li><a target="_blank" onClick="trackStudyClick('3298','https://fordhamgsas.us2.qualtrics.com/SE/?SID=SV_0kMDZfLd8E8zLCJ')" href="https://fordhamgsas.us2.qualtrics.com/SE/?SID=SV_0kMDZfLd8E8zLCJ">Sexual Identities and Behavior</a> (Fordham University)
+		<li><a target="_blank" onClick="trackStudyClick('7844','https://southalabama.az1.qualtrics.com/jfe/form/SV_ezCIr05XEQy9nCJ')" href="https://southalabama.az1.qualtrics.com/jfe/form/SV_ezCIr05XEQy9nCJ">Social Attitudes in College Students</a> (University of South Alabama, U.S.)
+		<li><a target="_blank" onClick="trackStudyClick('7556','https://www.psychdata.com/s.asp?SID=176170')" href="https://www.psychdata.com/s.asp?SID=176170">Survey of Attitudes and Beliefs</a> (Rider University)
+		<li><a target="_blank" onClick="trackStudyClick('3921','https://docs.google.com/forms/d/15N8kHSh-VngNk0Zcco0tiI_BKEbdQ0U0YKuQRXBb1tg/viewform')" href="https://docs.google.com/forms/d/15N8kHSh-VngNk0Zcco0tiI_BKEbdQ0U0YKuQRXBb1tg/viewform">Tendency to Gossip About Public Figures</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('8228','http://www.surveygizmo.com/s3/4256952/thinkSEX?source=SocPsych')" href="http://www.surveygizmo.com/s3/4256952/thinkSEX?source=SocPsych">The How You Think About Sex Study</a> (University of Rochester)
+		<li><a target="_blank" onClick="trackStudyClick('8094','https://www.surveymonkey.com/r/RacialIdentitySurvey')" href="https://www.surveymonkey.com/r/RacialIdentitySurvey">Thoughts about Racial Identity</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('7192','http://goo.gl/sQ3iDc')" href="http://goo.gl/sQ3iDc">Users In Social Media Campaigns</a> (Indian Institute Of Tech Bombay, India)
+		<li><a target="_blank" onClick="trackStudyClick('7821','https://goldpsych.eu.qualtrics.com/jfe/form/SV_5gsqw9FhecxlA8J')" href="https://goldpsych.eu.qualtrics.com/jfe/form/SV_5gsqw9FhecxlA8J">What is Heterosexuality?</a> (Goldsmiths, University of London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4257','https://docs.google.com/forms/d/16oCOzD9i5Q57AAn0Oh47UmIh39Cg1RIqSN-DfJn1k2c/viewform?usp=send_form')" href="https://docs.google.com/forms/d/16oCOzD9i5Q57AAn0Oh47UmIh39Cg1RIqSN-DfJn1k2c/viewform?usp=send_form">What Swear Would You Use?</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('5123','https://iastatepsychhci.az1.qualtrics.com/SE/?SID=SV_bpcC8qMzg8zEVAV')" href="https://iastatepsychhci.az1.qualtrics.com/SE/?SID=SV_bpcC8qMzg8zEVAV">What’s Your View?</a> (Iowa State University)
+		<li><a target="_blank" onClick="trackStudyClick('2148','http://www.surveymonkey.com/s/FPPRX6H')" href="http://www.surveymonkey.com/s/FPPRX6H">Why People Work II</a> (University of Vermont)
+		<li><a target="_blank" onClick="trackStudyClick('8730','https://www.research.net/r/workplacepreferences')" href="https://www.research.net/r/workplacepreferences">Workplace Attitudes & Preferences: Rate Your Boss</a> (Pixel Leadership Group)
+		<li><a target="_blank" onClick="trackStudyClick('8669','https://bathpsychology.eu.qualtrics.com/jfe/form/SV_8xoH7nWsq3ZYyJT')" href="https://bathpsychology.eu.qualtrics.com/jfe/form/SV_8xoH7nWsq3ZYyJT">You and Your Habits</a> (University of Bath, UK)
+	</ul>
+<p>
+<a name="ppersonality"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Personality and Individual Differences:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('4287','https://usc.qualtrics.com/SE/?SID=SV_ePRR6inX83Fhs6F')" href="https://usc.qualtrics.com/SE/?SID=SV_ePRR6inX83Fhs6F">Assessing Wisdom</a> (University of Southern California)
+		<li><a target="_blank" onClick="trackStudyClick('2825','http://www.isurvey.soton.ac.uk/3343')" href="http://www.isurvey.soton.ac.uk/3343">Attention and the Self</a> (University of Southampton, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('4928','https://uclpsych.eu.qualtrics.com/SE/?SID=SV_0vqRUVuZjSOlQPz')" href="https://uclpsych.eu.qualtrics.com/SE/?SID=SV_0vqRUVuZjSOlQPz">Attitudes Toward Various Social Objects</a> (University College London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('5378','https://www.surveymonkey.com/r/M57F6YX')" href="https://www.surveymonkey.com/r/M57F6YX">Attitudes Towards Online Interactions</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8314','https://wcu.az1.qualtrics.com/jfe/form/SV_3wkZqhgxyCVfCrX')" href="https://wcu.az1.qualtrics.com/jfe/form/SV_3wkZqhgxyCVfCrX">Attitudes Towards Pornography</a> (Western Carolina University)
+		<li><a target="_blank" onClick="trackStudyClick('6650','http://dominantneedsanalysis.com/RHULBirthOrder.html')" href="http://dominantneedsanalysis.com/RHULBirthOrder.html">Birth Order Effects on Values</a> (Royal Holloway University of London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8298','http://latech.qualtrics.com/jfe/form/SV_e8xyqBYQ2K0xzKZ')" href="http://latech.qualtrics.com/jfe/form/SV_e8xyqBYQ2K0xzKZ">Character and Morality</a> (Louisiana Tech University)
+		<li><a target="_blank" onClick="trackStudyClick('8308','https://uwlpsych.eu.qualtrics.com/jfe/form/SV_em2IJR6DREzxKct')" href="https://uwlpsych.eu.qualtrics.com/jfe/form/SV_em2IJR6DREzxKct">Concerned about Crime?</a> (University of West London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8695','https://goo.gl/g6EN4a')" href="https://goo.gl/g6EN4a">Curiosity, Personality, and Gossip</a> (Monk Prayogshala, IN)
+		<li><a target="_blank" onClick="trackStudyClick('1784','http://www.surveymonkey.com/s/G2PDWJP')" href="http://www.surveymonkey.com/s/G2PDWJP">Daily Events</a> (York University, Canada)
+		<li><a target="_blank" onClick="trackStudyClick('8674','https://www.surveymonkey.com/r/developing_a_scale_pilot')" href="https://www.surveymonkey.com/r/developing_a_scale_pilot">Developing a Novel Psychological Scale</a> (University of Louisville)
+		<li><a target="_blank" onClick="trackStudyClick('7956','https://nupsych.qualtrics.com/jfe/form/SV_eeBu0scZoOdwHAx')" href="https://nupsych.qualtrics.com/jfe/form/SV_eeBu0scZoOdwHAx">Developing a Workforce Market for People with ASD</a> (Northumbria University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7357','https://www.surveymonkey.co.uk/r/MZSJ3GS')" href="https://www.surveymonkey.co.uk/r/MZSJ3GS">Development of a Brain Injury Assessment Tool</a> (Swansea University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7872','https://nupsych.qualtrics.com/jfe/form/SV_3UACPdKDDfnkTad')" href="https://nupsych.qualtrics.com/jfe/form/SV_3UACPdKDDfnkTad">Development of an Accessible Autism Quotient</a> (Northumberia University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('1582','http://www.surveymonkey.com/s.aspx?sm=mStYeqpe2X_2f0QdaZHPPRjw_3d_3d')" href="http://www.surveymonkey.com/s.aspx?sm=mStYeqpe2X_2f0QdaZHPPRjw_3d_3d">Discretionary Spending and Well-Being</a> (San Francisco State University)
+		<li><a target="_blank" onClick="trackStudyClick('2995','http://www.tinyurl.com/Pers-emot-2/')" href="http://www.tinyurl.com/Pers-emot-2/">Emotion and Personality Survey</a> (Vanderbilt University)
+		<li><a target="_blank" onClick="trackStudyClick('7929','https://redcap.vanderbilt.edu/surveys/?s=TXA3MHXLCK')" href="https://redcap.vanderbilt.edu/surveys/?s=TXA3MHXLCK">Emotional Experience Survey</a> (Vanderbilt University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('1855','http://www.surveymonkey.com/s/attractiveness')" href="http://www.surveymonkey.com/s/attractiveness">Factors Affecting Women's Attractiveness</a> (UCLA)
+		<li><a target="_blank" onClick="trackStudyClick('8635','https://coventry.onlinesurveys.ac.uk/frustration-in-the-modern-day-workplace-its-just-the-way')" href="https://coventry.onlinesurveys.ac.uk/frustration-in-the-modern-day-workplace-its-just-the-way">Frustration in the Modern Day Workplace</a> (Coventry University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8163','https://www.soscisurvey.de/tutorial131442/')" href="https://www.soscisurvey.de/tutorial131442/">Individual Differences in Emotional Processing</a> (University of Cologne, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7517','https://ben.qualtrics.com/SE/?SID=SV_6PtdObP1ejBFRcx')" href="https://ben.qualtrics.com/SE/?SID=SV_6PtdObP1ejBFRcx">Individual Differences in How We Think</a> (Benedictine University at Mesa)
+		<li><a target="_blank" onClick="trackStudyClick('7456','https://exetercles.eu.qualtrics.com/SE/?SID=SV_01iSOwPrt2bNPRX')" href="https://exetercles.eu.qualtrics.com/SE/?SID=SV_01iSOwPrt2bNPRX">Individual Differences in Maths Anxiety.</a> (University of Exeter, UK)
+		<li><a target="_blank" onClick="trackStudyClick('5106','http://www2.ubishops.ca/phwb/research/SelfnIllness.html')" href="http://www2.ubishops.ca/phwb/research/SelfnIllness.html">Living with Fibromyalgia, CFS, or Hypertension</a> (Bishop's Univ., Canada)
+		<li><a target="_blank" onClick="trackStudyClick('5234','https://www.isurvey.soton.ac.uk/16086')" href="https://www.isurvey.soton.ac.uk/16086">Memory and Self-Evaluation</a> (University of Southampton)
+		<li><a target="_blank" onClick="trackStudyClick('4009','https://www.isurvey.soton.ac.uk/condition_start.php?id=218')" href="https://www.isurvey.soton.ac.uk/condition_start.php?id=218">Personality</a> (University of Southampton, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('5304','https://www.isurvey.soton.ac.uk/16311')" href="https://www.isurvey.soton.ac.uk/16311">Personality and Academic/Professional Standing</a> (Univ. of Southampton, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8513','https://docs.google.com/forms/d/e/1FAIpQLSfN8Q4chRXasYaih5rdXzqjXUykbzMuHVHGfPa872NmjAjLRg/viewform?usp=sf_link')" href="https://docs.google.com/forms/d/e/1FAIpQLSfN8Q4chRXasYaih5rdXzqjXUykbzMuHVHGfPa872NmjAjLRg/viewform?usp=sf_link">Personality and Communication</a> (Monk Prayogshala, IN)
+		<li><a target="_blank" onClick="trackStudyClick('7873','https://docs.google.com/forms/d/e/1FAIpQLScm1sBQbAWtsGW5fUXDo-DcMWa5opZtJffjrqAS0XGsDav2uQ/viewform')" href="https://docs.google.com/forms/d/e/1FAIpQLScm1sBQbAWtsGW5fUXDo-DcMWa5opZtJffjrqAS0XGsDav2uQ/viewform">Personality and Emotion Recognition</a> (Monk Prayogshala, IN)
+		<li><a target="_blank" onClick="trackStudyClick('3555','https://redcap.vanderbilt.edu/surveys/?s=ot9ZTX')" href="https://redcap.vanderbilt.edu/surveys/?s=ot9ZTX">Personality and Experience Survey</a> (Vanderbilt University)
+		<li><a target="_blank" onClick="trackStudyClick('6856','https://sheffieldpsychology.eu.qualtrics.com/SE/?SID=SV_1TjF4KAlEQUbvQF')" href="https://sheffieldpsychology.eu.qualtrics.com/SE/?SID=SV_1TjF4KAlEQUbvQF">Personality and FM, CFS or HTN</a> (University of Sheffield, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3605','https://purdue.qualtrics.com/SE/?SID=SV_6Xp0yyE4Of298z3')" href="https://purdue.qualtrics.com/SE/?SID=SV_6Xp0yyE4Of298z3">Personality and Individual Characteristics</a> (Purdue University)
+		<li><a target="_blank" onClick="trackStudyClick('4826','http://goo.gl/HThMsH')" href="http://goo.gl/HThMsH">Personality and Moral Decision Making</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('3979','http://tinyurl.com/cansuthesis')" href="http://tinyurl.com/cansuthesis">Personality and Physical Attractiveness</a> (Bilkent University, Turkey)
+		<li><a target="_blank" onClick="trackStudyClick('8239','https://southalabama.az1.qualtrics.com/jfe/form/SV_6JWmtrP9HhW5krP')" href="https://southalabama.az1.qualtrics.com/jfe/form/SV_6JWmtrP9HhW5krP">Personality and Product Purchase</a> (University of South Alabama)
+		<li><a target="_blank" onClick="trackStudyClick('4383','https://www.isurvey.soton.ac.uk/11931')" href="https://www.isurvey.soton.ac.uk/11931">Personality and Self-Evaluations</a> (University of Southampton, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8100','https://chichpscyh.eu.qualtrics.com/jfe/form/SV_9BPx6UOWZiUHEbP')" href="https://chichpscyh.eu.qualtrics.com/jfe/form/SV_9BPx6UOWZiUHEbP">Personality and Social Rejection</a> (Coventry University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3243','http://umichpsych.qualtrics.com/SE/?SID=SV_eqSGG59G5R7rPNz')" href="http://umichpsych.qualtrics.com/SE/?SID=SV_eqSGG59G5R7rPNz">Personality, Power, and Behavior</a> (University of Michigan)
+		<li><a target="_blank" onClick="trackStudyClick('8421','https://goo.gl/forms/UedAooZtSbubxuHf1')" href="https://goo.gl/forms/UedAooZtSbubxuHf1">Political Ideology Scale (India)</a> (Monk Prayogshala (IN))
+		<li><a target="_blank" onClick="trackStudyClick('5576','http://www.surveygizmo.com/s3/2368904/Job-Performance-SPN')" href="http://www.surveygizmo.com/s3/2368904/Job-Performance-SPN">Predictors of Job Performance</a> (Indian Institute of Technology Bombay)
+		<li><a target="_blank" onClick="trackStudyClick('4862','http://goo.gl/ni84jw')" href="http://goo.gl/ni84jw">Public Gossip Scale</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('8313','https://wcu.az1.qualtrics.com/jfe/form/SV_enynErvzQnaCbqJ')" href="https://wcu.az1.qualtrics.com/jfe/form/SV_enynErvzQnaCbqJ">Sexual Hookups and Personality</a> (Western Carolina University)
+		<li><a target="_blank" onClick="trackStudyClick('2123','http://www.surveymonkey.com/s/Test-your-spirituality-2')" href="http://www.surveymonkey.com/s/Test-your-spirituality-2">Spirituality, Personality and Mental Health</a> (University of Graz, Austria)
+		<li><a target="_blank" onClick="trackStudyClick('7531','http://yuryshevchenko.com/webstudy/perception/')" href="http://yuryshevchenko.com/webstudy/perception/">The Study of Human Perception</a> (Mannheim University, Germany)
+		<li><a target="_blank" onClick="trackStudyClick('4116','http://sportspectaclepsycho.blogspot.com.es/')" href="http://sportspectaclepsycho.blogspot.com.es/">TV Sports Programs and Aggressiveness</a> (Univ. of Oviedo, Spain)
+		<li><a target="_blank" onClick="trackStudyClick('4335','http://goo.gl/1ew3nT')" href="http://goo.gl/1ew3nT">Which Superpower Do You Want?</a> (Monk Prayogshala, India)
+	</ul>
+<p>
+<a name="pjudgment"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Judgment and Decision Making:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('757','https://secure.einterview.org/lifestyle/')" href="https://secure.einterview.org/lifestyle/">A Diet and Lifestyle Choices Interview</a> (Wesleyan University)
+		<li><a target="_blank" onClick="trackStudyClick('7093','http://brunellifesc.eu.qualtrics.com/SE/?SID=SV_2fW4NtyDmdd92iF')" href="http://brunellifesc.eu.qualtrics.com/SE/?SID=SV_2fW4NtyDmdd92iF">A Doctor’s Dilemma</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7094','http://brunellifesc.eu.qualtrics.com/SE/?SID=SV_e4MP87IMq9b79Ln')" href="http://brunellifesc.eu.qualtrics.com/SE/?SID=SV_e4MP87IMq9b79Ln">A Doctor’s Dilemma (2)</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('2550','http://www.surveymonkey.com/s/XGXDZDV')" href="http://www.surveymonkey.com/s/XGXDZDV">Daily Activities Study</a> (University of Groningen, Netherlands)
+		<li><a target="_blank" onClick="trackStudyClick('4804','http://goo.gl/aV0PeY')" href="http://goo.gl/aV0PeY">Daily Decision Making</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('8668','https://docs.google.com/forms/d/e/1FAIpQLSei4QDHKYP3vl0fxwj9vseg6Fa-p8XXc8JqKTFnUJ1LOlvSKQ/viewform?usp=sf_link')" href="https://docs.google.com/forms/d/e/1FAIpQLSei4QDHKYP3vl0fxwj9vseg6Fa-p8XXc8JqKTFnUJ1LOlvSKQ/viewform?usp=sf_link">Factors Influencing Decision-Making</a> (Bournemouth University)
+		<li><a target="_blank" onClick="trackStudyClick('7749','https://uelpsych.eu.qualtrics.com/jfe/form/SV_3eY5k5YL9NM3WSh')" href="https://uelpsych.eu.qualtrics.com/jfe/form/SV_3eY5k5YL9NM3WSh">Factors Related to Thinking/Decision Making</a> (University of East London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('2357','http://www.surveymonkey.com/s/InternetResearch')" href="http://www.surveymonkey.com/s/InternetResearch">Fashion, Style, and Personality</a> (Manhattan College)
+		<li><a target="_blank" onClick="trackStudyClick('3778','https://www.isurvey.soton.ac.uk/9056')" href="https://www.isurvey.soton.ac.uk/9056">Judgement of Conduct</a> (University of Southampton, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('4835','https://www.surveymonkey.com/s/JIE')" href="https://www.surveymonkey.com/s/JIE">Judging Imaginary Events</a> (Plymouth University, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('5444','http://brunellifesc.qualtrics.com/SE/?SID=SV_d4QcLLEO7WCa8jb')" href="http://brunellifesc.qualtrics.com/SE/?SID=SV_d4QcLLEO7WCa8jb">Medical Decision-Making Dilemmas</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3980','http://www.st-andrews.ac.uk/~oclab/memorykb/')" href="http://www.st-andrews.ac.uk/~oclab/memorykb/">Memory for Words Experiment</a> (University of St. Andrews, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('8061','https://mtsu.ca1.qualtrics.com/jfe/form/SV_0NcT5uzrLX6FDW5')" href="https://mtsu.ca1.qualtrics.com/jfe/form/SV_0NcT5uzrLX6FDW5">Mental Toughness and Moral Decision-making</a> (Middle Tennessee State Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('4891','https://www.surveymonkey.com/s/2LSYPNL')" href="https://www.surveymonkey.com/s/2LSYPNL">Mindfulness on Risk Perception and Decision</a> (City Univ. of New York)
+		<li><a target="_blank" onClick="trackStudyClick('5487','https://goo.gl/XOhEuv')" href="https://goo.gl/XOhEuv">Personality and Moral Decision-Making</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('2029','http://www.surveymonkey.com/s/89VTWZZ')" href="http://www.surveymonkey.com/s/89VTWZZ">Personality and Purchasing Decisions</a> (San Francisco State University)
+		<li><a target="_blank" onClick="trackStudyClick('2031','http://www.surveymonkey.com/s/snackingsurveyctaylor2010')" href="http://www.surveymonkey.com/s/snackingsurveyctaylor2010">Psychology of Snacking</a> (University of Sheffield, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('8439','https://openss.qualtrics.com/jfe/form/SV_5BJnY3jKXNuY0tf')" href="https://openss.qualtrics.com/jfe/form/SV_5BJnY3jKXNuY0tf">Purchasing Decisions in the Fashion Context</a> (Univ. of Arts London (UK))
+		<li><a target="_blank" onClick="trackStudyClick('7345','https://livpsych.az1.qualtrics.com/SE/?SID=SV_0HDqCFSgZJ8q38p')" href="https://livpsych.az1.qualtrics.com/SE/?SID=SV_0HDqCFSgZJ8q38p">Quality of Museum Experience</a> (University of Liverpool, UK)
+		<li><a target="_blank" onClick="trackStudyClick('2571','https://www.psychdata.com/s.asp?SID=142804')" href="https://www.psychdata.com/s.asp?SID=142804">Rate Short Video Clips-No Downloading Needed</a> (Rider University)
+		<li><a target="_blank" onClick="trackStudyClick('3571','https://www.isurvey.soton.ac.uk/7953')" href="https://www.isurvey.soton.ac.uk/7953">Reading Comprehension and World Views</a> (University of Southampton, UK)
+		<li><a target="_blank" onClick="trackStudyClick('6688','https://www.surveymonkey.co.uk/r/CHHL58X')" href="https://www.surveymonkey.co.uk/r/CHHL58X">The Reasoning Task</a> (Plymouth University)
+		<li><a target="_blank" onClick="trackStudyClick('5472','https://www.surveymonkey.com/r/XYYHFZR')" href="https://www.surveymonkey.com/r/XYYHFZR">The Structure of Society</a> (University of Plymouth)
+		<li><a target="_blank" onClick="trackStudyClick('44','http://www.cf.martinbruder.com/')" href="http://www.cf.martinbruder.com/">Thoughts and Emotions in Decision Making</a> (Univ. of Cardiff, Wales)
+		<li><a target="_blank" onClick="trackStudyClick('536','http://www.surveymonkey.com/s.asp?u=32431973320')" href="http://www.surveymonkey.com/s.asp?u=32431973320">Understanding the Research Process</a> (Walden University)
+		<li><a target="_blank" onClick="trackStudyClick('7819','https://essex.eu.qualtrics.com/jfe/form/SV_cYXzSTzz27Lwi57')" href="https://essex.eu.qualtrics.com/jfe/form/SV_cYXzSTzz27Lwi57">What Is Your Understanding of Risk?</a> (University of Essex, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8283','https://www.soscisurvey.de/wisdomanddilemma/')" href="https://www.soscisurvey.de/wisdomanddilemma/">Worldly Wisdoms & Dilemma Situations</a> (Universität Bonn (Germany))
+	</ul>
+<p>
+<a name="pinternet"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Psychology of the Internet:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('8768','https://docs.google.com/forms/d/e/1FAIpQLSdOkQ31inzqwCsb443qAdW79tM7En4YQwR8Tx6swyoQBDNIOg/viewform')" href="https://docs.google.com/forms/d/e/1FAIpQLSdOkQ31inzqwCsb443qAdW79tM7En4YQwR8Tx6swyoQBDNIOg/viewform">Effects of Dubbing Versus Subtitling on Enjoyment</a> (Medaille College)
+		<li><a target="_blank" onClick="trackStudyClick('8428','https://survey.eu.qualtrics.com/jfe/form/SV_0ugXczkzrZg6ZhP')" href="https://survey.eu.qualtrics.com/jfe/form/SV_0ugXczkzrZg6ZhP">Emotions & Social Media in 16-18 Year Olds</a> (University of Worcester (UK))
+		<li><a target="_blank" onClick="trackStudyClick('8416','https://rutgers.ca1.qualtrics.com/jfe/form/SV_1yPvUtbCnIIFoLX')" href="https://rutgers.ca1.qualtrics.com/jfe/form/SV_1yPvUtbCnIIFoLX">Exploring Experiences of Video Game Use</a> (Rutgers University)
+		<li><a target="_blank" onClick="trackStudyClick('6619','https://kmrc.qualtrics.com/SE/?SID=SV_2gJuSy79qPNvtpH&s=5')" href="https://kmrc.qualtrics.com/SE/?SID=SV_2gJuSy79qPNvtpH&s=5">Liking Facebook Content</a> (Leibniz Institut fuer Wissensmedien, Germany)
+		<li><a target="_blank" onClick="trackStudyClick('8478','https://bit.ly/2x4QRwT')" href="https://bit.ly/2x4QRwT">Male Body Image and Sexting in Daily Life</a> (Deakin University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('7742','https://goldpsych.eu.qualtrics.com/jfe/form/SV_43jFZp1sxt6c9nL')" href="https://goldpsych.eu.qualtrics.com/jfe/form/SV_43jFZp1sxt6c9nL">Personality & Online Interactions</a> (Goldsmiths, University of London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8103','https://www.surveygizmo.com/s3/4106971/Social-Media-Fitspiration-and-Body-Image-2018')" href="https://www.surveygizmo.com/s3/4106971/Social-Media-Fitspiration-and-Body-Image-2018">Social Media & Fitspiration Impact Body Image</a> (The Cairnmillar Inst., AU)
+		<li><a target="_blank" onClick="trackStudyClick('5186','https://mysocialbrain.org')" href="https://mysocialbrain.org">Social Network Memory: Are They Facebook Friends?</a> (Harvard University)
+		<li><a target="_blank" onClick="trackStudyClick('8898','https://www.surveygizmo.com/s3/4938797/TwitterStudy')" href="https://www.surveygizmo.com/s3/4938797/TwitterStudy">Using Twitter to Predict Onset of Depression</a> (Trinity College Dublin, IE)
+	</ul>
+<p>
+<a name="pother"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Other Social Psychology Topics:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('3448','https://www.surveymonkey.com/s/SNKZHJJ')" href="https://www.surveymonkey.com/s/SNKZHJJ">Black Women's Experiences and Thoughts</a> (Southern Illinois University)
+		<li><a target="_blank" onClick="trackStudyClick('8873','https://bathpsychology.eu.qualtrics.com/jfe/form/SV_3wSHubrLmZaiWPj')" href="https://bathpsychology.eu.qualtrics.com/jfe/form/SV_3wSHubrLmZaiWPj">Buying Styles</a> (University of Bath (UK))
+		<li><a target="_blank" onClick="trackStudyClick('8794','https://www.surveymonkey.com/r/M53JYLL')" href="https://www.surveymonkey.com/r/M53JYLL">Development of a Measure of Attachment to Home</a> (University of Rio grande)
+		<li><a target="_blank" onClick="trackStudyClick('3294','http://www.isurvey.soton.ac.uk/5954')" href="http://www.isurvey.soton.ac.uk/5954">Emotional Experience</a> (University of Southampton, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4022','http://www.st-andrews.ac.uk/~oclab/memoryexperiences/')" href="http://www.st-andrews.ac.uk/~oclab/memoryexperiences/">Experiences of Memory</a> (University of St. Andrews, UK)
+		<li><a target="_blank" onClick="trackStudyClick('6760','https://curtin.asia.qualtrics.com/jfe/form/SV_dbrvYguLvpcTpbv')" href="https://curtin.asia.qualtrics.com/jfe/form/SV_dbrvYguLvpcTpbv">Exploring Musical Investment</a> (Curtin University, Australia)
+		<li><a target="_blank" onClick="trackStudyClick('7546','http://derner.adelphi.edu/emotions-survey')" href="http://derner.adelphi.edu/emotions-survey">Expressing Emotions in Psychotherapy</a> (Adelphi University)
+		<li><a target="_blank" onClick="trackStudyClick('8187','https://docs.google.com/forms/d/e/1FAIpQLSeZqGw8ntLvXQ2kfU0f3BoFKplsHNzW7u9uq8JTOhKDG9u5Wg/viewform?usp=sf_link')" href="https://docs.google.com/forms/d/e/1FAIpQLSeZqGw8ntLvXQ2kfU0f3BoFKplsHNzW7u9uq8JTOhKDG9u5Wg/viewform?usp=sf_link">Game of Thrones and Personality</a> (Monk Prayogshala, IN)
+		<li><a target="_blank" onClick="trackStudyClick('8358','https://bathpsychology.eu.qualtrics.com/jfe/form/SV_0HZFZo7WOwOtkHP')" href="https://bathpsychology.eu.qualtrics.com/jfe/form/SV_0HZFZo7WOwOtkHP">How Do People Perceive Objects</a> (Bath University (UK))
+		<li><a target="_blank" onClick="trackStudyClick('5555','https://acsurvey.qualtrics.com/SE/?SID=SV_0vPiR6ekgJkwFBr')" href="https://acsurvey.qualtrics.com/SE/?SID=SV_0vPiR6ekgJkwFBr">Human Mating and Disgust</a> (Bilkent University)
+		<li><a target="_blank" onClick="trackStudyClick('7700','http://www.musicexperiments.org')" href="http://www.musicexperiments.org">Identifying a Social Universal in Music Cognition</a> (Vanderbilt University)
+		<li><a target="_blank" onClick="trackStudyClick('3831','http://tinyurl.com/lbvndaj')" href="http://tinyurl.com/lbvndaj">Identities of LGB People of Color</a> (Teachers College, Columbia Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('8242','https://coventry.onlinesurveys.ac.uk/insomnia-study')" href="https://coventry.onlinesurveys.ac.uk/insomnia-study">Insomnia and Social Rejection</a> (Coventry University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7204','https://curtin.au1.qualtrics.com/jfe/form/SV_d1n1JPM94Y10Gjj')" href="https://curtin.au1.qualtrics.com/jfe/form/SV_d1n1JPM94Y10Gjj">Interpersonal Relationships and Music listening</a> (Curtin Univ., Australia)
+		<li><a target="_blank" onClick="trackStudyClick('3821','https://www.isurvey.soton.ac.uk/9079')" href="https://www.isurvey.soton.ac.uk/9079">Interpreting Research Findings</a> (University of Surrey, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('6804','https://www.isurvey.soton.ac.uk/18628')" href="https://www.isurvey.soton.ac.uk/18628">It's My Life: Memories and Feelings About Life</a> (University of Surrey, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4206','http://fppvu.qualtrics.com/SE/?SID=SV_eQCaFaxtlUSYhYF')" href="http://fppvu.qualtrics.com/SE/?SID=SV_eQCaFaxtlUSYhYF">Judgments of Moral Wrongness</a> (VU University Amsterdam, The Netherlands)
+		<li><a target="_blank" onClick="trackStudyClick('8509','https://pace.az1.qualtrics.com/jfe/form/SV_0jpJGt0D8fxLmO9')" href="https://pace.az1.qualtrics.com/jfe/form/SV_0jpJGt0D8fxLmO9">Life Experiences and Well-Being</a> (Pace University, NYC)
+		<li><a target="_blank" onClick="trackStudyClick('8710','https://surveyswesternsydney.au1.qualtrics.com/jfe/form/SV_8c6iJHGmpckIQXb')" href="https://surveyswesternsydney.au1.qualtrics.com/jfe/form/SV_8c6iJHGmpckIQXb">Music for Mental Health</a> (Western Sydney University, MARCS Institute.)
+		<li><a target="_blank" onClick="trackStudyClick('8860','https://pace.az1.qualtrics.com/jfe/form/SV_aWsVUrbWn2BVoq1')" href="https://pace.az1.qualtrics.com/jfe/form/SV_aWsVUrbWn2BVoq1">Psychosocial Stress and Adjustment Among Adults</a> (Pace University)
+		<li><a target="_blank" onClick="trackStudyClick('8208','https://chichpscyh.eu.qualtrics.com/jfe/form/SV_02tSFs4VRS2OxmZ')" href="https://chichpscyh.eu.qualtrics.com/jfe/form/SV_02tSFs4VRS2OxmZ">Rules and Social Acceptance</a> (Coventry University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7237','https://bsu.qualtrics.com/jfe/form/SV_8fiJ7ny4puwtNtj')" href="https://bsu.qualtrics.com/jfe/form/SV_8fiJ7ny4puwtNtj">Sexual Attitudes Survey</a> (Ball State University)
+		<li><a target="_blank" onClick="trackStudyClick('7181','https://www.psychdata.com/s.asp?SID=172921')" href="https://www.psychdata.com/s.asp?SID=172921">Sexual Fantasy Survey</a> (Ball State University)
+		<li><a target="_blank" onClick="trackStudyClick('3490','https://www.surveymonkey.com/s/wordassociations')" href="https://www.surveymonkey.com/s/wordassociations">Sexual Orientation and Language</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('5017','http://eu.qualtrics.com/SE/?SID=SV_baakQttE04sMMMl')" href="http://eu.qualtrics.com/SE/?SID=SV_baakQttE04sMMMl">Social Network Effects on Human Pair Choice</a> (University of Oxford, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8134','https://pace.az1.qualtrics.com/jfe/form/SV_bvaC5MIKWFxfS3r')" href="https://pace.az1.qualtrics.com/jfe/form/SV_bvaC5MIKWFxfS3r">Stress and Health</a> (Pace University)
+		<li><a target="_blank" onClick="trackStudyClick('8271','https://oit.co1.qualtrics.com/jfe/form/SV_1S8qIqICik5Q5wx')" href="https://oit.co1.qualtrics.com/jfe/form/SV_1S8qIqICik5Q5wx">Student-Teacher Interactions</a> (Oregon Institute of Technology)
+		<li><a target="_blank" onClick="trackStudyClick('8255','https://bit.ly/2Ighszg')" href="https://bit.ly/2Ighszg">Studying Infographics' Effectiveness</a> (Univ. of Maryland, College Park)
+		<li><a target="_blank" onClick="trackStudyClick('3949','https://cwu.qualtrics.com/SE/?SID=SV_aY1NT3cbLKzWxbn')" href="https://cwu.qualtrics.com/SE/?SID=SV_aY1NT3cbLKzWxbn">Synchronous Cybersupervision</a> (Central Washington University)
+		<li><a target="_blank" onClick="trackStudyClick('7938','https://goo.gl/forms/xWjRDM9Brzsuj7zh2')" href="https://goo.gl/forms/xWjRDM9Brzsuj7zh2">The Effects of Paternal Absence</a> (Newham College University Centre, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8291','https://marymountedu.az1.qualtrics.com/jfe/form/SV_6kXP8EEAjVD6muF')" href="https://marymountedu.az1.qualtrics.com/jfe/form/SV_6kXP8EEAjVD6muF">Writing & Mood Induction</a> (Marymount University)
+		<li><a target="_blank" onClick="trackStudyClick('8309','https://edinburgh.eu.qualtrics.com/jfe/form/SV_dpwwgdeCYhEA0Tj')" href="https://edinburgh.eu.qualtrics.com/jfe/form/SV_dpwwgdeCYhEA0Tj">Writing System's Effect on Social & Spatial Cognition</a> (Univ of Edinburgh)
+	</ul>
+<br></td>
+<td width="7"><img src="/images/trans.gif" width="7" height="1" alt="" border="0"></td>
+<td width="3"><img src="/images/crnr_rb_brn.gif" width="3" height="3" alt="" border="0"></td>
+<td width="1" background="/images/pix_blue.gif"><img src="/images/pix_white.gif" width="1" height="2" alt="" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#003399"><img src="/images/pix_white.gif" width="4" height="1" alt="" border="0"></td>
+<td bgcolor="#003399" align="right"><img src="/images/pix_white.gif" width="4" height="1" alt="" border="0"></td>
+</tr>
+</table>
+
+<br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width=3 bgcolor="#003399"><img src="/images/crnr_lt_blue.gif" alt="" width="3" height="19" border="0"></td>
+<td bgcolor="#003399" width="99%" class="cotitle" align="center">
+<a name="student"></a>
+Student Research</td>
+<td bgcolor="#003399"><img src="/images/crnr_rt_blue.gif" alt="" width="27" height="19" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="/images/pix_blue.gif" width="1" height="8" alt="" border="0"></td>
+<td width="99%" align=right><img src="/images/crnr_rt_blue_bot.gif" alt="" width="17" height="8" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="bottom">
+<td width=1 bgcolor="#003399"><img src="/images/pix_white.gif" width="1" height="2" alt="" border="0"></td>
+<td width="3"><img src="/images/crnr_lb_blue.gif" width="3" height="3" alt="" border="0"></td>
+<td width="7"><img src="/images/trans.gif" width="7" height="1" alt="" border="0"></td>
+<td>
+<script>
+widthVar = getMidWidth();
+document.write('<img src="/images/trans.gif" width="' + widthVar + '" height="8" alt="" border="0"><br>');
+</script>
+<a name="sinterpersonal"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Interpersonal Relations:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('8337','https://uqpsych.qualtrics.com/jfe/form/SV_3WefSdShhn6gSl7')" href="https://uqpsych.qualtrics.com/jfe/form/SV_3WefSdShhn6gSl7">Australian Cross-race Friendships on Health</a> (University of Queensland)
+		<li><a target="_blank" onClick="trackStudyClick('3328','https://www.surveymonkey.com/s/R7868LP')" href="https://www.surveymonkey.com/s/R7868LP">Body Image and Sexuality</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('2408','https://lsucommunications.qualtrics.com/SE/?SID=SV_bCT40dd7J5EbOnO')" href="https://lsucommunications.qualtrics.com/SE/?SID=SV_bCT40dd7J5EbOnO">Characteristics of Parasocial Relationships</a> (Louisiana State University)
+		<li><a target="_blank" onClick="trackStudyClick('2701','http://www.psyresearch.org/gaychristian/')" href="http://www.psyresearch.org/gaychristian/">Christian Spirituality in Same-Sex Couples</a> (Alliant International Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('8715','https://docs.google.com/forms/d/e/1FAIpQLSf32-ZCu2SSRvH_LDy7BWGmCZDghOOXarrK1xz9gmFY-JFZ3Q/viewform?usp=sf_link%E2%80%8B&fbclid=IwAR3tSrJK8ZZLQpsUW5ZK8u_tG8fIGPNCr9WenvXt5szeJULY7YiglUbOGUQ')" href="https://docs.google.com/forms/d/e/1FAIpQLSf32-ZCu2SSRvH_LDy7BWGmCZDghOOXarrK1xz9gmFY-JFZ3Q/viewform?usp=sf_link%E2%80%8B&fbclid=IwAR3tSrJK8ZZLQpsUW5ZK8u_tG8fIGPNCr9WenvXt5szeJULY7YiglUbOGUQ">CMC Use and Well-Being in Romantic Relationships</a> (IADT)
+		<li><a target="_blank" onClick="trackStudyClick('8422','https://standrews.eu.qualtrics.com/jfe/form/SV_cHZ2Sxz7RMcroQl')" href="https://standrews.eu.qualtrics.com/jfe/form/SV_cHZ2Sxz7RMcroQl">Co-Rumination & Problem Solving</a> (University of St Andrews (UK))
+		<li><a target="_blank" onClick="trackStudyClick('3493','https://www.surveymonkey.com/s/9NPXZ9G')" href="https://www.surveymonkey.com/s/9NPXZ9G">Compassion, Life Events, and Relationships</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('3363','https://www.surveymonkey.com/s/MACCC')" href="https://www.surveymonkey.com/s/MACCC">Coping with Microaggressions</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('3859','https://www.surveymonkey.com/s/6593G2C')" href="https://www.surveymonkey.com/s/6593G2C">Coping with Racial/Ethnic Microaggressions</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8326','https://auburn.qualtrics.com/jfe/form/SV_2lDIH5pZDQAEevX')" href="https://auburn.qualtrics.com/jfe/form/SV_2lDIH5pZDQAEevX">Couple's Sleep, Affection, & Satisfaction</a> (Auburn University)
+		<li><a target="_blank" onClick="trackStudyClick('7488','https://goldpsych.eu.qualtrics.com/SE/?SID=SV_50eRlWRom8YhVkh')" href="https://goldpsych.eu.qualtrics.com/SE/?SID=SV_50eRlWRom8YhVkh">Dating Attitudes Survey</a> (Goldsmiths University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('1715','http://statements.questionpro.com/')" href="http://statements.questionpro.com/">Determinants of Moral Judgments</a> (University of California, Los Angeles)
+		<li><a target="_blank" onClick="trackStudyClick('7789','https://sunduni.eu.qualtrics.com/jfe/form/SV_0Ihe8NiHCL63gc5?Q_CHL=social&Q_SocialSource=twitter')" href="https://sunduni.eu.qualtrics.com/jfe/form/SV_0Ihe8NiHCL63gc5?Q_CHL=social&Q_SocialSource=twitter">Disconnected Parenting: Smartphone Distractions</a> (University of Sunderland, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8320','https://csufobjbs.au1.qualtrics.com/jfe/form/SV_dpuB9edqYBwYHuR')" href="https://csufobjbs.au1.qualtrics.com/jfe/form/SV_dpuB9edqYBwYHuR">Enrichment via Positive Regard & Relational Energy</a> (Charles Sturt Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('8372','https://anupsych.co1.qualtrics.com/jfe/form/SV_bPdrZBDHBxBYhKZ')" href="https://anupsych.co1.qualtrics.com/jfe/form/SV_bPdrZBDHBxBYhKZ">Ethnic and National Attitudes</a> (Australian National University)
+		<li><a target="_blank" onClick="trackStudyClick('2407','https://lsucommunications.qualtrics.com/SE/?SID=SV_4NtqLrbSQTm1yII')" href="https://lsucommunications.qualtrics.com/SE/?SID=SV_4NtqLrbSQTm1yII">Functions of Parasocial Relationships</a> (Louisiana State University)
+		<li><a target="_blank" onClick="trackStudyClick('3325','https://rooseveltuniversity.us2.qualtrics.com/SE/?SID=SV_eQjjRHAGKIA15Qg')" href="https://rooseveltuniversity.us2.qualtrics.com/SE/?SID=SV_eQjjRHAGKIA15Qg">Gay, Bi and Queer Males' Electronic Communication</a> (Roosevelt University)
+		<li><a target="_blank" onClick="trackStudyClick('889','http://www.courses.rochester.edu/surveys/funk/honestyT0/')" href="http://www.courses.rochester.edu/surveys/funk/honestyT0/">Honesty in Relationships</a> (University of Rochester)
+		<li><a target="_blank" onClick="trackStudyClick('8165','https://essex.eu.qualtrics.com/jfe/form/SV_afOknHDFkLCajzL')" href="https://essex.eu.qualtrics.com/jfe/form/SV_afOknHDFkLCajzL">Interpersonal Relationships and Clothing Choices</a> (University of Essex, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8895','https://exetercles.eu.qualtrics.com/jfe/form/SV_251zQNcaWsS5cKV')" href="https://exetercles.eu.qualtrics.com/jfe/form/SV_251zQNcaWsS5cKV">Lay Theories and Attitudes Towards Older Workers</a> (University of Exeter)
+		<li><a target="_blank" onClick="trackStudyClick('7544','https://smuniversity.qualtrics.com/jfe/form/SV_exj4RgDVvUlVQEZ')" href="https://smuniversity.qualtrics.com/jfe/form/SV_exj4RgDVvUlVQEZ">Leadership, Employees, and Healthy Workplaces</a> (Saint Mary's University)
+		<li><a target="_blank" onClick="trackStudyClick('1712','http://www.surveymonkey.com/s.aspx?sm=efJNTXJ3dPdVOCEcrUM9fg_3d_3d')" href="http://www.surveymonkey.com/s.aspx?sm=efJNTXJ3dPdVOCEcrUM9fg_3d_3d">Marital Expectations: A Cohort Analysis</a> (Cal. State U., San Bernardino)
+		<li><a target="_blank" onClick="trackStudyClick('4043','https://qtrial.qualtrics.com/SE/?SID=SV_d5wECf1GlQecNxP')" href="https://qtrial.qualtrics.com/SE/?SID=SV_d5wECf1GlQecNxP">Marriage Study</a> (California State University, San Bernardino)
+		<li><a target="_blank" onClick="trackStudyClick('7321','http://csusb.az1.qualtrics.com/SE/?SID=SV_eb1D4SJlkwF6MV7')" href="http://csusb.az1.qualtrics.com/SE/?SID=SV_eb1D4SJlkwF6MV7">Mate Preferences Among Siblings</a> (California State Univ., San Bernardino)
+		<li><a target="_blank" onClick="trackStudyClick('8523','https://survey.az1.qualtrics.com/jfe/form/SV_ezkwwoLN47qa2YB')" href="https://survey.az1.qualtrics.com/jfe/form/SV_ezkwwoLN47qa2YB">Maternal Intergenerational Trauma Transference</a> (Western Carolina University)
+		<li><a target="_blank" onClick="trackStudyClick('8751','https://surreyfahs.eu.qualtrics.com/jfe/form/SV_5sVhrAcA4nOuBAF')" href="https://surreyfahs.eu.qualtrics.com/jfe/form/SV_5sVhrAcA4nOuBAF">Me, Myself and Past Memories</a> (University of Surrey, UK)
+		<li><a target="_blank" onClick="trackStudyClick('1849','http://www.surveymonkey.com/s/XDXSJVF')" href="http://www.surveymonkey.com/s/XDXSJVF">Modes of Change in Romantic Relationships</a> (Pomona College)
+		<li><a target="_blank" onClick="trackStudyClick('3276','https://www.surveymonkey.com/s/GWKL27V')" href="https://www.surveymonkey.com/s/GWKL27V">Multicultural Experiences: Cultural Values</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3729','https://www.surveymonkey.com/s/S55H37T')" href="https://www.surveymonkey.com/s/S55H37T">Multicultural Individuals and Group Behavior</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8903','https://mmu.eu.qualtrics.com/jfe/form/SV_d4QbDrw0Z5M6GYB')" href="https://mmu.eu.qualtrics.com/jfe/form/SV_d4QbDrw0Z5M6GYB">No Phones at the Table</a> (Manchester Metropolitan University)
+		<li><a target="_blank" onClick="trackStudyClick('7515','https://www.surveymonkey.com/r/QQJK9K5')" href="https://www.surveymonkey.com/r/QQJK9K5">Online Dating Attraction</a> (Shippensburg University)
+		<li><a target="_blank" onClick="trackStudyClick('8762','https://www.surveymonkey.com/r/miriam_usc')" href="https://www.surveymonkey.com/r/miriam_usc">Predictors of Positive Intimate Relationships</a> (Univ. of Sunshine Coast)
+		<li><a target="_blank" onClick="trackStudyClick('6670','https://survey.psyc.unb.ca/sexting.aspx')" href="https://survey.psyc.unb.ca/sexting.aspx">Predictors of Sexting</a> (University of New Brunswick)
+		<li><a target="_blank" onClick="trackStudyClick('3968','https://www.surveymonkey.com/s/TTDYPJH')" href="https://www.surveymonkey.com/s/TTDYPJH">Reasons for Faking</a> (Oakland University)
+		<li><a target="_blank" onClick="trackStudyClick('2120','http://macquariehs.qualtrics.com/SE?SID=SV_b4oxBgcUgtDEh80')" href="http://macquariehs.qualtrics.com/SE?SID=SV_b4oxBgcUgtDEh80">Romantic Attraction--Australians Only</a> (Macquarie Univ., Australia)
+		<li><a target="_blank" onClick="trackStudyClick('8738','https://uclioe.eu.qualtrics.com/jfe/form/SV_5ztln0SkcfJ8GCF')" href="https://uclioe.eu.qualtrics.com/jfe/form/SV_5ztln0SkcfJ8GCF">Self-Expansion in Interracial Relationships</a> (University College London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('799','http://www.surveymonkey.com/s.asp?u=124763652038')" href="http://www.surveymonkey.com/s.asp?u=124763652038">Sex and the Menstrual Cycle: Couples</a> (University of Cambridge, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8104','https://pacificu.co1.qualtrics.com/jfe/form/SV_d4OtF3Vo8dAf9u5')" href="https://pacificu.co1.qualtrics.com/jfe/form/SV_d4OtF3Vo8dAf9u5">Sex Differences in Jealousy</a> (Pacific Univ. School of Graduate Psychology)
+		<li><a target="_blank" onClick="trackStudyClick('3191','https://www.surveymonkey.com/s/sexualminoritymen')" href="https://www.surveymonkey.com/s/sexualminoritymen">Sexual Minority Men's Sexual Objectification</a> (Georgia State University)
+		<li><a target="_blank" onClick="trackStudyClick('8836','https://mqedu.qualtrics.com/jfe/form/SV_4Mi3OppNfegNHpj')" href="https://mqedu.qualtrics.com/jfe/form/SV_4Mi3OppNfegNHpj">Social Surrogacy and Relationship Quality</a> (Macquarie University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('7283','https://pacificu.co1.qualtrics.com/SE/?SID=SV_3OatnyLpdxTApO5')" href="https://pacificu.co1.qualtrics.com/SE/?SID=SV_3OatnyLpdxTApO5">Taking a Break in a Relationship</a> (Pacific University)
+		<li><a target="_blank" onClick="trackStudyClick('7582','https://prodsurvey.rcs.griffith.edu.au/TheCouplesStudy')" href="https://prodsurvey.rcs.griffith.edu.au/TheCouplesStudy">The Couples Study</a> (Griffith University)
+		<li><a target="_blank" onClick="trackStudyClick('7847','https://anupsych.co1.qualtrics.com/jfe/form/SV_cVjRoWZHdOOjsgZ')" href="https://anupsych.co1.qualtrics.com/jfe/form/SV_cVjRoWZHdOOjsgZ">The Development of a Measure of Social Support for Weight Management</a> (Australian National University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('8741','https://yorkufoh.ca1.qualtrics.com/jfe/form/SV_6lNA2u2NrCqoroF')" href="https://yorkufoh.ca1.qualtrics.com/jfe/form/SV_6lNA2u2NrCqoroF">The Effect of Mental Illness On Relationships</a> (York University (CA))
+		<li><a target="_blank" onClick="trackStudyClick('7770','https://goldpsych.eu.qualtrics.com/jfe/form/SV_9YTxLn0ravc8JlH')" href="https://goldpsych.eu.qualtrics.com/jfe/form/SV_9YTxLn0ravc8JlH">Tinder Motivations: Why Do You Swipe?</a> (Goldsmiths University London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8863','https://muhlenberg.co1.qualtrics.com/jfe/form/SV_bIpy3S8ZTLco0hT')" href="https://muhlenberg.co1.qualtrics.com/jfe/form/SV_bIpy3S8ZTLco0hT">Variables That Influence Romantic Relationships</a> (Muhlenberg College)
+		<li><a target="_blank" onClick="trackStudyClick('6797','https://lancasteruni.qualtrics.com/SE/?SID=SV_0cwmRXb5pSUIhoN')" href="https://lancasteruni.qualtrics.com/SE/?SID=SV_0cwmRXb5pSUIhoN">What Affects the Experience of Parenting?</a> (Lancaster University)
+		<li><a target="_blank" onClick="trackStudyClick('3416','https://www.isurvey.soton.ac.uk/6484')" href="https://www.isurvey.soton.ac.uk/6484">You and Your Emotions</a> (University of Surrey, United Kingdom)
+	</ul>
+<p>
+<a name="sperception"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Social Perception:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('2864','http://www.surveymonkey.com/s/9BND96S')" href="http://www.surveymonkey.com/s/9BND96S">Attitudes and Perceptions</a> (University of Sunderland, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('2059','http://www.surveymonkey.com/bodyimagesurvey1')" href="http://www.surveymonkey.com/bodyimagesurvey1">Body Image Disturbance in Men Ages 20-29</a> (Seattle University)
+		<li><a target="_blank" onClick="trackStudyClick('7520','https://yeshiva.co1.qualtrics.com/SE/?SID=SV_cAplKr7eODsFmBv')" href="https://yeshiva.co1.qualtrics.com/SE/?SID=SV_cAplKr7eODsFmBv">Breadwinner Women and Marital Satisfaction</a> (Yeshiva University)
+		<li><a target="_blank" onClick="trackStudyClick('1953','http://www.surveymonkey.com/s/gdavis')" href="http://www.surveymonkey.com/s/gdavis">College Drinking, Social Support, and Distance</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('7757','https://hwsml.qualtrics.com/jfe/form/SV_9yHF1qMypkFLrOR')" href="https://hwsml.qualtrics.com/jfe/form/SV_9yHF1qMypkFLrOR">Cultural Preferences in Leader Attributes</a> (Heriot Watt University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7618','https://towsonpsychology.az1.qualtrics.com/jfe/form/SV_6yznkGlumargZNP')" href="https://towsonpsychology.az1.qualtrics.com/jfe/form/SV_6yznkGlumargZNP">Effectiveness of Scientific Arguments</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('7861','https://pes.au1.qualtrics.com/jfe/form/SV_7VyqLF9MhtBp8X3')" href="https://pes.au1.qualtrics.com/jfe/form/SV_7VyqLF9MhtBp8X3">Evolved Attractiveness & Women's Psychology</a> (Murdoch University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('2950','https://www.surveymonkey.com/s/MTXY9SN')" href="https://www.surveymonkey.com/s/MTXY9SN">Experiences of Multicultural Individuals</a> (Brunel University)
+		<li><a target="_blank" onClick="trackStudyClick('4846','http://drewtong.wix.com/experiment')" href="http://drewtong.wix.com/experiment">Gender Differences in Eyewitness Testimony</a> (Heriot-Watt University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8331','https://www.surveymonkey.co.uk/r/57NPM5P')" href="https://www.surveymonkey.co.uk/r/57NPM5P">Influence of Perceived Rejection on Self-esteem</a> (Regent's Univ. London)
+		<li><a target="_blank" onClick="trackStudyClick('4285','http://perception.st-andrews.ac.uk/expt/jing/04-experiment/run.php')" href="http://perception.st-andrews.ac.uk/expt/jing/04-experiment/run.php">Leadership Perception From Face</a> (University of St. Andrews, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8049','https://tccolumbia.qualtrics.com/jfe/form/SV_0GTB9LmOWaLDNop')" href="https://tccolumbia.qualtrics.com/jfe/form/SV_0GTB9LmOWaLDNop">Perceptions & Career Advancement</a> (Teachers College, Columbia University)
+		<li><a target="_blank" onClick="trackStudyClick('8426','https://sunduni.eu.qualtrics.com/jfe/form/SV_3L8uJvUfUumKPdj')" href="https://sunduni.eu.qualtrics.com/jfe/form/SV_3L8uJvUfUumKPdj">Perceptions of Asexuality in the LGBTQ+ Community</a> (Univ. of Sunderland)
+		<li><a target="_blank" onClick="trackStudyClick('7292','https://survey.co1.qualtrics.com/SE/?SID=SV_exJlRACG2mnvQep')" href="https://survey.co1.qualtrics.com/SE/?SID=SV_exJlRACG2mnvQep">Perceptions of Instagram</a> (Shenandoah University)
+		<li><a target="_blank" onClick="trackStudyClick('8663','https://ueapsych.eu.qualtrics.com/jfe/form/SV_3QWorulxAOVf0i1')" href="https://ueapsych.eu.qualtrics.com/jfe/form/SV_3QWorulxAOVf0i1">Perceptions of Young People</a> (University of East Anglia, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8521','https://utorontopsych.az1.qualtrics.com/jfe/form/SV_0B7cK1BywYQRjdH')" href="https://utorontopsych.az1.qualtrics.com/jfe/form/SV_0B7cK1BywYQRjdH">Person Perception in an Online Digital World</a> (Univ. of Toronto Scarborough, CA)
+		<li><a target="_blank" onClick="trackStudyClick('7703','https://oit.co1.qualtrics.com/jfe/form/SV_7PsFeMSNVlNPRcN')" href="https://oit.co1.qualtrics.com/jfe/form/SV_7PsFeMSNVlNPRcN">Public Perceptions</a> (Oregon Institute of Technology, USA)
+		<li><a target="_blank" onClick="trackStudyClick('8338','https://essex.eu.qualtrics.com/jfe/form/SV_d5c4BOM6tkYbohf')" href="https://essex.eu.qualtrics.com/jfe/form/SV_d5c4BOM6tkYbohf">Self Esteem and Relationships</a> (University of Essex (UK))
+		<li><a target="_blank" onClick="trackStudyClick('8506','https://bathpsychology.eu.qualtrics.com/jfe/form/SV_72qXSfO8Ow5Q55X')" href="https://bathpsychology.eu.qualtrics.com/jfe/form/SV_72qXSfO8Ow5Q55X">Social Trait Judgements in Faces and Voices</a> (University of Bath (UK))
+		<li><a target="_blank" onClick="trackStudyClick('7506','https://pes.au1.qualtrics.com/SE/?SID=SV_0PduO81d123YTVb')" href="https://pes.au1.qualtrics.com/SE/?SID=SV_0PduO81d123YTVb">The Biomechanics of Beauty</a> (Murdoch University, Australia)
+		<li><a target="_blank" onClick="trackStudyClick('63','http://uwindsor.ca/socialresearch/')" href="http://uwindsor.ca/socialresearch/">Women's Social Identity</a> (University of Windsor, Canada)
+	</ul>
+<p>
+<a name="sbeliefs"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Beliefs and Attitudes:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('8074','https://goldpsych.eu.qualtrics.com/jfe/form/SV_bHn9JUppIy6xiAd')" href="https://goldpsych.eu.qualtrics.com/jfe/form/SV_bHn9JUppIy6xiAd">Accessing Mental Health Resources</a> (University of London, Goldsmiths, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8266','https://dmupsy.qualtrics.com/jfe/form/SV_3gFhEQhtONahNZz')" href="https://dmupsy.qualtrics.com/jfe/form/SV_3gFhEQhtONahNZz">Attitudes and Beliefs Towards Mental Illness</a> (De Montfort University)
+		<li><a target="_blank" onClick="trackStudyClick('3128','https://www.surveymonkey.com/s/AttitudesTowardSexualExperiences')" href="https://www.surveymonkey.com/s/AttitudesTowardSexualExperiences">Attitudes Toward Sexual Experiences</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('1008','https://www.surveymonkey.com/s.aspx?sm=TDsz3qw94mW0jQLH2chDDA_3d_3d/')" href="https://www.surveymonkey.com/s.aspx?sm=TDsz3qw94mW0jQLH2chDDA_3d_3d/">Attitudes Toward Social Issues</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8064','https://www.surveymonkey.com/r/9SZXBVN')" href="https://www.surveymonkey.com/r/9SZXBVN">Attitudes Towards Dating Violence</a> (Central Michigan University)
+		<li><a target="_blank" onClick="trackStudyClick('8769','https://nupsych.qualtrics.com/jfe/form/SV_09AjUOz4rJLNuIt')" href="https://nupsych.qualtrics.com/jfe/form/SV_09AjUOz4rJLNuIt">Attitudes Towards Mental Illness in the Workplace</a> (Northumbria University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4440','https://www.surveymonkey.com/s/BWTRPLQ')" href="https://www.surveymonkey.com/s/BWTRPLQ">Attitudes Towards Women's Lingerie Among Muslims</a> (Brunel University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('158','http://www.conspiracytheory.martinbruder.com/')" href="http://www.conspiracytheory.martinbruder.com/">Belief in Conspiracy Theories</a> (University of Cambridge, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('7695','https://adelphiderner.co1.qualtrics.com/jfe/form/SV_3sjH3wCFpbpPfFj')" href="https://adelphiderner.co1.qualtrics.com/jfe/form/SV_3sjH3wCFpbpPfFj">Black Collegiates' Experience</a> (Adelphi University Derner Institute, USA)
+		<li><a target="_blank" onClick="trackStudyClick('8294','https://umassamherst.co1.qualtrics.com/jfe/form/SV_efiFlMcp3SspHTL')" href="https://umassamherst.co1.qualtrics.com/jfe/form/SV_efiFlMcp3SspHTL">Challenging Behavior and Parental Involvement</a> (UMass Amherst)
+		<li><a target="_blank" onClick="trackStudyClick('3552','http://cardiff.qualtrics.com/SE/?SID=SV_b9qiR8GGOMORZhb')" href="http://cardiff.qualtrics.com/SE/?SID=SV_b9qiR8GGOMORZhb">Child Stereotype Scale -- Short</a> (Cardiff University, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('8496','https://www.surveymonkey.com/r/QTVWK2S')" href="https://www.surveymonkey.com/r/QTVWK2S">College Student Attachment Style and Well-Being</a> (Willamette University)
+		<li><a target="_blank" onClick="trackStudyClick('8393','https://csufobjbs.au1.qualtrics.com/jfe/form/SV_5okuizy3rY2KoMR')" href="https://csufobjbs.au1.qualtrics.com/jfe/form/SV_5okuizy3rY2KoMR">Community Attitudes to Ethnic Minority Groups</a> (Charles Sturt University)
+		<li><a target="_blank" onClick="trackStudyClick('7914','https://www.esurveycreator.com/s/c40b7d8')" href="https://www.esurveycreator.com/s/c40b7d8">Cultural Competence of Psychology Grad Students</a> (The University of Memphis)
+		<li><a target="_blank" onClick="trackStudyClick('3578','https://acu.qualtrics.com/SE/?SID=SV_6F3DBDA25luZSjb')" href="https://acu.qualtrics.com/SE/?SID=SV_6F3DBDA25luZSjb">Disease Vulnerability & Attitudes</a> (Australian Catholic Univ., Australia)
+		<li><a target="_blank" onClick="trackStudyClick('5291','https://brookeshls.co1.qualtrics.com/SE/?SID=SV_6SbU0THMa6eRtg9')" href="https://brookeshls.co1.qualtrics.com/SE/?SID=SV_6SbU0THMa6eRtg9">Effect of Media on Identity and Emotion</a> (Oxford Brookes University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8780','https://www.psychdata.com/s.asp?SID=184159')" href="https://www.psychdata.com/s.asp?SID=184159">Effects of Age of Migration on Latino Young Adults</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('8215','https://uclioe.eu.qualtrics.com/jfe/form/SV_3DWqH1UssWXGPMp')" href="https://uclioe.eu.qualtrics.com/jfe/form/SV_3DWqH1UssWXGPMp">Equality in Theory & Practice: An Intersectional Approach</a> (Univ. College London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8787','https://tinyurl.com/AutismLGBTQScreening')" href="https://tinyurl.com/AutismLGBTQScreening">Expressing Writing & Heterosexism: LGBTQ-Autism</a> (Univ. of Mass. Boston)
+		<li><a target="_blank" onClick="trackStudyClick('5089','https://www.surveymonkey.com/r/KRWYGS7')" href="https://www.surveymonkey.com/r/KRWYGS7">Gender and STEM</a> (The Citadel)
+		<li><a target="_blank" onClick="trackStudyClick('7521','http://plu.az1.qualtrics.com/SE/?SID=SV_d0BOXdfNcyki9Pn')" href="http://plu.az1.qualtrics.com/SE/?SID=SV_d0BOXdfNcyki9Pn">Health and Nature Survey</a> (Pacific Lutheran University)
+		<li><a target="_blank" onClick="trackStudyClick('8866','https://www.surveymonkey.com/r/YBH32KC')" href="https://www.surveymonkey.com/r/YBH32KC">Impact of Social Issues on College Students</a> (Adelphi University)
+		<li><a target="_blank" onClick="trackStudyClick('3089','https://muohiopsychology.us2.qualtrics.com/SE/?SID=SV_3PLic7mtJA8prDu')" href="https://muohiopsychology.us2.qualtrics.com/SE/?SID=SV_3PLic7mtJA8prDu">Impressions of Careers</a> (Miami University)
+		<li><a target="_blank" onClick="trackStudyClick('7887','https://williamjames.co1.qualtrics.com/jfe/form/SV_2gxMuPE5L2wAjuB')" href="https://williamjames.co1.qualtrics.com/jfe/form/SV_2gxMuPE5L2wAjuB">Love in Supervision</a> (William James College, U.S.)
+		<li><a target="_blank" onClick="trackStudyClick('7727','https://www.surveymonkey.com/r/ObesityBeliefs')" href="https://www.surveymonkey.com/r/ObesityBeliefs">Mainstream Views of Obesity</a> (Charles Sturt University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('8147','https://bsu.qualtrics.com/jfe/form/SV_dapcBK1UfM6uJEh')" href="https://bsu.qualtrics.com/jfe/form/SV_dapcBK1UfM6uJEh">Mental Health Beliefs, Attitudes, and Knowledge</a> (Ball State University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('7694','https://oit.co1.qualtrics.com/jfe/form/SV_39sceoeOWNP3Rlz')" href="https://oit.co1.qualtrics.com/jfe/form/SV_39sceoeOWNP3Rlz">Mental Illness and Stigma</a> (Oregon Institute of Technology)
+		<li><a target="_blank" onClick="trackStudyClick('4026','https://akron.qualtrics.com/SE/?SID=SV_cO00kDKyWAypF8V')" href="https://akron.qualtrics.com/SE/?SID=SV_cO00kDKyWAypF8V">Nice Guys Study</a> (University of Akron)
+		<li><a target="_blank" onClick="trackStudyClick('6614','https://newqtrial2015az1.az1.qualtrics.com/SE/?SID=SV_25GHMpyWKjWDNFH')" href="https://newqtrial2015az1.az1.qualtrics.com/SE/?SID=SV_25GHMpyWKjWDNFH">Obsessive Compulsive Traits & Islam</a> (Goldsmiths, Univ. of London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8714','https://www.surveymonkey.com/r/JNXFH9C')" href="https://www.surveymonkey.com/r/JNXFH9C">Parent Stress Adaptation in Female Caregivers ...</a> (Walden University)
+		<li><a target="_blank" onClick="trackStudyClick('5540','https://weinberg.co1.qualtrics.com/SE/?SID=SV_e36w9kcgXUMxSbr')" href="https://weinberg.co1.qualtrics.com/SE/?SID=SV_e36w9kcgXUMxSbr">Perceptions of Human Action</a> (Northwestern University)
+		<li><a target="_blank" onClick="trackStudyClick('5318','http://people.aut.ac.nz/~jawood/vigilant1_0.html')" href="http://people.aut.ac.nz/~jawood/vigilant1_0.html">Public Support for Vigilantes</a> (Auckland Univ. of Technology, New Zealand)
+		<li><a target="_blank" onClick="trackStudyClick('8378','https://www.surveymonkey.co.uk/r/PWG53FN')" href="https://www.surveymonkey.co.uk/r/PWG53FN">Risks of Developing Eating Disorders in Sport</a> (University of Glasgow)
+		<li><a target="_blank" onClick="trackStudyClick('6767','https://ueapsych.eu.qualtrics.com/SE/?SID=SV_5hYnuQa2lGfLivj')" href="https://ueapsych.eu.qualtrics.com/SE/?SID=SV_5hYnuQa2lGfLivj">Self Identity in First Year Univ. Students</a> (University of East Anglia)
+		<li><a target="_blank" onClick="trackStudyClick('8522','https://bathpsychology.eu.qualtrics.com/jfe/form/SV_5o3K35Igl1kCzAN')" href="https://bathpsychology.eu.qualtrics.com/jfe/form/SV_5o3K35Igl1kCzAN">Social Identity Processes in Mental Health</a> (University of Bath, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4264','http://elunedx.wix.com/surveygateway')" href="http://elunedx.wix.com/surveygateway">Stalking and Jealousy</a> (University of Nottingham, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('6929','https://rutgers.qualtrics.com/SE/?SID=SV_6gHx0XZfZAPFbh3')" href="https://rutgers.qualtrics.com/SE/?SID=SV_6gHx0XZfZAPFbh3">Stigma in the Workplace</a> (Rutgers University)
+		<li><a target="_blank" onClick="trackStudyClick('3878','https://www.surveymonkey.com/s/RML6P59')" href="https://www.surveymonkey.com/s/RML6P59">Student Study Habits</a> (King's College London, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('3160','https://westminsterpsych.qualtrics.com/SE/?SID=SV_3t0NDSBrP60Qesk')" href="https://westminsterpsych.qualtrics.com/SE/?SID=SV_3t0NDSBrP60Qesk">Tablet PC Perception and Attitudes</a> (University of Westminster, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8781','https://fullerton.qualtrics.com/jfe/form/SV_2oc7RBgPVizT0MJ')" href="https://fullerton.qualtrics.com/jfe/form/SV_2oc7RBgPVizT0MJ">Vietnamese Americans' Att. towards Sexual Assault</a> (California State University, Fullerton)
+		<li><a target="_blank" onClick="trackStudyClick('3440','https://www.surveymonkey.com/s/HNGWL8Z')" href="https://www.surveymonkey.com/s/HNGWL8Z">Viewing Television and Moral Elevation</a> (Loyola University Maryland)
+		<li><a target="_blank" onClick="trackStudyClick('8223','https://csufobjbs.au1.qualtrics.com/jfe/form/SV_eaJRmUtbtU9zt89')" href="https://csufobjbs.au1.qualtrics.com/jfe/form/SV_eaJRmUtbtU9zt89">Who Am I? The Role of Culture</a> (Charles Sturt University, Australia)
+	</ul>
+<p>
+<a name="spersonality"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Personality and Individual Differences:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('4238','https://sydneypsy.qualtrics.com/SE/?SID=SV_a03iu1QkxGsbKkZ')" href="https://sydneypsy.qualtrics.com/SE/?SID=SV_a03iu1QkxGsbKkZ">A Study Into Prosocial Behavior</a> (University of Sydney, Australia)
+		<li><a target="_blank" onClick="trackStudyClick('8527','https://wcu.az1.qualtrics.com/jfe/form/SV_37pkil7mvTB1l9b?source=socialpsych')" href="https://wcu.az1.qualtrics.com/jfe/form/SV_37pkil7mvTB1l9b?source=socialpsych">Altitude Towards Pornography</a> (Houston Community College)
+		<li><a target="_blank" onClick="trackStudyClick('8122','https://bedshealthsciences.eu.qualtrics.com/jfe/form/SV_0ik24yHwSsrs0sd')" href="https://bedshealthsciences.eu.qualtrics.com/jfe/form/SV_0ik24yHwSsrs0sd">Autistic/Dark Triad Trait & Model of Empathy</a> (Univ. of Bedfordshire, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4761','https://redcap.vanderbilt.edu/surveys/?s=pCHECo2Mz4')" href="https://redcap.vanderbilt.edu/surveys/?s=pCHECo2Mz4">Coping Styles and Overall Health Questionnaire</a> (Vanderbilt University)
+		<li><a target="_blank" onClick="trackStudyClick('7174','https://pace.az1.qualtrics.com/SE/?SID=SV_bfGPxUBdQPcWGnH')" href="https://pace.az1.qualtrics.com/SE/?SID=SV_bfGPxUBdQPcWGnH">Creativity and Its Effect on Identity Development</a> (Pace University)
+		<li><a target="_blank" onClick="trackStudyClick('4979','https://nottinghampsych.qualtrics.com/SE/?SID=SV_5mZYaJaRVONUvoF')" href="https://nottinghampsych.qualtrics.com/SE/?SID=SV_5mZYaJaRVONUvoF">Differences in Sarcasm Comprehension</a> (University of Nottingham, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4083','http://research.millisecond.com/rhempel/LieDetectionEXPERIMENTNEW.web')" href="http://research.millisecond.com/rhempel/LieDetectionEXPERIMENTNEW.web">Emotion Sensitivity and Lie Detection</a> (University of Southampton, UK)
+		<li><a target="_blank" onClick="trackStudyClick('3646','https://cwru.qualtrics.com/SE/?SID=SV_bQHFv2yxdcgb8Jn')" href="https://cwru.qualtrics.com/SE/?SID=SV_bQHFv2yxdcgb8Jn">Emotional Impact of Coming Out</a> (Case Western Reserve University)
+		<li><a target="_blank" onClick="trackStudyClick('5588','https://wwu.az1.qualtrics.com/SE/?SID=SV_8Izcjlv587ggyA5')" href="https://wwu.az1.qualtrics.com/SE/?SID=SV_8Izcjlv587ggyA5">Emotions and Morality</a> (Western Washington University)
+		<li><a target="_blank" onClick="trackStudyClick('7729','https://adelphiderner.co1.qualtrics.com/jfe/form/SV_bsjVA7w8o4b22H3')" href="https://adelphiderner.co1.qualtrics.com/jfe/form/SV_bsjVA7w8o4b22H3">Expectations for Fighting Spirit, Cancer Patient</a> (Adelphi University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('3030','https://westminsterpsych.qualtrics.com/SE/?SID=SV_b8b77oUI7aKtkhe')" href="https://westminsterpsych.qualtrics.com/SE/?SID=SV_b8b77oUI7aKtkhe">Facebook and Schizotypal Personality Traits</a> (Univ. of Westminster, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7788','https://www.surveymonkey.com/r/FBandbelonging')" href="https://www.surveymonkey.com/r/FBandbelonging">Facebook, Personality and Belonging</a> (Federation University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('2117','http://workbehavior.questionpro.com/')" href="http://workbehavior.questionpro.com/">Fairness, Emotions, and Work Behavior</a> (Florida Institute of Technology)
+		<li><a target="_blank" onClick="trackStudyClick('5166','http://tinyurl.com/nperrone')" href="http://tinyurl.com/nperrone">Feedback and Mood</a> (Sanford H. Calhoun High School)
+		<li><a target="_blank" onClick="trackStudyClick('8172','https://derby.qualtrics.com/jfe/form/SV_dpepgEBtTGam6LX')" href="https://derby.qualtrics.com/jfe/form/SV_dpepgEBtTGam6LX">Gratitude Interventions and Wellbeing</a> (University of Derby, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8323','https://www.isurvey.soton.ac.uk/27227')" href="https://www.isurvey.soton.ac.uk/27227">Growing from Negative Childhood Experiences</a> (University of Southampton)
+		<li><a target="_blank" onClick="trackStudyClick('4743','https://redcap.vanderbilt.edu/surveys/?s=RWc8P7riok')" href="https://redcap.vanderbilt.edu/surveys/?s=RWc8P7riok">Health Behaviors Survey</a> (Vanderbilt University)
+		<li><a target="_blank" onClick="trackStudyClick('8706','https://tinyurl.com/workerexp')" href="https://tinyurl.com/workerexp">How Do the Experiences of Gig Workers Compare With Traditional Workers</a> (Griffith University)
+		<li><a target="_blank" onClick="trackStudyClick('7926','https://surreyfahs.eu.qualtrics.com/jfe/form/SV_099cJZDk9HEuSCp')" href="https://surreyfahs.eu.qualtrics.com/jfe/form/SV_099cJZDk9HEuSCp">How Do You Process Emotional Information?</a> (University of Surrey, UK)
+		<li><a target="_blank" onClick="trackStudyClick('5587','https://vuamsterdam.qualtrics.com/SE/?SID=SV_1X1rdzgNVV1hfZX')" href="https://vuamsterdam.qualtrics.com/SE/?SID=SV_1X1rdzgNVV1hfZX">How Many Foreign Words and People Do You Know?</a> (VU Univ. Amsterdam)
+		<li><a target="_blank" onClick="trackStudyClick('8150','https://surreyfahs.eu.qualtrics.com/jfe/form/SV_cHEskhCfXZKXrDv')" href="https://surreyfahs.eu.qualtrics.com/jfe/form/SV_cHEskhCfXZKXrDv">Imagined Dating Scenarios</a> (University of Surrey, UK)
+		<li><a target="_blank" onClick="trackStudyClick('2294','http://www.surveymonkey.com/s/263RK7Q')" href="http://www.surveymonkey.com/s/263RK7Q">Individual Preferences and Characteristics</a> (Iowa State University)
+		<li><a target="_blank" onClick="trackStudyClick('4365','https://sites.google.com/a/mail.adelphi.edu/research-study-on-motivational-styles-and-behavior-of-current-and-former-aa-members/')" href="https://sites.google.com/a/mail.adelphi.edu/research-study-on-motivational-styles-and-behavior-of-current-and-former-aa-members/">Motivation, Behavior: Current/Former A.A. Members</a> (Adelphi University)
+		<li><a target="_blank" onClick="trackStudyClick('3380','https://www.surveymonkey.com/s/2K7W8BY')" href="https://www.surveymonkey.com/s/2K7W8BY">Parenting and College Student Entitlement</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8838','https://www.psychdata.com/s.asp?SID=184847')" href="https://www.psychdata.com/s.asp?SID=184847">Perfectionism, Anxiety and Body Dissatisfaction</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('7782','https://aruspsych.eu.qualtrics.com/jfe/form/SV_0uCUOFyCWQomtdH')" href="https://aruspsych.eu.qualtrics.com/jfe/form/SV_0uCUOFyCWQomtdH">Perfectionism, Self Visualization</a> (Anglia Ruskin University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8619','https://acu.qualtrics.com/jfe/form/SV_5hB0Oe7Day6a5Ap')" href="https://acu.qualtrics.com/jfe/form/SV_5hB0Oe7Day6a5Ap">Personality & Body Image in Young Women</a> (Australian Catholic University)
+		<li><a target="_blank" onClick="trackStudyClick('6900','https://uweauclaire.qualtrics.com/SE/?SID=SV_39MHqlZ7vUSK7FH')" href="https://uweauclaire.qualtrics.com/SE/?SID=SV_39MHqlZ7vUSK7FH">Personality & Interpersonal Communication</a> (Univ. of Wisconsin-Eau Claire)
+		<li><a target="_blank" onClick="trackStudyClick('8245','https://shusls.eu.qualtrics.com/jfe/form/SV_7P6Dj4XW3jdB5Dn')" href="https://shusls.eu.qualtrics.com/jfe/form/SV_7P6Dj4XW3jdB5Dn">Personality and Behaviours Towards Animals</a> (Sheffield Hallam Univ., UK)
+		<li><a target="_blank" onClick="trackStudyClick('1918','http://www.surveymonkey.com/s/CQ66W7P')" href="http://www.surveymonkey.com/s/CQ66W7P">Personality and Credit Card Advertisements</a> (San Francisco State Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('2720','http://www.zoomerang.com/Survey/WEB22CHPNBPBPH')" href="http://www.zoomerang.com/Survey/WEB22CHPNBPBPH">Personality and Decision Making</a> (Monmouth University)
+		<li><a target="_blank" onClick="trackStudyClick('4764','https://exp.psy.uq.edu.au/epownell')" href="https://exp.psy.uq.edu.au/epownell">Personality and Health Behaviours</a> (University of Queensland, Australia)
+		<li><a target="_blank" onClick="trackStudyClick('6661','https://psybilkent.qualtrics.com/SE/?SID=SV_djcqCBkCRtQuJb7')" href="https://psybilkent.qualtrics.com/SE/?SID=SV_djcqCBkCRtQuJb7">Personality and Memory</a> (Bilkent University, Turkey)
+		<li><a target="_blank" onClick="trackStudyClick('8018','https://ugeorgia.qualtrics.com/jfe/form/SV_2mbAYeZivzalDff')" href="https://ugeorgia.qualtrics.com/jfe/form/SV_2mbAYeZivzalDff">Personality and Work Performance</a> (University of Georgia)
+		<li><a target="_blank" onClick="trackStudyClick('7076','https://www.psychdata.com/s.asp?SID=167022')" href="https://www.psychdata.com/s.asp?SID=167022">Personality at Work</a> (Bond University, Australia)
+		<li><a target="_blank" onClick="trackStudyClick('8831','https://shusls.eu.qualtrics.com/jfe/form/SV_8dnT0xaOGI8OSNv')" href="https://shusls.eu.qualtrics.com/jfe/form/SV_8dnT0xaOGI8OSNv">Personality, Self Harm & Childhood Trauma</a> (Sheffield Hallam Univ., UK)
+		<li><a target="_blank" onClick="trackStudyClick('5188','https://uclpsych.eu.qualtrics.com/SE/?SID=SV_8leXsOCHc2AoUUl')" href="https://uclpsych.eu.qualtrics.com/SE/?SID=SV_8leXsOCHc2AoUUl">Philosophical Views and Action</a> (University College London)
+		<li><a target="_blank" onClick="trackStudyClick('1787','http://vista-survey.com/survey/v2/survey2.dsb?ID=7100240875')" href="http://vista-survey.com/survey/v2/survey2.dsb?ID=7100240875">Political Affiliation and Personality</a> (Goldsmiths Univ. of London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8783','https://coventryhls.eu.qualtrics.com/jfe/form/SV_9ZEMGQdJAOerqBv')" href="https://coventryhls.eu.qualtrics.com/jfe/form/SV_9ZEMGQdJAOerqBv">Psychedelics, Awe Experiences and Personality</a> (Coventry University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8202','https://www.psytoolkit.org/cgi-bin/psy2.4.1/survey?s=3zhjw')" href="https://www.psytoolkit.org/cgi-bin/psy2.4.1/survey?s=3zhjw">Psychological Factors in Cannabis Experiences</a> (Univ. of Wollongong, AU)
+		<li><a target="_blank" onClick="trackStudyClick('7787','https://docs.google.com/forms/d/1jHYMmmvFs0pVkC1953YQ5loj9Rm1ju7rgJb28Amxgmo/edit')" href="https://docs.google.com/forms/d/1jHYMmmvFs0pVkC1953YQ5loj9Rm1ju7rgJb28Amxgmo/edit">Psychological Research Study</a> (Long Island University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('157','http://www.cf2.martinbruder.com/')" href="http://www.cf2.martinbruder.com/">Relationship Between Life Goals and Actions</a> (University of Cambridge, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8352','https://anupsych.co1.qualtrics.com/jfe/form/SV_1TAPsZ1XgwL5d0F')" href="https://anupsych.co1.qualtrics.com/jfe/form/SV_1TAPsZ1XgwL5d0F">Relationship Experiences and Personality</a> (Australian National University)
+		<li><a target="_blank" onClick="trackStudyClick('8502','http://bangorsport.qualtrics.com/jfe/form/SV_cC5tQYmMEc46JTv')" href="http://bangorsport.qualtrics.com/jfe/form/SV_cC5tQYmMEc46JTv">Resilience Through Overseas Expeditions</a> (Bangor University (UK))
+		<li><a target="_blank" onClick="trackStudyClick('7791','https://www.surveymonkey.co.uk/r/FCCY2LG')" href="https://www.surveymonkey.co.uk/r/FCCY2LG">Response to Stigma, Prejudice, Discrimination</a> (King's College London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7477','https://www.surveymonkey.com/r/selfesteemau')" href="https://www.surveymonkey.com/r/selfesteemau">Self-Esteem in American Female students</a> (Adelphi University)
+		<li><a target="_blank" onClick="trackStudyClick('7665','https://www.surveymonkey.com/r/YQTX2RW')" href="https://www.surveymonkey.com/r/YQTX2RW">Sensory-Processing Sensitivity</a> (Federation Univ., Australia)
+		<li><a target="_blank" onClick="trackStudyClick('8119','https://www.surveymonkey.com/r/SmartphoneUse2018')" href="https://www.surveymonkey.com/r/SmartphoneUse2018">Smartphone Use, Friendships, Sleep & Personality</a> (Western Illinois Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('8482','http://unebcss.co1.qualtrics.com/jfe/form/SV_3h0AOoOuYqXRvPn')" href="http://unebcss.co1.qualtrics.com/jfe/form/SV_3h0AOoOuYqXRvPn">Strength of Relationship Scale</a> (University of New England (AU))
+		<li><a target="_blank" onClick="trackStudyClick('8099','http://tinyurl.com/ybjpvotk')" href="http://tinyurl.com/ybjpvotk">The Dark Side of Mavericks</a> (Griffith University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('6854','https://goo.gl/nSfAs5')" href="https://goo.gl/nSfAs5">The Dark Triad and Emotion Recognition</a> (Monk Prayogshala, India)
+		<li><a target="_blank" onClick="trackStudyClick('2169','http://www.surveymonkey.com/s/3PYDCHT')" href="http://www.surveymonkey.com/s/3PYDCHT">The Development of Psychological Needs</a> (San Francisco State University)
+		<li><a target="_blank" onClick="trackStudyClick('8887','https://www.psychdata.com/s.asp?SID=185020')" href="https://www.psychdata.com/s.asp?SID=185020">The Effects of Culture and Stigma on Reporting Sym</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('5173','https://westminsterpsych.az1.qualtrics.com/SE/?SID=SV_6yFq2GbdZfj98e9')" href="https://westminsterpsych.az1.qualtrics.com/SE/?SID=SV_6yFq2GbdZfj98e9">Thinking Styles in Relation to Schizot</a> (University of Westminster, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8230','https://csufobjbs.au1.qualtrics.com/jfe/form/SV_8jDMEnxpSTUrVkx')" href="https://csufobjbs.au1.qualtrics.com/jfe/form/SV_8jDMEnxpSTUrVkx">Trait Interactions Associated with Alcohol Use, AU</a> (Charles Sturt University)
+		<li><a target="_blank" onClick="trackStudyClick('3502','http://qeasttrial.us2.qualtrics.com/SE/?SID=SV_57GmwGdeA4UHHjn')" href="http://qeasttrial.us2.qualtrics.com/SE/?SID=SV_57GmwGdeA4UHHjn">Verbal and Reading Comprehension</a> (Queen's University, Canada)
+		<li><a target="_blank" onClick="trackStudyClick('6631','http://uottawapsy.az1.qualtrics.com/SE/?SID=SV_42RzyoZbEPEYANT')" href="http://uottawapsy.az1.qualtrics.com/SE/?SID=SV_42RzyoZbEPEYANT">Why Do You Do Kegel Exercises?</a> (University of Ottawa, Canada)
+		<li><a target="_blank" onClick="trackStudyClick('8041','https://survey.az1.qualtrics.com/jfe/form/SV_3Uz8af6RkbMyvcN')" href="https://survey.az1.qualtrics.com/jfe/form/SV_3Uz8af6RkbMyvcN">Women's Experiences with Non-traditional Dating</a> (Ball State University)
+		<li><a target="_blank" onClick="trackStudyClick('7476','http://conalmonaghan.shinyapps.io/two-dimensional_machiavellianism/')" href="http://conalmonaghan.shinyapps.io/two-dimensional_machiavellianism/">Your Level of Machiavellianism</a> (Australian National Univ., Australia)
+	</ul>
+<p>
+<a name="sjudgment"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Judgment and Decision Making:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('3219','https://www.surveymonkey.com/s/YWKTRH8')" href="https://www.surveymonkey.com/s/YWKTRH8">Children and the Legal System</a> (Chicago School of Professional Psychology)
+		<li><a target="_blank" onClick="trackStudyClick('8390','https://pes.au1.qualtrics.com/jfe/form/SV_3WunYTHagr8qiO1')" href="https://pes.au1.qualtrics.com/jfe/form/SV_3WunYTHagr8qiO1">Decision-Making in the Criminal Justice System</a> (Murdoch University (AU))
+		<li><a target="_blank" onClick="trackStudyClick('8391','https://pes.au1.qualtrics.com/jfe/form/SV_cGXcY0V9OhtdOaV')" href="https://pes.au1.qualtrics.com/jfe/form/SV_cGXcY0V9OhtdOaV">Decision-Making in the Social Welfare System</a> (Murdoch University (AU))
+		<li><a target="_blank" onClick="trackStudyClick('5582','https://docs.google.com/forms/d/1DEGMhnKC7umMC28YPfX1c_QTWWofTSIoKgzmE3lPHRE/viewform?usp=send_form')" href="https://docs.google.com/forms/d/1DEGMhnKC7umMC28YPfX1c_QTWWofTSIoKgzmE3lPHRE/viewform?usp=send_form">Favorite Brand</a> (Indian Institute of Technology)
+		<li><a target="_blank" onClick="trackStudyClick('8310','https://deakinsurveys.au1.qualtrics.com/jfe/form/SV_dalw1zjrZv96BZb')" href="https://deakinsurveys.au1.qualtrics.com/jfe/form/SV_dalw1zjrZv96BZb">Functions of Future Thinking Scale Validation</a> (Deakin University (AU))
+		<li><a target="_blank" onClick="trackStudyClick('7299','http://www.academicexperiment.com/')" href="http://www.academicexperiment.com/">Game Theory in Behavioral Finance</a> (Univ. Federal de Pernambuco)
+		<li><a target="_blank" onClick="trackStudyClick('8463','https://uclpsych.eu.qualtrics.com/jfe/form/SV_5naXbbckwMZC6Jn')" href="https://uclpsych.eu.qualtrics.com/jfe/form/SV_5naXbbckwMZC6Jn">Judgment in Terrorism Risk Assessments</a> (University College London, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8260','https://bham.qualtrics.com/jfe/form/SV_0oLxP35TDsppGip')" href="https://bham.qualtrics.com/jfe/form/SV_0oLxP35TDsppGip">Memory for Visual Material via Decision Making</a> (University of Birmingham (UK))
+		<li><a target="_blank" onClick="trackStudyClick('6811','https://carletonpsych.co1.qualtrics.com/SE/?SID=SV_d5pm6bFSQJHiPJP')" href="https://carletonpsych.co1.qualtrics.com/SE/?SID=SV_d5pm6bFSQJHiPJP">People’s Perceptions of Academic Disciplines</a> (Carleton University)
+		<li><a target="_blank" onClick="trackStudyClick('8096','https://www.surveymonkey.com/r/Y6PTV3L')" href="https://www.surveymonkey.com/r/Y6PTV3L">Personality & Situational Effects in DM</a> (Georgia Institute of Technology, USA)
+		<li><a target="_blank" onClick="trackStudyClick('3616','https://www.surveymonkey.com/s/KFZ3X8W')" href="https://www.surveymonkey.com/s/KFZ3X8W">Professional Online Networking</a> (University of New South Wales, Australia)
+		<li><a target="_blank" onClick="trackStudyClick('7655','https://lancasteruni.eu.qualtrics.com/jfe/form/SV_0MWkssvhc7M2NxP')" href="https://lancasteruni.eu.qualtrics.com/jfe/form/SV_0MWkssvhc7M2NxP">Propensity for Risky Behavior and Smartphone Use</a> (Lancaster University)
+		<li><a target="_blank" onClick="trackStudyClick('5336','https://www.surveymonkey.com/r/JCPHONE')" href="https://www.surveymonkey.com/r/JCPHONE">Smartphone Use in the College Classroom</a> (The Citadel)
+		<li><a target="_blank" onClick="trackStudyClick('2936','https://www.surveymonkey.com/s/Basic_US')" href="https://www.surveymonkey.com/s/Basic_US">Spending Discretionary Income</a> (San Francisco State University)
+		<li><a target="_blank" onClick="trackStudyClick('7811','https://www.surveymonkey.com/r/thetrumpeffect')" href="https://www.surveymonkey.com/r/thetrumpeffect">Trump Effect! Politics & Decision Making</a> (Charles Sturt University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('8218','https://csufobjbs.au1.qualtrics.com/jfe/form/SV_cx2lIby01m2LlBP')" href="https://csufobjbs.au1.qualtrics.com/jfe/form/SV_cx2lIby01m2LlBP">Why Do we Choose to Offend?</a> (Charles Sturt University)
+	</ul>
+<p>
+<a name="sinternet"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Psychology of the Internet:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('8376','https://nupsych.qualtrics.com/jfe/form/SV_6FE3pcViriUqZU1')" href="https://nupsych.qualtrics.com/jfe/form/SV_6FE3pcViriUqZU1">Facebook Use and Body Image</a> (Northmbria University (UK))
+		<li><a target="_blank" onClick="trackStudyClick('8896','https://www.surveymonkey.com/r/InstagramPhotoSharing')" href="https://www.surveymonkey.com/r/InstagramPhotoSharing">Instagram Photo Sharing</a> (Charles Sturt University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('8785','https://york.qualtrics.com/jfe/form/SV_d7kOnm3tSwvPNjf')" href="https://york.qualtrics.com/jfe/form/SV_d7kOnm3tSwvPNjf">Instagram, Body Image & Academic Engagement</a> (University of York, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8400','https://survey.cs.kau.se/affc/')" href="https://survey.cs.kau.se/affc/">Measuring Online Attitudes and Behaviours 2018</a> (Karlstad University, SE)
+		<li><a target="_blank" onClick="trackStudyClick('5309','http://goo.gl/forms/1Spfo1E5HW')" href="http://goo.gl/forms/1Spfo1E5HW">Online Internet Addictions and Mental Health</a> (Univ. of Glasgow, Scotland)
+		<li><a target="_blank" onClick="trackStudyClick('1981','https://www.surveymonkey.com/s/PERSONALITYINONLINECOMMUNITIES')" href="https://www.surveymonkey.com/s/PERSONALITYINONLINECOMMUNITIES">Personality in Online Communities</a> (St. Mary's University)
+		<li><a target="_blank" onClick="trackStudyClick('8845','https://www.surveymonkey.com/r/WIUSocialMedia1')" href="https://www.surveymonkey.com/r/WIUSocialMedia1">Social Media, Interactions with Others, & Sleep</a> (Western Illinois Univ.)
+	</ul>
+<p>
+<a name="sother"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Other Social Psychology Topics:
+<p>
+<ul>
+	<li><a target="_blank" onClick="trackStudyClick('4476','https://www.surveymonkey.com/s/2J9QLMD')" href="https://www.surveymonkey.com/s/2J9QLMD">Assessing the Perception of Dance Cross-Culturally</a> (Brunel University)
+		<li><a target="_blank" onClick="trackStudyClick('3569','http://www.surveymonkey.com/s/NBQQC3J')" href="http://www.surveymonkey.com/s/NBQQC3J">Behavioral Changes, Memory, and the Abrahamic Religions</a> (Towson Univ.)
+		<li><a target="_blank" onClick="trackStudyClick('3211','https://www.surveymonkey.com/s/JKR3D39')" href="https://www.surveymonkey.com/s/JKR3D39">Bullying vs Harassment</a> (University of New South Wales, Australia)
+		<li><a target="_blank" onClick="trackStudyClick('775','http://www.surveymonkey.com/s.asp?u=266363507264')" href="http://www.surveymonkey.com/s.asp?u=266363507264">Career Development of Lesbian/Bisexual Women</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8276','https://oit.co1.qualtrics.com/jfe/form/SV_6JzxPi9JoRYs7s1')" href="https://oit.co1.qualtrics.com/jfe/form/SV_6JzxPi9JoRYs7s1">Characteristics of Athletes in All Athletics</a> (Oregon Institute of Technology)
+		<li><a target="_blank" onClick="trackStudyClick('7723','https://usapsychology.qualtrics.com/jfe/form/SV_ba7nqUhlgz0nLdX')" href="https://usapsychology.qualtrics.com/jfe/form/SV_ba7nqUhlgz0nLdX">College Students' Help-Seeking Trends</a> (University of South Alabama, USA)
+		<li><a target="_blank" onClick="trackStudyClick('7725','https://southalabama.az1.qualtrics.com/jfe/form/SV_bQRVAREGSpwF6Cx')" href="https://southalabama.az1.qualtrics.com/jfe/form/SV_bQRVAREGSpwF6Cx">Common Perceptions About Autism</a> (University of South Alabama, USA)
+		<li><a target="_blank" onClick="trackStudyClick('8231','https://goo.gl/forms/WBh9xyrxFobaCicf1')" href="https://goo.gl/forms/WBh9xyrxFobaCicf1">Complicated Grief: Factors and Impact</a> (HELP University, MY)
+		<li><a target="_blank" onClick="trackStudyClick('6805','https://www.surveymonkey.co.uk/r/VQGDQD5')" href="https://www.surveymonkey.co.uk/r/VQGDQD5">Concept of "Home," and its Effect on Well-Being</a> (Univ. of Sunderland, UK)
+		<li><a target="_blank" onClick="trackStudyClick('5125','https://www.surveymonkey.com/s/RK6P3T2')" href="https://www.surveymonkey.com/s/RK6P3T2">Cultural Influences on Emotional Display Rules</a> (Brunel University London)
+		<li><a target="_blank" onClick="trackStudyClick('8054','https://dailyroutinesofyoungadults.wordpress.com')" href="https://dailyroutinesofyoungadults.wordpress.com">Daily Routines of Young Adults</a> (Claremont Graduate University)
+		<li><a target="_blank" onClick="trackStudyClick('7801','https://livpsych.az1.qualtrics.com/jfe/form/SV_eA5TrP9Xgc2TzDL')" href="https://livpsych.az1.qualtrics.com/jfe/form/SV_eA5TrP9Xgc2TzDL">Developing the RBI questionnaire</a> (University of Liverpool)
+		<li><a target="_blank" onClick="trackStudyClick('7060','https://brookeshls.co1.qualtrics.com/SE/?SID=SV_4U6kZnlla7hCKfb')" href="https://brookeshls.co1.qualtrics.com/SE/?SID=SV_4U6kZnlla7hCKfb">Do You Eat and Drink?</a> (Oxford Brookes University, UK)
+		<li><a target="_blank" onClick="trackStudyClick('7023','https://smuniversity.eu.qualtrics.com/jfe3/form/SV_0GN6Wltb3Kjvgah')" href="https://smuniversity.eu.qualtrics.com/jfe3/form/SV_0GN6Wltb3Kjvgah">Employee Engagement in Health Programs</a> (Saint Mary's Univ., Canada)
+		<li><a target="_blank" onClick="trackStudyClick('5481','https://asuccp.az1.qualtrics.com/jfe/form/SV_40aRyXFzhA2W6DX')" href="https://asuccp.az1.qualtrics.com/jfe/form/SV_40aRyXFzhA2W6DX">Examination of Socialization and Well-Being</a> (Arizona State University)
+		<li><a target="_blank" onClick="trackStudyClick('7734','https://bsu.qualtrics.com/jfe/form/SV_7OnVdsoxNDbe89n')" href="https://bsu.qualtrics.com/jfe/form/SV_7OnVdsoxNDbe89n">Examining Math Performance of Female Students</a> (Ball State University, USA)
+		<li><a target="_blank" onClick="trackStudyClick('8500','https://towsonpsychology.az1.qualtrics.com/jfe/form/SV_7WYqxtVcFbnreND')" href="https://towsonpsychology.az1.qualtrics.com/jfe/form/SV_7WYqxtVcFbnreND">Examining Peer Perceptions in Sexual Situations</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('3910','https://www.surveymonkey.com/s/6YMVLNN')" href="https://www.surveymonkey.com/s/6YMVLNN">Factors Impacting Disclosure in the HIV+ Community</a> (Loyola Univ. Chicago)
+		<li><a target="_blank" onClick="trackStudyClick('4082','http://surveymonkey.com/s/therapyquestionnaire')" href="http://surveymonkey.com/s/therapyquestionnaire">Helpful Interventions in Psychotherapy</a> (Adelphi University)
+		<li><a target="_blank" onClick="trackStudyClick('2675','http://workclimate4.questionpro.com/')" href="http://workclimate4.questionpro.com/">Hostile Workplace Behaviors</a> (Florida Institute of Technology)
+		<li><a target="_blank" onClick="trackStudyClick('2722','https://ttupsych.qualtrics.com/SE/?SID=SV_afpf8vcYJpmZl40')" href="https://ttupsych.qualtrics.com/SE/?SID=SV_afpf8vcYJpmZl40">How Challenge Promotes and Threat Prevents</a> (Texas Tech University)
+		<li><a target="_blank" onClick="trackStudyClick('7688','https://surreyfahs.eu.qualtrics.com/jfe/form/SV_5z2r7QBY0IIKwhn')" href="https://surreyfahs.eu.qualtrics.com/jfe/form/SV_5z2r7QBY0IIKwhn">How People Deal with Failure in the Workplace</a> (University of Surrey, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8072','https://pes.au1.qualtrics.com/jfe/form/SV_3QPy23gLY08a5MN')" href="https://pes.au1.qualtrics.com/jfe/form/SV_3QPy23gLY08a5MN">Human Attraction and Lumbar Curvature</a> (Murdoch University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('6938','http://infertilitystudy.weebly.com/')" href="http://infertilitystudy.weebly.com/">Infertility Outreach</a> (University of Southern Mississippi)
+		<li><a target="_blank" onClick="trackStudyClick('7256','https://www.psychdata.com/s.asp?SID=173741')" href="https://www.psychdata.com/s.asp?SID=173741">Lack of Psychological Help for Refugees</a> (Barry University)
+		<li><a target="_blank" onClick="trackStudyClick('7721','https://acap.au1.qualtrics.com/jfe/form/SV_7ULdeZS12ucqmFv')" href="https://acap.au1.qualtrics.com/jfe/form/SV_7ULdeZS12ucqmFv">Loneliness, belonging & decisions (Australia only)</a> (Australian College of Applied Psychology)
+		<li><a target="_blank" onClick="trackStudyClick('8349','https://www.surveymonkey.com/r/9ZBR9ZM')" href="https://www.surveymonkey.com/r/9ZBR9ZM">Measuring Psychological Flexibility</a> (The Wright Institute)
+		<li><a target="_blank" onClick="trackStudyClick('8830','https://uclan.eu.qualtrics.com/jfe/form/SV_9SSQOnYmrUUdoiN')" href="https://uclan.eu.qualtrics.com/jfe/form/SV_9SSQOnYmrUUdoiN">Mental Health Knowledge & CAMHS Satisfaction</a> (Univ. of Central Lancashire)
+		<li><a target="_blank" onClick="trackStudyClick('7764','https://usapsychology.qualtrics.com/jfe/form/SV_ba7nqUhlgz0nLdX')" href="https://usapsychology.qualtrics.com/jfe/form/SV_ba7nqUhlgz0nLdX">Mental Health Treatment Trends, College Students</a> (University of South Alabama, USA)
+		<li><a target="_blank" onClick="trackStudyClick('8296','http://unebcss.co1.qualtrics.com/jfe/form/SV_6rKFdt17o1RivgF')" href="http://unebcss.co1.qualtrics.com/jfe/form/SV_6rKFdt17o1RivgF">Mindfulness and Its Related Qualities</a> (University of New England, AU)
+		<li><a target="_blank" onClick="trackStudyClick('3919','https://www.surveymonkey.com/s/OPMGTQ')" href="https://www.surveymonkey.com/s/OPMGTQ">Other's Perceptions of My Gender Typicality</a> (Kings College Univ., UK)
+		<li><a target="_blank" onClick="trackStudyClick('6653','https://iimcal.au1.qualtrics.com/SE/?SID=SV_4SMVbMmpTNLMCC9')" href="https://iimcal.au1.qualtrics.com/SE/?SID=SV_4SMVbMmpTNLMCC9">Perceptions of Service Situations</a> (Indian Inst. of Management Calcutta)
+		<li><a target="_blank" onClick="trackStudyClick('8118','https://www.isurvey.soton.ac.uk/26471')" href="https://www.isurvey.soton.ac.uk/26471">Personality and Memory</a> (University of Southampton, UK)
+		<li><a target="_blank" onClick="trackStudyClick('2049','https://www.surveymonkey.com/s/positive_life_events')" href="https://www.surveymonkey.com/s/positive_life_events">Positive Life Experiences</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8106','https://www.surveymonkey.com/r/QueerIdentity')" href="https://www.surveymonkey.com/r/QueerIdentity">Queer Identity</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8016','https://www.psytoolkit.org/cgi-bin/psy2.4.0/survey?s=TpB4s')" href="https://www.psytoolkit.org/cgi-bin/psy2.4.0/survey?s=TpB4s">Reaction times, Social attitudes and Behaviour</a> (Univ. of Bedfordshire, UK)
+		<li><a target="_blank" onClick="trackStudyClick('8316','https://standrews.eu.qualtrics.com/jfe/form/SV_0CzPQ1SM6R27Kh7')" href="https://standrews.eu.qualtrics.com/jfe/form/SV_0CzPQ1SM6R27Kh7">Reporting Deja vu Experiences</a> (University of St Andrews (UK))
+		<li><a target="_blank" onClick="trackStudyClick('8885','https://ntupsychology.eu.qualtrics.com/jfe/form/SV_8w5bMqh34zY0gjb')" href="https://ntupsychology.eu.qualtrics.com/jfe/form/SV_8w5bMqh34zY0gjb">Risk taking at university</a> (Nottingham)
+		<li><a target="_blank" onClick="trackStudyClick('8868','https://pace.az1.qualtrics.com/jfe/form/SV_6Ka4x80evKwvaap')" href="https://pace.az1.qualtrics.com/jfe/form/SV_6Ka4x80evKwvaap">Self-Identification in Multiracial Individuals</a> (Pace University)
+		<li><a target="_blank" onClick="trackStudyClick('7740','https://csufobjbs.au1.qualtrics.com/jfe/form/SV_cD9lVuKnYN3xCTz')" href="https://csufobjbs.au1.qualtrics.com/jfe/form/SV_cD9lVuKnYN3xCTz">Social Support, Post Vicarious Trauma Growth</a> (Charles Sturt University, AU)
+		<li><a target="_blank" onClick="trackStudyClick('8857','https://bsu.qualtrics.com/jfe/form/SV_a3tCSIW9Ey81oDX')" href="https://bsu.qualtrics.com/jfe/form/SV_a3tCSIW9Ey81oDX">Speech Style and Politeness</a> (Ball State University)
+		<li><a target="_blank" onClick="trackStudyClick('2786','https://www.surveymonkey.com/s/2N5FMC7')" href="https://www.surveymonkey.com/s/2N5FMC7">Survey for Individuals with Epilepsy</a> (Towson University)
+		<li><a target="_blank" onClick="trackStudyClick('8040','https://keelepsych.co1.qualtrics.com/jfe/form/SV_egMAZqy7xJjET2J?Source=Email')" href="https://keelepsych.co1.qualtrics.com/jfe/form/SV_egMAZqy7xJjET2J?Source=Email">The Effect of Cue Type on Autobiographical Memories</a> (Keele Univ., UK)
+		<li><a target="_blank" onClick="trackStudyClick('8420','https://sunduni.eu.qualtrics.com/jfe/form/SV_2ntcgzCKuzU3KXH')" href="https://sunduni.eu.qualtrics.com/jfe/form/SV_2ntcgzCKuzU3KXH">The Effect of Existential Anxiety on Dark Traits</a> (Univ. of Sunderland)
+		<li><a target="_blank" onClick="trackStudyClick('2328','http://remark.sls.hw.ac.uk/cgi-bin/rws3.pl?FORM=SocialComparisonStudy')" href="http://remark.sls.hw.ac.uk/cgi-bin/rws3.pl?FORM=SocialComparisonStudy">The Social Comparison Study</a> (Heriot-Watt University, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('8515','https://essex.eu.qualtrics.com/jfe/form/SV_6lDt5CZb9aCt76J')" href="https://essex.eu.qualtrics.com/jfe/form/SV_6lDt5CZb9aCt76J">Thinking of Retirement? Pre-retirement Survey</a> (University of Essex (UK))
+		<li><a target="_blank" onClick="trackStudyClick('8155','https://umich.qualtrics.com/jfe/form/SV_5hCYnEqAITfQdJr')" href="https://umich.qualtrics.com/jfe/form/SV_5hCYnEqAITfQdJr">Time Use Study of Smartphone Users</a> (University of Michigan, U.S.)
+		<li><a target="_blank" onClick="trackStudyClick('8321','https://bristolexppsych.eu.qualtrics.com/jfe/form/SV_0JqIyjmmqMoOLel')" href="https://bristolexppsych.eu.qualtrics.com/jfe/form/SV_0JqIyjmmqMoOLel">Understanding Human Well-being</a> (University of Bristol (UK))
+		<li><a target="_blank" onClick="trackStudyClick('8114','https://universityofsussex.eu.qualtrics.com/jfe/form/SV_1zzB7VGX233XWQJ')" href="https://universityofsussex.eu.qualtrics.com/jfe/form/SV_1zzB7VGX233XWQJ">Understanding Mental Health</a> (University of Sussex, UK)
+		<li><a target="_blank" onClick="trackStudyClick('4021','https://qtrial.qualtrics.com/SE/?SID=SV_dcH44AQSNCf4d2B')" href="https://qtrial.qualtrics.com/SE/?SID=SV_dcH44AQSNCf4d2B">Using Music to Cue Autobiographical Memory</a> (Keele University)
+		<li><a target="_blank" onClick="trackStudyClick('2953','http://www.surveymonkey.com/s/DS9RVD9')" href="http://www.surveymonkey.com/s/DS9RVD9">Weight Loss Goals</a> (University of Birmingham, United Kingdom)
+		<li><a target="_blank" onClick="trackStudyClick('8244','https://csufobjbs.au1.qualtrics.com/jfe/form/SV_4Zqs4bqkw525c4B')" href="https://csufobjbs.au1.qualtrics.com/jfe/form/SV_4Zqs4bqkw525c4B">Who's Who at Work?</a> (Charles Sturt University, AU)
+	</ul>
+<br></td>
+<td width="7"><img src="/images/trans.gif" width="7" height="1" alt="" border="0"></td>
+<td width="3"><img src="/images/crnr_rb_brn.gif" width="3" height="3" alt="" border="0"></td>
+<td width="1" background="/images/pix_blue.gif"><img src="/images/pix_white.gif" width="1" height="2" alt="" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#003399"><img src="/images/pix_white.gif" width="4" height="1" alt="" border="0"></td>
+<td bgcolor="#003399" align="right"><img src="/images/pix_white.gif" width="4" height="1" alt="" border="0"></td>
+</tr>
+</table>
+
+
+<br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width=3 bgcolor="#003399"><img src="/images/crnr_lt_blue.gif" alt="" width="3" height="19" border="0"></td>
+<td bgcolor="#003399" width="99%" class="cotitle" align="center">
+<a name="resources"></a>
+Web Experiment Resources</td>
+<td bgcolor="#003399"><img src="/images/crnr_rt_blue.gif" alt="" width="27" height="19" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="/images/pix_blue.gif" width="1" height="8" alt="" border="0"></td>
+<td width="99%" align=right><img src="/images/crnr_rt_blue_bot.gif" alt="" width="17" height="8" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="bottom">
+<td width=1 bgcolor="#003399"><img src="/images/pix_white.gif" width="1" height="2" alt="" border="0"></td>
+<td width="3"><img src="/images/crnr_lb_blue.gif" width="3" height="3" alt="" border="0"></td>
+<td width="7"><img src="/images/trans.gif" width="7" height="1" alt="" border="0"></td>
+<td>
+<script>
+widthVar = getMidWidth();
+document.write('<img src="/images/trans.gif" width="' + widthVar + '" height="8" alt="" border="0"><br>');
+</script>
+<a name="listings"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Other Listings of Online Studies:
+<p>
+<ul>
+<li><a target="_blank" href="http://psych.hanover.edu/research/exponnet.html">Psychological Research on the Net</a> (extensive links grouped by topic)
+<li><a target="_blank" href="http://onlinepsychresearch.co.uk/">Online Psychology Research UK</a> (United Kingdom compendium)
+<li><a target="_blank" href="http://www.wexlist.net/">The Web Experiment List</a> (large archive of current and past studies)
+<li><a target="_blank" href="http://www.in-mind.org/online-research/index.php">Online Research</a> (compendium maintained by the Inquisitive Mind)
+<li><a target="_blank" href="http://www.wexlab.eu/WebExpPsyLab.html">Web Experimental Psychology Lab</a> (a virtual laboratory of studies)
+<li><a target="_blank" href="http://dir.yahoo.com/Social_Science/Psychology/Research/Tests_and_Experiments/">Psychology Tests and Experiments</a> (Yahoo! listing)
+<li><a target="_blank" href="http://www.psych.uni.edu/psychexps/">PsychExps</a> (has variety of interactive psychology experiments)
+<li><a target="_blank" href="http://sloan.ucr.edu/">UCR eLab and Sloan Center</a> (studies of online consumer behavior)
+</ul>
+<p>
+<a name="howto"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">How-to Guides:
+<p>
+<ul>
+<li><a target="_blank" href="http://psych.fullerton.edu/mbirnbaum/web/examples.htm">Introduction to Behavioral Research on the Internet</a>
+<li><a target="_blank" href="http://psychlaw.fiu.edu/guide/guide.asp">Guide to Running Surveys and Experiments on the Web</a>
+<li><a target="_blank" href="http://www.apa.org/science/leadership/bsa/internet/">Psychological Research Online: Opportunities and Challenges</a> (APA report)
+</ul>
+<p>
+<a name="software"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Software for Experimentation:
+<p>
+<ul>
+<li><a target="_blank" href="http://www.empirisoft.com/medialab.aspx">MediaLab</a> (Windows-based research software)
+<li><a target="_blank" href="http://www.empirisoft.com/directrt.aspx">DirectRT</a> (millisecond reaction time software)
+<li><a target="_blank" href="http://www.millisecond.com/">Inquisit</a> (for high-precision psychological measures)
+<li><a target="_blank" href="http://cyberball.wikispaces.com/">Cyberball</a> (freeware for research on ostracism and social exclusion)
+<li><a target="_blank" href="http://www.wextor.org/">WEXTOR</a> (tool for designing lab and web experiments)
+<li><a target="_blank" href="http://www.psychologysoftwaredistribution.com/">Psychology Software Distribution</a>  (for research, teaching, and practice)
+<li><a target="_blank" href="http://www.surveygizmo.com/">SurveyGizmo</a> (commercial online survey software)
+<li><a target="_blank" href="http://psy.ck.sissa.it/">PsyScope</a> (Mac freeware for psychological experiments)
+<li><a target="_blank" href="http://www.delosis.com/">Psytools</a> (commercial software for Internet-mediated research)
+<li><a target="_blank" href="http://groups.inf.ed.ac.uk/webexp/">WebExp Experimental Software</a> (freeware for web-based studies)
+<li><a target="_blank" href="http://cognitrn.psych.indiana.edu/rgoldsto/labware.html">Software for Cognitive Psychology Experiments</a> (for Macintosh computers)
+<li><a target="_blank" href="http://www.udemy.com/opensesame-the-experiment-building-software/">OpenSesame: The Experiment Building Software</a> (online course)
+</ul>
+<p>
+<a name="services"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Web-Based Data Collection Services:
+<p>
+<ul>
+<li><a target="_blank" href="http://www.tessexperiments.org/">Time-Sharing Experiments for the Social Sciences</a> (free; NSF-supported)
+<li><a target="_blank" href="http://www.surveymonkey.com/">SurveyMonkey</a> (popular web data collection service; short surveys free)
+<li><a target="_blank" href="http://www.qualtrics.com/">Qualtrics</a> (software for high quality online surveys)
+<li><a target="_blank" href="http://www.psychdata.com/">PsychData</a> (specializing in social science research)
+<li><a target="_blank" href="http://www.chatplat.com/">ChatPlat</a> (web tool that captures live conversation data)
+<li><a target="_blank" href="http://www.socialsci.com/">SocialSci</a> (scientific surveys with participant pool available)
+<li><a target="_blank" href="http://www.questionpro.com/">QuestionPro.com</a> (service for building and analyzing online surveys)
+<li><a target="_blank" href="http://www.checkbox.com/">Checkbox Survey Solutions</a> (commercial service and software)
+<li><a target="_blank" href="http://www.datstat.com/">DatStat</a> (online survey software and research management services)
+<li><a target="_blank" href="http://www.lundresearch.com/">Lund Research</a> (custom-built online surveys for academic research)
+<li><a target="_blank" href="http://www.zipsurvey.com/">ZipSurvey</a> (web survey application developed by I/O psychologists)
+<li><a target="_blank" href="http://www.ipsychexpts.com/">iPsychExpts</a> (creates and hosts psychology web experiments)
+</ul>
+<p>
+<a name="subjectpool"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Subject Pool Management:
+<p>
+<ul>
+<li><a target="_blank" href="http://experimetrix.com/">Experimetrix</a> (web-based service for managing participant pools)
+<li><a target="_blank" href="http://www.sona-systems.com/">Sona Systems</a> (web-based software for managing participant pools)
+</ul>
+<p>
+<a name="additional"></a><img src="/images/arrow_lightblue.gif" alt="" width="7" height="9" hspace="3" border="0">Additional Resources:
+<p>
+<ul>
+<li><a target="_blank" href="http://www.randomizer.org/">Research Randomizer</a> (instant random sampling and assignment)
+<li><a target="_blank" href="http://opl.apa.org/">Online Psychology Laboratory</a> (interactive teaching resources)
+<li><a target="_blank" href="http://www.apa.org/monitor/apr00/web.aspx">A Web of Research</a> (APA article on web research)
+<li><a target="_blank" href="http://www.empirisoft.com/">Empirisoft</a> (software and customized hardware for experiments)
+<li><a target="_blank" href="http://www.amazon.com/exec/obidos/asin/0120999803/sociapsychn0f-20"><I>Psychological Experiments on the Internet</I></a> (edited volume)
+<li><a target="_blank" href="http://www.socialthinking.org/medialab.html">MediaLab Warehouse</a> (archive of MediaLab applications)
+</ul>
+<br></td>
+<td width="7"><img src="/images/trans.gif" width="7" height="1" alt="" border="0"></td>
+<td width="3"><img src="/images/crnr_rb_brn.gif" width="3" height="3" alt="" border="0"></td>
+<td width="1" background="/images/pix_blue.gif"><img src="/images/pix_white.gif" width="1" height="2" alt="" border="0"></td>
+</tr></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#003399"><img src="/images/pix_white.gif" width="4" height="1" alt="" border="0"></td>
+<td bgcolor="#003399" align="right"><img src="/images/pix_white.gif" width="4" height="1" alt="" border="0"></td>
+</tr>
+</table>
+
+		<script>
+	console.log($, $.bt);
+	ie = $("html").hasClass("lt-ie9");
+	var bt_options = {
+				showTip: function(box){
+					$(box).fadeIn(200);
+				},
+				animate: true,
+				cssStyles: {
+					color: '#000',
+					strokeStyle: "#ababab",
+
+					// Make sure tooltips dont give hide behind sidebars, that is why ie is much smaller
+					width: (ie ? '340px' : '390px'),
+					lineHeight: (ie ? '13px' : '16px')
+				},
+				/* when using hideTip, do NOT forget 'callback' at end of animation */
+				hideTip: function(box, callback){
+					var $content = $('.bt-content', box).hide();
+					var $canvas = $('canvas', box);
+					var origWidth = $canvas[0].width;
+					var origHeight = $canvas[0].height;
+					$canvas.animate({width: origWidth * .5, height: origHeight * .5, left: origWidth * .25, top: origHeight * .25, opacity: 0}, 100, 'swing', callback); /* callback */
+				},
+
+				/* other options */
+				shrinkToFit: true,
+				hoverIntentOpts: {
+					interval: 50,
+					timeout: 50
+				}
+			};
+							setTimeout(function() { $("#headlineList a[title]").bt(bt_options); }, 500);
+				<!--/expts.htm-->
+				
+	</script>
+				<p><br>
+			<table width="100%" border=0 cellpadding=0 cellspacing=0>
+			<tr valign="top">
+			<td width="49%" style="background-image:url('/images/footer_bg.gif'); background-repeat:repeat-x;"><img src="/images/trans.gif" width="1" height="5" alt="" border="0"><br>
+			<a href="#top" style="font-family:arial;font-size:11px;line-height:12px;color:black;text-decoration:none;">Return to Top<img src="/images/arrow_top.gif" width="7" height="5" vspace=2 hspace=1 alt="" border="0"></a></td>
+			<td width="1%" nowrap><a href="http://www.socialpsychology.org/"><img src="/images/footer_logo.gif" width="45" height="36" alt="" border="0"></a></td>
+			<td width="49%" style="background-image:url('/images/footer_bg.gif'); background-repeat:repeat-x;" align="right"><img src="/images/trans.gif" width="1" height="5" alt="" border="0"><br>
+			<font  style="font-family:arial;font-size:11px;line-height:12px;color:black;text-decoration:none;">&copy;1996-2019,</font> <a href="http://plous.socialpsychology.org/"  style="font-family:arial;font-size:11px;line-height:12px;color:black;text-decoration:none;" target="_blank">S. Plous</a></td>
+			</table>
+					<br></td>
+		<td><img src="/images/trans.gif" width="16" height="1" alt="" border="0"></td>
+		</tr>
+		</table>
+		</td>
+		</tr>
+		</table>
+		</td>
+		<td id="align2" height="100%">
+
+
+
+				<script>
+	function trackSPNClick(type,id,url) {
+	    if(document.images){
+	        (new Image()).src="http://www.socialpsychology.org/client/redirect.php?R=true&url="+url+
+	        "&from="+type+"&id="+id;
+	    }
+	    return true;
+	}
+	</script>
+	<div class="rightColumn">
+	<h4>Psychology Headlines</h4>
+	<h5>From Around the World</h5>
+	<ul id="headlineList">
+
+		
+		<li><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/DscX9TsgIm4/index.html" onClick="return trackSPNClick('rss','123699',this.href);" target="_blank" title="If you feel like you're hearing more about slavery reparations these days, it's not your imagination&hellip;">Americans Are Again Talking About Slavery Reparations</a></li><li><a href="https://www.usnews.com/news/world/articles/2019-04-14/seychelles-presidents-underwater-speech-protect-our-oceans" onClick="return trackSPNClick('rss','123702',this.href);" target="_blank" title="Seychelles president in underwater speech pleads to protect world's oceans from climate change&hellip;">Seychelles President's Underwater Speech: Protect Our Oceans</a></li><li><a href="https://www.usnews.com/news/us/articles/2019-04-13/apnewsbreak-morehouse-college-to-take-transgender-students" onClick="return trackSPNClick('rss','123691',this.href);" target="_blank" title="Morehouse College, country's only all-male historically black college, to begin admitting transgender men next year&hellip;">All-Male Morehouse College to Accept Transgender Students</a></li><li><a href="https://psychcentral.com/news/2019/04/13/black-patients-with-severe-depression-more-likely-to-be-misdiagnosed-with-schizophrenia/144018.html" onClick="return trackSPNClick('rss','123698',this.href);" target="_blank" title="Black patients with severe depression are more likely than their white counterparts to be misdiagnosed with schizophrenia, according to a new study published in the journal Psychiatric Services&hellip;">Blacks with Depression More Likely to Be Misdiagnosed As Schizophrenic</a></li><li><a href="https://www.usnews.com/news/best-states/georgia/articles/2019-04-14/activists-say-university-must-do-more-to-address-slavery" onClick="return trackSPNClick('rss','123713',this.href);" target="_blank" title="Civil rights leaders say the University of Georgia needs to do more to recognize the school's history with slavery&hellip;">Activists Say University of Georgia Must Do More to Address Slavery</a></li><li><a href="https://www.upi.com/Science_News/2019/04/12/Thousands-of-scientists-back-students-protesting-for-action-on-climate-change/3401555088909/" onClick="return trackSPNClick('rss','123664',this.href);" target="_blank" title="Thousands of scientists signed their name to a letter voicing support for the students protesters calling for action on climate change&hellip;">Thousands of Scientists Back Students Protesting Climate Change</a></li><li><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/Qvvj7YQM8wk/index.html" onClick="return trackSPNClick('rss','123682',this.href);" target="_blank" title="As a clergy sexual abuse scandal throws the Catholic Church into deep crisis on several continents, more than a third of American Catholics say they have questioned whether to remain in the church, according to a new Gallup poll&hellip;">Poll: After Sex Abuse Crisis, 37% of U.S. Catholics Rethink Membership</a></li><li><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/yofixc__fm0/index.html" onClick="return trackSPNClick('rss','123663',this.href);" target="_blank" title="Hiring the wrong person can be costly&hellip;">Company Uses AI to Flag Racist and Sexist Comments from Potential Hires</a></li>
+	</ul>
+
+	
+	<form action="/client/search-tabs.php" onsubmit="if (this.searchterm.value.replace(/^s+|s+$/g, '') == '') { alert ('Please enter one or more keywords you wish to search for.'); return false;}">
+
+	    <input type="hidden" name="search" value="rss">
+	    <input type="text" name="searchterm" size="12" placeholder="Search 14,469 headlines" x-webkit-speech onwebkitspeechchange="$('#newsSearch').click()" style="padding: 2px 5px;margin: 0px;height: auto;line-height: 17px;box-sizing: content-box;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;background-color: #fff;border: 1px solid #ccc;-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);-moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);-webkit-transition: border linear .2s,box-shadow linear .2s;-moz-transition: border linear .2s,box-shadow linear .2s;-o-transition: border linear .2s,box-shadow linear .2s;transition: border linear .2s,box-shadow linear .2s;font-size: 14px;font-family: 'HelveticaNeue-Light','Helvetica Neue Light','Helvetica Neue',Helvetica,Arial,'Lucida Grande',sans-serif;width: 180px;">
+	    <button type="submit" id="newsSearch">Search</button>
+
+	</form>
+
+	<hr />
+
+
+
+
+
+
+			
+
+								<!-- <td align="right"><a target="_blank" href="http://www.twitter.com/PsychNews"><img src="http://twitter-badges.s3.amazonaws.com/t_mini-a.png" alt="Follow PsychNews on Twitter"/  style="margin-bottom: 2px" border=0></a> <td align="left"><div class="RSSsubscribe"><a href="http://www.twitter.com/PsychNews" target="_blank" class="RSSsubscribe">News on Twitter (<strong>205,067</strong> followers)</a></div></td>
+		<tr><td align="right"><a href="/headlines.rss"><img src="/images/rss_32.png" width="16" height="16" alt="" border="0"></a></td>
+		<td align="left"><div class="RSSsubscribe"><a href="/rss/news.htm" class="RSSsubscribe">News Feed (<b>35,797</b> subscribers)</a></div></td>
+		 -->
+
+		 <a href="http://www.twitter.com/PsychNews" target="_blank" class="twitter">
+		 	News on Twitter (<strong>205,067</strong> followers)
+		 </a>
+
+		 <a href="/rss/news.htm" target="_blank" class="rss">
+		 	News Feed (<strong>35,797</strong> subscribers)
+		 </a>
+
+		 <a href="//www.facebook.com/socialpsychology" target="_blank" class="facebook">
+		     Visit us on Facebook (<strong>0</strong> likes)
+		 </a>
+
+
+
+
+</div>
+
+
+
+
+		</td>
+		</tr>
+		</table>
+		<div class="md-modal md-effect-4" id="donateMsg">
+			<div class="md-content">
+				<div id="modalDescription" class="screen-reader-offscreen">Beginning of dialog window. It begins with a heading 1 called &quot;Registration Form&quot;. Escape will cancel and close the window. This form does not collect any actual information.</div>
+				<div>
+					<button id="modalCloseButton" class="modalCloseButton md-close" title="Close donation form">X</button>
+					<div class="md-leftcolumn">
+						<p>Dear Visitor,</p>
+						<p class="pop-msg"><span class="bold">An urgent request:</span> Building on 20 years of grant support, we now depend on donations to keep this website available. If you use the Network, please help—the SPN Advisory Board will match <u>every dollar up to $12,000</u>, doubling your contribution!</p>
+							<div class="selection-group">
+								<div class="tabs time-amount">
+									<span class="one-time tab is-active" id="singlePayment">One Time</span>
+									<span class="monthly tab" id="monthlyPayment">Monthly</span>
+								</div>
+								<div class="amount-info">
+									<div class="btn-container">
+										<div class="single-payment">
+											<div class="amt-selector">
+												<button value="10" id="10sdonate" class="btn-donate">$10</button>
+											</div>
+											<div class="amt-selector">
+												<button value="25" id="25sdonate" class="btn-donate">$25</button>
+											</div>
+											<div class="amt-selector">
+												<button value="100" id="100sdonate" class="btn-donate">$100</button>
+											</div>
+										</div>
+										<div class="monthly-payment is-hidden">
+											<div class="amt-selector">
+												<button value="5" id="10mdonate" class="btn-donate">$5</button>
+											</div>
+											<div class="amt-selector">
+												<button value="10" id="2msdonate" class="btn-donate">$10</button>
+											</div>
+											<div class="amt-selector">
+												<button value="25" id="25mdonate" class="btn-donate">$25</button>
+											</div>
+										</div>
+									</div>
+									<div class="form-group">
+										<form name="donateform" action="https://payments.socialpsychology.org/payment.php" method="POST">
+											<input type="hidden" name="fromNewSupport" value="true">
+											<input type="hidden" name="type" value="donateonly">
+											<input type="hidden" name="from_source" value="popup">
+											<input type="hidden" name="amount" value="">
+											<input type="hidden" name="giftamount3" value="">
+											<input type="hidden" name="source" value="once">
+											<div class="logo-container">
+												<div class="spn-logo">
+													<img src="https://www.socialpsychology.org/favicon.png" alt="Social Psychology" height="100%" width="100%" />
+												</div>
+											</div>
+											<div class="other-amount">
+												<input type="text" id='donateamt' class="donateamt" name="other-amount" value="" placeholder="other amount">
+												<span class="dollar-sign"><i class="fas fa-dollar-sign"></i></span>
+											</div>
+											<button name="button" id="donateBtn" value="donateBtn" class="form-control btn btn-primary"><span class="paylink">Donate</span></button>
+										</form>
+										<br style="clear:both;" />
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br style="clear:both;" />
+				</div>
+			</div>
+			<div class="md-overlay"></div><!-- the overlay element -->
+			<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+			<!-- classie.js by @desandro: https://github.com/desandro/classie -->
+			<script src="js/classie.js"></script>
+			<script src="js/modalEffects.js"></script>
+			<script>
+				// this is important for IEs
+				var polyfilter_scriptpath = '/js/';
+			</script>
+			<script src="js/cssParser.js"></script>
+			<script src="js/css-filters-polyfill.js"></script>
+			<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+			<script src="js/donation-popup.js"></script>
+						<img src="https://secure.socialpsychology.org/logimage.php?page=%2Fexpts.htm&rnd=1871953761" width=1 height=1 border=0>
+										<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-9046968-5']);
+	  _gaq.push(['_setDomainName', 'socialpsychology.org']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+    var _paq = _paq || [];
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+      var u=(("https:" == document.location.protocol) ? "https" : "http") + "://secure.socialpsychology.org/piwik/";
+      _paq.push(["setTrackerUrl", u+"piwik.php"]);
+      _paq.push(["setSiteId", "1"]);
+      var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+      g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+    })();
+
+	</script>
+	<script type="text/javascript">
+
+	/* Attach tracking to all download & external links */
+	var _gaq = _gaq || [];
+
+	function _gaLt(event){
+		var el = event.srcElement || event.target;
+
+		/* Loop up the tree through parent elements if clicked element is not a link (eg: an image in a link) */
+		while(el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href ))
+			el = el.parentNode;
+
+		if(el && el.href && el.href.indexOf('/client/search-tabs.php?search=contentonly') == -1){
+			console.log('Inxed is ' + el.href.indexOf('/client/search-tabs.php?search=contentonly'));
+			if(el.href.indexOf(location.host) == -1){ /* external link */
+				_gaq.push(["_trackEvent", "Outgoing Links", el.href, document.location.pathname + document.location.search]);
+				/* if target not set delay opening of window by 0.5s to allow tracking */
+				if(!el.target || el.target.match(/^_(self|parent|top)$/i)){
+					setTimeout(function(){
+						document.location.href = el.href;
+					}.bind(el),500);
+					/* Prevent standard click */
+					event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+				}
+			} else {
+				_gaq.push(["_trackEvent", "Internal Links", el.href, document.location.pathname + document.location.search]);
+				/* if target not set delay opening of window by 0.5s to allow tracking */
+				if((!el.target || el.target.match(/^_(self|parent|top)$/i)) && !event.metaKey && !event.ctrlKey){
+					setTimeout(function(){
+						document.location.href = el.href;
+					}.bind(el),500);
+					/* Prevent standard click */
+					event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+				}
+			}
+		}
+	}
+
+	/* Attach the event to all clicks in the document */
+	var d = document;
+	d.addEventListener ? d.addEventListener("click",_gaLt,!1) : d.attachEvent && d.attachEvent("onclick",_gaLt);
+
+	</script>
+
+	
+
+
+					<style>
+			a#editPageLink {
+				display: block;
+
+				position:fixed;
+				top:53px;
+				right:4px;
+
+				font-size: 10px;
+				cursor: pointer;
+				margin: 0px 0px 0px 0px;
+				outline: 0px;
+				padding: 2px 4px;
+				text-align: center;
+				text-decoration: none !important;
+				zoom: 1;
+				z-index: 9999999999999999999999;
+
+				-moz-border-radius: 5px; /* Firefox */
+				-webkit-border-radius: 5px; /* Safari, Chrome */
+				border-radius: 5px; /* CSS3 */
+
+				background: #9C9 url('https://secure.socialpsychology.org/css-old/spn-theme/images/ui-bg_glass_75_99cc99_1x400.png') repeat-x 50% 50%;
+				border: 1px solid #051C66;
+				color: #051C66;
+				font-weight: normal;
+			}
+
+			a#editPageLink:hover {
+				background: #BAE6BA url('https://secure.socialpsychology.org/css-old/spn-theme/images/ui-bg_glass_75_bae6ba_1x400.png') repeat-x 50% 50%;
+			}
+
+			a#editPageLink:active {
+				background: #F5F5B8 url('https://secure.socialpsychology.org/css-old/spn-theme/images/ui-bg_flat_65_f5f5b8_40x100.png') repeat-x 50% 50%;
+			}
+/*
+			.editTextBg{
+				background:#333333;
+				filter:alpha(opacity=80);
+				-moz-opacity:0.8;
+				-khtml-opacity: 0.8;
+				opacity: 0.8;
+			}
+
+			.editText{
+				padding:5px;
+				color:#fff;
+				font-weight:normal;
+				font-size:11pt;
+				text-align:left;
+				font-family: helvetica, arial;
+			}
+			.editText:link,hover,visited,active{
+				color:#fff;
+				text-decoration:none;
+			}
+			.editText:visited{
+				color:#fff;
+				text-decoration:none;
+			}
+			*/
+			</style>
+
+			     <a id="editPageLink" style="display:none" target="_blank" href="https://secure.socialpsychology.org/admin/editPage.php?url=http://secure.socialpsychology.org/expts.htm">Edit Page</a>
+
+				<script>if(document.cookie.match(/adminLevel=admin/)) document.getElementById("editPageLink").style.display = 'block';</script>
+								
+		<script>
+		/**
+		*
+		* Fix for the tempalt not extending all the way to the bottom
+		*
+		*/
+
+		window.resetTemplateHeight = function() {
+
+			// Lets not make this too expensive, lets only resize things if they need resizing.
+			var height = $(window).height();
+			console.log(window.bodyHeight, height);
+			if(window.bodyHeight == height)
+				return;
+
+			window.bodyHeight = height;
+
+
+			try {
+				$("#sectionBody").css({'height': 'auto'});
+
+				if($("#sectionBody").height() < $("body").height() )
+					$("#sectionBody").height($("body").height());
+			} catch(e) {
+				var sectionBody = document.getElementById("sectionBody");
+				sectionBody.style.height = 'auto';
+				if(sectionBody.clientHeight < document.body.clientHeight) sectionBody.style.height = (document.body.clientHeight +50) + "px";
+			}
+
+			try {
+				$("#leftColumnID").css({'height': 'auto'});
+				$("#leftColumnID").height($("#lColumn").height() );
+
+				if($("#leftColumnID").height() < $("body").height() )
+					$("#leftColumnID").height($("body").height());
+			} catch(e) {
+				var sectionBody = document.getElementById("leftColumnID");
+				leftColumnID.style.height = 'auto';
+				if(leftColumnID.clientHeight < document.body.clientHeight) leftColumnID.style.height = (document.body.clientHeight +50) + "px";
+			}
+
+		};
+		</script>
+
+		</body></html>

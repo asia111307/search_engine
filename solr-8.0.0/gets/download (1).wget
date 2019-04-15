@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en" class="preloadCss">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Social Psychology Network</title>
+	<meta name="description" content="Over 20,000 psychology links on a wide variety topics. Definitely worth a visit!">
+
+	
+	<link rel="icon" href="/img/favicon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//www.socialpsychology.org/img/ios/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//www.socialpsychology.org/img/ios/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//www.socialpsychology.org/img/ios/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="//www.socialpsychology.org/img/ios/apple-touch-icon-precomposed.png">
+
+<link template="" type="text/css" href="//www.socialpsychology.org/css/app/template-784473232b4b9e77cb368813f1ce24f8.css" rel="stylesheet"><link template="" type="text/css" href="//www.socialpsychology.org/css/app/index-bc62e9bd7396bcedc5596488c9057773.css" rel="stylesheet"></head>
+<body class=""><header id="topHeader"><a style="cursor: default;"><img src="//www.socialpsychology.org/img/logo.png" id="logo"></a>
+
+<h1><a style="cursor: default;">Social Psychology Network</a></h1>	
+
+<h2><a href="//www.socialpsychology.org/plous.htm" target="_blank">Maintained by Scott Plous</a>, <a href="//www.wesleyan.edu" target="_blank">Wesleyan University</a></h2>
+<div class="navbar">
+	<ul class="menu nav">
+
+	<li class="joinbox dropdown">
+		
+		<a data-toggle="dropdown"> <b class="caret"></b></a>
+		<ul class="dropdown-menu pull-right"><!-- We programmically update this one --></ul>
+	</li>
+	
+		
+	
+		<li class="dropdown">
+			<a data-toggle="dropdown">Forums <b class="caret"></b></a>
+			<ul class="dropdown-menu pull-right">
+				<li><a href="//www.socialpsychology.org/forums.htm">Overview of Forums</a></li>
+				<li><a href="http://www.facebook.com/socialpsychology" target="_blank">SPN on Facebook</a></li>
+				<li><a href="//www.socialpsychology.org/forums/listservcenter.htm">Listserv Message Center</a></li>
+				<li><a href="//www.socialpsychology.org/forums/jobforum/">Job Posting Forum</a></li>
+				<!-- <li><a href="//www.socialpsychology.org/forums/student/">Student Forum</a></li> -->
+				<li><a href="//www.socialpsychology.org/forums/addalink.htm">Add-a-Link Page</a></li>
+			</ul>
+		</li>
+	
+		<li class="dropdown">
+			<a data-toggle="dropdown">Directories <b class="caret"></b></a>
+			<ul class="dropdown-menu pull-right">
+				<li><a href="//www.socialpsychology.org/profilesearch.htm">Professional Profiles</a></li>
+				<li><a href="//www.socialpsychology.org/directory">Social Media Directory</a></li>
+				<li><a href="//www.socialpsychology.org/membership-directory">Membership Directory</a></li>
+			</ul>
+		</li>
+	
+</ul>
+</div>
+
+<div class="swooshBar"></div></header>
+<div id="wrapper">
+	<div id="leftColumn" class="noSearchBox">
+
+
+<div class="sideBox partnerSites ">
+	<h2>Partner Sites</h2>
+	<ul>
+		<li class="up"><span></span><a href="http://www.understandingprejudice.org/">Understanding Prejudice</a></li>
+		<li class="einterview"><span></span><a href="http://www.einterview.org/">eInterview</a></li>
+		<li class="at"><span></span><a href="http://www.actionteaching.org/">Action Teaching</a></li>
+		<li class="randomizer"><span></span><a href="http://www.randomizer.org/">Research Randomizer</a></li>
+		<li class="prisonexp"><span></span><a href="http://www.prisonexp.org/">Stanford Prison Experiment</a></li>
+		<li class="jigsaw"><span></span><a href="http://www.jigsaw.org/">The Jigsaw Classroom</a></li>
+		<li class="chemo"><span></span><a href="http://www.joechemo.org/">Joe Chemo</a></li>
+	</ul>
+	<div class="foot"></div>
+</div>
+
+<div class="sideBox psychOptions">
+	<h2>Social Psychology Pages</h2>
+	<ul>
+		<li><a href="//www.socialpsychology.org/social.htm" title="Social Psychology Topics">Social Psychology Topics</a></li>
+		<li><a href="//www.socialpsychology.org/journals.htm">Professional Journals</a></li>
+		<li><a href="//www.socialpsychology.org/teaching.htm">Teaching Resources</a></li>
+		<li><a href="//www.socialpsychology.org/texts.htm">Psychology Textbooks</a></li>
+		<li><a href="//www.socialpsychology.org/expts.htm">Online Psychology Studies</a></li>
+
+	</ul>
+	<div class="foot"></div>
+</div>
+
+<div class="sideBox otherOptions">
+	<h2>Other Psychology Pages</h2>
+	<ul>
+		<li><a href="//www.socialpsychology.org/psylinks.htm">Links by Psychology Area</a></li>
+		<li><a href="//www.socialpsychology.org/psych.htm">Organizations &amp; Conferences</a></li>
+		<li><a href="//www.socialpsychology.org/career.htm">Psychology Career Center</a></li>
+		<li><a href="//www.socialpsychology.org/ranking.htm">Ph.D. Program Rankings</a></li>
+		<li><a href="//www.socialpsychology.org/clinrank.htm">Clinical Psychology Programs</a></li>
+		<li><a href="//www.socialpsychology.org/distance.htm">Distance Learning and MOOCs</a></li>
+		<li><a href="//www.socialpsychology.org/blogs.htm">Blogs, Podcasts, and RSS</a></li>
+	</ul>
+	<div class="foot"></div>
+</div>
+
+<div class="about sideBox">
+	<h2>About the Network</h2>
+	<ul>
+		<li><a href="//www.socialpsychology.org/about.htm">History and Mission</a></li>
+		<li><a href="//www.socialpsychology.org/support.htm">Join or Donate to SPN</a></li>
+		<li><a href="//www.socialpsychology.org/financial.htm">Institutional Contributors</a></li>
+		<li><a href="//www.socialpsychology.org/members.htm">Individual SPN Members</a></li>
+		<li><a href="//www.socialpsychology.org/endorsements/">Endorsements of the Network</a></li>
+		<li><a href="//www.socialpsychology.org/usage.htm">Site Usage Statistics</a></li>
+		<li><a href="//www.socialpsychology.org/policy.htm">SPN User Policy</a></li>
+
+		<li><a href="//www.socialpsychology.org/contact.htm">Contact Us</a></li>
+
+	</ul>
+	<div class="foot"></div>
+</div>
+
+<div class="socialMedia">
+		<a href="//www.twitter.com/PsychNews" target="_blank"><img src="//www.socialpsychology.org/img/social/custom/twitter.svg" height="32px" width="32px" alt="SPN on Twitter" /></a>
+		<a href="//www.facebook.com/socialpsychology" target="_blank"><img src="//www.socialpsychology.org/img/social/custom/fb_icon.svg" height="32px" width="32px" alt="Find us on Facebook" /></a>
+		<a href="//www.socialpsychology.org/rss/news.htm" target="_blank"><img src="//www.socialpsychology.org/img/social/custom/rss_icon.svg" height="32px" width="32px" alt="SPN RSS News"/></a>
+</div>
+</div><div id="content" class="homepage"><div class="carouselWrapper">
+
+    <div>
+
+        <p>Welcome to Social Psychology Network, one of the largest Internet sites devoted to psychological research and teaching.</p>
+
+        <form action="http://www.socialpsychology.org/client/search-tabs.php" id="searchForm" method="GET" onsubmit="if (this.searchterm.value.replace(/^\s+|\s+$/g, '') == '') { alert ('Please enter one or more keywords you wish to search for.'); return false;}">
+            <!-- <h1>Search Social Psychology Network:</h1> -->
+            <input type="text" name="searchterm" placeholder="Search 20,000 links" x-webkit-speech="" onwebkitspeechchange="$('form a.quick').click()">
+			<input type="hidden" name="search" value="simple">
+            <menu>
+                <a class="quick" onclick="if (document.getElementById('searchForm').searchterm.value.replace(/^\s+|\s+$/g, '') == '') { alert ('Please enter one or more keywords you wish to search for.'); return false;} else { document.getElementById('searchForm').submit(); }">Quick Search</a>
+                <a class="advanced" onclick="window.location='http://www.socialpsychology.org/asearch.htm?searchterm=' + document.getElementById('searchForm').searchterm.value + '&amp;search=simple&amp;allowblank=false&amp;search=advanced&amp;allowblank=true'">Advanced Search</a>
+                <!-- <a class="help">Help</a> -->
+            </menu>
+        </form>
+    </div>
+
+    <aside class="carousel"><div class="content YO">
+
+	<ul>
+		<li class="advanced right">
+			<a href="/asearch.htm">
+				<h2>Looking for <br>a specific item?</h2>
+				<h3>Try our Advanced Search</h3>
+			</a>
+		</li>
+
+		<li class="sexism left">
+			<a href="http://www.understandingprejudice.org/asi/">
+				<h2>Measure your level of sexism</h2>
+				<h3>Compare it to men and <br>women in 20 countries</h3>
+			</a>
+		</li>
+
+		<li class="prison left">
+			<a href="http://www.prisonexp.org/">
+				<h2 style="font-size:28px;">Enter the Stanford Prison Experiment</h2>
+				<h3>Official site of the classic study</h3>
+			</a>
+		</li>
+
+		<!-- <li class="random right">
+			<a href="http://www.randomizer.org">
+				<h2>Help yourself to random numbers</h2>
+				<h3>A free tool for researchers</h3>
+			</a>
+		</li> -->
+
+		<li class="join right">
+			<a href="https://secure.socialpsychology.org/support.htm">
+				<h2>Join the<br>Network</h2>
+				<h3>More than 3,500 members<br>from over 100 countries</h3>
+			</a>
+		</li>
+
+		<li class="thankyou left">
+			<aside>
+				<h2>Visit our wonderful sponsors</h2>
+				<h3>
+					<a href="http://www.worthpublishers.com/psychology">Worth Publishers</a><br>
+					<a href="http://www.calsouthern.edu/online-psychology-degrees/">California Southern University</a><br>
+					<a href="http://www.psypress.com">Psychology Press</a>
+				</h3>
+			</aside>
+		</li>
+
+	</ul>
+
+
+</div>
+
+<div class="left-arrow"></div>
+<div class="right-arrow"></div>
+
+<div class="buttons">
+
+<button class="active"></button> <button></button> <button></button> <button></button> <button></button> </div>
+</aside>
+
+</div>
+
+<!-- <hr /> -->
+
+<section>
+
+    <aside>
+        <h1 style="margin-top:0px">Our Mission</h1>
+
+        <p> The mission of Social Psychology Network is to promote peace, social justice, and sustainable living through public education, research, and the advancement of psychology.</p>
+
+
+        <p>Locate social psychology resources around the world:</p>
+
+        <ul class="maps">
+            <li><a href="/maps/experts"><div></div><span>2,000+ profiled experts from 50 countries</span></a></li>
+            <li class="researchgroups"><a href="/maps/researchgroups"><div></div><span>800+ research groups from 32 countries</span></a></li>
+            <li class="gradprograms"><a href="/maps/gradprograms"><div></div><span>300+ graduate programs from 45 countries</span></a></li>
+        </ul>
+
+        <!-- vertical, thumbnail description -->
+
+        <!-- Profiled Experts -->
+
+
+    </aside>
+
+    <aside class="news">
+		<div class="content">
+        <h1 style="margin-top:0px">Network News</h1>
+
+<p>
+<a target="_blank" href="https://www.coursera.org/learn/social-psychology">
+    <button class="btn btn-primary" style="float:left;margin:6px 9px 4px 0px">Free Psychology Course!</button>
+</a>
+Here’s some exciting news for students and lifelong learners everywhere: you can now take a free online <a target="_blank" href="https://www.coursera.org/learn/social-psychology" class="news">Social Psychology</a> course taught by SPN’s Executive Director! Earlier versions of this course enrolled more than 700,000 students from 200 countries, making it the world’s largest synchronous class. In this updated version, students also have the option of purchasing an official course certificate for a fee that supports Social Psychology Network.
+</p>
+<br>
+<p>
+<a target="_blank" href="http://www.socialpsychology.org/endorsements/pcun.htm"><img src="/images/pcun-icon.jpg" width="130" height="80" alt="Psychology Coalition at the United Nations" style="float:left;padding:4px 10px 0px 0px" border="0"></a>We're pleased to announce that the Psychology Coalition at the United Nations has endorsed Social Psychology Network. PCUN is composed of representatives of psychology and psychology-related organizations that are non-governmental organizations (NGOs) accredited at the United Nations and those affiliated with U.N. departments, agencies, and missions. For details, please see the PCUN <a target="_blank" href="http://www.psychologycoalitionun.org/" class="news">website</a> and <a target="_blank" href="http://www.socialpsychology.org/endorsements/pcun.htm" class="news">endorsement statement</a>.
+</p>
+</div>
+    </aside>
+
+</section>
+
+
+    <hr>
+
+<footer>
+  <div class="md-modal md-effect-4" id="donateMsg" tabindex="-1" role="dialog">  <div class="md-content">
+    <div id="modalDescription" class="screen-reader-offscreen">Beginning of dialog window. It begins with a heading 1 called "Registration Form". Escape will cancel and close the window. This form does not collect any actual information.</div>
+    <div>
+      <button id="modalCloseButton" class="modalCloseButton md-close" title="Close donation form">X</button>
+      <div class="md-leftcolumn">
+        <p>Dear Visitor,</p>
+        <p class="pop-msg"><span class="bold">An urgent request:</span> Building on 20 years of grant support, we now depend on donations to keep this website available. If you use the Network, please help—the SPN Advisory Board will match <u>every dollar up to $12,000</u>, doubling your contribution!</p>
+          <div class="selection-group">
+            <div class="tabs time-amount">
+              <span class="one-time tab is-active" id="singlePayment">One Time</span>
+              <span class="monthly tab" id="monthlyPayment">Monthly</span>
+            </div>
+            <div class="amount-info">
+              <div class="btn-container">
+                <div class="single-payment">
+                  <div class="amt-selector">
+                    <button value="10" id="10sdonate" class="btn-donate">$10</button>
+                  </div>
+                  <div class="amt-selector">
+                    <button value="25" id="25sdonate" class="btn-donate">$25</button>
+                  </div>
+                  <div class="amt-selector">
+                    <button value="100" id="100sdonate" class="btn-donate">$100</button>
+                  </div>
+                </div>
+                <div class="monthly-payment is-hidden">
+                  <div class="amt-selector">
+                    <button value="5" id="10mdonate" class="btn-donate">$5</button>
+                  </div>
+                  <div class="amt-selector">
+                    <button value="10" id="2msdonate" class="btn-donate">$10</button>
+                  </div>
+                  <div class="amt-selector">
+                    <button value="25" id="25mdonate" class="btn-donate">$25</button>
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <form name="donateform" action="https://payments.socialpsychology.org/payment.php" method="POST">
+                  <input type="hidden" name="fromNewSupport" value="true">
+                  <input type="hidden" name="type" value="donateonly">
+                  <input type="hidden" name="from_source" value="popup">
+                  <input type="hidden" name="amount" value="">
+                  <input type="hidden" name="giftamount3" value="">
+                  <input type="hidden" name="source" value="once">
+                  <div class="logo-container">
+                    <div class="spn-logo">
+                      <img src="https://www.socialpsychology.org/favicon.png" alt="Social Psychology" height="100%" width="100%">
+                    </div>
+                  </div>
+                  <div class="other-amount">
+                    <input type="text" id="donateAmt" class="donateamt" name="other-amount" value="" placeholder="other amount">
+                    <span class="dollar-sign"><i class="fas fa-dollar-sign"></i></span>
+                  </div>
+                  <button name="button" id="donateBtn" value="donateBtn" class="form-control btn btn-primary"><span class="paylink">Donate</span></button>
+                </form>
+                <br style="clear:both;">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br style="clear:both;">
+    </div>
+  <!-- the overlay element -->
+</div>
+  <div class="md-overlay"></div>
+    <a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5712&amp;org=BCS&amp;from=home" target="_blank">
+        <!--[if IE]><img src="/img/nsf.png" width="65" height="65"><![endif]-->
+        <!--[if !IE]> --><img src="/img/nsf.svg" width="65" height="65"><!-- <![endif]-->
+
+    </a>
+
+    <div class="text">
+        <p class="footer">Since 1996, the pages of SocialPsychology.org and its partner sites have been viewed <span class="views">343.7</span> million times. <!-- Today, there have been <span class="page-views">1,194</span> page views by <span class="visitors">557</span> visitors from <span class="countries">42</span> different countries.-->&nbsp;<a class="stats" href="/usage.htm">More Statistics►</a></p>
+
+        <p class="footer">
+            Social Psychology Network and its partner sites are supported in part by the National Science Foundation (grants #9950517, #0339002, #0843855, and #1456048). <br> ©1996-2019, S. Plous
+        </p>
+    </div>
+</footer>
+</div><div id="rightColumn" style=""><h4>Psychology Headlines</h4>
+<h5>From Around the World</h5>
+<ul id="headlineList">
+	
+		<li><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/DscX9TsgIm4/index.html" title="If you feel like you&#x27;re hearing more about slavery reparations these days, it&#x27;s not your imagination&amp;hellip;" headlineid="123699" target="_blank">Americans Are Again Talking About Slavery Reparations</a></li>
+	
+		<li><a href="https://www.usnews.com/news/world/articles/2019-04-14/seychelles-presidents-underwater-speech-protect-our-oceans" title="Seychelles president in underwater speech pleads to protect world&#x27;s oceans from climate change&amp;hellip;" headlineid="123702" target="_blank">Seychelles President's Underwater Speech: Protect Our Oceans</a></li>
+	
+		<li><a href="https://www.usnews.com/news/us/articles/2019-04-13/apnewsbreak-morehouse-college-to-take-transgender-students" title="Morehouse College, country&#x27;s only all-male historically black college, to begin admitting transgender men next year&amp;hellip;" headlineid="123691" target="_blank">All-Male Morehouse College to Accept Transgender Students</a></li>
+	
+		<li><a href="https://psychcentral.com/news/2019/04/13/black-patients-with-severe-depression-more-likely-to-be-misdiagnosed-with-schizophrenia/144018.html" title="Black patients with severe depression are more likely than their white counterparts to be misdiagnosed with schizophrenia, according to a new study published in the journal Psychiatric Services&amp;hellip;" headlineid="123698" target="_blank">Blacks with Depression More Likely to Be Misdiagnosed As Schizophrenic</a></li>
+	
+		<li><a href="https://www.usnews.com/news/best-states/georgia/articles/2019-04-14/activists-say-university-must-do-more-to-address-slavery" title="Civil rights leaders say the University of Georgia needs to do more to recognize the school&#x27;s history with slavery&amp;hellip;" headlineid="123713" target="_blank">Activists Say University of Georgia Must Do More to Address Slavery</a></li>
+	
+		<li><a href="https://www.upi.com/Science_News/2019/04/12/Thousands-of-scientists-back-students-protesting-for-action-on-climate-change/3401555088909/" title="Thousands of scientists signed their name to a letter voicing support for the students protesters calling for action on climate change&amp;hellip;" headlineid="123664" target="_blank">Thousands of Scientists Back Students Protesting Climate Change</a></li>
+	
+		<li><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/Qvvj7YQM8wk/index.html" title="As a clergy sexual abuse scandal throws the Catholic Church into deep crisis on several continents, more than a third of American Catholics say they have questioned whether to remain in the church, according to a new Gallup poll&amp;hellip;" headlineid="123682" target="_blank">Poll: After Sex Abuse Crisis, 37% of U.S. Catholics Rethink Membership</a></li>
+	
+		<li><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/yofixc__fm0/index.html" title="Hiring the wrong person can be costly&amp;hellip;" headlineid="123663" target="_blank">Company Uses AI to Flag Racist and Sexist Comments from Potential Hires</a></li>
+	
+</ul>
+
+<form action="//www.socialpsychology.org/client/search-tabs.php" onsubmit="if (this.searchterm.value.replace(/^s+|s+$/g, '') == '') { alert ('Please enter one or more keywords you wish to search for.'); return false;}">
+
+    <input  type="hidden" name="search" value="rss">
+    <input  type="text" name="searchterm" size="12" placeholder="Search 14,469 headlines" x-webkit-speech onwebkitspeechchange="$('button.headline').click()">
+    <button type="submit" class="headline">Search</button>
+
+</form>
+
+<hr />
+
+
+<a href="//www.twitter.com/PsychNews" target="_blank" class="twitter">
+	News on Twitter (<strong>205,067</strong> followers)
+</a>
+
+<a href="//www.socialpsychology.org/rss/news.htm" target="_blank" class="rss">
+	News Feed (<strong>35,797</strong> subscribers)
+</a>
+
+<a href="//www.facebook.com/socialpsychology" target="_blank" class="facebook">
+    Visit us on Facebook (<strong>267,765</strong> likes)
+</a>
+</div>
+</div>
+	
+	
+	
+	<noscript><p><img src="//secure.socialpsychology.org/piwik.php?idsite=1" style="border:0" alt=""></p></noscript>
+<script>var config={"preloadedCss":true,"js_version":"bc62e9bd7396bcedc5596488c9057773","rootdomain":"socialpsychology.org","siteId":1,"production":1};</script><script template="" src="//www.socialpsychology.org/js/app/bootstrap-5ebdf63bd6aa71650b551e09fafea1b1.js" type="text/javascript" charset="utf-8"></script></body>
+</html>

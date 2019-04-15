@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cognitive ethology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cognitive_ethology","wgTitle":"Cognitive ethology","wgCurRevisionId":890636494,"wgRevisionId":890636494,"wgArticleId":2313150,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognitive science","Ethology","Animal cognition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cognitive_ethology","wgRelevantArticleId":2313150,"wgRequestId":"XK2n5gpAICAAAG3Inl8AAABY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q582013","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cognitive_ethology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cognitive_ethology&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cognitive_ethology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cognitive_ethology"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cognitive_ethology rootpage-Cognitive_ethology skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cognitive ethology</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Ethology" title="Ethology">Ethology</a> and <a href="/wiki/Animal_cognition" title="Animal cognition">Animal cognition</a></div>
+<p><b>Cognitive ethology</b> is a branch of <a href="/wiki/Ethology" title="Ethology">ethology</a> concerned with the influence of conscious awareness and intention on the behaviour of an animal.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <a href="/wiki/Donald_Griffin" title="Donald Griffin">Donald Griffin</a>, a <a href="/wiki/Zoology" title="Zoology">zoology</a> professor in the United States, set up the foundations for researches in the cognitive awareness of animals within their habitats.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The fusion of <a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a> and classical <a href="/wiki/Ethology" title="Ethology">ethology</a> into cognitive ethology "emphasizes observing animals under more-or-less natural conditions, with the objective of understanding the evolution, adaptation (function), causation, and development of the species-specific <a href="/wiki/Behavioral_repertoire" class="mw-redirect" title="Behavioral repertoire">behavioral repertoire</a>" (<a href="/wiki/Niko_Tinbergen" class="mw-redirect" title="Niko Tinbergen">Niko Tinbergen</a> 1963).
+</p><p>According to Jamieson &amp; Bekoff (1993),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> "Tinbergen's four questions about the evolution, adaptation, causation and development of behavior can be applied to the cognitive and mental abilities of animals."  Allen &amp; Bekoff (1997, chapter 5)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> attempt to show how cognitive ethology can take on the central questions of cognitive science, taking as their starting point the four questions described by Barbara Von Eckardt in her 1993 book <i>What is Cognitive Science?</i>, generalizing the four questions and adding a fifth. Kingstone, Smilek &amp; Eastwood (2008) suggested that cognitive ethology should include human behavior.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> They proposed that researchers should firstly study how people behave in their natural, real world environments and then move to the lab. <a href="/wiki/Anthropocentrism" title="Anthropocentrism">Anthropocentric</a> claims for the ways non-human animals interact in their social and non-social worlds are often used to influence decisions on how the non-human animals can or should be used by humans.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Relation_to_laboratory_experimental_psychology"><span class="tocnumber">1</span> <span class="toctext">Relation to laboratory experimental psychology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Relation_to_ethics"><span class="tocnumber">2</span> <span class="toctext">Relation to ethics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Three_views"><span class="tocnumber">3</span> <span class="toctext">Three views</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sources"><span class="tocnumber">6</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Relation_to_laboratory_experimental_psychology">Relation to laboratory experimental psychology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_ethology&amp;action=edit&amp;section=1" title="Edit section: Relation to laboratory experimental psychology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Traditionally, cognitive ethologists have questioned research methods that isolate animals in unnatural surroundings and present them with a limited set of artificial stimuli, arguing that such techniques favor the study of artificial issues that are not relevant to an understanding of the natural behavior of animals.  However, many modern researchers favor a judicious combination of field and laboratory methods.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Relation_to_ethics">Relation to ethics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_ethology&amp;action=edit&amp;section=2" title="Edit section: Relation to ethics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bekoff, M and Allen, C (1997) "identify three major groups of people (among some of whose members there are blurred distinctions) with different views on cognitive ethology, namely, slayers, skeptics, and proponents." The latter seemingly convergent with <a href="/wiki/Animal_rights" title="Animal rights">animal rights</a> thinking in seeing animal experience as worthy in itself.
+</p><p><a href="/wiki/Ethicist" title="Ethicist">Ethicist</a> <a href="/wiki/Peter_Singer" title="Peter Singer">Peter Singer</a> is an example of a "proponent" in this sense, as is biologist <a href="/wiki/E._O._Wilson" title="E. O. Wilson">E. O. Wilson</a> who coined the term <a href="/wiki/Biophilia_hypothesis" title="Biophilia hypothesis">biophilia</a> to describe the basis of a direct <a href="/w/index.php?title=Moral_cognition&amp;action=edit&amp;redlink=1" class="new" title="Moral cognition (page does not exist)">moral cognition</a>, that 'higher' animals would use to perceive moral implications in the environment directly.
+</p>
+<h2><span class="mw-headline" id="Three_views">Three views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_ethology&amp;action=edit&amp;section=3" title="Edit section: Three views">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to Marc Bekoff, there are three different views towards whether a science of cognitive ethology is even possible. Slayers deny any possibility of success in cognitive ethology, proponents keep an open mind about animal cognition and the utility of cognitive ethological investigation, and skeptics stand somewhere in between.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_ethology&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Animal_consciousness" title="Animal consciousness">Animal consciousness</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a></li>
+<li><a href="/wiki/Psychological_behaviorism" title="Psychological behaviorism">Psychological behaviorism</a></li>
+<li><a href="/wiki/Cognitive_module" title="Cognitive module">Cognitive module</a></li>
+<li><a href="/wiki/Feral_child" title="Feral child">Feral child</a></li>
+<li><a href="/wiki/Neuroanthropology" title="Neuroanthropology">Neuroanthropology</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_ethology&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Collins, Harber (2012). <i>Collins COBUILD Advanced Dictionary of English</i>. Higher Education Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9787040327878" title="Special:BookSources/9787040327878">9787040327878</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Collins+COBUILD+Advanced+Dictionary+of+English&amp;rft.pub=Higher+Education+Press&amp;rft.date=2012&amp;rft.isbn=9787040327878&amp;rft.aulast=Collins&amp;rft.aufirst=Harber&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+ethology" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Ristau, C, Erlbaum L, et al. (1991). Cognitive Ethology. "Biological Psychology",  32 (2-3): 220-222</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">: Dale Jamieson and Marc Bekoff
+Source: Analysis, Vol. 52, No. 1 (Jan., 1992), pp. 23-28</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Dittrich, W.H. (1998) Book review of Allen &amp; Bekoff (1997) on Cognitive Ethology.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Kingstone, A., Smilek, D. &amp; Eastwood, J. D., (2008) 'Cognitive Ethology: a new approach for studying human cognition'. British Journal of Psychology, 99, 317-340</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Bekoff, M. (1994) "Cognitive ethology and the treatment of non-human animals: How matters of mind inform matters of welfare." Animal Welfare, Vol 3(2),75-96</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Shettleworth, S. J. (2010) <i>Cognition, Evolution, and Behavior</i> New York: Oxford</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bekoff, Marc (1995). "Cognitive Ethology and the Explanation of Nonhuman Animal Behavior". <i>Comparative Approaches to Cognitive Science. J.A. Meyer and H. L. Roitblat, eds .</i>: 119–150.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Comparative+Approaches+to+Cognitive+Science.+J.A.+Meyer+and+H.+L.+Roitblat%2C+eds+.&amp;rft.atitle=Cognitive+Ethology+and+the+Explanation+of+Nonhuman+Animal+Behavior&amp;rft.pages=119-150&amp;rft.date=1995&amp;rft.aulast=Bekoff&amp;rft.aufirst=Marc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+ethology" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_ethology&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://host.uniroma3.it/progetti/kant/field/ceth.htm">Philosophy of Cognitive Ethology</a>, Colin Allen, Texas A&amp;M University</li>
+<li><a rel="nofollow" class="external text" href="http://cogprints.org/160/">Cognitive ethology:  slayers, skeptics and proponents</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Animal_cognition" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Animal_cognition" title="Template:Animal cognition"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Animal_cognition" title="Template talk:Animal cognition"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Animal_cognition&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Animal_cognition" style="font-size:114%;margin:0 4em"><a href="/wiki/Animal_cognition" title="Animal cognition">Animal cognition</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cognition</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animal_communication" title="Animal communication">Animal communication</a></li>
+<li><a href="/wiki/Animal_consciousness" title="Animal consciousness">Animal consciousness</a></li>
+<li><a href="/wiki/Animal_language" title="Animal language">Animal language</a></li>
+<li><a href="/wiki/Cognitive_bias_in_animals" title="Cognitive bias in animals">Cognitive bias in animals</a></li>
+<li><a class="mw-selflink selflink">Cognitive ethology</a></li>
+<li><a href="/wiki/Comparative_cognition" title="Comparative cognition">Comparative cognition</a></li>
+<li><a href="/wiki/Elephant_cognition" title="Elephant cognition">Elephant cognition</a></li>
+<li><a href="/wiki/Emotion_in_animals" title="Emotion in animals">Emotion in animals</a></li>
+<li><a href="/wiki/Mirror_test" title="Mirror test">Mirror test</a></li>
+<li><a href="/wiki/Neuroethology" title="Neuroethology">Neuroethology</a></li>
+<li><a href="/wiki/Observational_learning" title="Observational learning">Observational learning</a></li>
+<li><a href="/wiki/Primate_cognition" title="Primate cognition">Primate cognition</a></li>
+<li><a href="/wiki/Tool_use_by_animals" title="Tool use by animals">Tool use by animals</a></li>
+<li><a href="/wiki/Vocal_learning" title="Vocal learning">Vocal learning</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Intelligence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bird_intelligence" title="Bird intelligence">Bird</a>
+<ul><li><a href="/wiki/Talking_bird" title="Talking bird">talking</a></li></ul></li>
+<li><a href="/wiki/Cat_intelligence" title="Cat intelligence">Cat</a></li>
+<li><a href="/wiki/Cephalopod_intelligence" title="Cephalopod intelligence">Cephalopod</a></li>
+<li><a href="/wiki/Cetacean_intelligence" title="Cetacean intelligence">Cetacean</a></li>
+<li><a href="/wiki/Dinosaur_intelligence" title="Dinosaur intelligence">Dinosaur</a></li>
+<li><a href="/wiki/Dog_intelligence" title="Dog intelligence">Dog</a></li>
+<li><a href="/wiki/Fish_intelligence" title="Fish intelligence">Fish</a></li>
+<li><a href="/wiki/Evolution_of_human_intelligence" title="Evolution of human intelligence">Hominid</a></li>
+<li><a href="/wiki/Swarm_intelligence" title="Swarm intelligence">Swarm</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pain</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pain_in_amphibians" title="Pain in amphibians">Pain in amphibians</a></li>
+<li><a href="/wiki/Pain_in_animals" title="Pain in animals">Pain in animals</a></li>
+<li><a href="/wiki/Pain_in_cephalopods" title="Pain in cephalopods">Pain in cephalopods</a></li>
+<li><a href="/wiki/Pain_in_crustaceans" title="Pain in crustaceans">Pain in crustaceans</a></li>
+<li><a href="/wiki/Pain_in_fish" title="Pain in fish">Pain in fish</a></li>
+<li><a href="/wiki/Pain_in_invertebrates" title="Pain in invertebrates">Pain in invertebrates</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relation to brain</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brain_size" title="Brain size">Brain size</a></li>
+<li><a href="/wiki/Brain-to-body_mass_ratio" title="Brain-to-body mass ratio">Brain-to-body mass ratio</a></li>
+<li><a href="/wiki/Encephalization_quotient" title="Encephalization quotient">Encephalization quotient</a></li>
+<li><a href="/wiki/Neuroscience_and_intelligence" title="Neuroscience and intelligence">Neuroscience and intelligence</a></li>
+<li><a href="/wiki/List_of_animals_by_number_of_neurons" title="List of animals by number of neurons">Number of neurons</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Animal_cognition" title="Category:Animal cognition">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Animal_cognition" title="Portal:Animal cognition">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Ethology" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ethology" title="Template:Ethology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ethology" title="Template talk:Ethology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ethology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ethology" style="font-size:114%;margin:0 4em"><a href="/wiki/Ethology" title="Ethology">Ethology</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Branches</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animal_cognition" title="Animal cognition">Animal cognition</a></li>
+<li><a href="/wiki/Animal_communication" title="Animal communication">Animal communication</a></li>
+<li><a href="/wiki/Animal_consciousness" title="Animal consciousness">Animal consciousness</a></li>
+<li><a href="/wiki/Animal_culture" title="Animal culture">Animal culture</a></li>
+<li><a href="/wiki/Animal_sexual_behaviour" title="Animal sexual behaviour">Animal sexual behaviour</a></li>
+<li><a href="/wiki/Animal_welfare_science" title="Animal welfare science">Animal welfare science</a></li>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Bee_learning_and_communication" title="Bee learning and communication">Bee learning and communication</a></li>
+<li><a href="/wiki/Behavioral_ecology" title="Behavioral ecology">Behavioural ecology</a></li>
+<li><a href="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavioural genetics</a></li>
+<li><a class="mw-selflink selflink">Cognitive ethology</a></li>
+<li><a href="/wiki/Comparative_psychology" title="Comparative psychology">Comparative psychology</a></li>
+<li><a href="/wiki/Emotion_in_animals" title="Emotion in animals">Emotion in animals</a></li>
+<li><a href="/wiki/Evolutionary_neuroscience" title="Evolutionary neuroscience">Evolutionary neuroscience</a></li>
+<li><a href="/wiki/Human_ethology" title="Human ethology">Human ethology</a></li>
+<li><a href="/wiki/Instinct" title="Instinct">Instinct</a></li>
+<li><a href="/wiki/Learning" title="Learning">Learning</a></li>
+<li><a href="/wiki/Neuroethology" title="Neuroethology">Neuroethology</a></li>
+<li><a href="/wiki/Pain_in_animals" title="Pain in animals">Pain in animals</a></li>
+<li><a href="/wiki/Sociobiology" title="Sociobiology">Sociobiology</a></li>
+<li><a href="/wiki/Tool_use_by_animals" title="Tool use by animals">Tool use by animals</a></li>
+<li><a href="/wiki/Zoosemiotics" title="Zoosemiotics">Zoosemiotics</a></li>
+<li><a href="/wiki/Zoomusicology" title="Zoomusicology">Zoomusicology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Ethologists</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Patrick_Bateson" title="Patrick Bateson">Patrick Bateson</a></li>
+<li><a href="/wiki/Marc_Bekoff" title="Marc Bekoff">Marc Bekoff</a></li>
+<li><a href="/wiki/Donald_Broom" title="Donald Broom">Donald Broom</a></li>
+<li><a href="/wiki/Charles_Darwin" title="Charles Darwin">Charles Darwin</a></li>
+<li><a href="/wiki/Marian_Dawkins" title="Marian Dawkins">Marian Dawkins</a></li>
+<li><a href="/wiki/Richard_Dawkins" title="Richard Dawkins">Richard Dawkins</a></li>
+<li><a href="/wiki/Iren%C3%A4us_Eibl-Eibesfeldt" title="Irenäus Eibl-Eibesfeldt">Irenäus Eibl-Eibesfeldt</a></li>
+<li><a href="/wiki/Dian_Fossey" title="Dian Fossey">Dian Fossey</a></li>
+<li><a href="/wiki/Karl_von_Frisch" title="Karl von Frisch">Karl von Frisch</a></li>
+<li><a href="/wiki/Jane_Goodall" title="Jane Goodall">Jane Goodall</a></li>
+<li><a href="/wiki/Heini_Hediger" title="Heini Hediger">Heini Hediger</a></li>
+<li><a href="/wiki/Julian_Huxley" title="Julian Huxley">Julian Huxley</a></li>
+<li><a href="/wiki/Konrad_Lorenz" title="Konrad Lorenz">Konrad Lorenz</a></li>
+<li><a href="/wiki/Desmond_Morris" title="Desmond Morris">Desmond Morris</a></li>
+<li><a href="/wiki/Thomas_Sebeok" title="Thomas Sebeok">Thomas Sebeok</a></li>
+<li><a href="/wiki/William_Homan_Thorpe" title="William Homan Thorpe">William Homan Thorpe</a></li>
+<li><a href="/wiki/Nikolaas_Tinbergen" title="Nikolaas Tinbergen">Nikolaas Tinbergen</a></li>
+<li><a href="/wiki/Jakob_von_Uexk%C3%BCll" title="Jakob von Uexküll">Jakob von Uexküll</a></li>
+<li><a href="/wiki/Wolfgang_Wickler" title="Wolfgang Wickler">Wolfgang Wickler</a></li>
+<li><a href="/wiki/E._O._Wilson" title="E. O. Wilson">E. O. Wilson</a></li>
+<li><a href="/wiki/Solly_Zuckerman" class="mw-redirect" title="Solly Zuckerman">Solly Zuckerman</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Societies</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_for_the_Study_of_Animal_Behaviour" title="Association for the Study of Animal Behaviour">Association for the Study of Animal Behaviour</a></li>
+<li><a href="/wiki/International_Society_for_Applied_Ethology" title="International Society for Applied Ethology">International Society for Applied Ethology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Journals</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Animal_Behaviour_(journal)" title="Animal Behaviour (journal)">Animal Behaviour</a></i></li>
+<li><i><a href="/wiki/Animal_Cognition" title="Animal Cognition">Animal Cognition</a></i></li>
+<li><i><a href="/wiki/Animal_Welfare_(journal)" title="Animal Welfare (journal)">Animal Welfare</a></i></li>
+<li><i><a href="/wiki/Behavioral_Ecology_(journal)" title="Behavioral Ecology (journal)">Behavioral Ecology</a></i></li>
+<li><i><a href="/wiki/Behaviour_(journal)" title="Behaviour (journal)">Behaviour</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/File:Caribou_from_Wagon_Trails.jpg" class="image"><img alt="Caribou from Wagon Trails.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Caribou_from_Wagon_Trails.jpg/16px-Caribou_from_Wagon_Trails.jpg" decoding="async" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Caribou_from_Wagon_Trails.jpg/24px-Caribou_from_Wagon_Trails.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Caribou_from_Wagon_Trails.jpg/32px-Caribou_from_Wagon_Trails.jpg 2x" data-file-width="2064" data-file-height="1413" /></a> <a href="/wiki/Portal:Animals" title="Portal:Animals">Animals&#32;portal</a></li>
+<li><a href="/wiki/File:Issoria_lathonia.jpg" class="image"><img alt="Issoria lathonia.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/16px-Issoria_lathonia.jpg" decoding="async" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/24px-Issoria_lathonia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/32px-Issoria_lathonia.jpg 2x" data-file-width="629" data-file-height="445" /></a> <a href="/wiki/Portal:Biology" title="Portal:Biology">Biology&#32;portal</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" />&#160;<a href="/wiki/Category:Ethology" title="Category:Ethology">Ethology (category)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20190407205704
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.258 seconds
+Preprocessor visited node count: 398/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26435/2097152 bytes
+Template argument size: 109/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7660/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 2.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  199.214      1 -total
+ 49.17%   97.957      1 Template:Reflist
+ 37.09%   73.897      1 Template:Cite_book
+ 26.89%   53.575      2 Template:Navbox
+ 15.97%   31.808      1 Template:Further
+ 15.75%   31.379      1 Template:Animal_cognition
+ 15.12%   30.125      1 Template:Ethology
+  9.72%   19.366      2 Template:Portal-inline
+  6.79%   13.534      3 Template:Icon
+  3.63%    7.240      1 Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2313150-0!canonical and timestamp 20190407205704 and revision id 890636494
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cognitive_ethology&amp;oldid=890636494">https://en.wikipedia.org/w/index.php?title=Cognitive_ethology&amp;oldid=890636494</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li><li><a href="/wiki/Category:Ethology" title="Category:Ethology">Ethology</a></li><li><a href="/wiki/Category:Animal_cognition" title="Category:Animal cognition">Animal cognition</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cognitive+ethology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cognitive+ethology" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cognitive_ethology" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cognitive_ethology" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cognitive_ethology">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cognitive_ethology&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cognitive_ethology&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cognitive_ethology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cognitive_ethology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cognitive_ethology&amp;oldid=890636494" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cognitive_ethology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q582013" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cognitive_ethology&amp;id=890636494" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cognitive+ethology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cognitive+ethology&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cognitive_ethology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kognitive_Ethologie" title="Kognitive Ethologie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89thologie_cognitive" title="Éthologie cognitive – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%8D%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Когнитивная этология – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B3%D0%BD%D1%96%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Когнітивна етологія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%AE%A4%E7%9F%A5%E5%8A%A8%E7%89%A9%E8%A1%8C%E4%B8%BA%E5%AD%A6" title="认知动物行为学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q582013#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 April 2019, at 15:56<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cognitive_ethology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.258","ppvisitednodes":{"value":398,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26435,"limit":2097152},"templateargumentsize":{"value":109,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7660,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  199.214      1 -total"," 49.17%   97.957      1 Template:Reflist"," 37.09%   73.897      1 Template:Cite_book"," 26.89%   53.575      2 Template:Navbox"," 15.97%   31.808      1 Template:Further"," 15.75%   31.379      1 Template:Animal_cognition"," 15.12%   30.125      1 Template:Ethology","  9.72%   19.366      2 Template:Portal-inline","  6.79%   13.534      3 Template:Icon","  3.63%    7.240      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.088","limit":"10.000"},"limitreport-memusage":{"value":2760754,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1265","timestamp":"20190407205704","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cognitive ethology","url":"https:\/\/en.wikipedia.org\/wiki\/Cognitive_ethology","sameAs":"http:\/\/www.wikidata.org\/entity\/Q582013","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q582013","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-26T15:53:16Z","dateModified":"2019-04-02T15:56:36Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1330"});});</script>
+</body>
+</html>

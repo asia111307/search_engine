@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kanban board - EduTech Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kanban_board","wgTitle":"Kanban board","wgCurRevisionId":70198,"wgRevisionId":70198,"wgArticleId":12910,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Stubs","Project management and planning","Cognitive tools","Pages using ISBN magic links"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kanban_board","wgRelevantArticleId":12910,"wgRequestId":"e38300d632eda140100e72ef","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"srfFilteredConfig":null,"sdgDownArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/right-arrow.png","wgHeaderTabsTabIndexes":[],"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/mediawiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","openlayers","googlemaps3"],"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.vector.styles.responsive":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1wt4m49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.wikilog","ext.headertabs","ext.headertabs.large","ext.categoryTree","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.responsive&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rdf+xml" title="Kanban board" href="/mediawiki/index.php?title=Special:ExportRDF/Kanban_board&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="EduTech Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//edutechwiki.unige.ch/mediawiki/api.php?action=rsd"/>
+<link rel="license" href="/en/EduTech_Wiki:Copyrights"/>
+<!--[if lt IE 9]><script src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Kanban_board rootpage-Kanban_board skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Kanban board</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From EduTech Wiki</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="Banner_stub noprint">
+<p> <span style="font-weight:bold;">This article <i>or</i> section is a stub</span>. It does not yet contain enough information to be considered a real article. In other words, it is a short or insufficient piece of information and requires additions.</p></div>
+<div class="onlyinprint"><p><i>Draft</i></p></div>
+<h2><span class="mw-headline" id="Introduction"><span class="mw-headline-number">1</span> Introduction</span></h2>
+<p>According to <a class="external text" href="https://en.wikipedia.org/wiki/Kanban_board">Wikipedia</a> (Jan 2019), <span style="background-color:#eeeeee" class="citation">&#8220;Kanban boards visually depict work at various stages of a process using cards to represent work items and columns to represent each stage of the process. Cards are moved from left to right to show progress and to help coordinate teams performing the work. A Kanban board may be divided into horizontal "swimlanes" representing different kinds of work or different teams performing the work. Kanban boards can be used in knowledge work or for manufacturing processes. Simple boards have columns for "waiting", "in progress" and "completed" (or "to-do", "doing", and "done"). Complex Kanban boards can be created that subdivide "in progress" work into multiple columns to visualise the flow of work across a whole value stream map.&#8221;</span>
+</p><p><span style="background-color:#eeeeee" class="citation">&#8220;Kanban is a method for defining, managing, and improving services thatdeliver knowledge work, such as professional services, creative endeavors, and the design of both physical and software products. It may be characterized as a “start from what you do now” method—a catalyst for rapid and focused change within organizations—that reduces resistance to beneficial change in line with the organization’s goals. The Kanban Method is based on making visible what is otherwise intangible knowledge work, to ensure that the service works on the right amount of work—work that is requested and needed by the customer and that the service has the capability to deliver. To do this, we use a kanban system—a delivery flow system that limits the amount of work in progress (WiP) by using visual signals.&#8221;</span> (<a class="external text" href="https://leankanban.com/guide/">Essential Kanban Condensed</a>, p. 1)
+</p><p><span style="background-color:#eeeeee" class="citation">&#8220;Items on a list are each treated as "cards." Offline versions often use Post-It Notes moved across a series of bins. It's based on a process developed for manufacturing, but widely adopted by the lean software development community. Cards might represent a feature, which is moved across a board to represent its flow through development, review, testing, and deployment. Digital tools often allow attachments to these cards: images, links, additional lists, a person assigned to the task, etc., and many have additional tools for giving you a fuller picture of how tasks are moving across a workflow.&#8221;</span> ([<a class="external free" href="https://opensource.com/alternatives/trello">https://opensource.com/alternatives/trello</a> 
+5 open source alternatives to Trello] (retr. Jan 16 2019).
+</p><p>Every kanban system is unique. Examples:
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:602px;"><a href="/en/File:Simple-kanban-board-.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Simple-kanban-board-.jpg/600px-Simple-kanban-board-.jpg" width="600" height="358" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Simple-kanban-board-.jpg/900px-Simple-kanban-board-.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Simple-kanban-board-.jpg/1200px-Simple-kanban-board-.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/en/File:Simple-kanban-board-.jpg" class="internal" title="Enlarge"></a></div>Simple kanban board by <a class="external text" href="https://commons.wikimedia.org/wiki/File:Simple-kanban-board-.jpg">Jeff Lasovski</a></div></div></div>
+<div class="thumb tnone"><div class="thumbinner" style="width:602px;"><a href="/en/File:Kanban_board_example.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kanban_board_example.jpg/600px-Kanban_board_example.jpg" width="600" height="496" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kanban_board_example.jpg/900px-Kanban_board_example.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/f/f5/Kanban_board_example.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/en/File:Kanban_board_example.jpg" class="internal" title="Enlarge"></a></div>Kanban board example</div></div></div>
+<div class="thumb tnone"><div class="thumbinner" style="width:602px;"><a href="/en/File:Sample_Kanban_Board.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sample_Kanban_Board.png/600px-Sample_Kanban_Board.png" width="600" height="338" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sample_Kanban_Board.png/900px-Sample_Kanban_Board.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sample_Kanban_Board.png/1200px-Sample_Kanban_Board.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/en/File:Sample_Kanban_Board.png" class="internal" title="Enlarge"></a></div>A Kanban board in software development</div></div></div>
+<h2><span class="mw-headline" id="Software"><span class="mw-headline-number">2</span> Software</span></h2>
+<p>To implement a digital kanban board, on could either use standard software, e.g. a flexible "todo", productivity tool or some note taking software.
+</p><p>There is also more or less specialised software, some of which also can be used for the similar <a href="/en/Bullet_journal" title="Bullet journal">Bullet journal</a> approach.
+</p>
+<h2><span class="mw-headline" id="Bibliography_and_links"><span class="mw-headline-number">3</span> Bibliography and links</span></h2>
+<p>Anderson, David J.; Carmichael, Andy (2016). Essential Kanban Condensed. Seattle, WA: Lean Kanban University Press. <a href="/en/Special:BookSources/9780984521425" class="internal mw-magiclink-isbn">ISBN 978-0-9845214-2-5</a>.
+</p>
+<pre><a class="external free" href="https://leankanban.com/guide/">https://leankanban.com/guide/</a>. A free condensed guide is available, registration required.
+</pre>
+<p>Kanban Guide: Demand Scheduling for Lean Manufacturing, Compiled by Nilesh R Arora. Add ValueConsulting Inc., India 2001, S. 11.
+</p><p>J. M. Gross, Kenneth, R. McInnis: Kanban Made Simple—Demystifying and Applying Toyota's Legendary ManufacturingProcess. Amacom, USA 2003, S. 50. <a href="/en/Special:BookSources/0814407633" class="internal mw-magiclink-isbn">ISBN 0-8144-0763-3</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20190402090437
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.164 seconds
+Real time usage: 2.859 seconds
+Preprocessor visited node count: 38/1000000
+Preprocessor generated node count: 110/1000000
+Post‐expand include size: 2728/2097152 bytes
+Template argument size: 2138/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+ExtRegexFun count: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.131      1 -total
+ 45.61%    1.428      1 Template:Stub
+ 44.71%    1.400      3 Template:Quotation
+-->
+</div>
+<!-- Saved in parser cache with key edutechwiki_en:pcache:idhash:12910-0!canonical and timestamp 20190402090434 and revision id 70198
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://edutechwiki.unige.ch/mediawiki/index.php?title=Kanban_board&amp;oldid=70198">http://edutechwiki.unige.ch/mediawiki/index.php?title=Kanban_board&amp;oldid=70198</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/en/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/en/Category:Stubs" title="Category:Stubs">Stubs</a></li><li><a href="/en/Category:Project_management_and_planning" title="Category:Project management and planning">Project management and planning</a></li><li><a href="/en/Category:Cognitive_tools" title="Category:Cognitive tools">Cognitive tools</a></li><li><a href="/en/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Kanban+board" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/en/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/en/Kanban_board" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/mediawiki/index.php?title=Talk:Kanban_board&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/en/Kanban_board">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/mediawiki/index.php?title=Kanban_board&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=Kanban_board&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Slow Search</label>
+						</h3>
+						<form action="/mediawiki/index.php" id="searchform">
+							<div>
+								<input type="search" name="search" placeholder="Search EduTech Wiki" title="Search EduTech Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/en/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-TEST" aria-labelledby="p-TEST-label">
+			<h3 id="p-TEST-label">TEST</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Navigation_and_help" aria-labelledby="p-Navigation_and_help-label">
+			<h3 id="p-Navigation_and_help-label">Navigation and help</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Mainpage"><a href="/en/Main_Page">Main Page</a></li><li id="n-recentchanges"><a href="/en/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-about"><a href="/en/EduTech_Wiki:About">About</a></li><li id="n-randompage"><a href="/en/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li><li id="n-Editing-rules"><a href="/en/Help:Editing_rules">Editing rules</a></li><li id="n-Blog:DKS"><a href="/en/Blog:DKS">Blog:DKS</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-categorytree-portlet" aria-labelledby="p-categorytree-portlet-label">
+			<h3 id="p-categorytree-portlet-label">Categories</h3>
+			<div class="body">
+				<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Citizen_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Citizen_science">Citizen science</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Design_and_research_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Design_and_research_methods">Design and research methods</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Education_and_instruction" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Education_and_instruction">Education and instruction</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technologies">Educational technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technology_-_the_field" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technology_-_the_field">Educational technology - the field</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Position_paper">Position paper</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Psychology_and_learning" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Psychology_and_learning">Psychology and learning</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Socio-political_and_organization" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Socio-political_and_organization">Socio-political and organization</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Special_contents" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Special_contents">Special contents</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Technologies">Technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Tutorials" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Tutorials">Tutorials</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		</div>
+					</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kanban+board">Create a book</a></li><li id="coll-download-as-rl"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Kanban+board&amp;returnto=Kanban+board&amp;oldid=70198&amp;writer=rl">Download as PDF</a></li><li id="t-print"><a href="/mediawiki/index.php?title=Kanban_board&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/en/Special:WhatLinksHere/Kanban_board" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/en/Special:RecentChangesLinked/Kanban_board" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/en/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/mediawiki/index.php?title=Kanban_board&amp;oldid=70198" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/mediawiki/index.php?title=Kanban_board&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/mediawiki/index.php?title=Special:CiteThisPage&amp;page=Kanban_board&amp;id=70198" title="Information on how to cite this page">Cite this page</a></li><li id="t-smwbrowselink"><a href="/en/Special:Browse/:Kanban-5Fboard" rel="search">Browse properties</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Big_brother" aria-labelledby="p-Big_brother-label">
+			<h3 id="p-Big_brother-label">Big brother</h3>
+			<div class="body">
+								<ul>
+					<li id="n-New-Pages"><a href="/en/Special:NewPages">New Pages</a></li><li id="n-contributionscores"><a href="/en/Special:ContributionScores">Contribution scores</a></li><li id="n-Popular-Pages"><a href="/en/Special:Popularpages">Popular Pages</a></li><li id="n-Who-is-online-.3F"><a href="/en/Special:WhosOnline">Who is online ?</a></li><li id="n-Version"><a href="/en/Special:Version">Version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-TECFA_Links" aria-labelledby="p-TECFA_Links-label">
+			<h3 id="p-TECFA_Links-label">TECFA Links</h3>
+			<div class="body">
+				<div class="sidebar_banner"><a href="http://tecfa.unige.ch/"><img title="TECFA - Educational Technology Unit - UniGE" alt="TECFA - Educational Technology Unit - Home page" src="/mediawiki/tecfa/TECFAlogoArtNoText.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/maltt"><img title="Master of Science in Learning and Teaching Technologies" alt="Master of Science in Learning and Teaching Technologies" src="/mediawiki/tecfa/LOGO_MALTT.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/formcont/"><img title="Certificate of Advanced Studies (CAS): Conception et développement de projets e-learning, Journées thématiques, TECFA, FPSE, Université de Genève" alt="Cours de formation continue offerts par TECFA, Université de Genève: CAS - Conception et développement de projets e-learning, Application des normes du e-learning, Réalisation de vidéos pédagogiques, Introduction HTML5 et CSS, Coordination des formations en ligne, Traitement de ressources multimédia, Activités pédagogiques avec Captivate" src="/mediawiki/tecfa/fclogored.png" /></a></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Page last modified 18:46, 16 January 2019.</li>
+								<li id="footer-info-copyright">By default, content is protected by a <a href="/en/EduTech_Wiki:Copyrights" title="EduTech Wiki:Copyrights">CC BY-NC-SA Licence</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/en/EduTech_Wiki:Privacy_policy" title="EduTech Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/en/EduTech_Wiki:About" title="EduTech Wiki:About">About EduTech Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/en/EduTech_Wiki:General_disclaimer" title="EduTech Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/mediawiki/tecfa/somerights.png" alt="CC BY-NC-SA Licence" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/mediawiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /mediawiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+										<li id="footer-monitoredbyico">
+						<a href="http://wikiapiary.com/wiki/EduTech_Wiki_(en)"><img src="/mediawiki/tecfa/Monitored_by_WikiApiary.png" alt="Monitored by WikiApiary" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.164","walltime":"2.859","ppvisitednodes":{"value":38,"limit":1000000},"ppgeneratednodes":{"value":110,"limit":1000000},"postexpandincludesize":{"value":2728,"limit":2097152},"templateargumentsize":{"value":2138,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    3.131      1 -total"," 45.61%    1.428      1 Template:Stub"," 44.71%    1.400      3 Template:Quotation"]},"cachereport":{"timestamp":"20190402090437","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7586057-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":2934});});</script>
+	</body>
+<!-- Cached/compressed 20190402090437 -->
+</html>

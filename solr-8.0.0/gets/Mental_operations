@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mental operations - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mental_operations","wgTitle":"Mental operations","wgCurRevisionId":825709773,"wgRevisionId":825709773,"wgArticleId":26530571,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognitive science","Mind"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mental_operations","wgRelevantArticleId":26530571,"wgRequestId":"XLF5pwpAAD4AAHssaREAAABB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6817483","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/ae/Guilford_model.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mental_operations"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mental_operations&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mental_operations&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mental_operations"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mental_operations rootpage-Mental_operations skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mental operations</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="text-align:center; width:200px;">
+
+<tbody><tr>
+<td colspan="2"><big><b>Mental operations</b></big>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/File:Guilford_model.jpg" class="image" title="Mental operations"><img alt="Mental operations" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Guilford_model.jpg/170px-Guilford_model.jpg" decoding="async" width="170" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Guilford_model.jpg/255px-Guilford_model.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Guilford_model.jpg/340px-Guilford_model.jpg 2x" data-file-width="1051" data-file-height="584" /></a>
+</td></tr>
+<tr>
+<td style="font-size:85%">
+<p><b>Approaches and Types</b><br />
+<i><b><a href="/wiki/Logic" title="Logic">Logical</a></b></i> <br /> 
+<a href="/wiki/Apprehension_(understanding)" title="Apprehension (understanding)">Apprehension</a> <br />
+<a href="/wiki/Judgement" title="Judgement">Judgement</a> <br />
+<a href="/wiki/Inference" title="Inference">Inference</a> <br />
+<i><b><a href="/wiki/Piagetian_theory" class="mw-redirect" title="Piagetian theory">Piagetian</a></b></i> <br />
+Seriation <br />
+Transitivity <br />
+<a href="/wiki/Taxonomy_(general)" title="Taxonomy (general)">Classification</a> <br />
+Decentering <br />
+Reversibility <br />
+Conservation <br />
+<i><b><a href="/wiki/Psychometric" class="mw-redirect" title="Psychometric">Psychometric</a></b></i> <br />
+<a href="/wiki/Cognition" title="Cognition">Cognition</a> <br />
+<a href="/wiki/Memory" title="Memory">Memory</a> <br />
+<a href="/wiki/Divergent_thinking" title="Divergent thinking">Divergent production</a> <br />
+<a href="/wiki/Convergent_thinking" title="Convergent thinking">Convergent production</a> <br />
+<a href="/wiki/Evaluation" title="Evaluation">Evaluation</a> <br />
+<i><b><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive</a></b></i> <br />
+<a href="/wiki/Attention" title="Attention">Attentional focalization</a> <br />
+<a href="/wiki/Attention" title="Attention">Attentional discarding</a> <br />
+Spatial basic operating scheme <br />
+<a href="/wiki/Representation_(psychology)" class="mw-redirect" title="Representation (psychology)">Representation</a> <br />
+<a href="/wiki/Comparison_(mathematics)" class="mw-redirect" title="Comparison (mathematics)">Comparison</a> <br />
+<a href="/wiki/Memory" title="Memory">Operations of memory</a> <br />
+Temporal basic operating scheme <br />
+<i><b><a href="/wiki/Systemic_psychology" class="mw-redirect" title="Systemic psychology">Systemic</a></b></i> <br />
+<a href="/wiki/Cognitive" class="mw-redirect" title="Cognitive">Cognitive operations</a> <br />
+<a href="/wiki/Executive_functions" title="Executive functions">Practical operations</a> <br />
+<a href="/wiki/Affective" class="mw-redirect" title="Affective">Affective operations</a> <br />
+<a href="/wiki/Emotional_expression" title="Emotional expression">Expressive operations</a> <br />
+<a href="/wiki/Eye-hand_coordination" class="mw-redirect" title="Eye-hand coordination">Perceptual-motor operations</a> <br />
+<a href="/wiki/Self-control" title="Self-control">Regulative operations</a>
+</p><p><b>Writers</b> <br />
+<a href="/wiki/Pierre_Janet" title="Pierre Janet">Pierre Janet</a> <br />
+<a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a> <br />
+<a href="/wiki/Joy_Paul_Guilford" class="mw-redirect" title="Joy Paul Guilford">Joy Paul Guilford</a> <br />
+<a href="/wiki/Silvio_Ceccato" title="Silvio Ceccato">Silvio Ceccato</a> <br />
+<a href="/w/index.php?title=Giulio_Benedetti&amp;action=edit&amp;redlink=1" class="new" title="Giulio Benedetti (page does not exist)">Giulio Benedetti</a> <br />
+<a href="/wiki/Codrin_%C5%A2apu" class="mw-redirect" title="Codrin Ţapu">Codrin Stefan Tapu</a> 
+</p>
+</td></tr>
+<tr>
+<td style="font-size:100%"><b><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Psychology portal</a></b>
+</td></tr></tbody></table>
+<p><b>Mental operations</b> are operations that affect <a href="/wiki/Mind" title="Mind">mental</a> contents. Initially, operations of <a href="/wiki/Reasoning" class="mw-redirect" title="Reasoning">reasoning</a> have been the object of <a href="/wiki/Logic" title="Logic">logic</a> alone. <a href="/wiki/Pierre_Janet" title="Pierre Janet">Pierre Janet</a> was one of the first to use the concept in psychology. Mental operations have been investigated at a developmental level by <a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a>, and from a <a href="/wiki/Psychometric" class="mw-redirect" title="Psychometric">psychometric</a> perspective by <a href="/wiki/J._P._Guilford" title="J. P. Guilford">J. P. Guilford</a>. There is also a cognitive approach to the subject, as well as a systems view of it.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Logical_view"><span class="tocnumber">2</span> <span class="toctext">Logical view</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Apprehension"><span class="tocnumber">2.1</span> <span class="toctext">Apprehension</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Judgment"><span class="tocnumber">2.2</span> <span class="toctext">Judgment</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Inference"><span class="tocnumber">2.3</span> <span class="toctext">Inference</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Developmental_view"><span class="tocnumber">3</span> <span class="toctext">Developmental view</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Psychometric_view"><span class="tocnumber">4</span> <span class="toctext">Psychometric view</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Cognitive_view"><span class="tocnumber">5</span> <span class="toctext">Cognitive view</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Systems_view"><span class="tocnumber">6</span> <span class="toctext">Systems view</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since <a href="/wiki/Ancient_history" title="Ancient history">Antiquity</a>, mental operations, more precisely, formal operations of <a href="/wiki/Reasoning" class="mw-redirect" title="Reasoning">reasoning</a> have been the object of <a href="/wiki/Logic" title="Logic">logic</a>.<sup id="cite_ref-hobh_1-0" class="reference"><a href="#cite_note-hobh-1">&#91;1&#93;</a></sup>
+</p><p>In 1903, Pierre Janet described two types of mental operations:<sup id="cite_ref-vals_2-0" class="reference"><a href="#cite_note-vals-2">&#91;2&#93;</a></sup>
+</p>
+<ul><li>reality operations - mental operations under the control of logic;</li>
+<li>disinterested operations - escaping the control of reason.</li></ul>
+<p>Jean Piaget differentiated a <a href="/wiki/Preoperational_stage" class="mw-redirect" title="Preoperational stage">preoperational stage</a>, and operational stages of <a href="/wiki/Cognitive_development" title="Cognitive development">cognitive development</a>, on the basis of presence of mental operations as an <a href="/wiki/Adaptation" title="Adaptation">adaptation</a> tool.<sup id="cite_ref-gins_3-0" class="reference"><a href="#cite_note-gins-3">&#91;3&#93;</a></sup>
+</p><p>J. P. Guilford's Structure of Intellect model described up to 180 different intellectual abilities organized along three dimensions—Operations, Content, and Products.<sup id="cite_ref-guilf_4-0" class="reference"><a href="#cite_note-guilf-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Logical_view">Logical view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=2" title="Edit section: Logical view">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to 
+most logicians, the three primary mental operations are <a href="/wiki/Apprehension_(understanding)" title="Apprehension (understanding)">apprehension (understanding)</a>, <a href="/wiki/Judgement" title="Judgement">judgement</a>, and <a href="/wiki/Inference" title="Inference">inference</a>.<sup id="cite_ref-hobh_1-1" class="reference"><a href="#cite_note-hobh-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Apprehension">Apprehension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=3" title="Edit section: Apprehension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Apprehension is the mental operation by which an idea is formed in the mind. If you were to think of a sunset or a baseball, the action of forming that picture in your mind is apprehension. The verbal expression of apprehension is called a term.
+</p>
+<h3><span class="mw-headline" id="Judgment">Judgment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=4" title="Edit section: Judgment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Judgment is the mental operation by which we predicate something of a subject. Were you to think, "That sunset is beautiful" or "Baseball is the all-American sport" is to make a judgment. The verbal expression of judgment is the statement (or proposition).
+</p>
+<h3><span class="mw-headline" id="Inference">Inference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=5" title="Edit section: Inference">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Inference (or reasoning) is the mental operation by which we draw conclusions from other information. If you were to think, "I like to look at that sunset, because I enjoy beautiful things, and that sunset is beautiful" you would be reasoning. The verbal expression of reasoning is the logical argument.<sup id="cite_ref-hobh_1-2" class="reference"><a href="#cite_note-hobh-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Developmental_view">Developmental view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=6" title="Edit section: Developmental view">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a> identifies several mental operations of the <a href="/wiki/Concrete_operational_stage" class="mw-redirect" title="Concrete operational stage">concrete operational stage</a> of <a href="/wiki/Cognitive_development" title="Cognitive development">cognitive development</a>:<sup id="cite_ref-gins_3-1" class="reference"><a href="#cite_note-gins-3">&#91;3&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Piagetian_operations.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Piagetian_operations.jpg/400px-Piagetian_operations.jpg" decoding="async" width="400" height="198" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Piagetian_operations.jpg/600px-Piagetian_operations.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Piagetian_operations.jpg/800px-Piagetian_operations.jpg 2x" data-file-width="998" data-file-height="493" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Piagetian_operations.jpg" class="internal" title="Enlarge"></a></div>Mental operations according to Jean Piaget.</div></div></div>
+<ul><li><i>Seriation</i>—the ability to sort objects in an order according to size, shape, or any other characteristic. For example, if given different-shaded objects they may make a color gradient.</li>
+<li><i>Transitivity</i>—The ability to recognize logical relationships among elements in a serial order, and perform 'transitive inferences' (for example, If A is taller than B, and B is taller than C, then A must be taller than C).</li>
+<li><i>Classification</i>—the ability to name and identify sets of objects according to appearance, size or other characteristic, including the idea that one set of objects can include another.</li>
+<li><i>Decentering</i>—where the child takes into account multiple aspects of a problem to solve it. For example, the child will no longer perceive an exceptionally wide but short cup to contain less than a normally-wide, taller cup.</li>
+<li><i>Reversibility</i>—the child understands that numbers or objects can be changed, then returned to their original state. For this reason, a child will be able to rapidly determine that if 4+4 equals t, t−4 will equal 4, the original quantity.</li>
+<li><i>Conservation</i>—understanding that quantity, length or number of items is unrelated to the arrangement or appearance of the object or items.</li></ul>
+<p>Piaget also describes a <a href="/wiki/Formal_operational_stage" class="mw-redirect" title="Formal operational stage">formal operational stage</a>, with formal operations of <a href="/wiki/Abstract_thinking" class="mw-redirect" title="Abstract thinking">abstract thinking</a>: hypothesizing, <a href="/wiki/Hypothesis" title="Hypothesis">hypothesis</a> testing, and <a href="/wiki/Deductive_reasoning" title="Deductive reasoning">deduction</a>.<sup id="cite_ref-gins_3-2" class="reference"><a href="#cite_note-gins-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Psychometric_view">Psychometric view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=7" title="Edit section: Psychometric view">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Guilford_model.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Guilford_model.jpg/400px-Guilford_model.jpg" decoding="async" width="400" height="222" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Guilford_model.jpg/600px-Guilford_model.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Guilford_model.jpg/800px-Guilford_model.jpg 2x" data-file-width="1051" data-file-height="584" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Guilford_model.jpg" class="internal" title="Enlarge"></a></div>Guilford's Structure of Intellect.</div></div></div>
+<p>According to <a href="/wiki/J._P._Guilford" title="J. P. Guilford">J. P. Guilford</a>'s Structure of Intellect (SI) theory, an individual's performance on intelligence tests can be traced back to the underlying mental abilities or factors of intelligence. SI theory comprises multiple intellectual abilities organized along three dimensions—Operations, Content, and Products.<sup id="cite_ref-guil_5-0" class="reference"><a href="#cite_note-guil-5">&#91;5&#93;</a></sup>
+</p>
+<ul><li><i>Operations dimension</i></li></ul>
+<p>SI includes six operations or general intellectual processes:
+Cognition—The ability to understand, comprehend, discover, and become aware of information.
+Memory recording—The ability to encode information.
+Memory retention—The ability to recall information.
+Divergent production—The ability to generate multiple solutions to a problem; creativity.
+Convergent production—The ability to deduce a single solution to a problem; rule-following or problem-solving.
+Evaluation—The ability to judge whether or not information is accurate, consistent, or valid.
+</p>
+<ul><li><i>Content dimension</i></li></ul>
+<p>SI includes five broad areas of information to which the human intellect applies the six operations:
+Visual—Information perceived through seeing.
+Auditory—Information perceived through hearing.
+Kinesthetic -through actions
+Symbolic—Information perceived as symbols or signs that have no meaning by themselves; e.g., Arabic numerals or the letters of an alphabet.
+Semantic—Information perceived in words or sentences, whether oral, written, or silently in one's mind.
+Behavioral—Information perceived as acts of people.
+</p>
+<ul><li><i>Product dimension</i></li></ul>
+<p>As the name suggests, this dimension contains results of applying particular operations to specific contents. The SI model includes six products, in increasing complexity:
+Units—Single items of knowledge.
+Classes—Sets of units sharing common attributes.
+Relations—Units linked as opposites or in associations, sequences, or analogies.
+Systems—Multiple relations interrelated to comprise structures or networks.
+Transformations—Changes, perspectives, conversions, or mutations to knowledge.
+Implications—Predictions, inferences, consequences, or anticipations of knowledge.
+</p><p>Therefore, according to Guilford there are 6 x 5 x 6 = 180 intellectual abilities or factors. Each ability stands for a particular operation in a particular content area and results in a specific product, such as Comprehension of Figural Units or Evaluation of Semantic Implications.<sup id="cite_ref-guilf_4-1" class="reference"><a href="#cite_note-guilf-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Cognitive_view">Cognitive view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=8" title="Edit section: Cognitive view">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/wiki/File:Cognitive_operations.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cognitive_operations.jpg/350px-Cognitive_operations.jpg" decoding="async" width="350" height="371" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cognitive_operations.jpg/525px-Cognitive_operations.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f0/Cognitive_operations.jpg 2x" data-file-width="570" data-file-height="604" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Cognitive_operations.jpg" class="internal" title="Enlarge"></a></div>Mental operations: cognitive view.</div></div></div>
+<p>Following on the footsteps of Silvio Ceccato,<sup id="cite_ref-cec_6-0" class="reference"><a href="#cite_note-cec-6">&#91;6&#93;</a></sup> Giulio Benedetti describes several types of mental operations:<sup id="cite_ref-ben_7-0" class="reference"><a href="#cite_note-ben-7">&#91;7&#93;</a></sup>
+</p>
+<ul><li>attentional focalization - focusing <a href="/wiki/Attention" title="Attention">attention</a> on something;</li>
+<li>attentional discarding - stopping our attention on an object;</li>
+<li>spatial basic operating scheme (attentional movement) - passing attention from one part to another of the attentional field;</li>
+<li>operation of <a href="/wiki/Representation_(psychology)" class="mw-redirect" title="Representation (psychology)">representation</a> - evoking a mental image;</li>
+<li>operation of <a href="/wiki/Comparison_(mathematics)" class="mw-redirect" title="Comparison (mathematics)">comparison</a>;</li>
+<li>operations of <a href="/wiki/Memory" title="Memory">memory</a>;</li>
+<li>temporal basic operating scheme - variation of attentional focalization.</li></ul>
+<h2><span class="mw-headline" id="Systems_view">Systems view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=9" title="Edit section: Systems view">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/wiki/File:Systemic_operations.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Systemic_operations.jpg/350px-Systemic_operations.jpg" decoding="async" width="350" height="296" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Systemic_operations.jpg/525px-Systemic_operations.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Systemic_operations.jpg/700px-Systemic_operations.jpg 2x" data-file-width="753" data-file-height="637" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Systemic_operations.jpg" class="internal" title="Enlarge"></a></div>Mental operations: systems view.</div></div></div>
+<p>Taking into account all <a href="/wiki/Mental_process" class="mw-redirect" title="Mental process">mental processes</a>, the following types of mental operations have been described:<sup id="cite_ref-sys_8-0" class="reference"><a href="#cite_note-sys-8">&#91;8&#93;</a></sup>
+</p>
+<ul><li><a href="/wiki/Cognitive" class="mw-redirect" title="Cognitive">cognitive</a> operations - production and verbalization of images and thoughts;</li>
+<li>practical operations, pertaining to <a href="/wiki/Executive_functions" title="Executive functions">executive functions</a>;</li>
+<li><a href="/wiki/Affective" class="mw-redirect" title="Affective">affective</a> operations - affective <a href="/wiki/Evaluation" title="Evaluation">evaluation</a> of the world and <a href="/wiki/Self_(psychology)" class="mw-redirect" title="Self (psychology)">self</a>;</li>
+<li>expressive operations (<a href="/wiki/Emotional_expression" title="Emotional expression">emotional expression</a>);</li>
+<li>perceptual-motor operations (e.g., <a href="/wiki/Eye-hand_coordination" class="mw-redirect" title="Eye-hand coordination">eye-hand coordination</a>);</li>
+<li>regulative operations - verbalization of needs, motives and feelings, and <a href="/wiki/Self-control" title="Self-control">self-control</a>.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Logical_connective" title="Logical connective">Logical connective</a></li>
+<li><a href="/wiki/Mental_event" title="Mental event">Mental event</a></li>
+<li><a href="/wiki/Mental_process" class="mw-redirect" title="Mental process">Mental process</a></li>
+<li><a href="/wiki/Mental_rotation" title="Mental rotation">Mental rotation</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mental_operations&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-hobh-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-hobh_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hobh_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hobh_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/Hobhouse,_LT" class="mw-redirect" title="Hobhouse, LT">Hobhouse, LT</a> (2005). <i>The Theory of Knowledge: A Contribution to Some Problems of Logic and Metaphysics</i>, Kessinger Publishing, p. 223. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4179-6206-8" title="Special:BookSources/978-1-4179-6206-8">978-1-4179-6206-8</a>.</span>
+</li>
+<li id="cite_note-vals-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-vals_2-0">^</a></b></span> <span class="reference-text">Valsiner, Jaan; van der Veer, René (2000). <i>The social mind: construction of the idea.</i> Cambridge University Press, pp. 103-106. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-58973-8" title="Special:BookSources/0-521-58973-8">0-521-58973-8</a>.</span>
+</li>
+<li id="cite_note-gins-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-gins_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gins_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gins_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Ginsburg, Herbert; Opper, Sylvia (1979). <i>Piaget's Theory of Intellectual Development.</i> Prentice Hall, p. 152. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-675140-7" title="Special:BookSources/0-13-675140-7">0-13-675140-7</a>.</span>
+</li>
+<li id="cite_note-guilf-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-guilf_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-guilf_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Guilford, Joy Paul (1980). Some changes in the structure of intellect model. <i>Educational and Psychological Measurement</i> <b>48</b>: 1-4.</span>
+</li>
+<li id="cite_note-guil-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-guil_5-0">^</a></b></span> <span class="reference-text">Guilford, Joy Paul (1950). Creativity. <i>American Psychologist</i> <b>5</b> (9): 444-454.</span>
+</li>
+<li id="cite_note-cec-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-cec_6-0">^</a></b></span> <span class="reference-text">Ceccato, Silvio (1961). <i>Linguistic Analysis and Programming for Mechanical Translation</i>. G. Feltrinelli.</span>
+</li>
+<li id="cite_note-ben-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ben_7-0">^</a></b></span> <span class="reference-text">Benedetti, Giulio (2005).  <a rel="nofollow" class="external text" href="http://www.mind-consciousness-language.com/Elementary%20mental%20operations.pdf">"Basic mental operations which make up mental categories"</a> (PDF). <i>www.mind-consciousness-language.com</i></span>
+</li>
+<li id="cite_note-sys-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-sys_8-0">^</a></b></span> <span class="reference-text">Tapu, Codrin Stefan (2001). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=WKZoAwAAQBAJ&amp;printsec=frontcover&amp;hl=en">Hypostatic Personality: Psychopathology of Doing and Being Made</a></i>. Premier, pp. 18-19. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/973-8030-59-5" title="Special:BookSources/973-8030-59-5">973-8030-59-5</a>.</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Mental_processes" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#efefef;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Mental_processes" title="Template:Mental processes"><abbr title="View this template" style="background:#efefef;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mental_processes" title="Template talk:Mental processes"><abbr title="Discuss this template" style="background:#efefef;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mental_processes&amp;action=edit"><abbr title="Edit this template" style="background:#efefef;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Mental_processes" style="font-size:114%;margin:0 4em"><a href="/wiki/Mental_process" class="mw-redirect" title="Mental process">Mental processes</a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#efefef;;width:1%"><a href="/wiki/Cognition" title="Cognition">Cognition</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Awareness" title="Awareness">Awareness</a></li>
+<li><a href="/wiki/Cognitive_dissonance" title="Cognitive dissonance">Cognitive dissonance</a></li>
+<li><a href="/wiki/Understanding" title="Understanding">Comprehension</a></li>
+<li><a href="/wiki/Consciousness" title="Consciousness">Consciousness</a></li>
+<li><a href="/wiki/Imagination" title="Imagination">Imagination</a></li>
+<li><a href="/wiki/Intuition" title="Intuition">Intuition</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#efefef;;width:1%"><a href="/wiki/Perception" title="Perception">Perception</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amodal_perception" title="Amodal perception">Amodal</a></li>
+<li><a href="/wiki/Haptic_perception" title="Haptic perception">Haptic <span style="font-size:85%;">(touch)</span></a></li>
+<li><a href="/wiki/Psychoacoustics" title="Psychoacoustics">Sound</a>
+<ul><li><a href="/wiki/Pitch_(music)" title="Pitch (music)">pitch</a></li>
+<li><a href="/wiki/Harmonic" title="Harmonic">harmonics</a></li>
+<li><a href="/wiki/Speech_perception" title="Speech perception">speech</a></li></ul></li>
+<li><a href="/wiki/Social_perception" title="Social perception">Social</a></li>
+<li><a href="/wiki/Aesthetic_interpretation" title="Aesthetic interpretation">Perception as interpretation</a></li>
+<li><a href="/wiki/Visual_perception" title="Visual perception">Visual</a></li>
+<li><a href="/wiki/Color_vision" title="Color vision">Color</a>
+<ul><li><a href="/wiki/RGB_color_model" title="RGB color model">RGB model</a></li></ul></li>
+<li><a href="/wiki/Peripheral_vision" title="Peripheral vision">Peripheral</a></li>
+<li><a href="/wiki/Depth_perception" title="Depth perception">Depth</a></li>
+<li><a href="/wiki/Form_perception" title="Form perception">Form</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#efefef;;width:1%"><a href="/wiki/Memory" title="Memory">Memory</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Encoding_(memory)" title="Encoding (memory)">Encoding</a></li>
+<li><a href="/wiki/Storage_(memory)" title="Storage (memory)">Storage</a></li>
+<li><a href="/wiki/Recall_(memory)" title="Recall (memory)">Recall</a></li>
+<li><a href="/wiki/Memory_consolidation" title="Memory consolidation">Consolidation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#efefef;;width:1%">Other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attention" title="Attention">Attention</a></li>
+<li><a href="/wiki/Institute_of_Higher_Nervous_Activity" title="Institute of Higher Nervous Activity">Higher nervous activity</a></li>
+<li><a href="/wiki/Intention" title="Intention">Intention</a></li>
+<li><a href="/wiki/Learning" title="Learning">Learning</a></li>
+<li><a href="/wiki/Fatigue_(medical)#Mental_fatigue" class="mw-redirect" title="Fatigue (medical)">Mental fatigue</a></li>
+<li><a href="/wiki/Set_(psychology)" title="Set (psychology)">Mental set</a></li>
+<li><a href="/wiki/Thought" title="Thought">Thinking</a></li>
+<li><a href="/wiki/Volition_(psychology)" title="Volition (psychology)">Volition</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Psychology" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Psychology" title="Template:Psychology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Psychology" title="Template talk:Psychology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Psychology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Psychology" style="font-size:114%;margin:0 4em"><a href="/wiki/Psychology" title="Psychology">Psychology</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Philosophy&amp;#10;*_Portal&amp;#10;*_Psychologist">
+<ul><li><a href="/wiki/History_of_psychology" title="History of psychology">History</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Philosophy</a></li>
+<li><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Portal</a></li>
+<li><a href="/wiki/Psychologist" title="Psychologist">Psychologist</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Basic_science_(psychology)" title="Basic science (psychology)">Basic psychology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abnormal_psychology" title="Abnormal psychology">Abnormal</a></li>
+<li><a href="/wiki/Affective_science" title="Affective science">Affective science</a></li>
+<li><a href="/wiki/Affective_neuroscience" title="Affective neuroscience">Affective neuroscience</a></li>
+<li><a href="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavioral genetics</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Behavioral neuroscience</a></li>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive</a>/<a href="/wiki/Cognitivism_(psychology)" title="Cognitivism (psychology)">Cognitivism</a></li>
+<li><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive neuroscience</a>
+<ul><li><a href="/wiki/Social_cognitive_neuroscience" title="Social cognitive neuroscience">Social</a></li></ul></li>
+<li><a href="/wiki/Comparative_psychology" title="Comparative psychology">Comparative</a></li>
+<li><a href="/wiki/Cross-cultural_psychology" title="Cross-cultural psychology">Cross-cultural</a></li>
+<li><a href="/wiki/Cultural_psychology" title="Cultural psychology">Cultural</a></li>
+<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">Developmental</a></li>
+<li><a href="/wiki/Differential_psychology" title="Differential psychology">Differential</a></li>
+<li><a href="/wiki/Ecological_psychology" title="Ecological psychology">Ecological</a></li>
+<li><a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">Evolutionary</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experimental</a></li>
+<li><a href="/wiki/Gestalt_psychology" title="Gestalt psychology">Gestalt</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Mathematical_psychology" title="Mathematical psychology">Mathematical</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Personality_psychology" title="Personality psychology">Personality</a></li>
+<li><a href="/wiki/Positive_psychology" title="Positive psychology">Positive</a></li>
+<li><a href="/wiki/Psycholinguistics" title="Psycholinguistics">Psycholinguistics</a></li>
+<li><a href="/wiki/Psychophysiology" title="Psychophysiology">Psychophysiology</a></li>
+<li><a href="/wiki/Quantitative_psychology" title="Quantitative psychology">Quantitative</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">Social</a></li>
+<li><a href="/wiki/Theoretical_psychology" title="Theoretical psychology">Theoretical</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Applied_psychology" title="Applied psychology">Applied psychology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anomalistic_psychology" title="Anomalistic psychology">Anomalistic</a></li>
+<li><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a></li>
+<li><a href="/wiki/Psychological_testing" title="Psychological testing">Assessment</a></li>
+<li><a href="/wiki/Clinical_psychology" title="Clinical psychology">Clinical</a></li>
+<li><a href="/wiki/Community_psychology" title="Community psychology">Community</a></li>
+<li><a href="/wiki/Consumer_behaviour" title="Consumer behaviour">Consumer</a></li>
+<li><a href="/wiki/Counseling_psychology" title="Counseling psychology">Counseling</a></li>
+<li><a href="/wiki/Critical_psychology" title="Critical psychology">Critical</a></li>
+<li><a href="/wiki/Educational_psychology" title="Educational psychology">Educational</a></li>
+<li><a href="/wiki/Human_factors_and_ergonomics" title="Human factors and ergonomics">Ergonomics</a></li>
+<li><a href="/wiki/Feminist_psychology" title="Feminist psychology">Feminist</a></li>
+<li><a href="/wiki/Forensic_psychology" title="Forensic psychology">Forensic</a></li>
+<li><a href="/wiki/Health_psychology" title="Health psychology">Health</a></li>
+<li><a href="/wiki/Industrial_and_organizational_psychology" title="Industrial and organizational psychology">Industrial and organizational</a></li>
+<li><a href="/wiki/Legal_psychology" title="Legal psychology">Legal</a></li>
+<li><a href="/wiki/Media_psychology" title="Media psychology">Media</a></li>
+<li><a href="/wiki/Medical_psychology" title="Medical psychology">Medical</a></li>
+<li><a href="/wiki/Military_psychology" title="Military psychology">Military</a></li>
+<li><a href="/wiki/Music_psychology" title="Music psychology">Music</a></li>
+<li><a href="/wiki/Occupational_health_psychology" title="Occupational health psychology">Occupational health</a></li>
+<li><a href="/wiki/Pastoral_psychology" class="mw-redirect" title="Pastoral psychology">Pastoral</a></li>
+<li><a href="/wiki/Political_psychology" title="Political psychology">Political</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li>
+<li><a href="/wiki/Psychotherapy" title="Psychotherapy">Psychotherapy</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Religion</a></li>
+<li><a href="/wiki/School_psychology" title="School psychology">School</a></li>
+<li><a href="/wiki/Sport_psychology" title="Sport psychology">Sport and exercise</a></li>
+<li><a href="/wiki/Suicidology" title="Suicidology">Suicidology</a></li>
+<li><a href="/wiki/Systems_psychology" title="Systems psychology">Systems</a></li>
+<li><a href="/wiki/Traffic_psychology" title="Traffic psychology">Traffic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Methodologies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animal_testing" title="Animal testing">Animal testing</a></li>
+<li><a href="/wiki/Archival_research" title="Archival research">Archival research</a></li>
+<li><a href="/wiki/Behavioral_epigenetics" title="Behavioral epigenetics">Behavior epigenetics</a></li>
+<li><a href="/wiki/Case_study" title="Case study">Case study</a></li>
+<li><a href="/wiki/Content_analysis" title="Content analysis">Content analysis</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experiments</a></li>
+<li><a href="/wiki/Human_subject_research" title="Human subject research">Human subject research</a></li>
+<li><a href="/wiki/Interview_(research)" title="Interview (research)">Interviews</a></li>
+<li><a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a></li>
+<li><a href="/wiki/Observation" title="Observation">Observation</a></li>
+<li><a href="/wiki/Psychophysics" title="Psychophysics">Psychophysics</a></li>
+<li><a href="/wiki/Qualitative_psychological_research" title="Qualitative psychological research">Qualitative research</a></li>
+<li><a href="/wiki/Quantitative_psychological_research" title="Quantitative psychological research">Quantitative research</a></li>
+<li><a href="/wiki/Self-report_inventory" title="Self-report inventory">Self-report inventory</a></li>
+<li><a href="/wiki/Survey_methodology" title="Survey methodology">Statistical surveys</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wilhelm_Wundt" title="Wilhelm Wundt">Wilhelm Wundt</a>&#160;(1832–1920)</li>
+<li><a href="/wiki/William_James" title="William James">William James</a>&#160;(1842–1910)</li>
+<li><a href="/wiki/Ivan_Pavlov" title="Ivan Pavlov">Ivan Pavlov</a>&#160;(1849–1936)</li>
+<li><a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a>&#160;(1856–1939)</li>
+<li><a href="/wiki/Edward_Thorndike" title="Edward Thorndike">Edward Thorndike</a>&#160;(1874–1949)</li>
+<li><a href="/wiki/Carl_Jung" title="Carl Jung">Carl Jung</a>&#160;(1875–1961)</li>
+<li><a href="/wiki/John_B._Watson" title="John B. Watson">John B. Watson</a>&#160;(1878–1958)</li>
+<li><a href="/wiki/Clark_L._Hull" title="Clark L. Hull">Clark L. Hull</a>&#160;(1884–1952)</li>
+<li><a href="/wiki/Kurt_Lewin" title="Kurt Lewin">Kurt Lewin</a>&#160;(1890–1947)</li>
+<li><a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a>&#160;(1896–1980)</li>
+<li><a href="/wiki/Gordon_Allport" title="Gordon Allport">Gordon Allport</a>&#160;(1897–1967)</li>
+<li><a href="/wiki/J._P._Guilford" title="J. P. Guilford">J. P. Guilford</a>&#160;(1897–1987)</li>
+<li><a href="/wiki/Carl_Rogers" title="Carl Rogers">Carl Rogers</a>&#160;(1902–1987)</li>
+<li><a href="/wiki/Erik_Erikson" title="Erik Erikson">Erik Erikson</a>&#160;(1902–1994)</li>
+<li><a href="/wiki/B._F._Skinner" title="B. F. Skinner">B. F. Skinner</a>&#160;(1904–1990)</li>
+<li><a href="/wiki/Donald_O._Hebb" title="Donald O. Hebb">Donald O. Hebb</a>&#160;(1904–1985)</li>
+<li><a href="/wiki/Ernest_Hilgard" title="Ernest Hilgard">Ernest Hilgard</a>&#160;(1904–2001)</li>
+<li><a href="/wiki/Harry_Harlow" title="Harry Harlow">Harry Harlow</a>&#160;(1905–1981)</li>
+<li><a href="/wiki/Raymond_Cattell" title="Raymond Cattell">Raymond Cattell</a>&#160;(1905–1998)</li>
+<li><a href="/wiki/Abraham_Maslow" title="Abraham Maslow">Abraham Maslow</a>&#160;(1908–1970)</li>
+<li><a href="/wiki/Neal_E._Miller" title="Neal E. Miller">Neal E. Miller</a>&#160;(1909–2002)</li>
+<li><a href="/wiki/Jerome_Bruner" title="Jerome Bruner">Jerome Bruner</a>&#160;(1915–2016)</li>
+<li><a href="/wiki/Donald_T._Campbell" title="Donald T. Campbell">Donald T. Campbell</a>&#160;(1916–1996)</li>
+<li><a href="/wiki/Hans_Eysenck" title="Hans Eysenck">Hans Eysenck</a>&#160;(1916–1997)</li>
+<li><a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a>&#160;(1916–2001)</li>
+<li><a href="/wiki/David_McClelland" title="David McClelland">David McClelland</a>&#160;(1917–1998)</li>
+<li><a href="/wiki/Leon_Festinger" title="Leon Festinger">Leon Festinger</a>&#160;(1919–1989)</li>
+<li><a href="/wiki/George_Armitage_Miller" title="George Armitage Miller">George Armitage Miller</a>&#160;(1920–2012)</li>
+<li><a href="/wiki/Richard_Lazarus" title="Richard Lazarus">Richard Lazarus</a>&#160;(1922–2002)</li>
+<li><a href="/wiki/Stanley_Schachter" title="Stanley Schachter">Stanley Schachter</a>&#160;(1922–1997)</li>
+<li><a href="/wiki/Robert_Zajonc" title="Robert Zajonc">Robert Zajonc</a>&#160;(1923–2008)</li>
+<li><a href="/wiki/Albert_Bandura" title="Albert Bandura">Albert Bandura</a>&#160;(b.&#160;1925)</li>
+<li><a href="/wiki/Roger_Brown_(psychologist)" title="Roger Brown (psychologist)">Roger Brown</a>&#160;(1925–1997)</li>
+<li><a href="/wiki/Endel_Tulving" title="Endel Tulving">Endel Tulving</a>&#160;(b.&#160;1927)</li>
+<li><a href="/wiki/Lawrence_Kohlberg" title="Lawrence Kohlberg">Lawrence Kohlberg</a>&#160;(1927–1987)</li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a>&#160;(b.&#160;1928)</li>
+<li><a href="/wiki/Ulric_Neisser" title="Ulric Neisser">Ulric Neisser</a>&#160;(1928–2012)</li>
+<li><a href="/wiki/Jerome_Kagan" title="Jerome Kagan">Jerome Kagan</a>&#160;(b.&#160;1929)</li>
+<li><a href="/wiki/Walter_Mischel" title="Walter Mischel">Walter Mischel</a>&#160;(1930–2018)</li>
+<li><a href="/wiki/Elliot_Aronson" title="Elliot Aronson">Elliot Aronson</a>&#160;(b.&#160;1932)</li>
+<li><a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">Daniel Kahneman</a>&#160;(b.&#160;1934)</li>
+<li><a href="/wiki/Paul_Ekman" title="Paul Ekman">Paul Ekman</a>&#160;(b.&#160;1934)</li>
+<li><a href="/wiki/Michael_Posner_(psychologist)" title="Michael Posner (psychologist)">Michael Posner</a>&#160;(b.&#160;1936)</li>
+<li><a href="/wiki/Amos_Tversky" title="Amos Tversky">Amos Tversky</a>&#160;(1937–1996)</li>
+<li><a href="/wiki/Bruce_McEwen" title="Bruce McEwen">Bruce McEwen</a>&#160;(b.&#160;1938)</li>
+<li><a href="/wiki/Larry_Squire" title="Larry Squire">Larry Squire</a>&#160;(b.&#160;1941)</li>
+<li><a href="/wiki/Richard_E._Nisbett" title="Richard E. Nisbett">Richard E. Nisbett</a>&#160;(b.&#160;1941)</li>
+<li><a href="/wiki/Martin_Seligman" title="Martin Seligman">Martin Seligman</a>&#160;(b.&#160;1942)</li>
+<li><a href="/wiki/Ed_Diener" title="Ed Diener">Ed Diener</a>&#160;(b.&#160;1946)</li>
+<li><a href="/wiki/Shelley_E._Taylor" title="Shelley E. Taylor">Shelley E. Taylor</a>&#160;(b.&#160;1946)</li>
+<li><a href="/wiki/John_Robert_Anderson_(psychologist)" title="John Robert Anderson (psychologist)">John Anderson</a>&#160;(b.&#160;1947)</li>
+<li><a href="/wiki/Ronald_C._Kessler" title="Ronald C. Kessler">Ronald C. Kessler</a>&#160;(b.&#160;1947)</li>
+<li><a href="/wiki/Joseph_E._LeDoux" title="Joseph E. LeDoux">Joseph E. LeDoux</a>&#160;(b.&#160;1949)</li>
+<li><a href="/wiki/Richard_Davidson" title="Richard Davidson">Richard Davidson</a>&#160;(b.&#160;1951)</li>
+<li><a href="/wiki/Susan_Fiske" title="Susan Fiske">Susan Fiske</a>&#160;(b.&#160;1952)</li>
+<li><a href="/wiki/Roy_Baumeister" title="Roy Baumeister">Roy Baumeister</a>&#160;(b.&#160;1953)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Psychology_lists" title="Category:Psychology lists">Lists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_counseling_topics" title="List of counseling topics">Counseling topics</a></li>
+<li><a href="/wiki/List_of_psychology_disciplines" title="List of psychology disciplines">Disciplines</a></li>
+<li><a href="/wiki/List_of_important_publications_in_psychology" title="List of important publications in psychology">Important publications</a></li>
+<li><a href="/wiki/List_of_psychology_organizations" title="List of psychology organizations">Organizations</a></li>
+<li><a href="/wiki/Outline_of_psychology" title="Outline of psychology">Outline</a></li>
+<li><a href="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</a></li>
+<li><a href="/wiki/List_of_psychotherapies" title="List of psychotherapies">Psychotherapies</a></li>
+<li><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Research methods</a></li>
+<li><a href="/wiki/List_of_psychological_schools" title="List of psychological schools">Schools of thought</a></li>
+<li><a href="/wiki/Timeline_of_psychology" title="Timeline of psychology">Timeline</a></li>
+<li><a href="/wiki/Index_of_psychology_articles" title="Index of psychology articles">Topics</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="https://en.wiktionary.org/wiki/psychology" class="extiw" title="wiktionary:psychology">Wiktionary definition</a></li>
+<li><a href="https://en.wiktionary.org/wiki/Category:en:Psychology" class="extiw" title="wiktionary:Category:en:Psychology">Wiktionary category</a></li>
+<li><a href="https://en.wikisource.org/wiki/Category:Psychology" class="extiw" title="wikisource:Category:Psychology">Wikisource</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/category:Psychology" class="extiw" title="commons:category:Psychology">Wikimedia Commons</a></li>
+<li><a href="https://en.wikiquote.org/wiki/Psychology" class="extiw" title="wikiquote:Psychology">Wikiquote</a></li>
+<li><a href="https://en.wikinews.org/wiki/Special:Search/Psychology" class="extiw" title="wikinews:Special:Search/Psychology">Wikinews</a></li>
+<li><a href="https://en.wikibooks.org/wiki/Psychology" class="extiw" title="wikibooks:Psychology">Wikibooks</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20190402060244
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.259 seconds
+Preprocessor visited node count: 1187/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41340/2097152 bytes
+Template argument size: 1906/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12304/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  153.679      1 -total
+ 81.37%  125.043      1 Template:Reflist
+ 70.81%  108.823      4 Template:ISBN
+ 48.55%   74.615      4 Template:Catalog_lookup_link
+ 14.33%   22.024      2 Template:Navbox
+ 11.17%   17.170      1 Template:Mental_processes
+  9.35%   14.374      4 Template:Error-small
+  7.68%   11.797      5 Template:Small
+  7.34%   11.283      1 Template:Psychology
+  5.91%    9.080     12 Template:Yesno-no
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26530571-0!canonical and timestamp 20190402060244 and revision id 825709773
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mental_operations&amp;oldid=825709773">https://en.wikipedia.org/w/index.php?title=Mental_operations&amp;oldid=825709773</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li><li><a href="/wiki/Category:Mind" title="Category:Mind">Mind</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mental+operations" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mental+operations" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mental_operations" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Mental_operations" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Mental_operations">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Mental_operations&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mental_operations&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mental_operations" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mental_operations" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mental_operations&amp;oldid=825709773" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mental_operations&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6817483" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mental_operations&amp;id=825709773" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mental+operations">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mental+operations&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mental_operations&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Operaciones_mentales" title="Operaciones mentales – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6817483#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 February 2018, at 23:15<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mental_operations&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.259","ppvisitednodes":{"value":1187,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41340,"limit":2097152},"templateargumentsize":{"value":1906,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12304,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  153.679      1 -total"," 81.37%  125.043      1 Template:Reflist"," 70.81%  108.823      4 Template:ISBN"," 48.55%   74.615      4 Template:Catalog_lookup_link"," 14.33%   22.024      2 Template:Navbox"," 11.17%   17.170      1 Template:Mental_processes","  9.35%   14.374      4 Template:Error-small","  7.68%   11.797      5 Template:Small","  7.34%   11.283      1 Template:Psychology","  5.91%    9.080     12 Template:Yesno-no"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":1507886,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20190402060244","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mental operations","url":"https:\/\/en.wikipedia.org\/wiki\/Mental_operations","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6817483","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6817483","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-03-12T21:01:03Z","dateModified":"2018-02-14T23:15:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Guilford_model.jpg"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1267"});});</script>
+</body>
+</html>

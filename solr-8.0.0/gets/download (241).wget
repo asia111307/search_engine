@@ -1,0 +1,968 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
+<!--[if !IE]><!--><html lang="en-US"> <!--<![endif]-->
+<head>
+<!-- un-comment and delete 2nd meta below to disable zoom
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://cognitivecomputingconsortium.com/xmlrpc.php">
+<link rel="alternate" type="application/rss+xml" title="Cognitive Computing Consortium" href="https://cognitivecomputingconsortium.com/feed/" />
+<link rel="shortcut icon" href="https://cognitivecomputingconsortium.com/wp-content/uploads/2016/06/CCFAV.png"/><link href='//fonts.googleapis.com/css?family=Varela+Round|Open+Sans' rel='stylesheet' type='text/css'>
+
+<title>Machine learning &#8211; Cognitive Computing Consortium</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cognitive Computing Consortium &raquo; Feed" href="https://cognitivecomputingconsortium.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cognitive Computing Consortium &raquo; Comments Feed" href="https://cognitivecomputingconsortium.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cognitive Computing Consortium &raquo; Machine learning Tag Feed" href="https://cognitivecomputingconsortium.com/tag/machine-learning/feed/" />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='https://cognitivecomputingconsortium.com/?mcsf_action=main_css&#038;ver=5.1.1' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='https://cognitivecomputingconsortium.com/wp-content/plugins/mailchimp/css/ie.css?ver=5.1.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='pmpro_frontend-css'  href='https://cognitivecomputingconsortium.com/wp-content/plugins/paid-memberships-pro/css/frontend.css?ver=2.0.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='pmpro_print-css'  href='https://cognitivecomputingconsortium.com/wp-content/plugins/paid-memberships-pro/css/print.css?ver=2.0.4' type='text/css' media='print' />
+<link rel='stylesheet' id='layerslider-css'  href='https://cognitivecomputingconsortium.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://cognitivecomputingconsortium.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='https://cognitivecomputingconsortium.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684' type='text/css' media='screen' />
+<link rel='stylesheet' id='karma-builder-css'  href='https://cognitivecomputingconsortium.com/wp-content/plugins/karma_builder/css/karma-builder.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://cognitivecomputingconsortium.com/wp-content/themes/karma/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='primary-color-css'  href='https://cognitivecomputingconsortium.com/wp-content/themes/karma/css/karma-political-blue.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='secondary-color-css'  href='https://cognitivecomputingconsortium.com/wp-content/themes/karma/css/secondary-teal-grey.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://cognitivecomputingconsortium.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='mobile-css'  href='https://cognitivecomputingconsortium.com/wp-content/themes/karma/css/_mobile.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://cognitivecomputingconsortium.com/wp-content/themes/karma-child-theme/style.css?ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.8.2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script><script>jQueryWP = jQuery;</script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.8.2'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.8.2'></script>
+<meta name="generator" content="Powered by LayerSlider 6.8.2 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='https://cognitivecomputingconsortium.com/wp-json/' />
+	<meta property="og:title" content="Microsoft In Recovery Room After Tay"/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="https://cognitivecomputingconsortium.com/microsoft-in-recovery-room-after-tay/"/>
+	<meta property="og:description" content="Microsoft appears to have been emboldened by the success of its Xiaoice chat bot in China to try a US-based chat bot with the personality of a 19-year"/>
+	<meta property="og:site_name" content="Cognitive Computing Consortium"/>
+	<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://cognitivecomputingconsortium.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://cognitivecomputingconsortium.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><style type='text/css'>
+
+p,ul,ol,.callout-wrap span, div.comment-text, label, .post_date .month, .post_comments, #footer ul.tt-recent-posts h4 {font-family: 'Open Sans', Arial, sans-serif;}
+h1, h2, h3, h4, h5, h6 #footer h3, #menu-main-nav li strong, #wrapper.tt-uberstyling-enabled .ubermenu ul.ubermenu-nav > li.ubermenu-item > a span.ubermenu-target-title, p.footer-callout-heading, .ka_button, .ka_button:hover, #tt-mobile-menu-button span, .post_date .day, .karma_mega_div span.karma-mega-title {font-family: 'Varela Round', Arial, sans-serif;}
+#tt-parallax-banner h1,
+#tt-parallax-banner h2,
+#tt-parallax-banner h3 {
+	font-size: 28px;
+}
+p {line-height:23px;}
+.callout-wrap span {font-size: 1.4em;}
+#content p.callout2 span {font-size: 16px;}
+.testimonials blockquote, .testimonials_static blockquote, p.team-member-title {font-size: 13px;font-style: normal;}
+.ka_button, .ka_button:hover {letter-spacing: 0px;}
+#footer h3, #menu-main-nav li strong, #wrapper.tt-uberstyling-enabled .ubermenu ul.ubermenu-nav > li.ubermenu-item > a span.ubermenu-target-title {font-weight: normal;letter-spacing: 0.7px;font-size:12.4px;}
+#footer h3 {font-size: 14px;text-transform:none;}
+#footer p.footer-callout-heading {font-size: 16px;}
+#footer .blogroll a,
+#footer ul.tt-recent-posts h4 {font-weight: normal;}
+.tools .breadcrumb .current_crumb:after, .woocommerce-page .tt-woocommerce .breadcrumb span:last-child:after {bottom: -8px;}
+.post_title span {font-weight: normal;}
+.post_date .day {font-size:28px;font-weight:normal;}
+.post_date .month {font-size: 15px;margin-top:-15px;}
+.tools .search-form {margin-top: 1px;}
+
+
+#main p, #main ul, #main ol { font-size:15px;}
+#menu-main-nav, #menu-main-nav li a span strong{font-size:18px!important;}
+#sub_nav{font-size:16px!important;}
+</style>
+<!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<!--[if IE 9]>
+<style media="screen">
+#footer,
+.header-holder
+ {
+      behavior: url(https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/PIE/PIE.php);
+}
+</style>
+<![endif]-->
+
+<!--[if lte IE 8]>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/html5shiv.js'></script>
+<style media="screen">
+a.button,
+a.button:hover,
+ul.products li.product a img,
+div.product div.images img,
+span.onsale,
+#footer,
+.header-holder,
+#horizontal_nav ul li,
+#horizontal_nav ul a,
+#tt-gallery-nav li,
+#tt-gallery-nav a,
+ul.tabset li,
+ul.tabset a,
+.karma-pages a,
+.karma-pages span,
+.wp-pagenavi a,
+.wp-pagenavi span,
+.post_date,
+.post_comments,
+.ka_button,
+.flex-control-paging li a,
+.colored_box,
+.tools,
+.karma_notify
+.opener,
+.callout_button,
+.testimonials {
+      behavior: url(https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/PIE/PIE.php);
+}
+</style>
+<![endif]-->
+
+<!--[if IE]>
+<link rel="stylesheet" href="https://cognitivecomputingconsortium.com/wp-content/themes/karma/css/_internet_explorer.css" media="screen"/>
+<![endif]-->
+
+
+
+
+</head>
+
+<body class="archive tag tag-machine-learning tag-45 karma-body-mega-menu karma-no-content-gradient karma-no-mobile-submenu karma-flat-cs karma-header-light karma-header-custom karma-foot-center wpb-js-composer js-comp-ver-4.12 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div id="tt-wide-layout" class="content-style-default">
+	<div id="wrapper">
+		<header role="banner" id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
+<div class="top-block">
+<div class="top-holder">
+
+    
+  <div class="toolbar-left">
+  <ul><li id="menu-item-162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="https://cognitivecomputingconsortium.com"><span><strong>Home</strong></span></a></li>
+<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a href="https://cognitivecomputingconsortium.com/blog/"><span><strong>Blog</strong></span></a></li>
+<li id="menu-item-1553" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://cognitivecomputingconsortium.com/wp-login.php?redirect_to=https%3A%2F%2Fcognitivecomputingconsortium.com%2Fmembership-account%2Fmembership-checkout%2F%3Flevel%3D1"><span><strong>Member Login</strong></span></a></li>
+</ul>  </div><!-- END toolbar-left -->
+  
+  <div class="toolbar-right">
+  <form role="search" method="get" action="https://cognitivecomputingconsortium.com/" class="search-form">
+	<fieldset>
+    	<label for="s">Search this website</label>
+		<span class="text">
+			<input type="text" name="s" class="s" id="s" value="Search" onfocus="this.value=(this.value=='Search') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search' : this.value;" />
+            <input type="submit" value="search" class="searchsubmit" />
+		</span>
+	</fieldset>
+</form>  </div><!-- END toolbar-right -->
+
+</div><!-- END top-holder -->
+</div><!-- END top-block -->
+
+<div class="header-holder ">
+<div class="header-overlay">
+<div class="header-area">
+
+<a href="https://cognitivecomputingconsortium.com" class="logo"><img src="https://cognitivecomputingconsortium.com/wp-content/uploads/2016/06/CognitiveComputingsite3.png" alt="Cognitive Computing Consortium" /></a>
+
+
+
+    <nav role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	    <ul id="menu-main-nav" class="sf-menu">
+	    <li id="menu-item-2139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a><span><strong>About</strong><span class="navi-description">who we are</span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/about/mission/"><span>Mission</span></a></li>
+	<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/about/executive-board/"><span>Executive Board</span></a></li>
+	<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/about/working-group/"><span>Working Group</span></a></li>
+	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/about/press-releases/"><span>In the Press</span></a></li>
+</ul>
+</li>
+<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a><span><strong>EVENTS</strong><span class="navi-description">join us</span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/news/events/"><span>In Person</span></a></li>
+	<li id="menu-item-2121" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/news/webinars/"><span>Webinars</span></a></li>
+</ul>
+</li>
+<li id="menu-item-127" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://cognitivecomputingconsortium.com/blog/"><span><strong>Blog</strong><span class="navi-description">read our blog</span></span></a></li>
+<li id="menu-item-2140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a><span><strong>Resources</strong><span class="navi-description">learn more</span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-491" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/resources/cognitive-computing-defined/"><span>Cognitive Computing Defined</span></a></li>
+	<li id="menu-item-1754" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/monthly-column/"><span>Monthly Column</span></a></li>
+	<li id="menu-item-2375" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://aitrends.com/"><span>AI Trends</span></a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/resources/webinararchive/"><span>Webinar Archive</span></a></li>
+	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/resources/presentations/"><span>Presentations</span></a></li>
+	<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/resources/white-papers/"><span>White Papers</span></a></li>
+	<li id="menu-item-1925" class="menu-item menu-item-type-post_type menu-item-object-forum"><a href="https://cognitivecomputingconsortium.com/forums/forum/cognitive-computing-applications/"><span>Member Forum</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a><span><strong>Get Involved</strong><span class="navi-description">become a contributor</span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-389" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/get-involved/membership/"><span>Members</span></a></li>
+	<li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/get-involved/partners/"><span>Partners</span></a></li>
+	<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/get-involved/sponsorship/"><span>Sponsors</span></a></li>
+	<li id="menu-item-1309" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://cognitivecomputingconsortium.com/about/contact-us/"><span>Contact us</span></a></li>
+</ul>
+</li>
+	    </ul>
+    </nav>
+</div><!-- END header-area -->
+</div><!-- END header-overlay -->
+</div><!-- END header-holder -->
+</header><!-- END header -->
+
+
+
+<div id="main" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+		
+
+	<div class="main-area">
+		
+		<div class="tools">
+			<span class="tools-top"></span>
+        		<div class="frame">
+        											            <h1>Posts Tagged 'Machine learning'</h1>
+	            <form role="search" method="get" action="https://cognitivecomputingconsortium.com/" class="search-form">
+	<fieldset>
+    	<label for="s">Search this website</label>
+		<span class="text">
+			<input type="text" name="s" class="s" id="s" value="Search" onfocus="this.value=(this.value=='Search') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search' : this.value;" />
+            <input type="submit" value="search" class="searchsubmit" />
+		</span>
+	</fieldset>
+</form><p class="breadcrumb"><a href="https://cognitivecomputingconsortium.com">Home</a><span class='current_crumb'>Tag: Machine learning </span></p>        
+        	</div><!-- END frame -->
+			<span class="tools-bottom"></span>
+		</div><!-- END tools -->
+		
+
+  <main role="main" id="content" class="content_blog ">
+      
+<article class="blog_wrap  post-934 post type-post status-publish format-standard hentry category-in-the-news tag-artificial-intelligence tag-conversational-interfaces tag-machine-learning tag-microsoft tag-neural-networks tag-tay tag-wired pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-934">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/microsoft-in-recovery-room-after-tay/" title="Microsoft In Recovery Room After Tay">Microsoft In Recovery Room After Tay</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>Microsoft appears to have been emboldened by the success of its Xiaoice chat bot in China to try a US-based chat bot with the personality of a 19-year-old girl in order to attract the 18-24 year-old demographic. What it found was that the US market responded to the introduction by attacking the bot’s learning algorithms with hate speech and “training” Tay to be an eager participant within its first few hours online.</p>
+<p>Microsoft acted at once to shut down the experiment ...</p><a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/microsoft-in-recovery-room-after-tay/" rel="bookmark" title="Continue reading Microsoft In Recovery Room After Tay">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="March 28, 2016" itemprop="datePublished">
+    <span class="day date updated">28</span>
+    <br />
+    <span class="month">MAR</span>
+    <br /> 
+    <span class="year">2016</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/microsoft-in-recovery-room-after-tay/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/microsoft-in-recovery-room-after-tay/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/artificial-intelligence/" rel="tag">Artificial Intelligence</a>, <a href="https://cognitivecomputingconsortium.com/tag/conversational-interfaces/" rel="tag">Conversational Interfaces</a>, <a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/microsoft/" rel="tag">Microsoft</a>, <a href="https://cognitivecomputingconsortium.com/tag/neural-networks/" rel="tag">neural networks</a>, <a href="https://cognitivecomputingconsortium.com/tag/tay/" rel="tag">Tay</a>, <a href="https://cognitivecomputingconsortium.com/tag/wired/" rel="tag">Wired</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-929 post type-post status-publish format-standard hentry category-in-the-news tag-artificial-intelligence tag-csc tag-economic-impacts tag-leading-edge-forum tag-machine-learning pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-929">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/cscs-leading-edge-forum-declares-matrix-era/" title="CSC’s Leading Edge Forum Declares “Matrix” Era">CSC’s Leading Edge Forum Declares “Matrix” Era</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>London-based Leading Edge Forum, a research arm of CSC (Computer Sciences Corporation) issued a new study, titled <em>Embracing ‘the Matrix’ and the Machine Intelligence Era</em>. The study declares that the current intersection of Cloud computing and “machine intelligence” will bring about an “ever more capable digital ecosystem” that they dub “The Matrix.”</p>
+<p><a href="https://leadingedgeforum.com/publication/embracing-the-matrix-and-the-machine-intelligence-era/" class="readon" target="_blank">Read more at Leading Edge Forum</a></p>
+<a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/cscs-leading-edge-forum-declares-matrix-era/" rel="bookmark" title="Continue reading CSC’s Leading Edge Forum Declares “Matrix” Era">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="March 25, 2016" itemprop="datePublished">
+    <span class="day date updated">25</span>
+    <br />
+    <span class="month">MAR</span>
+    <br /> 
+    <span class="year">2016</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/cscs-leading-edge-forum-declares-matrix-era/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/cscs-leading-edge-forum-declares-matrix-era/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/artificial-intelligence/" rel="tag">Artificial Intelligence</a>, <a href="https://cognitivecomputingconsortium.com/tag/csc/" rel="tag">CSC</a>, <a href="https://cognitivecomputingconsortium.com/tag/economic-impacts/" rel="tag">Economic Impacts</a>, <a href="https://cognitivecomputingconsortium.com/tag/leading-edge-forum/" rel="tag">Leading Edge Forum</a>, <a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-901 post type-post status-publish format-standard hentry category-in-the-news tag-machine-learning tag-research tag-supremecourt tag-virginia-tech pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-901">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/supreme-court-ideal-point-miner-scipm/" title="Supreme Court Ideal Point Miner (SCIPM)">Supreme Court Ideal Point Miner (SCIPM)</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>Researchers at the Discovery Analytics Center at Virginia Tech have developed a model that learns Supreme Court justices’ judicial preferences and voting behavior. Using the model, they report that they have been successful in assessing justices’ views on issues, anticipating their alignments in different cases, and predicting which justice may become a swing vote on an issue that divides the court.</p>
+<p><a href="http://theconversation.com/what-ai-can-tell-us-about-the-u-s-supreme-court-55352" class="readon" target="_blank">Read more at The Conversation.com</a></p>
+<a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/supreme-court-ideal-point-miner-scipm/" rel="bookmark" title="Continue reading Supreme Court Ideal Point Miner (SCIPM)">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="March 20, 2016" itemprop="datePublished">
+    <span class="day date updated">20</span>
+    <br />
+    <span class="month">MAR</span>
+    <br /> 
+    <span class="year">2016</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/supreme-court-ideal-point-miner-scipm/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/supreme-court-ideal-point-miner-scipm/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/research/" rel="tag">Research</a>, <a href="https://cognitivecomputingconsortium.com/tag/supremecourt/" rel="tag">SupremeCourt</a>, <a href="https://cognitivecomputingconsortium.com/tag/virginia-tech/" rel="tag">Virginia Tech</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-873 post type-post status-publish format-standard hentry category-in-the-news tag-big-data tag-machine-learning tag-research pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-873">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/yahoo-releases-13-5-tb-dataset/" title="Yahoo Releases 13.5 TB Dataset">Yahoo Releases 13.5 TB Dataset</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>Yahoo announced that it will release a large data set of activity on several of its sites to open source, in order to assist researchers in machine learning looking to access rich raw material.</p>
+<p><a href="http://venturebeat.com/2016/01/14/yahoo-releases-13-5tb-webscope-data-set-for-machine-learning-researchers/" class="readon" target="_blank">Read more at VentureBeat</a></p>
+<a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/yahoo-releases-13-5-tb-dataset/" rel="bookmark" title="Continue reading Yahoo Releases 13.5 TB Dataset">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="January 15, 2016" itemprop="datePublished">
+    <span class="day date updated">15</span>
+    <br />
+    <span class="month">JAN</span>
+    <br /> 
+    <span class="year">2016</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/yahoo-releases-13-5-tb-dataset/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/yahoo-releases-13-5-tb-dataset/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/big-data/" rel="tag">Big Data</a>, <a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/research/" rel="tag">Research</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-861 post type-post status-publish format-standard hentry category-in-the-news tag-artificial-intelligence tag-learning tag-machine-learning tag-training-sets pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-861">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/facebook-research-raises-bar-on-go-playing-machines/" title="Facebook Research Raises Bar on Go-playing Machines">Facebook Research Raises Bar on Go-playing Machines</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>Unlike chess and Jeopardy, the game of Go has proved elusive for researchers seeking to craft a machine that can beat a human opponent. MIT Technology Review reports on advances by Facebook research, where a pair of scientists have recently created a pretty darn good Go-playing machine. Their approach combines a traditional search-based approach with neural network-based machine learning and trounces earlier Go machines over 90% of the time.</p>
+<p><a href="http://www.technologyreview.com/view/544181/how-facebooks-ai-researchers-built-a-game-changing-go-engine/" class="readon" target="_blank">Read more at MIT Technology Review</a></p>
+<a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/facebook-research-raises-bar-on-go-playing-machines/" rel="bookmark" title="Continue reading Facebook Research Raises Bar on Go-playing Machines">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="December 8, 2015" itemprop="datePublished">
+    <span class="day date updated">8</span>
+    <br />
+    <span class="month">DEC</span>
+    <br /> 
+    <span class="year">2015</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/facebook-research-raises-bar-on-go-playing-machines/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/facebook-research-raises-bar-on-go-playing-machines/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/artificial-intelligence/" rel="tag">Artificial Intelligence</a>, <a href="https://cognitivecomputingconsortium.com/tag/learning/" rel="tag">Learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/training-sets/" rel="tag">Training Sets</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-853 post type-post status-publish format-standard hentry category-in-the-news tag-machine-learning tag-wikipedia tag-wired pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-853">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/wikipedia-turns-to-machine-learning-for-fraud-detection/" title="Wikipedia Turns to Machine Learning for Fraud Detection">Wikipedia Turns to Machine Learning for Fraud Detection</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>To help offload the work of volunteer human editors tasked with detecting malevolent postings on the open encyclopedia, Wikipedia has turned to open source machine learning code to develop algorithms for differentiating malevolent new posts from legitimate ones. The goal of the Objective Revision Evaluation Service (ORES) is to help Wikipedia provide a more friendly environment for well-intentioned editors by relaxing current stringent editing restrictions. By identifying obvious vandals, ORES has allowed a positive modification in Wikipedia’s policies toward screening ...</p><a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/wikipedia-turns-to-machine-learning-for-fraud-detection/" rel="bookmark" title="Continue reading Wikipedia Turns to Machine Learning for Fraud Detection">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="December 4, 2015" itemprop="datePublished">
+    <span class="day date updated">4</span>
+    <br />
+    <span class="month">DEC</span>
+    <br /> 
+    <span class="year">2015</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/wikipedia-turns-to-machine-learning-for-fraud-detection/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/wikipedia-turns-to-machine-learning-for-fraud-detection/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/wikipedia/" rel="tag">Wikipedia</a>, <a href="https://cognitivecomputingconsortium.com/tag/wired/" rel="tag">Wired</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-837 post type-post status-publish format-standard hentry category-blog tag-cognitive-computing tag-computer-hardware tag-fpga tag-machine-learning pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-837">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/hardware-advances-aid-in-machine-learning-tasks/" title="Hardware advances aid in machine learning tasks">Hardware advances aid in machine learning tasks</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/evelynkent/" title="Posts by Evelyn Kent" rel="author">Evelyn Kent</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>In the last week we’ve seen some noteworthy developments in the cognitive computing field. Most significantly, Google and then Microsoft, open sourced their machine learning systems in an effort to move the field ahead. But software is not the only component involved in this advancement. There has also been significant progress in machine learning and other artificial intelligence tasks because we have more and faster processing power.</p>
+<p>Some folks are beginning to look at what, if any, changes we need to ...</p><a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/hardware-advances-aid-in-machine-learning-tasks/" rel="bookmark" title="Continue reading Hardware advances aid in machine learning tasks">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="November 18, 2015" itemprop="datePublished">
+    <span class="day date updated">18</span>
+    <br />
+    <span class="month">NOV</span>
+    <br /> 
+    <span class="year">2015</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/hardware-advances-aid-in-machine-learning-tasks/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/hardware-advances-aid-in-machine-learning-tasks/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/blog/" >Blog</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/cognitive-computing/" rel="tag">Cognitive Computing</a>, <a href="https://cognitivecomputingconsortium.com/tag/computer-hardware/" rel="tag">computer hardware</a>, <a href="https://cognitivecomputingconsortium.com/tag/fpga/" rel="tag">FPGA</a>, <a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-828 post type-post status-publish format-standard hentry category-in-the-news tag-artificial-intelligence tag-machine-learning tag-neural-networks tag-tensorflow pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-828">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/google-open-sources-ai-engine-tensorflow/" title="Google open sources AI engine, TensorFlow">Google open sources AI engine, TensorFlow</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>Google has released its second-generation machine learning system in an effort to accelerate the field of artificial intelligence.</p>
+<p>According to Google’s <a href="http://download.tensorflow.org/paper/whitepaper2015.pdf">white paper on TensorFlow</a>, “it is flexible and can be used to express a wide variety of algorithms, including training and inference algorithms for deep neural network models.” This highly scalable machine learning system can run on a single smartphone or across thousands of computers in datacenters. Jeff Dean, Senior Google Fellow, and Rajat Monga, Technical Lead, <a href="http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html">say</a> ...</p><a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/google-open-sources-ai-engine-tensorflow/" rel="bookmark" title="Continue reading Google open sources AI engine, TensorFlow">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="November 12, 2015" itemprop="datePublished">
+    <span class="day date updated">12</span>
+    <br />
+    <span class="month">NOV</span>
+    <br /> 
+    <span class="year">2015</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/google-open-sources-ai-engine-tensorflow/#post-comments"><span>1</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/google-open-sources-ai-engine-tensorflow/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/artificial-intelligence/" rel="tag">Artificial Intelligence</a>, <a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/neural-networks/" rel="tag">neural networks</a>, <a href="https://cognitivecomputingconsortium.com/tag/tensorflow/" rel="tag">TensorFlow</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-800 post type-post status-publish format-standard hentry category-in-the-news tag-ai tag-conversational-interfaces tag-facebook tag-image-recognition tag-machine-learning tag-voice-recognition pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-800">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/facebook-cto-pushes-fair-progress/" title="Facebook CTO Pushes FAIR Progress">Facebook CTO Pushes FAIR Progress</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>In a talk at the popular Dublin Web Summit in Ireland, Facebook CTO Mike Schroepfer outlined the growing contributions of FAIR (Facebook Artificial Intelligence Research) to the Facebook user experience, highlighting features in the News Feed and in the new “M” virtual personal assistant.</p>
+<p><a href="http://www.businessinsider.com/facebook-outlines-its-artificial-and-machine-learning-ambitions-2015-11" class="readon" target="_blank">Read more at Business Insider</a></p>
+<a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/facebook-cto-pushes-fair-progress/" rel="bookmark" title="Continue reading Facebook CTO Pushes FAIR Progress">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="November 4, 2015" itemprop="datePublished">
+    <span class="day date updated">4</span>
+    <br />
+    <span class="month">NOV</span>
+    <br /> 
+    <span class="year">2015</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/facebook-cto-pushes-fair-progress/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/facebook-cto-pushes-fair-progress/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/ai/" rel="tag">AI</a>, <a href="https://cognitivecomputingconsortium.com/tag/conversational-interfaces/" rel="tag">Conversational Interfaces</a>, <a href="https://cognitivecomputingconsortium.com/tag/facebook/" rel="tag">Facebook</a>, <a href="https://cognitivecomputingconsortium.com/tag/image-recognition/" rel="tag">Image Recognition</a>, <a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/voice-recognition/" rel="tag">Voice Recognition</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+
+<article class="blog_wrap  post-769 post type-post status-publish format-standard hentry category-in-the-news tag-ai tag-financial tag-google tag-machine-learning tag-sundar-pichai tag-video tag-voice pmpro-has-access tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-769">
+<div class="post_title">
+
+<h2 class="entry-title"><a href="https://cognitivecomputingconsortium.com/google-explains-machine-learning-to-shareholders/" title="Google Explains Machine Learning to Shareholders">Google Explains Machine Learning to Shareholders</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="https://cognitivecomputingconsortium.com/author/inna/" title="Posts by Editor" rel="author">Editor</a></span></span></p> 
+</div><!-- END post_title -->
+
+
+<div class="post_content">
+
+
+<p>The new Google, subsidiary of Alphabet, spent cycles of its recent earnings call to allow Sundar Pichai to explain the company’s investment in machine learning and “AI” technologies.</p>
+<p><a href="http://www.businessinsider.com/google-on-machine-learning-2015-10" class="readon" target="_blank">Read More at Business Insider</a></p>
+<a class="ka_button small_button small_black" href="https://cognitivecomputingconsortium.com/google-explains-machine-learning-to-shareholders/" rel="bookmark" title="Continue reading Google Explains Machine Learning to Shareholders">
+	<span>Continue Reading →</span></a>
+<div class="post_date" datetime="October 29, 2015" itemprop="datePublished">
+    <span class="day date updated">29</span>
+    <br />
+    <span class="month">OCT</span>
+    <br /> 
+    <span class="year">2015</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="https://cognitivecomputingconsortium.com/google-explains-machine-learning-to-shareholders/#post-comments"><span>0</span></a>
+</div><!-- END post_comments -->
+
+<a class='post_share sharelink_small' href='https://cognitivecomputingconsortium.com/google-explains-machine-learning-to-shareholders/' data-gal='prettySociable'>Share</a>
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a></p>
+        
+                <p class="post_tags"><a href="https://cognitivecomputingconsortium.com/tag/ai/" rel="tag">AI</a>, <a href="https://cognitivecomputingconsortium.com/tag/financial/" rel="tag">Financial</a>, <a href="https://cognitivecomputingconsortium.com/tag/google/" rel="tag">Google</a>, <a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" rel="tag">Machine learning</a>, <a href="https://cognitivecomputingconsortium.com/tag/sundar-pichai/" rel="tag">Sundar Pichai</a>, <a href="https://cognitivecomputingconsortium.com/tag/video/" rel="tag">Video</a>, <a href="https://cognitivecomputingconsortium.com/tag/voice/" rel="tag">Voice</a></p>
+    
+        </div><!-- END post_footer -->
+</article><!-- END blog_wrap -->
+
+
+<div class="karma-pages">
+<span class="pages">Page 1 of 2</span>&nbsp;<span class="current">1</span><a href="https://cognitivecomputingconsortium.com/tag/machine-learning/page/2/" class="page" title="2">2</a></div>
+</main><!-- END main #content -->
+<aside role="complementary" id="sidebar" class="sidebar_blog">
+		<div class="sidebar-widget">		<h3>Recent Posts</h3>		<ul>
+											<li>
+					<a href="https://cognitivecomputingconsortium.com/deepsound-times/">Deep: the Sound of the Times?</a>
+									</li>
+											<li>
+					<a href="https://cognitivecomputingconsortium.com/consortium-presents-aeemerging-standards-ethics-ai-aefact-fictionaiworldbostonwednesday-12-5-18/">Consortium Presents – Emerging Standards for Ethics in AI – Fact or Fiction? AIWorld, Boston, Wednesday 12/5/18</a>
+									</li>
+											<li>
+					<a href="https://cognitivecomputingconsortium.com/consortium-presents-aeevaluating-ai-projectsconsortium-babson-discuss-tool-aiworldbostonwednesday-12-5-18/">Consortium Presents – Evaluating AI Projects: Consortium and Babson Discuss New Tool at AIWorld, Boston, Wednesday 12/5/18</a>
+									</li>
+											<li>
+					<a href="https://cognitivecomputingconsortium.com/consortium-presents-aeleadership-aidiscussion-aiworld-bostonwednesday-12-5-18/">Consortium Presents – Leadership for AI: a Discussion at AIWorld Boston, Wednesday 12/5/18</a>
+									</li>
+											<li>
+					<a href="https://cognitivecomputingconsortium.com/consortium-presents-aekeynote-panel-kmworldaes-text-analytics-forum-11-7-18/">Consortium Presents – Keynote Panel at KMWorld’s Text Analytics Forum 11/7/18</a>
+									</li>
+					</ul>
+		</div><div class="sidebar-widget"><h3>Archives</h3>		<ul>
+			<li><a href='https://cognitivecomputingconsortium.com/2019/02/'>February 2019</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2018/11/'>November 2018</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2018/01/'>January 2018</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2017/12/'>December 2017</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2017/10/'>October 2017</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2017/06/'>June 2017</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2017/05/'>May 2017</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2017/04/'>April 2017</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2017/03/'>March 2017</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2017/02/'>February 2017</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2017/01/'>January 2017</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/12/'>December 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/11/'>November 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/10/'>October 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/09/'>September 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/08/'>August 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/07/'>July 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/06/'>June 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/05/'>May 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/04/'>April 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/03/'>March 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/02/'>February 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2016/01/'>January 2016</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/12/'>December 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/11/'>November 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/10/'>October 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/09/'>September 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/08/'>August 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/07/'>July 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/06/'>June 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/05/'>May 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/04/'>April 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/03/'>March 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/02/'>February 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2015/01/'>January 2015</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2014/10/'>October 2014</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2014/09/'>September 2014</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2014/08/'>August 2014</a></li>
+	<li><a href='https://cognitivecomputingconsortium.com/2014/06/'>June 2014</a></li>
+		</ul>
+</div><div class="sidebar-widget"><h3>Categories</h3>		<ul>
+	<li class="cat-item cat-item-227"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-impacts/algorithmic-risk-management/" >Algorithmic risk management</a>
+</li>
+	<li class="cat-item cat-item-208"><a href="https://cognitivecomputingconsortium.com/category/companies/amazon/" >Amazon</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="https://cognitivecomputingconsortium.com/category/artificial-intelligence/" >Artificial intelligence</a>
+</li>
+	<li class="cat-item cat-item-185"><a href="https://cognitivecomputingconsortium.com/category/big-data/" >Big data</a>
+</li>
+	<li class="cat-item cat-item-234"><a href="https://cognitivecomputingconsortium.com/category/biotech/" >Biotech</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="https://cognitivecomputingconsortium.com/category/blog/" >Blog</a>
+</li>
+	<li class="cat-item cat-item-210"><a href="https://cognitivecomputingconsortium.com/category/books/" >Books</a>
+</li>
+	<li class="cat-item cat-item-186"><a href="https://cognitivecomputingconsortium.com/category/cognitive-applications/" >Cognitive applications</a>
+</li>
+	<li class="cat-item cat-item-224"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-impacts/" >Cognitive computing impacts</a>
+</li>
+	<li class="cat-item cat-item-187"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-market/" >Cognitive computing market</a>
+</li>
+	<li class="cat-item cat-item-188"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-platforms/" >Cognitive computing platforms</a>
+</li>
+	<li class="cat-item cat-item-189"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-services/" >Cognitive computing services</a>
+</li>
+	<li class="cat-item cat-item-190"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-use-cases/" >Cognitive computing use cases</a>
+</li>
+	<li class="cat-item cat-item-229"><a href="https://cognitivecomputingconsortium.com/category/companies/cognitive-scale/" >Cognitive Scale</a>
+</li>
+	<li class="cat-item cat-item-310"><a href="https://cognitivecomputingconsortium.com/category/cognitive-skills/" >Cognitive Skills</a>
+</li>
+	<li class="cat-item cat-item-197"><a href="https://cognitivecomputingconsortium.com/category/companies/" >Companies</a>
+</li>
+	<li class="cat-item cat-item-198"><a href="https://cognitivecomputingconsortium.com/category/context/" >Context</a>
+</li>
+	<li class="cat-item cat-item-206"><a href="https://cognitivecomputingconsortium.com/category/companies/customer-matrix/" >Customer Matrix</a>
+</li>
+	<li class="cat-item cat-item-218"><a href="https://cognitivecomputingconsortium.com/category/deep-learning/" >Deep learning</a>
+</li>
+	<li class="cat-item cat-item-192"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-use-cases/education/" >Education</a>
+</li>
+	<li class="cat-item cat-item-217"><a href="https://cognitivecomputingconsortium.com/category/companies/facebook/" >Facebook</a>
+</li>
+	<li class="cat-item cat-item-204"><a href="https://cognitivecomputingconsortium.com/category/companies/google/" >Google</a>
+</li>
+	<li class="cat-item cat-item-238"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-platforms/hardware/" >Hardware</a>
+</li>
+	<li class="cat-item cat-item-194"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-use-cases/health-care/" >Health care</a>
+</li>
+	<li class="cat-item cat-item-244"><a href="https://cognitivecomputingconsortium.com/category/companies/hpe/" >HPE</a>
+</li>
+	<li class="cat-item cat-item-205"><a href="https://cognitivecomputingconsortium.com/category/companies/ibm/" >IBM</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="https://cognitivecomputingconsortium.com/category/in-the-news/" >Industry News</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="https://cognitivecomputingconsortium.com/category/internet-of-things/" >Internet of Things</a>
+</li>
+	<li class="cat-item cat-item-212"><a href="https://cognitivecomputingconsortium.com/category/kmworld/" >KMWorld</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://cognitivecomputingconsortium.com/category/kmworld-column/" >KMWorld Column</a>
+</li>
+	<li class="cat-item cat-item-226"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-impacts/legal-issues/" >Legal issues</a>
+</li>
+	<li class="cat-item cat-item-200"><a href="https://cognitivecomputingconsortium.com/category/machine-learning/" >Machine learning</a>
+</li>
+	<li class="cat-item cat-item-214"><a href="https://cognitivecomputingconsortium.com/category/natural-language-processing/" >Natural language processing</a>
+</li>
+	<li class="cat-item cat-item-219"><a href="https://cognitivecomputingconsortium.com/category/neural-networks/" >Neural networks</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="https://cognitivecomputingconsortium.com/category/press-releases/" >Press Releases</a>
+</li>
+	<li class="cat-item cat-item-225"><a href="https://cognitivecomputingconsortium.com/category/cognitive-applications/recommendation-systems/" >Recommendation systems</a>
+</li>
+	<li class="cat-item cat-item-213"><a href="https://cognitivecomputingconsortium.com/category/robotics/" >Robotics</a>
+</li>
+	<li class="cat-item cat-item-209"><a href="https://cognitivecomputingconsortium.com/category/cognitive-computing-impacts/social-impact/" >Social impact</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="https://cognitivecomputingconsortium.com/category/events/" >Speaking Engagements</a>
+</li>
+	<li class="cat-item cat-item-222"><a href="https://cognitivecomputingconsortium.com/category/companies/tesla/" >Tesla</a>
+</li>
+	<li class="cat-item cat-item-201"><a href="https://cognitivecomputingconsortium.com/category/text-analytics/" >Text analytics</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://cognitivecomputingconsortium.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-216"><a href="https://cognitivecomputingconsortium.com/category/virtual-assistant/" >Virtual assistant</a>
+</li>
+	<li class="cat-item cat-item-211"><a href="https://cognitivecomputingconsortium.com/category/companies/ibm/watson/" >Watson</a>
+</li>
+		</ul>
+</div></aside><!-- END sidebar -->
+</div><!-- END main-area -->
+
+
+<div id="footer-top">&nbsp;</div><!-- END footer-top -->
+</div><!-- END main -->
+
+        <footer role="contentinfo" id="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+        	            
+            <div class="footer-overlay">
+				                
+                <div class="footer-content">
+                    <div class="one_half tt-column"><h3>What we&#8217;re talking about</h3><div class="tagcloud"><a href="https://cognitivecomputingconsortium.com/tag/acquisition/" class="tag-cloud-link tag-link-80 tag-link-position-1" style="font-size: 13.153846153846px;" aria-label="Acquisition (5 items)">Acquisition</a>
+<a href="https://cognitivecomputingconsortium.com/tag/ai/" class="tag-cloud-link tag-link-51 tag-link-position-2" style="font-size: 14.153846153846px;" aria-label="AI (10 items)">AI</a>
+<a href="https://cognitivecomputingconsortium.com/tag/aiworld-2018/" class="tag-cloud-link tag-link-318 tag-link-position-3" style="font-size: 12px;" aria-label="AIWorld 2018 (2 items)">AIWorld 2018</a>
+<a href="https://cognitivecomputingconsortium.com/tag/apps/" class="tag-cloud-link tag-link-44 tag-link-position-4" style="font-size: 12.461538461538px;" aria-label="Apps (3 items)">Apps</a>
+<a href="https://cognitivecomputingconsortium.com/tag/artificial-intelligence/" class="tag-cloud-link tag-link-47 tag-link-position-5" style="font-size: 15px;" aria-label="Artificial Intelligence (17 items)">Artificial Intelligence</a>
+<a href="https://cognitivecomputingconsortium.com/tag/babson-college/" class="tag-cloud-link tag-link-298 tag-link-position-6" style="font-size: 12px;" aria-label="Babson College (2 items)">Babson College</a>
+<a href="https://cognitivecomputingconsortium.com/tag/baidu/" class="tag-cloud-link tag-link-267 tag-link-position-7" style="font-size: 12px;" aria-label="Baidu (2 items)">Baidu</a>
+<a href="https://cognitivecomputingconsortium.com/tag/big-data/" class="tag-cloud-link tag-link-42 tag-link-position-8" style="font-size: 13.615384615385px;" aria-label="Big Data (7 items)">Big Data</a>
+<a href="https://cognitivecomputingconsortium.com/tag/cognitive-computing/" class="tag-cloud-link tag-link-59 tag-link-position-9" style="font-size: 15px;" aria-label="Cognitive Computing (17 items)">Cognitive Computing</a>
+<a href="https://cognitivecomputingconsortium.com/tag/cognitivescale/" class="tag-cloud-link tag-link-32 tag-link-position-10" style="font-size: 12.461538461538px;" aria-label="CognitiveScale (3 items)">CognitiveScale</a>
+<a href="https://cognitivecomputingconsortium.com/tag/cognitive-services/" class="tag-cloud-link tag-link-74 tag-link-position-11" style="font-size: 13.153846153846px;" aria-label="Cognitive Services (5 items)">Cognitive Services</a>
+<a href="https://cognitivecomputingconsortium.com/tag/conversational-interfaces/" class="tag-cloud-link tag-link-48 tag-link-position-12" style="font-size: 14.153846153846px;" aria-label="Conversational Interfaces (10 items)">Conversational Interfaces</a>
+<a href="https://cognitivecomputingconsortium.com/tag/cortana/" class="tag-cloud-link tag-link-117 tag-link-position-13" style="font-size: 12.461538461538px;" aria-label="Cortana (3 items)">Cortana</a>
+<a href="https://cognitivecomputingconsortium.com/tag/customermatrix/" class="tag-cloud-link tag-link-30 tag-link-position-14" style="font-size: 12.461538461538px;" aria-label="CustomerMatrix (3 items)">CustomerMatrix</a>
+<a href="https://cognitivecomputingconsortium.com/tag/deep-learning/" class="tag-cloud-link tag-link-123 tag-link-position-15" style="font-size: 12.846153846154px;" aria-label="Deep Learning (4 items)">Deep Learning</a>
+<a href="https://cognitivecomputingconsortium.com/tag/definitions/" class="tag-cloud-link tag-link-27 tag-link-position-16" style="font-size: 12px;" aria-label="Definitions (2 items)">Definitions</a>
+<a href="https://cognitivecomputingconsortium.com/tag/digital-assistant/" class="tag-cloud-link tag-link-60 tag-link-position-17" style="font-size: 14px;" aria-label="digital assistant (9 items)">digital assistant</a>
+<a href="https://cognitivecomputingconsortium.com/tag/economic-impacts/" class="tag-cloud-link tag-link-75 tag-link-position-18" style="font-size: 14.307692307692px;" aria-label="Economic Impacts (11 items)">Economic Impacts</a>
+<a href="https://cognitivecomputingconsortium.com/tag/elon-musk/" class="tag-cloud-link tag-link-53 tag-link-position-19" style="font-size: 13.153846153846px;" aria-label="Elon Musk (5 items)">Elon Musk</a>
+<a href="https://cognitivecomputingconsortium.com/tag/eric-schmidt/" class="tag-cloud-link tag-link-61 tag-link-position-20" style="font-size: 12px;" aria-label="Eric Schmidt (2 items)">Eric Schmidt</a>
+<a href="https://cognitivecomputingconsortium.com/tag/ethical-ai/" class="tag-cloud-link tag-link-321 tag-link-position-21" style="font-size: 12px;" aria-label="Ethical AI (2 items)">Ethical AI</a>
+<a href="https://cognitivecomputingconsortium.com/tag/events/" class="tag-cloud-link tag-link-40 tag-link-position-22" style="font-size: 13.153846153846px;" aria-label="Events (5 items)">Events</a>
+<a href="https://cognitivecomputingconsortium.com/tag/google/" class="tag-cloud-link tag-link-62 tag-link-position-23" style="font-size: 13.807692307692px;" aria-label="Google (8 items)">Google</a>
+<a href="https://cognitivecomputingconsortium.com/tag/healthcare/" class="tag-cloud-link tag-link-39 tag-link-position-24" style="font-size: 13.153846153846px;" aria-label="Healthcare (5 items)">Healthcare</a>
+<a href="https://cognitivecomputingconsortium.com/tag/ibm/" class="tag-cloud-link tag-link-56 tag-link-position-25" style="font-size: 13.423076923077px;" aria-label="IBM (6 items)">IBM</a>
+<a href="https://cognitivecomputingconsortium.com/tag/ibm-watson/" class="tag-cloud-link tag-link-38 tag-link-position-26" style="font-size: 14.576923076923px;" aria-label="IBM Watson (13 items)">IBM Watson</a>
+<a href="https://cognitivecomputingconsortium.com/tag/image-recognition/" class="tag-cloud-link tag-link-82 tag-link-position-27" style="font-size: 12.461538461538px;" aria-label="Image Recognition (3 items)">Image Recognition</a>
+<a href="https://cognitivecomputingconsortium.com/tag/kmworld/" class="tag-cloud-link tag-link-28 tag-link-position-28" style="font-size: 13.807692307692px;" aria-label="KMWorld (8 items)">KMWorld</a>
+<a href="https://cognitivecomputingconsortium.com/tag/learning/" class="tag-cloud-link tag-link-34 tag-link-position-29" style="font-size: 12.461538461538px;" aria-label="Learning (3 items)">Learning</a>
+<a href="https://cognitivecomputingconsortium.com/tag/machine-learning/" class="tag-cloud-link tag-link-45 tag-link-position-30" style="font-size: 14.884615384615px;" aria-label="Machine learning (16 items)">Machine learning</a>
+<a href="https://cognitivecomputingconsortium.com/tag/management/" class="tag-cloud-link tag-link-70 tag-link-position-31" style="font-size: 12.846153846154px;" aria-label="Management (4 items)">Management</a>
+<a href="https://cognitivecomputingconsortium.com/tag/mckinsey/" class="tag-cloud-link tag-link-46 tag-link-position-32" style="font-size: 12.846153846154px;" aria-label="McKinsey (4 items)">McKinsey</a>
+<a href="https://cognitivecomputingconsortium.com/tag/microsoft/" class="tag-cloud-link tag-link-118 tag-link-position-33" style="font-size: 13.615384615385px;" aria-label="Microsoft (7 items)">Microsoft</a>
+<a href="https://cognitivecomputingconsortium.com/tag/mit/" class="tag-cloud-link tag-link-311 tag-link-position-34" style="font-size: 12px;" aria-label="MIT (2 items)">MIT</a>
+<a href="https://cognitivecomputingconsortium.com/tag/mit-technology-review/" class="tag-cloud-link tag-link-130 tag-link-position-35" style="font-size: 12.461538461538px;" aria-label="MIT Technology Review (3 items)">MIT Technology Review</a>
+<a href="https://cognitivecomputingconsortium.com/tag/neural-networks/" class="tag-cloud-link tag-link-66 tag-link-position-36" style="font-size: 13.153846153846px;" aria-label="neural networks (5 items)">neural networks</a>
+<a href="https://cognitivecomputingconsortium.com/tag/open-source/" class="tag-cloud-link tag-link-133 tag-link-position-37" style="font-size: 12.461538461538px;" aria-label="Open Source (3 items)">Open Source</a>
+<a href="https://cognitivecomputingconsortium.com/tag/research/" class="tag-cloud-link tag-link-113 tag-link-position-38" style="font-size: 14.153846153846px;" aria-label="Research (10 items)">Research</a>
+<a href="https://cognitivecomputingconsortium.com/tag/robotics/" class="tag-cloud-link tag-link-111 tag-link-position-39" style="font-size: 13.153846153846px;" aria-label="Robotics (5 items)">Robotics</a>
+<a href="https://cognitivecomputingconsortium.com/tag/sas/" class="tag-cloud-link tag-link-281 tag-link-position-40" style="font-size: 12.846153846154px;" aria-label="SAS (4 items)">SAS</a>
+<a href="https://cognitivecomputingconsortium.com/tag/startups/" class="tag-cloud-link tag-link-85 tag-link-position-41" style="font-size: 12.461538461538px;" aria-label="StartUps (3 items)">StartUps</a>
+<a href="https://cognitivecomputingconsortium.com/tag/stephen-hawking/" class="tag-cloud-link tag-link-54 tag-link-position-42" style="font-size: 12px;" aria-label="Stephen Hawking (2 items)">Stephen Hawking</a>
+<a href="https://cognitivecomputingconsortium.com/tag/susan-feldman/" class="tag-cloud-link tag-link-104 tag-link-position-43" style="font-size: 12.846153846154px;" aria-label="Susan Feldman (4 items)">Susan Feldman</a>
+<a href="https://cognitivecomputingconsortium.com/tag/training-sets/" class="tag-cloud-link tag-link-49 tag-link-position-44" style="font-size: 12.461538461538px;" aria-label="Training Sets (3 items)">Training Sets</a>
+<a href="https://cognitivecomputingconsortium.com/tag/vendor/" class="tag-cloud-link tag-link-35 tag-link-position-45" style="font-size: 13.423076923077px;" aria-label="Vendor (6 items)">Vendor</a></div>
+</div><div class="one_half_last tt-column"><h3>Recent posts</h3>				<div class="footer_post">
+				<h4><a href="https://cognitivecomputingconsortium.com/deepsound-times/">Deep: the Sound of the Times?</a></h4>
+				
+	
+				<p><a href="https://cognitivecomputingconsortium.com/deepsound-times/">Tom Friedman, writing in the New York Times, has nominated “deep” as the “It” word for 2019.
+
+Deep as in deep learn...</a></p>
+				
+				
+				
+                </div><!-- END footer_post -->
+							<div class="footer_post">
+				<h4><a href="https://cognitivecomputingconsortium.com/consortium-presents-aeemerging-standards-ethics-ai-aefact-fictionaiworldbostonwednesday-12-5-18/">Consortium Presents – Emerging Standards for Ethics in AI – Fact or Fiction? AIWorld, Boston, Wednesday 12/5/18</a></h4>
+				
+	
+				<p><a href="https://cognitivecomputingconsortium.com/consortium-presents-aeemerging-standards-ethics-ai-aefact-fictionaiworldbostonwednesday-12-5-18/">
+
+&nbsp;
+
+As AI has gained momentum and currency in the mainstream business conversation, awareness of the potential dark...</a></p>
+				
+				
+				
+                </div><!-- END footer_post -->
+							<div class="footer_post">
+				<h4><a href="https://cognitivecomputingconsortium.com/consortium-presents-aeevaluating-ai-projectsconsortium-babson-discuss-tool-aiworldbostonwednesday-12-5-18/">Consortium Presents – Evaluating AI Projects: Consortium and Babson Discuss New Tool at AIWorld, Boston, Wednesday 12/5/18</a></h4>
+				
+	
+				<p><a href="https://cognitivecomputingconsortium.com/consortium-presents-aeevaluating-ai-projectsconsortium-babson-discuss-tool-aiworldbostonwednesday-12-5-18/">
+
+&nbsp;
+
+Have you ever wondered if you’re using the right tools to guide decisions that have to be made about AI proje...</a></p>
+				
+				
+				
+                </div><!-- END footer_post -->
+			</div>                </div><!-- END footer-content -->
+
+                            </div><!-- END footer-overlay -->  
+        
+        <div id="footer_bottom">
+            <div class="info">
+            	                <div id="foot_left">&nbsp;                    © 2018 Cognitive Computing Consortium                    
+                </div><!-- END foot_left -->
+                              
+                <div id="foot_right">
+                                        <ul>
+                    <li id="menu-item-164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="https://cognitivecomputingconsortium.com"><span><strong>Home</strong></span></a></li>
+<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a href="https://cognitivecomputingconsortium.com/blog/"><span><strong>Blog</strong></span></a></li>
+<li id="menu-item-2188" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://twitter.com/CogConsortium"><span><strong>Twitter</strong></span></a></li>
+<li id="menu-item-2189" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.facebook.com/Cognitive-Computing-Consortium-504920596521671/"><span><strong>Facebook</strong></span></a></li>
+<li id="menu-item-2190" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.linkedin.com/company-beta/10219772/"><span><strong>LinkedIn</strong></span></a></li>
+                    </ul>
+                           
+                </div><!-- END foot_right -->
+            </div><!-- END info -->
+        </div><!-- END footer_bottom -->
+                </footer><!-- END footer -->
+        
+	</div><!-- END wrapper -->
+</div><!-- END tt-layout -->
+		<!-- Memberships powered by Paid Memberships Pro v2.0.4.
+ -->
+		<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.14-6684'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/karma_builder/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/karma_builder/js/appear.min.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=4.12'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/karma_builder/js/easy-pie-chart.min.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/karma_builder/js/karma-builder.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var php_data = {"mobile_menu_text":"Main Menu","mobile_sub_menu_text":"More in this section...","mobile_horz_dropdown":"false","karma_jquery_slideshowSpeed":"8000","karma_jquery_pause_hover":"false","karma_jquery_randomize":"false","karma_jquery_directionNav":"true","karma_jquery_animation_effect":"fade","karma_jquery_animationSpeed":"600","testimonial_slideshowSpeed":"8000","testimonial_pause_hover":"false","testimonial_randomize":"false","testimonial_directionNav":"true","testimonial_animation_effect":"fade","testimonial_animationSpeed":"600","sticky_sidebar":"true","sticky_menu_one":"false","sticky_menu_two":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/custom-main.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/superfish.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/retina.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/jquery.flexslider.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=4.12'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/jquery.prettyPhoto.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var social_data = {"delicious":"https:\/\/cognitivecomputingconsortium.com\/wp-content\/themes\/karma\/images\/_global\/prettySociable\/social_icons\/delicious.png","digg":"https:\/\/cognitivecomputingconsortium.com\/wp-content\/themes\/karma\/images\/_global\/prettySociable\/social_icons\/digg.png","facebook":"https:\/\/cognitivecomputingconsortium.com\/wp-content\/themes\/karma\/images\/_global\/prettySociable\/social_icons\/facebook.png","linkedin":"https:\/\/cognitivecomputingconsortium.com\/wp-content\/themes\/karma\/images\/_global\/prettySociable\/social_icons\/linkedin.png","reddit":"https:\/\/cognitivecomputingconsortium.com\/wp-content\/themes\/karma\/images\/_global\/prettySociable\/social_icons\/reddit.png","stumbleupon":"https:\/\/cognitivecomputingconsortium.com\/wp-content\/themes\/karma\/images\/_global\/prettySociable\/social_icons\/stumbleupon.png","tumblr":"https:\/\/cognitivecomputingconsortium.com\/wp-content\/themes\/karma\/images\/_global\/prettySociable\/social_icons\/tumblr.png","twitter":"https:\/\/cognitivecomputingconsortium.com\/wp-content\/themes\/karma\/images\/_global\/prettySociable\/social_icons\/twitter.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-content/themes/karma/js/jquery.prettySociable.js'></script>
+<script type='text/javascript' src='https://cognitivecomputingconsortium.com/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78230584-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<a href="#0" class="karma-scroll-top"><i class="fa fa-chevron-up"></i></a>
+</body>
+</html>
+<!--Cached using Nginx-Helper on 2019-04-15 08:25:10. It took 51 queries executed in 0.352 seconds.-->
+<!--Visit http://wordpress.org/extend/plugins/nginx-helper/faq/ for more details-->

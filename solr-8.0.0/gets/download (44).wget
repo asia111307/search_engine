@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- META -->
+
+	<title>Society for Judgment and Decision Making</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="description" content="" />
+	
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="css/kickstart.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="style.css" media="all" /> 
+	
+	<!-- Javascript -->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/kickstart.js"></script>
+</head>
+<body>
+	<!-- Menu Horizontal -->
+<div class="grid">
+<ul class="menu">
+<li><a href="">About</a>
+<ul><li><a href="history.html">History and records</a></li>
+<li><a href="committees.html">Current committees</a></li>
+<li><a href="history.html#officers">Past officers</a></li>
+<li><a href="bylaws.pdf">By-laws</a></li>
+<li><a href="history.html#mtgs">Meeting programs</a></li>
+<li><a href="history.html#memories">Memorabilia</a></li></ul>
+</li>
+
+<li><a href="">Publications</a>
+	<ul>
+	<li><a href="http://www.sjdm.org/journal">Journal (local mirror)</a></li>
+	<li><a href="http://blog.sjdm.org">Blog</a></li>
+	<li><a href="books.html">Book Series</a></li>
+        <li><a href="newsletters/index.html">Newsletters</a></li>
+	</ul>
+</li>
+
+<li><a href="">Awards</a>
+	<ul>
+	<li><a href="awards/einhorn.html">Einhorn Award</a></li>
+	<li><a href="awards/beattie.html">Beattie Award</a></li>
+	<li><a href="awards/studentposter.html">Student Poster Award</a></li>
+	</ul>
+</li>
+
+<li><a href="links.html">Resources</a>
+	<ul>
+	<li><a href="dmidi">DMIDI</a></li>
+	<li><a href="links.html#research">Research</a></li>
+	<li><a href="links.html#teaching">Teaching</a></li>
+	<li><a href="links.html#mailing">Mailing List</a></li>
+	<li><a href="syllabi">Course syllabi</a></li>
+	<li><a href="links.html#other">Related Sites</a></li>
+	<li><a href="links.html#blogs">Blogs</a></li>
+	<li><a href="links.html#pubs">Related publications</a></li>
+	<li><a href="links.html#danal">Decision analysis</a></li>
+	<li><a href="PhDPrograms.html">PhD Programs</a></li>
+	<li><a href="links.html#humor">Humor?</a></li>
+	</ul>
+</li>
+
+<li><a href="join.html">Join, pay dues, register, donate</a></li>
+
+<li><a href="members.html">For members</a>
+  <ul>
+    <li><a href="https://sjdm.org/members/dirmod.html">Change Membership Information (or Quit)</a></li>
+    <li><a href="https://sjdm.org/members/checkpay.html">Check Past Payments</a></li>
+    <li><a href="presentations/forgot.php">Retrieve Password</a></li>
+<!--   <li><a href="members/member-dir.html">Membership directory</a></li> -->
+    <li><a href="https://sjdm.org/members#minutes">Minutes of past meetings</a></li>
+    <li><a href="https://sjdm.org/members#docs">How we do things</a></li>
+  </ul>
+</li>
+
+<li><a href="search/nmz.html">Search</a>
+  <ul>
+    <li><a href="search/nmz.html">Namazu search</a></li>
+    <li><a href="search/test.html">Google search</a></li>
+  </ul>
+</li>
+</ul>
+
+</div>
+<div class="grid"><div class="col_12" style="margin-top:3ex;">
+
+<!-- <img width="50%"  alt="Society for Judgment and Decision Making" src="sjdmLOGOgv_e.png"> -->
+
+		<h4 class="center">The Society for Judgment and Decision Making</h4>
+<p>The Society for Judgment and Decision Making is an interdisciplinary academic organization dedicated to the study of normative, descriptive, and prescriptive theories of judgments and decisions. Its members include psychologists, economists, organizational researchers, decision analysts, and other decision researchers. The Society's primary event is its Annual Meeting, at which Society members present their research. It also publishes the journal 
+<a href="http://www.sjdm.org/journal">Judgment and Decision Making</a>.
+
+<p><img width="75%" src="NEWORLEANS.jpg" alt="New Orleans street">
+  </div>
+
+<P>The 2018 meeting took place in New Orleans, LA, November 16-19.
+Here is the <a href="programs/2018-program.pdf">final program</a>.
+
+<P>The 2019 meeting will take place in Montreal, November 15-18,
+<!--
+  at the <a href="http://www.psychonomic.org/page/2018hotels">Hyatt Regency</a> hotel.
+
+<P><a href="programs/2018-program.pdf">Final program</a>
+
+<P>You can reserve a room at that hotel at the Psychonomic rate, if you do it before they run out. 
+-->
+
+<!--
+<P><b>Pre-registration ends today, Nov 5, at 10 PM EST.</b>
+
+<P><b>Registration is now available <a href="join.html">here</a>. Early registration is win-win. It saves you money and saves time for everyone.
+And, if you use the member rate, make sure your current dues are paid and that your member email is correct.</b>
+The fee for advance registration is $300 for regular members, $150 for student members, and $350 for non-members.
+If you are living outside of the U.S., please
+make sure to start the process of getting here before the last minute.
+-->
+
+<!--
+<P>The submission period is now over, and decisions about talks have been sent out. Here is the <a href="programs/2018-cfp.html">call for abstracts</a>, which also
+provides information about awards.
+-->
+
+<!--
+<P>Here is the <a href="http://amostuck.dartmouth.edu/submissions/">place to submit abstracts</a> to be considered for the conference (after reading the call for abstracts). <b>You will need a 100-word (maximum) abstract for possible inclusion in the program and and a 600-word (maximum) abstract for review (talks only).</b>
+-->
+<p>Information about SJDM membership is <a href="join.html">here</a>.
+
+<!--
+<h5><a href="programs/2017-program.pdf">Program</a></h5>
+
+<div style="border: thin black solid; padding-left: 1ex;">
+<P>Changes since the program was completed:
+
+<P>Talk withdrawn from Session 1, Track II: Framing Climate Uncertainty: Frame Choices Reveal and Influence
+Climate Change Beliefs, by Kause, Astrid (University of Leeds, UK); Townsend,
+Tarlise (University of Michigan School of Public Health, USA); Gaissmaier, Wolfgang
+(University of Konstanz)
+<p>Replaced with: From Tragedy to Benefit of the Commons: Increasing Stewardship
+through Psychological Ownership, by Shu, Suzanne (UCLA); Peck, Joann (Univ Wisconsin)
+
+<p> Posters withdrawn from Session 1: 7, 71, 77, 102, 109, 115, 118, 120, 131, 154.
+
+<p> Posters withdrawn from Session 2: 84, 93, 95, 113, 123, 132, 140, 142.
+
+<P>Poster added to Session 1: 158, Deconstructing and Reconstructing Consumers' Trust in Algorithms
+ (was poster 84 in Session 2)
+</div>
+
+-->
+
+<br><br>
+<h5>Presentations</h5>
+
+<!--
+<P>Guidelines for <a href="programs/paper.guidelines.html">talks</a> and
+ <a href="programs/poster.guidelines.html">posters</a>.
+-->
+<P>If you presented this year,
+<!-- or will present,-->
+ please consider uploading your presentation slides 
+or poster to the SJDM meeting archive:
+
+<P><a href="presentations">Here are are the talks and posters from past and upcoming meetings</a> (including submissions for the student-poster award).</li>
+
+<p><a href="https://sjdm.org/presentations/submit.php">Upload your poster or slides here (from any year, including this one).</a></li>
+
+<!--
+<P>Applicants for the student poster award must do this by noon, November 6.
+-->
+
+<!--
+<h5>Hotel accommodation and registration:</h5>
+
+The Psychonomic Society has negotiated special rates at the
+conference venue and two nearby hotels:
+<ul>
+<li>Fairmont Waterfront Hotel (call +1-866-540-4509 and ask for the Psychonomic rate of $189 CAD + tax - do not try the web site, which says incorrectly that it is sold out)
+<li>Vancouver Marriott Pinnacle Downtown Hotel
+<li>Pinnacle Hotel Vancouver Harbourfront
+</ul>
+For more information,
+visit <a href="http://www.psychonomic.org/page/2017hotels">the
+Psychonomic hotel site</a>.  Remember to book your rooms well in
+advance as these room blocks sell out quickly.
+-->
+
+<!--
+<P>Information about registration will be posted here (and to mailing lists) when it is available.
+-->
+
+<!--
+<h5>Women's event (2018)</h5>
+
+This year, Women in SJDM is trying something new! Instead of the traditional sit-down luncheon on Sunday of the conference, we will be sponsoring the opening SJDM reception on Friday, November 16th. The reception will be divided into two parts. During the first part, attendees will be assigned to several small breakout groups for short periods of time. Groups will be comprised of both junior and senior scholars, and during your time together you will have the opportunity to discuss a variety of professional topics (we will have suggested discussion questions, but feel free to talk about whatever matters to you). Drinks and light snacks will be served to make this event fun and relaxing! The second part of the reception will be open to everyone and feature the standard format of drinks and conversation.
+
+<P>The first part will take place from 4:30 to 6:00 pm. The second part will take place in an adjacent room from 5:30 to 7pm. You must RSVP to attend the first part, but the second part does not require registration. Our hope is that after having some interesting and thought-provoking conversations about professional development, the attendees of the first part of the event will join the second part for more light hearted socializing.
+
+<P><a href="http://chicagobooth.az1.qualtrics.com/jfe/form/SV_9X0PzQALgBcu4oB">Sign up for the event</a>.
+-->
+
+<br><br>
+<h5>Past and future meetings</h5>
+
+The 2018 meeting took place in New Orleans, LA, November 16-19.
+Here is the <a href="programs/2018-program.pdf">final program</a>.
+
+<!-- <P>Here is the <a href="programs/2016-cfp.html">call for abstracts</a>, which also
+provides information about awards.
+and a link to the submission system, which is now open. -->
+
+<!--
+Late registration and welcome reception will take place the evening of Friday, November 20.
+
+<P>Here is this year's (2015) final <a href="programs/2015-program.pdf">program</a>.
+
+<P><a href="programs/poster.guidelines.html">Poster guidelines</a>
+<br><a href="programs/paper.guidelines.html">Talk guidelines</a>
+
+
+Abstracts were due June 30. All deadlines for
+Please check the <a href="http://www.sjdm.org/abstract-review/htdocs/faq.html">
+frequently asked questions</a> for answers to questions such as whether you need
+to be a member to submit, or whether you can present more than one thing.
+
+<P>Registration details will appear in due course.
+
+<P>The date for submission of abstracts has passed.
+
+<P>This year we expect to have two <a href="awards/beattie.html">
+Beattie awards</a>, one for travel to the SPUDM meeting.
+
+<P>Here is the <a href="programs/2015-cfp.html">Call for Abstracts</a>.
+
+The submission page (after you read the Call) is at 
+<a href="http://www.sjdm.org/abstract-review/htdocs">
+http://www.sjdm.org/abstract-review/htdocs</a>
+Information about applying for the student-poster award is there too.
+The deadline for submission is June 20.
+The deadline for submission was June 20. We hope to announce the results
+of reviews by July 20.
+
+<P>All (women and men) are welcome to attend the ninth annual <b>Women in SJDM Luncheon</b>
+from 12 pm - 1:30 pm on Sunday, November 23d in Salon A at the Westin Long Beach
+Hotel.
+The event will feature lunch, networking opportunities, and a keynote event and
+opportunity for Q&A with Dean Sally Blount of the Kellogg School of Management at
+Northwestern University.
+<P>The event is free of charge, but space is limited. To sign-up for this luncheon,
+complete this
+<a href="https://hbs.qualtrics.com/SE/?SID=SV_9nUsCbFC4F0qO1L">short
+registration survey</a>. We will keep a waiting list if necessary.
+<P>The event is organized this year by Ellie Kyung, Kelly Goldsmith, and Leslie John.
+
+-->
+
+<P>Tentative schedule for future meetings:
+<br>2020 - Austin, TX, November 20-23
+<br>2021 - San Diego, CA, November 19-22
+<br>2022 - Washington, DC, November 18-21
+
+<P>SJDM meetings are in tandem with those of the
+<a href="http://psychonomic.org">Psychonomic Society</a>, which
+provides assistance to us in various ways.
+
+<br><br>
+<h5>Mailing lists:</h5> 
+
+Members of SJDM are added to the 
+<a href="http://mail.sjdm.org/mailman/listinfo/sjdm-members">
+<b>sjdm-members</b></a> mailing list, which is for communications about society business such
+as meetings and elections. It also provides a password for the members
+section of this site and a monthly reminder of it.  This is a very
+low-volumue mailing list.
+You cannot unsubscribe from it. If you want to quit, see the
+Members link above, which also has other options of possible interest.
+If you are a member and you are not getting mail about Society
+elections and other business, please check the
+<a href="http://mail.sjdm.org/mailman/private/sjdm-members/">list archives</a>,
+and then (if you missed something recent) check your spam.
+If that doesn't help, write <A HREF="mailto:baron@upenn.edu">baron@upenn.edu</a>.
+
+<P>The <a href="http://mail.sjdm.org/mailman/listinfo/jdm-society"><b>jdm-society</b></a>
+mailing list is much higher volume and is open to all for reading and posting, but moderated.
+
+<p>DO NOT USE MAILING LIST PASSWORDS FOR ANYTHING ELSE. (And do not try to change them.)
+
+<p><a href="http://www.decisionsciencenews.com">Decision Science News</a>
+always has the latest conference deadlines, jobs, and announcements.<br />
+<img src="http://www.feedburner.com/fb/feed-styles/images/email.gif" alt="feed">&nbsp;<a href="http://feedburner.google.com/fb/a/mailverify?uri=DecisionScienceNews&loc=en_US">Subscribe by email</a> (one email per week, easy unsubscribe)
+<img src="feed-icon.png" alt="rss icon">&nbsp;<a href="http://feeds.feedburner.com/DecisionScienceNews">RSS</a>
+<br />
+<a class="twitter-timeline" href="https://twitter.com/SJDM_Tweets?ref_src=twsrc%5Etfw">Tweets by SJDM_Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<hr/>
+<h3>2018-2019 Executive Board</h3>
+
+Nina Mazar (nmazar@bu.edu), President<br>
+Katy Milkman (kmilkman@wharton.upenn.edu), President Elect<br>
+Chris Hsee (christopher.hsee@chicagobooth.edu), Past President<br>
+Oleg Urminsky (oleg.urminsky@chicagobooth.edu), Elected Member 2016-2019<br>
+Suzanne Shu (suzanne.shu@anderson.ucla.edu), Elected Member 2017-2020<br>
+Abigail Sussman (asussman@chicagobooth.edu), Elected Member 2018-2021<br>
+Nathan Cheek (nncheek@princeton.edu), Student member 2017-2019<br>
+Bud Fennema (fennema@fsu.edu), Secretary-Treasurer<br>
+Jon Baron (baron@upenn.edu), Webmaster<br>
+Jon Baron (baron@upenn.edu), Journal Editor<br>
+Dan Goldstein (dan@dangoldstein.com), Newsletter Editor<br>
+Daniel Oppenheimer (doppenh1@andrew.cmu.edu), 2019 Program Committee Chair<br>
+<p>
+
+<hr>
+Web site maintained by <A HREF="mailto:baron@upenn.edu">
+	Jon Baron</A>, Dan Goldstein, Dave Hardisty, <A HREF="mailto:nathanmaddix@gmail.com"> Nathan Maddix</A>, and Jon Westfall, with help from others. Direct inquiries about PhD programs to Nathan Maddix.
+Backups are <a href="http://dlab.sauder.ubc.ca/sjdm/">here</a>.
+and <a href="http://finzi.psych.upenn.edu/sjdm.html">
+here</a>. The mailing lists don't work on these.
+<P>
+
+
+</body>
+</html>

@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cognitive complexity - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cognitive_complexity","wgTitle":"Cognitive complexity","wgCurRevisionId":887840299,"wgRevisionId":887840299,"wgArticleId":2792572,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: editors list","Articles to be expanded from June 2010","All articles to be expanded","Articles using small message boxes","Articles lacking in-text citations from April 2010","All articles lacking in-text citations","All articles with dead external links","Articles with dead external links from January 2018","Articles with permanently dead external links","Use dmy dates from January 2011","Human communication","Human–computer interaction","Personality","Industrial and organizational psychology","Cognition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cognitive_complexity","wgRelevantArticleId":2792572,"wgRequestId":"XLJbkApAICgAABcILsAAAABT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5141199","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cognitive_complexity"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cognitive_complexity&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cognitive_complexity&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cognitive_complexity"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cognitive_complexity rootpage-Cognitive_complexity skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cognitive complexity</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive psychology</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Human_brain_NIH.png" class="image"><img alt="Human brain NIH.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Human_brain_NIH.png/50px-Human_brain_NIH.png" decoding="async" width="50" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Human_brain_NIH.png/75px-Human_brain_NIH.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Human_brain_NIH.png/100px-Human_brain_NIH.png 2x" data-file-width="344" data-file-height="250" /></a></td></tr><tr><th style="padding:0.1em">
+<a href="/wiki/Perception" title="Perception">Perception</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Visual_perception" title="Visual perception">Visual perception</a></li>
+<li><a href="/wiki/Object_recognition" class="mw-redirect" title="Object recognition">Object recognition</a></li>
+<li><a href="/wiki/Face_perception" title="Face perception">Face recognition</a></li>
+<li><a href="/wiki/Pattern_recognition" title="Pattern recognition">Pattern recognition</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/Attention" title="Attention">Attention</a></th></tr><tr><th style="padding:0.1em">
+<a href="/wiki/Memory" title="Memory">Memory</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Memory_and_aging" title="Memory and aging">Aging and memory</a></li>
+<li><a href="/wiki/Emotion_and_memory" title="Emotion and memory">Emotional memory</a></li>
+<li><a href="/wiki/Learning" title="Learning">Learning</a></li>
+<li><a href="/wiki/Long-term_memory" title="Long-term memory">Long-term memory</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/Metacognition" title="Metacognition">Metacognition</a></th></tr><tr><th style="padding:0.1em">
+<a href="/wiki/Language" title="Language">Language</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<a href="/wiki/Metalanguage" title="Metalanguage">Metalanguage</a></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/Thinking" class="mw-redirect" title="Thinking">Thinking</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<p><a href="/wiki/Cognition" title="Cognition">Cognition</a>
+</p>
+<ul><li><a href="/wiki/Concept" title="Concept">Concept</a></li>
+<li><a href="/wiki/Reasoning" class="mw-redirect" title="Reasoning">Reasoning</a></li>
+<li><a href="/wiki/Decision_making" class="mw-redirect" title="Decision making">Decision making</a></li>
+<li><a href="/wiki/Problem_solving" title="Problem solving">Problem solving</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/Numerical_cognition" title="Numerical cognition">Numerical cognition</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Numerosity_adaptation_effect" title="Numerosity adaptation effect">Numerosity adaptation effect</a></li>
+<li><a href="/wiki/Approximate_number_system" title="Approximate number system">Approximate number system</a></li>
+<li><a href="/wiki/Parallel_individuation_system" title="Parallel individuation system">Parallel individuation system</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cognitive" title="Template:Cognitive"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cognitive" title="Template talk:Cognitive"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cognitive&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Cognitive complexity</b> describes <a href="/wiki/Cognition" title="Cognition">cognition</a> along a simplicity-complexity axis. It is the subject of academic study in fields including <a href="/wiki/Personal_construct_psychology" class="mw-redirect" title="Personal construct psychology">personal construct psychology</a>,<sup id="cite_ref-bell.2004_1-0" class="reference"><a href="#cite_note-bell.2004-1">&#91;1&#93;</a></sup> <a href="/wiki/Organizational_studies" title="Organizational studies">organisational theory</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and <a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">human–computer interaction</a>.<sup id="cite_ref-Rauterberg_3-0" class="reference"><a href="#cite_note-Rauterberg-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#In_psychology"><span class="tocnumber">2</span> <span class="toctext">In psychology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#In_computer_science"><span class="tocnumber">3</span> <span class="toctext">In computer science</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#In_artificial_intelligence"><span class="tocnumber">4</span> <span class="toctext">In artificial intelligence</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Related_terms"><span class="tocnumber">5</span> <span class="toctext">Related terms</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=">adding to it</a>.</small>  <small class="date-container"><i>(<span class="date">June 2010</span>)</i></small></div></td></tr></tbody></table>
+<p>First proposed by <a href="/wiki/James_Bieri" title="James Bieri">James Bieri</a> in 1955.<sup id="cite_ref-bell.2004_1-1" class="reference"><a href="#cite_note-bell.2004-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="In_psychology">In psychology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=2" title="Edit section: In psychology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <small class="date-container"><i>(<span class="date">April 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>Cognitive complexity is a <a href="/wiki/Psychological" class="mw-redirect" title="Psychological">psychological</a> characteristic or psychological variable that indicates how complex or simple is the <a href="/wiki/Framing_(social_sciences)" title="Framing (social sciences)">frame</a> and <a href="/wiki/Perception" title="Perception">perceptual</a> skill of a person. A person who is measured high on <a href="/wiki/Cognitive" class="mw-redirect" title="Cognitive">cognitive</a> complexity tends to perceive nuances and subtle differences which a person with a lower measure, indicating a less complex cognitive <a href="/wiki/Structure" title="Structure">structure</a> for the task or activity, does not.
+</p>
+<div class="quotebox pullquote floatright" style="width:33%;&#32;;"><style data-mw-deduplicate="TemplateStyles:r887775652">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%;max-width:100%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-quote left-aligned" style="">an aspect of a person's cognitive functioning which at one end is defined by the use of many constructs with many relationships to one another (complexity) and at the other end by the use of few constructs with limited relationships to one another (simplicity)</div>
+<p><cite class="left-aligned" style=""><a href="/w/index.php?title=Lawrence_Pervin&amp;action=edit&amp;redlink=1" class="new" title="Lawrence Pervin (page does not exist)">Lawrence Pervin</a>, <i>Personality</i><sup id="cite_ref-Rauterberg_3-1" class="reference"><a href="#cite_note-Rauterberg-3">&#91;3&#93;</a></sup></cite>
+</p>
+</div>
+<p>It is used as part of one of the several variations of the viable non-empirical evaluation model <a href="/wiki/GOMS" title="GOMS">GOMS</a> (goals, operators, methods, and selection rules); in particular the <a href="/w/index.php?title=GOMS/CCT&amp;action=edit&amp;redlink=1" class="new" title="GOMS/CCT (page does not exist)">GOMS/CCT</a> methodology.
+</p><p>Cognitive complexity can have various meanings:
+</p>
+<ul><li>the number of mental structures we use, how abstract they are, and how elaborately they interact to shape our perceptions.</li>
+<li>"an individual-difference variable associated with a broad range of communication skills and related abilities ... [which] indexes the degree of differentiation, articulation, and integration within a cognitive system".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="In_computer_science">In computer science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=3" title="Edit section: In computer science">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Complexity" title="Complexity">Complexity</a></div>
+<p>In <a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">human–computer interaction</a>, cognitive (or psychological) complexity distinguishes human factors (related to <a href="/wiki/Psychology" title="Psychology">psychology</a> and human cognition) from, for example, <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">computational complexity</a>.<sup id="cite_ref-thomas:2008_5-0" class="reference"><a href="#cite_note-thomas:2008-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="In_artificial_intelligence">In artificial intelligence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=4" title="Edit section: In artificial intelligence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In an attempt to explain how humans perceive relevance, cognitive complexity is defined as an extension of the notion of <a href="/wiki/Kolmogorov_complexity" title="Kolmogorov complexity">Kolmogorov complexity</a>. It amounts to the length of the shortest description <i>available to the observer</i>.
+Here is an example&#160;:
+Individuating a particular Inuit woman among one hundred people is simpler in a village in Congo rather than in an Inuit village.
+</p><p>Cognitive complexity is related to probability (see <a href="/wiki/Simplicity_theory" title="Simplicity theory">Simplicity theory</a>): situations are cognitively improbable if they are simpler to describe than to generate.
+Human individuals attach two complexity values to events:
+</p>
+<ul><li>description complexity (see above definition)</li>
+<li>generation complexity: the size of the minimum set of parameter values that the 'world' (as imagined by the observer) needs to generate the event.</li></ul>
+<p>To 'generate' an event such as an encounter with an Inuit woman in Congo, one must add up the complexity of each event in the causal chain that brought her there. The significant gap between both complexities (hard to produce, easy to describe) makes the encounter improbable and thus narratable.
+</p>
+<h2><span class="mw-headline" id="Related_terms">Related terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=5" title="Edit section: Related terms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Related to cognitive complexity is the term <b>behavioral complexity</b>, used by some researchers in <a href="/wiki/Organizational_studies" title="Organizational studies">organizational studies</a>, <a href="/wiki/Organizational_culture" title="Organizational culture">organizational culture</a> and <a href="/wiki/Management" title="Management">management</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cognitive_dimensions_of_notations" title="Cognitive dimensions of notations">Cognitive dimensions of notations</a></li>
+<li><a href="/wiki/Cognitive_ergonomics" title="Cognitive ergonomics">Cognitive ergonomics</a></li>
+<li><a href="/wiki/Consciousness" title="Consciousness">Consciousness</a></li>
+<li><a href="/wiki/General_semantics" title="General semantics">General semantics</a></li>
+<li><a href="/wiki/Language_of_thought" class="mw-redirect" title="Language of thought">Language of thought</a></li>
+<li><a href="/wiki/Learning_theory_(education)" title="Learning theory (education)">Learning theory (education)</a></li>
+<li><a href="/wiki/Simplicity_theory" title="Simplicity theory">Simplicity theory</a></li>
+<li><a href="/wiki/Social_complexity" title="Social complexity">Social complexity</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-bell.2004-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-bell.2004_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bell.2004_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Bell, R.C. (2004-02-14). <a rel="nofollow" class="external text" href="http://www.pcp-net.org/encyclopaedia/cogcom.html">"Cognitive complexity"</a>. <i>The Internet Encyclopaedia of Personal Construct Psychology</i>. The Psychology of Personal Constructs<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Internet+Encyclopaedia+of+Personal+Construct+Psychology&amp;rft.atitle=Cognitive+complexity&amp;rft.date=2004-02-14&amp;rft.aulast=Bell&amp;rft.aufirst=R.C.&amp;rft_id=http%3A%2F%2Fwww.pcp-net.org%2Fencyclopaedia%2Fcogcom.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+complexity" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Villanova University. <a rel="nofollow" class="external text" href="http://www83.homepage.villanova.edu/richard.jacobs/MPA%208002/Powerpoint/cogcomp/">"Analyzing Organizations Through Cognitive Complexity"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 April</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Analyzing+Organizations+Through+Cognitive+Complexity&amp;rft.au=Villanova+University&amp;rft_id=http%3A%2F%2Fwww83.homepage.villanova.edu%2Frichard.jacobs%2FMPA%25208002%2FPowerpoint%2Fcogcomp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+complexity" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Rauterberg-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rauterberg_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rauterberg_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation conference">Rauterberg, Matthias (1996). <a rel="nofollow" class="external text" href="http://en.scientificcommons.org/17603063">"How to Measure Cognitive Complexity in Human–Computer Interaction"</a>.  In Robert Trappl(ed). <i>Proceedings of the Thirteenth European Meeting on Cybernetics and Systems Research</i>. <a rel="nofollow" class="external text" href="http://www.osgk.ac.at/emcsr/96/">Thirteenth European Meeting on Cybernetics and Systems Research</a>. <b>II</b>. University of Vienna, Austria. pp.&#160;815–820. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-85206-133-4" title="Special:BookSources/3-85206-133-4">3-85206-133-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=How+to+Measure+Cognitive+Complexity+in+Human%E2%80%93Computer+Interaction&amp;rft.btitle=Proceedings+of+the+Thirteenth+European+Meeting+on+Cybernetics+and+Systems+Research&amp;rft.place=University+of+Vienna%2C+Austria&amp;rft.pages=815-820&amp;rft.date=1996&amp;rft.isbn=3-85206-133-4&amp;rft.aulast=Rauterberg&amp;rft.aufirst=Matthias&amp;rft_id=http%3A%2F%2Fen.scientificcommons.org%2F17603063&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+complexity" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Extra text: editors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_editors_list" title="Category:CS1 maint: Extra text: editors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Burleson, B.R., &amp; Caplan, S.E. (1998), "Cognitive complexity". In J.C. McCroskey, J.A. Daly, M.M. Martin, &amp; M.J. Beatty (Eds.), <i>Communication and personality: Trait perspectives</i> (233–286). Creskill, NJ: Hampton Press</span>
+</li>
+<li id="cite_note-thomas:2008-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-thomas:2008_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Thomas, John C.; Richards, John T. (2008). <a rel="nofollow" class="external text" href="http://www.isrc.umbc.edu/HCIHandbook/">"Achieving Psychological Simplicity: Methods And Measures To Reduce Cognitive Complexity"</a>.  In Sears, Andrew; Jacko, Julie A. <i>The human–computer interaction handbook: Fundamentals, Evolving Technologies and Emerging Applications</i> (2nd ed.). Mahwah, New Jersey: Lawrence Erlbaum Associates. pp.&#160;498–507. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8058-5870-9" title="Special:BookSources/978-0-8058-5870-9">978-0-8058-5870-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Achieving+Psychological+Simplicity%3A+Methods+And+Measures+To+Reduce+Cognitive+Complexity&amp;rft.btitle=The+human%E2%80%93computer+interaction+handbook%3A+Fundamentals%2C+Evolving+Technologies+and+Emerging+Applications&amp;rft.place=Mahwah%2C+New+Jersey&amp;rft.pages=498-507&amp;rft.edition=2nd&amp;rft.pub=Lawrence+Erlbaum+Associates&amp;rft.date=2008&amp;rft.isbn=978-0-8058-5870-9&amp;rft.aulast=Thomas&amp;rft.aufirst=John+C.&amp;rft.au=Richards%2C+John+T.&amp;rft_id=http%3A%2F%2Fwww.isrc.umbc.edu%2FHCIHandbook%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+complexity" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">See Robert Hooijberg, <i>Behavioral complexity and managerial effectiveness: a new perspective on managerial leadership</i>, University of Michigan, 1992; <a href="/wiki/Daniel_R._Denison" title="Daniel R. Denison">Daniel R. Denison</a>, Robert Hooijberg, Robert E. Quinn, <a rel="nofollow" class="external text" href="http://deepblue.lib.umich.edu/bitstream/2027.42/35553/1/b1714508.0001.001.txt">Toward a theory of behavioral complexity in managerial leadership</a>, University of Michigan, September 1993</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web">Bell, R.C. (2004-02-14). <a rel="nofollow" class="external text" href="http://www.pcp-net.org/encyclopaedia/cogcom.html">"Cognitive complexity"</a>. <i>The Internet Encyclopaedia of Personal Construct Psychology</i>. The Psychology of Personal Constructs<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-02-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Internet+Encyclopaedia+of+Personal+Construct+Psychology&amp;rft.atitle=Cognitive+complexity&amp;rft.date=2004-02-14&amp;rft.aulast=Bell&amp;rft.aufirst=R.C.&amp;rft_id=http%3A%2F%2Fwww.pcp-net.org%2Fencyclopaedia%2Fcogcom.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+complexity" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li>Bryan, S. (2002). "<a rel="nofollow" class="external text" href="https://web.archive.org/web/20100705084932/http://etd.lsu.edu/docs/available/etd-0410102-134451/unrestricted/Bryan_dis.pdf">Cognitive complexity, transformational leadership, and organizational outcomes</a>". Dissertation in the Department of Communication Studies, Graduate Faculty of the Louisiana State University and Agricultural and Mechanical College.</li>
+<li>Chater, N. (1999). <a rel="nofollow" class="external text" href="http://www.dectech.org/publications/LinksNick/FoundationsTheoryAndMethodology/The%20Search%20for%20Sim%20plicity%20A%20Fundamental%20cognitive%20principle.pdf">The search for simplicity: A fundamental cognitive principle?</a> <i>The Quarterly Journal of Experimental Psychology</i>, 52 (A), 273-302.</li>
+<li>Dobosh, M.A. (2005). "<a rel="nofollow" class="external text" href="http://www.udel.edu/communication/web/thesisfiles/melissadoboshthesis.pdf">The impact of cognitive complexity and self-monitoring on leadership emergence</a>". Master's Thesis in the Department of Communication, Graduate Faculty of the University of Delaware.</li>
+<li>McDaniel, E., &amp; Lawrence, C. (1990). "<a rel="nofollow" class="external text" href="https://books.google.com/books?id=eWh9AAAAMAAJ">Levels of cognitive complexity: An approach to the measurement of thinking.</a>" New York: Springer-Verlag.</li>
+<li>Lee, J., Truex, D.P. (2000). "<a rel="nofollow" class="external text" href="http://csdl2.computer.org/comp/proceedings/hicss/2000/0493/07/04937007.pdf">Cognitive complexity and methodical training: enhancing or suppressing creativity</a>". Proceedings of the 33rd Hawaii International Conference on Systems Sciences.</li>
+<li>Sanders, T.J.M. "<a rel="nofollow" class="external text" href="https://web.archive.org/web/20081005121747/http://w3.univ-tlse2.fr:8880/erss/index.jsp?perso=bras&amp;subURL=sem05%2Fproceedings-final%2F03-Sanders.pdf">Coherence, causality and cognitive complexity in discourse</a>".</li>
+<li>Streufert, S., Pogash, R.M., Piasecki, M.T. (1987). "<a rel="nofollow" class="external text" href="http://stinet.dtic.mil/cgi-bin/GetTRDoc?AD=ADA181828&amp;Location=U2&amp;doc=GetTRDoc.pdf">Training for cognitive complexity</a>". ARI Research Note 87-20, AD-A181828.</li>
+<li><cite class="citation journal">Linville, Patricia W. Linville (1985). "Self-Complexity and Affective Extremity: Don't Put All of Your Eggs in One Cognitive Basket". <i>Social Cognition</i>. <b>3</b>: 94–120. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1521%2Fsoco.1985.3.1.94">10.1521/soco.1985.3.1.94</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Social+Cognition&amp;rft.atitle=Self-Complexity+and+Affective+Extremity%3A+Don%27t+Put+All+of+Your+Eggs+in+One+Cognitive+Basket&amp;rft.volume=3&amp;rft.pages=94-120&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1521%2Fsoco.1985.3.1.94&amp;rft.aulast=Linville&amp;rft.aufirst=Patricia+W.+Linville&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+complexity" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">David A. Snowdon; Susan J. Kemper; James A. Mortimer (1996). <a rel="nofollow" class="external text" href="http://jama.jamanetwork.com/article.aspx?articleid=396775">"Linguistic Ability in Early Life and Cognitive Function and Alzheimer's Disease in Late LifeFindings From the Nun Study"</a>. <i>JAMA</i>. <b>275</b> (7): 528–532. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1001%2Fjama.1996.03530310034029">10.1001/jama.1996.03530310034029</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8606473">8606473</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=JAMA&amp;rft.atitle=Linguistic+Ability+in+Early+Life+and+Cognitive+Function+and+Alzheimer%27s+Disease+in+Late+LifeFindings+From+the+Nun+Study&amp;rft.volume=275&amp;rft.issue=7&amp;rft.pages=528-532&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1001%2Fjama.1996.03530310034029&amp;rft_id=info%3Apmid%2F8606473&amp;rft.au=David+A.+Snowdon&amp;rft.au=Susan+J.+Kemper&amp;rft.au=James+A.+Mortimer&amp;rft_id=http%3A%2F%2Fjama.jamanetwork.com%2Farticle.aspx%3Farticleid%3D396775&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+complexity" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.simplicitytheory.org">A tutorial on Simplicity Theory (Simplicity, Complexity, Unexpectedness, Cognition, Probability, Information)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cpalms.org/textonly.aspx?ContentID=23&amp;UrlPath=/page23.aspx">COGNITIVE COMPLEXITY CLASSIFICATION  OF FCATTEST ITEMS</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cpalms.org/textonly.aspx?ContentID=23&amp;UrlPath=/page23.aspx">Cognitive Complexity/Depth of Knowledge Rating</a></li>
+<li><a rel="nofollow" class="external text" href="http://www83.homepage.villanova.edu/richard.jacobs/MPA%208002/Powerpoint/cogcomp/">ANALYZING ORGANIZATIONS THROUGH COGNITIVE COMPLEXITY</a></li>
+<li><a rel="nofollow" class="external text" href="http://faculty.css.edu/dswenson/web/Cogcompx.htmCognitive">Complexity as a Personality Dimension</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since January 2018">permanent dead link</span></a></i>&#93;</span></sup></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Psychology" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Psychology" title="Template:Psychology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Psychology" title="Template talk:Psychology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Psychology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Psychology" style="font-size:114%;margin:0 4em"><a href="/wiki/Psychology" title="Psychology">Psychology</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Philosophy&amp;#10;*_Portal&amp;#10;*_Psychologist">
+<ul><li><a href="/wiki/History_of_psychology" title="History of psychology">History</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Philosophy</a></li>
+<li><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Portal</a></li>
+<li><a href="/wiki/Psychologist" title="Psychologist">Psychologist</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Basic_science_(psychology)" title="Basic science (psychology)">Basic psychology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abnormal_psychology" title="Abnormal psychology">Abnormal</a></li>
+<li><a href="/wiki/Affective_science" title="Affective science">Affective science</a></li>
+<li><a href="/wiki/Affective_neuroscience" title="Affective neuroscience">Affective neuroscience</a></li>
+<li><a href="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavioral genetics</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Behavioral neuroscience</a></li>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive</a>/<a href="/wiki/Cognitivism_(psychology)" title="Cognitivism (psychology)">Cognitivism</a></li>
+<li><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive neuroscience</a>
+<ul><li><a href="/wiki/Social_cognitive_neuroscience" title="Social cognitive neuroscience">Social</a></li></ul></li>
+<li><a href="/wiki/Comparative_psychology" title="Comparative psychology">Comparative</a></li>
+<li><a href="/wiki/Cross-cultural_psychology" title="Cross-cultural psychology">Cross-cultural</a></li>
+<li><a href="/wiki/Cultural_psychology" title="Cultural psychology">Cultural</a></li>
+<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">Developmental</a></li>
+<li><a href="/wiki/Differential_psychology" title="Differential psychology">Differential</a></li>
+<li><a href="/wiki/Ecological_psychology" title="Ecological psychology">Ecological</a></li>
+<li><a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">Evolutionary</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experimental</a></li>
+<li><a href="/wiki/Gestalt_psychology" title="Gestalt psychology">Gestalt</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Mathematical_psychology" title="Mathematical psychology">Mathematical</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Personality_psychology" title="Personality psychology">Personality</a></li>
+<li><a href="/wiki/Positive_psychology" title="Positive psychology">Positive</a></li>
+<li><a href="/wiki/Psycholinguistics" title="Psycholinguistics">Psycholinguistics</a></li>
+<li><a href="/wiki/Psychophysiology" title="Psychophysiology">Psychophysiology</a></li>
+<li><a href="/wiki/Quantitative_psychology" title="Quantitative psychology">Quantitative</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">Social</a></li>
+<li><a href="/wiki/Theoretical_psychology" title="Theoretical psychology">Theoretical</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Applied_psychology" title="Applied psychology">Applied psychology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anomalistic_psychology" title="Anomalistic psychology">Anomalistic</a></li>
+<li><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a></li>
+<li><a href="/wiki/Psychological_testing" title="Psychological testing">Assessment</a></li>
+<li><a href="/wiki/Clinical_psychology" title="Clinical psychology">Clinical</a></li>
+<li><a href="/wiki/Community_psychology" title="Community psychology">Community</a></li>
+<li><a href="/wiki/Consumer_behaviour" title="Consumer behaviour">Consumer</a></li>
+<li><a href="/wiki/Counseling_psychology" title="Counseling psychology">Counseling</a></li>
+<li><a href="/wiki/Critical_psychology" title="Critical psychology">Critical</a></li>
+<li><a href="/wiki/Educational_psychology" title="Educational psychology">Educational</a></li>
+<li><a href="/wiki/Human_factors_and_ergonomics" title="Human factors and ergonomics">Ergonomics</a></li>
+<li><a href="/wiki/Feminist_psychology" title="Feminist psychology">Feminist</a></li>
+<li><a href="/wiki/Forensic_psychology" title="Forensic psychology">Forensic</a></li>
+<li><a href="/wiki/Health_psychology" title="Health psychology">Health</a></li>
+<li><a href="/wiki/Industrial_and_organizational_psychology" title="Industrial and organizational psychology">Industrial and organizational</a></li>
+<li><a href="/wiki/Legal_psychology" title="Legal psychology">Legal</a></li>
+<li><a href="/wiki/Media_psychology" title="Media psychology">Media</a></li>
+<li><a href="/wiki/Medical_psychology" title="Medical psychology">Medical</a></li>
+<li><a href="/wiki/Military_psychology" title="Military psychology">Military</a></li>
+<li><a href="/wiki/Music_psychology" title="Music psychology">Music</a></li>
+<li><a href="/wiki/Occupational_health_psychology" title="Occupational health psychology">Occupational health</a></li>
+<li><a href="/wiki/Pastoral_psychology" class="mw-redirect" title="Pastoral psychology">Pastoral</a></li>
+<li><a href="/wiki/Political_psychology" title="Political psychology">Political</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li>
+<li><a href="/wiki/Psychotherapy" title="Psychotherapy">Psychotherapy</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Religion</a></li>
+<li><a href="/wiki/School_psychology" title="School psychology">School</a></li>
+<li><a href="/wiki/Sport_psychology" title="Sport psychology">Sport and exercise</a></li>
+<li><a href="/wiki/Suicidology" title="Suicidology">Suicidology</a></li>
+<li><a href="/wiki/Systems_psychology" title="Systems psychology">Systems</a></li>
+<li><a href="/wiki/Traffic_psychology" title="Traffic psychology">Traffic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Methodologies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animal_testing" title="Animal testing">Animal testing</a></li>
+<li><a href="/wiki/Archival_research" title="Archival research">Archival research</a></li>
+<li><a href="/wiki/Behavioral_epigenetics" title="Behavioral epigenetics">Behavior epigenetics</a></li>
+<li><a href="/wiki/Case_study" title="Case study">Case study</a></li>
+<li><a href="/wiki/Content_analysis" title="Content analysis">Content analysis</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experiments</a></li>
+<li><a href="/wiki/Human_subject_research" title="Human subject research">Human subject research</a></li>
+<li><a href="/wiki/Interview_(research)" title="Interview (research)">Interviews</a></li>
+<li><a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a></li>
+<li><a href="/wiki/Observation" title="Observation">Observation</a></li>
+<li><a href="/wiki/Psychophysics" title="Psychophysics">Psychophysics</a></li>
+<li><a href="/wiki/Qualitative_psychological_research" title="Qualitative psychological research">Qualitative research</a></li>
+<li><a href="/wiki/Quantitative_psychological_research" title="Quantitative psychological research">Quantitative research</a></li>
+<li><a href="/wiki/Self-report_inventory" title="Self-report inventory">Self-report inventory</a></li>
+<li><a href="/wiki/Survey_methodology" title="Survey methodology">Statistical surveys</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wilhelm_Wundt" title="Wilhelm Wundt">Wilhelm Wundt</a>&#160;(1832–1920)</li>
+<li><a href="/wiki/William_James" title="William James">William James</a>&#160;(1842–1910)</li>
+<li><a href="/wiki/Ivan_Pavlov" title="Ivan Pavlov">Ivan Pavlov</a>&#160;(1849–1936)</li>
+<li><a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a>&#160;(1856–1939)</li>
+<li><a href="/wiki/Edward_Thorndike" title="Edward Thorndike">Edward Thorndike</a>&#160;(1874–1949)</li>
+<li><a href="/wiki/Carl_Jung" title="Carl Jung">Carl Jung</a>&#160;(1875–1961)</li>
+<li><a href="/wiki/John_B._Watson" title="John B. Watson">John B. Watson</a>&#160;(1878–1958)</li>
+<li><a href="/wiki/Clark_L._Hull" title="Clark L. Hull">Clark L. Hull</a>&#160;(1884–1952)</li>
+<li><a href="/wiki/Kurt_Lewin" title="Kurt Lewin">Kurt Lewin</a>&#160;(1890–1947)</li>
+<li><a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a>&#160;(1896–1980)</li>
+<li><a href="/wiki/Gordon_Allport" title="Gordon Allport">Gordon Allport</a>&#160;(1897–1967)</li>
+<li><a href="/wiki/J._P._Guilford" title="J. P. Guilford">J. P. Guilford</a>&#160;(1897–1987)</li>
+<li><a href="/wiki/Carl_Rogers" title="Carl Rogers">Carl Rogers</a>&#160;(1902–1987)</li>
+<li><a href="/wiki/Erik_Erikson" title="Erik Erikson">Erik Erikson</a>&#160;(1902–1994)</li>
+<li><a href="/wiki/B._F._Skinner" title="B. F. Skinner">B. F. Skinner</a>&#160;(1904–1990)</li>
+<li><a href="/wiki/Donald_O._Hebb" title="Donald O. Hebb">Donald O. Hebb</a>&#160;(1904–1985)</li>
+<li><a href="/wiki/Ernest_Hilgard" title="Ernest Hilgard">Ernest Hilgard</a>&#160;(1904–2001)</li>
+<li><a href="/wiki/Harry_Harlow" title="Harry Harlow">Harry Harlow</a>&#160;(1905–1981)</li>
+<li><a href="/wiki/Raymond_Cattell" title="Raymond Cattell">Raymond Cattell</a>&#160;(1905–1998)</li>
+<li><a href="/wiki/Abraham_Maslow" title="Abraham Maslow">Abraham Maslow</a>&#160;(1908–1970)</li>
+<li><a href="/wiki/Neal_E._Miller" title="Neal E. Miller">Neal E. Miller</a>&#160;(1909–2002)</li>
+<li><a href="/wiki/Jerome_Bruner" title="Jerome Bruner">Jerome Bruner</a>&#160;(1915–2016)</li>
+<li><a href="/wiki/Donald_T._Campbell" title="Donald T. Campbell">Donald T. Campbell</a>&#160;(1916–1996)</li>
+<li><a href="/wiki/Hans_Eysenck" title="Hans Eysenck">Hans Eysenck</a>&#160;(1916–1997)</li>
+<li><a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a>&#160;(1916–2001)</li>
+<li><a href="/wiki/David_McClelland" title="David McClelland">David McClelland</a>&#160;(1917–1998)</li>
+<li><a href="/wiki/Leon_Festinger" title="Leon Festinger">Leon Festinger</a>&#160;(1919–1989)</li>
+<li><a href="/wiki/George_Armitage_Miller" title="George Armitage Miller">George Armitage Miller</a>&#160;(1920–2012)</li>
+<li><a href="/wiki/Richard_Lazarus" title="Richard Lazarus">Richard Lazarus</a>&#160;(1922–2002)</li>
+<li><a href="/wiki/Stanley_Schachter" title="Stanley Schachter">Stanley Schachter</a>&#160;(1922–1997)</li>
+<li><a href="/wiki/Robert_Zajonc" title="Robert Zajonc">Robert Zajonc</a>&#160;(1923–2008)</li>
+<li><a href="/wiki/Albert_Bandura" title="Albert Bandura">Albert Bandura</a>&#160;(b.&#160;1925)</li>
+<li><a href="/wiki/Roger_Brown_(psychologist)" title="Roger Brown (psychologist)">Roger Brown</a>&#160;(1925–1997)</li>
+<li><a href="/wiki/Endel_Tulving" title="Endel Tulving">Endel Tulving</a>&#160;(b.&#160;1927)</li>
+<li><a href="/wiki/Lawrence_Kohlberg" title="Lawrence Kohlberg">Lawrence Kohlberg</a>&#160;(1927–1987)</li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a>&#160;(b.&#160;1928)</li>
+<li><a href="/wiki/Ulric_Neisser" title="Ulric Neisser">Ulric Neisser</a>&#160;(1928–2012)</li>
+<li><a href="/wiki/Jerome_Kagan" title="Jerome Kagan">Jerome Kagan</a>&#160;(b.&#160;1929)</li>
+<li><a href="/wiki/Walter_Mischel" title="Walter Mischel">Walter Mischel</a>&#160;(1930–2018)</li>
+<li><a href="/wiki/Elliot_Aronson" title="Elliot Aronson">Elliot Aronson</a>&#160;(b.&#160;1932)</li>
+<li><a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">Daniel Kahneman</a>&#160;(b.&#160;1934)</li>
+<li><a href="/wiki/Paul_Ekman" title="Paul Ekman">Paul Ekman</a>&#160;(b.&#160;1934)</li>
+<li><a href="/wiki/Michael_Posner_(psychologist)" title="Michael Posner (psychologist)">Michael Posner</a>&#160;(b.&#160;1936)</li>
+<li><a href="/wiki/Amos_Tversky" title="Amos Tversky">Amos Tversky</a>&#160;(1937–1996)</li>
+<li><a href="/wiki/Bruce_McEwen" title="Bruce McEwen">Bruce McEwen</a>&#160;(b.&#160;1938)</li>
+<li><a href="/wiki/Larry_Squire" title="Larry Squire">Larry Squire</a>&#160;(b.&#160;1941)</li>
+<li><a href="/wiki/Richard_E._Nisbett" title="Richard E. Nisbett">Richard E. Nisbett</a>&#160;(b.&#160;1941)</li>
+<li><a href="/wiki/Martin_Seligman" title="Martin Seligman">Martin Seligman</a>&#160;(b.&#160;1942)</li>
+<li><a href="/wiki/Ed_Diener" title="Ed Diener">Ed Diener</a>&#160;(b.&#160;1946)</li>
+<li><a href="/wiki/Shelley_E._Taylor" title="Shelley E. Taylor">Shelley E. Taylor</a>&#160;(b.&#160;1946)</li>
+<li><a href="/wiki/John_Robert_Anderson_(psychologist)" title="John Robert Anderson (psychologist)">John Anderson</a>&#160;(b.&#160;1947)</li>
+<li><a href="/wiki/Ronald_C._Kessler" title="Ronald C. Kessler">Ronald C. Kessler</a>&#160;(b.&#160;1947)</li>
+<li><a href="/wiki/Joseph_E._LeDoux" title="Joseph E. LeDoux">Joseph E. LeDoux</a>&#160;(b.&#160;1949)</li>
+<li><a href="/wiki/Richard_Davidson" title="Richard Davidson">Richard Davidson</a>&#160;(b.&#160;1951)</li>
+<li><a href="/wiki/Susan_Fiske" title="Susan Fiske">Susan Fiske</a>&#160;(b.&#160;1952)</li>
+<li><a href="/wiki/Roy_Baumeister" title="Roy Baumeister">Roy Baumeister</a>&#160;(b.&#160;1953)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Psychology_lists" title="Category:Psychology lists">Lists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_counseling_topics" title="List of counseling topics">Counseling topics</a></li>
+<li><a href="/wiki/List_of_psychology_disciplines" title="List of psychology disciplines">Disciplines</a></li>
+<li><a href="/wiki/List_of_important_publications_in_psychology" title="List of important publications in psychology">Important publications</a></li>
+<li><a href="/wiki/List_of_psychology_organizations" title="List of psychology organizations">Organizations</a></li>
+<li><a href="/wiki/Outline_of_psychology" title="Outline of psychology">Outline</a></li>
+<li><a href="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</a></li>
+<li><a href="/wiki/List_of_psychotherapies" title="List of psychotherapies">Psychotherapies</a></li>
+<li><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Research methods</a></li>
+<li><a href="/wiki/List_of_psychological_schools" title="List of psychological schools">Schools of thought</a></li>
+<li><a href="/wiki/Timeline_of_psychology" title="Timeline of psychology">Timeline</a></li>
+<li><a href="/wiki/Index_of_psychology_articles" title="Index of psychology articles">Topics</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="https://en.wiktionary.org/wiki/psychology" class="extiw" title="wiktionary:psychology">Wiktionary definition</a></li>
+<li><a href="https://en.wiktionary.org/wiki/Category:en:Psychology" class="extiw" title="wiktionary:Category:en:Psychology">Wiktionary category</a></li>
+<li><a href="https://en.wikisource.org/wiki/Category:Psychology" class="extiw" title="wikisource:Category:Psychology">Wikisource</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/category:Psychology" class="extiw" title="commons:category:Psychology">Wikimedia Commons</a></li>
+<li><a href="https://en.wikiquote.org/wiki/Psychology" class="extiw" title="wikiquote:Psychology">Wikiquote</a></li>
+<li><a href="https://en.wikinews.org/wiki/Special:Search/Psychology" class="extiw" title="wikinews:Special:Search/Psychology">Wikinews</a></li>
+<li><a href="https://en.wikibooks.org/wiki/Psychology" class="extiw" title="wikibooks:Psychology">Wikibooks</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Computer_science" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Computer_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer_science" title="Computer science">Computer science</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Note:_This_template_roughly_follows_the_2012_ACM_Computing_Classification_System.">Note: This template roughly follows the 2012 <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>.</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a></li>
+<li><a href="/wiki/Peripheral" title="Peripheral">Peripheral</a></li>
+<li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Very_Large_Scale_Integration" title="Very Large Scale Integration">Very Large Scale Integration</a></li>
+<li><a href="/wiki/System_on_a_chip" title="System on a chip">Systems on Chip (SoCs)</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Energy consumption (Green computing)</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+<li><a href="/wiki/Hardware_acceleration" title="Hardware acceleration">Hardware acceleration</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Computer systems<br />organization</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a></li>
+<li><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a></li>
+<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a></li>
+<li><a href="/wiki/Dependability" title="Dependability">Dependability</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_network" title="Computer network">Networks</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a></li>
+<li><a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a></li>
+<li><a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a></li>
+<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
+<li><a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a></li>
+<li><a href="/wiki/Network_service" title="Network service">Network service</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software organization</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a></li>
+<li><a href="/wiki/Middleware" title="Middleware">Middleware</a></li>
+<li><a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a></li>
+<li><a href="/wiki/Operating_system" title="Operating system">Operating system</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a><br />and <a href="/wiki/Programming_tool" title="Programming tool">tools</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Programming_language" title="Programming language">Programming language</a></li>
+<li><a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a></li>
+<li><a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Software_framework" title="Software framework">Software framework</a></li>
+<li><a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a></li>
+<li><a href="/wiki/Software_repository" title="Software repository">Software repository</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_development" title="Software development">Software development</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_construction" title="Software construction">Software construction</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Programming_team" title="Programming team">Programming team</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a></li>
+<li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a></li>
+<li><a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a></li>
+<li><a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algorithm_design" class="mw-redirect" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a></li>
+<li><a href="/wiki/Algorithmic_efficiency" title="Algorithmic efficiency">Algorithmic efficiency</a></li>
+<li><a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a></li>
+<li><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mathematics<br />of computing</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
+<li><a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a></li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a></li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_system" title="Information system">Information<br />systems</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Database" title="Database">Database management system</a></li>
+<li><a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a></li>
+<li><a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social information systems</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Process_control" title="Process control">Process control system</a></li>
+<li><a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a></li>
+<li><a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_security" title="Computer security">Security</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Information_security" title="Information security">Information security</a></li>
+<li><a href="/wiki/Application_security" title="Application security">Application security</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br />interaction</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Social_computing" title="Social computing">Social computing</a></li>
+<li><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a></li>
+<li><a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a></li>
+<li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a></li>
+<li><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br />intelligence</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Natural_language_processing" title="Natural language processing">Natural language processing</a></li>
+<li><a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control method</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a></li>
+<li><a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></li>
+<li><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></li>
+<li><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></li>
+<li><a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a></li>
+<li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Computer_animation" title="Computer animation">Animation</a></li>
+<li><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a></li>
+<li><a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a></li>
+<li><a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a></li>
+<li><a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a></li>
+<li><a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></li>
+<li><a href="/wiki/Image_compression" title="Image compression">Image compression</a></li>
+<li><a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Applied<br />computing</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/E-commerce" title="E-commerce">E-commerce</a></li>
+<li><a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a></li>
+<li><a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a></li>
+<li><a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a></li>
+<li><a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a></li>
+<li><a href="/wiki/Digital_art" title="Digital art">Digital art</a></li>
+<li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li>
+<li><a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li><a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a></li>
+<li><a href="/wiki/Video_games" class="mw-redirect" title="Video games">Video games</a></li>
+<li><a href="/wiki/Word_processor" title="Word processor">Word processing</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li>
+<li><a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a></li>
+<li><a href="/wiki/Document_management_system" title="Document management system">Document management</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Computer_science" title="Book:Computer science">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /><b><a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">WikiProject</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20190321160555
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.503 seconds
+Preprocessor visited node count: 1230/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89527/2097152 bytes
+Template argument size: 1330/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21542/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.159/10.000 seconds
+Lua memory usage: 4.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  379.241      1 -total
+ 28.45%  107.901      1 Template:Reflist
+ 20.82%   78.960      3 Template:Cite_web
+ 12.83%   48.654      2 Template:Ambox
+ 11.17%   42.364      1 Template:Expand_section
+ 10.92%   41.428      2 Template:Navbox
+  9.14%   34.648      2 Template:Cite_journal
+  8.46%   32.081      1 Template:Computer_science
+  7.77%   29.471      1 Template:Quote_box
+  7.58%   28.735      1 Template:Cognitive
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2792572-0!canonical and timestamp 20190321160554 and revision id 887840299
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cognitive_complexity&amp;oldid=887840299">https://en.wikipedia.org/w/index.php?title=Cognitive_complexity&amp;oldid=887840299</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Human_communication" title="Category:Human communication">Human communication</a></li><li><a href="/wiki/Category:Human%E2%80%93computer_interaction" title="Category:Human–computer interaction">Human–computer interaction</a></li><li><a href="/wiki/Category:Personality" title="Category:Personality">Personality</a></li><li><a href="/wiki/Category:Industrial_and_organizational_psychology" title="Category:Industrial and organizational psychology">Industrial and organizational psychology</a></li><li><a href="/wiki/Category:Cognition" title="Category:Cognition">Cognition</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Extra_text:_editors_list" title="Category:CS1 maint: Extra text: editors list">CS1 maint: Extra text: editors list</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_June_2010" title="Category:Articles to be expanded from June 2010">Articles to be expanded from June 2010</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2010" title="Category:Articles lacking in-text citations from April 2010">Articles lacking in-text citations from April 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2018" title="Category:Articles with dead external links from January 2018">Articles with dead external links from January 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2011" title="Category:Use dmy dates from January 2011">Use dmy dates from January 2011</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cognitive+complexity" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cognitive+complexity" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cognitive_complexity" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cognitive_complexity" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cognitive_complexity">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cognitive_complexity&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cognitive_complexity&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cognitive_complexity" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cognitive_complexity" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cognitive_complexity&amp;oldid=887840299" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cognitive_complexity&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5141199" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cognitive_complexity&amp;id=887840299" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cognitive+complexity">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cognitive+complexity&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cognitive_complexity&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5141199#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 15 March 2019, at 04:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cognitive_complexity&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.503","ppvisitednodes":{"value":1230,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89527,"limit":2097152},"templateargumentsize":{"value":1330,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21542,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  379.241      1 -total"," 28.45%  107.901      1 Template:Reflist"," 20.82%   78.960      3 Template:Cite_web"," 12.83%   48.654      2 Template:Ambox"," 11.17%   42.364      1 Template:Expand_section"," 10.92%   41.428      2 Template:Navbox","  9.14%   34.648      2 Template:Cite_journal","  8.46%   32.081      1 Template:Computer_science","  7.77%   29.471      1 Template:Quote_box","  7.58%   28.735      1 Template:Cognitive"]},"scribunto":{"limitreport-timeusage":{"value":"0.159","limit":"10.000"},"limitreport-memusage":{"value":4504715,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20190321160555","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cognitive complexity","url":"https:\/\/en.wikipedia.org\/wiki\/Cognitive_complexity","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5141199","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5141199","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-29T10:18:16Z","dateModified":"2019-03-15T04:45:57Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1319"});});</script>
+</body>
+</html>

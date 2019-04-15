@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cognitive science of religion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cognitive_science_of_religion","wgTitle":"Cognitive science of religion","wgCurRevisionId":887641925,"wgRevisionId":887641925,"wgArticleId":14085792,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from February 2011","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from August 2011","CS1: long volume value","Religion and science","Cognitive science","Spirituality","Cognitive science of religion"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cognitive_science_of_religion","wgRelevantArticleId":14085792,"wgRequestId":"XLQ1BApAMFwAAJGmrHIAAAAN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1570453","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cognitive_science_of_religion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cognitive_science_of_religion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cognitive_science_of_religion rootpage-Cognitive_science_of_religion skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cognitive science of religion</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Cognitive_science_of_religion&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Cognitive+science+of+religion%22">"Cognitive science of religion"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Cognitive+science+of+religion%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Cognitive+science+of+religion%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Cognitive+science+of+religion%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Cognitive+science+of+religion%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Cognitive+science+of+religion%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">February 2011</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Spirituality" title="Category:Spirituality">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Spirituality" title="Spirituality">Spirituality</a></th></tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border:none;font-size:50%;line-height:0.5em;">
+&#160;</td></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.35em;font-weight:bold;">
+<div class="hlist hlist-separated"><ul><li><a href="/wiki/Outline_of_spirituality" title="Outline of spirituality">Outline</a></li></ul></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em;font-size:35%;line-height:0.35em;">
+&#160;</td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;"><a href="/wiki/Religion" title="Religion">Religion</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;"><div class="hlist">
+<ul><li><a href="/wiki/History_of_religion" title="History of religion">History</a></li>
+<li><a href="/wiki/Timeline_of_religion" title="Timeline of religion">Timeline</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Traditional</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;"><div class="hlist">
+<ul><li><a href="/wiki/Christian_mysticism" title="Christian mysticism">Christian</a>
+<ul><li><a href="/wiki/Catholic_spirituality" title="Catholic spirituality">Catholic</a></li></ul></li>
+<li><a href="/wiki/Mysticism" title="Mysticism">Mysticism</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Modern</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;">
+<ul><li><a href="/wiki/Buddhist_modernism" title="Buddhist modernism">Buddhist modernism</a></li>
+<li><a href="/wiki/New_religious_movement" title="New religious movement">New religious movement</a></li>
+<li>"<a href="/wiki/Spiritual_but_not_religious" title="Spiritual but not religious">Spiritual but not religious</a>"</li>
+<li><a href="/wiki/Syncretism" title="Syncretism">Syncretism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Spiritual experience</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;">
+<ul><li><a href="/wiki/Mystical_experience" class="mw-redirect" title="Mystical experience">Mystical experience</a></li>
+<li><a href="/wiki/Religious_experience" title="Religious experience">Religious experience</a></li>
+<li><a href="/wiki/Spiritual_practice" title="Spiritual practice">Spiritual practice</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Spiritual development</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;">
+<ul><li><a href="/wiki/Ego_death" title="Ego death">Ego death</a></li>
+<li><a href="/wiki/Individuation" title="Individuation">Individuation</a></li>
+<li><a href="/wiki/Spiritual_development" title="Spiritual development">Spiritual development</a></li>
+<li><a href="/wiki/Self-actualization" title="Self-actualization">Self-actualization</a></li></ul></div></div></td>
+</tr><tr><th style="padding:0.1em;font-size:120%;padding-bottom:0.35em;">
+Influences</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Western</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;"><b>General</b>
+<ul><li><a href="/wiki/Divine_illumination" title="Divine illumination">Divine illumination</a></li>
+<li><a href="/wiki/Panpsychism" title="Panpsychism">Panpsychism</a></li>
+<li><a href="/wiki/Pantheism" title="Pantheism">Pantheism</a></li></ul>
+<p><b>Antiquity</b>
+</p>
+<ul><li><a href="/wiki/Gnosticism" title="Gnosticism">Gnosticism</a></li>
+<li><a href="/wiki/Hermeticism" title="Hermeticism">Hermeticism</a></li>
+<li><a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonism</a></li>
+<li><a href="/wiki/Western_esotericism" title="Western esotericism">Western esotericism</a></li></ul>
+<p><b>Medieval</b>
+</p>
+<ul><li><a href="/wiki/Mysticism" title="Mysticism">Mysticism</a></li></ul>
+<p><b>Early modern</b>
+</p>
+<ul><li><a href="/wiki/Perennial_philosophy" title="Perennial philosophy">Perennial philosophy</a></li>
+<li><a href="/wiki/Jakob_B%C3%B6hme" title="Jakob Böhme">Jakob Böhme</a></li>
+<li><a href="/wiki/Emanuel_Swedenborg" title="Emanuel Swedenborg">Emanuel Swedenborg</a></li>
+<li><a href="/wiki/Pietism" title="Pietism">Pietism</a></li></ul>
+<p><b>Modern</b>
+</p>
+<ul><li><a href="/wiki/Romanticism" title="Romanticism">Romanticism</a></li>
+<li><a href="/wiki/German_idealism" title="German idealism">German idealism</a></li>
+<li><a href="/wiki/Liberal_Christianity" title="Liberal Christianity">Liberal Christianity</a></li>
+<li><a href="/wiki/Transcendentalism" title="Transcendentalism">Transcendentalism</a></li>
+<li><a href="/wiki/Universalism" title="Universalism">Universalism</a></li>
+<li><a href="/wiki/New_Thought" title="New Thought">New Thought</a></li>
+<li><a href="/wiki/Theosophy_(Boehmian)" title="Theosophy (Boehmian)">Theosophy</a></li>
+<li><a href="/wiki/Anthroposophy" title="Anthroposophy">Anthroposophy</a></li>
+<li><a href="/wiki/Occultism" class="mw-redirect" title="Occultism">Occultism</a></li>
+<li><a href="/wiki/Spiritualism" title="Spiritualism">Spiritualism</a></li>
+<li><a href="/wiki/Esoteric_Christianity" title="Esoteric Christianity">Esoteric Christianity</a></li>
+<li><a href="/wiki/New_Age" title="New Age">New Age</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Orientalist</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;">
+<ul><li><a href="/wiki/Comparative_religion" title="Comparative religion">Comparative religion</a></li>
+<li><a href="/wiki/Neo-Advaita" title="Neo-Advaita">Neo-Advaita</a></li>
+<li><a href="/wiki/Nondualism" title="Nondualism">Nondualism</a></li>
+<li><a href="/wiki/Orientalism" title="Orientalism">Orientalism</a></li>
+<li><a href="/wiki/Theosophical_Society" title="Theosophical Society">Theosophical Society</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Asian</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;"><b>Pre-historic</b>
+<ul><li><a href="/wiki/Proto-Indo-Iranian_religion" class="mw-redirect" title="Proto-Indo-Iranian religion">Proto-Indo-Iranian religion</a></li></ul>
+<p><b>Iran</b>
+</p>
+<ul><li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a></li></ul>
+<p><b>India</b>
+</p>
+<ul><li><a href="/wiki/Advaita_Vedanta" title="Advaita Vedanta">Advaita Vedanta</a></li>
+<li><a href="/wiki/Buddha-nature" title="Buddha-nature">Buddha-nature</a></li>
+<li><a href="/wiki/Enlightenment_(spiritual)" title="Enlightenment (spiritual)">Enlightenment</a></li>
+<li><a href="/wiki/Madhyamaka" title="Madhyamaka">Madhyamaka</a></li>
+<li><a href="/wiki/Neo-Vedanta" title="Neo-Vedanta">Neo-Vedanta</a></li>
+<li><a href="/wiki/Tantra" title="Tantra">Tantra</a></li>
+<li><a href="/wiki/Yoga" title="Yoga">Yoga</a></li>
+<li><a href="/wiki/Yogachara" title="Yogachara">Yogachara</a></li></ul>
+<p><b>East-Asia</b>
+</p>
+<ul><li><a href="/wiki/Taoism" title="Taoism">Taoism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Other non-western</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;">
+<ul><li><a href="/wiki/Animism" title="Animism">Animism</a></li>
+<li><a href="/wiki/Shamanism" title="Shamanism">Shamanism</a></li>
+<li><a href="/wiki/Totem" title="Totem">Totemism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Psychological</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;">
+<ul><li><a href="/wiki/Humanistic_psychology" title="Humanistic psychology">Humanistic psychology</a></li>
+<li><a href="/wiki/Mindfulness" title="Mindfulness">Mindfulness</a></li>
+<li><a href="/wiki/Positive_psychology" title="Positive psychology">Positive psychology</a></li>
+<li><a href="/wiki/Self-help" title="Self-help">Self-help</a></li>
+<li><a href="/wiki/Self-realization" title="Self-realization">Self-realization</a></li>
+<li><a href="/wiki/True_self_and_false_self" title="True self and false self">True self and false self</a></li></ul></div></div></td>
+</tr><tr><th style="padding:0.1em;font-size:120%;padding-bottom:0.35em;">
+Research</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Neurological</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:none;">
+<ul><li><a href="/wiki/Mystical_psychosis" title="Mystical psychosis">Mystical psychosis</a></li>
+<li><a class="mw-selflink selflink">Cognitive science of religion</a></li>
+<li><a href="/wiki/Neuroscience_of_religion" title="Neuroscience of religion">Neuroscience of religion</a></li>
+<li><a href="/wiki/Geschwind_syndrome" title="Geschwind syndrome">Geschwind syndrome</a></li>
+<li><a href="/wiki/Evolutionary_psychology_of_religion" title="Evolutionary psychology of religion">Evolutionary psychology of religion</a></li></ul></div></div></td>
+</tr><tr><td class="hlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border:none;padding-bottom:0.35em;">
+<ul><li><a href="/wiki/Category:Spirituality" title="Category:Spirituality">Category</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Spirituality_sidebar" title="Template:Spirituality sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Spirituality_sidebar" title="Template talk:Spirituality sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Spirituality_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Cognitive science of religion</b> is the study of religious thought and behavior from the perspective of the cognitive and evolutionary sciences. The field employs methods and theories from a very broad range of disciplines, including: <a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive psychology</a>, <a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">evolutionary psychology</a>, <a href="/wiki/Cognitive_anthropology" title="Cognitive anthropology">cognitive anthropology</a>, <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, <a href="/wiki/Neurotheology" class="mw-redirect" title="Neurotheology">neurotheology</a>, <a href="/wiki/Developmental_psychology" title="Developmental psychology">developmental psychology</a>, and <a href="/wiki/Archaeology" title="Archaeology">archaeology</a>.  Scholars in this field seek to explain how human minds acquire, generate, and transmit religious thoughts, practices, and schemas by means of ordinary cognitive capacities.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Theoretical_basis"><span class="tocnumber">2</span> <span class="toctext">Theoretical basis</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Main_concepts"><span class="tocnumber">3</span> <span class="toctext">Main concepts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Cognitive_byproduct"><span class="tocnumber">3.1</span> <span class="toctext">Cognitive byproduct</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Minimally_counterintuitive_concepts"><span class="tocnumber">3.2</span> <span class="toctext">Minimally counterintuitive concepts</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Hyperactive_agency_detection_device"><span class="tocnumber">3.3</span> <span class="toctext">Hyperactive agency detection device</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Pro-social_adaptation"><span class="tocnumber">3.4</span> <span class="toctext">Pro-social adaptation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Costly_signaling"><span class="tocnumber">3.5</span> <span class="toctext">Costly signaling</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Dual_inheritance"><span class="tocnumber">3.6</span> <span class="toctext">Dual inheritance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although religion has been the subject of serious scientific study since at least the late nineteenth century, the study of religion as a cognitive phenomenon is relatively recent. While it often relies upon earlier research within <a href="/wiki/Anthropology_of_religion" title="Anthropology of religion">anthropology of religion</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and <a href="/wiki/Sociology_of_religion" title="Sociology of religion">sociology of religion</a>, cognitive science of religion considers the results of that work within the context of evolutionary and cognitive theories. As such, cognitive science of religion was only made possible by the <a href="/wiki/Cognitive_revolution" title="Cognitive revolution">cognitive revolution</a> of the 1950s and the development, starting in the 1970s, of <a href="/wiki/Sociobiology" title="Sociobiology">sociobiology</a> and other approaches explaining human behaviour in evolutionary terms, especially <a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">evolutionary psychology</a>.
+</p><p>While <a href="/wiki/Dan_Sperber" title="Dan Sperber">Dan Sperber</a> foreshadowed cognitive science of religion in his 1975 book <i>Rethinking Symbolism</i>, the earliest research to fall within the scope of the discipline was published during the 1980s. Among this work, <a href="/w/index.php?title=Stewart_E._Guthrie&amp;action=edit&amp;redlink=1" class="new" title="Stewart E. Guthrie (page does not exist)">Stewart E. Guthrie</a>'s <a rel="nofollow" class="external text" href="https://www.academia.edu/209728/A_Cognitive_Theory_of_Religion">"A cognitive theory of religion"</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> was significant for examining the significance of anthropomorphism within religion, work that ultimately led to the development of the concept of the <a href="/wiki/Hyperactive_agency_detection_device" class="mw-redirect" title="Hyperactive agency detection device">hyperactive agency detection device</a> – a key concept within cognitive science of religion.
+</p><p>The real beginning of cognitive science of religion can be dated to the 1990s, however. During that decade a large number of highly influential books and articles were published which helped to lay the foundations of cognitive science of religion. These included <i>Rethinking Religion: Connecting Cognition and Culture</i> and <i>Bringing Ritual to Mind: Psychological Foundations of Cultural Forms</i> by <a href="/wiki/E._Thomas_Lawson" title="E. Thomas Lawson">E. Thomas Lawson</a> and <a href="/w/index.php?title=Robert_McCauley&amp;action=edit&amp;redlink=1" class="new" title="Robert McCauley (page does not exist)">Robert McCauley</a>, <i>Naturalness of Religious Ideas</i> by <a href="/wiki/Pascal_Boyer" title="Pascal Boyer">Pascal Boyer</a>, <i>Inside the Cult</i> and <i>Arguments and Icons</i>&#160;by&#160;<a href="/wiki/Harvey_Whitehouse" title="Harvey Whitehouse">Harvey Whitehouse</a>, and Guthrie's book-length development of his earlier theories in <i>Faces in the Clouds</i>. In the 1990s, these and other researchers, who had been working independently in a variety of different disciplines, discovered each other's work and found valuable parallels between their approaches, with the result that something of a self-aware research tradition began to coalesce. By 2000, the field was well-enough defined for <a href="/wiki/Justin_L._Barrett" title="Justin L. Barrett">Justin L. Barrett</a> to coin the term 'cognitive science of religion' in his article <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1016/S1364-6613(99)01419-9">"Exploring the natural foundations of religion"</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Since 2000, cognitive science of religion has grown,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i>&#93;</sup> similarly to other approaches that apply evolutionary thinking to sociological phenomena. Each year more researchers become involved in the field,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i>&#93;</sup> with theoretical and empirical developments proceeding at a very rapid pace. The field remains somewhat loosely defined, bringing together as it does researchers who come from a variety of different traditions. Much of the cohesion in the field comes not from shared detailed theoretical commitments but from a general willingness to view religion in cognitive and evolutionary terms as well as from the willingness to engage with the work of the others developing this field. A vital role in bringing together researchers is played by the <a href="/wiki/International_Association_for_the_Cognitive_Science_of_Religion" title="International Association for the Cognitive Science of Religion">International Association for the Cognitive Science of Religion</a>, formed in 2006.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Theoretical_basis">Theoretical basis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=2" title="Edit section: Theoretical basis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Evolutionary_psychology_of_religion" title="Evolutionary psychology of religion">Evolutionary psychology of religion</a></div>
+<p>Despite a lack of agreement concerning the theoretical basis for work in cognitive science of religion, it is possible to outline some tendencies. Most significant of these is reliance upon the theories developed within <a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">evolutionary psychology</a>. That particular approach to evolutionary explanations of human behaviour is particularly suitable to the cognitive byproduct explanation of religion that is most popular among cognitive scientists of religion.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> This is because of the focus on byproduct and ancestral trait explanations within evolutionary psychology. A particularly significant concept associated with this approach is <a href="/wiki/Modularity_of_mind" title="Modularity of mind">modularity of mind</a>, used as it is to underpin accounts of the mental mechanisms seen to be responsible for religious beliefs. Important examples of work that falls under this rubric are provided by research carried out by <a href="/wiki/Pascal_Boyer" title="Pascal Boyer">Pascal Boyer</a> and <a href="/wiki/Justin_L._Barrett" title="Justin L. Barrett">Justin L. Barrett</a>.
+</p><p>These theoretical commitments are not shared by all cognitive scientists of religion, however. Ongoing debates regarding the comparative advantages of different evolutionary explanations for human behaviour<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> find a reflection within cognitive science of religion with <a href="/wiki/Dual_inheritance_theory" title="Dual inheritance theory">dual inheritance theory</a> recently gaining adherents among researchers in the field, including <a href="/w/index.php?title=Armin_Geertz&amp;action=edit&amp;redlink=1" class="new" title="Armin Geertz (page does not exist)">Armin Geertz</a> and <a href="/w/index.php?title=Ara_Norenzayan&amp;action=edit&amp;redlink=1" class="new" title="Ara Norenzayan (page does not exist)">Ara Norenzayan</a>. The perceived advantage of this theoretical framework is its ability to deal with more complex interactions between cognitive and cultural phenomena, but it comes at the cost of experimental design having to take into consideration a richer range of possibilities.
+</p>
+<h2><span class="mw-headline" id="Main_concepts">Main concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=3" title="Edit section: Main concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Cognitive_byproduct">Cognitive byproduct</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=4" title="Edit section: Cognitive byproduct">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The view that religious beliefs and practices should be understood as nonfunctional but as produced by human cognitive mechanisms that are functional outside of the context of religion. Examples of this are the hyperactive <a href="/wiki/Agent_detection" title="Agent detection">agent detection</a> device and the minimally counterintuitive concepts<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> or the process of initiation<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> explaining <a href="/wiki/Buddhism" title="Buddhism">buddhism</a> and <a href="/wiki/Taoism" title="Taoism">taoism</a>. The cognitive byproduct explanation of religion is an application of the concept of <a href="/wiki/Spandrel_(biology)" title="Spandrel (biology)">spandrel (biology)</a> and of the concept of  <a href="/wiki/Exaptation" title="Exaptation">exaptation</a> explored by <a href="/wiki/Stephen_Jay_Gould" title="Stephen Jay Gould">Stephen Jay Gould</a> among others.
+</p>
+<h3><span class="mw-headline" id="Minimally_counterintuitive_concepts">Minimally counterintuitive concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=5" title="Edit section: Minimally counterintuitive concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Concepts that mostly fit human preconceptions but break with them in one or two striking ways. These concepts are both easy to remember (thanks to the counterintuitive elements) and easy to use (thanks to largely agreeing with what people expect). Examples include talking trees and noncorporeal agents. <a href="/wiki/Pascal_Boyer" title="Pascal Boyer">Pascal Boyer</a> argues that many religious entities fit into this category.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Upal<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> labelled the fact that minimally counterintuitive ideas are better remembered than intuitive and maximally counterintuitive ideas as <a href="/wiki/The_minimal_counterintuitiveness_effect" title="The minimal counterintuitiveness effect">the minimal counterintuitiveness effect</a> or the MCI-effect.
+</p>
+<h3><span class="mw-headline" id="Hyperactive_agency_detection_device">Hyperactive agency detection device</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=6" title="Edit section: Hyperactive agency detection device">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Cognitive_scientist" class="mw-redirect" title="Cognitive scientist">Cognitive scientist</a> <a href="/wiki/Justin_L._Barrett" title="Justin L. Barrett">Justin L. Barrett</a> postulates that this mental mechanism, whose function is to identify the activity of agents, may contribute to belief in the presence of the supernatural. Given the relative costs of failing to spot an agent, the mechanism is said to be hyperactive, producing a large number of <a href="/wiki/Type_I_and_type_II_errors" title="Type I and type II errors">false positive errors</a>. <a href="/w/index.php?title=Stewart_E._Guthrie_(scientist)&amp;action=edit&amp;redlink=1" class="new" title="Stewart E. Guthrie (scientist) (page does not exist)">Stewart E. Guthrie</a> and others have claimed these errors can explain the appearance of supernatural concepts.
+</p>
+<h3><span class="mw-headline" id="Pro-social_adaptation">Pro-social adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=7" title="Edit section: Pro-social adaptation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to the prosocial adaptation account of religion, religious beliefs and practices should be understood as having the function of eliciting adaptive prosocial behaviour and avoiding the <a href="/wiki/Free_rider_problem" class="mw-redirect" title="Free rider problem">free rider problem</a>. Within the cognitive science of religion this approach is primarily pursued by <a href="/w/index.php?title=Richard_Sosis&amp;action=edit&amp;redlink=1" class="new" title="Richard Sosis (page does not exist)">Richard Sosis</a>. <a href="/wiki/David_Sloan_Wilson" title="David Sloan Wilson">David Sloan Wilson</a> is another major proponent of this approach and interprets religion as a group-level adaptation, but his work is generally seen as falling outside the cognitive science of religion.
+</p>
+<h3><span class="mw-headline" id="Costly_signaling">Costly signaling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=8" title="Edit section: Costly signaling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Practices that, due to their inherent cost, can be relied upon to provide an <a href="/wiki/Signalling_theory#Human_honest_signals" title="Signalling theory">honest signal</a> regarding the intentions of the agent. <a href="/w/index.php?title=Richard_Sosis&amp;action=edit&amp;redlink=1" class="new" title="Richard Sosis (page does not exist)">Richard Sosis</a> has suggested that religious practices can be explained as costly signals of the willingness to cooperate. A similar line of argument has been pursued by <a href="/w/index.php?title=Lyle_Steadman&amp;action=edit&amp;redlink=1" class="new" title="Lyle Steadman (page does not exist)">Lyle Steadman</a> and <a href="/w/index.php?title=Craig_Palmer&amp;action=edit&amp;redlink=1" class="new" title="Craig Palmer (page does not exist)">Craig Palmer</a>. Alternatively, D. Jason Slone has argued that religiosity may be a costly signal used as a <a href="/wiki/Mating_strategy" class="mw-redirect" title="Mating strategy">mating strategy</a> in so far as religiosity serves as a proxy for "family values."
+</p>
+<h3><span class="mw-headline" id="Dual_inheritance">Dual inheritance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=9" title="Edit section: Dual inheritance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the context of cognitive science of religion, dual inheritance theory can be understood as attempting to combine the cognitive byproduct and prosocial adaptation accounts using the theoretical approach developed by <a href="/wiki/Robert_Boyd_(anthropologist)" title="Robert Boyd (anthropologist)">Robert Boyd</a> and <a href="/wiki/Peter_Richerson" title="Peter Richerson">Peter Richerson</a>, among others. The basic view is that while belief in supernatural entities is a cognitive byproduct, cultural traditions have recruited such beliefs to motivate prosocial behaviour. A sophisticated statement of this approach can be found in <a href="/wiki/Scott_Atran" title="Scott Atran">Scott Atran</a> and <a href="/wiki/Joseph_Henrich" title="Joseph Henrich">Joseph Henrich</a> (2010) <a rel="nofollow" class="external text" href="http://www.mitpressjournals.org/doi/pdf/10.1162/BIOT_a_00018">"The Evolution of Religion: How Cognitive By-Products, Adaptive Learning Heuristics, Ritual Displays, and Group Competition Generate Deep Commitments to Prosocial Religions"</a> <i>Biological Theory</i> 5.1.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Psychology of religion</a></li>
+<li><a href="/wiki/International_Association_for_the_Cognitive_Science_of_Religion" title="International Association for the Cognitive Science of Religion">International Association for the Cognitive Science of Religion</a> (<a href="/wiki/IACSR" class="mw-redirect" title="IACSR">IACSR</a>)</li>
+<li><a href="/wiki/Science_and_Religion" class="mw-redirect" title="Science and Religion">Science and Religion</a></li>
+<li><a href="/wiki/Evolutionary_epistemology" title="Evolutionary epistemology">Evolutionary epistemology</a></li>
+<li><a href="/wiki/Evolutionary_origin_of_religions" title="Evolutionary origin of religions">Evolutionary origin of religions</a></li>
+<li><a href="/wiki/Evolutionary_psychology_of_religion" title="Evolutionary psychology of religion">Evolutionary psychology of religion</a></li>
+<li><a href="/wiki/Neurotheology" class="mw-redirect" title="Neurotheology">Neurotheology</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Geertz C. (1966) "Religion as cultural system" In: Banton, M. (ed) <i>Anthropological approaches to the study of religion</i> London: Tavistock p 1-46</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Current Anthropology</i> 21 (2) 1980, pp. 181-203.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barrett, Justin (1 January 2000). "Exploring the natural foundations of religion". <i>Trends in Cognitive Sciences</i>. <b>4</b> (1): 29–34. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS1364-6613%2899%2901419-9">10.1016/S1364-6613(99)01419-9</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10637620">10637620</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Trends+in+Cognitive+Sciences&amp;rft.atitle=Exploring+the+natural+foundations+of+religion&amp;rft.volume=4&amp;rft.issue=1&amp;rft.pages=29-34&amp;rft.date=2000-01-01&amp;rft_id=info%3Adoi%2F10.1016%2FS1364-6613%2899%2901419-9&amp;rft_id=info%3Apmid%2F10637620&amp;rft.aulast=Barrett&amp;rft.aufirst=Justin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+science+of+religion" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pyysiäinen, Ilkka and Marc Hauser (March 2010). "The origins of religion&#160;: evolved adaptation or by-product?". <i>Trends in Cognitive Sciences</i>. <b>14</b> (3): 104–09. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.tics.2009.12.007">10.1016/j.tics.2009.12.007</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20149715">20149715</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Trends+in+Cognitive+Sciences&amp;rft.atitle=The+origins+of+religion+%3A+evolved+adaptation+or+by-product%3F&amp;rft.volume=14&amp;rft.issue=3&amp;rft.pages=104-09&amp;rft.date=2010-03&amp;rft_id=info%3Adoi%2F10.1016%2Fj.tics.2009.12.007&amp;rft_id=info%3Apmid%2F20149715&amp;rft.aulast=Pyysi%C3%A4inen&amp;rft.aufirst=Ilkka+and+Marc+Hauser&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+science+of+religion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">See Laland K. and Brown D. (2002) <i>Sense and Nonsense: Evolutionary Perspectives on Human Behavior</i> Oxford: Oxford University Press for overview.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.icea.ox.ac.uk/fileadmin/CAM/dMinimalcounterintuitiveness.pdf">Minimal counterintuitiveness</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.academia.edu/663726/Oliver_Kress_-_A_new_approach_to_cognitive_development_ontogenesis_and_the_process_of_initiation">Kress, Oliver (1993). "A new approach to cognitive development: ontogenesis and the process of initiation". Evolution and Cognition 2(4): 319-332.</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Boyer, Pascal. <i>The Naturalness of Religious Ideas</i> University of California Press, 1994.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Upal, M. A. (2010). "An Alternative View of the Minimal Counterintuitiveness Effect", <i>Journal of Cognitive Systems Research</i>, 11(2), 194-203.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li>Atran, S., &amp; Norenzayan, A. (2004). "Religion's evolutionary landscape: Counterintuition, commitment, compassion, communion". <i>Behavioral and Brain Sciences</i> 27, 713-770.</li>
+<li>Barrett, J.L. "Cognitive Science of Religion: What Is It and Why Is It?" <i>Religion Compass</i> 2007, vol 1.</li>
+<li>Barrett, J.L. "Exploring the Natural Foundations of Religion." <i>Trends in Cognitive Sciences</i> 2000, vol. 4 pp 29–34</li>
+<li>Barrett, J.L. <i>Why Would Anyone Believe in God?</i> AltaMira Press, 2004.</li>
+<li>Barrett, J.L. and Jonathan A. Lanman. "The Science of Religious Beliefs." <i>Religion</i> 38, 2008. 109-124</li>
+<li>Barrett, Nathaniel F. <i><a rel="nofollow" class="external text" href="https://www.academia.edu/2550582/Toward_an_alternative_evolutionary_theory_of_religion_looking_past_computational_evolutionary_psychology_to_a_wider_field_of_possibilities">Toward an Alternative Evolutionary Theory of Religion: Looking Past Computational Evolutionary Psychology to a Wider Field of Possibilities.</a></i> Journal of the American Academy of Religion, September 2010, Vol. 78, No. 3, pp.&#160;583–621.</li>
+<li>Boyer, Pascal. <i>The Naturalness of Religious Ideas</i> University of California Press, 1994.</li>
+<li>Boyer, Pascal. <i>Religion Explained: The Evolutionary Origins of Religious Thought</i> Basic Books, 2001</li>
+<li>Boyer, Pascal. "Religious Thought and Behavior as By-Products of Brain Functions," <i>Trends in Cognitive Sciences</i> 7, pp 119–24</li>
+<li>Boyer, P and Liénard, P. "Why ritualized behavior? Precaution Systems and action parsing in developmental, pathological and cultural rituals .<i>Behavioral and Brain Sciences</i>  29: 595-650.</li>
+<li>Cohen, E. <i>The Mind Possessed. The Cognition of Spirit Possession in the Afro-Brazilian Religious Tradition</i> Oxford University Press.</li>
+<li>De Cruz, Helen &amp; De Smedt, Johan. (2015). "A natural history of natural theology. The Cognitive Science of Theology and Philosophy of Religion." MIT Press, 2015.</li>
+<li>Geertz, Armin W. (2004). "Cognitive Approaches to the Study of Religion," in P. Antes, A.W. Geertz, R.R. Warne (Eds.) <i>New Approaches to the Study of Religion Volume 2: Textual, Comparative, Sociological, and Cognitive Approaches</i>. Berlin: Walter de Gruyter, pp.&#160;347–399.</li>
+<li>Geertz, Armin W. (2008). "From Apes to Devils and Angels: Comparing Scenarios on the Evolution of Religion," in J. Bulbulia et al. (Eds.) <i>The Evolution of Religion: Studies, Theories, &amp; Critiques</i> Santa Margarita: Collins Foundation Press, pp.&#160;43–49.</li>
+<li>Guthrie, S. E. (1993). '<i>Faces in the Clouds: A new theory of religion</i>  New York: Oxford University Press.</li>
+<li>Knight, N., Sousa, P., Barrett, J. L., &amp; Atran, S. (2004). "Children’s attributions of beliefs to humans and God". <i>Cognitive Science</i> 28(1): 117-126.</li>
+<li>Kress, O. (1993). "A new approach to cognitive development: ontogenesis and the process of initiation". <i>Evolution and Cognition</i> 2(4): 319-332.</li>
+<li>Lawson, E. T. "Toward a Cognitive Science of Religion." <i>Numen</i> 47(3): 338-349(12).</li>
+<li>Lawson, E. T. "Religious Thought."  <i>Encyclopedia of Cognitive Science</i> vol 3 (A607).</li>
+<li>Lawson, E. T. and McCauley, RN. <i>Rethinking Religion: Connecting Cognition and Culture</i> Cambridge University Press, 1990.</li>
+<li>Legare, C. and Gelman, S. "Bewitchment, Biology, or Both: The Co-existence of Natural and Supernatural Explanatory Frameworks Across Development." <i>Cognitive Science</i>  32(4): 607-642.</li>
+<li>Light, T and Wilson, B (eds). <i>Religion as a Human Capacity: A Festschrift in Honor of E. Thomas Lawson</i> Brill, 2004.</li>
+<li>McCauley, RN. "The Naturalness of Religion and the Unnaturalness of Science."  <i>Explanation and Cognition</i> (Keil and Wilson eds), pp 61–85. MIT Press, 2000.</li>
+<li>McCauley, RN and Lawson, E. T. <i>Bringing Ritual to Mind: Psychological Foundations of Cultural Forms</i> Cambridge University Press, 2002.</li>
+<li>McCorkle Jr., William W. <i>Ritualizing the Disposal of the Deceased: From Corpse to Concept</i> Peter Lang, 2010.</li>
+<li>Norenzayan, A., Atran, S., Faulkner, J., &amp; Schaller, M. (2006). "Memory and mystery: The cultural selection of minimally counterintuitive narratives". <i>Cognitive Science</i> 30, 531-553.</li>
+<li>Nuckolls, C. "Boring Rituals," <i>Journal of Ritual Studies</i> 2006.</li>
+<li>Pyysiäinen, I. <i>How Religion Works: Towards a New Cognitive Science of Religion</i> Brill, 2001.</li>
+<li>Slone, DJ. <i>Theological Incorrectness: Why Religious People Believe What They Shouldn't</i> Oxford University Press, 2004.</li>
+<li>Slone, DJ (ed). <i>Religion and Cognition: A Reader</i> Equinox Press, 2006.</li>
+<li>Slone, DJ, and Van Slyke, J. <i>The Attraction of Religion</i>. Bloomsbury Academic Press. 2015.</li>
+<li>Sørensen, J. "A Cognitive Theory of Magic." AltaMira Press, 2006.</li>
+<li>Sperber, D. <i>Rethinking Symbolism</i> Cambridge University Press, 1975.</li>
+<li>Sperber, D. <i>Explaining Culture</i> Blackwell Publishers, 1996.</li>
+<li>Talmont-Kaminski, K. (2013). <i>Religion as Magical Ideology: How the Supernatural Reflects Rationality</i> Durham: Acumen.</li>
+<li>Taves, A. "Religious Experience Reconsidered: A Building Block Approach to the Study of Religion and Other Special Things" Princeton University Press, 2011.</li>
+<li>Tremlin, T. <i>Minds and Gods: The Cognitive Foundations of Religion</i> Oxford University Press, 2006.</li>
+<li>Upal, M. A. (2005). "Towards a Cognitive Science of New Religious Movements," <i>Cognition and Culture</i>, 5(2), 214-239.</li>
+<li>Upal, M. A., Gonce, L., Tweney, R., and Slone, J. (2007). Contextualizing counterintuitiveness: How Context Affects Comprehension and Memorability of Counterintuitive Concepts, Cognitive Science, 31(3), 415-439.</li>
+<li>Whitehouse, H. (1995).  <i>Inside the Cult: Religious innovation and transmission in Papua New Guinea</i>  Oxford: Clarendon Press.</li>
+<li>Whitehouse, H. (1996a). "Apparitions, orations, and rings: Experience of spirits" in Dadul. Jeannette Mageo and Alan Howard (eds). <i>Spirits in Culture, History, and Mind</i> New York: Routledge.</li>
+<li>Whitehouse, H. (1996b).  "Rites of terror: Emotion, metaphor, and memory in Melanesian initiation cults"  <i>Journal of the Royal Anthropological Institute</i> 2, 703-715.</li>
+<li>Whitehouse, H. (2000).  <i>Arguments and Icons: Divergent modes of religiosity</i> Oxford: Oxford University Press.</li>
+<li>Whitehouse, H. (2004). <i>Modes of Religiosity: a cognitive theory of religious transmission</i> Walnut Creek, CA: AltaMira Press.</li>
+<li>Xygalatas, D and McCorkle Jr., W.W. (eds). <i>Mental Culture: Classical Social Theory and The Cognitive Science of Religion</i> Durham: Acumen.</li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.religiousstudiesproject.com/podcast/religion-as-anthropomorphism-an-interview-with-stewart-guthrie/">Religion as Anthropomorphism with Stewart Guthrie.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.religiousstudiesproject.com/podcast/religion-is-natural-and-science-is-not-an-interview-with-robert-mccauley/">Religion is Natural and Science is Not with Robert McCauley.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.religiousstudiesproject.com/podcast/gods-mind-your-mind-and-theory-of-mind/">God's Mind, Your Mind, and Theory of Mind with Will Gervais.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.religiousstudiesproject.com/podcast/method-and-theory-in-the-cognitive-sciences-of-religion/">Method and Theory in the Cognitive Sciences of Religion with Robert McCauley.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.religiousstudiesproject.com/podcast/practice-what-you-preach-creds-and-cruds/">"Practice What You Preach"&#160;: CREDs and CRUDs with Jonathan Lanman.</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Evolutionary_psychology" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Evolutionary_psychology" title="Template:Evolutionary psychology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Evolutionary_psychology" title="Template talk:Evolutionary psychology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Evolutionary_psychology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Evolutionary_psychology" style="font-size:114%;margin:0 4em"><a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">Evolutionary psychology</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;">Processes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Reciprocal_altruism" title="Reciprocal altruism">Altruism</a></li>
+<li><a href="/wiki/Group_selection" title="Group selection">Group selection</a></li>
+<li><a href="/wiki/Kin_selection" title="Kin selection">Kin selection</a></li>
+<li><a href="/wiki/Sexual_selection_in_humans" title="Sexual selection in humans">Sexual selection</a></li>
+<li><a href="/wiki/Sociobiology" title="Sociobiology">Sociobiology</a></li>
+<li><a href="/wiki/Coevolution" title="Coevolution">Coevolution</a></li>
+<li><a href="/wiki/Evolutionarily_stable_strategy" title="Evolutionarily stable strategy">Evolutionarily stable strategy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;">Areas</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Evolutionary_developmental_psychology" title="Evolutionary developmental psychology">Psychological development</a></li>
+<li><a href="/wiki/Evolution_of_morality" title="Evolution of morality">Morality</a></li>
+<li><a href="/wiki/Evolutionary_psychology_of_religion" title="Evolutionary psychology of religion">Religion</a></li>
+<li><a href="/wiki/Evolutionary_approaches_to_depression" title="Evolutionary approaches to depression">Depression</a></li>
+<li><a href="/wiki/Evolutionary_educational_psychology" title="Evolutionary educational psychology">Educational psychology</a></li>
+<li><a href="/wiki/Evolutionary_aesthetics" title="Evolutionary aesthetics">Evolutionary aesthetics</a></li>
+<li><a href="/wiki/Evolutionary_musicology" title="Evolutionary musicology">Music</a></li>
+<li><a href="/wiki/Darwinian_literary_studies" title="Darwinian literary studies">Darwinian literary studies</a></li>
+<li><a href="/wiki/Evolution_of_emotion" title="Evolution of emotion">Evolution of emotion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;"><a href="/wiki/Biology" title="Biology">Biologists</a>/<br /><a href="/wiki/Neuroscience" title="Neuroscience">Neuroscientists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Crook_(ethologist)" title="John Crook (ethologist)">John Crook</a></li>
+<li><a href="/wiki/Charles_Darwin" title="Charles Darwin">Charles Darwin</a></li>
+<li><a href="/wiki/Richard_Dawkins" title="Richard Dawkins">Richard Dawkins</a></li>
+<li><a href="/wiki/Jared_Diamond" title="Jared Diamond">Jared Diamond</a></li>
+<li><a href="/wiki/W._D._Hamilton" title="W. D. Hamilton">W. D. Hamilton</a></li>
+<li><a href="/wiki/Peter_Kropotkin" title="Peter Kropotkin">Peter Kropotkin</a></li>
+<li><a href="/wiki/Gordon_Orians" title="Gordon Orians">Gordon Orians</a></li>
+<li><a href="/wiki/Jaak_Panksepp" title="Jaak Panksepp">Jaak Panksepp</a></li>
+<li><a href="/wiki/Margie_Profet" title="Margie Profet">Margie Profet</a></li>
+<li><a href="/wiki/Giacomo_Rizzolatti" title="Giacomo Rizzolatti">Giacomo Rizzolatti</a></li>
+<li><a href="/wiki/Randy_Thornhill" title="Randy Thornhill">Randy Thornhill</a></li>
+<li><a href="/wiki/Robert_Trivers" title="Robert Trivers">Robert Trivers</a></li>
+<li><a href="/wiki/Carel_van_Schaik" title="Carel van Schaik">Carel van Schaik</a></li>
+<li><a href="/wiki/Claus_Wedekind" title="Claus Wedekind">Claus Wedekind</a></li>
+<li><a href="/wiki/Wolfgang_Wickler" title="Wolfgang Wickler">Wolfgang Wickler</a></li>
+<li><a href="/wiki/David_Sloan_Wilson" title="David Sloan Wilson">David Sloan Wilson</a></li>
+<li><a href="/wiki/E._O._Wilson" title="E. O. Wilson">E. O. Wilson</a></li>
+<li><a href="/wiki/George_C._Williams_(biologist)" title="George C. Williams (biologist)">George C. Williams</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;"><a href="/wiki/Anthropology" title="Anthropology">Anthropologists</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jerome_H._Barkow" title="Jerome H. Barkow">Jerome H. Barkow</a></li>
+<li><a href="/wiki/Robert_Boyd_(anthropologist)" title="Robert Boyd (anthropologist)">Robert Boyd</a></li>
+<li><a href="/wiki/Napoleon_Chagnon" title="Napoleon Chagnon">Napoleon Chagnon</a></li>
+<li><a href="/wiki/Gregory_Cochran" title="Gregory Cochran">Gregory Cochran</a></li>
+<li><a href="/wiki/Robin_Dunbar" title="Robin Dunbar">Robin Dunbar</a></li>
+<li><a href="/wiki/Daniel_Fessler" title="Daniel Fessler">Daniel Fessler</a></li>
+<li><a href="/wiki/Mark_Flinn" title="Mark Flinn">Mark Flinn</a></li>
+<li><a href="/wiki/Henry_Harpending" title="Henry Harpending">Henry Harpending</a></li>
+<li><a href="/wiki/John_D._Hawks" title="John D. Hawks">John D. Hawks</a></li>
+<li><a href="/wiki/Joseph_Henrich" title="Joseph Henrich">Joseph Henrich</a></li>
+<li><a href="/wiki/Ruth_Mace" title="Ruth Mace">Ruth Mace</a></li>
+<li><a href="/wiki/Daniel_Nettle" title="Daniel Nettle">Daniel Nettle</a></li>
+<li><a href="/wiki/Frank_Salter" title="Frank Salter">Frank Salter</a></li>
+<li><a href="/wiki/Stephen_Shennan" title="Stephen Shennan">Stephen Shennan</a></li>
+<li><a href="/wiki/Donald_Symons" title="Donald Symons">Donald Symons</a></li>
+<li><a href="/wiki/John_Tooby" title="John Tooby">John Tooby</a></li>
+<li><a href="/wiki/Pierre_L._van_den_Berghe" title="Pierre L. van den Berghe">Pierre van den Berghe</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;"><a href="/wiki/Behavioral_economics" title="Behavioral economics">Behavioral economists</a>/<br /><a href="/wiki/Political_science" title="Political science">Political scientists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Samuel_Bowles_(economist)" title="Samuel Bowles (economist)">Samuel Bowles</a></li>
+<li><a href="/wiki/Ernst_Fehr" title="Ernst Fehr">Ernst Fehr</a></li>
+<li><a href="/wiki/Herbert_Gintis" title="Herbert Gintis">Herbert Gintis</a></li>
+<li><a href="/wiki/Dominic_D._P._Johnson" title="Dominic D. P. Johnson">Dominic D. P. Johnson</a></li>
+<li><a href="/wiki/Gad_Saad" title="Gad Saad">Gad Saad</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;"><a href="/wiki/Literary_theory" title="Literary theory">Literary theory</a>/<br /><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Joseph_Carroll_(scholar)" title="Joseph Carroll (scholar)">Joseph Carroll</a></li>
+<li><a href="/wiki/Denis_Dutton" title="Denis Dutton">Denis Dutton</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;"><a href="/wiki/Psychology" title="Psychology">Psychologists</a>/<br /><a href="/wiki/Cognitive_science" title="Cognitive science">Cognitive scientists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Simon_Baron-Cohen" title="Simon Baron-Cohen">Simon Baron-Cohen</a></li>
+<li><a href="/wiki/Justin_L._Barrett" title="Justin L. Barrett">Justin L. Barrett</a></li>
+<li><a href="/wiki/Jay_Belsky" title="Jay Belsky">Jay Belsky</a></li>
+<li><a href="/wiki/David_F._Bjorklund" title="David F. Bjorklund">David F. Bjorklund</a></li>
+<li><a href="/wiki/Paul_Bloom_(psychologist)" title="Paul Bloom (psychologist)">Paul Bloom</a></li>
+<li><a href="/wiki/Pascal_Boyer" title="Pascal Boyer">Pascal Boyer</a></li>
+<li><a href="/wiki/Joseph_Bulbulia" title="Joseph Bulbulia">Joseph Bulbulia</a></li>
+<li><a href="/wiki/David_Buss" title="David Buss">David Buss</a></li>
+<li><a href="/wiki/Josep_Call" title="Josep Call">Josep Call</a></li>
+<li><a href="/wiki/Anne_Campbell_(academic)" title="Anne Campbell (academic)">Anne Campbell</a></li>
+<li><a href="/wiki/Peter_Carruthers_(philosopher)" title="Peter Carruthers (philosopher)">Peter Carruthers</a></li>
+<li><a href="/wiki/Leda_Cosmides" title="Leda Cosmides">Leda Cosmides</a></li>
+<li><a href="/wiki/Martin_Daly_(professor)" title="Martin Daly (professor)">Martin Daly</a></li>
+<li><a href="/wiki/Daniel_Dennett" title="Daniel Dennett">Daniel Dennett</a></li>
+<li><a href="/wiki/Paul_Ekman" title="Paul Ekman">Paul Ekman</a></li>
+<li><a href="/wiki/Anne_Fernald" title="Anne Fernald">Anne Fernald</a></li>
+<li><a href="/wiki/Aurelio_Jos%C3%A9_Figueredo" title="Aurelio José Figueredo">Aurelio José Figueredo</a></li>
+<li><a href="/wiki/David_C._Geary" title="David C. Geary">David C. Geary</a></li>
+<li><a href="/wiki/Gerd_Gigerenzer" title="Gerd Gigerenzer">Gerd Gigerenzer</a></li>
+<li><a href="/wiki/Jonathan_Haidt" title="Jonathan Haidt">Jonathan Haidt</a></li>
+<li><a href="/wiki/Judith_Rich_Harris" title="Judith Rich Harris">Judith Rich Harris</a></li>
+<li><a href="/wiki/Rachel_and_Stephen_Kaplan" title="Rachel and Stephen Kaplan">Stephen Kaplan</a></li>
+<li><a href="/wiki/Douglas_T._Kenrick" title="Douglas T. Kenrick">Douglas T. Kenrick</a></li>
+<li><a href="/wiki/Simon_M._Kirby" title="Simon M. Kirby">Simon M. Kirby</a></li>
+<li><a href="/wiki/Robert_Kurzban" title="Robert Kurzban">Robert Kurzban</a></li>
+<li><a href="/wiki/Michael_T._McGuire" title="Michael T. McGuire">Michael T. McGuire</a></li>
+<li><a href="/wiki/Geoffrey_Miller_(psychologist)" title="Geoffrey Miller (psychologist)">Geoffrey Miller</a></li>
+<li><a href="/wiki/Darcia_Narvaez" title="Darcia Narvaez">Darcia Narvaez</a></li>
+<li><a href="/wiki/Randolph_M._Nesse" title="Randolph M. Nesse">Randolph M. Nesse</a></li>
+<li><a href="/wiki/Steven_Neuberg" title="Steven Neuberg">Steven Neuberg</a></li>
+<li><a href="/wiki/David_Perrett" title="David Perrett">David Perrett</a></li>
+<li><a href="/wiki/Steven_Pinker" title="Steven Pinker">Steven Pinker</a></li>
+<li><a href="/wiki/Paul_Rozin" title="Paul Rozin">Paul Rozin</a></li>
+<li><a href="/wiki/Mark_Schaller" title="Mark Schaller">Mark Schaller</a></li>
+<li><a href="/wiki/David_P._Schmitt" title="David P. Schmitt">David P. Schmitt</a></li>
+<li><a href="/wiki/Todd_K._Shackelford" title="Todd K. Shackelford">Todd K. Shackelford</a></li>
+<li><a href="/wiki/Roger_Shepard" title="Roger Shepard">Roger Shepard</a></li>
+<li><a href="/wiki/Peter_K._Smith" title="Peter K. Smith">Peter K. Smith</a></li>
+<li><a href="/wiki/Dan_Sperber" title="Dan Sperber">Dan Sperber</a></li>
+<li><a href="/wiki/Anthony_Stevens_(Jungian_analyst)" title="Anthony Stevens (Jungian analyst)">Anthony Stevens</a></li>
+<li><a href="/wiki/Frank_Sulloway" title="Frank Sulloway">Frank Sulloway</a></li>
+<li><a href="/wiki/Michael_Tomasello" title="Michael Tomasello">Michael Tomasello</a></li>
+<li><a href="/wiki/Mark_van_Vugt" title="Mark van Vugt">Mark van Vugt</a></li>
+<li><a href="/wiki/Andrew_Whiten" title="Andrew Whiten">Andrew Whiten</a></li>
+<li><a href="/wiki/Glenn_Wilson_(psychologist)" title="Glenn Wilson (psychologist)">Glenn Wilson</a></li>
+<li><a href="/wiki/Margo_Wilson" title="Margo Wilson">Margo Wilson</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;">Research centers/<br />organizations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Center_for_Evolutionary_Psychology" title="Center for Evolutionary Psychology">Center for Evolutionary Psychology</a></li>
+<li><a href="/wiki/Human_Behavior_and_Evolution_Society" title="Human Behavior and Evolution Society">Human Behavior and Evolution Society</a></li>
+<li><a href="/wiki/Max_Planck_Institute_for_Evolutionary_Anthropology" title="Max Planck Institute for Evolutionary Anthropology">Max Planck Institute for Evolutionary Anthropology</a></li>
+<li><a href="/wiki/Max_Planck_Institute_for_Human_Cognitive_and_Brain_Sciences" title="Max Planck Institute for Human Cognitive and Brain Sciences">Max Planck Institute for Human Cognitive and Brain Sciences</a></li>
+<li><a href="/wiki/New_England_Complex_Systems_Institute" title="New England Complex Systems Institute">New England Complex Systems Institute</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;">Related subjects<br />and articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Adapted_Mind" title="The Adapted Mind">The Adapted Mind</a></i></li>
+<li><i><a href="/wiki/The_Evolution_of_Human_Sexuality" title="The Evolution of Human Sexuality">The Evolution of Human Sexuality</a></i></li>
+<li><i><a href="/wiki/Evolutionary_Psychology_(journal)" title="Evolutionary Psychology (journal)">Evolutionary Psychology</a></i></li>
+<li><i><a href="/wiki/Evolution_and_Human_Behavior" title="Evolution and Human Behavior">Evolution and Human Behavior</a></i></li>
+<li><a href="/wiki/Memetics" title="Memetics">Memetics</a></li>
+<li><a href="/wiki/Sociobiology" title="Sociobiology">Sociobiology</a></li>
+<li><a href="/wiki/Evolutionary_neuroscience" title="Evolutionary neuroscience">Evolutionary neuroscience</a></li>
+<li><a href="/wiki/Human_evolution" title="Human evolution">Human evolution</a></li>
+<li><a href="/wiki/Sociocultural_evolution" title="Sociocultural evolution">Sociocultural evolution</a></li>
+<li><a href="/wiki/Evolutionary_anthropology" title="Evolutionary anthropology">Evolutionary anthropology</a></li>
+<li><a href="/wiki/Evolutionary_medicine" title="Evolutionary medicine">Evolutionary medicine</a></li>
+<li><a href="/wiki/Evolutionary_linguistics" title="Evolutionary linguistics">Evolutionary linguistics</a></li>
+<li><a href="/wiki/Evolutionary_psychology_and_culture" title="Evolutionary psychology and culture">Evolutionary psychology and culture</a></li>
+<li><a href="/wiki/Biosocial_criminology" title="Biosocial criminology">Biosocial criminology</a></li>
+<li><a href="/wiki/Criticism_of_evolutionary_psychology" title="Criticism of evolutionary psychology">Criticism of evolutionary psychology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:left;">Lists</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_evolutionary_psychologists" title="List of evolutionary psychologists">Evolutionary psychologists</a></li>
+<li><a href="/wiki/Evolutionary_psychology_research_groups_and_centers" title="Evolutionary psychology research groups and centers">Evolutionary psychology research groups and centers</a></li>
+<li><a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">Bibliography of evolution and human behavior</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /><b><a href="/wiki/Category:Evolutionary_psychology" title="Category:Evolutionary psychology">Evolutionary psychology</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /><b><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Psychology portal</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /><b><a href="/wiki/Portal:Evolutionary_biology" title="Portal:Evolutionary biology">Evolutionary biology portal</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Religion" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Religion_topics" title="Template:Religion topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Religion_topics" title="Template talk:Religion topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Religion_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Religion" style="font-size:114%;margin:0 4em"><a href="/wiki/Religion" title="Religion">Religion</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Major_religious_groups_and_denominations1" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Major religious groups and denominations</a><sup>1</sup></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Abrahamic_religions" title="Abrahamic religions">Abrahamic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Judaism" title="Judaism">Judaism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a>
+<ul><li><a href="/wiki/Haredi_Judaism" title="Haredi Judaism">Haredi</a></li>
+<li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidic</a></li>
+<li><a href="/wiki/Modern_Orthodox_Judaism" title="Modern Orthodox Judaism">Modern</a></li></ul></li>
+<li><a href="/wiki/Conservative_Judaism" title="Conservative Judaism">Conservative</a></li>
+<li><a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaite</a></li>
+<li><a href="/wiki/Samaritanism" title="Samaritanism">Samaritanism</a></li>
+<li><a href="/wiki/Haymanot" title="Haymanot">Haymanot</a></li>
+<li><a href="/wiki/Reconstructionist_Judaism" title="Reconstructionist Judaism">Reconstructionist</a></li>
+<li><a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Renewal</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Christianity" title="Christianity">Christianity</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Church</a>
+<ul><li><a href="/wiki/Latin_Church" title="Latin Church">Latin Church</a></li>
+<li><a href="/wiki/Eastern_Catholic_Churches" title="Eastern Catholic Churches">Eastern Catholic Churches</a></li></ul></li>
+<li><a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodox Church</a></li>
+<li><a href="/wiki/Oriental_Orthodoxy" title="Oriental Orthodoxy">Oriental Orthodoxy</a></li>
+<li><a href="/wiki/Assyrian_Church_of_the_East" title="Assyrian Church of the East">Assyrian Church</a>
+<ul><li><a href="/wiki/Ancient_Church_of_the_East" title="Ancient Church of the East">Ancient Church</a></li></ul></li>
+<li><a href="/wiki/Protestantism" title="Protestantism">Protestantism</a>
+<ul><li><a href="/wiki/Waldensians" title="Waldensians">Waldensians</a></li>
+<li><a href="/wiki/Moravian_Church" title="Moravian Church">Moravian Church</a></li>
+<li><a href="/wiki/Lutheranism" title="Lutheranism">Lutheranism</a></li>
+<li><a href="/wiki/Calvinism" title="Calvinism">Calvinism</a>/<a href="/wiki/Presbyterianism" title="Presbyterianism">Presbyterianism</a></li>
+<li><a href="/wiki/Anabaptism" title="Anabaptism">Anabaptism</a></li>
+<li><a href="/wiki/Anglicanism" title="Anglicanism">Anglicanism</a></li>
+<li><a href="/wiki/Methodism" title="Methodism">Methodism</a></li>
+<li><a href="/wiki/Baptists" title="Baptists">Baptists</a></li>
+<li><a href="/wiki/Quakers" title="Quakers">Quakerism</a></li>
+<li><a href="/wiki/Evangelicalism" title="Evangelicalism">Evangelicalism</a></li>
+<li><a href="/wiki/Restorationism" title="Restorationism">Restorationism</a></li>
+<li><a href="/wiki/Adventism" title="Adventism">Adventism</a></li>
+<li><a href="/wiki/Pentecostalism" title="Pentecostalism">Pentecostalism</a> (<a href="/wiki/Charismatic_Movement" title="Charismatic Movement">Charismatic</a>)</li></ul></li>
+<li><a href="/wiki/Independent_Catholicism" title="Independent Catholicism">Independent Catholicism</a></li>
+<li><a href="/wiki/Nontrinitarianism" title="Nontrinitarianism">Nontrinitarianism</a>
+<ul><li><a href="/wiki/Unitarianism" title="Unitarianism">Unitarianism</a></li>
+<li><a href="/wiki/The_New_Church_(Swedenborgian)" title="The New Church (Swedenborgian)">Swedenborgianism</a></li>
+<li><a href="/wiki/Mormonism" title="Mormonism">Mormonism</a></li>
+<li><a href="/wiki/Christadelphians" title="Christadelphians">Christadelphians</a></li>
+<li><a href="/wiki/Jehovah%27s_Witnesses" title="Jehovah&#39;s Witnesses">Jehovah's Witnesses</a></li>
+<li><a href="/wiki/Oneness_Pentecostalism" title="Oneness Pentecostalism">Oneness Pentecostalism</a></li></ul></li>
+<li><a href="/wiki/Spiritual_Christianity" title="Spiritual Christianity">Spiritual</a></li>
+<li><a href="/wiki/Esoteric_Christianity" title="Esoteric Christianity">Esoteric</a></li>
+<li><a href="/wiki/Nondenominational_Christianity" title="Nondenominational Christianity">Nondenominational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Islam" title="Islam">Islam</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni</a>
+<ul><li><a href="/wiki/Ash%CA%BFari" title="Ashʿari">Ashʿari</a></li>
+<li><a href="/wiki/Maturidi" title="Maturidi">Maturidi</a></li>
+<li><a href="/wiki/Traditionalist_theology_(Islam)" title="Traditionalist theology (Islam)">Traditionalist theology</a></li>
+<li><a href="/wiki/Salafi_movement" title="Salafi movement">Salafism</a>
+<ul><li><a href="/wiki/Wahhabism" title="Wahhabism">Wahhabism</a></li>
+<li><a href="/wiki/Islamic_Modernism" title="Islamic Modernism">Modernist Salafism</a></li></ul></li></ul></li>
+<li><a href="/wiki/Shia_Islam" title="Shia Islam">Shia</a>
+<ul><li><a href="/wiki/Twelver" title="Twelver">Twelver</a></li>
+<li><a href="/wiki/Zaidiyyah" title="Zaidiyyah">Zaidiyyah</a></li>
+<li><a href="/wiki/Isma%27ilism" title="Isma&#39;ilism">Isma'ilism</a></li>
+<li><a href="/wiki/Alawites" title="Alawites">Alawis</a></li></ul></li>
+<li><a href="/wiki/Sufism" title="Sufism">Sufism</a></li>
+<li><a href="/wiki/Khawarij" title="Khawarij">Khawarij</a>
+<ul><li><a href="/wiki/Ibadi" title="Ibadi">Ibadi</a></li></ul></li>
+<li><a href="/wiki/Alevism" title="Alevism">Alevism</a></li>
+<li><a href="/wiki/Ahmadiyya" title="Ahmadiyya">Ahmadi</a></li>
+<li><a href="/wiki/Mahdavia" title="Mahdavia">Mahdavia</a></li>
+<li><a href="/wiki/Quranism" title="Quranism">Quranism</a></li>
+<li><a href="/wiki/Non-denominational_Muslim" title="Non-denominational Muslim">Non-denominational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/B%C3%A1bism" title="Bábism">Bábism</a>
+<ul><li><a href="/wiki/Azali" title="Azali">Azali</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá&#39;í Faith">Bahá'í</a></li></ul></li>
+<li><a href="/wiki/Druze" title="Druze">Druze</a></li>
+<li><a href="/wiki/Ali-Illahism" title="Ali-Illahism">Ali-Illahism</a></li>
+<li><a href="/wiki/Yarsanism" title="Yarsanism">Yarsanism</a></li>
+<li><a href="/wiki/Mandaeism" title="Mandaeism">Mandaeism</a></li>
+<li><a href="/wiki/Rastafari" title="Rastafari">Rastafarianism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indian_religions" title="Indian religions">Dharmic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavism</a>
+<ul><li><a href="/wiki/Sri_Vaishnavism" title="Sri Vaishnavism">Sri Vaishnavism</a></li>
+<li><a href="/wiki/Krishna#Vaishnavism" title="Krishna">Krishnaism</a></li>
+<li><a href="/wiki/Ramanandi_Sampradaya" title="Ramanandi Sampradaya">Ramaism</a></li>
+<li><a href="/wiki/Mahanubhava" title="Mahanubhava">Mahanubhava</a></li>
+<li><a href="/wiki/Varkari" title="Varkari">Varkari</a></li></ul></li>
+<li><a href="/wiki/Shaivism" title="Shaivism">Shaivism</a>
+<ul><li><a href="/wiki/Shaiva_Siddhanta" title="Shaiva Siddhanta">Siddhantism</a></li>
+<li><a href="/wiki/Kaumaram" title="Kaumaram">Kaumaram</a></li>
+<li><a href="/wiki/Lingayatism" title="Lingayatism">Lingayatism</a></li>
+<li><a href="/wiki/Nath" title="Nath">Nath</a></li></ul></li>
+<li><a href="/wiki/Shaktism" title="Shaktism">Shaktism</a></li>
+<li><a href="/wiki/Smarta_tradition" title="Smarta tradition">Smartism</a></li>
+<li><a href="/wiki/Tantrism" class="mw-redirect" title="Tantrism">Tantrism</a></li>
+<li><a href="/wiki/Bhakti_movement" title="Bhakti movement">Bhakti</a></li>
+<li><a href="/wiki/Ayyavazhi" title="Ayyavazhi">Ayyavazhi</a></li>
+<li><a href="/wiki/Balinese_Hinduism" title="Balinese Hinduism">Balinese</a></li>
+<li><a href="/wiki/Hindu_reform_movements" title="Hindu reform movements">Neohinduism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Buddhism" title="Buddhism">Buddhism</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Theravada" title="Theravada">Theravada</a></li>
+<li><a href="/wiki/Mahayana" title="Mahayana">Mahayana</a>
+<ul><li><a href="/wiki/Chan_Buddhism" title="Chan Buddhism">Chan</a>/<a href="/wiki/Zen" title="Zen">Zen</a></li>
+<li><a href="/wiki/Pure_Land_Buddhism" title="Pure Land Buddhism">Amidism</a></li>
+<li><a href="/wiki/Nichiren_Buddhism" title="Nichiren Buddhism">Nichiren</a></li></ul></li>
+<li><a href="/wiki/Vajrayana" title="Vajrayana">Vajrayana</a>
+<ul><li><a href="/wiki/Tibetan_Buddhism" title="Tibetan Buddhism">Tibetan</a></li></ul></li>
+<li><a href="/wiki/Buddhist_modernism" title="Buddhist modernism">Neo-Buddhism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Others</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jainism" title="Jainism">Jainism</a>
+<ul><li><a href="/wiki/Digambara" title="Digambara">Digambara</a></li>
+<li><a href="/wiki/%C5%9Av%C4%93t%C4%81mbara" title="Śvētāmbara">Śvētāmbara</a></li></ul></li>
+<li><a href="/wiki/Sikhism" title="Sikhism">Sikhism</a></li>
+<li><a href="/wiki/Kalash_people#Religion" title="Kalash people">Kalash</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iranian_religions" title="Iranian religions">Iranian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a></li>
+<li><a href="/wiki/Yazidis" title="Yazidis">Yazidis</a></li>
+<li><a href="/wiki/Uatsdin" title="Uatsdin">Ossetian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indo-European_languages" title="Indo-European languages">European</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Armenian_Native_Faith" title="Armenian Native Faith">Armenian</a></li>
+<li><a href="/wiki/Baltic_neopaganism" title="Baltic neopaganism">Baltic</a></li>
+<li><a href="/wiki/Celtic_neopaganism" title="Celtic neopaganism">Celtic</a>
+<ul><li><a href="/wiki/Druidry_(modern)" title="Druidry (modern)">Druidry</a></li></ul></li>
+<li><a href="/wiki/Heathenry_(new_religious_movement)" title="Heathenry (new religious movement)">Germanic</a></li>
+<li><a href="/wiki/Hellenism_(religion)" title="Hellenism (religion)">Hellenism</a></li>
+<li><a href="/wiki/Roman_Polytheistic_Reconstructionism" title="Roman Polytheistic Reconstructionism">Italo-Roman</a></li>
+<li><a href="/wiki/Zalmoxianism" title="Zalmoxianism">Romanian</a></li>
+<li><a href="/wiki/Slavic_Native_Faith" title="Slavic Native Faith">Slavic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Uralic_neopaganism" title="Uralic neopaganism">Uralic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Estonian_neopaganism" title="Estonian neopaganism">Estonian</a></li>
+<li><a href="/wiki/Finnish_neopaganism" title="Finnish neopaganism">Finnish</a></li>
+<li><a href="/wiki/Hungarian_Native_Faith" title="Hungarian Native Faith">Hungarian</a></li>
+<li><a href="/wiki/Mari_Native_Religion" title="Mari Native Religion">Mari</a></li>
+<li><a href="/wiki/Mordvin_Native_Religion" title="Mordvin Native Religion">Mordvin</a></li>
+<li><a href="/wiki/S%C3%A1mi_shamanism" title="Sámi shamanism">Sámi</a></li>
+<li><a href="/wiki/Udmurt_Vos" title="Udmurt Vos">Udmurt</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Shamanism_in_Siberia" title="Shamanism in Siberia">Siberian</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Turkic_mythology" title="Turkic mythology">Turkic</a>-<a href="/wiki/Mongolian_shamanism" title="Mongolian shamanism">Mongolic</a>
+<ul><li><a href="/wiki/Tengrism" title="Tengrism">Tengrism</a></li>
+<li><a href="/wiki/Burkhanism" title="Burkhanism">Burkhanism</a></li>
+<li><a href="/wiki/Vattisen_Yaly" title="Vattisen Yaly">Vattisen Yaly</a></li></ul></li>
+<li><a href="/wiki/Tungusic_peoples" title="Tungusic peoples">Tungusic</a>
+<ul><li><a href="/wiki/Manchu_shamanism" title="Manchu shamanism">Manchu</a></li>
+<li><a href="/wiki/Evenks#Religion" title="Evenks">Evenki</a></li></ul></li>
+<li><a href="/wiki/Nivkh_people#Religion" title="Nivkh people">Nivkh</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chinese_folk_religion" title="Chinese folk religion">Chinese</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Confucianism" title="Confucianism">Confucianism</a></li>
+<li><a href="/wiki/Taoism" title="Taoism">Taoism</a>
+<ul><li><a href="/wiki/Chinese_ritual_mastery_traditions" title="Chinese ritual mastery traditions">Folk Taoism</a></li>
+<li><a href="/wiki/Yao_folk_religion" title="Yao folk religion">Yao Taoism</a></li></ul></li>
+<li><a href="/wiki/Nuo_folk_religion" title="Nuo folk religion">Nuo</a></li>
+<li><a href="/wiki/Chinese_salvationist_religions" title="Chinese salvationist religions">Salvationist</a>
+<ul><li><a href="/wiki/Xiantiandao" title="Xiantiandao">Xiantiandao</a></li>
+<li><a href="/wiki/Yiguandao" title="Yiguandao">Yiguandao</a></li></ul></li>
+<li><a href="/wiki/Luo_teaching" title="Luo teaching">Luoism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tibetic_languages" title="Tibetic languages">Tibetic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bon" title="Bon">Bon</a></li>
+<li><a href="/wiki/Burmese_folk_religion" title="Burmese folk religion">Burmese</a></li>
+<li><a href="/wiki/Benzhuism" title="Benzhuism">Benzhuism</a></li>
+<li><a href="/wiki/Bimoism" title="Bimoism">Bimoism</a></li>
+<li><a href="/wiki/Bathouism" title="Bathouism">Bathouism</a></li>
+<li><a href="/wiki/Mun_(religion)" title="Mun (religion)">Bongthingism</a></li>
+<li><a href="/wiki/Donyi-Polo" title="Donyi-Polo">Donyi-Polo</a></li>
+<li><a href="/wiki/Kirat_Mundhum" title="Kirat Mundhum">Kiratism</a></li>
+<li><a href="/wiki/Qiang_folk_religion" title="Qiang folk religion">Qiang</a></li>
+<li><a href="/wiki/Sanamahism" title="Sanamahism">Sanamahism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_in_Korea" title="Religion in Korea">Korean</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Korean_shamanism" title="Korean shamanism">Sindoism</a></li>
+<li><a href="/wiki/Cheondoism" title="Cheondoism">Cheondoism</a></li>
+<li><a href="/wiki/Jeung_San_Do" title="Jeung San Do">Jeungsanism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_in_Japan" title="Religion in Japan">Japanese</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Shinto" title="Shinto">Shinto</a></li>
+<li><a href="/wiki/Tenrikyo" title="Tenrikyo">Tenrikyo</a></li>
+<li><a href="/wiki/Ryukyuan_religion" title="Ryukyuan religion">Ryukyuan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tai_peoples" title="Tai peoples">Tai</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ahom_religion" title="Ahom religion">Ahom</a></li>
+<li><a href="/wiki/Mo_(religion)" title="Mo (religion)">Mo</a></li>
+<li><a href="/wiki/Tai_folk_religion" title="Tai folk religion">Satsana Phi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Austroasiatic_languages" title="Austroasiatic languages">Austroasiatic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vietnamese_folk_religion" title="Vietnamese folk religion">Vietnamese</a>
+<ul><li><a href="/wiki/Caodaism" title="Caodaism">Caodaism</a></li>
+<li><a href="/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu" title="Đạo Mẫu">Đạo Mẫu</a></li>
+<li><a href="/wiki/H%C3%B2a_H%E1%BA%A3o" title="Hòa Hảo">Hoahaoism</a></li></ul></li>
+<li><a href="/wiki/Sarnaism" title="Sarnaism">Sarnaism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Austronesian_languages" title="Austronesian languages">Austronesian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parmalim" title="Parmalim">Batak Parmalim</a></li>
+<li><a href="/wiki/Dayak_people#Religion_and_festivals" title="Dayak people">Dayak</a>
+<ul><li><a href="/wiki/Kaharingan" title="Kaharingan">Kaharingan</a></li>
+<li><a href="/wiki/Momolianism" title="Momolianism">Momolianism</a></li></ul></li>
+<li><a href="/wiki/Kejaw%C3%A8n" title="Kejawèn">Javanese Kejawèn</a></li>
+<li><a href="/wiki/Pemena" title="Pemena">Karo Pemena</a></li>
+<li><a href="/wiki/Malaysian_folk_religion" title="Malaysian folk religion">Malaysian</a></li>
+<li><a href="/wiki/Indigenous_religious_beliefs_of_the_Philippines" title="Indigenous religious beliefs of the Philippines">Philippine Dayawism</a>
+<ul><li><a href="/wiki/Indigenous_religious_beliefs_of_the_Tagalog_people" title="Indigenous religious beliefs of the Tagalog people">Tagalog</a></li></ul></li>
+<li><a href="/wiki/Polynesian_narrative" title="Polynesian narrative">Polynesian</a>
+<ul><li><a href="/wiki/Hawaiian_religion" title="Hawaiian religion">Hawaiian</a></li>
+<li><a href="/wiki/M%C4%81ori_religion" title="Māori religion">Māori</a></li></ul></li>
+<li><a href="/wiki/Marapu" title="Marapu">Sumbese Marapu</a></li>
+<li><a href="/wiki/Sunda_Wiwitan" title="Sunda Wiwitan">Sundanese Wiwitan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_in_Africa" title="Religion in Africa">African</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Traditional_African_religions" title="Traditional African religions">Traditional</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akan_religion" title="Akan religion">Akan</a></li>
+<li><a href="/wiki/Kamba_people" title="Kamba people">Akamba</a></li>
+<li><a href="/wiki/Baluba_mythology" title="Baluba mythology">Baluba</a></li>
+<li><a href="/wiki/Bantu_mythology" title="Bantu mythology">Bantu</a>
+<ul><li><a href="/wiki/Kongo_religion" title="Kongo religion">Kongo</a></li>
+<li><a href="/wiki/Zulu_traditional_religion" title="Zulu traditional religion">Zulu</a></li></ul></li>
+<li><a href="/wiki/Traditional_Berber_religion" title="Traditional Berber religion">Berber</a>
+<ul><li><a href="/wiki/Church_of_the_Guanche_People" title="Church of the Guanche People">Guanche church</a></li></ul></li>
+<li><a href="/wiki/Bushongo_mythology" title="Bushongo mythology">Bushongo</a></li>
+<li><a href="/wiki/Dinka_religion" title="Dinka religion">Dinka</a></li>
+<li><a href="/wiki/Efik_mythology" title="Efik mythology">Efik</a></li>
+<li><a href="/wiki/Dahomean_religion" title="Dahomean religion">Fon and Ewe</a></li>
+<li><a href="/wiki/Odinani" title="Odinani">Igbo</a></li>
+<li><a href="/wiki/Ik_people" title="Ik people">Ik</a></li>
+<li><a href="/wiki/Lotuko_mythology" class="mw-redirect" title="Lotuko mythology">Lotuko</a></li>
+<li><a href="/wiki/Lozi_mythology" title="Lozi mythology">Lozi</a></li>
+<li><a href="/wiki/Lugbara_mythology" title="Lugbara mythology">Lugbara</a></li>
+<li><a href="/wiki/Maasai_mythology" title="Maasai mythology">Maasai</a></li>
+<li><a href="/wiki/Mbuti_mythology" title="Mbuti mythology">Mbuti</a></li>
+<li><a href="/wiki/San_religion" title="San religion">San</a></li>
+<li><a href="/wiki/Serer_religion" title="Serer religion">Serer</a></li>
+<li><a href="/wiki/Tumbuka_mythology" title="Tumbuka mythology">Tumbuka</a></li>
+<li><a href="/wiki/Urhobo_people" title="Urhobo people">Urhobo</a></li>
+<li><a href="/wiki/Waaq" title="Waaq">Waaq</a></li>
+<li><a href="/wiki/Yoruba_religion" title="Yoruba religion">Yoruba</a>
+<ul><li><a href="/wiki/If%C3%A1" title="Ifá">Ifá</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Afro-American_religion" title="Afro-American religion">Diasporic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Candombl%C3%A9" title="Candomblé">Candomblé</a>
+<ul><li><a href="/wiki/Candombl%C3%A9_Bantu" title="Candomblé Bantu">Bantu</a></li>
+<li><a href="/wiki/Candombl%C3%A9_Jej%C3%A9" title="Candomblé Jejé">Jejé</a></li>
+<li><a href="/wiki/Candombl%C3%A9_Ketu" title="Candomblé Ketu">Ketu</a></li></ul></li>
+<li><a href="/wiki/Comfa" title="Comfa">Comfa</a></li>
+<li><a href="/wiki/Convince" title="Convince">Convince</a></li>
+<li><a href="/wiki/Espiritismo" title="Espiritismo">Espiritismo</a></li>
+<li><a href="/wiki/Kumina" title="Kumina">Kumina</a></li>
+<li><a href="/wiki/Obeah" title="Obeah">Obeah</a></li>
+<li><a href="/wiki/Palo_(religion)" title="Palo (religion)">Palo</a></li>
+<li><a href="/wiki/Quimbanda" title="Quimbanda">Quimbanda</a></li>
+<li><a href="/wiki/Santer%C3%ADa" title="Santería">Santería</a></li>
+<li><a href="/wiki/Tambor_de_Mina" title="Tambor de Mina">Tambor de Mina</a></li>
+<li><a href="/wiki/Trinidad_Orisha" title="Trinidad Orisha">Trinidad Orisha</a></li>
+<li><a href="/wiki/Umbanda" title="Umbanda">Umbanda</a></li>
+<li><a href="/wiki/Haitian_Vodou" title="Haitian Vodou">Vodou</a></li>
+<li><a href="/wiki/Louisiana_Voodoo" title="Louisiana Voodoo">Voodoo</a></li>
+<li><a href="/wiki/Winti" title="Winti">Winti</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Native_American_religion" title="Native American religion">Native<br />American</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abenaki_mythology" title="Abenaki mythology">Abenaki</a></li>
+<li><a href="/wiki/Anishinaabe_traditional_beliefs" title="Anishinaabe traditional beliefs">Anishinaabe</a></li>
+<li><a href="/wiki/Blackfoot_mythology" title="Blackfoot mythology">Blackfoot</a></li>
+<li><a href="/wiki/Kuksu_(religion)" title="Kuksu (religion)">Californian</a>
+<ul><li><a href="/wiki/Miwok_mythology" title="Miwok mythology">Miwok</a></li>
+<li><a href="/wiki/Ohlone_mythology" title="Ohlone mythology">Ohlone</a></li>
+<li><a href="/wiki/Pomo_religion" title="Pomo religion">Pomo</a></li></ul></li>
+<li><a href="/wiki/Cherokee_mythology" title="Cherokee mythology">Cherokee</a></li>
+<li><a href="/wiki/Chilote_mythology" title="Chilote mythology">Chilote</a></li>
+<li><a href="/wiki/Choctaw_mythology" title="Choctaw mythology">Choctaw</a></li>
+<li><a href="/wiki/Creek_mythology" title="Creek mythology">Creek</a></li>
+<li><a href="/wiki/Guarani_mythology" title="Guarani mythology">Guarani</a></li>
+<li><a href="/wiki/Haida_mythology" title="Haida mythology">Haida</a></li>
+<li><a href="/wiki/Ho-Chunk_mythology" title="Ho-Chunk mythology">Ho-Chunk</a></li>
+<li><a href="/wiki/Hopi_mythology" title="Hopi mythology">Hopi</a></li>
+<li><a href="/wiki/Iroquois_mythology" title="Iroquois mythology">Iroquois</a>
+<ul><li><a href="/wiki/Seneca_mythology" title="Seneca mythology">Seneca</a></li>
+<li><a href="/wiki/Wyandot_religion" title="Wyandot religion">Wyandot</a></li>
+<li><a href="/wiki/Longhouse_Religion" title="Longhouse Religion">Longhouse Religion</a></li></ul></li>
+<li><a href="/wiki/Jivaroan_peoples#Religion" title="Jivaroan peoples">Jivaroan</a></li>
+<li><a href="/wiki/Kwakwaka%CA%BCwakw_mythology" title="Kwakwakaʼwakw mythology">Kwakwakaʼwakw</a></li>
+<li><a href="/wiki/Lakota_mythology" title="Lakota mythology">Lakota</a></li>
+<li><a href="/wiki/Lenape_mythology" title="Lenape mythology">Lenape</a></li>
+<li><a href="/wiki/Mapuche_religion" title="Mapuche religion">Mapuche</a></li>
+<li><a href="/wiki/Mesoamerican_religion" title="Mesoamerican religion">Mesoamerican</a>
+<ul><li><a href="/wiki/Aztec_religion" title="Aztec religion">Aztec</a></li>
+<li><a href="/wiki/Maya_religion" title="Maya religion">Maya</a></li>
+<li><a href="/wiki/Pur%C3%A9pecha_religion" title="Purépecha religion">Purépecha</a></li></ul></li>
+<li><a href="/wiki/Midewiwin" title="Midewiwin">Midewiwin</a></li>
+<li><a href="/wiki/Muisca_mythology" title="Muisca mythology">Muisca</a></li>
+<li><a href="/wiki/Native_American_Church" title="Native American Church">Native American Church</a></li>
+<li><a href="/wiki/Navajo#Spiritual_and_religious_beliefs" title="Navajo">Navajo</a></li>
+<li><a href="/wiki/Nuu-chah-nulth_mythology" title="Nuu-chah-nulth mythology">Nuu-chah-nulth</a></li>
+<li><a href="/wiki/Pawnee_mythology" title="Pawnee mythology">Pawnee</a></li>
+<li><a href="/wiki/Tsimshian_mythology" title="Tsimshian mythology">Tsimshian</a></li>
+<li><a href="/wiki/Ute_mythology" title="Ute mythology">Ute</a></li>
+<li><a href="/wiki/Zuni_mythology" title="Zuni mythology">Zuni</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ethnic_religion" title="Ethnic religion">Other groups</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Australian_Aboriginal_religion_and_mythology" title="Australian Aboriginal religion and mythology">Aboriginal Australian</a></li>
+<li><a href="/wiki/Adyghe_Habze" title="Adyghe Habze">Circassian</a></li>
+<li><a href="/wiki/Dravidian_folk_religion" title="Dravidian folk religion">Dravidian</a></li>
+<li><a href="/wiki/Miao_folk_religion" title="Miao folk religion">Hmongism</a></li>
+<li><a href="/wiki/Inuit_religion" title="Inuit religion">Inuit</a></li>
+<li><a href="/wiki/Papuan_mythology" title="Papuan mythology">Papuan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_new_religious_movements" title="List of new religious movements">Recent</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agni_Yoga" title="Agni Yoga">Agni Yoga</a></li>
+<li><a href="/wiki/Anthroposophy" title="Anthroposophy">Anthroposophy</a></li>
+<li><a href="/wiki/Brahmoism" title="Brahmoism">Brahmoism</a></li>
+<li><a href="/wiki/Discordianism" title="Discordianism">Discordianism</a></li>
+<li><a href="/wiki/Eckankar" title="Eckankar">Eckankar</a></li>
+<li><a href="/wiki/Falun_Gong" title="Falun Gong">Falun Gong</a></li>
+<li><a href="/wiki/Fourth_Way" title="Fourth Way">Fourth Way</a></li>
+<li><a href="/wiki/Goddess_movement" title="Goddess movement">Goddess movement</a></li>
+<li><a href="/wiki/Japanese_new_religions" title="Japanese new religions">Japanese</a></li>
+<li><a href="/wiki/Jediism" title="Jediism">Jediism</a></li>
+<li><a href="/wiki/Modekngei" title="Modekngei">Modekngei</a></li>
+<li><a href="/wiki/Modern_Paganism" title="Modern Paganism">Neopaganism</a>
+<ul><li><a href="/wiki/Wicca" title="Wicca">Wicca</a></li></ul></li>
+<li><a href="/wiki/Neoshamanism" title="Neoshamanism">Neoshamanism</a></li>
+<li><a href="/wiki/New_Acropolis" title="New Acropolis">New Acropolis</a></li>
+<li><a href="/wiki/New_Age" title="New Age">New Age</a></li>
+<li><a href="/wiki/New_Thought" title="New Thought">New Thought</a></li>
+<li><a href="/wiki/Rajneesh_movement" title="Rajneesh movement">Rajneesh</a></li>
+<li><a href="/wiki/Satanism" title="Satanism">Satanism</a></li>
+<li><a href="/wiki/Spiritism" title="Spiritism">Spiritism</a></li>
+<li><a href="/wiki/Subud" title="Subud">Subud</a></li>
+<li><a href="/wiki/Tensegrity_(Castaneda)" class="mw-redirect" title="Tensegrity (Castaneda)">Tensegrity</a></li>
+<li><a href="/wiki/Thelema" title="Thelema">Thelema</a></li>
+<li><a href="/wiki/Theosophy_(Blavatskian)" title="Theosophy (Blavatskian)">Theosophy</a></li>
+<li><a href="/wiki/Transcendental_Meditation" title="Transcendental Meditation">Transcendental Meditation</a></li>
+<li><a href="/wiki/UFO_religion" title="UFO religion">UFO religion</a>
+<ul><li><a href="/wiki/Ra%C3%ABlism" title="Raëlism">Raëlism</a></li>
+<li><a href="/wiki/Scientology" title="Scientology">Scientology</a></li></ul></li>
+<li><a href="/wiki/Unitarian_Universalism" title="Unitarian Universalism">Unitarian Universalism</a></li>
+<li><a href="/wiki/Universal_White_Brotherhood" title="Universal White Brotherhood">White Brotherhood</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b>Note:</b> <sup>1</sup> The main source: <cite class="citation encyclopaedia"><a href="/wiki/Mircea_Eliade" title="Mircea Eliade">Eliade, Mircea</a>, ed. (1987). <i>The Encyclopedia of Religion</i>. 16 vols. New York: MacMillan.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Encyclopedia+of+Religion&amp;rft.place=New+York&amp;rft.pub=MacMillan&amp;rft.date=1987&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+science+of+religion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>.</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Historical_religions" style="font-size:114%;margin:0 4em"><a href="/wiki/History_of_religion" title="History of religion">Historical religions</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Prehistoric_religion" title="Prehistoric religion">Prehistoric</a>
+<ul><li><a href="/wiki/Paleolithic_religion" title="Paleolithic religion">Paleolithic</a></li></ul></li>
+<li><a href="/wiki/Indus_Valley_Civilisation#Religion" title="Indus Valley Civilisation">Harappan</a></li>
+<li><a href="/wiki/Ancient_Egyptian_religion" title="Ancient Egyptian religion">Egyptian</a>
+<ul><li><a href="/wiki/Atenism" title="Atenism">Atenism</a></li></ul></li>
+<li><a href="/wiki/Ancient_Mesopotamian_religion" title="Ancient Mesopotamian religion">Mesopotamian</a>
+<ul><li><a href="/wiki/Sumerian_religion" title="Sumerian religion">Sumerian</a></li></ul></li>
+<li><a href="/wiki/Ancient_Semitic_religion" title="Ancient Semitic religion">Semitic</a>
+<ul><li><a href="/wiki/Ancient_Canaanite_religion" title="Ancient Canaanite religion">Canaanite</a></li>
+<li><a href="/wiki/Yahweh" title="Yahweh">Yahwism</a></li></ul></li>
+<li><a href="/wiki/Religion_in_pre-Islamic_Arabia" title="Religion in pre-Islamic Arabia">Arabian</a></li>
+<li><a href="/wiki/Somali_mythology" title="Somali mythology">Somali</a></li>
+<li><a href="/wiki/Hurrian_religion" title="Hurrian religion">Hurrian</a></li>
+<li><a href="/wiki/Urartu#Religion" title="Urartu">Urartu</a></li>
+<li><a href="/wiki/Etruscan_religion" title="Etruscan religion">Etruscan</a></li>
+<li><a href="/wiki/Basque_mythology" title="Basque mythology">Basque</a></li>
+<li><a href="/wiki/Georgian_mythology" title="Georgian mythology">Georgian</a></li>
+<li><a href="/wiki/Vainakh_religion" title="Vainakh religion">Vainakh</a></li>
+<li><a href="/wiki/Proto-Indo-European_mythology" title="Proto-Indo-European mythology">Proto-Indo-European</a></li>
+<li><a href="/wiki/Proto-Indo-Iranian_religion" class="mw-redirect" title="Proto-Indo-Iranian religion">Proto-Indo-Iranian</a></li>
+<li><a href="/wiki/Historical_Vedic_religion" title="Historical Vedic religion">Vedic</a></li>
+<li><a href="/wiki/Persian_mythology" title="Persian mythology">Mazdaism</a></li>
+<li><a href="/wiki/Hittite_mythology_and_religion" title="Hittite mythology and religion">Hittite</a></li>
+<li><a href="/wiki/Armenian_mythology" title="Armenian mythology">Armenian</a></li>
+<li><a href="/wiki/Albanian_mythology" class="mw-redirect" title="Albanian mythology">Albanian</a></li>
+<li><a href="/wiki/Thracian_religion" title="Thracian religion">Thracian</a></li>
+<li><a href="/wiki/Greek_mythology" title="Greek mythology">Greek</a>
+<ul><li><a href="/wiki/Greco-Roman_mysteries" title="Greco-Roman mysteries">Mysteries</a></li>
+<li><a href="/wiki/Orphism_(religion)" title="Orphism (religion)">Orphism</a></li>
+<li><a href="/wiki/Gnosticism" title="Gnosticism">Gnosticism</a></li>
+<li><a href="/wiki/Hermeticism" title="Hermeticism">Hermeticism</a></li>
+<li><a href="/wiki/Greco-Buddhism" title="Greco-Buddhism">Greco-Buddhism</a></li></ul></li>
+<li><a href="/wiki/Religion_in_ancient_Rome" title="Religion in ancient Rome">Roman</a>
+<ul><li><a href="/wiki/Imperial_cult_of_ancient_Rome" title="Imperial cult of ancient Rome">Imperial cult</a></li>
+<li><a href="/wiki/Gallo-Roman_religion" title="Gallo-Roman religion">Gallo-Roman</a></li>
+<li><a href="/wiki/Mithraism" title="Mithraism">Mithraism</a></li></ul></li>
+<li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a>
+<ul><li><a href="/wiki/Mazdak" title="Mazdak">Mazdakism</a></li></ul></li>
+<li><a href="/wiki/Scythian_religion" title="Scythian religion">Scythian</a></li>
+<li><a href="/wiki/Germanic_paganism" title="Germanic paganism">Germanic</a>
+<ul><li><a href="/wiki/Anglo-Saxon_paganism" title="Anglo-Saxon paganism">Anglo-Saxon</a></li>
+<li><a href="/wiki/Continental_Germanic_mythology" title="Continental Germanic mythology">Continental</a></li>
+<li><a href="/wiki/Frankish_mythology" title="Frankish mythology">Frankish</a></li>
+<li><a href="/wiki/Old_Norse_religion" title="Old Norse religion">Norse</a></li></ul></li>
+<li><a href="/wiki/Ancient_Celtic_religion" title="Ancient Celtic religion">Celtic</a></li>
+<li><a href="/wiki/Baltic_mythology" title="Baltic mythology">Baltic</a></li>
+<li><a href="/wiki/Slavic_paganism" title="Slavic paganism">Slavic</a></li>
+<li><a href="/wiki/Finnish_mythology" title="Finnish mythology">Finnish</a></li>
+<li><a href="/wiki/Hungarian_mythology" title="Hungarian mythology">Hungarian</a></li>
+<li><a href="/wiki/Ainu_people#Religion" title="Ainu people">Ainu</a></li>
+<li><a href="/wiki/Melanesian_mythology" title="Melanesian mythology">Melanesian</a></li>
+<li><a href="/wiki/Micronesian_mythology" title="Micronesian mythology">Micronesian</a>
+<ul><li><a href="/wiki/Nauruan_indigenous_religion" title="Nauruan indigenous religion">Nauruan</a></li></ul></li>
+<li><a href="/wiki/Cook_Islands_mythology" title="Cook Islands mythology">Cook Islands</a></li>
+<li><a href="/wiki/Rapa_Nui_mythology" title="Rapa Nui mythology">Rapa Nui</a></li>
+<li><a href="/wiki/Tongan_religion" title="Tongan religion">Tongan</a></li>
+<li><a href="/wiki/Inca_mythology" title="Inca mythology">Inca</a></li>
+<li><a href="/wiki/Olmec_religion" title="Olmec religion">Olmec</a></li>
+<li><a href="/wiki/Zapotec_civilization#Religion" title="Zapotec civilization">Zapotec</a></li>
+<li><a href="/wiki/Fuegians#Spiritual_culture" title="Fuegians">Fuegian</a>
+<ul><li><a href="/wiki/Selk%27nam_mythology" title="Selk&#39;nam mythology">Selk'nam</a></li></ul></li>
+<li><a href="/wiki/Guanches#System_of_beliefs" title="Guanches">Guanche</a></li>
+<li><a href="/wiki/Swahili_people" title="Swahili people">Swahili</a></li>
+<li><a href="/wiki/Jamaican_Maroon_religion" title="Jamaican Maroon religion">Jamaican Maroon</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Topics" style="font-size:114%;margin:0 4em">Topics</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apostasy" title="Apostasy">Apostasy</a>&#160;/&#32;<a href="/wiki/Religious_disaffiliation" title="Religious disaffiliation">Disaffiliation</a></li>
+<li><a href="/wiki/Religious_behaviour" title="Religious behaviour">Behaviour</a></li>
+<li><a href="/wiki/Religious_belief" class="mw-redirect" title="Religious belief">Beliefs</a></li>
+<li><a href="/wiki/Clergy" title="Clergy">Clergy</a></li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Conversion</a></li>
+<li><a href="/wiki/Deity" title="Deity">Deities</a></li>
+<li><a href="/wiki/Entheogen" title="Entheogen">Entheogens</a></li>
+<li><a href="/wiki/Ethnic_religion" title="Ethnic religion">Ethnic religion</a></li>
+<li><a href="/wiki/Religious_denomination" title="Religious denomination">Denomination</a></li>
+<li><a href="/wiki/Faith" title="Faith">Faith</a></li>
+<li><a href="/wiki/Fire_worship" title="Fire worship">Fire</a></li>
+<li><a href="/wiki/Folk_religion" title="Folk religion">Folk religion</a></li>
+<li><a href="/wiki/God" title="God">God</a></li>
+<li><a href="/wiki/Meditation" title="Meditation">Meditation</a></li>
+<li><a href="/wiki/Monasticism" title="Monasticism">Monasticism</a>
+<ul><li><a href="/wiki/Monk" title="Monk">monk</a></li>
+<li><a href="/wiki/Nun" title="Nun">nun</a></li></ul></li>
+<li><a href="/wiki/Mysticism" title="Mysticism">Mysticism</a></li>
+<li><a href="/wiki/Religion_and_mythology" title="Religion and mythology">Mythology</a></li>
+<li><a href="/wiki/Nature_worship" title="Nature worship">Nature</a></li>
+<li><a href="/wiki/Ordination" title="Ordination">Ordination</a></li>
+<li><a href="/wiki/Orthodoxy" title="Orthodoxy">Orthodoxy</a></li>
+<li><a href="/wiki/Orthopraxy" title="Orthopraxy">Orthopraxy</a></li>
+<li><a href="/wiki/Prayer" title="Prayer">Prayer</a></li>
+<li><a href="/wiki/Prophecy" title="Prophecy">Prophecy</a></li>
+<li><a href="/wiki/Religious_experience" title="Religious experience">Religious experience</a></li>
+<li><a href="/wiki/Ritual" title="Ritual">Ritual</a>
+<ul><li><a href="/wiki/Liturgy" title="Liturgy">liturgy</a></li>
+<li><a href="/wiki/Sacrifice" title="Sacrifice">sacrifice</a></li></ul></li>
+<li><a href="/wiki/Spirituality" title="Spirituality">Spirituality</a></li>
+<li><a href="/wiki/Supernatural" title="Supernatural">Supernatural</a></li>
+<li><a href="/wiki/Religious_symbol" title="Religious symbol">Symbols</a></li>
+<li><a href="/wiki/Religious_views_on_truth" title="Religious views on truth">Truth</a></li>
+<li><a href="/wiki/Water_and_religion" title="Water and religion">Water</a></li>
+<li><a href="/wiki/Worship" title="Worship">Worship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theism" title="Theism">Theism</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animism" title="Animism">Animism</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Dualistic_cosmology" title="Dualistic cosmology">Dualism</a></li>
+<li><a href="/wiki/Henotheism" title="Henotheism">Henotheism</a></li>
+<li><a href="/wiki/Monotheism" title="Monotheism">Monotheism</a></li>
+<li><a href="/wiki/Nontheism" title="Nontheism">Nontheism</a></li>
+<li><a href="/wiki/Panentheism" title="Panentheism">Panentheism</a></li>
+<li><a href="/wiki/Pantheism" title="Pantheism">Pantheism</a></li>
+<li><a href="/wiki/Polytheism" title="Polytheism">Polytheism</a></li>
+<li><a href="/wiki/Transtheism" title="Transtheism">Transtheism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_studies" title="Religious studies">Religious<br />studies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropology_of_religion" title="Anthropology of religion">Anthropology</a></li>
+<li><a class="mw-selflink selflink">Cognitive science</a></li>
+<li><a href="/wiki/Comparative_religion" title="Comparative religion">Comparative</a></li>
+<li><a href="/wiki/History_of_religion" title="History of religion">Development</a></li>
+<li><a href="/wiki/Evolutionary_origin_of_religions" title="Evolutionary origin of religions">Evolutionary origin</a></li>
+<li><a href="/wiki/Evolutionary_psychology_of_religion" title="Evolutionary psychology of religion">Evolutionary psychology</a></li>
+<li><a href="/wiki/History_of_religion" title="History of religion">History</a></li>
+<li><a href="/wiki/Philosophy_of_religion" title="Philosophy of religion">Philosophy</a></li>
+<li><a href="/wiki/Neuroscience_of_religion" title="Neuroscience of religion">Neurotheology</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Psychology</a></li>
+<li><a href="/wiki/Sociology_of_religion" title="Sociology of religion">Sociology</a></li>
+<li><a href="/wiki/Theology" title="Theology">Theology</a></li>
+<li><a href="/wiki/Theories_about_religions" title="Theories about religions">Theories</a></li>
+<li><a href="/wiki/Women_and_religion" title="Women and religion">Women</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Category:Religion_and_society" title="Category:Religion and society">Religion and<br />society</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Religion_and_agriculture" title="Religion and agriculture">Agriculture</a></li>
+<li><a href="/wiki/Religion_and_business" title="Religion and business">Business</a></li>
+<li><a href="/wiki/Clergy" title="Clergy">Clergy</a>
+<ul><li><a href="/wiki/Monasticism" title="Monasticism">monasticism</a></li>
+<li><a href="/wiki/Ordination" title="Ordination">ordination</a></li></ul></li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Conversion</a>
+<ul><li><a href="/wiki/Evangelism" title="Evangelism">evangelism</a></li>
+<li><a href="/wiki/Missionary" title="Missionary">missionary</a></li>
+<li><a href="/wiki/Proselytism" title="Proselytism">proselytism</a></li></ul></li>
+<li><a href="/wiki/Disability_and_religion" title="Disability and religion">Disability</a></li>
+<li><a href="/wiki/Religious_education" title="Religious education">Education</a></li>
+<li><a href="/wiki/Religious_fanaticism" title="Religious fanaticism">Fanaticism</a></li>
+<li><a href="/wiki/Freedom_of_religion" title="Freedom of religion">Freedom</a>
+<ul><li><a href="/wiki/Religious_pluralism" title="Religious pluralism">pluralism</a></li>
+<li><a href="/wiki/Syncretism" title="Syncretism">syncretism</a></li>
+<li><a href="/wiki/Toleration" title="Toleration">toleration</a></li>
+<li><a href="/wiki/Universalism" title="Universalism">universalism</a></li></ul></li>
+<li><a href="/wiki/Fundamentalism" title="Fundamentalism">Fundamentalism</a></li>
+<li><a href="/wiki/Growth_of_religion" title="Growth of religion">Growth</a></li>
+<li><a href="/wiki/Religion_and_happiness" class="mw-redirect" title="Religion and happiness">Happiness</a></li>
+<li><a href="/wiki/Homosexuality_and_religion" title="Homosexuality and religion">Homosexuality</a></li>
+<li><a href="/wiki/Minority_religion" title="Minority religion">Minorities</a></li>
+<li><a href="/wiki/National_church" title="National church">National church</a></li>
+<li><a href="/wiki/Importance_of_religion_by_country" title="Importance of religion by country">National religiosity levels</a></li>
+<li><a href="/wiki/Religiocentrism" title="Religiocentrism">Religiocentrism</a></li>
+<li><a href="/wiki/Political_science_of_religion" title="Political science of religion">Political science</a></li>
+<li><a href="/wiki/List_of_religious_populations" title="List of religious populations">Populations</a></li>
+<li><a href="/wiki/Schism" title="Schism">Schism</a></li>
+<li><a href="/wiki/Relationship_between_religion_and_science" title="Relationship between religion and science">Science</a></li>
+<li><a href="/wiki/State_religion" title="State religion">State</a></li>
+<li><a href="/wiki/Theocracy" title="Theocracy">Theocracy</a></li>
+<li><a href="/wiki/Vegetarianism_and_religion" title="Vegetarianism and religion">Vegetarianism</a></li>
+<li><a href="/wiki/Religion_and_video_games" title="Religion and video games">Video games</a></li>
+<li><a href="/wiki/Religious_violence" title="Religious violence">Violence</a>
+<ul><li><a href="/wiki/Religious_persecution" title="Religious persecution">persecution</a></li>
+<li><a href="/wiki/Religious_terrorism" title="Religious terrorism">terrorism</a></li>
+<li><a href="/wiki/Religious_war" title="Religious war">war</a></li></ul></li>
+<li><a href="/wiki/Wealth_and_religion" title="Wealth and religion">Wealth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Secularism" title="Secularism">Secularism</a> and<br /><a href="/wiki/Irreligion" title="Irreligion">irreligion</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antireligion" title="Antireligion">Antireligion</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Agnosticism" title="Agnosticism">Agnosticism</a></li>
+<li><a href="/wiki/Atheism" title="Atheism">Atheism</a></li>
+<li><a href="/wiki/Criticism_of_religion" title="Criticism of religion">Criticism</a></li>
+<li><a href="/wiki/LaVeyan_Satanism" title="LaVeyan Satanism">LaVeyan Satanism</a></li>
+<li><a href="/wiki/Positive_deconstruction" title="Positive deconstruction">Deconstruction</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic Judaism</a></li>
+<li><a href="/wiki/List_of_countries_by_irreligion" title="List of countries by irreligion">Irreligion by country</a></li>
+<li><a href="/wiki/Objectivism_(Ayn_Rand)" title="Objectivism (Ayn Rand)">Objectivism</a></li>
+<li><a href="/wiki/Secular_humanism" title="Secular humanism">Secular humanism</a></li>
+<li><a href="/wiki/Secular_theology" title="Secular theology">Secular theology</a></li>
+<li><a href="/wiki/Secularization" title="Secularization">Secularization</a></li>
+<li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">Separation of church and state</a></li>
+<li><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Unaffiliated</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;">Overviews<br />and <a href="/wiki/Category:Religion-related_lists" title="Category:Religion-related lists">lists</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Index_of_religion-related_articles" title="Index of religion-related articles">Index</a></li>
+<li><a href="/wiki/Outline_of_religion" title="Outline of religion">Outline</a></li>
+<li><a href="/wiki/Timeline_of_religion" title="Timeline of religion">Timeline</a></li>
+<li><a href="/wiki/Table_of_prophets_of_Abrahamic_religions" title="Table of prophets of Abrahamic religions">Abrahamic prophets</a></li>
+<li><a href="/wiki/List_of_people_who_have_been_considered_deities" title="List of people who have been considered deities">Deification</a></li>
+<li><a href="/wiki/Lists_of_deities" title="Lists of deities">Deities</a></li>
+<li><a href="/wiki/List_of_founders_of_religious_traditions" title="List of founders of religious traditions">Founders</a></li>
+<li><a href="/wiki/List_of_largest_peaceful_gatherings" title="List of largest peaceful gatherings">Mass gatherings</a></li>
+<li><a href="/wiki/List_of_new_religious_movements" title="List of new religious movements">New religious movements</a></li>
+<li><a href="/wiki/List_of_religious_organizations" title="List of religious organizations">Organizations</a></li>
+<li><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Religions and spiritual traditions</a></li>
+<li><a href="/wiki/List_of_religious_studies_scholars" title="List of religious studies scholars">Scholars</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Religion" title="Category:Religion">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Religion" title="Portal:Religion">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20190410204600
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.452 seconds
+Real time usage: 0.619 seconds
+Preprocessor visited node count: 1562/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 208532/2097152 bytes
+Template argument size: 1818/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10824/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 5.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  392.010      1 -total
+ 28.78%  112.811      1 Template:Reflist
+ 24.99%   97.956      2 Template:Cite_journal
+ 23.53%   92.224      1 Template:More_citations_needed
+ 18.59%   72.868      1 Template:Ambox
+ 15.65%   61.365      6 Template:Navbox
+ 13.48%   52.849      1 Template:Religion_topics
+ 12.33%   48.330      1 Template:Navbox_with_collapsible_groups
+ 11.26%   44.154      3 Template:Citation_needed
+  9.87%   38.703      1 Template:Spirituality_sidebar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14085792-0!canonical and timestamp 20190410204559 and revision id 887641925
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cognitive_science_of_religion&amp;oldid=887641925">https://en.wikipedia.org/w/index.php?title=Cognitive_science_of_religion&amp;oldid=887641925</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Religion_and_science" title="Category:Religion and science">Religion and science</a></li><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li><li><a href="/wiki/Category:Spirituality" title="Category:Spirituality">Spirituality</a></li><li><a href="/wiki/Category:Cognitive_science_of_religion" title="Category:Cognitive science of religion">Cognitive science of religion</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2011" title="Category:Articles needing additional references from February 2011">Articles needing additional references from February 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2011" title="Category:Articles with unsourced statements from August 2011">Articles with unsourced statements from August 2011</a></li><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cognitive+science+of+religion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cognitive+science+of+religion" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cognitive_science_of_religion" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cognitive_science_of_religion" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cognitive_science_of_religion">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cognitive_science_of_religion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cognitive_science_of_religion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cognitive_science_of_religion&amp;oldid=887641925" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cognitive_science_of_religion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1570453" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cognitive_science_of_religion&amp;id=887641925" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cognitive+science+of+religion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cognitive+science+of+religion&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cognitive_science_of_religion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kognitivn%C3%AD_religionistika" title="Kognitivní religionistika – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kognitive_Religionswissenschaft" title="Kognitive Religionswissenschaft – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ciencia_cognitiva_de_la_religi%C3%B3n" title="Ciencia cognitiva de la religión – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Когнитивное религиоведение – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kognitiivinen_uskontotiede" title="Kognitiivinen uskontotiede – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B3%D0%BD%D1%96%D1%82%D0%B8%D0%B2%D0%BD%D0%B5_%D1%80%D0%B5%D0%BB%D1%96%D0%B3%D1%96%D1%94%D0%B7%D0%BD%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D0%BE" title="Когнітивне релігієзнавство – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1570453#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 March 2019, at 22:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cognitive_science_of_religion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.619","ppvisitednodes":{"value":1562,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":208532,"limit":2097152},"templateargumentsize":{"value":1818,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10824,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  392.010      1 -total"," 28.78%  112.811      1 Template:Reflist"," 24.99%   97.956      2 Template:Cite_journal"," 23.53%   92.224      1 Template:More_citations_needed"," 18.59%   72.868      1 Template:Ambox"," 15.65%   61.365      6 Template:Navbox"," 13.48%   52.849      1 Template:Religion_topics"," 12.33%   48.330      1 Template:Navbox_with_collapsible_groups"," 11.26%   44.154      3 Template:Citation_needed","  9.87%   38.703      1 Template:Spirituality_sidebar"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":5317986,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20190410204600","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cognitive science of religion","url":"https:\/\/en.wikipedia.org\/wiki\/Cognitive_science_of_religion","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1570453","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1570453","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-11-05T11:28:34Z","dateModified":"2019-03-13T22:38:46Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1257"});});</script>
+</body>
+</html>

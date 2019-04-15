@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Distributed cognition - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Distributed_cognition","wgTitle":"Distributed cognition","wgCurRevisionId":883717913,"wgRevisionId":883717913,"wgArticleId":989154,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from August 2013","Articles with unsourced statements from November 2014","Wikipedia articles needing factual verification from August 2013","Wikipedia articles needing factual verification from November 2015","Cognitive science","Collective intelligence","Enactive cognition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Distributed_cognition","wgRelevantArticleId":989154,"wgRequestId":"XLJXeApAAEAAAGpqmMoAAAAS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7551870","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d5/Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Distributed_cognition"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Distributed_cognition&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Distributed_cognition&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Distributed_cognition"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Distributed_cognition rootpage-Distributed_cognition skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Distributed cognition</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Cyborg" title="Cyborg">Cyborgs</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg" class="image"><img alt="Unknown engraver - Humani Victus Instrumenta - Ars Coquinaria - WGA23954.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg/150px-Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg" decoding="async" width="150" height="194" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg/225px-Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg/300px-Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg 2x" data-file-width="774" data-file-height="1000" /></a></td></tr><tr><th style="padding:0.1em">
+Cyborgology</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Bionics" title="Bionics">Bionics</a></li>
+<li><a href="/wiki/Biomimicry" class="mw-redirect" title="Biomimicry">Biomimicry</a></li>
+<li><a href="/wiki/Biomedical_engineering" title="Biomedical engineering">Biomedical engineering</a></li>
+<li><a href="/wiki/Brain%E2%80%93computer_interface" title="Brain–computer interface">Brain–computer interface</a></li>
+<li><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a></li>
+<li><a class="mw-selflink selflink">Distributed cognition</a></li>
+<li><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic engineering</a></li>
+<li><a href="/wiki/Human_ecosystem" title="Human ecosystem">Human ecosystem</a></li>
+<li><a href="/wiki/Human_enhancement" title="Human enhancement">Human enhancement</a></li>
+<li><a href="/wiki/Intelligence_amplification" title="Intelligence amplification">Intelligence amplification</a></li>
+<li><a href="/wiki/Whole_brain_emulation" class="mw-redirect" title="Whole brain emulation">Whole brain emulation</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Theory</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Postgenderism" title="Postgenderism">Postgenderism</a></li>
+<li><a href="/wiki/Cyborg_anthropology" title="Cyborg anthropology">Cyborg anthropology</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Centers</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cyberpunk" title="Cyberpunk">Cyberpunk</a></li>
+<li><a href="/wiki/Cyberspace" title="Cyberspace">Cyberspace</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Politics</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cognitive_liberty" title="Cognitive liberty">Cognitive liberty</a></li>
+<li><a href="/wiki/Extropianism" title="Extropianism">Extropianism</a></li>
+<li><a href="/wiki/Morphological_freedom" title="Morphological freedom">Morphological freedom</a></li>
+<li><a href="/wiki/Singularitarianism" title="Singularitarianism">Singularitarianism</a></li>
+<li><a href="/wiki/Techno-progressivism" title="Techno-progressivism">Techno-progressivism</a></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Related articles</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cyborg_art" title="Cyborg art">Cyborg art</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cyborg" title="Template:Cyborg"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cyborg" title="Template talk:Cyborg"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cyborg&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><br />
+<b>Distributed cognition</b> is an approach to <a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a> research that deploys models of the extended mind (see, for example, the paper <i><a href="/wiki/The_Extended_Mind" title="The Extended Mind">The Extended Mind</a></i>) by taking as the fundamental unit of analysis  "a collection of individuals and artifacts and their relations to each other in a particular work practice" <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>. "DCog" is a specific approach to distributed cognition (distinct from other meanings<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>) which takes a computational perspective towards goal-based activity systems.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Dcog frameworks employed were originally developed in the mid-1980s by <a href="/wiki/Edwin_Hutchins" title="Edwin Hutchins">Edwin Hutchins</a>, who continues to be the leading pioneer and whose research is based at the University of California at San Diego.
+</p><p>Using insights from <a href="/wiki/Sociology" title="Sociology">sociology</a>, <a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a>, and the psychology of <a href="/wiki/Vygotsky" class="mw-redirect" title="Vygotsky">Vygotsky</a> (cf. <a href="/wiki/Cultural-historical_psychology" title="Cultural-historical psychology">cultural-historical psychology</a>) it emphasizes the ways that cognition is off-loaded into the environment through social and technological means. It is a framework for studying cognition rather than a type of cognition. This framework involves the coordination between individuals, artifacts and the environment. 
+According to Zhang &amp; Norman (1994),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  the distributed cognition approach has three key components:
+</p>
+<ol><li><a href="/wiki/Embodied_cognition" title="Embodied cognition">Embodiment</a> of information that is embedded in representations of interaction</li>
+<li>Coordination of <a href="/wiki/Enactivism" title="Enactivism">enaction</a> among <a href="/wiki/Embodied_agent" title="Embodied agent">embodied agents</a></li>
+<li>Ecological contributions to a cognitive ecosystem</li></ol>
+<p>'Dcog' studies the "propagation of representational states across media" (Rogers and Ellis, ibid.). Mental content is considered to be non-reducible to individual cognition and is more properly understood as off-loaded and extended into the environment, where information is also made available to other agents (Heylighen, Heath, &amp; Overwalle, 2003). It is often understood as an approach in specific opposition to earlier and still prevalent "brain in a vat" models which ignore "situatedness, embodiment and enaction" as key to any cognitive act (Ibid.).
+</p><p>These representation-based frameworks consider distributed cognition as "a cognitive system whose structures and processes are distributed between internal and external representations, across a group of individuals, and across space and time" (Zhang and Patel, 2006). In general terms, they consider a distributed cognition system to have two components: internal and external representations. In their description, internal representations are knowledge and structure in individuals' minds while external representations are knowledge and structure in the external environment (Zhang, 1997b; Zhang and Norman, 1994).
+</p><p>DCog studies the ways that memories, facts, or knowledge is embedded in the objects, individuals, and tools in our environment. DCog is a useful approach for (re)designing the technologically mediated social aspects of cognition by putting emphasis on the individual and his/her environment, and the media channels with which people interact, either in order to communicate with each other, or socially coordinate to perform complex tasks. Distributed cognition views a system of cognition as a set of representations propagated through specific media, and models the interchange of information between these representational media. These representations can be either in the <a href="/wiki/Mental_space" title="Mental space">mental space</a> of the participants or external representations available in the environment.
+</p><p>These interactions can be categorized into three distinct types of processes:  
+</p>
+<ol><li>Cognitive processes may be distributed across the members of a social group.</li>
+<li>Cognitive processes may be distributed in the sense that the operation of the cognitive system involves coordination between internal and external (material or environmental) structure.</li>
+<li>Processes may be distributed through time in such a way that the products of earlier events can transform the nature of related events.</li></ol>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_research"><span class="tocnumber">1</span> <span class="toctext">Early research</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Metaphors_and_examples"><span class="tocnumber">3</span> <span class="toctext">Metaphors and examples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Quotes"><span class="tocnumber">4</span> <span class="toctext">Quotes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Notes"><span class="tocnumber">6.1</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_research">Early research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit&amp;section=1" title="Edit section: Early research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/John_Milton_Roberts" title="John Milton Roberts">John Milton Roberts</a> thought that <a href="/wiki/Social_organization" title="Social organization">social organization</a> could be seen as cognition through a <a href="/wiki/Community" title="Community">community</a> (<a href="#CITEREFRoberts1964">Roberts 1964</a>). He described the cognitive aspects of a society by looking at the present information and how it moves through the people in the society.
+</p><p>Daniel L. Schwartz (1978) proposed a distribution of cognition through culture and the distribution of beliefs across the members of a society.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2013)">citation needed</span></a></i>&#93;</sup>
+</p><p>In 1998, Mark Perry from <a href="/wiki/Brunel_University_London" title="Brunel University London">Brunel University London</a> explored the problems and the benefits brought by distributed cognition to "understanding the organisation of information within its contexts." He considered that distributed cognition draws from the <a href="/wiki/Information_processing" title="Information processing">information processing</a> metaphor of cognitive science where a <a href="/wiki/System" title="System">system</a> is considered in terms of its inputs and outputs and tasks are decomposed into a <a href="/wiki/Problem_space" class="mw-redirect" title="Problem space">problem space</a> (Perry, 1998). He believed that information should be studied through the representation within the media or artifact that represents the information. Cognition is said to be "socially distributed" when it is applied to demonstrate how interpersonal processes can be used to coordinate activity within a social group.
+</p><p>In 1999, <a href="/wiki/Gavriel_Salomon" title="Gavriel Salomon">Gavriel Salomon</a> stated that there were two classes of distributive cognition: shared cognition and off-loading<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2014)">citation needed</span></a></i>&#93;</sup>. Shared cognition is that which is shared among people through common activity such as conversation where there is a constant change of cognition based on the other person's responses. An example of off-loading would be using a calculator to do <a href="/wiki/Arithmetic" title="Arithmetic">arithmetic</a> or a creating a grocery list when going shopping. In that sense, the cognitive duties are off-loaded to a material object.
+</p><p>Later, John Sutton (2006)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> defined five appropriate domains of investigation for research in Dcog:
+</p>
+<ol><li>External cultural tools, artifacts, and symbol systems.</li>
+<li>Natural environmental resources.</li>
+<li>Interpersonal and social distribution or <a href="/wiki/Instructional_scaffolding" title="Instructional scaffolding">scaffolding</a>.</li>
+<li>Embodied capacities and skills.</li>
+<li>Internalized cognitive artifacts.</li></ol>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit&amp;section=2" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The application area of DCog is systems design and implementation in specific work environments. Its main method is <a href="/wiki/Field_research" title="Field research">field research</a>, going into the workplace and making rigorous observations, e.g. through capturing work performances with video, studying and coding the recorded activities using qualitative research methods to codify the various ways in which cognition is distributed in the local environment, through the social and technical systems with which the workers engage.
+</p><p>Distributed cognition as a theory of learning, i.e. one in which the development of knowledge is attributed to the system of thinking agents interacting dynamically with artifacts, has been widely applied in the field of <a href="/wiki/Distance_education" title="Distance education">distance learning</a>, especially in relation to <a href="/wiki/Computer-supported_collaborative_learning" title="Computer-supported collaborative learning">computer-supported collaborative learning</a> (CSCL) and other computer-supported learning tools. For example, in the field of teaching English Composition, Kevin LaGrandeur has argued that CSCL provides a source of common memory, collaborative space, and a cognitive artifact (tool to enhance cognition) that allows students to more easily build effective written compositions via explicit and implicit machine-human collaboration. Distributed cognition illustrates the process of interaction between people and technologies in order to determine how to best represent, store and provide access to digital resources and other artifacts.
+</p><p><a href="/wiki/Collaborative_tagging" class="mw-redirect" title="Collaborative tagging">Collaborative tagging</a> on the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> is one of the most recent developments in technological support for distributed cognition. Beginning in 2004<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and quickly becoming a standard on websites, collaborative tagging allows users to upload or select materials (e.g. pictures, music files, texts, websites) and associate tags with these materials. Tags can be chosen freely, and are similar to keywords. Other users can then browse through tags; a click on a tag connects a user to similarly tagged materials. Tags furthermore enable <a href="/wiki/Tag_cloud" title="Tag cloud">tag clouds</a>, which graphically represent the popularity of tags, demonstrating co-occurrence relations between tags and thus jump from one tag to another.
+</p><p>Dcog has also been used to understand learning and communication in clinical settings and to obtain an integrated view of clinical workplace learning. It has been observed how medical actors use and connect gestural practices, along with visual and haptic structures of their own bodies and of artifacts such as technological instruments and computational devices. In so doing they co-construct complex, multimodal representations that go beyond the mental representations usually studied from a cognitive perspective of learning (Pimmer, Pachler &amp; Genewein, 2013).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Distributed cognition can also be seen through cultures and communities. Learning certain habits or following certain traditions is seen as cognition distributed over a group of people. Exploring distributed cognition through community and culture is one way to understand how it may work.
+</p><p>With the new research that is emerging in this field, the overarching concept of distributed cognition enhances the understanding of interactions between individual human beings and artifacts such as technologies and machines, and complex external environments.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The citation is not specific enough to facilitate source verification (August 2013)">not specific enough to verify</span></a></i>&#93;</sup> This concept has been applied to educational research in the areas of <a href="/wiki/Distributed_Leadership" class="mw-redirect" title="Distributed Leadership">distributed leadership</a> and distributed instruction<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The citation is not specific enough to facilitate source verification (November 2015)">not specific enough to verify</span></a></i>&#93;</sup>.
+</p>
+<h2><span class="mw-headline" id="Metaphors_and_examples">Metaphors and examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit&amp;section=3" title="Edit section: Metaphors and examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Distributed cognition is seen when using paper and pencil to do a complicated arithmetic problem. The person doing the problem may talk with a friend to clarify the problem, and then must write the partial answers on the paper in order to be able to keep track of all the steps in the calculation. In this example, the parts of distributed cognition are seen in:
+</p>
+<ul><li>setting up the problem, in collaboration with another person,</li>
+<li>performing manipulation/arithmetic procedures, both in one's head and by writing down resulting partial answers.</li></ul>
+<p>The process of working out the answer requires not only the perception and thought of two people, it also requires the use of a tool (paper) to extend an individual's memory. So the intelligence is distributed, both between people, and a person and an object.
+</p><p>Another well-researched site for analyzing distributed cognition and applying the discovered insights towards the design of more optimal systems is aviation, where both cockpits and air traffic control environments have been studied as scenes that technologically and socially distribute cognition through systems of externalized representational media. It is not the cognitive performance and expertise of any one single person or machine that is important for the continued operation or the landing and takeoff of airplanes. The cognition is distributed over the personnel, sensors, and machinery both in the plane and on the ground, including but not limited to the controllers, pilots and crew as a whole<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>.
+</p><p>Hutchins also examined  another scene of distributed cognition within the context of navigating a US navy vessel.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In his book on USS Palau,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> he explains in detail how distributed cognition is manifested through the interaction between crew members as they interpret, process, and transform information into various representational states in order to safely navigate the ship. In this functional unit, crew members (e.g. pelorus operators, bearing takers, plotters, and the ship's captain) play the role of actors who transform information into different representational states (i.e. triangulation, landmark sightings, bearings, and maps). In this context, navigation is embodied through the combined efforts of actors in the functional unit.
+</p><p>In his study on process, representation and taskworld, Mark Perry (1998) demonstrated how distributed cognition analysis can be conducted in a field study. His example was design analysis in <a href="/wiki/Civil_engineering" title="Civil engineering">Civil engineering</a>. In this work, he showed how an information processing approach can be applied by carrying a detailed analysis of the background of the study - goals and resources, inputs and outputs, representations and processes, and transformational activity, "how information was transformed from the design drawings and site onto tables of measurements (different representations)" and then onto "a graphical representation" which provided a clearer demonstration of the relationship between the two data sets (Perry, 1998).
+</p>
+<h2><span class="mw-headline" id="Quotes">Quotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit&amp;section=4" title="Edit section: Quotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On <a href="/wiki/Educational_psychology" title="Educational psychology">educational psychology</a>:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>People think in conjunction and partnership with others and with the help of culturally provided tools and implements.</p><div class="templatequotecite">—&#8201;<cite>Salomon, 1997 p. xiii</cite></div>
+</blockquote>
+<p>On <a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a>:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>Nervous systems do not form representations of the world, they can only form representations of interactions with the world.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p></blockquote>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>The emphasis on finding and describing "knowledge structures" that are somewhere "inside" the individual encourages us to overlook the fact that human cognition is always situated in a complex sociocultural world and cannot be unaffected by it.</p><div class="templatequotecite">—&#8201;<cite>Hutchins, 1995 p. xiii</cite></div>
+</blockquote>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Activity_theory" title="Activity theory">Activity theory</a></li>
+<li><a href="/wiki/Civic_intelligence" title="Civic intelligence">Civic intelligence</a></li>
+<li><a href="/wiki/Collaborative_innovation_network" title="Collaborative innovation network">Collaborative innovation networks</a></li>
+<li><a href="/wiki/Collective_intelligence" title="Collective intelligence">Collective intelligence</a></li>
+<li><a href="/wiki/Distributed_language" title="Distributed language">Distributed language</a></li>
+<li><a href="/wiki/Distributed_leadership" title="Distributed leadership">Distributed leadership</a></li>
+<li><a href="/wiki/Extended_mind" class="mw-redirect" title="Extended mind">Extended mind</a></li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Collective_consciousness" title="Collective consciousness">Collective consciousness</a></li>
+<li><a href="/wiki/Global_brain" title="Global brain">Global brain</a></li>
+<li><a href="/wiki/List_of_thought_processes" class="mw-redirect" title="List of thought processes">List of thought processes</a></li>
+<li><a href="/wiki/Situated_cognition" title="Situated cognition">Situated cognition</a></li>
+<li><a href="/wiki/Social_cognition" title="Social cognition">Social cognition</a></li>
+<li><a href="/wiki/Portal:Thinking" title="Portal:Thinking">Portal:thinking</a></li></ul>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Brown, Ann L., et al.  "<a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=m8Yna0cjxAgC&amp;oi=fnd&amp;pg=PA188&amp;dq=%22Distributed+Expertise+in+the+Classroom%22&amp;ots=-uAx5RySFv&amp;sig=kqO13vNZss4ZL9BKIPEUH78UAL8#v=onepage&amp;q=%22Distributed%20Expertise%20in%20the%20Classroom%22&amp;f=false">Distributed Expertise in the Classroom</a>."  Distributed Cognitions: Psychological and Educational Considerations.  Ed. Gavriel Salomon.  New York: Cambridge UP, 1993.  188-28.</li>
+<li>Dror, I. E. &amp; Harnad, S. (2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110708174313/http://cognitiveconsultantsinternational.com/Dror_CT_offloading_cognition_onto_cognitive_technology.pdf">Offloading Cognition onto Cognitive Technology</a>. in I.Dror &amp; S. Harnad (Eds.), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dZM5AAAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Cognition Distributed: How Cognitive Technology Extends Our Minds</a> (pp 1–23). Amsterdam: John Benjamins Publishing.</li>
+<li>Heylighen, Francis; Heath, Margaret and Van Overwalle, Frank (2003). "The Emergence of Distributed Cognition: a conceptual framework," available on ResearchGate, <a rel="nofollow" class="external free" href="https://www.researchgate.net/publication/249812898_The_Emergence_of_Distributed_Cognition_a_conceptual_framework">https://www.researchgate.net/publication/249812898_The_Emergence_of_Distributed_Cognition_a_conceptual_framework</a></li>
+<li><cite id="CITEREFHutchins1995" class="citation book"><a href="/wiki/Edwin_Hutchins" title="Edwin Hutchins">Hutchins, Edwin</a> (1995). <i>Cognition in the Wild</i>. MIT Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-262-58146-2" title="Special:BookSources/978-0-262-58146-2">978-0-262-58146-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cognition+in+the+Wild&amp;rft.pub=MIT+Press&amp;rft.date=1995&amp;rft.isbn=978-0-262-58146-2&amp;rft.aulast=Hutchins&amp;rft.aufirst=Edwin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+cognition" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li>Hutchins, E. (1995) "How a cockpit remembers its speeds". Cognitive Science, 19, 265-288.</li>
+<li>LaGrandeur, K. (1998). <a rel="nofollow" class="external text" href="https://files.eric.ed.gov/fulltext/ED410563.pdf">"Splicing Ourselves into the Machine: Electronic Communities, Systems Theory, and Composition Studies."</a> ERIC, March, 1998: ED 410 563.</li>
+<li>Norman, D.A. (1993) "Things that make us smart" (Addison-Wesley).</li>
+<li>Perry, M. (1998, August). <a rel="nofollow" class="external text" href="https://www.researchgate.net/profile/Mark_Perry4/publication/2388174_Process_representation_and_taskworld_Distributed_cognition_and_the_organisation_of_information/links/02bfe510b0019a3b25000000.pdf">Process, representation and taskworld: distributed cognition and the organisation of information</a>. In Exploring the contexts of information behaviour. Proceedings of the Second International Conference on Research in Information Needs, Seeking and Use in different contexts. 13/15 August 1998. Sheffield, UK (pp.&#160;552–567).</li>
+<li>Perry, M. (2003) "Distributed Cognition". In J.M. Carroll (Ed.) "HCI Models, Theories, and Frameworks: Toward an Interdisciplinary Science" (Morgan Kaufmann) 193-223.</li>
+<li><cite id="CITEREFRoberts1964" class="citation book"><a href="/wiki/John_Milton_Roberts" title="John Milton Roberts">Roberts, John M.</a> (1964). "The Self-Management of Cultures".  In Ward H., Goodenough. <i>Explorations in Cultural Anthropology</i>. New York: McGraw Hill.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Self-Management+of+Cultures&amp;rft.btitle=Explorations+in+Cultural+Anthropology&amp;rft.place=New+York&amp;rft.pub=McGraw+Hill&amp;rft.date=1964&amp;rft.aulast=Roberts&amp;rft.aufirst=John+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+cognition" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li>Rogers, Yvonne and Ellis, Judy. "<a rel="nofollow" class="external text" href="http://www.dourish.com/classes/ics234bs03/14-RogersEllis-DistCog.pdf">Distributed Cognition: an alternative framework for analysing and explaining collaborative working</a>." Journal of Information Technology, 1994, vol 9(2), 119-128.</li>
+<li><cite id="CITEREFSalomon1997" class="citation book">Salomon, Gavriel (1997). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=sVFFnwEACAAJ"><i>Distributed cognitions: Psychological and educational considerations</i></a>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-57423-5" title="Special:BookSources/978-0-521-57423-5">978-0-521-57423-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Distributed+cognitions%3A+Psychological+and+educational+considerations&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1997&amp;rft.isbn=978-0-521-57423-5&amp;rft.aulast=Salomon&amp;rft.aufirst=Gavriel&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DsVFFnwEACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+cognition" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li>Zhang, J. (1997b). "<a rel="nofollow" class="external text" href="https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog2102_3">The nature of external representations in problem solving</a>". Cognitive Science 21: 179-217.</li>
+<li>Zhang, J. &amp; Norman, D.A. (1994) "<a rel="nofollow" class="external text" href="https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1801_3">Representations in Distributed Cognitive Tasks</a>", Cognitive Science, 18, 87-122.</li>
+<li>Zhang, J., &amp; Patel, V. L. (2006). <a rel="nofollow" class="external text" href="http://www-cogsci.ucsd.edu/~coulson/Courses/200/Zhang-Patel-2006.pdf">Distributed cognition, representation, and affordance</a>. Pragmatics &amp; Cognition, 14(2), 333-341.</li></ul>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Yvonne Rogers and Judi Ellis. <a rel="nofollow" class="external text" href="http://www.dourish.com/classes/ics234bs03/14-RogersEllis-DistCog.pdf">Distributed Cognition: an alternative framework for analysing and explaining collaborative working</a>. Published in Journal of Information Technology, 1994, vol 9(2), 119-128.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Michaelian, Kourken; Sutton, John (2013-02-20). "Distributed Cognition and Memory Research: History and Current Directions". <i>Review of Philosophy and Psychology</i>. <b>4</b> (1): 1–24. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs13164-013-0131-x">10.1007/s13164-013-0131-x</a>. <a href="/wiki/Handle_System" title="Handle System">hdl</a>:<a rel="nofollow" class="external text" href="//hdl.handle.net/11693%2F37950">11693/37950</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1878-5158">1878-5158</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Review+of+Philosophy+and+Psychology&amp;rft.atitle=Distributed+Cognition+and+Memory+Research%3A+History+and+Current+Directions&amp;rft.volume=4&amp;rft.issue=1&amp;rft.pages=1-24&amp;rft.date=2013-02-20&amp;rft_id=info%3Ahdl%2F11693%2F37950&amp;rft.issn=1878-5158&amp;rft_id=info%3Adoi%2F10.1007%2Fs13164-013-0131-x&amp;rft.aulast=Michaelian&amp;rft.aufirst=Kourken&amp;rft.au=Sutton%2C+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+cognition" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Perry, Mark. <a rel="nofollow" class="external text" href="http://people.brunel.ac.uk/~cssrmjp/homefiles/home.html">"Some simple definitions in Distributed Cognition (DCog)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Some+simple+definitions+in+Distributed+Cognition+%28DCog%29&amp;rft.aulast=Perry&amp;rft.aufirst=Mark&amp;rft_id=http%3A%2F%2Fpeople.brunel.ac.uk%2F~cssrmjp%2Fhomefiles%2Fhome.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+cognition" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, Jiaje; Norman, Donald A. (1994). "Representations in Distributed Cognitive Tasks". <i>Cognitive Science</i>. <b>18</b>: 87–122. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1207%2Fs15516709cog1801_3">10.1207/s15516709cog1801_3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cognitive+Science&amp;rft.atitle=Representations+in+Distributed+Cognitive+Tasks&amp;rft.volume=18&amp;rft.pages=87-122&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1207%2Fs15516709cog1801_3&amp;rft.aulast=Zhang&amp;rft.aufirst=Jiaje&amp;rft.au=Norman%2C+Donald+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+cognition" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sutton, John (2006-01-01). "Distributed cognition: Domains and dimensions". <i>Pragmatics &amp; Cognition</i>. <b>14</b> (2): 235–247. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1075%2Fpc.14.2.05sut">10.1075/pc.14.2.05sut</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pragmatics+%26+Cognition&amp;rft.atitle=Distributed+cognition%3A+Domains+and+dimensions&amp;rft.volume=14&amp;rft.issue=2&amp;rft.pages=235-247&amp;rft.date=2006-01-01&amp;rft_id=info%3Adoi%2F10.1075%2Fpc.14.2.05sut&amp;rft.aulast=Sutton&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+cognition" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Mika,Peter.(2005)<a rel="nofollow" class="external autonumber" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.2861&amp;rep=rep1&amp;type=pdf">[1]</a> "Ontologies are us:
+A united model of social networks and semantics" Referenced 20 March 2014</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Pimmer, C., Pachler, N., &amp; Genewein, U. (2013) "Reframing Clinical Workplace Learning Using the Theory of Distributed Cognition". Academic Medicine, 88(9), 1239–1245.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Hutchins, E. (1995). How a Cockpit Remembers Its Speeds. Cognitive Science, 19(3), 265-288.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Caroll, J. M., (2003). HCI Models, Theories, and Frameworks: Toward a Multidisciplinary Science. Morgan Kaufmann.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Hutchins, E. (1995). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=CGIaNc3F1MgC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Cognition in the wild</a>. Bradford: MIT Press.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Hutchins, Edwin. 12-3-09. <i>Distributed Cognition</i> lecture.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Dror, I.E. &amp; Harnad, S. (eds.) (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dZM5AAAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Cognition Distributed: How Cognitive Technology Extends Our Minds</a>. (258 pp.) John Benjamins, Amsterdam.</li>
+<li>Gureckis, T.M. and Goldstone. R.L. (2006) "Thinking in Groups", Pragmatics and Cognition, 14 (2), 293-311.</li>
+<li>Hollan, J., Hutchins, E., &amp; Kirsh, D. (2001) "<a rel="nofollow" class="external text" href="https://philpapers.org/archive/DAVDCT.pdf">Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research</a>." In J. M. Carroll (Ed.) <i>Human-Computer Interaction in the New Millennium</i>, ACM Press, New York, pp.&#160;75–94.</li>
+<li>Pea, R. D. (1993). <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=m8Yna0cjxAgC&amp;oi=fnd&amp;pg=PA47&amp;dq=%22Practices+of+distributed+intelligence+and+designs+for+education%22&amp;ots=-uAx5RyTOq&amp;sig=sHC8ajCChnFIeua7_J_hQQDtSIk#v=onepage&amp;q=%22Practices%20of%20distributed%20intelligence%20and%20designs%20for%20education%22&amp;f=false">Practices of distributed intelligence and designs for education</a>. In G. Salomon (Ed.). Distributed cognitions (pp.&#160;47–87). New York: Cambridge University Press.</li>
+<li>Resnick, L, Levine, S. and Teasley, L., (Eds.), <i>Perspectives of socially shared cognition</i> (Washington, D.C.:  American Psychological association, 1988).</li>
+<li>Ross, D., <i>et al.</i>, (Eds.), <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=DTvJxnfKs3YC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Distributed Cognition and the Will:  Individual volition in social context</a></i> (Cambridge, Mass:  MIT Press, 2007).</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20190412224542
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.320 seconds
+Real time usage: 0.433 seconds
+Preprocessor visited node count: 1272/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26059/2097152 bytes
+Template argument size: 2605/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21375/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.179/10.000 seconds
+Lua memory usage: 3.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  376.759      1 -total
+ 29.45%  110.949      1 Template:Reflist
+ 22.70%   85.532      3 Template:Cite_book
+ 20.68%   77.914      3 Template:Cite_journal
+ 20.64%   77.758      4 Template:Fix
+ 17.51%   65.979      2 Template:Citation_needed
+ 11.86%   44.667      8 Template:Category_handler
+  9.47%   35.671      3 Template:Quote
+  7.70%   29.022      1 Template:Cyborg
+  7.36%   27.734      4 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:989154-0!canonical and timestamp 20190412224542 and revision id 883717913
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Distributed_cognition&amp;oldid=883717913">https://en.wikipedia.org/w/index.php?title=Distributed_cognition&amp;oldid=883717913</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li><li><a href="/wiki/Category:Collective_intelligence" title="Category:Collective intelligence">Collective intelligence</a></li><li><a href="/wiki/Category:Enactive_cognition" title="Category:Enactive cognition">Enactive cognition</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2013" title="Category:Articles with unsourced statements from August 2013">Articles with unsourced statements from August 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2014" title="Category:Articles with unsourced statements from November 2014">Articles with unsourced statements from November 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_August_2013" title="Category:Wikipedia articles needing factual verification from August 2013">Wikipedia articles needing factual verification from August 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_November_2015" title="Category:Wikipedia articles needing factual verification from November 2015">Wikipedia articles needing factual verification from November 2015</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Distributed+cognition" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Distributed+cognition" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Distributed_cognition" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Distributed_cognition" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Distributed_cognition">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Distributed_cognition&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Distributed_cognition&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Distributed_cognition" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Distributed_cognition" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Distributed_cognition&amp;oldid=883717913" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Distributed_cognition&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7551870" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Distributed_cognition&amp;id=883717913" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Distributed+cognition">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Distributed+cognition&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Distributed_cognition&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%AF%D8%B1%D8%A7%D9%83_%D9%85%D9%88%D8%B2%D8%B9_%D9%86%D9%81%D8%B3%D9%8A%D8%A7" title="إدراك موزع نفسيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7551870#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 February 2019, at 04:29<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Distributed_cognition&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.433","ppvisitednodes":{"value":1272,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26059,"limit":2097152},"templateargumentsize":{"value":2605,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21375,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  376.759      1 -total"," 29.45%  110.949      1 Template:Reflist"," 22.70%   85.532      3 Template:Cite_book"," 20.68%   77.914      3 Template:Cite_journal"," 20.64%   77.758      4 Template:Fix"," 17.51%   65.979      2 Template:Citation_needed"," 11.86%   44.667      8 Template:Category_handler","  9.47%   35.671      3 Template:Quote","  7.70%   29.022      1 Template:Cyborg","  7.36%   27.734      4 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.179","limit":"10.000"},"limitreport-memusage":{"value":4021996,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20190412224542","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Distributed cognition","url":"https:\/\/en.wikipedia.org\/wiki\/Distributed_cognition","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7551870","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7551870","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-15T22:51:30Z","dateModified":"2019-02-17T04:29:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d5\/Unknown_engraver_-_Humani_Victus_Instrumenta_-_Ars_Coquinaria_-_WGA23954.jpg"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1269"});});</script>
+</body>
+</html>

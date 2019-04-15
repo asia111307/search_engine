@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mediawiki SvGViz extension - EduTech Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mediawiki_SvGViz_extension","wgTitle":"Mediawiki SvGViz extension","wgCurRevisionId":55897,"wgRevisionId":55897,"wgArticleId":3634,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognitive tools","Mediawiki documentation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mediawiki_SvGViz_extension","wgRelevantArticleId":3634,"wgRequestId":"459dfb5bd13eeccee3614da7","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"srfFilteredConfig":null,"sdgDownArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/right-arrow.png","wgHeaderTabsTabIndexes":[],"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/mediawiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","openlayers","googlemaps3"],"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.vector.styles.responsive":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1wt4m49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.wikilog","ext.headertabs","ext.headertabs.large","ext.categoryTree","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.responsive&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rdf+xml" title="Mediawiki SvGViz extension" href="/mediawiki/index.php?title=Special:ExportRDF/Mediawiki_SvGViz_extension&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="EduTech Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//edutechwiki.unige.ch/mediawiki/api.php?action=rsd"/>
+<link rel="license" href="/en/EduTech_Wiki:Copyrights"/>
+<!--[if lt IE 9]><script src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mediawiki_SvGViz_extension rootpage-Mediawiki_SvGViz_extension skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Mediawiki SvGViz extension</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From EduTech Wiki</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>&lt;pageby/&gt;
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Requirements"><span class="tocnumber">2</span> <span class="toctext">Requirements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Compatible_browsers"><span class="tocnumber">2.1</span> <span class="toctext">Compatible browsers</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Mediawiki_versions_and_requirements"><span class="tocnumber">2.2</span> <span class="toctext">Mediawiki versions and requirements</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Source_and_status"><span class="tocnumber">3</span> <span class="toctext">Source and status</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Problems"><span class="tocnumber">4</span> <span class="toctext">Problems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Open_issues"><span class="tocnumber">4.1</span> <span class="toctext">Open issues</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Fixed_problems"><span class="tocnumber">4.2</span> <span class="toctext">Fixed problems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Documentation"><span class="tocnumber">5</span> <span class="toctext">Documentation</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition"><span class="mw-headline-number">1</span> Definition</span></h2>
+<p><i>SvGViz</i> was a mediawiki extension to <a href="/en/Visualization" title="Visualization">visualize</a> the neighbor links (pages, categories and authors) of a mediawiki page with SVG. Currently it is not working in this wiki (it would need upgrading and some code optimization) - 02:04, 21 July 2015 (CEST).
+</p><p>Have a look the toolbox to your left and click on "Visualize this article with SVG". This menu item is available for all regular wiki pages.
+</p><p>See also: <a href="/en/Special:SemanticWiki" class="new" title="Special:SemanticWiki (page does not exist)">SemanticWiki</a>. This visualization developed by Urs Richle is more powerful, but needs Java, time to load and data file loaded by the applet can be <i>huge</i>, e.g. 5MB for this little wiki&#160;:). Hint: set "locality" to 2 <i>right after loading</i>. Since I wrote most of the pages and my contributions expand, you get hundreds of links on a page with three neighbours ...
+</p>
+<h2><span class="mw-headline" id="Requirements"><span class="mw-headline-number">2</span> Requirements</span></h2>
+<h3><span class="mw-headline" id="Compatible_browsers"><span class="mw-headline-number">2.1</span> Compatible browsers</span></h3>
+<p>It has been tested with&#160;:
+</p>
+<ul><li>Firefox (not too old versions) on Win, Mac (?) and Linux</li>
+<li>With IE 6/7 on Windows using the <a class="external text" href="http://www.adobe.com/svg/">Adobe SVG plugin</a>. Note: You may have trouble installing this plugin on IE 7, if you do, you may try <a class="external text" href="http://www.emiasys.net/">Renesis</a> (but 0.7 beta only gives you some of the SVG contents ... - 12:28, 6 July 2007 (MEST)).</li>
+<li>With Opera 9.2x on Windows</li></ul>
+<h3><span class="mw-headline" id="Mediawiki_versions_and_requirements"><span class="mw-headline-number">2.2</span> Mediawiki versions and requirements</span></h3>
+<ul><li>SvGViz runs with Mediawiki 1.10, but should also run with 1.8 and 1.9 (it will not run with older versions since SvGViz relies on a given database architecture for links extraction).</li></ul>
+<ul><li>SvGViz also relies on the MonoBook Skin/Theme (the one you see here). It is needed to insert the menu item into the toolbox menu and uses a theme-specific hook. Else you have to hack the skins files or make chances to the source code.</li></ul>
+<ul><li>PhP 5.x</li></ul>
+<h2><span class="mw-headline" id="Source_and_status"><span class="mw-headline-number">3</span> Source and status</span></h2>
+<ul><li>You can grab the <a class="external text" href="http://edutechwiki.unige.ch/mediawiki/extensions/downloads/SvgViz.zip">source zip file</a>, license is GPL, no warranty.</li></ul>
+<dl><dt>Status</dt></dl>
+<p>This is unsupported beta software.
+</p><p>Romain Sauvain did this project for one of my classes. The links extractor has been developed by Urs Richle for an earlier project, the <a href="/en/Special:SemanticWiki_JavaViz_(SemanticWiki)_extension" class="new" title="Special:SemanticWiki JavaViz (SemanticWiki) extension (page does not exist)">Special:SemanticWiki JavaViz (SemanticWiki) extension</a> .
+</p><p>The future of this extension is not clear for now - <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> 20:00, 27 June 2007 (MEST). But it's a GPL license ... so if you make signification contributions and redistribute another copy somewhere (e.g. on Mediawiki), please let us know.
+</p>
+<h2><span class="mw-headline" id="Problems"><span class="mw-headline-number">4</span> Problems</span></h2>
+<p>(last update: Sept 2007, next will probably be sometimes next fall).
+</p>
+<h3><span class="mw-headline" id="Open_issues"><span class="mw-headline-number">4.1</span> Open issues</span></h3>
+<dl><dt>Missing features</dt></dl>
+<ul><li>Toolbox link will not display in category pages</li>
+<li>Node type of the central node is not clear</li>
+<li>Can't find links to categories (only display categories of page)</li>
+<li>Forwarded pages (how can we deal with them and should we&#160;?)</li></ul>
+<h3><span class="mw-headline" id="Fixed_problems"><span class="mw-headline-number">4.2</span> Fixed problems</span></h3>
+<p>Version July 5 2007. Urs fixed these (you can try it in our <a class="external text" href="http://edutechwiki.unige.ch/fr/Accueil">French edutech wiki</a>):
+</p>
+<ul><li>This extension didn't <b>not</b> work if you use a database prefix. This was forgotten when the links extractor was written&#160;:( This can be fixed, but we don't have time for it right now ... Probably all files in SvgViz/includes/classes need to be changed.</li></ul>
+<pre>e.g. $wgDBprefix = "mw_"; will fail
+$wgDBprefix = ""; will work
+</pre>
+<ul><li>Links didn't <b>not</b> work if you have articles with accents.</li></ul>
+<p>Version Sept 2007:
+</p>
+<ul><li>On a page with images, firstly "display external links", then click on one of the image file link and you get</li></ul>
+<pre>"Fatal error: Cannot use object of type Link as array in
+/data/portails/mediawiki/extensions/SvgViz/wikiprojet.php on line 510"
+</pre>
+<h2><span class="mw-headline" id="Documentation"><span class="mw-headline-number">5</span> Documentation</span></h2>
+<p>Here is copy of the readme file (actually, this should become the readme file in some future release)
+</p>
+<code><pre>
+
+++++++++++++++++++++++++++++
+WikiViz: Installation guide
+++++++++++++++++++++++++++++
+
++----------------------------------------------------------------------+
+| SVGViz, a MediaWiki(1.9.3) extension                                 |
++----------------------------------------------------------------------+
+| Copyright (C) 2007  Romain Sauvain                                   |
++----------------------------------------------------------------------+
+| This program is free software; you can redistribute it and/or
+| modify it under the terms of the GNU General Public License
+| as published by the Free Software Foundation; either version 2
+| of the License, or (at your option) any later version.
+|
+| This program is distributed in the hope that it will be useful,
+| but WITHOUT ANY WARRANTY; without even the implied warranty of
+| MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+| GNU General Public License for more details.
+|
+| You should have received a copy of the GNU General Public License
+| along with this program; if not, write to the Free Software
+| Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+| MA  02110-1301, USA.
++----------------------------------------------------------------------+
+| Author: Romain Sauvain &lt;romain.sauvain@a3.epfl.ch&gt;                   |
++----------------------------------------------------------------------+
+SVGViz is an extension for the MediaWiki platforme. (http://www.mediawiki.org/wiki/MediaWiki)
+SVGViz creates a specific visualization of the MediaWiki semantic content diplayed with SVG
+
+ATTENTION: SVGViz requires PHP 5!
+++++++++++++++++++++++++++++++++++
+SVGViz-Installation
+++++++++++++++++++++++++++++++++++
+
+PLACEMENT
+
+1) download SVGViz zip, unpack and put the SVGViz package into the
+   directory "extensions". Do not change the name of the directories
+   or files.
+
+2) put the follwing lines into the file "LocalSettings.php" (just after
+   "require_once ("includes/DefaultSettings.php")" or at the end of
+   the script)
+
+# SvgViz Extension
+require_once("extensions/SvgViz/SvgViz.php");
+
+3) Set the permissions of the "tempfiles" directory to "world-write", so
+   that Php can create temporary files in this directory. Alternatively,
+   and better, chown this directory to the owner of the httpd processes.
+
+
+DEFINE PATH AND GLOBALS
+
+4) Open the file "define.php" in the directory "includes" of SVGViz
+   (go to "SVGViz" directory and find "includes" directory there).
+
+5) Define your default selected Node name: open the script
+   "define.php" in the directory "includes" - define the global
+   variable "$initialNodeName" with your default Node-name.
+
+VIEW
+
+6) Go to specialpages on MediaWiki. You will find "SVGViz" in the
+   list. You should also have link called "Visualise this article" in
+   your left menu.
+
+IF SOMETHING GOES WRONG (added by DKS / June 26)
+
+There may be a problem with wikiproject.php, i.e. definition of file
+and URL pathes (look at the beginning and the end of the file).
+
+At TECFA we have the following setup (file LocalSettings.php):
+
+$wgScriptPath	    = "/mediawiki";
+$wgScript           = "$wgScriptPath/index.php";
+$wgRedirectScript   = "$wgScriptPath/redirect.php";
+
+# DKS 3/2006
+$wgArticlePath      = "/en/$1";
+
+$wgStylePath        = "$wgScriptPath/skins";
+$wgStyleDirectory   = "$IP/skins";
+$wgLogo             = "$wgStylePath/monobook/tecfa/wiki.png";
+
+$wgUploadPath       = "$wgScriptPath/images";
+$wgUploadDirectory  = "$IP/images";
+
+Apache httpd.conf looks like this:
+
+Alias /mediawiki "/data/portails/mediawiki"
+Alias /en "/data/portails/mediawiki/index.php"
+Alias /en/index.php "/data/portails/mediawiki/index.php"
+</pre></code>
+
+<!-- 
+NewPP limit report
+Cached time: 20190402030843
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.016 seconds
+Real time usage: 0.016 seconds
+Preprocessor visited node count: 38/1000000
+Preprocessor generated node count: 60/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3661/5000000 bytes
+ExtRegexFun count: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key edutechwiki_en:pcache:idhash:3634-0!canonical and timestamp 20190402030843 and revision id 55897
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://edutechwiki.unige.ch/mediawiki/index.php?title=Mediawiki_SvGViz_extension&amp;oldid=55897">http://edutechwiki.unige.ch/mediawiki/index.php?title=Mediawiki_SvGViz_extension&amp;oldid=55897</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/en/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/en/Category:Cognitive_tools" title="Category:Cognitive tools">Cognitive tools</a></li><li><a href="/en/Category:Mediawiki_documentation" title="Category:Mediawiki documentation">Mediawiki documentation</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Mediawiki+SvGViz+extension" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/en/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/en/Mediawiki_SvGViz_extension" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/mediawiki/index.php?title=Talk:Mediawiki_SvGViz_extension&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/en/Mediawiki_SvGViz_extension">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/mediawiki/index.php?title=Mediawiki_SvGViz_extension&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=Mediawiki_SvGViz_extension&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Slow Search</label>
+						</h3>
+						<form action="/mediawiki/index.php" id="searchform">
+							<div>
+								<input type="search" name="search" placeholder="Search EduTech Wiki" title="Search EduTech Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/en/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-TEST" aria-labelledby="p-TEST-label">
+			<h3 id="p-TEST-label">TEST</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Navigation_and_help" aria-labelledby="p-Navigation_and_help-label">
+			<h3 id="p-Navigation_and_help-label">Navigation and help</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Mainpage"><a href="/en/Main_Page">Main Page</a></li><li id="n-recentchanges"><a href="/en/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-about"><a href="/en/EduTech_Wiki:About">About</a></li><li id="n-randompage"><a href="/en/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li><li id="n-Editing-rules"><a href="/en/Help:Editing_rules">Editing rules</a></li><li id="n-Blog:DKS"><a href="/en/Blog:DKS">Blog:DKS</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-categorytree-portlet" aria-labelledby="p-categorytree-portlet-label">
+			<h3 id="p-categorytree-portlet-label">Categories</h3>
+			<div class="body">
+				<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Citizen_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Citizen_science">Citizen science</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Design_and_research_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Design_and_research_methods">Design and research methods</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Education_and_instruction" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Education_and_instruction">Education and instruction</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technologies">Educational technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technology_-_the_field" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technology_-_the_field">Educational technology - the field</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Position_paper">Position paper</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Psychology_and_learning" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Psychology_and_learning">Psychology and learning</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Socio-political_and_organization" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Socio-political_and_organization">Socio-political and organization</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Special_contents" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Special_contents">Special contents</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Technologies">Technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Tutorials" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Tutorials">Tutorials</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		</div>
+					</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mediawiki+SvGViz+extension">Create a book</a></li><li id="coll-download-as-rl"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Mediawiki+SvGViz+extension&amp;returnto=Mediawiki+SvGViz+extension&amp;oldid=55897&amp;writer=rl">Download as PDF</a></li><li id="t-print"><a href="/mediawiki/index.php?title=Mediawiki_SvGViz_extension&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/en/Special:WhatLinksHere/Mediawiki_SvGViz_extension" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/en/Special:RecentChangesLinked/Mediawiki_SvGViz_extension" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/en/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/mediawiki/index.php?title=Mediawiki_SvGViz_extension&amp;oldid=55897" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/mediawiki/index.php?title=Mediawiki_SvGViz_extension&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/mediawiki/index.php?title=Special:CiteThisPage&amp;page=Mediawiki_SvGViz_extension&amp;id=55897" title="Information on how to cite this page">Cite this page</a></li><li id="t-smwbrowselink"><a href="/en/Special:Browse/:Mediawiki-5FSvGViz-5Fextension" rel="search">Browse properties</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Big_brother" aria-labelledby="p-Big_brother-label">
+			<h3 id="p-Big_brother-label">Big brother</h3>
+			<div class="body">
+								<ul>
+					<li id="n-New-Pages"><a href="/en/Special:NewPages">New Pages</a></li><li id="n-contributionscores"><a href="/en/Special:ContributionScores">Contribution scores</a></li><li id="n-Popular-Pages"><a href="/en/Special:Popularpages">Popular Pages</a></li><li id="n-Who-is-online-.3F"><a href="/en/Special:WhosOnline">Who is online ?</a></li><li id="n-Version"><a href="/en/Special:Version">Version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-TECFA_Links" aria-labelledby="p-TECFA_Links-label">
+			<h3 id="p-TECFA_Links-label">TECFA Links</h3>
+			<div class="body">
+				<div class="sidebar_banner"><a href="http://tecfa.unige.ch/"><img title="TECFA - Educational Technology Unit - UniGE" alt="TECFA - Educational Technology Unit - Home page" src="/mediawiki/tecfa/TECFAlogoArtNoText.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/maltt"><img title="Master of Science in Learning and Teaching Technologies" alt="Master of Science in Learning and Teaching Technologies" src="/mediawiki/tecfa/LOGO_MALTT.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/formcont/"><img title="Certificate of Advanced Studies (CAS): Conception et développement de projets e-learning, Journées thématiques, TECFA, FPSE, Université de Genève" alt="Cours de formation continue offerts par TECFA, Université de Genève: CAS - Conception et développement de projets e-learning, Application des normes du e-learning, Réalisation de vidéos pédagogiques, Introduction HTML5 et CSS, Coordination des formations en ligne, Traitement de ressources multimédia, Activités pédagogiques avec Captivate" src="/mediawiki/tecfa/fclogored.png" /></a></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Page last modified 02:04, 21 July 2015.</li>
+								<li id="footer-info-copyright">By default, content is protected by a <a href="/en/EduTech_Wiki:Copyrights" title="EduTech Wiki:Copyrights">CC BY-NC-SA Licence</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/en/EduTech_Wiki:Privacy_policy" title="EduTech Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/en/EduTech_Wiki:About" title="EduTech Wiki:About">About EduTech Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/en/EduTech_Wiki:General_disclaimer" title="EduTech Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/mediawiki/tecfa/somerights.png" alt="CC BY-NC-SA Licence" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/mediawiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /mediawiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+										<li id="footer-monitoredbyico">
+						<a href="http://wikiapiary.com/wiki/EduTech_Wiki_(en)"><img src="/mediawiki/tecfa/Monitored_by_WikiApiary.png" alt="Monitored by WikiApiary" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.016","walltime":"0.016","ppvisitednodes":{"value":38,"limit":1000000},"ppgeneratednodes":{"value":60,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3661,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20190402030843","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7586057-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94});});</script>
+	</body>
+<!-- Cached/compressed 20190402030843 -->
+</html>

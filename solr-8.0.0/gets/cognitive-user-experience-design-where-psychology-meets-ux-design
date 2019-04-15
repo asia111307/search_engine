@@ -1,0 +1,508 @@
+<!doctype html>
+<html lang="en">
+<!--
+🤔 You look like a curious web expert.
+💁 That’s good, we’re hiring!
+👉 https://www.liip.ch/jobs
+-->
+<head>
+  <script>
+        var dataLayer = window.dataLayer || [];
+    dataLayer.push({"websiteLanguage":"en","pageType":"blogpost","blogpostExpertises":"service-design, user-experience, e-commerce, e-learning, content-management, content-strategy","blogpostTopics":"user-experience-design","blogpostTags":"user centered design, psychology, cognitive user experience design, motivation, cognition, perception and awareness, emotion, volition"});
+  </script>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KTPM65V');</script>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="content-language" content="en">
+  <link rel="icon" type="image/x-icon" href="/assets/dist/favicon.1553239427.ico">
+  <title>Cognitive User Experience Design - Where Psychology meets UX Design &middot; Blog &middot; Liip</title>
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Cognitive User Experience Design - Where Psychology meets UX Design &middot; Blog &middot; Liip">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Liip">
+    <meta property="og:url" content="https://www.liip.ch/en/blog/cognitive-user-experience-design-where-psychology-meets-ux-design">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="https://liip.rokka.io/www_socialmedia/e86959/blogpost-01.jpg">
+    <meta property="og:image:width" content="1142">
+    <meta property="og:image:height" content="571">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@liip">
+    <meta name="twitter:title" content="Cognitive User Experience Design - Where Psychology meets UX Design &middot; Blog &middot; Liip">
+    <meta name="twitter:image" content="https://liip.rokka.io/www_socialmedia/e86959/blogpost-01.jpg">
+    <link rel="canonical" href="https://www.liip.ch/en/blog/cognitive-user-experience-design-where-psychology-meets-ux-design">
+    <link rel="alternate" type="application/rss+xml" title="Liip Blog" href="https://www.liip.ch/en/feed">
+  <link rel="stylesheet" href="/assets/dist/common.1553239427.css">    <link rel="preload" href="/assets/dist/Etica-Book.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/assets/dist/Etica-SemiBold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/assets/dist/Etica-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTPM65V"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+<div id="default-navbar" class="navbar navbar--sticky">
+  <div class="navbar__body">
+    <a href="https://www.liip.ch/en" class="navbar__brand" title="Liip">
+  <div class="logo">
+    <svg class="logo__L" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32.7 49">
+      <path d="M0.1,46.8h29.6v-9.7H11.2V2.5H0.4v44.3H0.1z M0.1,46.8h29.6v-9.7H11.2V2.5H0.4v44.3H0.1z"></path>
+    </svg>
+    <svg class="logo__II" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.8 49">
+      <path d="M13.5,48.3L35.2,5.1l-9.6-4.9L3.8,43.4L13.5,48.3 M38.6,48.3L60.4,5.1l-9.7-4.9L28.9,43.4
+      L38.6,48.3"></path>
+    </svg>
+    <svg class="logo__P" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.9 49">
+      <path d="M3.4,2.5v44.3h10.8V31h6.6c9.8,0,15-7,15-14.2c0-7.3-5.3-14.2-15-14.2H3.4L3.4,2.5z M14.3,12.3
+      h6.1c3,0,4.7,2.2,4.7,4.5s-1.7,4.5-4.7,4.5h-6.1V12.3L14.3,12.3z"></path>
+    </svg>
+  </div>
+</a>
+
+    <button class="navbar__toggle btn btn--bare" data-toggle="collapse" data-target=".navbar__collapse" title="Toggle navigation">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="navbar-hamburger icon">
+        <rect x="4" y="5" width="16" height="2" class="navbar-hamburger__first"/>
+        <rect x="4" y="11" width="16" height="2" class="navbar-hamburger__second"/>
+        <rect x="4" y="17" width="16" height="2" class="navbar-hamburger__third"/>
+      </svg>
+    </button>
+
+    <nav class="navbar__collapse collapse">
+      <ul class="navbar-menu">
+                                <li>
+          <a href="https://www.liip.ch/en/work" class="navbar-menu__link">
+            Work          </a>
+        </li>
+                        <li>
+          <a href="https://www.liip.ch/en/team" class="navbar-menu__link">
+            Team          </a>
+        </li>
+                        <li>
+          <a href="https://www.liip.ch/en/blog" class="navbar-menu__link is-active">
+            Blog          </a>
+        </li>
+              </ul>
+    </nav>
+  </div>
+</div>
+
+<script type="text/javascript">
+  window.addEventListener('DOMContentLoaded', function() {
+    var navbar = document.querySelector('#default-navbar');
+    new Styleguide.Navbar(navbar);
+  });
+</script>
+
+  <section class="section section--behind-navbar prism prism--l1">
+    <div class="section__body">
+                            <figure class="image-branded mrgb md-mrgb+ lg-mrgb++">
+          <img src="https://liip.rokka.io/www_articlebig/e86959/blogpost-01.jpg" srcset="https://liip.rokka.io/www_articlebig/options-dpr-2/e86959/blogpost-01.jpg 2x" alt="blogpost_01.jpg" class="img-block" />
+        </figure>
+              
+      <article class="article">
+        <header class="mrgb">
+          <h1>Cognitive User Experience Design - Where Psychology meets UX Design</h1>
+          <ul class="list-inline">
+            <li><time datetime="2019-04-04" pubdate="pubdate" class="text-bold">04 April 2019</time></li>
+                                                        <li>Viktoria Kluckner</li>
+                                    </ul>
+        </header>
+
+        <div class="wysiwyg">
+                                <div class="text-lead">
+              <p>How can Cognitive User Experience Design improve the User Experience? Learn more about the combination of two disciplines.</p>            </div>
+          
+          <p>Psychology and User Experience Design have a lot in common. The combination of both disciplines is known as Cognitive User Experience Design (short Cognitive UXD). Thereby, the psychology provides valuable concepts that can be applied to design, the way we think,  how we design experiences and how we experience designs. The most important concepts are Motivation, Cognition, Perception &amp; Awareness, Emotion and Volition. They all have in common that they are primary human psychological functions.</p>
+<p>In the following blog posts I will underline their impact on design.<br />
+But before starting, I will describe each concept briefly and their role in design.</p>
+<p><strong>Motivation</strong> is characterized as the reason why people take actions. It is goal-directed behavior, which requires self-regulatory efforts and differs in duration and intensity. It’s role in design is to meet individual’s needs and to strive for proficiency and creativity in order to surprise users with delightful services with a great experience.</p>
+<p><strong>Cognition</strong> is the mental effort that is used in the working memory. Cognitive overload leads to more time and effort to complete a task. As a designer we have several strategies to reduce the cognitive overload for users.</p>
+<p><strong>Perception &amp; Awareness</strong> contain to identify, organize and interpret sensory information. They are heavily affected by Biases and Persuasion, which in turn have an influence on our perception. It’s role in design is also well known as Gestalt Psychology. This knowledge about Gestalt Psychology, Biases and Persuasion combined with the capacities and characteristics of human perception enable us to design better experiences.</p>
+<p><strong>Emotion</strong> is a mental state that is often linked with mood, temperament, motivation, personality and disposition. Because we take decisions based on our emotional state, the goal is to trigger positive experiences with design. The communication and creation of emotions is a challenge for designers that is worth to give more attention.</p>
+<p><strong>Volition</strong>, or “willpower”, contains the process from intention to actual behavior. It encompasses a process of forming a purpose (setting a goal and planning) to implementing decisions (organisation and control). Same as for motivation, volition is goal-directed and requires self-regulatory efforts. Nowadays, new approaches indicate that it is a conscious action control which turns into automatized processes. </p>
+<p>All those short outlooks in further blog posts illustrate the huge importance Cognitive User Experience Design has. By the end of each blog post you will</p>
+<ul>
+<li>Understand how Cognitive UXD and each focused topic itself has an impact on User Experience</li>
+<li>Be able to adopt and analyse Cognitive UXD-driven approach to design</li>
+<li>Be equipped with knowledge and recommendations of Cognitive UXD to improve the User Experience</li>
+<li>Have a profound understanding of the Cognitive UXD-driven approach</li>
+</ul>
+<p>My next blog post is about Motivation.  There, I describe which role the Hierarchy of Needs plays in design.</p>        </div>
+
+        <footer class="mrgt+ lg-mrgt++">
+                      
+    
+<a href="https://www.liip.ch/en/team/viktoria-kluckner" class="liiper-card media media--middle">
+  <div class="media__left">
+                  <div class="liiper-card__avatar avatar" style="background-image:url('https://liip.rokka.io/www_liipersmall/02a1763e41c75171ea75629e8125a162e68d0d6a/viktoria-kluckner.jpg'); background-image: -webkit-image-set(url('https://liip.rokka.io/www_liipersmall/02a1763e41c75171ea75629e8125a162e68d0d6a/viktoria-kluckner.jpg') 1x, url('https://liip.rokka.io/www_liipersmall/options-dpr-2/02a1763e41c75171ea75629e8125a162e68d0d6a/viktoria-kluckner.jpg') 2x);"></div>
+  </div>
+  <div class="media__body">
+    <div class="liiper-card__name">Viktoria Kluckner</div>
+
+          <div class="liiper-card__role">User Experience Designer, Cognitive UX Designer</div>
+      </div>
+</a>
+          
+          <div class="grid grid--multiline mrgt+ lg-mrgt++">
+                          <div class="grid__item sm-w-1/2">
+                <h6 class="mrgt0">Related services</h6>
+                <ul class="list-stacked list-stacked--tiny">
+                                      <li>
+<a href="https://www.liip.ch/en/work/service-design" class="expertise-tag">
+  <span class="expertise-tag__body">Service Design</span>
+  <svg class="icon icon--slashes expertise-icon" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#slashes"></use>
+</svg></a>
+</li>
+                                      <li>
+<a href="https://www.liip.ch/en/work/user-experience" class="expertise-tag">
+  <span class="expertise-tag__body">User Experience</span>
+  <svg class="icon icon--slashes expertise-icon" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#slashes"></use>
+</svg></a>
+</li>
+                                      <li>
+<a href="https://www.liip.ch/en/work/e-commerce" class="expertise-tag">
+  <span class="expertise-tag__body">E-commerce</span>
+  <svg class="icon icon--slashes expertise-icon" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#slashes"></use>
+</svg></a>
+</li>
+                                      <li>
+<a href="https://www.liip.ch/en/work/e-learning" class="expertise-tag">
+  <span class="expertise-tag__body">E-Learning</span>
+  <svg class="icon icon--slashes expertise-icon" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#slashes"></use>
+</svg></a>
+</li>
+                                      <li>
+<a href="https://www.liip.ch/en/work/content-management" class="expertise-tag">
+  <span class="expertise-tag__body">Content Management</span>
+  <svg class="icon icon--slashes expertise-icon" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#slashes"></use>
+</svg></a>
+</li>
+                                      <li>
+<a href="https://www.liip.ch/en/work/content-strategy" class="expertise-tag">
+  <span class="expertise-tag__body">Content Strategy</span>
+  <svg class="icon icon--slashes expertise-icon" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#slashes"></use>
+</svg></a>
+</li>
+                                  </ul>
+              </div>
+                                                  <div class="grid__item sm-w-1/2">
+                <ul class="list-stacked">
+                                                          <li>
+                      <h6 class="mrgt0">Topics</h6>
+                      <ul class="list-inline list-inline--tight">
+                                                                            <li class="mrgr-- mrgb--">
+                                                          <a href="https://www.liip.ch/en/blog/topics/user-experience-design" class="tag">User Experience Design</a>
+                                                      </li>
+                                              </ul>
+                    </li>
+                                                        <li>
+                      <h6 class="mrgt0">Tags</h6>
+                      <ul class="list-inline list-inline--tight">
+                                                  <li class="mrgr-- mrgb--"><a href="https://www.liip.ch/en/blog/tags/user+centered+design" class="tag">user centered design</a></li>
+                                                  <li class="mrgr-- mrgb--"><a href="https://www.liip.ch/en/blog/tags/psychology" class="tag">psychology</a></li>
+                                                  <li class="mrgr-- mrgb--"><a href="https://www.liip.ch/en/blog/tags/cognitive+user+experience+design" class="tag">cognitive user experience design</a></li>
+                                                  <li class="mrgr-- mrgb--"><a href="https://www.liip.ch/en/blog/tags/motivation" class="tag">motivation</a></li>
+                                                  <li class="mrgr-- mrgb--"><a href="https://www.liip.ch/en/blog/tags/cognition" class="tag">cognition</a></li>
+                                                  <li class="mrgr-- mrgb--"><a href="https://www.liip.ch/en/blog/tags/perception+and+awareness" class="tag">perception and awareness</a></li>
+                                                  <li class="mrgr-- mrgb--"><a href="https://www.liip.ch/en/blog/tags/emotion" class="tag">emotion</a></li>
+                                                  <li class="mrgr-- mrgb--"><a href="https://www.liip.ch/en/blog/tags/volition" class="tag">volition</a></li>
+                                              </ul>
+                    </li>
+                                  </ul>
+              </div>
+                      </div>
+        </footer>
+      </article>
+    </div>
+  </section>
+
+  <hr>
+
+<section class="section">
+  <div class="section__body">
+    <h2 class="mrgt0">Tell us what you think</h2>
+    <div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = 'https://www.liip.ch/en/blog/cognitive-user-experience-design-where-psychology-meets-ux-design';
+    this.page.identifier = 'blog/cognitive-user-experience-design-where-psychology-meets-ux-design';
+    this.page.title = 'Cognitive User Experience Design - Where Psychology meets UX Design';
+    this.language = 'en';
+  };
+  (function() {
+  var d = document, s = d.createElement('script');
+  s.src = 'https://liip.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>
+  Please enable JavaScript to view the comments.</noscript>
+
+  </div>
+</section>
+
+
+  <footer class="footer hidden-print">
+    <div class="section">
+      <div class="section__body">
+        <div class="addresses grid grid--multiline hidden-sm-down">
+                    <div class="grid__item sm-w-1/2 md-w-1/3 lg-w-1/5">
+            <article class="address address--300">
+              <div class="weather address__weather">
+                <div class="weather__icon icon icon--200" data-city-id="2659994">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+              <h2 class="h4 address__title">Lausanne</h2>
+              <address class="address__body">
+                Rue Etraz 4<br>
+                                CH-1003 Lausanne<br>
+                                  Phone:                  <a href="tel:+41215331300" class="link-text">+41 21 533 13 00</a><br>
+                              </address>
+                              <a href="https://www.google.ch/maps/place/Liip+SA/@46.519291,6.6360539,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e339695a2e1:0x9cd730b81e05924b!8m2!3d46.519291!4d6.6382426?hl=en" class="address__map-link">Directions</a>
+                          </article>
+          </div>
+                    <div class="grid__item sm-w-1/2 md-w-1/3 lg-w-1/5">
+            <article class="address address--400">
+              <div class="weather address__weather">
+                <div class="weather__icon icon icon--200" data-city-id="2660718">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+              <h2 class="h4 address__title">Fribourg</h2>
+              <address class="address__body">
+                Rue de la Banque 1<br>
+                                  CP 917<br>
+                                CH-1701 Fribourg<br>
+                                  Phone:                  <a href="tel:+41264222511" class="link-text">+41 26 422 25 11</a><br>
+                              </address>
+                              <a href="https://www.google.ch/maps/place/Liip+AG/@46.8042744,7.1526074,17z/data=!4m5!3m4!1s0x478e692e6c342abb:0xfa0c76ce88136f93!8m2!3d46.8042744!4d7.1547961?hl=en" class="address__map-link">Directions</a>
+                          </article>
+          </div>
+                    <div class="grid__item sm-w-1/2 md-w-1/3 lg-w-1/5">
+            <article class="address address--500">
+              <div class="weather address__weather">
+                <div class="weather__icon icon icon--200" data-city-id="2661552">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+              <h2 class="h4 address__title">Bern</h2>
+              <address class="address__body">
+                Schmiedenplatz 5<br>
+                                CH-3011 Bern<br>
+                                  Phone:                  <a href="tel:+41315505970" class="link-text">+41 31 550 59 70</a><br>
+                              </address>
+                              <a href="https://www.google.ch/maps/place/Liip+AG/@46.9486449,7.444509,17z/data=!3m1!4b1!4m5!3m4!1s0x478e39c14ff1e8c3:0x80099f7dcdbeb001!8m2!3d46.9486449!4d7.4466977?hl=en" class="address__map-link">Directions</a>
+                          </article>
+          </div>
+                    <div class="grid__item sm-w-1/2 md-w-1/3 lg-w-1/5">
+            <article class="address address--600">
+              <div class="weather address__weather">
+                <div class="weather__icon icon icon--200" data-city-id="6295494">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+              <h2 class="h4 address__title">Z&uuml;rich</h2>
+              <address class="address__body">
+                Limmatstrasse 183<br>
+                                CH-8005 Z&uuml;rich<br>
+                                  Phone:                  <a href="tel:+41435003980" class="link-text">+41 43 500 39 80</a><br>
+                              </address>
+                              <a href="https://www.google.ch/maps/place/Liip+AG/@47.3861445,8.5270333,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a171eb6d28d:0x9e78386020738294!8m2!3d47.3861445!4d8.529222?hl=en" class="address__map-link">Directions</a>
+                          </article>
+          </div>
+                    <div class="grid__item sm-w-1/2 md-w-1/3 lg-w-1/5">
+            <article class="address address--700">
+              <div class="weather address__weather">
+                <div class="weather__icon icon icon--200" data-city-id="2658822">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+              <h2 class="h4 address__title">St.&nbsp;Gallen</h2>
+              <address class="address__body">
+                Vadianstrasse 25A<br>
+                                CH-9000 St. Gallen<br>
+                                  Phone:                  <a href="tel:+41715771337" class="link-text">+41 71 577 13 37</a><br>
+                              </address>
+                              <a href="https://www.google.ch/maps/place/Liip+AG/@47.4217033,9.3692739,17z/data=!4m5!3m4!1s0x479b1e4b98a711c1:0x369b70f01bcdd979!8m2!3d47.4217033!4d9.3714626?hl=en" class="address__map-link">Directions</a>
+                          </article>
+          </div>
+                  </div>
+
+        <div class="hidden-md-up">
+          <article class="address">
+                                      <div class="weather hidden" data-address-block="3">
+                <div class="weather__icon icon icon--200" data-city-id="2659994">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+                          <div class="weather" data-address-block="2">
+                <div class="weather__icon icon icon--200" data-city-id="2660718">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+                          <div class="weather hidden" data-address-block="6">
+                <div class="weather__icon icon icon--200" data-city-id="2661552">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+                          <div class="weather hidden" data-address-block="1">
+                <div class="weather__icon icon icon--200" data-city-id="6295494">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+                          <div class="weather hidden" data-address-block="5">
+                <div class="weather__icon icon icon--200" data-city-id="2658822">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.9 10.9c.3-1.1.1-2.3-.6-3.2-.8-1.1-2-1.7-3.3-1.7-1-2.4-3.4-4-6-4-3.4 0-6.2 2.7-6.5 6-3.1.3-5.5 2.9-5.5 6 0 3.3 2.7 6 6 6h13c2.8 0 5-2.2 5-5 0-1.6-.8-3.1-2.1-4.1zM19 19H6c-2.8 0-5-2.2-5-5s2.2-5 5-5c.3 0 .5-.2.5-.5C6.5 5.5 9 3 12 3c2.3 0 4.4 1.5 5.2 3.7.1.2.3.3.5.3 1.1-.1 2.1.4 2.7 1.2.6.9.8 1.8.4 2.8-.1.2 0 .5.2.6 1.2.7 2 2 2 3.4 0 2.2-1.8 4-4 4z"/><circle cx="12" cy="15.6" r=".7"/><path d="M12 7.2c-1.4 0-2.6 1.2-2.6 2.6 0 .3.2.5.5.5s.5-.2.5-.5c0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.3 0-.5.2-.5.5V14c0 .3.2.5.5.5s.5-.2.5-.5v-1.6c1.2-.2 2.1-1.3 2.1-2.5 0-1.6-1.2-2.7-2.6-2.7z"/></svg>                </div>
+              </div>
+                        <select class="address-switcher field field--light field--primary field--large text-bold mrgb-">
+                              <option value="3">Lausanne</option>
+                              <option value="2" selected>Fribourg</option>
+                              <option value="6">Bern</option>
+                              <option value="1">Z&uuml;rich</option>
+                              <option value="5">St.&nbsp;Gallen</option>
+                          </select>
+                          <div class="hidden" data-address-block="3">
+                <address class="address__body">
+                  Rue Etraz 4<br>
+                                    CH-1003 Lausanne<br>
+                                      Phone:                    <a href="tel:+41215331300" class="link-text">+41 21 533 13 00</a><br>
+                                                    </address>
+                                  <a href="https://www.google.ch/maps/place/Liip+SA/@46.519291,6.6360539,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e339695a2e1:0x9cd730b81e05924b!8m2!3d46.519291!4d6.6382426?hl=en" class="address__map-link">Directions</a>
+                              </div>
+                          <div data-address-block="2">
+                <address class="address__body">
+                  Rue de la Banque 1<br>
+                                      CP 917<br>
+                                    CH-1701 Fribourg<br>
+                                      Phone:                    <a href="tel:+41264222511" class="link-text">+41 26 422 25 11</a><br>
+                                                    </address>
+                                  <a href="https://www.google.ch/maps/place/Liip+AG/@46.8042744,7.1526074,17z/data=!4m5!3m4!1s0x478e692e6c342abb:0xfa0c76ce88136f93!8m2!3d46.8042744!4d7.1547961?hl=en" class="address__map-link">Directions</a>
+                              </div>
+                          <div class="hidden" data-address-block="6">
+                <address class="address__body">
+                  Schmiedenplatz 5<br>
+                                    CH-3011 Bern<br>
+                                      Phone:                    <a href="tel:+41315505970" class="link-text">+41 31 550 59 70</a><br>
+                                                    </address>
+                                  <a href="https://www.google.ch/maps/place/Liip+AG/@46.9486449,7.444509,17z/data=!3m1!4b1!4m5!3m4!1s0x478e39c14ff1e8c3:0x80099f7dcdbeb001!8m2!3d46.9486449!4d7.4466977?hl=en" class="address__map-link">Directions</a>
+                              </div>
+                          <div class="hidden" data-address-block="1">
+                <address class="address__body">
+                  Limmatstrasse 183<br>
+                                    CH-8005 Z&uuml;rich<br>
+                                      Phone:                    <a href="tel:+41435003980" class="link-text">+41 43 500 39 80</a><br>
+                                                    </address>
+                                  <a href="https://www.google.ch/maps/place/Liip+AG/@47.3861445,8.5270333,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a171eb6d28d:0x9e78386020738294!8m2!3d47.3861445!4d8.529222?hl=en" class="address__map-link">Directions</a>
+                              </div>
+                          <div class="hidden" data-address-block="5">
+                <address class="address__body">
+                  Vadianstrasse 25A<br>
+                                    CH-9000 St. Gallen<br>
+                                      Phone:                    <a href="tel:+41715771337" class="link-text">+41 71 577 13 37</a><br>
+                                                    </address>
+                                  <a href="https://www.google.ch/maps/place/Liip+AG/@47.4217033,9.3692739,17z/data=!4m5!3m4!1s0x479b1e4b98a711c1:0x369b70f01bcdd979!8m2!3d47.4217033!4d9.3714626?hl=en" class="address__map-link">Directions</a>
+                              </div>
+                      </article>
+        </div>
+      </div>
+    </div>
+
+    <hr class="mrgv0">
+
+    <div class="section pdgv md-pdgv+">
+      <div class="section__body">
+        <ul class="list-inline list-inline--tight list-inline--center">
+                      <li class="mrgv-- mrgh- md-mrgh">
+              <a href="https://www.liip.ch/en/jobs" class="btn btn--bare track-jobs-footer">Jobs</a>
+            </li>
+                    <li class="mrgv-- mrgh- md-mrgh">
+            <a href="mailto:contact@liip.ch" class="btn btn--bare">Contact</a>
+          </li>
+          <li class="mrgv-- mrgh- md-mrgh">
+            <a href="https://press.liip.ch" class="btn btn--bare">Media</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <hr class="mrgv0">
+
+    <div class="section">
+      <div class="section__body">
+        <div class="grid grid--large grid--middle grid--multiline">
+          <div class="grid__item sm-w-1/2 lg-w-2/3">
+            <ul class="actions">
+              <li>
+                <span>
+                  <label for="language-switcher" class="visible-sr">Language</label>
+                  <select class="language-switcher field" id="language-switcher">
+                                          <option value="https://www.liip.ch/en/blog/cognitive-user-experience-design-where-psychology-meets-ux-design" selected>
+                        English                      </option>
+                                          <option value="https://www.liip.ch/de/blog/cognitive-user-experience-design-where-psychology-meets-ux-design">
+                        Deutsch                      </option>
+                                          <option value="https://www.liip.ch/fr/blog/cognitive-user-experience-design-where-psychology-meets-ux-design">
+                        Fran&ccedil;ais                      </option>
+                                      </select>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div class="grid__item sm-w-1/2 lg-w-1/3">
+            <ul class="list-inline list-inline--justified">
+              <li>
+                <a href="https://www.facebook.com/liipag" class="link-text" title="Facebook">
+                  <svg class="icon icon--facebook icon--100 md-icon--150" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#facebook"></use>
+</svg>                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/liip" class="link-text" title="Twitter">
+                  <svg class="icon icon--twitter icon--100 md-icon--150" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#twitter"></use>
+</svg>                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/liip_ch" class="link-text" title="Instagram">
+                  <svg class="icon icon--instagram icon--100 md-icon--150" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#instagram"></use>
+</svg>                </a>
+              </li>
+              <li>
+                <a href="https://github.com/liip" class="link-text" title="GitHub">
+                  <svg class="icon icon--github icon--100 md-icon--150" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#github"></use>
+</svg>                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/company/267051" class="link-text" title="LinkedIn">
+                  <svg class="icon icon--linkedin icon--100 md-icon--150" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#linkedin"></use>
+</svg>                </a>
+              </li>
+                              <li>
+                  <a href="https://www.liip.ch/en/feed" class="link-text" title="Liip Blog">
+                    <svg class="icon icon--rss icon--100 md-icon--150" aria-hidden="true" focusable="false">
+  <use xlink:href="/assets/dist/icons.1553239428.svg#rss"></use>
+</svg>                  </a>
+                </li>
+                          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script type="text/javascript">
+    var Liip = {
+      locale: 'en',
+      i18n: {
+        weekdays: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]      }
+    };
+  </script>
+  <script src="/assets/dist/common.1553239428.js"></script>    </body>
+</html>

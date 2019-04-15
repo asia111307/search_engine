@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Unitary theories of memory - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Unitary_theories_of_memory","wgTitle":"Unitary theories of memory","wgCurRevisionId":872992941,"wgRevisionId":872992941,"wgArticleId":46219708,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses editors parameter","Orphaned articles from April 2015","All orphaned articles","Cognitive psychology","Memory","Psychological theories"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Unitary_theories_of_memory","wgRelevantArticleId":46219708,"wgRequestId":"XK50zwpAADwAAAz3S1wAAABC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q25111320","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Unitary_theories_of_memory"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Unitary_theories_of_memory"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Unitary_theories_of_memory rootpage-Unitary_theories_of_memory skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Unitary theories of memory</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Orphan plainlinks metadata ambox ambox-style ambox-Orphan" role="presentation" style="display: none"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=Unitary_theories_of_memory&amp;namespace=0">link to it</a></b>. Please <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=Unitary+theories+of+memory&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=Unitary+theories+of+memory">related articles</a></span>; try the <a rel="nofollow" class="external text" href="//edwardbetts.com/find_link?q=Unitary_theories_of_memory">Find link tool</a> for suggestions.  <small class="date-container"><i>(<span class="date">April 2015</span>)</i></small></div></td></tr></tbody></table>
+<p><b>Unitary theories of memory</b> are hypotheses that attempt to unify mechanisms of <a href="/wiki/Short-term_memory" title="Short-term memory">short-term</a> and <a href="/wiki/Long-term_memory" title="Long-term memory">long-term memory</a>. James Nairne proposed the first unitary theory, which criticized <a href="/wiki/Alan_Baddeley" title="Alan Baddeley">Alan Baddeley's</a> <a href="/wiki/Working_memory" title="Working memory">working memory model</a>,<sup id="cite_ref-a_1-0" class="reference"><a href="#cite_note-a-1">&#91;1&#93;</a></sup> which is the dominant theory of the functions of short-term memory. Other theories since Nairne have been proposed; they highlight alternative mechanisms that the working memory model initially overlooked.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Overview"><span class="tocnumber">1.1</span> <span class="toctext">Overview</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Models"><span class="tocnumber">2</span> <span class="toctext">Models</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Feature_model"><span class="tocnumber">2.1</span> <span class="toctext">Feature model</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#OSCAR_model"><span class="tocnumber">2.2</span> <span class="toctext">OSCAR model</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Differences"><span class="tocnumber">3</span> <span class="toctext">Differences</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Criticisms"><span class="tocnumber">4</span> <span class="toctext">Criticisms</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=2" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Working_memory" title="Working memory">Working memory</a></div>
+<p><b>Working memory</b> is the system that is responsible for the transient holding and processing of new and already stored information, an important process for reasoning, comprehension, learning and memory updating. Working memory is generally used synonymously with <a href="/wiki/Short_term_memory" class="mw-redirect" title="Short term memory">short term memory</a>, but this depends on how the two forms of memory are defined.<sup id="cite_ref-Cowan_2-0" class="reference"><a href="#cite_note-Cowan-2">&#91;2&#93;</a></sup> Working memory includes subsystems that store and manipulate visual images or verbal information, as well as a central executive that coordinates the subsystems. It includes visual representation of the possible moves, and awareness of the flow of information into and out of memory, all stored for a limited amount of time.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Baddeley%27s_model_of_working_memory" title="Baddeley&#39;s model of working memory">Baddeley's model of working memory</a></div>
+<p>In 1974, <a href="/wiki/Alan_Baddeley" title="Alan Baddeley">Baddeley</a> and <a href="/wiki/Graham_Hitch" title="Graham Hitch">Hitch</a><sup id="cite_ref-Baddeley_Hitch_1974_4-0" class="reference"><a href="#cite_note-Baddeley_Hitch_1974-4">&#91;4&#93;</a></sup>  introduced and made popular the <a href="/wiki/Baddeley%27s_model_of_working_memory" title="Baddeley&#39;s model of working memory">multicomponent model of working memory</a>. This theory proposes a <a href="/wiki/Baddeley%27s_model_of_working_memory#Central_executive" title="Baddeley&#39;s model of working memory">central executive</a> that, among other things, is responsible for directing <a href="/wiki/Attention" title="Attention">attention</a> to relevant information, suppressing irrelevant information and inappropriate actions, and for coordinating cognitive processes when more than one task must be done at the same time. The central executive has two "slave systems" responsible for short-term maintenance of information, and a "central executive" is responsible for the supervision of information integration and for coordinating the slave systems. One slave system, the <a href="/wiki/Phonological_loop" class="mw-redirect" title="Phonological loop">phonological loop</a> (PL), stores phonological information (that is, the sound of language) and prevents its decay by continuously articulating its contents, thereby refreshing the information in a <a href="/wiki/Memory_rehearsal" title="Memory rehearsal">rehearsal</a> loop. It can, for example, maintain a seven-digit telephone number for as long as one repeats the number to oneself again and again. The other slave system, the <a href="/wiki/Baddeley%27s_model_of_working_memory#Visuospatial_sketchpad" title="Baddeley&#39;s model of working memory">visuo-spatial sketchpad</a>, stores visual and spatial information. It can be used, for example, for constructing and manipulating visual images, and for the representation of mental maps. The sketchpad can be further broken down into a visual subsystem (dealing with, for instance, shape, colour, and texture), and a spatial subsystem (dealing with location).
+</p><p>In 2000, Baddeley extended the model by adding a fourth component, the <a href="/wiki/Baddeley%27s_model_of_working_memory#Episodic_buffer" title="Baddeley&#39;s model of working memory">episodic buffer</a>, which holds representations that integrate phonological, visual, and spatial information, and possibly information not covered by the slave systems (e.g.,&#160;semantic information, musical information). The component is episodic because it is assumed to bind information into a unitary episodic representation. The episodic buffer resembles Tulving's concept of <a href="/wiki/Episodic_memory" title="Episodic memory">episodic memory</a>, but it differs in that the episodic buffer is a temporary store.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Models">Models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=3" title="Edit section: Models">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Feature_model">Feature model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=4" title="Edit section: Feature model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The feature model was first described by Nairne (1990)<sup id="cite_ref-a_1-1" class="reference"><a href="#cite_note-a-1">&#91;1&#93;</a></sup> The primary feature of this model is the use of cues for both short term memory and long term memory. Cues become associated with a memory and can later be used to retrieve memories from long term storage.
+When a memory is formed, cues associated with the formed memory form a constellation of nerve networks in which the memory is stored. While the cues are present, the nerves that form the constellation are active and the memory is being worked on in short term memory. When the cues are no longer present, the constellation is no longer active and is waiting in long term memory storage for when the cues are once again present.
+Rather than using the theory of decay for explaining how memories get forgotten, the feature model focuses on item based interference instead. This means that other items that use the same or similar constellations of cues get in the way of remembering other memories. For example, if you are trying to remember a fruit from a list of electronics, you will find that the fruit is easy to recall. Recalling a fruit from a list of other fruit, on the other hand, will prove a far more difficult task. This is the theory behind memory loss used in the feature model.
+</p>
+<h3><span class="mw-headline" id="OSCAR_model">OSCAR model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=5" title="Edit section: OSCAR model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Oscillator Based Associative Recallolation (OSCAR) Model was proposed by Browne, Preece and Hulme in 2000 <sup id="cite_ref-b_6-0" class="reference"><a href="#cite_note-b-6">&#91;6&#93;</a></sup> The OSCAR Model is another cue driven model of memory. In this model, the cues work as a pointer to a memory’s position in the mind. Memories themselves are stored as context vectors on what Brown calls the oscillator part of the theory. While a memory is not being used in short term memory, the context vector oscillates further away from the starting position. When a cue becomes present, the context vector that the cue points to gets oscillated back to the starting point, where the memory can then be used in short term memory. There is no theory of decay in this model, so to account for memory loss or fading the theory states that memories move further and further from the starting point, and retrieval becomes more difficult the further the memory is from the gas station (starting position). Furthermore, some memories oscillate faster than others. The theory behind this is that memories frequently accessed and used will move slower away from the starting point since the probability of the memory being retrieved is relatively high.
+This critics the above model.
+</p>
+<h2><span class="mw-headline" id="Differences">Differences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=6" title="Edit section: Differences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Unlike the standard models of short term/working memory, unitary theories do not assume a direct connection between activation level and memory success. They also do not propose role rehearsal, and they focus more on item based interference rather than memory decay.<sup id="cite_ref-c_7-0" class="reference"><a href="#cite_note-c-7">&#91;7&#93;</a></sup> Unitary theories also generally have only one loop or no loop at all, whereas the Working Memory model relies on multiple loops to explain the different forms of memory input.
+Because of the multiple loop theory, Working Memory has a more difficult time explaining how short term memory gets consolidated into long term memory, whereas the Unitary Theories generally explain long term memory using the same single principle that they use to explain short term memory. On the other hand, Unitary Theories have more trouble explaining situations where short term memory differs such as the word length effect,<sup id="cite_ref-d_8-0" class="reference"><a href="#cite_note-d-8">&#91;8&#93;</a></sup> which can be more easily explained by the Working Memory model.
+</p>
+<h2><span class="mw-headline" id="Criticisms">Criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=7" title="Edit section: Criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most prevalent criticism of the unitary models is that they try to oversimplify many complex processes into a single mechanism. Studies have shown that short-term memory and long-term memory are two distinct processes that emphasize different levels of activation in the brain among different cortical areas. Furthermore, the rate of decay is much faster in short-term memory as opposed to long-term memory. The OSCAR model in particular does not account for this phenomenon. It also makes an assumption that memories are always circulating to different areas of the brain—never having a definite cortical space that stores the memory. While this transfer of storage is occurring, the rate of decay in the OSCAR model is either constant or non-existent. 
+Both rates are implausible, as a constant rate of decay neglects all external factors that may contribute to a faster rate of decay (e.g. stress, focusing attention on other things). Failing to neglect decay at all is even more implausible as it makes two wrong assertions—memories are not forgotten, and when the information is remembered, it is remembered perfectly every time.
+While the unitary theories of memory may give attention to alternate factors that the working memory model had initially overlooked, new data has surfaced and the model has adapted to new findings. It is still the standard model of how short-term memory works, and it will continue to be the standard model until new evidence overturns it.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Atkinson%E2%80%93Shiffrin_memory_model" title="Atkinson–Shiffrin memory model">Atkinson–Shiffrin memory model</a></li>
+<li><a href="/wiki/Attention_versus_memory_in_prefrontal_cortex" class="mw-redirect" title="Attention versus memory in prefrontal cortex">Attention versus memory in prefrontal cortex</a></li>
+<li><a href="/wiki/Fuzzy-trace_theory" title="Fuzzy-trace theory">Fuzzy-trace theory</a></li>
+<li><a href="/wiki/Intermediate-term_memory" title="Intermediate-term memory">Intermediate-term memory</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-a-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-a_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-a_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Nairne, J. (1990) A feature model of immediate memory. <i>Memory &amp; Cognition</i> 18 (3), 251-269</span>
+</li>
+<li id="cite_note-Cowan-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cowan_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cowan, Nelson (2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2657600">"What are the differences between long-term, short-term, and working memory?"</a>. <i>Prog. Brain Res</i>. <b>169</b> (169): 323–338. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0079-6123%2807%2900020-9">10.1016/S0079-6123(07)00020-9</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2657600">2657600</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18394484">18394484</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Prog.+Brain+Res.&amp;rft.atitle=What+are+the+differences+between+long-term%2C+short-term%2C+and+working+memory%3F&amp;rft.volume=169&amp;rft.issue=169&amp;rft.pages=323-338&amp;rft.date=2008&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2657600&amp;rft_id=info%3Apmid%2F18394484&amp;rft_id=info%3Adoi%2F10.1016%2FS0079-6123%2807%2900020-9&amp;rft.au=Cowan%2C+Nelson&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2657600&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnitary+theories+of+memory" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Schacter, Daniel (2011) [2009]. <i>Psychology Second Edition</i>. United States of America: Worth Publishers. p.&#160;227. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4292-3719-2" title="Special:BookSources/978-1-4292-3719-2">978-1-4292-3719-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Psychology+Second+Edition&amp;rft.place=United+States+of+America&amp;rft.pages=227&amp;rft.pub=Worth+Publishers&amp;rft.date=2011&amp;rft.isbn=978-1-4292-3719-2&amp;rft.aulast=Schacter&amp;rft.aufirst=Daniel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnitary+theories+of+memory" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Baddeley_Hitch_1974-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Baddeley_Hitch_1974_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Baddeley, Alan D.; Hitch, Graham (1974).  Gordon H. Bower, eds. <i>Working Memory</i>. <i>The psychology of learning and motivation</i>. <b>2</b>. Academic Press. pp.&#160;47–89. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0079-7421%2808%2960452-1">10.1016/S0079-7421(08)60452-1</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-543308-2" title="Special:BookSources/978-0-12-543308-2">978-0-12-543308-2</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/777285348">777285348</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Working+Memory&amp;rft.pages=47-89&amp;rft.pub=Academic+Press&amp;rft.date=1974&amp;rft_id=info%3Aoclcnum%2F777285348&amp;rft_id=info%3Adoi%2F10.1016%2FS0079-7421%2808%2960452-1&amp;rft.isbn=978-0-12-543308-2&amp;rft.aulast=Baddeley&amp;rft.aufirst=Alan+D.&amp;rft.au=Hitch%2C+Graham&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnitary+theories+of+memory" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Baddeley, A. D. (2000). <a rel="nofollow" class="external text" href="http://nbu.bg/cogs/events/2002/materials/Markus/ep_bufer.pdf">"The episodic buffer: a new component of working memory?"</a> <span class="cs1-format">(PDF)</span>. <i>Trends Cogn. Sci</i>. <b>4</b>: 417–423. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS1364-6613%2800%2901538-2">10.1016/S1364-6613(00)01538-2</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11058819">11058819</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Trends+Cogn.+Sci.&amp;rft.atitle=The+episodic+buffer%3A+a+new+component+of+working+memory%3F&amp;rft.volume=4&amp;rft.pages=417-423&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1016%2FS1364-6613%2800%2901538-2&amp;rft_id=info%3Apmid%2F11058819&amp;rft.au=Baddeley%2C+A.+D.&amp;rft_id=http%3A%2F%2Fnbu.bg%2Fcogs%2Fevents%2F2002%2Fmaterials%2FMarkus%2Fep_bufer.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnitary+theories+of+memory" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-b-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-b_6-0">^</a></b></span> <span class="reference-text">Brown GDA, Preece T, Hulme C. 2000. Oscillator-based memory for serial
+order. <i>Psychological Review</i> 107:127-8.</span>
+</li>
+<li id="cite_note-c-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-c_7-0">^</a></b></span> <span class="reference-text">Nairne, J. (2002) Remembering Over the Short-Term: The Case Against the Standard Model. <i>Annu. Rev. Psychol</i>. 53:53–81</span>
+</li>
+<li id="cite_note-d-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-d_8-0">^</a></b></span> <span class="reference-text">Nairne, J., &amp; Neath, I. (1995) Proactive interference plays a role in the word-length effect. <i>Psychonomic Bulletin &amp; Review</i>
+December 1997, Volume 4, Issue 4, pp 541-545</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20190410225719
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.268 seconds
+Real time usage: 0.382 seconds
+Preprocessor visited node count: 437/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15664/2097152 bytes
+Template argument size: 1150/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14845/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.182/10.000 seconds
+Lua memory usage: 2.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  351.968      1 -total
+ 76.26%  268.428      1 Template:Reflist
+ 39.95%  140.614      2 Template:Cite_journal
+ 28.61%  100.699      2 Template:Cite_book
+ 18.01%   63.394      1 Template:Orphan
+ 13.55%   47.687      1 Template:Draft_other
+ 12.73%   44.808      1 Template:Ambox
+  3.75%   13.201      2 Template:Main
+  0.97%    3.414      1 Template:Main_other
+  0.72%    2.518      1 Template:Monthyear
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46219708-0!canonical and timestamp 20190410225719 and revision id 872992941
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Unitary_theories_of_memory&amp;oldid=872992941">https://en.wikipedia.org/w/index.php?title=Unitary_theories_of_memory&amp;oldid=872992941</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_psychology" title="Category:Cognitive psychology">Cognitive psychology</a></li><li><a href="/wiki/Category:Memory" title="Category:Memory">Memory</a></li><li><a href="/wiki/Category:Psychological_theories" title="Category:Psychological theories">Psychological theories</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:Orphaned_articles_from_April_2015" title="Category:Orphaned articles from April 2015">Orphaned articles from April 2015</a></li><li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Unitary+theories+of+memory" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Unitary+theories+of+memory" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Unitary_theories_of_memory" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Unitary_theories_of_memory" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Unitary_theories_of_memory">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Unitary_theories_of_memory" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Unitary_theories_of_memory" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Unitary_theories_of_memory&amp;oldid=872992941" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Unitary_theories_of_memory&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25111320" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Unitary_theories_of_memory&amp;id=872992941" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Unitary+theories+of+memory">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Unitary+theories+of+memory&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Unitary_theories_of_memory&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25111320#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 December 2018, at 14:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Unitary_theories_of_memory&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.382","ppvisitednodes":{"value":437,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15664,"limit":2097152},"templateargumentsize":{"value":1150,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14845,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  351.968      1 -total"," 76.26%  268.428      1 Template:Reflist"," 39.95%  140.614      2 Template:Cite_journal"," 28.61%  100.699      2 Template:Cite_book"," 18.01%   63.394      1 Template:Orphan"," 13.55%   47.687      1 Template:Draft_other"," 12.73%   44.808      1 Template:Ambox","  3.75%   13.201      2 Template:Main","  0.97%    3.414      1 Template:Main_other","  0.72%    2.518      1 Template:Monthyear"]},"scribunto":{"limitreport-timeusage":{"value":"0.182","limit":"10.000"},"limitreport-memusage":{"value":3090742,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20190410225719","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":515,"wgHostname":"mw1265"});});</script>
+</body>
+</html>

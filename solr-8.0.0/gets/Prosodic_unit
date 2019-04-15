@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Prosodic unit - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Prosodic_unit","wgTitle":"Prosodic unit","wgCurRevisionId":888565463,"wgRevisionId":888565463,"wgArticleId":14754558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from February 2018","All articles lacking in-text citations","Wikipedia articles needing clarification from March 2019","Phonology","Phonetics","Cognitive science","Prosody (linguistics)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Prosodic_unit","wgRelevantArticleId":14754558,"wgRequestId":"XLSACwpAMFYAAK7FwHwAAABW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q4118172","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Prosodic_unit"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Prosodic_unit&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Prosodic_unit&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Prosodic_unit"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Prosodic_unit rootpage-Prosodic_unit skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Prosodic unit</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-No_footnotes plainlinks metadata ambox ambox-style ambox-No_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, <b>but its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em;width: 16em;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #f2f2ce;">Minor (foot) break<br />Major (intonation) break</th></tr><tr><th colspan="2" style="text-align:center;background: #ffffe6;"><span style="font-size: 5em; line-height: 1.2em; vertical-align: super; font-weight: normal;"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">&#x7c;</span></span></th></tr><tr><th colspan="2" style="text-align:center;background: #ffffe6;"><span style="font-size: 5em; line-height: 1.2em; vertical-align: super; font-weight: normal;"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">&#x2016;</span></span></th></tr><tr><th scope="row"><a href="/wiki/IPA_number" class="mw-redirect" title="IPA number">IPA number</a></th><td>507, 508</td></tr><tr><th colspan="2" style="text-align:center;background: #ffffe6;">Encoding</th></tr><tr><th scope="row">Entity <small>(decimal)</small></th><td><code>&amp;#124;&#x200b;&amp;#8214;</code></td></tr><tr><th scope="row">Unicode <small>(hex)</small></th><td>U+007C&#x2008;U+2016</td></tr></tbody></table>
+<table role="presentation" class="metadata mbox-small noprint selfref" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;width: 22em;">
+<tbody><tr>
+<td class="mbox-image"><a href="/wiki/Help:IPA" title="Help:IPA"><img alt="[]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Parentesi_Quadre.svg/30px-Parentesi_Quadre.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Parentesi_Quadre.svg/45px-Parentesi_Quadre.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Parentesi_Quadre.svg/60px-Parentesi_Quadre.svg.png 2x" data-file-width="75" data-file-height="100" /></a></td>
+<td class="mbox-text plainlist" style="vertical-align:middle; font-size:95%;"><b>This article contains <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a> phonetic symbols.</b> Without proper <a href="/wiki/Help:IPA#Rendering_issues" title="Help:IPA">rendering support</a>, you may see <a href="/wiki/Specials_(Unicode_block)#Replacement_character" title="Specials (Unicode block)">question marks, boxes, or other symbols</a>&#32;instead of <a href="/wiki/Unicode" title="Unicode">Unicode</a> characters. For an introductory guide on IPA symbols, see <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a>.</td></tr></tbody></table>
+<p>In <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>, a <b>prosodic unit</b>, often called an <b>intonation unit</b> or <b>intonational phrase</b>, is a segment of speech that occurs with a single <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">prosodic contour</a> (<a href="/wiki/Pitch_contour" title="Pitch contour">pitch</a> and <a href="/wiki/Rhythm" title="Rhythm">rhythm</a> contour). The abbreviation <b>IU</b> is used and therefore the full form is often found as <i>intonation unit,</i> despite the fact that technically it is a unit of prosody rather than <a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">intonation</a>, which is only one element of <a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">prosody</a>.
+</p><p>Prosodic units occur at a <a href="/wiki/Phonological_hierarchy" title="Phonological hierarchy">hierarchy of levels</a>, from the <a href="/wiki/Foot_(prosody)" title="Foot (prosody)">metrical foot</a> and <a href="/wiki/Phonological_word" title="Phonological word">phonological word</a> to a complete <a href="/wiki/Utterance" title="Utterance">utterance</a>. However, the term is generally restricted to intermediate levels which do not have a dedicated terminology. Prosodic units do not generally correspond to syntactic units, such as <a href="/wiki/Phrase" title="Phrase">phrases</a> and <a href="/wiki/Clause" title="Clause">clauses</a>; it is thought that they reflect different aspects of how the brain processes speech, with prosodic units being generated through on-line<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="You can help -- (March 2019)">definition needed</span></a></i>&#93;</sup> interaction and processing, and with morphosyntactic units being more automated.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Defining_characteristics"><span class="tocnumber">1</span> <span class="toctext">Defining characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Transcription"><span class="tocnumber">2</span> <span class="toctext">Transcription</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Cognitive_implications"><span class="tocnumber">3</span> <span class="toctext">Cognitive implications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Defining_characteristics">Defining characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prosodic_unit&amp;action=edit&amp;section=1" title="Edit section: Defining characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Prosodic units are characterized by several phonetic cues, such as a coherent <a href="/wiki/Pitch_contour" title="Pitch contour">pitch contour</a>. Breathing, both inhalation and exhalation, only occurs at the boundaries (<a href="/wiki/Pausa" title="Pausa">pausa</a>) between higher units. Several short contours may carry an additional overall gradual decline in pitch and slowing of tempo; this larger unit is termed a <i>declination unit</i> (DU). At the boundaries (<a href="/wiki/Pausa" title="Pausa">pauses</a>) between declination units, the pitch and tempo <a href="/wiki/Pitch_reset" title="Pitch reset">reset</a>; for this reason the final one of the shorter internal contours is said to have <i>final</i> prosody, whereas the others are said to have <i>continuing</i> prosody.
+</p><p>These two levels of the <a href="/wiki/Phonological_hierarchy" title="Phonological hierarchy">hierarchy</a> may be schematized as follows:
+</p>
+<dl><dd><dl><dd><table class="wikitable">
+<tbody><tr>
+<th colspan="4">Declination unit
+</th></tr>
+<tr>
+<td>continuing IU,</td>
+<td>continuing IU,</td>
+<td>continuing IU,</td>
+<td>final IU.
+</td></tr></tbody></table></dd></dl></dd></dl>
+<h2><span class="mw-headline" id="Transcription">Transcription</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prosodic_unit&amp;action=edit&amp;section=2" title="Edit section: Transcription">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In English orthography, a <i>continuing</i> prosodic boundary may be marked with a comma (assuming the writer is using commas to represent prosody rather than grammatical structure), while <i>final</i> prosodic boundaries may be marked with a full stop (period).
+</p><p>The <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">International Phonetic Alphabet</a> has symbols (single and double pipes) for "minor" and "major" prosodic breaks. Since there are more than two levels of prosodic units, the use of these symbols depends on the structure of the language and which information the transcriber is attempting to capture. Very often, each prosodic unit will be placed in a separate line of the transcription. Using the single and double pipes to mark continuing and final prosodic boundaries, we might have American English,
+</p>
+<dl><dd><i>Jack,</i></dd>
+<dd><i>preparing the way,</i></dd>
+<dd><i>went on.</i></dd>
+<dd><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ˈdʒæk | pɹəˌpɛəɹɪŋ ðə ˈweɪ | wɛnt ˈɒn ‖ ]</span></dd></dl>
+<p>or French,
+</p>
+<dl><dd><i>Jacques,</i></dd>
+<dd><i>préparant le sol,</i></dd>
+<dd><i>tomba.</i></dd>
+<dd><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ˈʒak | pʁepaʁɑ̃ lɵ ˈsɔl | tɔ̃ˈba ‖ ]</span></dd></dl>
+<p>Note that the last syllable with a full vowel in a <a href="/wiki/French_language" title="French language">French</a> prosodic unit is stressed, and that the last stressed syllable in an <a href="/wiki/English_language" title="English language">English</a> prosodic unit has <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">primary stress</a>. This shows that stress is not <a href="/wiki/Phonemic" class="mw-redirect" title="Phonemic">phonemic</a> in French, and that the difference between primary and secondary stress is not phonemic in English; they are both elements of prosody rather than inherent in the words.
+</p><p>The pipe symbols&#160;&#8211;&#32;the <a href="/wiki/Vertical_bar" title="Vertical bar">vertical bars</a> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">|</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">‖</span>&#160;&#8211;&#32;used above are phonetic, and so will often disagree with English punctuation, which only partially correlates with prosody.
+</p><p>However, the pipes may also be used for <a href="/wiki/Meter_(poetry)" class="mw-redirect" title="Meter (poetry)">metrical</a> breaks&#160;&#8211;&#32;a single pipe being used to mark metrical feet, and a double pipe to mark both continuing and final prosody, as their alternate IPA descriptions "foot group" and "intonation group" suggest. In such usage, each foot group would include one and only one <a href="/wiki/Heavy_syllable" class="mw-redirect" title="Heavy syllable">heavy syllable</a>. In English, this would mean one and only one stressed syllable:
+</p>
+<dl><dd><i>Jack,</i></dd>
+<dd><i>preparing the way,</i></dd>
+<dd><i>went on.</i></dd>
+<dd><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ˈdʒæk ‖ pɹəˌpɛəɹɪŋ | ðə ˈweɪ ‖ wɛnt ˈɒn ‖ ]</span></dd></dl>
+<p>In many tone languages with <a href="/wiki/Downdrift" title="Downdrift">downdrift</a>, such as <a href="/wiki/Hausa_language" title="Hausa language">Hausa</a>, the single pipe &#x27e8;<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">|</span>&#x27e9; may be used to represent a minor prosodic break that does not interrupt the overall decline in pitch of the utterance, while &#x27e8;<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">‖</span>&#x27e9; marks either continuing or final prosody that creates a <a href="/wiki/Pitch_reset" title="Pitch reset">pitch reset</a>. In such cases, some linguists use only the single pipe, with continuing and final prosody marked by a comma and period, respectively.
+</p><p>In transcriptions of non-tonal languages, the three symbols pipe, comma, and period may also be used, with the pipe representing a break more minor than the comma, the so-called <i>list prosody</i> often used to separate items when reading lists, spelling words, or giving out telephone numbers.
+</p>
+<h2><span class="mw-headline" id="Cognitive_implications">Cognitive implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prosodic_unit&amp;action=edit&amp;section=3" title="Edit section: Cognitive implications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While each prosodic unit may carry a large information load in rehearsed speech, in extemporaneous conversation the amount of information is much more limited. There is seldom more than a single <a href="/wiki/Lexical_word" class="mw-redirect" title="Lexical word">lexical</a> noun in any one IU, and it is uncommon to have both a lexical noun and a lexical verb in the same IU. Indeed, many IUs are semantically empty, taken up by filler words such as <i>um, well,</i> or <i>y'know.</i> Chafe (1994) believes that this reflects the constraints of information processing by the brain during speech production, with chunks of speech (IUs) corresponding to chunks of cognitive output. It is also a possibility that the distribution of information across IUs is designed to maximize language comprehension by the other party.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prosodic_unit&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Phonological_hierarchy" title="Phonological hierarchy">Phonological hierarchy</a></li>
+<li><a href="/wiki/Tone_terracing" title="Tone terracing">Tone terracing</a></li>
+<li><a href="/wiki/Upstep" title="Upstep">Upstep</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prosodic_unit&amp;action=edit&amp;section=5" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prosodic_unit&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Chafe, Wallace. 1994. <i>Discourse, Consciousness, and Time: The flow and displacement of conscious experience in speaking and writing.</i> University of Chicago Press.</li>
+<li>Dubois, John W., Susanna Cumming, Stephan Schuetze-Coburn, Danae Paolino eds. 1992. <i>Discourse Transcription.</i> Volume 4 of the <i>Santa Barbara Papers in Linguistics.</i></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Suprasegmentals" style="text-align:left;;padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Suprasegmentals" title="Template:Suprasegmentals"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Suprasegmentals" title="Template talk:Suprasegmentals"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Suprasegmentals&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Suprasegmentals" style="font-size:114%;margin:0 4em"><a href="/wiki/Suprasegmentals" title="Suprasegmentals">Suprasegmentals</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lavender;"><a href="/wiki/Isochrony" title="Isochrony">Timing</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Syllable" title="Syllable">Syllable</a></li>
+<li><a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">Mora</a></li>
+<li><a href="/wiki/Foot_(prosody)" title="Foot (prosody)">Metrical foot</a></li>
+<li><a href="/wiki/Vowel_reduction" title="Vowel reduction">Vowel reduction</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lavender;"><a href="/wiki/Tone_(linguistics)" title="Tone (linguistics)">Tone</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tone_contour" title="Tone contour">Tone contour</a></li>
+<li><a href="/wiki/Pitch_accent" class="mw-redirect" title="Pitch accent">Pitch accent</a></li>
+<li><a href="/wiki/Register_(phonology)" title="Register (phonology)">Register</a></li>
+<li><a href="/wiki/Downstep" title="Downstep">Downstep</a></li>
+<li><a href="/wiki/Upstep" title="Upstep">Upstep</a></li>
+<li><a href="/wiki/Downdrift" title="Downdrift">Downdrift</a></li>
+<li><a href="/wiki/Tone_terracing" title="Tone terracing">Tone terracing</a></li>
+<li><a href="/wiki/Floating_tone" title="Floating tone">Floating tone</a></li>
+<li><a href="/wiki/Tone_sandhi" title="Tone sandhi">Tone sandhi</a></li>
+<li><a href="/wiki/Tone_letter" title="Tone letter">Tone letter</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lavender;"><a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">Stress</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Secondary_stress" title="Secondary stress">Secondary stress</a></li>
+<li><a href="/wiki/Vowel_reduction" title="Vowel reduction">Vowel reduction</a></li>
+<li><a href="/wiki/Accent_(phonetics)" class="mw-redirect" title="Accent (phonetics)">Accent</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lavender;"><a href="/wiki/Length_(phonetics)" title="Length (phonetics)">Length</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chroneme" title="Chroneme">Chroneme</a></li>
+<li><a href="/wiki/Gemination" title="Gemination">Gemination</a></li>
+<li><a href="/wiki/Vowel_length" title="Vowel length">Vowel length</a></li>
+<li><a href="/wiki/Extra-short" title="Extra-short">Extra-short</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lavender;"><a href="/wiki/Prosody_(linguistics)" title="Prosody (linguistics)">Prosody</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Intonation_(linguistics)" title="Intonation (linguistics)">Intonation</a> (pitch)</li>
+<li><a href="/wiki/Pitch_contour" title="Pitch contour">Pitch contour</a></li>
+<li><a href="/wiki/Pitch_reset" title="Pitch reset">Pitch reset</a></li>
+<li><a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">Stress</a></li>
+<li><a href="/wiki/Rhythm#Rhythm_in_linguistics" title="Rhythm">Rhythm</a></li>
+<li><a href="/wiki/Loudness" title="Loudness">Loudness</a></li>
+<li><a class="mw-selflink selflink">Prosodic unit</a></li>
+<li><a href="/wiki/Pausa" title="Pausa">Pausa</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20190415125851
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.276 seconds
+Preprocessor visited node count: 1097/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27581/2097152 bytes
+Template argument size: 2028/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.061/10.000 seconds
+Lua memory usage: 2.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  216.119      1 -total
+ 36.30%   78.453      1 Template:Infobox_IPA
+ 34.00%   73.479      1 Template:Infobox_IPA/core1
+ 33.78%   73.002      1 Template:No_footnotes
+ 32.54%   70.327      1 Template:Infobox_IPA/core2
+ 30.61%   66.147      1 Template:Infobox
+ 22.61%   48.875      1 Template:Ambox
+ 11.69%   25.258      1 Template:Definition_needed
+  9.89%   21.377      1 Template:Fix
+  8.35%   18.050      1 Template:IPA_symbol
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14754558-0!canonical and timestamp 20190415125851 and revision id 888565463
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Prosodic_unit&amp;oldid=888565463">https://en.wikipedia.org/w/index.php?title=Prosodic_unit&amp;oldid=888565463</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Phonology" title="Category:Phonology">Phonology</a></li><li><a href="/wiki/Category:Phonetics" title="Category:Phonetics">Phonetics</a></li><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li><li><a href="/wiki/Category:Prosody_(linguistics)" title="Category:Prosody (linguistics)">Prosody (linguistics)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_February_2018" title="Category:Articles lacking in-text citations from February 2018">Articles lacking in-text citations from February 2018</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2019" title="Category:Wikipedia articles needing clarification from March 2019">Wikipedia articles needing clarification from March 2019</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Prosodic+unit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Prosodic+unit" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Prosodic_unit" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Prosodic_unit" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Prosodic_unit">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Prosodic_unit&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Prosodic_unit&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Prosodic_unit" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Prosodic_unit" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Prosodic_unit&amp;oldid=888565463" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Prosodic_unit&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4118172" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Prosodic_unit&amp;id=888565463" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Prosodic+unit">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Prosodic+unit&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Prosodic_unit&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D8%AD%D8%AF%D8%A9_%D9%84%D8%AD%D9%86%D9%8A%D8%A9" title="وحدة لحنية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%BE_%D1%87%D0%BB%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D1%80%D0%B5%D1%87%D1%82%D0%B0" title="Фонетично членение на речта – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Prosodische_eenheid" title="Prosodische eenheid – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9F%B5%E5%BE%8B%E5%8D%95%E4%BD%8D" title="韵律单位 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4118172#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 March 2019, at 23:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Prosodic_unit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.276","ppvisitednodes":{"value":1097,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27581,"limit":2097152},"templateargumentsize":{"value":2028,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  216.119      1 -total"," 36.30%   78.453      1 Template:Infobox_IPA"," 34.00%   73.479      1 Template:Infobox_IPA/core1"," 33.78%   73.002      1 Template:No_footnotes"," 32.54%   70.327      1 Template:Infobox_IPA/core2"," 30.61%   66.147      1 Template:Infobox"," 22.61%   48.875      1 Template:Ambox"," 11.69%   25.258      1 Template:Definition_needed","  9.89%   21.377      1 Template:Fix","  8.35%   18.050      1 Template:IPA_symbol"]},"scribunto":{"limitreport-timeusage":{"value":"0.061","limit":"10.000"},"limitreport-memusage":{"value":2380422,"limit":52428800}},"cachereport":{"origin":"mw1251","timestamp":"20190415125851","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":396,"wgHostname":"mw1251"});});</script>
+</body>
+</html>

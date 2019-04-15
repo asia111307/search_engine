@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cognitive neuropsychology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cognitive_neuropsychology","wgTitle":"Cognitive neuropsychology","wgCurRevisionId":869857211,"wgRevisionId":869857211,"wgArticleId":389579,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Articles needing additional references from September 2014","All articles needing additional references","Neuropsychology","Cognition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cognitive_neuropsychology","wgRelevantArticleId":389579,"wgRequestId":"XLMUiQpAMFQAAIFzxPQAAABW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q18634","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cognitive_neuropsychology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cognitive_neuropsychology&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cognitive_neuropsychology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cognitive_neuropsychology"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cognitive_neuropsychology rootpage-Cognitive_neuropsychology skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cognitive neuropsychology</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the discipline. For the journal, see <a href="/wiki/Cognitive_Neuropsychology_(journal)" title="Cognitive Neuropsychology (journal)">Cognitive Neuropsychology (journal)</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Cognitive_neuropsychology&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Cognitive+neuropsychology%22">"Cognitive neuropsychology"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Cognitive+neuropsychology%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Cognitive+neuropsychology%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Cognitive+neuropsychology%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Cognitive+neuropsychology%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Cognitive+neuropsychology%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">September 2014</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding:0.5em 0;"><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #ccc;padding-top:0.5em;text-align:center;"><span style="font-size:110%;">Topics</span></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/List_of_regions_in_the_human_brain" title="List of regions in the human brain">Brain regions</a></li>
+<li><a href="/wiki/Clinical_neuropsychology" title="Clinical neuropsychology">Clinical neuropsychology</a></li>
+<li><a class="mw-selflink selflink">Cognitive neuropsychology</a></li>
+<li><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive neuroscience</a></li>
+<li><a href="/wiki/Dementia" title="Dementia">Dementia</a></li>
+<li><a href="/wiki/Human_brain" title="Human brain">Human brain</a></li>
+<li><a href="/wiki/Neuroanatomy" title="Neuroanatomy">Neuroanatomy</a></li>
+<li><a href="/wiki/Neurophysiology" title="Neurophysiology">Neurophysiology</a></li>
+<li><a href="/wiki/Neuropsychological_assessment" title="Neuropsychological assessment">Neuropsychological assessment</a></li>
+<li><a href="/wiki/Rehabilitation_(neuropsychology)" title="Rehabilitation (neuropsychology)">Neuropsychological rehabilitation</a></li>
+<li><a href="/wiki/Traumatic_brain_injury" title="Traumatic brain injury">Traumatic brain injury</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #ccc;padding-top:0.5em;text-align:center;"><span style="font-size:110%;"><a href="/wiki/Brain" title="Brain">Brain functions</a></span></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Arousal" title="Arousal">Arousal</a></li>
+<li><a href="/wiki/Attention" title="Attention">Attention</a></li>
+<li><a href="/wiki/Consciousness" title="Consciousness">Consciousness</a></li>
+<li><a href="/wiki/Decision-making" title="Decision-making">Decision making</a></li>
+<li><a href="/wiki/Executive_functions" title="Executive functions">Executive functions</a></li>
+<li><a href="/wiki/Natural_language" title="Natural language">Natural language</a></li>
+<li><a href="/wiki/Learning" title="Learning">Learning</a></li>
+<li><a href="/wiki/Memory" title="Memory">Memory</a></li>
+<li><a href="/wiki/Motor_coordination" title="Motor coordination">Motor coordination</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Planning" title="Planning">Planning</a></li>
+<li><a href="/wiki/Problem_solving" title="Problem solving">Problem solving</a></li>
+<li><a href="/wiki/Thought" title="Thought">Thought</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #ccc;padding-top:0.5em;text-align:center;"><span style="font-size:110%;">People</span></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Arthur_Lester_Benton" title="Arthur Lester Benton">Arthur L. Benton</a></li>
+<li><a href="/wiki/David_Bohm" title="David Bohm">David Bohm</a></li>
+<li><a href="/wiki/Antonio_Damasio" title="Antonio Damasio">Antonio Damasio</a></li>
+<li><a href="/wiki/Phineas_Gage" title="Phineas Gage">Phineas Gage</a></li>
+<li><a href="/wiki/Norman_Geschwind" title="Norman Geschwind">Norman Geschwind</a></li>
+<li><a href="/wiki/Elkhonon_Goldberg" title="Elkhonon Goldberg">Elkhonon Goldberg</a></li>
+<li><a href="/wiki/Patricia_Goldman-Rakic" title="Patricia Goldman-Rakic">Patricia Goldman-Rakic</a></li>
+<li><a href="/wiki/Pasko_Rakic" title="Pasko Rakic">Pasko Rakic</a></li>
+<li><a href="/wiki/Donald_O._Hebb" title="Donald O. Hebb">Donald O. Hebb</a></li>
+<li><a href="/wiki/Kenneth_Heilman" title="Kenneth Heilman">Kenneth Heilman</a></li>
+<li><a href="/wiki/Edith_Kaplan" title="Edith Kaplan">Edith Kaplan</a></li>
+<li><a href="/wiki/Muriel_Lezak" title="Muriel Lezak">Muriel Lezak</a></li>
+<li><a href="/wiki/Benjamin_Libet" title="Benjamin Libet">Benjamin Libet</a></li>
+<li><a href="/wiki/Rodolfo_Llin%C3%A1s" title="Rodolfo Llinás">Rodolfo Llinás</a></li>
+<li><a href="/wiki/Alexander_Luria" title="Alexander Luria">Alexander Luria</a></li>
+<li><a href="/wiki/Brenda_Milner" title="Brenda Milner">Brenda Milner</a></li>
+<li><a href="/wiki/Karl_H._Pribram" title="Karl H. Pribram">Karl H. Pribram</a></li>
+<li><a href="/wiki/Oliver_Sacks" title="Oliver Sacks">Oliver Sacks</a></li>
+<li><a href="/wiki/Mark_Rosenzweig_(psychologist)" title="Mark Rosenzweig (psychologist)">Mark Rosenzweig</a></li>
+<li><a href="/wiki/Roger_Wolcott_Sperry" title="Roger Wolcott Sperry">Roger W. Sperry</a></li>
+<li><a href="/wiki/Hans-Lukas_Teuber" title="Hans-Lukas Teuber">Hans-Lukas Teuber</a></li>
+<li><a href="/wiki/Henry_Molaison" title="Henry Molaison">Henry Molaison <span style="font-size:90%;">("H.M.", patient)</span></a></li>
+<li><a href="/wiki/Kent_Cochrane" title="Kent Cochrane">K.C. <span style="font-size:90%;">(patient)</span></a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #ccc;padding-top:0.5em;text-align:center;"><span style="font-size:110%;"><a href="/wiki/Neuropsychological_test" title="Neuropsychological test">Tests</a></span></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Benton_Visual_Retention_Test" title="Benton Visual Retention Test">Benton Visual Retention Test</a></li>
+<li><a href="/wiki/Continuous_performance_task" title="Continuous performance task">Continuous Performance Task</a></li>
+<li><a href="/wiki/Halstead-Reitan_Neuropsychological_Battery" title="Halstead-Reitan Neuropsychological Battery">Halstead-Reitan Neuropsychological Battery</a></li>
+<li><a href="/wiki/Hayling_and_Brixton_tests" title="Hayling and Brixton tests">Hayling and Brixton tests</a></li>
+<li><a href="/wiki/Lexical_decision_task" title="Lexical decision task">Lexical Decision Task</a></li>
+<li><a href="/wiki/Luria-Nebraska_neuropsychological_battery" title="Luria-Nebraska neuropsychological battery">Luria-Nebraska neuropsychological battery</a></li>
+<li><a href="/wiki/Mini%E2%80%93Mental_State_Examination" title="Mini–Mental State Examination">Mini–Mental State Examination</a></li>
+<li><a href="/wiki/Rey%E2%80%93Osterrieth_complex_figure" title="Rey–Osterrieth complex figure">Rey–Osterrieth complex figure</a></li>
+<li><a href="/wiki/Stroop_effect" title="Stroop effect">Stroop Test</a></li>
+<li><a href="/wiki/Wechsler_Adult_Intelligence_Scale" title="Wechsler Adult Intelligence Scale">Wechsler Adult Intelligence Scale</a></li>
+<li><a href="/wiki/Wechsler_Memory_Scale" title="Wechsler Memory Scale">Wechsler Memory Scale</a></li>
+<li><a href="/wiki/Wisconsin_Card_Sorting_Test" title="Wisconsin Card Sorting Test">Wisconsin Card Sorting Task</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;font-size:1.1em;border-top:1px solid #aaa;padding:0.4em 0 0.5em;border-bottom:1px solid #aaa;">
+<a href="/wiki/Portal:Mind_and_brain" title="Portal:Mind and brain">Mind and brain portal</a></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Neuropsychology" title="Template:Neuropsychology"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Neuropsychology" title="Template talk:Neuropsychology"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Neuropsychology&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Cognitive neuropsychology</b> is a branch of <a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive psychology</a> that aims to understand how the structure and function of the <a href="/wiki/Brain" title="Brain">brain</a> relates to specific <a href="/wiki/Psychological" class="mw-redirect" title="Psychological">psychological</a> processes. Cognitive psychology is the science that looks at how mental processes are responsible for our cognitive abilities to store and produce new memories, produce language, recognize people and objects, as well as our ability to reason and problem solve. Cognitive neuropsychology places a particular emphasis on studying the <a href="/wiki/Cognitive" class="mw-redirect" title="Cognitive">cognitive</a> effects of <a href="/wiki/Acquired_brain_injury" title="Acquired brain injury">brain injury</a> or <a href="/wiki/Neurological_illness" class="mw-redirect" title="Neurological illness">neurological illness</a> with a view to inferring models of normal <a href="/wiki/Cognitive" class="mw-redirect" title="Cognitive">cognitive</a> functioning. Evidence is based on case studies of individual brain damaged patients who show deficits in brain areas and from patients who exhibit <a href="/wiki/Double_dissociation" class="mw-redirect" title="Double dissociation">double dissociations</a>. Double dissociations involve two patients and two tasks. One patient is impaired at one task but normal on the other, while the other patient is normal on the first task and impaired on the other. For example, patient A would be poor at reading printed words while still being normal at understanding spoken words, while the patient B would be normal at understanding written words and be poor at understanding spoken words. Scientists can interpret this information to explain how there is a single cognitive module for word comprehension. From studies like these, researchers infer that different areas of the brain are highly specialised. Cognitive neuropsychology can be distinguished from <a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">cognitive neuroscience</a>, which is also interested in brain damaged patients, but is particularly focused on uncovering the neural mechanisms underlying cognitive processes.<sup id="cite_ref-Schater_2000_1-0" class="reference"><a href="#cite_note-Schater_2000-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Methods"><span class="tocnumber">2</span> <span class="toctext">Methods</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_neuropsychology&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:167px;"><a href="/wiki/File:Phineas_gage_-_1868_skull_diagram.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/2/28/Phineas_gage_-_1868_skull_diagram.jpg" decoding="async" width="165" height="234" class="thumbimage" data-file-width="165" data-file-height="234" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Phineas_gage_-_1868_skull_diagram.jpg" class="internal" title="Enlarge"></a></div>"<i>Front and lateral view of the cranium, representing the direction in which the iron traversed its cavity...</i>"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div></div></div>
+<p>Cognitive neuropsychology has its roots in the diagram making approach to <a href="/wiki/Language_disorders" class="mw-redirect" title="Language disorders">language disorder</a> that started in the second half of the 19th century. The discovery that <a href="/wiki/Aphasia" title="Aphasia">aphasia</a> took different forms depending on the location of brain damage provided a powerful framework for understanding brain function.<sup id="cite_ref-Coltheart,_M._2008_3-0" class="reference"><a href="#cite_note-Coltheart,_M._2008-3">&#91;3&#93;</a></sup>
+</p><p>In 1861 <a href="/wiki/Paul_Broca" title="Paul Broca">Paul Broca</a>, reported a <a href="/wiki/Post-mortem_examination" class="mw-redirect" title="Post-mortem examination">post mortem</a> study of an <a href="/wiki/Aphasia" title="Aphasia">aphasic</a> patient who was speechless apart from a single nonsense word:  "Tan". Broca showed that an area of the left <a href="/wiki/Frontal_lobe" title="Frontal lobe">frontal lobe</a> was damaged. As Tan was unable to produce speech but could still understand it, Broca argued that this area might be specialised for speech production and that <a href="/wiki/Language" title="Language">language</a> skills might be localized to this <a href="/wiki/Cerebral_cortex" title="Cerebral cortex">cortical</a> area. Broca did a similar study on another patient, Lelong, a few weeks later. Lelong, like Tan, could understand speech but could only repeat the same 5 words. After examining his brain, Broca noticed that Lelong had a lesion in approximately the same area as his patient Tan. He also noticed that in the more than 25 patients he examined with <a href="/wiki/Aphasia" title="Aphasia">aphasia</a>, they all had lesions to the left frontal lobe but there was no damage to the right hemisphere of the brain. From this he concluded that the function of speech was probably localized in the inferior frontal gyrus of the left hemisphere of the brain, an area now known as <a href="/wiki/Broca%27s_area" title="Broca&#39;s area">Broca's area</a>.
+</p><p><a href="/wiki/Karl_Wernicke" class="mw-redirect" title="Karl Wernicke">Karl Wernicke</a> subsequently reported patients with damage further back in the temporal lobe who could speak but were unable to understand what was said to them, providing evidence for two potentially interconnected language centres. These clinical descriptions were integrated into a theory of language organisation by <a href="/wiki/Ludwig_Lichtheim" title="Ludwig Lichtheim">Lichtheim</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Subsequently, these models were used and developed to inform <a href="/wiki/Joseph_Jules_Dejerine" title="Joseph Jules Dejerine">Dejerine's</a> account of reading, <a href="/wiki/Liepmann" title="Liepmann">Liepmann</a>'s theory of action and <a href="/wiki/Lissauer" title="Lissauer">Lissauer</a>'s 1890 account of object recognition  and <a href="/wiki/Lewandowsky" class="mw-redirect" title="Lewandowsky">Lewandowsky</a> and Stadelmann's 1908 account of calculation.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:BrocasAreaSmall.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/BrocasAreaSmall.png/200px-BrocasAreaSmall.png" decoding="async" width="200" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/BrocasAreaSmall.png/300px-BrocasAreaSmall.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/BrocasAreaSmall.png/400px-BrocasAreaSmall.png 2x" data-file-width="851" data-file-height="595" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:BrocasAreaSmall.png" class="internal" title="Enlarge"></a></div>Broca's area and Wernicke's area.</div></div></div>
+<p>However, the early 20th century saw a reaction to the overly-precise accounts of the diagram making neurologists. <a href="/wiki/Pierre_Marie" title="Pierre Marie">Pierre Marie</a> challenged  conclusions against previous evidence of Broca's areas in 1906 and <a href="/wiki/Henry_Head" title="Henry Head">Henry Head</a> attacked the whole field of cerebral localisation 1926.
+</p><p>The modern science of cognitive neuropsychology emerged during the 1960s stimulated by the insights of the neurologist <a href="/wiki/Norman_Geschwind" title="Norman Geschwind">Norman Geschwind</a> who demonstrated that the insights of Broca and Wernicke were still clinically relevant. The other stimulus to the discipline was the "Cognitive Revolution" and the growing science of <a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive psychology</a> which had emerged as a reaction to <a href="/wiki/Behaviorism" title="Behaviorism">behaviorism</a> in the mid 20th century.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+Psychologists in the mid-1950s acknowledged that the structure of mental information-processing systems could be investigated in scientifically acceptable ways. They developed and applied new cognitive processing models to explain experimental data from not only studies of speech and language but also those of selective attention.<sup id="cite_ref-ReferenceA_6-0" class="reference"><a href="#cite_note-ReferenceA-6">&#91;6&#93;</a></sup> Cognitive psychologists and clinical neuropsychologists developed more research collaborations to gain a better understanding of these disorders. The rebirth of neuropsychology was marked by the publishing of two seminal collaborative papers from Marshall &amp; Newcombe (1966) on reading and Warrington &amp; Shallice (1969) on memory.<sup id="cite_ref-ReferenceA_6-1" class="reference"><a href="#cite_note-ReferenceA-6">&#91;6&#93;</a></sup> Subsequently, work by pioneers such as <a href="/wiki/Elizabeth_Warrington" title="Elizabeth Warrington">Elizabeth Warrington</a>, <a href="/wiki/Brenda_Milner" title="Brenda Milner">Brenda Milner</a>, <a href="/wiki/Tim_Shallice" title="Tim Shallice">Tim Shallice</a>, <a href="/wiki/Alan_Baddeley" title="Alan Baddeley">Alan Baddeley</a> and <a href="/wiki/Lawrence_Weiskrantz" title="Lawrence Weiskrantz">Lawrence Weiskrantz</a> demonstrated that neurological patients were an important source of data for cognitive psychologists.
+</p><p>It took less than one decade for neuropsychology to be fully re-established. More achievements in neuropsychology were recognized: the establishment of the first major book discussing neuropsychology using a cognitive approach, <i>Deep Dyslexia</i>, in 1980 after a scientific meeting about the topic in Oxford in 1977, the birth of the <i>Cognitive Neuropsychology</i> journal in 1984, and the publishing of the first textbook of neuropsychology, <i>Human Cognitive Neuropsychology</i> in 1988.<sup id="cite_ref-ReferenceA_6-2" class="reference"><a href="#cite_note-ReferenceA-6">&#91;6&#93;</a></sup>
+</p><p>A particular area of interest  was memory. Patients with <a href="/wiki/Amnesia" title="Amnesia">amnesia</a> caused by injuries to the <a href="/wiki/Hippocampus" title="Hippocampus">hippocampus</a>  in the temporal cortex and midbrain areas (especially the <a href="/wiki/Mamillary_bodies" class="mw-redirect" title="Mamillary bodies">mamillary bodies</a> were of early interest. A patient with severe case of amnesia will not be able to remember meeting the examiner if they leave the room and return, let alone events of the previous day (<a href="/wiki/Episodic_memory" title="Episodic memory">episodic memory</a>), but they will still be able to learn how to tie their shoes (<a href="/wiki/Procedural_memory" title="Procedural memory">procedural memory</a>), remember a series of numbers for a few seconds (<a href="/wiki/Short_term_memory" class="mw-redirect" title="Short term memory">short term memory</a> or <a href="/wiki/Working_memory" title="Working memory">working memory</a>) and be able to recall historical events they have learned in school (<a href="/wiki/Semantic_memory" title="Semantic memory">semantic memory</a>). By contrast, patients may lose their short term memory abilities while retaining their long term memory functions.  Many other studies like this have been done in the field of neuropsychology examining lesions and the effect they have on certain areas of the brain and their functions.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Hippolobes.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hippolobes.gif/300px-Hippolobes.gif" decoding="async" width="300" height="196" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/57/Hippolobes.gif 1.5x" data-file-width="400" data-file-height="261" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hippolobes.gif" class="internal" title="Enlarge"></a></div>Most of Molaison's hippocampus was removed bilaterally.</div></div></div>
+<p>Studies on the amnesic patient <a href="/wiki/Henry_Molaison" title="Henry Molaison">Henry Molaison</a>, formerly known as patient H.M., are commonly cited as some of the precursors, if not the beginning of modern cognitive neuropsychology. Molaison had parts of his medial temporal lobes surgically removed to treat intractable <a href="/wiki/Epilepsy" title="Epilepsy">epilepsy</a> in 1953. Much of the hippocampus was also removed along with the medial temporal lobes. The treatment proved successful in reducing his dangerous <a href="/wiki/Seizure" class="mw-redirect" title="Seizure">seizures</a>, but left him with a profound but selective amnesia. After the surgery, Molaison was able to remember some big events from before the surgery, such as the stock market crash in 1929, but was confused about many others and could no longer form new memories. This accidental experiment showed scientists how the brain processes different types of memory. Because Molaison's impairment was caused by surgery, the damaged parts of his brain were known, information which was usually not knowable in a time before accurate <a href="/wiki/Neuroimaging" title="Neuroimaging">neuroimaging</a> became widespread. Scientists concluded that while the hippocampus is needed in the creation of new memories, it is not needed in the retrieval of old ones; they are two separate processes. They also realized that the hippocampus and the medial temporal lobes, both of the areas removed from Molaison, are the areas responsible for converting short term memory to long term memory.
+</p><p>Much of the early work of cognitive neuropsychology was carried out with limited reference to the detailed localisation of brain pathology. <a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a> was relatively imprecise and other anatomically based techniques were also limited. The emphasis of many researchers as late as 1990 was on the analysis of patterns of cognitive deficit rather than on where the injury was located.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Despite the lack of detailed anatomical data, studies of reading, language and memory had a number of important implications. The first is that certain <a href="/wiki/Cognitive" class="mw-redirect" title="Cognitive">cognitive</a> processes (such as language) could be damaged separately from others, and so might be handled by distinct and independent cognitive (and neural) processes. (For more on the cognitive neuropsychological approach to language, see <a href="/wiki/Eleanor_Saffran" title="Eleanor Saffran">Eleanor Saffran</a>, among others.) The second is that such processes might be localized to specific areas of the brain. Whilst both of these claims are still controversial to some degree, the influence led to a focus on brain injury as a potentially fruitful way of understanding the relationship between <a href="/wiki/Psychology" title="Psychology">psychology</a> and <a href="/wiki/Neuroscience" title="Neuroscience">neuroscience</a>.
+</p>
+<h2><span class="mw-headline" id="Methods">Methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_neuropsychology&amp;action=edit&amp;section=2" title="Edit section: Methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A key approach within cognitive neuropsychology has been to use single case studies and <a href="/wiki/Dissociation_(neuropsychology)" title="Dissociation (neuropsychology)">dissociation</a> as a means of testing theories of cognitive function. For example, if a theory states that reading and writing are simply different skills stemming from a single cognitive process, it should not be possible to find a person who, after brain injury, can write but not read or read but not write. This selective breakdown in skills suggests that different parts of the brain are specialized for the different processes and so the cognitive systems are separable.
+</p><p>The philosopher <a href="/wiki/Jerry_Fodor" title="Jerry Fodor">Jerry Fodor</a> has been particularly influential in cognitive neuropsychology, particularly with the idea that the mind, or at least certain parts of it, may be organised into independent modules. Evidence that cognitive skills may be damaged independently seem to support this theory to some degree, although it is clear that some aspects of mind (such as <a href="/wiki/Belief" title="Belief">belief</a> for example) are unlikely to be modular. Fodor, a strict <a href="/wiki/Functionalism_(philosophy_of_mind)" title="Functionalism (philosophy of mind)">functionalist</a>, rejects the idea that the neurological properties of the brain have any bearing on its cognitive properties and doubts the whole discipline of cognitive neuropsychology.
+</p><p>With improved neuroimaging techniques, it has been possible to correlate patterns of impairment with a knowledge of exactly which parts of the <a href="/wiki/Nervous_system" title="Nervous system">nervous system</a> are damaged, allowing previously undiscovered functional relationships to be explored (the <i><a href="/wiki/Lesion" title="Lesion">lesion</a> method</i>). Contemporary cognitive neuropsychology uses many of the same techniques and technologies from the wider science of <a href="/wiki/Neuropsychology" title="Neuropsychology">neuropsychology</a> and fields such as <a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">cognitive neuroscience</a>. These may include <a href="/wiki/Neuroimaging" title="Neuroimaging">neuroimaging</a>, <a href="/wiki/Electrophysiology" title="Electrophysiology">electrophysiology</a> and <a href="/wiki/Neuropsychological_tests" class="mw-redirect" title="Neuropsychological tests">neuropsychological tests</a> to measure either brain function or psychological performance. Useful technology in cognitive neuropsychology includes positron-emission tomography (PET) and functional magnetic resonance imaging (fMRI). These techniques make it possible to identify the areas of the brain responsible for performing certain cognitive tasks by measuring blood flow in the brain. PET scans sense the low-level radiation in the brain and produce 3-D images, whereas an fMRI works on a magnetic signal and is used to “map the brain”. Electroencephalography (EEG) records the brain’s electrical activity and can identify changes that occur over milliseconds. EEG is often used in patients with epilepsy to detect seizure activity.
+</p><p>The principles of cognitive neuropsychology have recently been applied to <a href="/wiki/Mental_illness" class="mw-redirect" title="Mental illness">mental illness</a>, with a view to understanding, for example, what the study of <a href="/wiki/Delusion" title="Delusion">delusions</a> may tell us about the function of normal belief. This relatively young field is known as <a href="/wiki/Cognitive_neuropsychiatry" title="Cognitive neuropsychiatry">cognitive neuropsychiatry</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_neuropsychology&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/32px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png" decoding="async" width="32" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/48px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/64px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png 2x" data-file-width="800" data-file-height="600" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Thinking" title="Portal:Thinking">Thinking portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Capgras_delusion" title="Capgras delusion">Capgras delusion</a></li>
+<li><a href="/wiki/CDR_computerized_assessment_system" title="CDR computerized assessment system">CDR computerized assessment system</a></li>
+<li><a href="/wiki/Clive_Wearing" title="Clive Wearing">Clive Wearing</a></li>
+<li><a href="/wiki/Cognitive_bias" title="Cognitive bias">Cognitive bias</a></li>
+<li><a href="/wiki/Cognitive_neuropsychiatry" title="Cognitive neuropsychiatry">Cognitive neuropsychiatry</a></li>
+<li><a href="/wiki/Cotard_delusion" title="Cotard delusion">Cotard delusion</a></li>
+<li><a href="/wiki/Emotion_and_memory" title="Emotion and memory">Emotion and memory</a></li>
+<li><a href="/wiki/Erotomania" title="Erotomania">Erotomania</a></li>
+<li><a href="/wiki/Face_perception" title="Face perception">Face perception</a></li>
+<li><a href="/wiki/Fregoli_delusion" title="Fregoli delusion">Fregoli delusion</a></li>
+<li><a href="/wiki/HM_(patient)" class="mw-redirect" title="HM (patient)">HM (patient)</a></li>
+<li><a href="/wiki/Neuropsychological_test" title="Neuropsychological test">Neuropsychological test</a></li>
+<li><a href="/wiki/Outline_of_brain_mapping" title="Outline of brain mapping">Outline of brain mapping</a></li>
+<li><a href="/wiki/Outline_of_the_human_brain" title="Outline of the human brain">Outline of the human brain</a></li>
+<li><a href="/wiki/Phineas_Gage" title="Phineas Gage">Phineas Gage</a></li>
+<li><a href="/wiki/Primary_sensory_cortex" class="mw-redirect" title="Primary sensory cortex">Primary sensory cortex</a></li>
+<li><a href="/wiki/Prosopagnosia" title="Prosopagnosia">Prosopagnosia</a></li>
+<li><a href="/wiki/Retinotopy" title="Retinotopy">Retinotopy</a></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_neuropsychology&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Schater_2000-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Schater_2000_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Schacter, Daniel L. (2000). "Understanding Implicit memory: A cognitive neuroscience approach".  In Gazzaniga, M.S. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=99q2QgAACAAJ"><i>Cognitive Neuroscience: A Reader</i></a>. Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-631-21659-9" title="Special:BookSources/978-0-631-21659-9">978-0-631-21659-9</a>. <q>The term cognitive neuropsychology often connotes a purely functional approach to patients with cognitive deficits that does not make use of, or encourage interest in, evidence and ideas about brain systems and processes</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Understanding+Implicit+memory%3A+A+cognitive+neuroscience+approach&amp;rft.btitle=Cognitive+Neuroscience%3A+A+Reader&amp;rft.pub=Wiley&amp;rft.date=2000&amp;rft.isbn=978-0-631-21659-9&amp;rft.aulast=Schacter&amp;rft.aufirst=Daniel+L.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D99q2QgAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+neuropsychology" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Harlow, John Martyn (1868). <a class="external text" href="https://en.wikisource.org/wiki/Index:Recovery_from_the_passage_of_an_iron_bar_through_the_head.djvu">"Recovery from the Passage of an Iron Bar through the Head"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Recovery+from+the+Passage+of+an+Iron+Bar+through+the+Head&amp;rft.date=1868&amp;rft.aulast=Harlow&amp;rft.aufirst=John+Martyn&amp;rft_id=https%3A%2F%2Fen.wikisource.org%2Fwiki%2FIndex%3ARecovery_from_the_passage_of_an_iron_bar_through_the_head.djvu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+neuropsychology" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> Originally published in <cite class="citation journal"><i>Publications of the Massachusetts Medical Society</i>. <b>2</b>: 327–347.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Publications+of+the+Massachusetts+Medical+Society&amp;rft.volume=2&amp;rft.pages=327-347&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+neuropsychology" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Missing or empty <code class="cs1-code">&#124;title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Coltheart,_M._2008-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Coltheart,_M._2008_3-0">^</a></b></span> <span class="reference-text">Coltheart, M. (2008). Cognitive neuropsychology. Scholarpedia, 3(2), 3644. doi: 10.4249/scholarpedia.3644</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Carlson, Neil R. (2013). Physiology of Behavior. NJ, U.S: Pearson Education, Inc., p. 132.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Miller, G. A. (2003). The cognitive revolution: a historical perspective. Trends in Cognitive Sciences, 7(3), 141-144. doi: 10.1016/s1364-6613(03)00029-9.</span>
+</li>
+<li id="cite_note-ReferenceA-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReferenceA_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Coltheart, M. (2008). Cognitive neuropsychology. Scholarpedia, 3(2), 3644. doi: 10.4249/scholarpedia.3644.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Shallice, Tim (October 2009). <i>From Neuropsychology to Mental Structure</i>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780511526817" title="Special:BookSources/9780511526817">9780511526817</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+Neuropsychology+to+Mental+Structure&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2009-10&amp;rft.isbn=9780511526817&amp;rft.aulast=Shallice&amp;rft.aufirst=Tim&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+neuropsychology" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_neuropsychology&amp;action=edit&amp;section=5" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book"><a href="/wiki/Tim_Shallice" title="Tim Shallice">Shallice, Tim</a> (1988). <i>From Neuropsychology to Mental Structure</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-31360-0" title="Special:BookSources/0-521-31360-0">0-521-31360-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+Neuropsychology+to+Mental+Structure&amp;rft.date=1988&amp;rft.isbn=0-521-31360-0&amp;rft.aulast=Shallice&amp;rft.aufirst=Tim&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+neuropsychology" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Psychology" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Psychology" title="Template:Psychology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Psychology" title="Template talk:Psychology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Psychology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Psychology" style="font-size:114%;margin:0 4em"><a href="/wiki/Psychology" title="Psychology">Psychology</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Philosophy&amp;#10;*_Portal&amp;#10;*_Psychologist">
+<ul><li><a href="/wiki/History_of_psychology" title="History of psychology">History</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Philosophy</a></li>
+<li><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Portal</a></li>
+<li><a href="/wiki/Psychologist" title="Psychologist">Psychologist</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Basic_science_(psychology)" title="Basic science (psychology)">Basic psychology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abnormal_psychology" title="Abnormal psychology">Abnormal</a></li>
+<li><a href="/wiki/Affective_science" title="Affective science">Affective science</a></li>
+<li><a href="/wiki/Affective_neuroscience" title="Affective neuroscience">Affective neuroscience</a></li>
+<li><a href="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavioral genetics</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Behavioral neuroscience</a></li>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive</a>/<a href="/wiki/Cognitivism_(psychology)" title="Cognitivism (psychology)">Cognitivism</a></li>
+<li><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive neuroscience</a>
+<ul><li><a href="/wiki/Social_cognitive_neuroscience" title="Social cognitive neuroscience">Social</a></li></ul></li>
+<li><a href="/wiki/Comparative_psychology" title="Comparative psychology">Comparative</a></li>
+<li><a href="/wiki/Cross-cultural_psychology" title="Cross-cultural psychology">Cross-cultural</a></li>
+<li><a href="/wiki/Cultural_psychology" title="Cultural psychology">Cultural</a></li>
+<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">Developmental</a></li>
+<li><a href="/wiki/Differential_psychology" title="Differential psychology">Differential</a></li>
+<li><a href="/wiki/Ecological_psychology" title="Ecological psychology">Ecological</a></li>
+<li><a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">Evolutionary</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experimental</a></li>
+<li><a href="/wiki/Gestalt_psychology" title="Gestalt psychology">Gestalt</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Mathematical_psychology" title="Mathematical psychology">Mathematical</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Personality_psychology" title="Personality psychology">Personality</a></li>
+<li><a href="/wiki/Positive_psychology" title="Positive psychology">Positive</a></li>
+<li><a href="/wiki/Psycholinguistics" title="Psycholinguistics">Psycholinguistics</a></li>
+<li><a href="/wiki/Psychophysiology" title="Psychophysiology">Psychophysiology</a></li>
+<li><a href="/wiki/Quantitative_psychology" title="Quantitative psychology">Quantitative</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">Social</a></li>
+<li><a href="/wiki/Theoretical_psychology" title="Theoretical psychology">Theoretical</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Applied_psychology" title="Applied psychology">Applied psychology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anomalistic_psychology" title="Anomalistic psychology">Anomalistic</a></li>
+<li><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a></li>
+<li><a href="/wiki/Psychological_testing" title="Psychological testing">Assessment</a></li>
+<li><a href="/wiki/Clinical_psychology" title="Clinical psychology">Clinical</a></li>
+<li><a href="/wiki/Community_psychology" title="Community psychology">Community</a></li>
+<li><a href="/wiki/Consumer_behaviour" title="Consumer behaviour">Consumer</a></li>
+<li><a href="/wiki/Counseling_psychology" title="Counseling psychology">Counseling</a></li>
+<li><a href="/wiki/Critical_psychology" title="Critical psychology">Critical</a></li>
+<li><a href="/wiki/Educational_psychology" title="Educational psychology">Educational</a></li>
+<li><a href="/wiki/Human_factors_and_ergonomics" title="Human factors and ergonomics">Ergonomics</a></li>
+<li><a href="/wiki/Feminist_psychology" title="Feminist psychology">Feminist</a></li>
+<li><a href="/wiki/Forensic_psychology" title="Forensic psychology">Forensic</a></li>
+<li><a href="/wiki/Health_psychology" title="Health psychology">Health</a></li>
+<li><a href="/wiki/Industrial_and_organizational_psychology" title="Industrial and organizational psychology">Industrial and organizational</a></li>
+<li><a href="/wiki/Legal_psychology" title="Legal psychology">Legal</a></li>
+<li><a href="/wiki/Media_psychology" title="Media psychology">Media</a></li>
+<li><a href="/wiki/Medical_psychology" title="Medical psychology">Medical</a></li>
+<li><a href="/wiki/Military_psychology" title="Military psychology">Military</a></li>
+<li><a href="/wiki/Music_psychology" title="Music psychology">Music</a></li>
+<li><a href="/wiki/Occupational_health_psychology" title="Occupational health psychology">Occupational health</a></li>
+<li><a href="/wiki/Pastoral_psychology" class="mw-redirect" title="Pastoral psychology">Pastoral</a></li>
+<li><a href="/wiki/Political_psychology" title="Political psychology">Political</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li>
+<li><a href="/wiki/Psychotherapy" title="Psychotherapy">Psychotherapy</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Religion</a></li>
+<li><a href="/wiki/School_psychology" title="School psychology">School</a></li>
+<li><a href="/wiki/Sport_psychology" title="Sport psychology">Sport and exercise</a></li>
+<li><a href="/wiki/Suicidology" title="Suicidology">Suicidology</a></li>
+<li><a href="/wiki/Systems_psychology" title="Systems psychology">Systems</a></li>
+<li><a href="/wiki/Traffic_psychology" title="Traffic psychology">Traffic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Methodologies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animal_testing" title="Animal testing">Animal testing</a></li>
+<li><a href="/wiki/Archival_research" title="Archival research">Archival research</a></li>
+<li><a href="/wiki/Behavioral_epigenetics" title="Behavioral epigenetics">Behavior epigenetics</a></li>
+<li><a href="/wiki/Case_study" title="Case study">Case study</a></li>
+<li><a href="/wiki/Content_analysis" title="Content analysis">Content analysis</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experiments</a></li>
+<li><a href="/wiki/Human_subject_research" title="Human subject research">Human subject research</a></li>
+<li><a href="/wiki/Interview_(research)" title="Interview (research)">Interviews</a></li>
+<li><a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a></li>
+<li><a href="/wiki/Observation" title="Observation">Observation</a></li>
+<li><a href="/wiki/Psychophysics" title="Psychophysics">Psychophysics</a></li>
+<li><a href="/wiki/Qualitative_psychological_research" title="Qualitative psychological research">Qualitative research</a></li>
+<li><a href="/wiki/Quantitative_psychological_research" title="Quantitative psychological research">Quantitative research</a></li>
+<li><a href="/wiki/Self-report_inventory" title="Self-report inventory">Self-report inventory</a></li>
+<li><a href="/wiki/Survey_methodology" title="Survey methodology">Statistical surveys</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wilhelm_Wundt" title="Wilhelm Wundt">Wilhelm Wundt</a>&#160;(1832–1920)</li>
+<li><a href="/wiki/William_James" title="William James">William James</a>&#160;(1842–1910)</li>
+<li><a href="/wiki/Ivan_Pavlov" title="Ivan Pavlov">Ivan Pavlov</a>&#160;(1849–1936)</li>
+<li><a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a>&#160;(1856–1939)</li>
+<li><a href="/wiki/Edward_Thorndike" title="Edward Thorndike">Edward Thorndike</a>&#160;(1874–1949)</li>
+<li><a href="/wiki/Carl_Jung" title="Carl Jung">Carl Jung</a>&#160;(1875–1961)</li>
+<li><a href="/wiki/John_B._Watson" title="John B. Watson">John B. Watson</a>&#160;(1878–1958)</li>
+<li><a href="/wiki/Clark_L._Hull" title="Clark L. Hull">Clark L. Hull</a>&#160;(1884–1952)</li>
+<li><a href="/wiki/Kurt_Lewin" title="Kurt Lewin">Kurt Lewin</a>&#160;(1890–1947)</li>
+<li><a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a>&#160;(1896–1980)</li>
+<li><a href="/wiki/Gordon_Allport" title="Gordon Allport">Gordon Allport</a>&#160;(1897–1967)</li>
+<li><a href="/wiki/J._P._Guilford" title="J. P. Guilford">J. P. Guilford</a>&#160;(1897–1987)</li>
+<li><a href="/wiki/Carl_Rogers" title="Carl Rogers">Carl Rogers</a>&#160;(1902–1987)</li>
+<li><a href="/wiki/Erik_Erikson" title="Erik Erikson">Erik Erikson</a>&#160;(1902–1994)</li>
+<li><a href="/wiki/B._F._Skinner" title="B. F. Skinner">B. F. Skinner</a>&#160;(1904–1990)</li>
+<li><a href="/wiki/Donald_O._Hebb" title="Donald O. Hebb">Donald O. Hebb</a>&#160;(1904–1985)</li>
+<li><a href="/wiki/Ernest_Hilgard" title="Ernest Hilgard">Ernest Hilgard</a>&#160;(1904–2001)</li>
+<li><a href="/wiki/Harry_Harlow" title="Harry Harlow">Harry Harlow</a>&#160;(1905–1981)</li>
+<li><a href="/wiki/Raymond_Cattell" title="Raymond Cattell">Raymond Cattell</a>&#160;(1905–1998)</li>
+<li><a href="/wiki/Abraham_Maslow" title="Abraham Maslow">Abraham Maslow</a>&#160;(1908–1970)</li>
+<li><a href="/wiki/Neal_E._Miller" title="Neal E. Miller">Neal E. Miller</a>&#160;(1909–2002)</li>
+<li><a href="/wiki/Jerome_Bruner" title="Jerome Bruner">Jerome Bruner</a>&#160;(1915–2016)</li>
+<li><a href="/wiki/Donald_T._Campbell" title="Donald T. Campbell">Donald T. Campbell</a>&#160;(1916–1996)</li>
+<li><a href="/wiki/Hans_Eysenck" title="Hans Eysenck">Hans Eysenck</a>&#160;(1916–1997)</li>
+<li><a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a>&#160;(1916–2001)</li>
+<li><a href="/wiki/David_McClelland" title="David McClelland">David McClelland</a>&#160;(1917–1998)</li>
+<li><a href="/wiki/Leon_Festinger" title="Leon Festinger">Leon Festinger</a>&#160;(1919–1989)</li>
+<li><a href="/wiki/George_Armitage_Miller" title="George Armitage Miller">George Armitage Miller</a>&#160;(1920–2012)</li>
+<li><a href="/wiki/Richard_Lazarus" title="Richard Lazarus">Richard Lazarus</a>&#160;(1922–2002)</li>
+<li><a href="/wiki/Stanley_Schachter" title="Stanley Schachter">Stanley Schachter</a>&#160;(1922–1997)</li>
+<li><a href="/wiki/Robert_Zajonc" title="Robert Zajonc">Robert Zajonc</a>&#160;(1923–2008)</li>
+<li><a href="/wiki/Albert_Bandura" title="Albert Bandura">Albert Bandura</a>&#160;(b.&#160;1925)</li>
+<li><a href="/wiki/Roger_Brown_(psychologist)" title="Roger Brown (psychologist)">Roger Brown</a>&#160;(1925–1997)</li>
+<li><a href="/wiki/Endel_Tulving" title="Endel Tulving">Endel Tulving</a>&#160;(b.&#160;1927)</li>
+<li><a href="/wiki/Lawrence_Kohlberg" title="Lawrence Kohlberg">Lawrence Kohlberg</a>&#160;(1927–1987)</li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a>&#160;(b.&#160;1928)</li>
+<li><a href="/wiki/Ulric_Neisser" title="Ulric Neisser">Ulric Neisser</a>&#160;(1928–2012)</li>
+<li><a href="/wiki/Jerome_Kagan" title="Jerome Kagan">Jerome Kagan</a>&#160;(b.&#160;1929)</li>
+<li><a href="/wiki/Walter_Mischel" title="Walter Mischel">Walter Mischel</a>&#160;(1930–2018)</li>
+<li><a href="/wiki/Elliot_Aronson" title="Elliot Aronson">Elliot Aronson</a>&#160;(b.&#160;1932)</li>
+<li><a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">Daniel Kahneman</a>&#160;(b.&#160;1934)</li>
+<li><a href="/wiki/Paul_Ekman" title="Paul Ekman">Paul Ekman</a>&#160;(b.&#160;1934)</li>
+<li><a href="/wiki/Michael_Posner_(psychologist)" title="Michael Posner (psychologist)">Michael Posner</a>&#160;(b.&#160;1936)</li>
+<li><a href="/wiki/Amos_Tversky" title="Amos Tversky">Amos Tversky</a>&#160;(1937–1996)</li>
+<li><a href="/wiki/Bruce_McEwen" title="Bruce McEwen">Bruce McEwen</a>&#160;(b.&#160;1938)</li>
+<li><a href="/wiki/Larry_Squire" title="Larry Squire">Larry Squire</a>&#160;(b.&#160;1941)</li>
+<li><a href="/wiki/Richard_E._Nisbett" title="Richard E. Nisbett">Richard E. Nisbett</a>&#160;(b.&#160;1941)</li>
+<li><a href="/wiki/Martin_Seligman" title="Martin Seligman">Martin Seligman</a>&#160;(b.&#160;1942)</li>
+<li><a href="/wiki/Ed_Diener" title="Ed Diener">Ed Diener</a>&#160;(b.&#160;1946)</li>
+<li><a href="/wiki/Shelley_E._Taylor" title="Shelley E. Taylor">Shelley E. Taylor</a>&#160;(b.&#160;1946)</li>
+<li><a href="/wiki/John_Robert_Anderson_(psychologist)" title="John Robert Anderson (psychologist)">John Anderson</a>&#160;(b.&#160;1947)</li>
+<li><a href="/wiki/Ronald_C._Kessler" title="Ronald C. Kessler">Ronald C. Kessler</a>&#160;(b.&#160;1947)</li>
+<li><a href="/wiki/Joseph_E._LeDoux" title="Joseph E. LeDoux">Joseph E. LeDoux</a>&#160;(b.&#160;1949)</li>
+<li><a href="/wiki/Richard_Davidson" title="Richard Davidson">Richard Davidson</a>&#160;(b.&#160;1951)</li>
+<li><a href="/wiki/Susan_Fiske" title="Susan Fiske">Susan Fiske</a>&#160;(b.&#160;1952)</li>
+<li><a href="/wiki/Roy_Baumeister" title="Roy Baumeister">Roy Baumeister</a>&#160;(b.&#160;1953)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Psychology_lists" title="Category:Psychology lists">Lists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_counseling_topics" title="List of counseling topics">Counseling topics</a></li>
+<li><a href="/wiki/List_of_psychology_disciplines" title="List of psychology disciplines">Disciplines</a></li>
+<li><a href="/wiki/List_of_important_publications_in_psychology" title="List of important publications in psychology">Important publications</a></li>
+<li><a href="/wiki/List_of_psychology_organizations" title="List of psychology organizations">Organizations</a></li>
+<li><a href="/wiki/Outline_of_psychology" title="Outline of psychology">Outline</a></li>
+<li><a href="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</a></li>
+<li><a href="/wiki/List_of_psychotherapies" title="List of psychotherapies">Psychotherapies</a></li>
+<li><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Research methods</a></li>
+<li><a href="/wiki/List_of_psychological_schools" title="List of psychological schools">Schools of thought</a></li>
+<li><a href="/wiki/Timeline_of_psychology" title="Timeline of psychology">Timeline</a></li>
+<li><a href="/wiki/Index_of_psychology_articles" title="Index of psychology articles">Topics</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="https://en.wiktionary.org/wiki/psychology" class="extiw" title="wiktionary:psychology">Wiktionary definition</a></li>
+<li><a href="https://en.wiktionary.org/wiki/Category:en:Psychology" class="extiw" title="wiktionary:Category:en:Psychology">Wiktionary category</a></li>
+<li><a href="https://en.wikisource.org/wiki/Category:Psychology" class="extiw" title="wikisource:Category:Psychology">Wikisource</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/category:Psychology" class="extiw" title="commons:category:Psychology">Wikimedia Commons</a></li>
+<li><a href="https://en.wikiquote.org/wiki/Psychology" class="extiw" title="wikiquote:Psychology">Wikiquote</a></li>
+<li><a href="https://en.wikinews.org/wiki/Special:Search/Psychology" class="extiw" title="wikinews:Special:Search/Psychology">Wikinews</a></li>
+<li><a href="https://en.wikibooks.org/wiki/Psychology" class="extiw" title="wikibooks:Psychology">Wikibooks</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1245
+Cached time: 20190414090352
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.272 seconds
+Real time usage: 0.396 seconds
+Preprocessor visited node count: 740/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60943/2097152 bytes
+Template argument size: 2342/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15301/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 3.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  291.707      1 -total
+ 27.27%   79.538      3 Template:Cite_book
+ 24.51%   71.509      1 Template:Refimprove
+ 21.06%   61.434      1 Template:Ambox
+ 15.73%   45.890      1 Template:About
+ 10.81%   31.539      1 Template:Find_sources_mainspace
+  8.81%   25.711      1 Template:Neuropsychology
+  7.45%   21.733      1 Template:Sidebar_with_collapsible_lists
+  5.53%   16.141      1 Template:Columns-list
+  5.15%   15.010      1 Template:Psychology
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:389579-0!canonical and timestamp 20190414090352 and revision id 869857211
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cognitive_neuropsychology&amp;oldid=869857211">https://en.wikipedia.org/w/index.php?title=Cognitive_neuropsychology&amp;oldid=869857211</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Neuropsychology" title="Category:Neuropsychology">Neuropsychology</a></li><li><a href="/wiki/Category:Cognition" title="Category:Cognition">Cognition</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2014" title="Category:Articles needing additional references from September 2014">Articles needing additional references from September 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cognitive+neuropsychology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cognitive+neuropsychology" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cognitive_neuropsychology" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cognitive_neuropsychology" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cognitive_neuropsychology">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cognitive_neuropsychology&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cognitive_neuropsychology&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cognitive_neuropsychology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cognitive_neuropsychology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cognitive_neuropsychology&amp;oldid=869857211" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cognitive_neuropsychology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18634" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cognitive_neuropsychology&amp;id=869857211" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cognitive+neuropsychology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cognitive+neuropsychology&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cognitive_neuropsychology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Neuropsicologia_cognitiva" title="Neuropsicologia cognitiva – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Neuropsicolog%C3%ADa_cognitiva" title="Neuropsicología cognitiva – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%92%E1%83%9C%E1%83%98%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9C%E1%83%94%E1%83%98%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%A1%E1%83%98%E1%83%A5%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%90" title="კოგნიტური ნეიროფსიქოლოგია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Kognityvin%C4%97_neuropsichologija" title="Kognityvinė neuropsichologija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Cognitive_neuropsychology" title="Cognitive neuropsychology – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kognitiv_neuropsykologi" title="Kognitiv neuropsykologi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18634#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 November 2018, at 20:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cognitive_neuropsychology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.396","ppvisitednodes":{"value":740,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60943,"limit":2097152},"templateargumentsize":{"value":2342,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15301,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  291.707      1 -total"," 27.27%   79.538      3 Template:Cite_book"," 24.51%   71.509      1 Template:Refimprove"," 21.06%   61.434      1 Template:Ambox"," 15.73%   45.890      1 Template:About"," 10.81%   31.539      1 Template:Find_sources_mainspace","  8.81%   25.711      1 Template:Neuropsychology","  7.45%   21.733      1 Template:Sidebar_with_collapsible_lists","  5.53%   16.141      1 Template:Columns-list","  5.15%   15.010      1 Template:Psychology"]},"scribunto":{"limitreport-timeusage":{"value":"0.122","limit":"10.000"},"limitreport-memusage":{"value":3842920,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20190414090352","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cognitive neuropsychology","url":"https:\/\/en.wikipedia.org\/wiki\/Cognitive_neuropsychology","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18634","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18634","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-05T14:44:16Z","dateModified":"2018-11-20T20:45:07Z","headline":"branch of cognitive psychology"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1249"});});</script>
+</body>
+</html>

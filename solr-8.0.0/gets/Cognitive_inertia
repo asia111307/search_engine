@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cognitive inertia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cognitive_inertia","wgTitle":"Cognitive inertia","wgCurRevisionId":891286509,"wgRevisionId":891286509,"wgArticleId":24200321,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognitive psychology","Heuristics","Management","Behavioral economics","Cognitive inertia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cognitive_inertia","wgRelevantArticleId":24200321,"wgRequestId":"XLGnTApAME8AACnFkjsAAADG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5141212","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cognitive_inertia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cognitive_inertia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cognitive_inertia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cognitive_inertia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cognitive_inertia rootpage-Cognitive_inertia skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cognitive inertia</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Cognitive inertia</b> refers to the tendency for <a href="/wiki/Beliefs" class="mw-redirect" title="Beliefs">beliefs</a> or sets of beliefs to endure once formed. In particular, cognitive inertia describes the <a href="/wiki/Human_behavior" title="Human behavior">human</a> inclination to rely on familiar assumptions and exhibit a reluctance and/or inability to revise those assumptions, even when the evidence supporting them no longer exists or when other evidence calls them into question. The term is employed in the <a href="/wiki/Organizational_studies" title="Organizational studies">managerial and organizational sciences</a> to describe the commonly observed phenomenon whereby managers fail to update and revise their understanding of a situation when that situation changes, a phenomenon that acts as a psychological barrier to organizational change.This can be seen in cases where people or students still carry big books to school without knowing that all they need is inside the phone they are holding. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> This can be also be demonstrated in the case of people who generally resist changes except if such changes entail complementary additions to their already held set of beliefs.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_business"><span class="tocnumber">1</span> <span class="toctext">In business</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#In_history"><span class="tocnumber">2</span> <span class="toctext">In history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#In_relationships"><span class="tocnumber">3</span> <span class="toctext">In relationships</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_business">In business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_inertia&amp;action=edit&amp;section=1" title="Edit section: In business">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cognitive inertia in business is most commonly seen in product development and marketing. Once a business becomes established, it will often ignore the competitive space until it has changed so completely it can no longer adapt products to match the new environment. Firms will also only market to one demographic and lose potential customers because they do not fit into its original views. In this way, some observers view cognitive inertia as associated with the concept of loss aversion where organizations would prefer to avoid loss than to achieve gain.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>One example of cognitive inertia concerns the judgment of the management of the <a href="/wiki/Polaroid_Corporation" title="Polaroid Corporation">Polaroid corporation</a> that they could not make money on hardware but only on consumables, This led them to neglect <a href="/wiki/Digital_imaging" title="Digital imaging">digital imaging</a> technologies.  The once-successful company failed to adapt effectively to market changes and thus lost revenue and ultimately declared bankruptcy.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>In the 1980s the vacuum industry displayed cognitive inertia as they kept making similar models until <a href="/wiki/Dyson_(company)" title="Dyson (company)">Dyson</a> revolutionized the industry by introducing a bagless vacuum.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="In_history">In history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_inertia&amp;action=edit&amp;section=2" title="Edit section: In history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Once a belief is well-established, it is very difficult for cultures to overcome it until evidence forces them to do so.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> This was the case during the <a href="/wiki/1918_flu_pandemic" class="mw-redirect" title="1918 flu pandemic">Spanish Influenza</a> epidemic in the United States (1918-1919). Many Americans did not believe that an influenza they (mistakenly) though was from Spain could affect them until a large portion of the country was already infected. In the more modern period, there is an emerging position that <a href="/wiki/Global_warming" title="Global warming">anthropogenic climate change</a> denial is a kind of cognitive inertial. Despite the evidence provided by scientific discovery, there are still those - including nations - who deny its incidence in favor of existing patterns of development.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> 
+</p>
+<h2><span class="mw-headline" id="In_relationships">In relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_inertia&amp;action=edit&amp;section=3" title="Edit section: In relationships">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Not all instances of cognitive inertia are negative. Cognitive inertia is a fundamental component of <a href="/wiki/Love" title="Love">love</a>, <a href="/wiki/Trust_(emotion)" class="mw-redirect" title="Trust (emotion)">trust</a> and <a href="/wiki/Friendship" title="Friendship">friendship</a>.  Once cognitive inertia is established, it provides an additional level of trust in a relationship.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Cognitive inertia supports societal norms such as <a href="/wiki/Incest" title="Incest">incest</a> aversion.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_inertia&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Psychological_inertia" title="Psychological inertia">Psychological inertia</a></li>
+<li><a href="/wiki/Knowledge_inertia" title="Knowledge inertia">Knowledge inertia</a></li>
+<li><a href="/wiki/True-believer_syndrome" title="True-believer syndrome">True-believer syndrome</a></li>
+<li><a href="/wiki/Industrial_Psychology" class="mw-redirect" title="Industrial Psychology">Industrial Psychology</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cognitive_inertia&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Huff, James O.; Huff, Anne S.; Thomas, Howard (1992-06-01). "Strategic renewal and the interaction of cumulative stress and inertia". <i>Strategic Management Journal</i>. <b>13</b> (S1): 55–75. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fsmj.4250131006">10.1002/smj.4250131006</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1097-0266">1097-0266</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Strategic+Management+Journal&amp;rft.atitle=Strategic+renewal+and+the+interaction+of+cumulative+stress+and+inertia&amp;rft.volume=13&amp;rft.issue=S1&amp;rft.pages=55-75&amp;rft.date=1992-06-01&amp;rft_id=info%3Adoi%2F10.1002%2Fsmj.4250131006&amp;rft.issn=1097-0266&amp;rft.aulast=Huff&amp;rft.aufirst=James+O.&amp;rft.au=Huff%2C+Anne+S.&amp;rft.au=Thomas%2C+Howard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hodgkinson, Gerard P. (1997-11-01). "Cognitive Inertia in a Turbulent Market: the Case of UK Residential Estate Agents". <i>Journal of Management Studies</i>. <b>34</b> (6): 921–945. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2F1467-6486.00078">10.1111/1467-6486.00078</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1467-6486">1467-6486</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Management+Studies&amp;rft.atitle=Cognitive+Inertia+in+a+Turbulent+Market%3A+the+Case+of+UK+Residential+Estate+Agents&amp;rft.volume=34&amp;rft.issue=6&amp;rft.pages=921-945&amp;rft.date=1997-11-01&amp;rft_id=info%3Adoi%2F10.1111%2F1467-6486.00078&amp;rft.issn=1467-6486&amp;rft.aulast=Hodgkinson&amp;rft.aufirst=Gerard+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Reger, Rhonda K.; Palmer, Timothy B. (1996-02-01). "Managerial Categorization of Competitors: Using Old Maps to Navigate New Environments". <i>Organization Science</i>. <b>7</b> (1): 22–39. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1287%2Forsc.7.1.22">10.1287/orsc.7.1.22</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1047-7039">1047-7039</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Organization+Science&amp;rft.atitle=Managerial+Categorization+of+Competitors%3A+Using+Old+Maps+to+Navigate+New+Environments&amp;rft.volume=7&amp;rft.issue=1&amp;rft.pages=22-39&amp;rft.date=1996-02-01&amp;rft_id=info%3Adoi%2F10.1287%2Forsc.7.1.22&amp;rft.issn=1047-7039&amp;rft.aulast=Reger&amp;rft.aufirst=Rhonda+K.&amp;rft.au=Palmer%2C+Timothy+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldfarb, Avi; Ho, Teck-Hua; Amaldoss, Wilfred; Brown, Alexander L.; Chen, Yan; Cui, Tony Haitao; Galasso, Alberto; Hossain, Tanjim; Hsu, Ming (2012-06-01). "Behavioral models of managerial decision-making". <i>Marketing Letters</i>. <b>23</b> (2): 405–421. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs11002-012-9183-4">10.1007/s11002-012-9183-4</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0923-0645">0923-0645</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marketing+Letters&amp;rft.atitle=Behavioral+models+of+managerial+decision-making&amp;rft.volume=23&amp;rft.issue=2&amp;rft.pages=405-421&amp;rft.date=2012-06-01&amp;rft_id=info%3Adoi%2F10.1007%2Fs11002-012-9183-4&amp;rft.issn=0923-0645&amp;rft.aulast=Goldfarb&amp;rft.aufirst=Avi&amp;rft.au=Ho%2C+Teck-Hua&amp;rft.au=Amaldoss%2C+Wilfred&amp;rft.au=Brown%2C+Alexander+L.&amp;rft.au=Chen%2C+Yan&amp;rft.au=Cui%2C+Tony+Haitao&amp;rft.au=Galasso%2C+Alberto&amp;rft.au=Hossain%2C+Tanjim&amp;rft.au=Hsu%2C+Ming&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hollow, Matthew (2014-07-04). "Strategic inertia, financial fragility and organisational failure: The case of the Birkbeck Bank, 1870–1911". <i>Business History</i>. <b>56</b> (5): 746–764. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1080%2F00076791.2013.839660">10.1080/00076791.2013.839660</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0007-6791">0007-6791</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+History&amp;rft.atitle=Strategic+inertia%2C+financial+fragility+and+organisational+failure%3A+The+case+of+the+Birkbeck+Bank%2C+1870%E2%80%931911&amp;rft.volume=56&amp;rft.issue=5&amp;rft.pages=746-764&amp;rft.date=2014-07-04&amp;rft_id=info%3Adoi%2F10.1080%2F00076791.2013.839660&amp;rft.issn=0007-6791&amp;rft.aulast=Hollow&amp;rft.aufirst=Matthew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Henderson, David K. (1993). <i>Interpretation and Explanation in the Human Sciences</i>. New York: SUNY Press. p.&#160;83. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0791414057" title="Special:BookSources/978-0791414057">978-0791414057</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Interpretation+and+Explanation+in+the+Human+Sciences&amp;rft.place=New+York&amp;rft.pages=83&amp;rft.pub=SUNY+Press&amp;rft.date=1993&amp;rft.isbn=978-0791414057&amp;rft.aulast=Henderson&amp;rft.aufirst=David+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">MacAlister, Jamie (2016). <i>Risky Strategy: Understanding Risk to Improve Strategic Decisions</i>. London: Bloomsbury Publishing. pp.&#160;110–111. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781472926043" title="Special:BookSources/9781472926043">9781472926043</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Risky+Strategy%3A+Understanding+Risk+to+Improve+Strategic+Decisions&amp;rft.place=London&amp;rft.pages=110-111&amp;rft.pub=Bloomsbury+Publishing&amp;rft.date=2016&amp;rft.isbn=9781472926043&amp;rft.aulast=MacAlister&amp;rft.aufirst=Jamie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tripsas, Mary; Gavetti, Giovanni (2000-10-01). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/1097-0266(200010/11)21:10/113.0.CO;2-R/abstract">"Capabilities, cognition, and inertia: evidence from digital imaging"</a>. <i>Strategic Management Journal</i>. <b>21</b> (10–11): 1147–1161. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2F1097-0266%28200010%2F11%2921%3A10%2F11%3C1147%3A%3Aaid-smj128%3E3.0.co%3B2-r">10.1002/1097-0266(200010/11)21:10/11&#60;1147::aid-smj128&#62;3.0.co;2-r</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1097-0266">1097-0266</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Strategic+Management+Journal&amp;rft.atitle=Capabilities%2C+cognition%2C+and+inertia%3A+evidence+from+digital+imaging&amp;rft.volume=21&amp;rft.issue=10%E2%80%9311&amp;rft.pages=1147-1161&amp;rft.date=2000-10-01&amp;rft_id=info%3Adoi%2F10.1002%2F1097-0266%28200010%2F11%2921%3A10%2F11%3C1147%3A%3Aaid-smj128%3E3.0.co%3B2-r&amp;rft.issn=1097-0266&amp;rft.aulast=Tripsas&amp;rft.aufirst=Mary&amp;rft.au=Gavetti%2C+Giovanni&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F1097-0266%28200010%2F11%2921%3A10%2F113.0.CO%3B2-R%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.fastcompany.com/3000559/why-inertia-kills-companies">"Why Inertia Kills Companies"</a>. <i>Fast Company</i>. 2012-08-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fast+Company&amp;rft.atitle=Why+Inertia+Kills+Companies&amp;rft.date=2012-08-20&amp;rft_id=https%3A%2F%2Fwww.fastcompany.com%2F3000559%2Fwhy-inertia-kills-companies&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dicke, Tom (2015-04-01). <a rel="nofollow" class="external text" href="https://academic.oup.com/jhmas/article/70/2/195/776261">"Waiting for the Flu: Cognitive Inertia and the Spanish Influenza Pandemic of 1918–19"</a>. <i>Journal of the History of Medicine and Allied Sciences</i>. <b>70</b> (2): 195–217. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2Fjhmas%2Fjru019">10.1093/jhmas/jru019</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0022-5045">0022-5045</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24957069">24957069</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+History+of+Medicine+and+Allied+Sciences&amp;rft.atitle=Waiting+for+the+Flu%3A+Cognitive+Inertia+and+the+Spanish+Influenza+Pandemic+of+1918%E2%80%9319&amp;rft.volume=70&amp;rft.issue=2&amp;rft.pages=195-217&amp;rft.date=2015-04-01&amp;rft.issn=0022-5045&amp;rft_id=info%3Apmid%2F24957069&amp;rft_id=info%3Adoi%2F10.1093%2Fjhmas%2Fjru019&amp;rft.aulast=Dicke&amp;rft.aufirst=Tom&amp;rft_id=https%3A%2F%2Facademic.oup.com%2Fjhmas%2Farticle%2F70%2F2%2F195%2F776261&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Huebener, Paul; O'Brien, Susie; Porter, Tony; Stockdale, Liam; Zhou, Yanqiu Rachel (2017). <i>Time, Globalization and Human Experience: Interdisciplinary Explorations</i>. Oxon: Taylor &amp; Francis. p.&#160;153. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781138697331" title="Special:BookSources/9781138697331">9781138697331</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Time%2C+Globalization+and+Human+Experience%3A+Interdisciplinary+Explorations&amp;rft.place=Oxon&amp;rft.pages=153&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=2017&amp;rft.isbn=9781138697331&amp;rft.aulast=Huebener&amp;rft.aufirst=Paul&amp;rft.au=O%27Brien%2C+Susie&amp;rft.au=Porter%2C+Tony&amp;rft.au=Stockdale%2C+Liam&amp;rft.au=Zhou%2C+Yanqiu+Rachel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Catton, William R. (1969). "What's in a Name? A Study of Role Inertia". <i>Journal of Marriage and Family</i>. <b>31</b> (1): 15–18. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F350001">10.2307/350001</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/350001">350001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Marriage+and+Family&amp;rft.atitle=What%27s+in+a+Name%3F+A+Study+of+Role+Inertia&amp;rft.volume=31&amp;rft.issue=1&amp;rft.pages=15-18&amp;rft.date=1969&amp;rft_id=info%3Adoi%2F10.2307%2F350001&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F350001&amp;rft.aulast=Catton&amp;rft.aufirst=William+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Alós-Ferrer, Carlos; Hügelschäfer, Sabine; Li, Jiahui (2016). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4754398">"Inertia and Decision Making"</a>. <i>Frontiers in Psychology</i>. <b>7</b>: 169. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3389%2Ffpsyg.2016.00169">10.3389/fpsyg.2016.00169</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1664-1078">1664-1078</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4754398">4754398</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26909061">26909061</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Frontiers+in+Psychology&amp;rft.atitle=Inertia+and+Decision+Making&amp;rft.volume=7&amp;rft.pages=169&amp;rft.date=2016&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4754398&amp;rft.issn=1664-1078&amp;rft_id=info%3Apmid%2F26909061&amp;rft_id=info%3Adoi%2F10.3389%2Ffpsyg.2016.00169&amp;rft.aulast=Al%C3%B3s-Ferrer&amp;rft.aufirst=Carlos&amp;rft.au=H%C3%BCgelsch%C3%A4fer%2C+Sabine&amp;rft.au=Li%2C+Jiahui&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4754398&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+inertia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20190413090932
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.339 seconds
+Preprocessor visited node count: 699/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25831/2097152 bytes
+Template argument size: 81/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 41683/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.193/10.000 seconds
+Lua memory usage: 3.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  304.927      1 Template:Reflist
+100.00%  304.927      1 -total
+ 81.78%  249.362      9 Template:Cite_journal
+  6.37%   19.420      3 Template:Cite_book
+  2.43%    7.414      1 Template:Cite_news
+  0.91%    2.789      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24200321-0!canonical and timestamp 20190413090932 and revision id 891286509
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cognitive_inertia&amp;oldid=891286509">https://en.wikipedia.org/w/index.php?title=Cognitive_inertia&amp;oldid=891286509</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_psychology" title="Category:Cognitive psychology">Cognitive psychology</a></li><li><a href="/wiki/Category:Heuristics" title="Category:Heuristics">Heuristics</a></li><li><a href="/wiki/Category:Management" title="Category:Management">Management</a></li><li><a href="/wiki/Category:Behavioral_economics" title="Category:Behavioral economics">Behavioral economics</a></li><li><a href="/wiki/Category:Cognitive_inertia" title="Category:Cognitive inertia">Cognitive inertia</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cognitive+inertia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cognitive+inertia" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cognitive_inertia" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cognitive_inertia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cognitive_inertia">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cognitive_inertia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cognitive_inertia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cognitive_inertia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cognitive_inertia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cognitive_inertia&amp;oldid=891286509" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cognitive_inertia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5141212" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cognitive_inertia&amp;id=891286509" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cognitive+inertia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cognitive+inertia&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cognitive_inertia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D9%88%D8%B1_%D8%B0%D8%A7%D8%AA%D9%8A_%D8%A5%D8%AF%D8%B1%D8%A7%D9%83%D9%8A" title="قصور ذاتي إدراكي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Inercia_cognitiva" title="Inercia cognitiva – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Inertie_cognitive" title="Inertie cognitive – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%83%AF%E6%80%A7%E6%80%9D%E7%BB%B4" title="惯性思维 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5141212#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 April 2019, at 23:23<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cognitive_inertia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.339","ppvisitednodes":{"value":699,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25831,"limit":2097152},"templateargumentsize":{"value":81,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41683,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  304.927      1 Template:Reflist","100.00%  304.927      1 -total"," 81.78%  249.362      9 Template:Cite_journal","  6.37%   19.420      3 Template:Cite_book","  2.43%    7.414      1 Template:Cite_news","  0.91%    2.789      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.193","limit":"10.000"},"limitreport-memusage":{"value":4046399,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20190413090932","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cognitive inertia","url":"https:\/\/en.wikipedia.org\/wiki\/Cognitive_inertia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5141212","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5141212","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-09-02T16:43:49Z","dateModified":"2019-04-06T23:23:04Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":458,"wgHostname":"mw1244"});});</script>
+</body>
+</html>

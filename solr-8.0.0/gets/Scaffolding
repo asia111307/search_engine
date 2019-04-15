@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Scaffolding - EduTech Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Scaffolding","wgTitle":"Scaffolding","wgCurRevisionId":40728,"wgRevisionId":40728,"wgArticleId":3366,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Stubs","Pedagogic strategies","Cognitive tools","Affect and motivation","Learning theories"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Scaffolding","wgRelevantArticleId":3366,"wgRequestId":"9ab488f3a33b70b20f4f82ea","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"srfFilteredConfig":null,"sdgDownArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/right-arrow.png","wgHeaderTabsTabIndexes":[],"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/mediawiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","openlayers","googlemaps3"],"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.vector.styles.responsive":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1wt4m49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.wikilog","ext.headertabs","ext.headertabs.large","ext.categoryTree","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.responsive&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rdf+xml" title="Scaffolding" href="/mediawiki/index.php?title=Special:ExportRDF/Scaffolding&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="EduTech Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//edutechwiki.unige.ch/mediawiki/api.php?action=rsd"/>
+<link rel="license" href="/en/EduTech_Wiki:Copyrights"/>
+<!--[if lt IE 9]><script src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Scaffolding rootpage-Scaffolding skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Scaffolding</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From EduTech Wiki</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="Banner_stub noprint">
+<p> <span style="font-weight:bold;">This article <i>or</i> section is a stub</span>. It does not yet contain enough information to be considered a real article. In other words, it is a short or insufficient piece of information and requires additions.</p></div>
+<div class="onlyinprint"><p><i>Draft</i></p></div>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Scaffolding_in_socio-constructivist_learning"><span class="tocnumber">2</span> <span class="toctext">Scaffolding in socio-constructivist learning</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Procedural_facilitation_vs._substantive_facilitation"><span class="tocnumber">2.1</span> <span class="toctext">Procedural facilitation vs. substantive facilitation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Scaffolding_in_ILEs"><span class="tocnumber">3</span> <span class="toctext">Scaffolding in  ILEs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Considerations"><span class="tocnumber">3.1</span> <span class="toctext">Considerations</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Related_articles"><span class="tocnumber">3.2</span> <span class="toctext">Related articles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Links"><span class="tocnumber">4</span> <span class="toctext">Links</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition"><span class="mw-headline-number">1</span> Definition</span></h2>
+<p>From Vygotsky (1926, 1997 p. 50)
+<span style="background-color:#eeeeee" class="citation">&#8220; (The educator) calls upon the services of powerful forces in the environment, directs them, and places them in the service of education.&#8221;</span>
+</p><p>and
+</p><p><span style="background-color:#eeeeee" class="citation">&#8220; Education is realized through the student’s own experience, which is wholly determined by the environment, and the role of the teacher (tutor) then reduces to directing and guiding the environment.&#8221;</span>
+</p><p>Scaffolds can be any of or combination of cognitive and metacognitive tools or strategies used in instruction either by human or computer-based tutors to help learners gain an understanding that would not be possible by the learner alone.
+See <a href="/en/Intelligent_learning_environment" title="Intelligent learning environment"> ILE</a>, <a href="/en/Intelligent_tutoring_system" title="Intelligent tutoring system">Intelligent tutoring system</a>, <a href="/en/E-tutoring" title="E-tutoring">E-tutoring</a>, <a href="/en/Mentoring" title="Mentoring">Mentoring</a>
+</p>
+<h2><span class="mw-headline" id="Scaffolding_in_socio-constructivist_learning"><span class="mw-headline-number">2</span> Scaffolding in socio-constructivist learning</span></h2>
+<p>Scaffolding aiming to increase Vygotsky’s <i>Zone of Proximal Development</i>—the difference between what a learner can do independently and what the same learner can do when tutored (Vygotsky, 1978). 
+</p><p>Wood, Bruner and Ross (1976) cited by Langer &amp; Applebee, 1986:177) list characteristics of effective <a href="/mediawiki/index.php?title=Tutor&amp;action=edit&amp;redlink=1" class="new" title="Tutor (page does not exist)">tutoring</a> that are aimed at engaging and keeping the learner to task as: 
+</p>
+<ul><li>recruitment</li>
+<li>reduction in degrees of freedom</li>
+<li>direction maintenance</li>
+<li>marking critical features</li>
+<li>frustration control</li>
+<li>demonstration.</li></ul>
+<p>According to Langer &amp; Applebee, 1986:178-179), Wood et al. (1976) define four phases to describe the internalization process of a scaffolded instruction involving children/adult language learning activities:
+</p>
+<ol><li>learner and tutor have different representations of the task</li>
+<li>learner mimics the structures presented by the tutor without full comprehension</li>
+<li>learner needs less direction, tutor is available to offer solicited guidance,</li>
+<li>the structures necessary to complete a task have been internalized, <a href="/en/Self-regulation" class="mw-redirect" title="Self-regulation">self-regulation</a> takes the place of the tutor.</li></ol>
+<dl><dt>Contingent teaching</dt></dl>
+<p>Coined by Wood &amp; Wood (1996), refers to helping when needed, and the eventual fading out of support. Also, the <a href="/en/Knowledge-building_community_model" title="Knowledge-building community model">knowledge-building community model</a> approach advocates opportunistic (i.e. on demand as needs emerge) planning on the teacher side.
+</p>
+<h3><span class="mw-headline" id="Procedural_facilitation_vs._substantive_facilitation"><span class="mw-headline-number">2.1</span> Procedural facilitation vs. substantive facilitation</span></h3>
+<p>Bereiter and Scardamalia (1987a, p. 254) define two types of scaffolding. 
+</p>
+<dl><dt>Procedural facilitation</dt></dl>
+<p>Introduction of self-regulatory mechanisms to scaffold a task
+</p><p>From Bereiter and Scardamalia, Langer &amp; Applebee (1986, p. 184) derive a checklist of options to scaffold cognitive strategies:
+</p>
+<ul><li>offer examples for imitation</li>
+<li>set up structures to help self-monitoring</li>
+<li>limit choices</li>
+<li>make cognitive process visible</li>
+<li>provide labels to categorize and organize tacit knowledge</li>
+<li>procedures should be tailorable to the learner’s level and needs.</li></ul>
+<dl><dt>Substantive facilitation</dt></dl>
+<p>Reduces the burden of the executive structure (Bereiter &amp; Scardamalia, 1987a, p. 256) by providing explicit guidance on the conventions and standards in a given domain
+</p>
+<h2><span class="mw-headline" id="Scaffolding_in_ILEs"><span class="mw-headline-number">3</span> Scaffolding in <a href="/en/Intelligent_learning_environment" title="Intelligent learning environment"> ILEs</a></span></h2>
+<p>Scaffolding should adapt to  learners' cognitive, metacognitive and motivational factors using <a href="/en/Student_model" title="Student model">student models</a> and <a href="/en/Open_learner_model" title="Open learner model">open learner models</a>.
+</p>
+<h3><span class="mw-headline" id="Considerations"><span class="mw-headline-number">3.1</span> Considerations</span></h3>
+<p>Outlining some considerations in understanding the role of scaffolding as presented in current research Azevedo &amp; Hadwin (2005) list some issues related to building effective scaffolding:
+</p>
+<ol><li>Types of instructional targets of scaffolding in a computer-based learning environment
+<ul><li>learning domain knowledge (declarative, procedural),</li>
+<li>learning about one’s own learning (metacognition, self-regulation),</li>
+<li>learning about using the computer-based learning environment</li>
+<li>learning how to adapt to a particular instructional context (help-seeking behavior).</li></ul></li>
+<li>source of scaffolded support</li>
+<li>effect of types of scaffolds</li>
+<li>diagnosing scaffolding needs</li></ol>
+<h3><span class="mw-headline" id="Related_articles"><span class="mw-headline-number">3.2</span> Related articles</span></h3>
+<p><a href="/en/Scaffolded_knowledge_integration" title="Scaffolded knowledge integration">Scaffolded knowledge integration</a>, <a href="/en/Socio-constructivism" title="Socio-constructivism">socio-constructivism</a>, <a href="/en/Cognitive_tool" title="Cognitive tool">cognitive tool</a>, <a href="/en/Metacognition" title="Metacognition">metacognition</a> 
+</p>
+<h2><span class="mw-headline" id="Links"><span class="mw-headline-number">4</span> Links</span></h2>
+<ul><li><a class="external text" href="http://reganmian.net/wiki/ref:puntambekar2002scaffolding">Scaffolding in complex learning environments: What we have gained and what we have missed</a>, Stian's PHD wiki, retrieved oct. Summarizes Puntambekar, S., &amp; Hubscher, R. (2005).</li></ul>
+<h2><span class="mw-headline" id="References"><span class="mw-headline-number">5</span> References</span></h2>
+<ul><li>AZEVEDO, R., HADWIN, A.F. (2005) Scaffolding self-regulated learning and metacognition – Implications for the design of computer-based scaffolds. Instructional Science33: 367–379</li></ul>
+<ul><li>Bell, P., &amp; Davis, E. A. (2000). Designing Mildred: Scaffolding students’ reflection and argumentation using a cognitive software guide. In S. O’Connor-Divelbiss (Ed.), Proceedings of the 4th International Conference of the Learning Sciences (pp. 142–149). Mahwah, NJ: Lawrence Erlbaum Associates, Inc.</li></ul>
+<ul><li>Bereiter C., Scardamalia, M. (1987a) The Psychology of Written Composition. Hillsdale, NJ: L. Erlbaum.</li></ul>
+<ul><li>Fretz, E. B., Wu, H.-K., Zhang, B., Krajcik, J. S., &amp; Soloway, E. (2002). An investigation of software scaffolds supporting modeling practices. Research in Science Education, 32, 567–589.</li></ul>
+<ul><li>Langer, J., Applebee, A. (1986) Reading and Writing Instruction: Toward a Theory of Teaching and Learning. Review of Research in Education. Vol. 13. pp. 171-194.</li></ul>
+<ul><li>Vygotsky, L. S. (1924, reprinted 1997) Educational Psychology. CRC Press LLC, Florida, USA.</li></ul>
+<ul><li>Vygotsky, L. S. (1978) Mind in society: The development of higher mental processes (M. Cole, V.John-Steiner, S. Scribner, &amp; E. Souberman, Eds.). Cambridge, MA: Harvard University Press.</li></ul>
+<ul><li>Wood, D., Bruner, J.S.,  Ross, G. (1976) The role of tutoring and problem solving. Journal of Child Psychology and Psychiatry. Vol. 17, pp. 89-100</li></ul>
+<ul><li>Langer, J. and Applebee, A. (1986). Reading and writing instruction: Toward a theory of teaching and learning, in E. Rothkopf, Review of Research in Education, Vol. 13, Washington, DC: AERA, 171_194.</li></ul>
+<ul><li>Linn, M. C. (1995). Designing computer learning environments for engineering and computer science: The Scaffolded Knowledge Integration framework. Journal of Science Education and Technology, 4, 103–126.</li></ul>
+<ul><li>Puntambekar, S., &amp; Kolodner, J. L. (2005). Distributed scaffolding: Helping students learn science by design. <i>Journal of Research in Science Teaching</i>, 42.</li></ul>
+<ul><li>Puntambekar, S., &amp; Hubscher, R. (2005). Scaffolding in complex learning environments: What we have gained and what we have missed. <i>Educational Psychologist</i> 40(1), 1-12. <a class="external text" href="http://hubscher.org/roland/articles/EP_puntambekar_hubscher_2005.pdf">PDF reprint</a></li></ul>
+<ul><li>Quintana, C., Reiser, B. J., Davis, E. A., Krajcik, J., Golan, R., Kyza, E. A., et al. (2002). Evolving a scaffolding design framework for designing educational software. In P. Bell, R. Stevens, &amp; T. Satwicz (Eds.), Keeping learning complex: The Proceedings of the Fifth International Conference of the Learning Sciences (pp. 359–366). Mahwah, NJ: Lawrence Erlbaum Associates, Inc.</li></ul>
+<ul><li>Reid, D. K. (1998). Scaffolding: A broader view. Journal of Learning Disabilities, 31, 386–396.</li></ul>
+<ul><li>Reiser, B. J. (2002). Why scaffolding should sometimes make tasks more difficult for learners. In T. D. Koschmann, R. Hall, &amp; N. Miyake (Eds.), Carrying forward the conversation: Proceedings of the International Conference on Computer Support for Collaborative Learning (pp. 255–264). Mahwah, NJ: Lawrence Erlbaum Associates, Inc.</li></ul>
+<ul><li>Reiser, B. J., Tabak, I., Sandoval, W. A., Smith, B., Steinmuller, F., &amp; Leone, A. J. (2001). BGuILE: Strategic and conceptual scaffolds for scientific inquiry in biology classrooms. In S. M. Carver &amp; D. Klahr (Eds.), Cognition and Instruction: Twenty five years of progress (pp. 263–305). Mahwah, NJ: Lawrence Erlbaum Associates, Inc.</li></ul>
+<ul><li>Roehler, L. R., &amp; Cantlon, D. J. (1997). Scaffolding: A powerful tool in social constructivist classrooms. In K. Hogan &amp; M. Pressley (Eds.), Scaffolding student learning: Instructional approaches and issues (pp. 6–42). Cambridge, MA: Brookline.</li></ul>
+<ul><li>Scardamalia, M., &amp; Bereiter, C. (1994). Computer support for knowledge building communities. The Journal of the Learning Sciences, 3, 265–283.</li></ul>
+<ul><li>Stone, C. A. (1998b). Should we salvage the scaffolding metaphor? Journal of Learning Disabilities, 31, 409–413.</li></ul>
+<ul><li>Wood, D., Wood, H. (1996) Vygotsky, Tutoring and Learning. Vygotsky and Education. Oxford Review of Education, Vol. 22, No. 1, pp. 5-16</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20190401190218
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.021 seconds
+Real time usage: 0.023 seconds
+Preprocessor visited node count: 51/1000000
+Preprocessor generated node count: 110/1000000
+Post‐expand include size: 850/2097152 bytes
+Template argument size: 337/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+ExtRegexFun count: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.012      1 -total
+ 50.00%    1.506      1 Template:Stub
+ 42.72%    1.287      2 Template:Quotation
+-->
+</div>
+<!-- Saved in parser cache with key edutechwiki_en:pcache:idhash:3366-0!canonical and timestamp 20190401190218 and revision id 40728
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://edutechwiki.unige.ch/mediawiki/index.php?title=Scaffolding&amp;oldid=40728">http://edutechwiki.unige.ch/mediawiki/index.php?title=Scaffolding&amp;oldid=40728</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/en/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/en/Category:Stubs" title="Category:Stubs">Stubs</a></li><li><a href="/en/Category:Pedagogic_strategies" title="Category:Pedagogic strategies">Pedagogic strategies</a></li><li><a href="/en/Category:Cognitive_tools" title="Category:Cognitive tools">Cognitive tools</a></li><li><a href="/en/Category:Affect_and_motivation" title="Category:Affect and motivation">Affect and motivation</a></li><li><a href="/en/Category:Learning_theories" title="Category:Learning theories">Learning theories</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Scaffolding" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/en/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/en/Scaffolding" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/mediawiki/index.php?title=Talk:Scaffolding&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/en/Scaffolding">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/mediawiki/index.php?title=Scaffolding&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=Scaffolding&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Slow Search</label>
+						</h3>
+						<form action="/mediawiki/index.php" id="searchform">
+							<div>
+								<input type="search" name="search" placeholder="Search EduTech Wiki" title="Search EduTech Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/en/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-TEST" aria-labelledby="p-TEST-label">
+			<h3 id="p-TEST-label">TEST</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Navigation_and_help" aria-labelledby="p-Navigation_and_help-label">
+			<h3 id="p-Navigation_and_help-label">Navigation and help</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Mainpage"><a href="/en/Main_Page">Main Page</a></li><li id="n-recentchanges"><a href="/en/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-about"><a href="/en/EduTech_Wiki:About">About</a></li><li id="n-randompage"><a href="/en/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li><li id="n-Editing-rules"><a href="/en/Help:Editing_rules">Editing rules</a></li><li id="n-Blog:DKS"><a href="/en/Blog:DKS">Blog:DKS</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-categorytree-portlet" aria-labelledby="p-categorytree-portlet-label">
+			<h3 id="p-categorytree-portlet-label">Categories</h3>
+			<div class="body">
+				<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Citizen_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Citizen_science">Citizen science</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Design_and_research_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Design_and_research_methods">Design and research methods</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Education_and_instruction" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Education_and_instruction">Education and instruction</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technologies">Educational technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technology_-_the_field" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technology_-_the_field">Educational technology - the field</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Position_paper">Position paper</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Psychology_and_learning" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Psychology_and_learning">Psychology and learning</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Socio-political_and_organization" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Socio-political_and_organization">Socio-political and organization</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Special_contents" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Special_contents">Special contents</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Technologies">Technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Tutorials" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Tutorials">Tutorials</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		</div>
+					</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Scaffolding">Create a book</a></li><li id="coll-download-as-rl"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Scaffolding&amp;returnto=Scaffolding&amp;oldid=40728&amp;writer=rl">Download as PDF</a></li><li id="t-print"><a href="/mediawiki/index.php?title=Scaffolding&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/en/Special:WhatLinksHere/Scaffolding" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/en/Special:RecentChangesLinked/Scaffolding" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/en/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/mediawiki/index.php?title=Scaffolding&amp;oldid=40728" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/mediawiki/index.php?title=Scaffolding&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/mediawiki/index.php?title=Special:CiteThisPage&amp;page=Scaffolding&amp;id=40728" title="Information on how to cite this page">Cite this page</a></li><li id="t-smwbrowselink"><a href="/en/Special:Browse/:Scaffolding" rel="search">Browse properties</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Big_brother" aria-labelledby="p-Big_brother-label">
+			<h3 id="p-Big_brother-label">Big brother</h3>
+			<div class="body">
+								<ul>
+					<li id="n-New-Pages"><a href="/en/Special:NewPages">New Pages</a></li><li id="n-contributionscores"><a href="/en/Special:ContributionScores">Contribution scores</a></li><li id="n-Popular-Pages"><a href="/en/Special:Popularpages">Popular Pages</a></li><li id="n-Who-is-online-.3F"><a href="/en/Special:WhosOnline">Who is online ?</a></li><li id="n-Version"><a href="/en/Special:Version">Version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-TECFA_Links" aria-labelledby="p-TECFA_Links-label">
+			<h3 id="p-TECFA_Links-label">TECFA Links</h3>
+			<div class="body">
+				<div class="sidebar_banner"><a href="http://tecfa.unige.ch/"><img title="TECFA - Educational Technology Unit - UniGE" alt="TECFA - Educational Technology Unit - Home page" src="/mediawiki/tecfa/TECFAlogoArtNoText.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/maltt"><img title="Master of Science in Learning and Teaching Technologies" alt="Master of Science in Learning and Teaching Technologies" src="/mediawiki/tecfa/LOGO_MALTT.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/formcont/"><img title="Certificate of Advanced Studies (CAS): Conception et développement de projets e-learning, Journées thématiques, TECFA, FPSE, Université de Genève" alt="Cours de formation continue offerts par TECFA, Université de Genève: CAS - Conception et développement de projets e-learning, Application des normes du e-learning, Réalisation de vidéos pédagogiques, Introduction HTML5 et CSS, Coordination des formations en ligne, Traitement de ressources multimédia, Activités pédagogiques avec Captivate" src="/mediawiki/tecfa/fclogored.png" /></a></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Page last modified 15:37, 15 October 2012.</li>
+								<li id="footer-info-copyright">By default, content is protected by a <a href="/en/EduTech_Wiki:Copyrights" title="EduTech Wiki:Copyrights">CC BY-NC-SA Licence</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/en/EduTech_Wiki:Privacy_policy" title="EduTech Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/en/EduTech_Wiki:About" title="EduTech Wiki:About">About EduTech Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/en/EduTech_Wiki:General_disclaimer" title="EduTech Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/mediawiki/tecfa/somerights.png" alt="CC BY-NC-SA Licence" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/mediawiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /mediawiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+										<li id="footer-monitoredbyico">
+						<a href="http://wikiapiary.com/wiki/EduTech_Wiki_(en)"><img src="/mediawiki/tecfa/Monitored_by_WikiApiary.png" alt="Monitored by WikiApiary" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.021","walltime":"0.023","ppvisitednodes":{"value":51,"limit":1000000},"ppgeneratednodes":{"value":110,"limit":1000000},"postexpandincludesize":{"value":850,"limit":2097152},"templateargumentsize":{"value":337,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    3.012      1 -total"," 50.00%    1.506      1 Template:Stub"," 42.72%    1.287      2 Template:Quotation"]},"cachereport":{"timestamp":"20190401190218","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7586057-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93});});</script>
+	</body>
+<!-- Cached/compressed 20190401190218 -->
+</html>

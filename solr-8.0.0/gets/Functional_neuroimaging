@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Functional neuroimaging - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Functional_neuroimaging","wgTitle":"Functional neuroimaging","wgCurRevisionId":806027425,"wgRevisionId":806027425,"wgArticleId":484650,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Neuroimaging","Cognitive neuroscience"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Functional_neuroimaging","wgRelevantArticleId":484650,"wgRequestId":"XLIViApAIC0AAHehlCoAAAAY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1004354","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/87/Functional_magnetic_resonance_imaging.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Functional_neuroimaging"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Functional_neuroimaging&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Functional_neuroimaging&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Functional_neuroimaging"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Functional_neuroimaging rootpage-Functional_neuroimaging skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Functional neuroimaging</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Functional_magnetic_resonance_imaging.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Functional_magnetic_resonance_imaging.jpg/240px-Functional_magnetic_resonance_imaging.jpg" decoding="async" width="240" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/8/87/Functional_magnetic_resonance_imaging.jpg 1.5x" data-file-width="250" data-file-height="208" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Functional_magnetic_resonance_imaging.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Functional_magnetic_resonance_imaging" title="Functional magnetic resonance imaging">Functional magnetic resonance imaging</a> data</div></div></div>
+<p><b>Functional neuroimaging</b> is the use of <a href="/wiki/Neuroimaging" title="Neuroimaging">neuroimaging</a> technology to measure an aspect of brain function, often with a view to understanding the relationship between activity in certain <a href="/wiki/Brain" title="Brain">brain</a> areas and specific mental functions. It is primarily used as a research tool in <a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">cognitive neuroscience</a>, <a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive psychology</a>, <a href="/wiki/Neuropsychology" title="Neuropsychology">neuropsychology</a>, and <a href="/wiki/Social_neuroscience" title="Social neuroscience">social neuroscience</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Functional_neuroimaging_topics"><span class="tocnumber">2</span> <span class="toctext">Functional neuroimaging topics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Critique_and_careful_interpretation"><span class="tocnumber">3</span> <span class="toctext">Critique and careful interpretation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Common methods of functional neuroimaging include
+</p>
+<ul><li><a href="/wiki/Positron_emission_tomography" title="Positron emission tomography">Positron emission tomography</a> (PET)</li>
+<li><a href="/wiki/Functional_magnetic_resonance_imaging" title="Functional magnetic resonance imaging">Functional magnetic resonance imaging</a> (fMRI)</li>
+<li><a href="/wiki/Electroencephalography" title="Electroencephalography">Electroencephalography</a> (EEG)</li>
+<li><a href="/wiki/Magnetoencephalography" title="Magnetoencephalography">Magnetoencephalography</a> (MEG)</li>
+<li><a href="/wiki/Functional_near-infrared_spectroscopy" title="Functional near-infrared spectroscopy">Functional near-infrared spectroscopy</a> (fNIRS)</li>
+<li><a href="/wiki/Single-photon_emission_computed_tomography" title="Single-photon emission computed tomography">Single-photon emission computed tomography</a> (SPECT)</li></ul>
+<p>PET, fMRI and fNIRS can measure localized changes in cerebral blood flow related to neural activity. These changes are referred to as <i>activations</i>. Regions of the brain which are activated when a subject performs a particular task may play a role in the <a href="/wiki/Computational_neuroscience" title="Computational neuroscience">neural computations</a> which contribute to the behaviour. For instance, widespread activation of the <a href="/wiki/Occipital_lobe" title="Occipital lobe">occipital lobe</a> is typically seen in tasks which involve <a href="/wiki/Visual" class="mw-redirect" title="Visual">visual</a> stimulation (compared with tasks that do not). This part of the brain receives signals from the <a href="/wiki/Retina" title="Retina">retina</a> and is believed to play a role in <a href="/wiki/Visual_perception" title="Visual perception">visual perception</a>.
+</p><p>Other methods of neuroimaging involve recording of electrical currents or magnetic fields, for example EEG and MEG. Different methods have different advantages for research; for instance, MEG measures brain activity with high temporal resolution (down to the millisecond level), but is limited in its ability to localize that activity. fMRI does a much better job of localizing brain activity for spatial resolution, but with a much lower time resolution.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Functional_neuroimaging_topics">Functional neuroimaging topics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=edit&amp;section=2" title="Edit section: Functional neuroimaging topics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The measure used in a particular study is generally related to the particular question being addressed.  Measurement limitations vary amongst the techniques.  For instance, MEG and EEG record the magnetic or electrical fluctuations that occur when a population of neurons is active.  These methods are excellent for measuring the time-course of neural events (on the order of milliseconds,) but generally bad at measuring where those events happen.  PET and fMRI measure changes in the composition of blood near a neural event.  Because measurable blood changes are slow (on the order of seconds), these methods are much worse at measuring the time-course of neural events, but are generally better at measuring the location.
+</p><p>Traditional "activation studies" focus on determining distributed patterns of brain activity associated with specific tasks.  However, scientists are able to more thoroughly understand brain function by studying the interaction of distinct brain regions, as a great deal of neural processing is performed by an integrated network of several regions of the brain.  An active area of neuroimaging research involves examining the functional connectivity of spatially remote brain regions.  Functional connectivity analyses allow the characterization of interregional neural interactions during particular cognitive or motor tasks or merely from spontaneous activity during rest.  FMRI and PET enable creation of functional connectivity maps of distinct spatial distributions of temporally correlated brain regions called functional networks. Several studies using neuroimaging techniques have also established that posterior visual areas in blind individuals may be active during the performance of nonvisual tasks such as Braille reading, memory retrieval, and auditory localization as well as other auditory functions.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>A direct method to measure functional connectivity is to observe how stimulation of one part of the brain will affect other areas. This can be done noninvasively in humans by combining <a href="/wiki/Transcranial_magnetic_stimulation" title="Transcranial magnetic stimulation">transcranial magnetic stimulation</a> with one of the neuroimaging tools such as PET, fMRI, or EEG. Massimini et al. (<i>Science</i>, September 30, 2005) used EEG to record how activity spreads from the stimulated site. They reported that in <a href="/wiki/Non-REM_sleep" class="mw-redirect" title="Non-REM sleep">non-REM sleep</a>, although the brain responds vigorously to stimulation, functional connectivity is much attenuated from its level during wakefulness. Thus, during deep sleep, "brain areas do not talk to each other".
+</p><p>Functional neuroimaging draws on data from many areas other than <a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">cognitive neuroscience</a> and <a href="/wiki/Social_neuroscience" title="Social neuroscience">social neuroscience</a>, including biological sciences (such as <a href="/wiki/Neuroanatomy" title="Neuroanatomy">neuroanatomy</a> and <a href="/wiki/Neurophysiology" title="Neurophysiology">neurophysiology</a>), <a href="/wiki/Physics" title="Physics">physics</a> and <a href="/wiki/Maths" class="mw-redirect" title="Maths">maths</a>, to further develop and refine the technology.
+</p>
+<h2><span class="mw-headline" id="Critique_and_careful_interpretation">Critique and careful interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=edit&amp;section=3" title="Edit section: Critique and careful interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Functional neuroimaging studies have to be carefully designed and interpreted with care.
+Statistical analysis (often using a technique called <a href="/wiki/Statistical_parametric_mapping" title="Statistical parametric mapping">statistical parametric mapping</a>) is often needed so that the different sources of activation within the brain can be distinguished from one another.
+This can be particularly challenging when considering processes which are difficult to conceptualise or have no easily definable task associated with them (for example <a href="/wiki/Belief" title="Belief">belief</a> and <a href="/wiki/Consciousness" title="Consciousness">consciousness</a>).
+</p><p>Functional neuroimaging of interesting phenomena often gets cited in the press.
+In one case a group of prominent functional neuroimaging researchers felt compelled to write a letter to <a href="/wiki/New_York_Times" class="mw-redirect" title="New York Times">New York Times</a> in response to an <a href="/wiki/Op-ed" title="Op-ed">op-ed</a> article about a study of so-called <a href="/wiki/Neuropolitics" title="Neuropolitics">neuropolitics</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>They argued that some of the interpretations of the study were "scientifically unfounded".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p><a href="/wiki/Hastings_Center" class="mw-redirect" title="Hastings Center"> The Hastings Center</a> issued a report in March 2014 entitled "Interpreting Neuroimages: An Introduction to the Technology and Its Limits",<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> with articles by leading neuroscientists and <a href="/wiki/Bioethics" title="Bioethics">bioethicists</a>. The report briefly explains neuroimaging technologies and mostly critiques, but also somewhat defends, their current state, import and prospects.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Analysis_of_Functional_NeuroImages" title="Analysis of Functional NeuroImages">Analysis of Functional NeuroImages</a></li>
+<li><a href="/wiki/Automated_Anatomical_Labeling" title="Automated Anatomical Labeling">Automated Anatomical Labeling</a></li>
+<li><a href="/wiki/Dynamic_causal_modelling" title="Dynamic causal modelling">Dynamic causal modelling</a></li>
+<li><a href="/wiki/Electroencephalography" title="Electroencephalography">Electroencephalography</a></li>
+<li><a href="/wiki/Event_related_potential" class="mw-redirect" title="Event related potential">Event related potential</a></li>
+<li><a href="/wiki/FMRIB_Software_Library" title="FMRIB Software Library">FMRIB Software Library</a></li>
+<li><a href="/wiki/FreeSurfer" title="FreeSurfer">FreeSurfer</a></li>
+<li><a href="/wiki/Functional_integration_(neurobiology)" title="Functional integration (neurobiology)">Functional integration (neurobiology)</a></li>
+<li><a href="/wiki/Magnetoencephalography" title="Magnetoencephalography">Magnetoencephalography</a></li>
+<li><a href="/wiki/Mental_event" title="Mental event">Mental event</a></li>
+<li><a href="/wiki/Near-infrared_spectroscopy" title="Near-infrared spectroscopy">Near-infrared spectroscopy</a></li>
+<li><a href="/wiki/Perfusion_scanning" title="Perfusion scanning">Perfusion scanning</a></li>
+<li><a href="/wiki/Single_photon_emission_computed_tomography" class="mw-redirect" title="Single photon emission computed tomography">Single photon emission computed tomography</a></li>
+<li><a href="/wiki/Statistical_parametric_mapping" title="Statistical parametric mapping">Statistical parametric mapping</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Poldrack, R. A.; Sandak, R. (2004). "Introduction to This Special Issue: The Cognitive Neuroscience of Reading". <i>Scientific Studies of Reading</i>. <b>8</b> (3): 199. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1207%2Fs1532799xssr0803_1">10.1207/s1532799xssr0803_1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Scientific+Studies+of+Reading&amp;rft.atitle=Introduction+to+This+Special+Issue%3A+The+Cognitive+Neuroscience+of+Reading&amp;rft.volume=8&amp;rft.issue=3&amp;rft.pages=199&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1207%2Fs1532799xssr0803_1&amp;rft.aulast=Poldrack&amp;rft.aufirst=R.+A.&amp;rft.au=Sandak%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFunctional+neuroimaging" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gougoux, F. D. R.; Zatorre, R. J.; Lassonde, M.; Voss, P.; Lepore, F. (2005). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC544927">"A Functional Neuroimaging Study of Sound Localization: Visual Cortex Activity Predicts Performance in Early-Blind Individuals"</a>. <i>PLoS Biology</i>. <b>3</b> (2): e27. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1371%2Fjournal.pbio.0030027">10.1371/journal.pbio.0030027</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC544927">544927</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15678166">15678166</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLoS+Biology&amp;rft.atitle=A+Functional+Neuroimaging+Study+of+Sound+Localization%3A+Visual+Cortex+Activity+Predicts+Performance+in+Early-Blind+Individuals&amp;rft.volume=3&amp;rft.issue=2&amp;rft.pages=e27&amp;rft.date=2005&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC544927&amp;rft_id=info%3Apmid%2F15678166&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pbio.0030027&amp;rft.aulast=Gougoux&amp;rft.aufirst=F.+D.+R.&amp;rft.au=Zatorre%2C+R.+J.&amp;rft.au=Lassonde%2C+M.&amp;rft.au=Voss%2C+P.&amp;rft.au=Lepore%2C+F.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC544927&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFunctional+neuroimaging" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access" title="open access publication – free to read"><img alt="open access" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" decoding="async" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Marco Iacoboni et al. (2007). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/11/11/opinion/11freedman.html">"This Is Your Brain on Politics"</a>. In: <i>The New York Times</i> 11 November 2007.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Chris_Frith" title="Chris Frith">Chris Frith</a> et al. (2007). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/11/14/opinion/lweb14brain.html">"Politics and the Brain"</a>. In: The New York Times, 14 November 2007.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Johnston, J., &amp; Parens, E. (2014).<a rel="nofollow" class="external text" href="http://www.thehastingscenter.org/publications-resources/special-reports-2/interpreting-neuroimages-an-introduction-to-the-technology-and-its-limits/">"Interpreting Neuroimages: An Introduction to the Technology and Its Limits", The Hastings Center Report, Volume 44, Issue s2, March-April 2014</a>.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Cabeza, R., &amp; Kingstone, K. (eds.) (2006). <i>Handbook of Functional Neuroimaging of Cognition</i>. MIT Press.</li>
+<li>Cacioppo, J.T., Tassinary, L.G., &amp; Berntson, G. G. (2007). Handbook of Psychophysiology. Cambridge University Press.</li>
+<li>Hillary, F.G., &amp; DeLuca, J. (2007). <i>Functional Neuroimaging in Clinical Populations</i>.</li>
+<li>Kanwisher, N., &amp; Duncan, J. (2004). <i>Functional Neuroimaging of Visual Cognition</i>.</li>
+<li>Silbersweig, D., &amp; Stern, E. (2001). <i>Functional Neuroimaging and Neuropsychology Fundamentals and Practice</i>.</li>
+<li>Thatcher, R, W. (1994). <i>Functional Neuroimaging: Technical Foundations.</i></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160118132843/http://www.med.harvard.edu/aanlib/home.html">The Whole Brain Atlas @ Harvard</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.asnweb.org/">The American Society of Neuroimaging (ASN)</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.brainmapping.org/NITP">UCLA Neuroimaging Training Program</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.brainmapping.org/">BrainMapping.org, <i>a free BrainMapping community information portal</i></a></li></ul>
+<p>..
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1304
+Cached time: 20190319223207
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.245 seconds
+Preprocessor visited node count: 274/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5080/2097152 bytes
+Template argument size: 87/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8995/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  189.246      1 Template:Reflist
+100.00%  189.246      1 -total
+ 86.50%  163.699      2 Template:Cite_journal
+  1.60%    3.022      1 Template:Main_other
+  1.26%    2.377      1 Template:Open_access
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:484650-0!canonical and timestamp 20190319223207 and revision id 806027425
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Functional_neuroimaging&amp;oldid=806027425">https://en.wikipedia.org/w/index.php?title=Functional_neuroimaging&amp;oldid=806027425</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Neuroimaging" title="Category:Neuroimaging">Neuroimaging</a></li><li><a href="/wiki/Category:Cognitive_neuroscience" title="Category:Cognitive neuroscience">Cognitive neuroscience</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Functional+neuroimaging" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Functional+neuroimaging" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Functional_neuroimaging" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Functional_neuroimaging" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Functional_neuroimaging">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Functional_neuroimaging&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Functional_neuroimaging" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Functional_neuroimaging" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Functional_neuroimaging&amp;oldid=806027425" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Functional_neuroimaging&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1004354" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Functional_neuroimaging&amp;id=806027425" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Functional+neuroimaging">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Functional+neuroimaging&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Functional_neuroimaging&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Functional_neuroimaging" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C_%D8%B9%D8%B5%D8%A8%DB%8C_%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF%DB%8C" title="تصویربرداری عصبی کارکردی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Neuroimaging_funzionale" title="Neuroimaging funzionale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Funkcion%C3%A1lis_agyi_k%C3%A9palkot%C3%A1s" title="Funkcionális agyi képalkotás – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%84%B3%E6%A9%9F%E8%83%BD%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0" title="脳機能イメージング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C4%B0%C5%9Flevsel_sinir_sistemi_g%C3%B6r%C3%BCnt%C3%BCleme" title="İşlevsel sinir sistemi görüntüleme – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1004354#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 October 2017, at 05:21<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Functional_neuroimaging&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.245","ppvisitednodes":{"value":274,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5080,"limit":2097152},"templateargumentsize":{"value":87,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8995,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  189.246      1 Template:Reflist","100.00%  189.246      1 -total"," 86.50%  163.699      2 Template:Cite_journal","  1.60%    3.022      1 Template:Main_other","  1.26%    2.377      1 Template:Open_access"]},"scribunto":{"limitreport-timeusage":{"value":"0.107","limit":"10.000"},"limitreport-memusage":{"value":2093045,"limit":52428800}},"cachereport":{"origin":"mw1304","timestamp":"20190319223207","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Functional neuroimaging","url":"https:\/\/en.wikipedia.org\/wiki\/Functional_neuroimaging","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1004354","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1004354","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-23T16:23:18Z","dateModified":"2017-10-19T05:21:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/87\/Functional_magnetic_resonance_imaging.jpg"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1324"});});</script>
+</body>
+</html>

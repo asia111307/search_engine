@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Category:Cognitive scientists - Wikidata</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Q8364313","wgTitle":"Q8364313","wgCurRevisionId":827490974,"wgRevisionId":827490974,"wgArticleId":8325099,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikibase-item","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Q8364313","wgRelevantArticleId":8325099,"wgRequestId":"XLR@3wpAADoAAJtMO6MAAAAC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wbQualityConstraintsPropertyConstraintId":"P2302","wbQualityConstraintsOneOfConstraintId":"Q21510859","wbQualityConstraintsAllowedQualifierConstraintId":"Q21510851","wbQualityConstraintsPropertyId":"P2306","wbQualityConstraintsQualifierOfPropertyConstraintId":"P2305","wbQualityConstraintsSuggestionsGloballyEnabled":false,"wgNoticeProject":"wikidata","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wbIsEditView":true,"wbEntityId":"Q8364313","wbEntity":"{\"type\":\"item\",\"id\":\"Q8364313\",\"labels\":{\"en\":{\"language\":\"en\",\"value\":\"Category:Cognitive scientists\"},\"de\":{\"language\":\"de\",\"value\":\"Kategorie:Kognitionswissenschaftler\"},\"es\":{\"language\":\"es\",\"value\":\"Categor\\u00eda:Cient\\u00edficos cognitivos\"},\"fr\":{\"language\":\"fr\",\"value\":\"Cat\\u00e9gorie:Chercheur en sciences cognitives\"},\"he\":{\"language\":\"he\",\"value\":\"\\u05e7\\u05d8\\u05d2\\u05d5\\u05e8\\u05d9\\u05d4:\\u05e4\\u05e1\\u05d9\\u05db\\u05d5\\u05dc\\u05d5\\u05d2\\u05d9\\u05dd \\u05e7\\u05d5\\u05d2\\u05e0\\u05d9\\u05d8\\u05d9\\u05d1\\u05d9\\u05d9\\u05dd\"},\"ja\":{\"language\":\"ja\",\"value\":\"Category:\\u8a8d\\u77e5\\u79d1\\u5b66\\u8005\"},\"ko\":{\"language\":\"ko\",\"value\":\"\\ubd84\\ub958:\\uc778\\uc9c0\\uacfc\\ud559\\uc790\"},\"nl\":{\"language\":\"nl\",\"value\":\"Categorie:Cognitiewetenschapper\"},\"pt\":{\"language\":\"pt\",\"value\":\"Categoria:Cientistas cognitivos\"},\"sk\":{\"language\":\"sk\",\"value\":\"Kateg\\u00f3ria:Kognit\\u00edvni vedci\"},\"sv\":{\"language\":\"sv\",\"value\":\"Kategori:Kognitionsvetare\"},\"zh\":{\"language\":\"zh\",\"value\":\"Category:\\u8ba4\\u77e5\\u79d1\\u5b66\\u5bb6\"},\"mk\":{\"language\":\"mk\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0438 \\u043d\\u0430\\u0443\\u0447\\u043d\\u0438\\u0446\\u0438\"},\"fa\":{\"language\":\"fa\",\"value\":\"\\u0631\\u062f\\u0647:\\u062f\\u0627\\u0646\\u0634\\u0645\\u0646\\u062f\\u0627\\u0646 \\u0639\\u0644\\u0648\\u0645 \\u0634\\u0646\\u0627\\u062e\\u062a\\u06cc\"},\"eo\":{\"language\":\"eo\",\"value\":\"Kategorio:Kognosciencistoj\"},\"tr\":{\"language\":\"tr\",\"value\":\"Kategori:Bili\\u015fsel bilim ara\\u015ft\\u0131rmac\\u0131lar\\u0131\"},\"pl\":{\"language\":\"pl\",\"value\":\"Kategoria:Kognitywi\\u015bci\"},\"bg\":{\"language\":\"bg\",\"value\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0438 \\u043f\\u0441\\u0438\\u0445\\u043e\\u043b\\u043e\\u0437\\u0438\"},\"mn\":{\"language\":\"mn\",\"value\":\"\\u0410\\u043d\\u0433\\u0438\\u043b\\u0430\\u043b:\\u041e\\u044e\\u0443\\u043d \\u0443\\u0445\\u0430\\u0430\\u043d \\u0441\\u0443\\u0434\\u043b\\u0430\\u0430\\u0447\"}},\"descriptions\":{\"es\":{\"language\":\"es\",\"value\":\"categor\\u00eda de Wikimedia\"},\"fr\":{\"language\":\"fr\",\"value\":\"page de cat\\u00e9gorie d'un projet Wikimedia\"},\"de\":{\"language\":\"de\",\"value\":\"Wikimedia-Kategorie\"},\"cs\":{\"language\":\"cs\",\"value\":\"kategorie na projektech Wikimedia\"},\"da\":{\"language\":\"da\",\"value\":\"Wikimedia-kategori\"},\"en\":{\"language\":\"en\",\"value\":\"Wikimedia category\"},\"fi\":{\"language\":\"fi\",\"value\":\"Wikimedia-luokka\"},\"gl\":{\"language\":\"gl\",\"value\":\"categor\\u00eda de Wikimedia\"},\"it\":{\"language\":\"it\",\"value\":\"categoria di un progetto Wikimedia\"},\"nds\":{\"language\":\"nds\",\"value\":\"Kategorie op Wikimedia\"},\"pl\":{\"language\":\"pl\",\"value\":\"kategoria Wikipedii\"},\"sv\":{\"language\":\"sv\",\"value\":\"Wikimedia-kategori\"},\"pt\":{\"language\":\"pt\",\"value\":\"categoria de um projeto da Wikimedia\"},\"pt-br\":{\"language\":\"pt-br\",\"value\":\"categoria de um projeto da Wikimedia\"},\"ru\":{\"language\":\"ru\",\"value\":\"\\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f \\u0432 \\u043f\\u0440\\u043e\\u0435\\u043a\\u0442\\u0435 \\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430\"},\"fa\":{\"language\":\"fa\",\"value\":\"\\u0631\\u062f\\u0647\\u0654 \\u0648\\u06cc\\u06a9\\u06cc\\u200c\\u0645\\u062f\\u06cc\\u0627\"},\"nl\":{\"language\":\"nl\",\"value\":\"Wikimedia-categorie\"},\"nn\":{\"language\":\"nn\",\"value\":\"Wikimedia-kategori\"},\"nb\":{\"language\":\"nb\",\"value\":\"Wikimedia-kategori\"},\"et\":{\"language\":\"et\",\"value\":\"Wikimedia kategooria\"},\"ja\":{\"language\":\"ja\",\"value\":\"\\u30a6\\u30a3\\u30ad\\u30e1\\u30c7\\u30a3\\u30a2\\u306e\\u30ab\\u30c6\\u30b4\\u30ea\"},\"bn\":{\"language\":\"bn\",\"value\":\"\\u0989\\u0987\\u0995\\u09bf\\u09ae\\u09bf\\u09a1\\u09bf\\u09af\\u09bc\\u09be \\u09ac\\u09bf\\u09b7\\u09af\\u09bc\\u09b6\\u09cd\\u09b0\\u09c7\\u09a3\\u09c0\"},\"ckb\":{\"language\":\"ckb\",\"value\":\"\\u067e\\u06c6\\u0644\\u06cc \\u0648\\u06cc\\u06a9\\u06cc\\u0645\\u06cc\\u062f\\u06cc\\u0627\"},\"el\":{\"language\":\"el\",\"value\":\"\\u03ba\\u03b1\\u03c4\\u03b7\\u03b3\\u03bf\\u03c1\\u03af\\u03b1 \\u03b5\\u03b3\\u03c7\\u03b5\\u03b9\\u03c1\\u03b7\\u03bc\\u03ac\\u03c4\\u03c9\\u03bd Wikimedia\"},\"eo\":{\"language\":\"eo\",\"value\":\"kategorio en Vikimedio\"},\"gu\":{\"language\":\"gu\",\"value\":\"\\u0ab5\\u0abf\\u0a95\\u0abf\\u0aaa\\u0ac0\\u0aa1\\u0abf\\u0aaf\\u0abe \\u0ab6\\u0acd\\u0ab0\\u0ac7\\u0aa3\\u0ac0\"},\"he\":{\"language\":\"he\",\"value\":\"\\u05e7\\u05d8\\u05d2\\u05d5\\u05e8\\u05d9\\u05d4 \\u05d1\\u05d5\\u05d5\\u05d9\\u05e7\\u05d9\\u05e4\\u05d3\\u05d9\\u05d4\"},\"ilo\":{\"language\":\"ilo\",\"value\":\"kategoria ti Wikimedia\"},\"ko\":{\"language\":\"ko\",\"value\":\"\\uc704\\ud0a4\\ubbf8\\ub514\\uc5b4 \\ubd84\\ub958\"},\"mk\":{\"language\":\"mk\",\"value\":\"\\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0438\\u043d\\u0430 \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430\"},\"vi\":{\"language\":\"vi\",\"value\":\"th\\u1ec3 lo\\u1ea1i Wikimedia\"},\"zh\":{\"language\":\"zh\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u9879\\u76ee\\u5206\\u7c7b\"},\"zh-hans\":{\"language\":\"zh-hans\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u9879\\u76ee\\u5206\\u7c7b\"},\"zh-hant\":{\"language\":\"zh-hant\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5c08\\u6848\\u5206\\u985e\"},\"bg\":{\"language\":\"bg\",\"value\":\"\\u0423\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u044f \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f\"},\"hy\":{\"language\":\"hy\",\"value\":\"\\u054e\\u056b\\u0584\\u056b\\u0574\\u0565\\u0564\\u056b\\u0561\\u0575\\u056b \\u0576\\u0561\\u056d\\u0561\\u0563\\u056e\\u056b \\u056f\\u0561\\u057f\\u0565\\u0563\\u0578\\u0580\\u056b\\u0561\"},\"gsw\":{\"language\":\"gsw\",\"value\":\"Wikimedia-Kategorie\"},\"zh-tw\":{\"language\":\"zh-tw\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5206\\u985e\"},\"sr\":{\"language\":\"sr\",\"value\":\"\\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0458\\u0430 \\u043d\\u0430 \\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0458\\u0438\"},\"be-tarask\":{\"language\":\"be-tarask\",\"value\":\"\\u043a\\u0430\\u0442\\u044d\\u0433\\u043e\\u0440\\u044b\\u044f \\u045e \\u043f\\u0440\\u0430\\u0435\\u043a\\u0446\\u0435 \\u0412\\u0456\\u043a\\u0456\\u043c\\u044d\\u0434\\u044b\\u044f\"},\"sco\":{\"language\":\"sco\",\"value\":\"Wikimedia category\"},\"uk\":{\"language\":\"uk\",\"value\":\"\\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0456\\u044f \\u043f\\u0440\\u043e\\u0435\\u043a\\u0442\\u0443 \\u0412\\u0456\\u043a\\u0456\\u043c\\u0435\\u0434\\u0456\\u0430\"},\"lb\":{\"language\":\"lb\",\"value\":\"Wikimedia-Kategorie\"},\"sl\":{\"language\":\"sl\",\"value\":\"kategorija Wikimedije\"},\"ca\":{\"language\":\"ca\",\"value\":\"categoria de Wikimedia\"},\"zh-sg\":{\"language\":\"zh-sg\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u5206\\u7c7b\"},\"de-ch\":{\"language\":\"de-ch\",\"value\":\"Wikimedia-Kategorie\"},\"sk\":{\"language\":\"sk\",\"value\":\"kateg\\u00f3ria projektov Wikimedia\"},\"cy\":{\"language\":\"cy\",\"value\":\"tudalen categori Wikimedia\"},\"bs\":{\"language\":\"bs\",\"value\":\"kategorija na Wikimediji\"},\"zh-my\":{\"language\":\"zh-my\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u5206\\u7c7b\"},\"lv\":{\"language\":\"lv\",\"value\":\"Wikimedia projekta kategorija\"},\"de-at\":{\"language\":\"de-at\",\"value\":\"Wikimedia-Kategorie\"},\"zh-cn\":{\"language\":\"zh-cn\",\"value\":\"\\u7ef4\\u57fa\\u5a92\\u4f53\\u5206\\u7c7b\"},\"nap\":{\"language\":\"nap\",\"value\":\"categur\\u00eca 'e nu pruggette Wikimedia\"},\"be\":{\"language\":\"be\",\"value\":\"\\u043a\\u0430\\u0442\\u044d\\u0433\\u043e\\u0440\\u044b\\u044f \\u045e \\u043f\\u0440\\u0430\\u0435\\u043a\\u0446\\u0435 \\u0412\\u0456\\u043a\\u0456\\u043c\\u0435\\u0434\\u044b\\u044f\"},\"ar\":{\"language\":\"ar\",\"value\":\"\\u062a\\u0635\\u0646\\u064a\\u0641 \\u0648\\u064a\\u0643\\u064a\\u0645\\u064a\\u062f\\u064a\\u0627\"},\"hu\":{\"language\":\"hu\",\"value\":\"Wikim\\u00e9dia-kateg\\u00f3ria\"},\"yue\":{\"language\":\"yue\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5206\\u985e\"},\"zh-hk\":{\"language\":\"zh-hk\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5206\\u985e\"},\"hr\":{\"language\":\"hr\",\"value\":\"kategorija na Wikimediji\"},\"zh-mo\":{\"language\":\"zh-mo\",\"value\":\"\\u7dad\\u57fa\\u5a92\\u9ad4\\u5206\\u985e\"},\"bjn\":{\"language\":\"bjn\",\"value\":\"tumbung Wikimedia\"},\"eu\":{\"language\":\"eu\",\"value\":\"Wikimediako kategoria\"},\"bug\":{\"language\":\"bug\",\"value\":\"kategori Wikimedia\"},\"se\":{\"language\":\"se\",\"value\":\"Wikimedia-kategoriija\"},\"bar\":{\"language\":\"bar\",\"value\":\"Wikimedia-Kategorie\"},\"ast\":{\"language\":\"ast\",\"value\":\"categor\\u00eda de Wikimedia\"},\"ace\":{\"language\":\"ace\",\"value\":\"kawan Wikim\\u00e8dia\"},\"ky\":{\"language\":\"ky\",\"value\":\"Wikimedia \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f\\u0441\\u044b\"},\"hi\":{\"language\":\"hi\",\"value\":\"\\u0935\\u093f\\u0915\\u093f\\u092e\\u0940\\u0921\\u093f\\u092f\\u093e \\u0936\\u094d\\u0930\\u0947\\u0923\\u0940\"},\"ro\":{\"language\":\"ro\",\"value\":\"categorie \\u00een cadrul unui proiect Wikimedia\"},\"af\":{\"language\":\"af\",\"value\":\"Wikimedia-kategorie\"},\"ba\":{\"language\":\"ba\",\"value\":\"\\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430 \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f\\u04bb\\u044b\"},\"tg\":{\"language\":\"tg\",\"value\":\"\\u0433\\u0443\\u0440\\u04ef\\u04b3\\u0438 \\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430\"},\"tr\":{\"language\":\"tr\",\"value\":\"Vikimedya kategorisi\"},\"bho\":{\"language\":\"bho\",\"value\":\"\\u0935\\u093f\\u0915\\u093f\\u092a\\u0940\\u0921\\u093f\\u092f\\u093e:\\u0936\\u094d\\u0930\\u0947\\u0923\\u0940\"},\"an\":{\"language\":\"an\",\"value\":\"categor\\u00eda de Wikimedia\"},\"br\":{\"language\":\"br\",\"value\":\"pajenn rummata eus Wikimedia\"},\"la\":{\"language\":\"la\",\"value\":\"categoria Vicimediorum\"},\"tg-cyrl\":{\"language\":\"tg-cyrl\",\"value\":\"\\u0433\\u0443\\u0440\\u04ef\\u04b3 \\u0434\\u0430\\u0440 \\u043b\\u043e\\u0438\\u04b3\\u0430\\u0438 \\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430\"},\"zea\":{\"language\":\"zea\",\"value\":\"Wikimedia-categorie\"},\"th\":{\"language\":\"th\",\"value\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e21\\u0e27\\u0e14\\u0e2b\\u0e21\\u0e39\\u0e48\\u0e27\\u0e34\\u0e01\\u0e34\\u0e21\\u0e35\\u0e40\\u0e14\\u0e35\\u0e22\"},\"en-ca\":{\"language\":\"en-ca\",\"value\":\"Wikimedia category\"},\"rmy\":{\"language\":\"rmy\",\"value\":\"Vikipidiya:Shopni\"},\"stq\":{\"language\":\"stq\",\"value\":\"Wikimedia-Kategorie\"},\"min\":{\"language\":\"min\",\"value\":\"kategori Wikimedia\"},\"fo\":{\"language\":\"fo\",\"value\":\"Wikimedia-b\\u00f3lkur\"},\"sh\":{\"language\":\"sh\",\"value\":\"Wikimedia:Kategorija\"},\"sw\":{\"language\":\"sw\",\"value\":\"jamii ya Wikimedia\"},\"sq\":{\"language\":\"sq\",\"value\":\"kategori e Wikimedias\"},\"map-bms\":{\"language\":\"map-bms\",\"value\":\"kategori Wikimedia\"},\"dty\":{\"language\":\"dty\",\"value\":\"\\u0935\\u093f\\u0915\\u093f\\u092e\\u093f\\u0921\\u093f\\u092f\\u093e \\u0936\\u094d\\u0930\\u0947\\u0923\\u0940\"},\"tg-latn\":{\"language\":\"tg-latn\",\"value\":\"gur\\u00fchi Vikimedia\"},\"tl\":{\"language\":\"tl\",\"value\":\"kategorya ng Wikimedia\"},\"tt-latn\":{\"language\":\"tt-latn\",\"value\":\"Wikimedia proyekt\\u0131nda\\u011f\\u0131 t\\u00f6rkem\"},\"mr\":{\"language\":\"mr\",\"value\":\"\\u0935\\u093f\\u0915\\u093f\\u092a\\u0940\\u0921\\u093f\\u092f\\u093e \\u0935\\u0930\\u094d\\u0917\"},\"tt-cyrl\":{\"language\":\"tt-cyrl\",\"value\":\"\\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430 \\u043f\\u0440\\u043e\\u0435\\u043a\\u0442\\u044b\\u043d\\u0434\\u0430\\u0433\\u044b \\u0442\\u04e9\\u0440\\u043a\\u0435\\u043c\"},\"fy\":{\"language\":\"fy\",\"value\":\"Wikimedia-kategory\"},\"ga\":{\"language\":\"ga\",\"value\":\"Vicim\\u00e9id catag\\u00f3ir\"},\"ka\":{\"language\":\"ka\",\"value\":\"\\u10d5\\u10d8\\u10d9\\u10d8\\u10de\\u10d4\\u10d3\\u10d8\\u10d0:\\u10d9\\u10d0\\u10e2\\u10d4\\u10d2\\u10dd\\u10e0\\u10d8\\u10d6\\u10d0\\u10ea\\u10d8\\u10d0\"},\"tt\":{\"language\":\"tt\",\"value\":\"\\u0412\\u0438\\u043a\\u0438\\u043c\\u0435\\u0434\\u0438\\u0430 \\u043f\\u0440\\u043e\\u0435\\u043a\\u0442\\u044b\\u043d\\u0434\\u0430\\u0433\\u044b \\u0442\\u04e9\\u0440\\u043a\\u0435\\u043c\"},\"en-gb\":{\"language\":\"en-gb\",\"value\":\"Wikimedia category\"},\"ku\":{\"language\":\"ku\",\"value\":\"W\\u00eek\\u00eemediya:Kategor\\u00ee\"},\"jv\":{\"language\":\"jv\",\"value\":\"kategori Wikimedia\"},\"ta\":{\"language\":\"ta\",\"value\":\"\\u0bb5\\u0bbf\\u0b95\\u0bcd\\u0b95\\u0bbf\\u0bae\\u0bc0\\u0b9f\\u0bbf\\u0baf\\u0baa\\u0bcd \\u0baa\\u0b95\\u0bc1\\u0baa\\u0bcd\\u0baa\\u0bc1\"},\"su\":{\"language\":\"su\",\"value\":\"kategori Wikim\\u00e9dia\"},\"li\":{\"language\":\"li\",\"value\":\"Wikimedia-categorie\"},\"ms\":{\"language\":\"ms\",\"value\":\"kategori Wikimedia\"},\"hsb\":{\"language\":\"hsb\",\"value\":\"kategorija w projektach Wikimedije\"},\"si\":{\"language\":\"si\",\"value\":\"\\u0dc0\\u0dd2\\u0d9a\\u0dd2\\u0db8\\u0dd3\\u0da9\\u0dd2\\u0dba\\u0dcf \\u0db4\\u0dca\\u200d\\u0dbb\\u0db7\\u0dda\\u0daf \\u0db4\\u0dd2\\u0da7\\u0dd4\\u0dc0\"},\"gv\":{\"language\":\"gv\",\"value\":\"Wikimedia:Ronnaghys\"},\"scn\":{\"language\":\"scn\",\"value\":\"catigur\\u00eca di nu pruggettu Wikimedia\"},\"id\":{\"language\":\"id\",\"value\":\"kategori Wikimedia\"},\"ne\":{\"language\":\"ne\",\"value\":\"\\u0935\\u093f\\u0915\\u093f\\u092e\\u093f\\u0921\\u093f\\u092f\\u093e \\u0936\\u094d\\u0930\\u0947\\u0923\\u0940\"},\"ps\":{\"language\":\"ps\",\"value\":\"\\u062f \\u0648\\u064a\\u06a9\\u064a\\u0645\\u06d0\\u0689\\u064a\\u0627 \\u0648\\u06d0\\u0634\\u0646\\u064a\\u0632\\u0647\"},\"sd\":{\"language\":\"sd\",\"value\":\"\\u0632\\u0645\\u0631\\u0648:\\u0648\\u06aa\\u064a\\u067e\\u064a\\u068a\\u064a\\u0627 \\u0632\\u0645\\u0631\\u0627 \\u0628\\u0646\\u062f\\u064a\"},\"pam\":{\"language\":\"pam\",\"value\":\"Kategoriya ning Wikimedia\"},\"arz\":{\"language\":\"arz\",\"value\":\"\\u062a\\u0635\\u0646\\u064a\\u0641 \\u0628\\u062a\\u0627\\u0639 \\u0648\\u064a\\u0643\\u064a\\u0645\\u064a\\u062f\\u064a\\u0627\"},\"gn\":{\"language\":\"gn\",\"value\":\"Vikim\\u00e9dia \\u00f1emohenda\"},\"kw\":{\"language\":\"kw\",\"value\":\"Wikimedia:Klassys\"},\"ia\":{\"language\":\"ia\",\"value\":\"categoria Wikimedia\"},\"yo\":{\"language\":\"yo\",\"value\":\"\\u1eb9\\u0300ka Wikimedia\"},\"ur\":{\"language\":\"ur\",\"value\":\"\\u0648\\u06cc\\u06a9\\u06cc\\u0645\\u06cc\\u0688\\u06cc\\u0627 \\u0632\\u0645\\u0631\\u06c1\"},\"nds-nl\":{\"language\":\"nds-nl\",\"value\":\"Wikimedia-kategorie\"},\"my\":{\"language\":\"my\",\"value\":\"Wikimedia:\\u1000\\u100f\\u1039\\u100d\\u1001\\u103d\\u1032\\u1001\\u103c\\u1004\\u103a\\u1038\"},\"ml\":{\"language\":\"ml\",\"value\":\"\\u0d35\\u0d3f\\u0d15\\u0d4d\\u0d15\\u0d3f\\u0d2e\\u0d40\\u0d21\\u0d3f\\u0d2f \\u0d35\\u0d7c\\u0d17\\u0d4d\\u0d17\\u0d02\"},\"mn\":{\"language\":\"mn\",\"value\":\"\\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f\\u0434 \\u0410\\u043d\\u0433\\u0438\\u043b\\u0430\\u043b\"}},\"aliases\":[],\"claims\":{\"P301\":[{\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P301\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":14565186,\"id\":\"Q14565186\"},\"type\":\"wikibase-entityid\"}},\"type\":\"statement\",\"id\":\"Q8364313$74885b3b-4057-4879-47d9-785baf6fe897\",\"rank\":\"normal\"}],\"P373\":[{\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P373\",\"datavalue\":{\"value\":\"Cognitive scientists\",\"type\":\"string\"}},\"type\":\"statement\",\"id\":\"q8364313$4229133B-F1F2-457C-8C29-C43D692DE4D0\",\"rank\":\"normal\",\"references\":[{\"hash\":\"fa278ebfc458360e5aed63d5058cca83c46134f1\",\"snaks\":{\"P143\":[{\"snaktype\":\"value\",\"property\":\"P143\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":328,\"id\":\"Q328\"},\"type\":\"wikibase-entityid\"}}]},\"snaks-order\":[\"P143\"]}]}],\"P31\":[{\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P31\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":4167836,\"id\":\"Q4167836\"},\"type\":\"wikibase-entityid\"}},\"type\":\"statement\",\"id\":\"Q8364313$E92146C9-347D-45AB-82DF-2AADAC34C121\",\"rank\":\"normal\"}],\"P4224\":[{\"mainsnak\":{\"snaktype\":\"value\",\"property\":\"P4224\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":5,\"id\":\"Q5\"},\"type\":\"wikibase-entityid\"}},\"type\":\"statement\",\"qualifiers\":{\"P106\":[{\"snaktype\":\"value\",\"property\":\"P106\",\"hash\":\"462570c61c61823cf4370ccd678fdd8df8429ab5\",\"datavalue\":{\"value\":{\"entity-type\":\"item\",\"numeric-id\":14565186,\"id\":\"Q14565186\"},\"type\":\"wikibase-entityid\"}}]},\"qualifiers-order\":[\"P106\"],\"id\":\"Q8364313$9E2E74DE-E29F-4D52-BB2B-55DB80AD0D61\",\"rank\":\"normal\"}]},\"sitelinks\":{\"enwiki\":{\"site\":\"enwiki\",\"title\":\"Category:Cognitive scientists\",\"badges\":[]},\"dewiki\":{\"site\":\"dewiki\",\"title\":\"Kategorie:Kognitionswissenschaftler\",\"badges\":[]},\"eswiki\":{\"site\":\"eswiki\",\"title\":\"Categor\\u00eda:Cient\\u00edficos cognitivos\",\"badges\":[]},\"frwiki\":{\"site\":\"frwiki\",\"title\":\"Cat\\u00e9gorie:Chercheur en sciences cognitives\",\"badges\":[]},\"hewiki\":{\"site\":\"hewiki\",\"title\":\"\\u05e7\\u05d8\\u05d2\\u05d5\\u05e8\\u05d9\\u05d4:\\u05e4\\u05e1\\u05d9\\u05db\\u05d5\\u05dc\\u05d5\\u05d2\\u05d9\\u05dd \\u05e7\\u05d5\\u05d2\\u05e0\\u05d9\\u05d8\\u05d9\\u05d1\\u05d9\\u05d9\\u05dd\",\"badges\":[]},\"jawiki\":{\"site\":\"jawiki\",\"title\":\"Category:\\u8a8d\\u77e5\\u79d1\\u5b66\\u8005\",\"badges\":[]},\"kowiki\":{\"site\":\"kowiki\",\"title\":\"\\ubd84\\ub958:\\uc778\\uc9c0\\uacfc\\ud559\\uc790\",\"badges\":[]},\"nlwiki\":{\"site\":\"nlwiki\",\"title\":\"Categorie:Cognitiewetenschapper\",\"badges\":[]},\"ptwiki\":{\"site\":\"ptwiki\",\"title\":\"Categoria:Cientistas cognitivos\",\"badges\":[]},\"skwiki\":{\"site\":\"skwiki\",\"title\":\"Kateg\\u00f3ria:Kognit\\u00edvni vedci\",\"badges\":[]},\"svwiki\":{\"site\":\"svwiki\",\"title\":\"Kategori:Kognitionsvetare\",\"badges\":[]},\"zhwiki\":{\"site\":\"zhwiki\",\"title\":\"Category:\\u8ba4\\u77e5\\u79d1\\u5b66\\u5bb6\",\"badges\":[]},\"commonswiki\":{\"site\":\"commonswiki\",\"title\":\"Category:Cognitive scientists\",\"badges\":[]},\"enwikiquote\":{\"site\":\"enwikiquote\",\"title\":\"Category:Cognitive scientists\",\"badges\":[]},\"dewikiquote\":{\"site\":\"dewikiquote\",\"title\":\"Kategorie:Kognitionswissenschaftler\",\"badges\":[]},\"fawiki\":{\"site\":\"fawiki\",\"title\":\"\\u0631\\u062f\\u0647:\\u062f\\u0627\\u0646\\u0634\\u0645\\u0646\\u062f\\u0627\\u0646 \\u0639\\u0644\\u0648\\u0645 \\u0634\\u0646\\u0627\\u062e\\u062a\\u06cc\",\"badges\":[]},\"eowiki\":{\"site\":\"eowiki\",\"title\":\"Kategorio:Kognosciencistoj\",\"badges\":[]},\"trwiki\":{\"site\":\"trwiki\",\"title\":\"Kategori:Bili\\u015fsel bilim ara\\u015ft\\u0131rmac\\u0131lar\\u0131\",\"badges\":[]},\"bgwiki\":{\"site\":\"bgwiki\",\"title\":\"\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u044f:\\u041a\\u043e\\u0433\\u043d\\u0438\\u0442\\u0438\\u0432\\u043d\\u0438 \\u043f\\u0441\\u0438\\u0445\\u043e\\u043b\\u043e\\u0437\\u0438\",\"badges\":[]},\"plwiki\":{\"site\":\"plwiki\",\"title\":\"Kategoria:Kognitywi\\u015bci\",\"badges\":[]},\"plwikiquote\":{\"site\":\"plwikiquote\",\"title\":\"Kategoria:Kognitywi\\u015bci\",\"badges\":[]},\"mnwiki\":{\"site\":\"mnwiki\",\"title\":\"\\u0410\\u043d\\u0433\\u0438\\u043b\\u0430\\u043b:\\u041e\\u044e\\u0443\\u043d \\u0443\\u0445\\u0430\\u0430\\u043d \\u0441\\u0443\\u0434\\u043b\\u0430\\u0430\\u0447\",\"badges\":[]}}}","wgEditSubmitButtonLabelPublish":true,"wbUserSpecifiedLanguages":[],"wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" class=\"extiw\" title=\"wikimedia:Terms of Use\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":{"Q17437798":"wb-badge-goodarticle","Q17437796":"wb-badge-featuredarticle","Q17559452":"wb-badge-recommendedarticle","Q17506997":"wb-badge-featuredlist","Q17580674":"wb-badge-featuredportal","Q20748091":"wb-badge-notproofread","Q20748094":"wb-badge-problematic","Q20748092":"wb-badge-proofread","Q20748093":"wb-badge-validated","Q28064618":"wb-badge-digitaldocument","Q51759403":"wb-badge-goodlist"},"wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"]});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.common":"ready","jquery.ui.core.styles":"ready","jquery.wikibase.statementview.RankSelector.styles":"ready","jquery.wikibase.toolbar.styles":"ready","jquery.wikibase.toolbarbutton.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikidata-org.badges":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["wikibase.ui.entityViewInit","wikibase.entityPage.entityLoaded","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","wikibase.ui.entitysearch","ext.gadget.Search","ext.gadget.AuthorityControl","ext.gadget.SiteIdToInterwiki","ext.gadget.ProtectionIndicators","ext.gadget.PopupsFix","ext.gadget.imagelinks","ext.gadget.NewSection","ext.gadget.formWizard","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","propertySuggester.suggestions","wikibase.quality.constraints.suggestions","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikidata-org.badges%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.wikibase.statementview.RankSelector.styles%7Cjquery.wikibase.toolbar.styles%7Cjquery.wikibase.toolbarbutton.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.common&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=jquery.ui.core.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:title" content="Category:Cognitive scientists"/>
+<meta name="description" content="Wikimedia category"/>
+<meta property="og:description" content="Wikimedia category"/>
+<meta name="twitter:card" content="summary"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q8364313.json" type="application/json"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q8364313.php" type="application/vnd.php.serialized"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q8364313.n3" type="text/n3"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q8364313.ttl" type="text/turtle"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q8364313.nt" type="application/n-triples"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q8364313.rdf" type="application/rdf+xml"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Q8364313&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=Q8364313&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikidata.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikidata.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikidata (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//www.wikidata.org/w/api.php?action=rsd"/>
+<link rel="license" href="/wiki/Wikidata:Copyright"/>
+<link rel="canonical" href="https://www.wikidata.org/wiki/Q8364313"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Q8364313 rootpage-Q8364313 skin-vector action-view wb-entitypage wb-itempage wb-itempage-Q8364313">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><span class="wikibase-title">
+<span class="wikibase-title-label">Category:Cognitive scientists</span>
+<span class="wikibase-title-id">(Q8364313)</span>
+</span></h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikidata</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="wb-item-Q8364313" class="wikibase-entityview wb-item" lang="en" dir="ltr">
+<div class="wikibase-entityview-main"><div class="wikibase-entitytermsview">
+<div class="wikibase-entitytermsview-heading">
+<div class="wikibase-entitytermsview-heading-description ">Wikimedia category</div><div class="wikibase-entitytermsview-heading-aliases wb-empty"></div>
+</div>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetLabelDescriptionAliases/Q8364313/en" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+<div class="wikibase-entitytermsview-entitytermsforlanguagelistview "><table class="wikibase-entitytermsforlanguagelistview">
+<thead class="wikibase-entitytermsforlanguagelistview-header">
+<tr class="wikibase-entitytermsforlanguagelistview-header-row">
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-language">Language</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-label">Label</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-description">Description</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-aliases">Also known as</th>
+</tr>
+</thead>
+<tbody class="wikibase-entitytermsforlanguagelistview-listview"><tr class="wikibase-entitytermsforlanguageview wikibase-entitytermsforlanguageview-en" >
+<th class="wikibase-entitytermsforlanguageview-language">English</th>
+<td class="wikibase-entitytermsforlanguageview-label"><div class="wikibase-labelview " dir="ltr" lang="en">
+<div class="wikibase-labelview-container">
+<span class="wikibase-labelview-text">Category:Cognitive scientists</span>
+
+</div>
+</div></td>
+<td class="wikibase-entitytermsforlanguageview-description"><div class="wikibase-descriptionview " dir="ltr" lang="en">
+<div class="wikibase-descriptionview-container">
+<span class="wikibase-descriptionview-text">Wikimedia category</span>
+
+</div>
+</div></td>
+<td class="wikibase-entitytermsforlanguageview-aliases"><div class="wikibase-aliasesview wb-empty">
+<ul class="wikibase-aliasesview-list" dir="" lang="en"></ul>
+
+</div></td>
+
+</tr></tbody>
+</table></div>
+</div><div id="toc"></div><h2 class="wb-section-heading section-heading wikibase-statements" dir="auto"><span class="mw-headline" id="claims">Statements</span></h2><div class="wikibase-statementgrouplistview"><div class="wikibase-listview"><div class="wikibase-statementgroupview" id="P31" data-property-id="P31">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P31" href="/wiki/Property:P31">instance of</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q8364313$E92146C9-347D-45AB-82DF-2AADAC34C121" class="wikibase-statementview wikibase-statement-Q8364313$E92146C9-347D-45AB-82DF-2AADAC34C121 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-6ce6fb09d8a0ca69b7054c628cf9b004c29c0003">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q4167836" href="/wiki/Q4167836">Wikimedia category</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P4224" data-property-id="P4224">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P4224" href="/wiki/Property:P4224">category contains</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q8364313$9E2E74DE-E29F-4D52-BB2B-55DB80AD0D61" class="wikibase-statementview wikibase-statement-Q8364313$9E2E74DE-E29F-4D52-BB2B-55DB80AD0D61 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-48a086e3e0f6b04d5cfca137186f1e2afb0ab964">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q5" href="/wiki/Q5">human</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-462570c61c61823cf4370ccd678fdd8df8429ab5">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P106" href="/wiki/Property:P106">occupation</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q14565186" href="/wiki/Q14565186">cognitive scientist</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P373" data-property-id="P373">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P373" href="/wiki/Property:P373">Commons category</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="q8364313$4229133B-F1F2-457C-8C29-C43D692DE4D0" class="wikibase-statementview wikibase-statement-q8364313$4229133B-F1F2-457C-8C29-C43D692DE4D0 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-a0a7cf6bc1adb9e35580b40506821996b72931c3">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">Cognitive scientists</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P301" data-property-id="P301">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P301" href="/wiki/Property:P301">category's main topic</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q8364313$74885b3b-4057-4879-47d9-785baf6fe897" class="wikibase-statementview wikibase-statement-Q8364313$74885b3b-4057-4879-47d9-785baf6fe897 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-d656dcd22cc25e7258eb4ae1ab23c8eb1ec24935">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q14565186" href="/wiki/Q14565186">cognitive scientist</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div></div></div></div>
+<div class="wikibase-entityview-side"><div class="wikibase-pageImage">
+<div class="help">
+<span class="wb-help-field-hint wikibase-toolbar-item wikibase-wbtooltip" title="This image is taken from the statements of this Item. You can adjust the image by changing the statement.">&nbsp;</span>
+</div>
+</div><h2 class="wb-section-heading section-heading wikibase-sitelinks" dir="auto"><span class="mw-headline" id="sitelinks">Sitelinks</span></h2><div class="wikibase-sitelinkgrouplistview"><div class="wikibase-listview"><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikipedia">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikipedia">Wikipedia<span class="wikibase-sitelinkgroupview-counter">(18 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-bgwiki" data-wb-siteid="bgwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bgwiki" title="Bulgarian">bgwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bgwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%B8_%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B7%D0%B8" hreflang="bg" title="Категория:Когнитивни психолози">Категория:Когнитивни психолози</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-dewiki" data-wb-siteid="dewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-dewiki" title="German">dewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-dewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="de"><a href="https://de.wikipedia.org/wiki/Kategorie:Kognitionswissenschaftler" hreflang="de" title="Kategorie:Kognitionswissenschaftler">Kategorie:Kognitionswissenschaftler</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-enwiki" data-wb-siteid="enwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-enwiki" title="English">enwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-enwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://en.wikipedia.org/wiki/Category:Cognitive_scientists" hreflang="en" title="Category:Cognitive scientists">Category:Cognitive scientists</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-eowiki" data-wb-siteid="eowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-eowiki" title="Esperanto">eowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-eowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="eo"><a href="https://eo.wikipedia.org/wiki/Kategorio:Kognosciencistoj" hreflang="eo" title="Kategorio:Kognosciencistoj">Kategorio:Kognosciencistoj</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-eswiki" data-wb-siteid="eswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-eswiki" title="Spanish">eswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-eswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="es"><a href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Cient%C3%ADficos_cognitivos" hreflang="es" title="Categoría:Científicos cognitivos">Categoría:Científicos cognitivos</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-fawiki" data-wb-siteid="fawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-fawiki" title="Persian">fawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-fawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%AF%D8%A7%D9%86%D8%B4%D9%85%D9%86%D8%AF%D8%A7%D9%86_%D8%B9%D9%84%D9%88%D9%85_%D8%B4%D9%86%D8%A7%D8%AE%D8%AA%DB%8C" hreflang="fa" title="رده:دانشمندان علوم شناختی">رده:دانشمندان علوم شناختی</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-frwiki" data-wb-siteid="frwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-frwiki" title="French">frwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-frwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fr"><a href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Chercheur_en_sciences_cognitives" hreflang="fr" title="Catégorie:Chercheur en sciences cognitives">Catégorie:Chercheur en sciences cognitives</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-hewiki" data-wb-siteid="hewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-hewiki" title="Hebrew">hewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-hewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%9D_%D7%A7%D7%95%D7%92%D7%A0%D7%99%D7%98%D7%99%D7%91%D7%99%D7%99%D7%9D" hreflang="he" title="קטגוריה:פסיכולוגים קוגניטיביים">קטגוריה:פסיכולוגים קוגניטיביים</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-jawiki" data-wb-siteid="jawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-jawiki" title="Japanese">jawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-jawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ja"><a href="https://ja.wikipedia.org/wiki/Category:%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%80%85" hreflang="ja" title="Category:認知科学者">Category:認知科学者</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-kowiki" data-wb-siteid="kowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-kowiki" title="Korean">kowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-kowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99%EC%9E%90" hreflang="ko" title="분류:인지과학자">분류:인지과학자</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-mnwiki" data-wb-siteid="mnwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-mnwiki" title="Mongolian">mnwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-mnwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="mn"><a href="https://mn.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D0%B0%D0%BB:%D0%9E%D1%8E%D1%83%D0%BD_%D1%83%D1%85%D0%B0%D0%B0%D0%BD_%D1%81%D1%83%D0%B4%D0%BB%D0%B0%D0%B0%D1%87" hreflang="mn" title="Ангилал:Оюун ухаан судлаач">Ангилал:Оюун ухаан судлаач</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-nlwiki" data-wb-siteid="nlwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-nlwiki" title="Dutch">nlwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-nlwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="nl"><a href="https://nl.wikipedia.org/wiki/Categorie:Cognitiewetenschapper" hreflang="nl" title="Categorie:Cognitiewetenschapper">Categorie:Cognitiewetenschapper</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-plwiki" data-wb-siteid="plwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-plwiki" title="Polish">plwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-plwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="pl"><a href="https://pl.wikipedia.org/wiki/Kategoria:Kognitywi%C5%9Bci" hreflang="pl" title="Kategoria:Kognitywiści">Kategoria:Kognitywiści</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ptwiki" data-wb-siteid="ptwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ptwiki" title="Portuguese">ptwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ptwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="pt"><a href="https://pt.wikipedia.org/wiki/Categoria:Cientistas_cognitivos" hreflang="pt" title="Categoria:Cientistas cognitivos">Categoria:Cientistas cognitivos</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-skwiki" data-wb-siteid="skwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-skwiki" title="Slovak">skwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-skwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sk"><a href="https://sk.wikipedia.org/wiki/Kateg%C3%B3ria:Kognit%C3%ADvni_vedci" hreflang="sk" title="Kategória:Kognitívni vedci">Kategória:Kognitívni vedci</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-svwiki" data-wb-siteid="svwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-svwiki" title="Swedish">svwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-svwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sv"><a href="https://sv.wikipedia.org/wiki/Kategori:Kognitionsvetare" hreflang="sv" title="Kategori:Kognitionsvetare">Kategori:Kognitionsvetare</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-trwiki" data-wb-siteid="trwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-trwiki" title="Turkish">trwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-trwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="tr"><a href="https://tr.wikipedia.org/wiki/Kategori:Bili%C5%9Fsel_bilim_ara%C5%9Ft%C4%B1rmac%C4%B1lar%C4%B1" hreflang="tr" title="Kategori:Bilişsel bilim araştırmacıları">Kategori:Bilişsel bilim araştırmacıları</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-zhwiki" data-wb-siteid="zhwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-zhwiki" title="Chinese">zhwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-zhwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="zh"><a href="https://zh.wikipedia.org/wiki/Category:%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%AE%B6" hreflang="zh" title="Category:认知科学家">Category:认知科学家</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikibooks">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikibooks">Wikibooks<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikinews">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikinews">Wikinews<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikiquote">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiquote">Wikiquote<span class="wikibase-sitelinkgroupview-counter">(3 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-dewikiquote" data-wb-siteid="dewikiquote">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-dewikiquote" title="German">dewikiquote</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-dewikiquote"><span class="wikibase-sitelinkview-page" dir="auto" lang="de"><a href="https://de.wikiquote.org/wiki/Kategorie:Kognitionswissenschaftler" hreflang="de" title="Kategorie:Kognitionswissenschaftler">Kategorie:Kognitionswissenschaftler</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-enwikiquote" data-wb-siteid="enwikiquote">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-enwikiquote" title="English">enwikiquote</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-enwikiquote"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://en.wikiquote.org/wiki/Category:Cognitive_scientists" hreflang="en" title="Category:Cognitive scientists">Category:Cognitive scientists</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-plwikiquote" data-wb-siteid="plwikiquote">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-plwikiquote" title="Polish">plwikiquote</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-plwikiquote"><span class="wikibase-sitelinkview-page" dir="auto" lang="pl"><a href="https://pl.wikiquote.org/wiki/Kategoria:Kognitywi%C5%9Bci" hreflang="pl" title="Kategoria:Kognitywiści">Kategoria:Kognitywiści</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikisource">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikisource">Wikisource<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikiversity">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiversity">Wikiversity<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikivoyage">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikivoyage">Wikivoyage<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wiktionary">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wiktionary">Wiktionary<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="special">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-special">Other sites<span class="wikibase-sitelinkgroupview-counter">(1 entry)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q8364313" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-commonswiki" data-wb-siteid="commonswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-commonswiki" title="Commons">commonswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-commonswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://commons.wikimedia.org/wiki/Category:Cognitive_scientists" hreflang="en" title="Category:Cognitive scientists">Category:Cognitive scientists</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div></div></div></div>
+</div>
+<!-- Saved in parser cache with key wikidatawiki:pcache:idhash:8325099-0!wb=3 and timestamp 20190415125351 and revision id 827490974
+ -->
+<noscript><img src="//www.wikidata.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://www.wikidata.org/w/index.php?title=Q8364313&amp;oldid=827490974">https://www.wikidata.org/w/index.php?title=Q8364313&amp;oldid=827490974</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-uls" class="active"><a href="#" class="uls-trigger">English</a></li><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Q8364313" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Q8364313" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Q8364313" title="View the item [c]" accesskey="c">Item</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Q8364313&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Q8364313">Read</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Q8364313&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikidata" title="Search Wikidata [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikidata:Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikidata:Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-portal"><a href="/wiki/Special:MyLanguage/Project:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-villagepump"><a href="/wiki/Wikidata:Project_chat">Project chat</a></li><li id="n-special-newitem"><a href="/wiki/Special:NewItem">Create a new Item</a></li><li id="n-special-newlexeme"><a href="/wiki/Special:NewLexeme">Create a new Lexeme</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random item [x]" accesskey="x">Random item</a></li><li id="n-queryservice"><a href="//query.wikidata.org/" title="Service that enables getting queries for the data of Wikidata">Query Service</a></li><li id="n-mobile-frontend-nearby-title"><a href="/wiki/Special:Nearby">Nearby</a></li><li id="n-help"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_wikidata.org&amp;uselang=en" title="Support us">Donate</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-electronPdfService-sidebar-portlet-heading" aria-labelledby="p-electronPdfService-sidebar-portlet-heading-label">
+			<h3 id="p-electronPdfService-sidebar-portlet-heading-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="electron-print_pdf"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Q8364313&amp;action=show-download-screen">Download as PDF</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Q8364313" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Q8364313" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Q8364313&amp;oldid=827490974" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Q8364313&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wb-concept-uri"><a href="http://www.wikidata.org/entity/Q8364313" title="URI that identifies the concept described by this Item">Concept URI</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Q8364313&amp;id=827490974" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 January 2019, at 21:07.</li>
+								<li id="footer-info-copyright">All structured data from the main, property and lexeme namespaces is available under the <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; text in the other namespaces is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Special:MyLanguage/Project:Introduction" title="Special:MyLanguage/Project:Introduction">About Wikidata</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Special:MyLanguage/Project:General_disclaimer" title="Special:MyLanguage/Project:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//m.wikidata.org/w/index.php?title=Q8364313&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-data-access"><a href="/wiki/Special:MyLanguage/Wikidata:Data_access">Data access</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":175,"wgHostname":"mw1263"});});</script>
+</body>
+</html>

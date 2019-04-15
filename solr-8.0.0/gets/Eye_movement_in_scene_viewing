@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Eye movement in scene viewing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eye_movement_in_scene_viewing","wgTitle":"Eye movement in scene viewing","wgCurRevisionId":882685004,"wgRevisionId":882685004,"wgArticleId":44581891,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cognitive science","Eye","Motor control"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eye_movement_in_scene_viewing","wgRelevantArticleId":44581891,"wgRequestId":"XLBGjQpAMFoAABcmjowAAAAL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q25048586","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jean_B%C3%A9raud%2C_Parisian_Street_Scene.jpg/1200px-Jean_B%C3%A9raud%2C_Parisian_Street_Scene.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Eye_movement_in_scene_viewing"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Eye_movement_in_scene_viewing"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Eye_movement_in_scene_viewing rootpage-Eye_movement_in_scene_viewing skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Eye movement in scene viewing</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:254px;"><a href="/wiki/File:Jean_B%C3%A9raud,_Parisian_Street_Scene.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jean_B%C3%A9raud%2C_Parisian_Street_Scene.jpg/252px-Jean_B%C3%A9raud%2C_Parisian_Street_Scene.jpg" decoding="async" width="252" height="379" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jean_B%C3%A9raud%2C_Parisian_Street_Scene.jpg/378px-Jean_B%C3%A9raud%2C_Parisian_Street_Scene.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jean_B%C3%A9raud%2C_Parisian_Street_Scene.jpg/504px-Jean_B%C3%A9raud%2C_Parisian_Street_Scene.jpg 2x" data-file-width="2519" data-file-height="3786" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Jean_B%C3%A9raud,_Parisian_Street_Scene.jpg" class="internal" title="Enlarge"></a></div>A Parisian street scene painted by <a href="/wiki/Jean_B%C3%A9raud" title="Jean Béraud">Jean Béraud</a>.  A fashionable beauty reads the posters on the kiosk while two gentlemen surreptitiously ogle her.</div></div></div>
+<p><b><a href="/wiki/Eye_movement" title="Eye movement">Eye movement</a> in scene viewing</b> refers to the <a href="/wiki/Visual_processing" title="Visual processing">visual processing</a> of information presented in scenes. This phenomenon has been studied in a range of areas such as <a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive psychology</a> and <a href="/wiki/Psychophysics" title="Psychophysics">psychophysics</a>, where eye movement can be monitored under experimental conditions. A core aspect in these studies is the division of eye movements into <a href="/wiki/Saccades" class="mw-redirect" title="Saccades">saccades</a>, the rapid movement of the eyes, and fixations, the focus of the eyes on a point. There are several factors which influence eye movement in scene viewing, both the task and knowledge of the viewer (top-down factors), and the properties of the image being viewed (bottom-up factors). The study of eye movement in scene viewing helps to understand visual processing in more natural environments.
+</p><p>Typically, when presented with a scene, viewers demonstrate short fixation durations and long saccade amplitudes in the earlier phases of viewing an image, representing ambient processing. This is followed by longer fixations and shorter saccades in the latter phases of scene viewing, representing focal processing (Pannasch et al., 2008).
+</p><p>Eye movement behaviour in scene viewing differs between different levels of cognitive development. Fixation durations shorten and saccade amplitudes lengthen with the increase in age. In children, the development of saccades to the amplitude normally found in adults have occur earlier (4–6 years old) than the development of fixation durations (6–8 years old). Yet, the typical pattern of behaviour during scene viewing, when progressing from ambient processing to focal processing, has been observed to occur from the age of 2 years old (Helo, Pannasch, Sirri &amp; Rämä, 2014).
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Spatial_variation"><span class="tocnumber">1</span> <span class="toctext">Spatial variation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Temporal_variation"><span class="tocnumber">2</span> <span class="toctext">Temporal variation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Spatial_variation">Spatial variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=edit&amp;section=1" title="Edit section: Spatial variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are particular factors which affect where eye movements fixate upon, these include bottom-up factors inherent to the stimulus, and top-down factors inherent to the viewer. Even an initial glimpse of a scene has been found to generate an abstract representation of the image that can be stored in memory for use in subsequent eye movements (Castelhano &amp; Henderson, 2007).
+</p><p>In bottom-up factors, eye guidance can be affected by the local contrast or salience of features in an image (Itti &amp; Koch, 2000). An example of this would be an area with a large difference in luminance (Parkhurst et al., 2002), a greater density of edges (Mannan, Ruddock &amp; Wooding, 1996) or binocular disparity determining the distance of different objects on the scene (Jansen et al., 2009).
+</p><p>The top-down factors of scenes have more of an impact than bottom-up features in affecting fixation positions. Behaviourally relevant information that are more interesting in a scene is more salient than low-level features, drawing fixations more frequently and more quickly from scene onset (Onat, Açik, Schumann &amp; König, 2014). Local scene colour in a fixation position has an influence on where fixations occur. The presence of colour can increase the likelihood of the item being processed as a semantic object as it can aid the discrimination of the object, making it more interesting to view (Amano &amp; Foster, 2014). When viewers are semantically primed by being presented with consistently similar scenes, the density of fixations increase, and fixation durations decrease (Henderson, Weeks Jr., &amp; Hollingworth, 1999).
+</p><p>Information separate to what is presented in a scene also has an effect on the area being fixated upon. Eye movements can be guided anticipatorily by linguistic input, where if an item in the scene is presented verbally, the listener will be more likely to move their visual focus to that object (Staub, Abott &amp; Bogartz, 2012).
+With regard to factors relating to viewers rather than the scene, differences have been found in cross-cultural research. Westerners have an inclination to concentrate on focal objects in a scene, where they look at focal objects more often and quicker in comparison to East Asians who attend more to contextual information, where they make more saccades to the background of the scene (Chua, Boland &amp; Nisbett, 2002).
+</p>
+<h2><span class="mw-headline" id="Temporal_variation">Temporal variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=edit&amp;section=2" title="Edit section: Temporal variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Regarding the temporality of fixations,  average fixation durations last for 300ms on average, although there is a large variability around this approximation. Some of this variability can be explained through global properties of an image, impacting upon both bottom-up processing and top-down processing.
+</p><p>During natural scene viewing, the masking of an image by replacing it with a grey field during fixations has an increase in fixation durations (Henderson &amp; Pierce, 2008). More subtle degradations of an image on fixation durations, such as the decrease in luminance of an image during fixations, also increases the length of fixation durations (Henderson, Nuthmann &amp; Luke, 2013). An asymmetric effect is shown where the increase of luminance also increases fixation durations (Walshe &amp; Nuthmann, 2014). However, the change in factors affecting top-down processing, such as <a href="/wiki/Gaussian_blur" title="Gaussian blur">blurring</a> or <a href="/wiki/Phase_noise" title="Phase noise">phase noise</a>, increases fixation durations when used to degrade a scene and decreases fixation durations when used to enhance a scene (Henderson, Olejarczyk, Luke &amp; Schmidt, 2014; Einhäuser et al., 2006).
+</p><p>Furthermore, temporal and spatial aspects interact in a complex manner. When a picture is first presented on the screen, fixations made within the first second are more likely to be directed toward the left side of the scene, whereas the opposite holds true for the remaining part of the presentation (Ossandón et al., 2014).
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Screen_reading" title="Screen reading">Screen reading</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/28px-Psi2.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/42px-Psi2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/56px-Psi2.svg.png 2x" data-file-width="100" data-file-height="100" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Psychology portal</a></span></li></ul></div>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li>Amano, K. &amp; Foster, D., H. (2014).  Influence of local scene color on fixation position in visual search. <i>Journal of the Optical Society of America A</i>, <i>31</i>, A254-A261.</li>
+<li>Castelhano, M., S. &amp; Henderson, J., M. (2007).  Initial Scene Representations Facilitate Eye Movement Guidance in Visual Search. <i>Journal of Experimental Psychology: Human Perception and Performance</i>, <i>33</i>, 753-763.</li>
+<li>Chua, H., F., Boland, J., E. &amp; Nisbett, R., E. (2002).  Cultural variation in eye movement during scene perception.  <i>Proceedings of the National Academy of Sciences of the United States of America</i>, <i>102</i>, 12629-12633.</li>
+<li>Einhäuser, W., Rutishauser, U., Frady, E., P., Nadler, S., König, P. &amp; Kock, C. (2006).  The relation of phase noise and luminance contrast to overt attention in complex visual stimuli. <i>Journal of Vision</i>, <i>6</i>, 1148-1158.</li>
+<li>Helo, A., Pannasch, S., Sirri, L. &amp; Rämä, P. (2014).  The maturation of eye movement behaviour: scene viewing characteristics in children and adults. <i>Vision Research</i>, <i>103</i>, 83-91.</li>
+<li>Henderson, J., M., Weeks, Jr., P., A. &amp; Hollingworth, A. (1999). The Effects of Semantic Consistency on Eye Movements During Complex Scene Viewing. <i>Journal of Experimental Psychology: Human Perception and Performance</i>, <i>25</i>, 210-228.</li>
+<li>Henderson, J., M. &amp; Pierce, G., L. (2008).  Eye movements during scene viewing: Evidence for mixed control of fixation durations. <i>Psychonomic Bulletin &amp; Review</i>, <i>15</i>, 566-573.</li>
+<li>Henderson, J., M., Nuthmann, A. &amp; Luke, S., G. (2013). Eye Movement Control During Scene Viewing: Immediate Effects of Scene Luminance on Fixation Durations. <i>Journal of Experimental Psychology: Human Perception and Performance</i>, <i>39</i>, 318-322.</li>
+<li>Henderson, J., M., Olejarczyk, J., Luke, S., G. &amp; Schmidt, J. (2014). Eye movement control during scene viewing: Immediate degradation and enhancement effects of spatial frequency filtering. <i>Visual Cognition</i>, <i>22</i>, 486-502.</li>
+<li>Itti, L., &amp; Koch, C. (2000). A saliency-based search mechanism for overt and covert shifts of visual attention. <i>Vision Research</i>, <i>40</i>, 1489-1506.</li>
+<li>Jansen, L., Onat, S., &amp; König, P. (2009). Influence of disparity on fixation and saccades in free viewing of natural scenes. Journal of Vision, 9(1):29, 1–19, <a rel="nofollow" class="external free" href="http://journalofvision.org/9/1/29/">http://journalofvision.org/9/1/29/</a>, doi:10.1167/9.1.29.</li>
+<li>Mannan, S., K., Ruddock, K., H. &amp; Wooding, D., S. (1996). The relationship between the locations of spatial features and those of fixations made during visual examination of briefly presented images. <i>Spatial Vision</i>, <i>10</i>, 165–188.</li>
+<li>Onat, S., Açik, A., Schumann, F. &amp; König, P. (2014). The Contributions of Image Content and Behavioural Relevancy to Overt Attention. <i>PLOS ONE</i>, <i>9</i>, e93254.</li>
+<li>Ossandón, J. P., Onat, S., &amp; König, P. (2014) Spatial biases in viewing behavior. Journal of Vision, 14(2):20, 1–26.</li>
+<li>Pannasch, S., Helmert, J., R., Roth, K., Herbold, A.-K. &amp; Walter, H. (2008).  Visual Fixation Durations and Saccade Amplitudes: Shifting Relationship in a Variety of Conditions.<i>Journal of Eye Movement Research</i>, <i>2</i>, 1-19.</li>
+<li>Parkhurst, D. J., Law, K., &amp; Niebur, E. (2002).  Modeling the role of salience in the allocation of overt visual attention. <i>Vision Research</i>, <i>42</i>, 107-123.</li>
+<li>Staub, A., Abbott, M. &amp; Bogartz, R., S. (2012). Linguistically guided anticipatory eye movements in scene viewing. <i>Visual Cognition</i>, <i>20</i>, 922-946.</li>
+<li>Walshe, R., C. &amp; Nuthmann, A. (2014). Asymmetrical control of fixation durations in scene viewing. <i>Vision Research</i>, <i>100</i>, 38-46.</li></ul>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20190411154100
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.044 seconds
+Real time usage: 0.064 seconds
+Preprocessor visited node count: 115/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 1709/2097152 bytes
+Template argument size: 93/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 464/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.006/10.000 seconds
+Lua memory usage: 760 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   45.457      1 -total
+ 44.23%   20.107      1 Template:Portal
+ 27.93%   12.697      1 Template:Refbegin
+ 22.22%   10.101      1 Template:Reflist
+  6.45%    2.930      1 Template:Main_other
+  5.06%    2.302      1 Template:Refend
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:44581891-0!canonical and timestamp 20190411154059 and revision id 882685004
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eye_movement_in_scene_viewing&amp;oldid=882685004">https://en.wikipedia.org/w/index.php?title=Eye_movement_in_scene_viewing&amp;oldid=882685004</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li><li><a href="/wiki/Category:Eye" title="Category:Eye">Eye</a></li><li><a href="/wiki/Category:Motor_control" title="Category:Motor control">Motor control</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eye+movement+in+scene+viewing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eye+movement+in+scene+viewing" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Eye_movement_in_scene_viewing" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Eye_movement_in_scene_viewing" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Eye_movement_in_scene_viewing">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Eye_movement_in_scene_viewing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Eye_movement_in_scene_viewing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;oldid=882685004" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25048586" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Eye_movement_in_scene_viewing&amp;id=882685004" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eye+movement+in+scene+viewing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Eye+movement+in+scene+viewing&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Eye_movement_in_scene_viewing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25048586#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 February 2019, at 18:54<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Eye_movement_in_scene_viewing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.064","ppvisitednodes":{"value":115,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1709,"limit":2097152},"templateargumentsize":{"value":93,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":464,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   45.457      1 -total"," 44.23%   20.107      1 Template:Portal"," 27.93%   12.697      1 Template:Refbegin"," 22.22%   10.101      1 Template:Reflist","  6.45%    2.930      1 Template:Main_other","  5.06%    2.302      1 Template:Refend"]},"scribunto":{"limitreport-timeusage":{"value":"0.006","limit":"10.000"},"limitreport-memusage":{"value":777758,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190411154100","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1255"});});</script>
+</body>
+</html>

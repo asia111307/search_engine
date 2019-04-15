@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>eChalk: Colour perception</title>
+		
+		<script src="/JavaScript/CreateJS/easeljs-0.7.0.min.js"></script>
+		<script src="/JavaScript/CreateJS/tweenjs-0.5.0.min.js"></script>
+		<script src="/JavaScript/CreateJS/movieclip-0.7.0.min.js"></script>
+		<script src="/JavaScript/CreateJS/preloadjs-0.3.0.min.js"></script>
+		<script src="/JavaScript/jQuery/jquery-1.9.1.min.js"></script>
+        <script src="/javaScript/swfobject2-2/swfobject.js"></script>
+		
+		<link href="/css/Resource/FlashResourcePage.css" rel="stylesheet" type="text/css" />
+		<link href="/css/HTML5/template.css" rel="stylesheet" type="text/css" />
+		
+		<script src="/JavaScript/HTML5/streamer.js"></script>
+
+		<script type="text/javascript">
+		
+			$(window).load(function() {
+				swfobject.embedSWF("streamer.swf", "flashcontentdiv", "100%", "100%", "8", "", null, null, null, swfobject_loadComplete);
+			});
+			
+			function swfobject_loadComplete(e) {
+				// If flash content failed to be loaded, try the canvas
+				if (e.success == undefined || e.success == null || e.success == false) {
+					initCanvas();
+				}
+			}
+			
+		</script>
+		<script src="/JavaScript/GoogleAnalytics/snippet.js"></script>
+	</head>
+
+	<body>
+		<div id="flashcontent">
+			<div id="flashcontentdiv">
+				<canvas id="canvas" width="800" height="600" style="background-color:#02333F">
+					<div id="description">
+						<img src="/Assets/siteLogo.png" style="width: 222px; height: 74px" alt="eChalk Preview" />
+						<p id="resourceName">
+							Colour perception
+						</p>
+						<p class="textWhiteBold">
+							Please download Adobe Flash Player or update your web browser to the latest version in order to view this resource.
+						</p>
+						<p class="textWhiteBold">
+							Click on the link below to install the latest flash player.
+						</p>
+						<p class="textWhiteBold">
+							<a href="http://www.adobe.com/go/getflashplayer"><img src="/Assets/getAdobeFlashPlayer.gif" style="width: 160px; height: 41px" alt="Adobe Flash Player" /></a>
+						</p>
+					</div>
+				</canvas>
+			</div>
+		</div>
+	</body>
+</html>

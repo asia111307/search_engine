@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Schema (psychology) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Schema_(psychology)","wgTitle":"Schema (psychology)","wgCurRevisionId":882415059,"wgRevisionId":882415059,"wgArticleId":1058555,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Wikipedia references cleanup from April 2012","All articles needing references cleanup","Articles covered by WikiProject Wikify from April 2012","All articles covered by WikiProject Wikify","Cognitive science","Psychological adjustment","Psychological theories"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Schema_(psychology)","wgRelevantArticleId":1058555,"wgRequestId":"XLIqCApAAD8AAC73Bu0AAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1051200","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Schema_(psychology)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Schema_(psychology)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Schema_(psychology)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Schema_(psychology)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Schema_psychology rootpage-Schema_psychology skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Schema (psychology)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about psychology. For other uses, see <a href="/wiki/Schema_(disambiguation)" class="mw-redirect mw-disambig" title="Schema (disambiguation)">Schema (disambiguation)</a>.</div>
+<table class="box-Citation_style plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>has an unclear citation style</b>.<span class="hide-when-compact"> The references used may be made clearer with a different or consistent style of <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citation</a> and <a href="/wiki/Help:Footnotes" title="Help:Footnotes">footnoting</a>.</span>  <small class="date-container"><i>(<span class="date">April 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In <a href="/wiki/Psychology" title="Psychology">psychology</a> and <a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a>, a <b>schema</b> (plural <i>schemata</i> or <i>schemas</i>) describes a pattern of thought or behavior that organizes categories of information and the relationships among them.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> It can also be described as a mental structure of preconceived ideas, a framework representing some aspect of the world, or a system of organizing and perceiving new information.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Schemata influence attention and the absorption of new knowledge: people are more likely to notice things that fit into their schema, while re-interpreting contradictions to the schema as exceptions or distorting them to fit. Schemata have a tendency to remain unchanged, even in the face of contradictory information. Schemata can help in understanding the world and the rapidly changing environment.<sup id="cite_ref-Nadkarni_3-0" class="reference"><a href="#cite_note-Nadkarni-3">&#91;3&#93;</a></sup> People can organize new perceptions into schemata quickly as most situations do not require complex thought when using schema, since automatic thought is all that is required.<sup id="cite_ref-Nadkarni_3-1" class="reference"><a href="#cite_note-Nadkarni-3">&#91;3&#93;</a></sup>
+</p><p>People use schemata to organize current knowledge and provide a framework for future understanding. Examples of schemata include <a href="/wiki/Rubric_(academic)" title="Rubric (academic)">academic rubrics</a>, <a href="/wiki/Social_cognition#Social_schemas" title="Social cognition">social schemas</a>, stereotypes, <a href="/wiki/Social_role" class="mw-redirect" title="Social role">social roles</a>, <a href="/wiki/Behavioral_script" title="Behavioral script">scripts</a>, <a href="/wiki/Worldview" class="mw-redirect" title="Worldview">worldviews</a>, and <a href="/wiki/Archetype" title="Archetype">archetypes</a>. In <a href="/wiki/Piaget%27s_theory" class="mw-redirect" title="Piaget&#39;s theory">Piaget's theory</a> of development, children construct a series of schemata, based on the interactions they experience, to help them understand the world.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Schematic_processing"><span class="tocnumber">2</span> <span class="toctext">Schematic processing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Background_research"><span class="tocnumber">3</span> <span class="toctext">Background research</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Modification"><span class="tocnumber">4</span> <span class="toctext">Modification</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Self-schema"><span class="tocnumber">5</span> <span class="toctext">Self-schema</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Schema_therapy"><span class="tocnumber">6</span> <span class="toctext">Schema therapy</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Before psychology separated from philosophy, the term "schema" was prominently discussed in philosophy by <a href="/wiki/Schema_(Kant)" title="Schema (Kant)">Immanuel Kant</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Early developments of the idea in psychology emerged with the <a href="/wiki/Gestalt_psychology" title="Gestalt psychology">gestalt psychologists</a> and <a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a>: the term "schema" was introduced by Piaget in 1923.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The concept was popularized in psychology and education through the work of the British psychologist <a href="/wiki/Frederic_Bartlett" title="Frederic Bartlett">Frederic Bartlett</a>,<sup id="cite_ref-bartlett_7-0" class="reference"><a href="#cite_note-bartlett-7">&#91;7&#93;</a></sup> who drew on the term <a href="/wiki/Body_schema" title="Body schema">body schema</a> used by neurologist <a href="/wiki/Henry_Head" title="Henry Head">Henry Head</a>. It was expanded into schema theory by educational psychologist Richard C. Anderson.<sup id="cite_ref-lingualinks_8-0" class="reference"><a href="#cite_note-lingualinks-8">&#91;8&#93;</a></sup> Since then, other terms have been used to describe schema such as "frame", "scene" and "script".
+</p>
+<h2><span class="mw-headline" id="Schematic_processing">Schematic processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=2" title="Edit section: Schematic processing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Through the use of schemata, a <a href="/wiki/Heuristic" title="Heuristic">heuristic</a> technique to encode and retrieve memories, the majority of typical situations do not require much strenuous processing. People can quickly organize new perceptions into schemata and act without effort.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>However, schemata can influence and hamper the uptake of new information (<a href="/wiki/Proactive_interference" class="mw-redirect" title="Proactive interference">proactive interference</a>), such as when existing <a href="/wiki/Stereotype" title="Stereotype">stereotypes</a>, giving rise to limited or <a href="/wiki/Bias" title="Bias">biased</a> discourses and expectations (<a href="/wiki/Prejudice" title="Prejudice">prejudices</a>), lead an individual to "see" or "remember" something that has not happened because it is more believable in terms of his/her schema.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> For example, if a well-dressed businessman draws a knife on a vagrant, the schemata of onlookers may (and often do) lead them to "remember" the vagrant pulling the knife. Such distortion of memory has been demonstrated. (See <a href="#Background_research">§&#160;Background research</a> below.)
+</p><p>Schemata are interrelated and multiple conflicting schemata can be applied to the same information. Schemata are generally thought to have a level of activation, which can spread among related schemata. Which schema is selected can depend on factors such as current activation, accessibility, <a href="/wiki/Priming_(psychology)" title="Priming (psychology)">priming</a> and emotion.
+</p><p><i>Accessibility</i> is how easily a schema comes to mind, and is determined by personal experience and expertise. This can be used as a cognitive shortcut; it allows the <a href="/wiki/Availability_heuristic" title="Availability heuristic">most common explanation to be chosen for new information</a>.
+</p><p>With priming, a brief imperceptible stimulus temporarily provides enough activation to a schema so that it is used for subsequent ambiguous information. Although this may suggest the possibility of <a href="/wiki/Subliminal_message" class="mw-redirect" title="Subliminal message">subliminal messages</a>, the effect of priming is so fleeting that it is difficult to detect outside laboratory conditions. Furthermore, the <a href="/wiki/Mere_exposure_effect" class="mw-redirect" title="Mere exposure effect">mere exposure effect</a>—which requires consciousness of the stimuli—is far more effective than priming.
+</p>
+<h2><span class="mw-headline" id="Background_research">Background research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=3" title="Edit section: Background research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The original concept of schemata is linked with that of reconstructive memory as proposed and demonstrated in a series of experiments by Bartlett.<sup id="cite_ref-Bartlett_11-0" class="reference"><a href="#cite_note-Bartlett-11">&#91;11&#93;</a></sup> By presenting participants with information that was unfamiliar to their cultural backgrounds and expectations and then monitoring how they recalled these different items of information (stories, etc.), Bartlett was able to establish that individuals' existing schemata and stereotypes influence not only how they interpret "schema-foreign" new information but also how they recall the information over time. One of his most famous investigations involved asking participants to read a Native American folk tale, "The War of the Ghosts", and recall it several times up to a year later. All the participants transformed the details of the story in such a way that it reflected their cultural norms and expectations, i.e. in line with their schemata. The factors that influenced their recall were:
+</p>
+<ul><li>Omission of information that was considered irrelevant to a participant;</li>
+<li>Transformation of some of the details, or of the order in which events, etc., were recalled; a shift of focus and emphasis in terms of what was considered the most important aspects of the tale;</li>
+<li>Rationalization: details and aspects of the tale that would not make sense would be "padded out" and explained in an attempt to render them comprehensible to the individual in question;</li>
+<li>Cultural shifts: the content and the style of the story were altered in order to appear more coherent and appropriate in terms of the cultural background of the participant.</li></ul>
+<p>Bartlett's work was crucially important in demonstrating that long-term memories are neither fixed nor immutable but are constantly being adjusted as schemata evolve with experience. In a sense it supports the <a href="/wiki/Existentialism" title="Existentialism">existentialist</a> view that people construct the past and present in a constant process of narrative/discursive adjustment, and that much of what people "remember" is actually confabulated (adjusted and rationalized) narrative that allows them to think of the past as a continuous and coherent string of events, even though it is probable that large sections of memory (both episodic and semantic) are irretrievable at any given time.<sup id="cite_ref-Bartlett_11-1" class="reference"><a href="#cite_note-Bartlett-11">&#91;11&#93;</a></sup>
+</p><p>An important step in the development of schema theory was taken by the work of D.E. Rumelhart describing the understanding of narrative and stories.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Further work on the concept of schemata was conducted by W.F. Brewer and J.C. Treyens, who demonstrated that the schema-driven expectation of the presence of an object was sometimes sufficient to trigger its erroneous recollection.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> An experiment was conducted where participants were requested to wait in a room identified as an academic's study and were later asked about the room's contents. A number of the participants recalled having seen books in the study whereas none were present. Brewer and Treyens concluded that the participants' expectations that books are present in academics' studies were enough to prevent their accurate recollection of the scenes.
+</p><p>In the 1970s, computer scientist <a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> was trying to develop machines that would have human-like abilities. When he was trying to create solutions for some of the difficulties he encountered he came across Bartlett's work and decided that if he was ever going to get machines to act like humans he needed them to use their stored knowledge to carry out processes. To compensate for that he created what was known as the frame construct, which was a way to represent knowledge in machines. His frame construct can be seen as an extension and elaboration of the schema construct. He created the frame knowledge concept as a way to interact with new information. He proposed that fixed and broad information would be represented as the frame, but it would also be composed of slots that would accept a range of values; but if the world didn't have a value for a slot, then it would be filled by a default value.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Because of Minsky's work, computers now have a stronger impact on psychology. In the 1980s, <a href="/wiki/David_Rumelhart" title="David Rumelhart">David Rumelhart</a> extended Minsky's ideas, creating an explicitly psychological theory of the <a href="/wiki/Mental_representation" title="Mental representation">mental representation</a> of complex knowledge.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>Roger Schank and Robert Abelson developed the idea of a script, which was known as a generic knowledge of sequences of actions. This led to many new empirical studies, which found that providing relevant schema can help improve comprehension and recall on passages.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Modification">Modification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=4" title="Edit section: Modification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>New information that falls within an individual's schema is easily remembered and incorporated into their <a href="/wiki/Worldview" class="mw-redirect" title="Worldview">worldview</a>. However, when new information is perceived that does not fit a schema, many things can happen. The most common reaction is to simply ignore or quickly forget the new information.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> This can happen on an unconscious level— frequently an individual may not even perceive the new information. People may also interpret the new information in a way that minimizes how much they must change their schemata. For example, Bob thinks that chickens don't lay eggs. He then sees a chicken laying an egg. Instead of changing the part of his schema that says "chickens don't lay eggs", he is likely to adopt the belief that the animal in question that he has just seen laying an egg is not a real chicken. This is an example of <a href="/wiki/Disconfirmation_bias" class="mw-redirect" title="Disconfirmation bias">disconfirmation bias</a>, the tendency to set higher standards for evidence that contradicts one's expectations.<sup id="cite_ref-taberandlodge_18-0" class="reference"><a href="#cite_note-taberandlodge-18">&#91;18&#93;</a></sup> However, when the new information cannot be ignored, existing schemata must be changed or new schemata must be created (accommodation).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p><a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a> (1896–1980) was known best for his work with development of human knowledge. He believed knowledge was constructed on cognitive structures, and he believed people develop cognitive structures by accommodating and assimilating information. Accommodation is creating new schema that will fit better with the new environment or adjusting old schema. Accommodation could also be interpreted as putting restrictions on a current schema. Accommodation usually comes about when assimilation has failed. Assimilation is when people use a current schema to understand the world around them. Piaget thought that schemata are applied to everyday life and therefore people accommodate and assimilate information naturally.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> For example, if this chicken has red feathers, Bob can form a new schemata that says "chickens with red feathers can lay eggs". This schemata will then be either changed or removed, in the future.
+</p><p><a href="/wiki/Assimilation_(psychology)" class="mw-redirect" title="Assimilation (psychology)">Assimilation</a> is the reuse of schemata to fit the new information. For example, when a person sees an unfamiliar dog, they will probably just integrate it into their dog schema. However, if the dog behaves strangely, and in ways that doesn't seem dog-like, there will be <a href="/wiki/Accommodation_(psychology)" class="mw-redirect" title="Accommodation (psychology)">accommodation</a> as a new schema is formed for that particular dog. With Accommodation and Assimilation comes the idea of equilibrium. Piaget describes equilibrium as a state of cognition that is balanced when schema are capable of explaining what it sees and perceives. When information is new and cannot fit into existing schema this is called disequilibrium and this is an unpleasant state for the child's development. When disequilibrium happens, it means the person is frustrated and will try to restore the coherence of his or her cognitive structures through accommodation. If the new information is taken then assimilation of the new information will proceed until they find that they must make a new adjustment to it later down the road, but for now the child remains at equilibrium again. The process of equilibration is when people move from the equilibrium phase to the disequilibrium phase and back into equilibrium.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Self-schema">Self-schema</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=5" title="Edit section: Self-schema">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Self-schema" title="Self-schema">Self-schema</a></div>
+<p>Schemata about oneself are considered to be grounded in the present and based on past experiences. Memories are framed in the light of one's self-conception. For example, people who have positive self-schemata (i.e. most people) selectively attend to flattering information and selectively ignore unflattering information, with the consequence that flattering information is subject to deeper encoding, and therefore superior recall.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> Even when encoding is equally strong for positive and negative feedback, positive feedback is more likely to be recalled.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> Moreover, memories may even be distorted to become more favorable, for example, people typically remember exam grades as having been better than they actually were.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> However, when people have negative self views, memories are generally biased in ways that validate the negative self-schema; people with low self-esteem, for instance, are prone to remember more negative information about themselves than positive information.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> Thus, memory tends to be biased in a way that validates the agent's pre-existing self-schema.
+</p><p>There are three major implications of self-schemata. First, information about oneself is processed faster and more efficiently, especially consistent information. Second, one retrieves and remembers information that is relevant to one's self-schema. Third, one will tend to resist information in the environment that is contradictory to one's self-schema. For instance, students with a particular self-schema prefer roommates whose view of them is consistent with that schema. Students who end up with roommates whose view of them is inconsistent with their self-schema are more likely to try to find a new roommate, even if this view is positive.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> This is an example of self-verification.
+</p><p>As researched by <a href="/wiki/Aaron_T._Beck" title="Aaron T. Beck">Aaron Beck</a>, automatically-activated negative self-schemata are a large contributor to depression. According to Cox, <a href="/wiki/Lyn_Yvonne_Abramson" title="Lyn Yvonne Abramson">Abramson</a>, <a href="/wiki/Patricia_Devine" title="Patricia Devine">Devine</a>, and Hollon (2012), these self-schemata are essentially the same type of cognitive structure as stereotypes studied by prejudice researchers (e.g., they are both well-rehearsed, automatically activated, difficult to change, influential toward behavior, emotions, and judgments, and bias information processing).<sup id="cite_ref-Cox_et_al._(2012)_27-0" class="reference"><a href="#cite_note-Cox_et_al._(2012)-27">&#91;27&#93;</a></sup>
+</p><p>The self-schema can also be self-perpetuating. It can represent a particular role in society that is based on stereotype, for example: "If a mother tells her daughter she looks like a tom boy, her daughter may react by choosing activities that she imagines a tom boy would do. Conversely, if the mother tells her she looks like a princess, her daughter might choose activities thought to be more feminine." This is an example of the self-schema becoming self-perpetuating when the person at hand chooses an activity that was based on an expectation rather than their desires.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Schema_therapy">Schema therapy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=6" title="Edit section: Schema therapy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Schema_therapy" title="Schema therapy">Schema therapy</a> and <a href="/wiki/List_of_maladaptive_schemas" title="List of maladaptive schemas">List of maladaptive schemas</a></div>
+<p>Schema therapy was founded by <a href="/wiki/Jeffrey_Young" title="Jeffrey Young">Jeffrey Young</a> and represents a development of <a href="/wiki/Cognitive_behavioral_therapy" title="Cognitive behavioral therapy">cognitive behavioral therapy</a> (CBT) specifically for treating <a href="/wiki/Personality_disorders" class="mw-redirect" title="Personality disorders">personality disorders</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup><sup id="cite_ref-young_30-0" class="reference"><a href="#cite_note-young-30">&#91;30&#93;</a></sup> <i>Early maladaptive schemata</i> are described by Young as broad and pervasive themes or patterns made up of memories, feelings, sensations, and thoughts regarding oneself and one's relationships with others. They are considered to develop during childhood or adolescence, and to be dysfunctional in that they lead to self-defeating behavior. Examples include schemata of abandonment/instability, mistrust/abuse, emotional deprivation, and defectiveness/shame.<sup id="cite_ref-young_30-1" class="reference"><a href="#cite_note-young-30">&#91;30&#93;</a></sup>
+</p><p>Schema therapy blends CBT with elements of <a href="/wiki/Gestalt_therapy" title="Gestalt therapy">Gestalt therapy</a>, <a href="/wiki/Object_relations" class="mw-redirect" title="Object relations">object relations</a>, <a href="/wiki/Constructivism_(psychological_school)" title="Constructivism (psychological school)">constructivist</a> and <a href="/wiki/Psychoanalytic" class="mw-redirect" title="Psychoanalytic">psychoanalytic</a> therapies in order to treat the characterological difficulties which both constitute personality disorders and which underlie many of the chronic depressive or anxiety-involving symptoms which present in the clinic. Young said that CBT may be an effective treatment for presenting symptoms, but without the conceptual or clinical resources for tackling the underlying structures (maladaptive schemata) which consistently organize the patient's experience, the patient is likely to lapse back into unhelpful modes of relating to others and attempting to meet their needs. Young focused on pulling from different therapies equally when developing schema therapy. The difference between cognitive behavioral therapy and schema therapy is the latter "emphasizes lifelong patterns, affective change techniques, and the therapeutic relationship, with special emphasis on <a href="/wiki/Schema_therapy#Limited_reparenting" title="Schema therapy">limited reparenting</a>".<sup id="cite_ref-APA_31-0" class="reference"><a href="#cite_note-APA-31">&#91;31&#93;</a></sup> He recommended this therapy would be ideal for clients with difficult and chronic psychological disorders. Some examples would be <a href="/wiki/Eating_disorder" title="Eating disorder">eating disorders</a> and personality disorders. He has also had success with this therapy in relation to depression and substance abuse.<sup id="cite_ref-APA_31-1" class="reference"><a href="#cite_note-APA-31">&#91;31&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cultural_schema_theory" title="Cultural schema theory">Cultural schema theory</a></li>
+<li><a href="/wiki/Memetics" title="Memetics">Memetics</a></li>
+<li><a href="/wiki/Personal_construct_theory" title="Personal construct theory">Personal construct theory</a></li>
+<li><a href="/wiki/Relational_frame_theory" title="Relational frame theory">Relational frame theory</a></li>
+<li><a href="/wiki/Social_cognition" title="Social cognition">Social cognition</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">DiMaggio, P (1997). "Culture and cognition". <i>Annual Review of Sociology</i>. <b>23</b>: 263–287. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1146%2Fannurev.soc.23.1.263">10.1146/annurev.soc.23.1.263</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Sociology&amp;rft.atitle=Culture+and+cognition&amp;rft.volume=23&amp;rft.pages=263-287&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.soc.23.1.263&amp;rft.aulast=DiMaggio&amp;rft.aufirst=P&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.psyctherapy.com/Enrolled/glossaryBody1.htm">"Glossary"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Glossary&amp;rft_id=http%3A%2F%2Fwww.psyctherapy.com%2FEnrolled%2FglossaryBody1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Nadkarni-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nadkarni_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nadkarni_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Nadkarni, S.; Narayanan, V. K. (2007). "Strategic schemas, strategic flexibility, and firm performance: The moderating role of industry clockspeed". <i>Strategic Management Journal</i>. <b>28</b> (3): 243–270. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Fsmj.576">10.1002/smj.576</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Strategic+Management+Journal&amp;rft.atitle=Strategic+schemas%2C+strategic+flexibility%2C+and+firm+performance%3A+The+moderating+role+of+industry+clockspeed&amp;rft.volume=28&amp;rft.issue=3&amp;rft.pages=243-270&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1002%2Fsmj.576&amp;rft.aulast=Nadkarni&amp;rft.aufirst=S.&amp;rft.au=Narayanan%2C+V.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Georgeon, O.R.; Ritter, F.E. (2011). "An intrinsically motivated schema mechanism to model and simulate emergent cognition". <i>Cognitive Systems Research</i>. 15–16: 75. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.228.5682">10.1.1.228.5682</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.cogsys.2011.07.003">10.1016/j.cogsys.2011.07.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cognitive+Systems+Research&amp;rft.atitle=An+intrinsically+motivated+schema+mechanism+to+model+and+simulate+emergent+cognition&amp;rft.volume=15%E2%80%9316&amp;rft.pages=75&amp;rft.date=2011&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.228.5682&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cogsys.2011.07.003&amp;rft.aulast=Georgeon&amp;rft.aufirst=O.R.&amp;rft.au=Ritter%2C+F.E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nevid, J. S. (2007). "Kant, cognitive psychotherapy, and the hardening of the categories". <i>Psychology and Psychotherapy: Theory, Research and Practice</i>. <b>80</b> (4): 605–615. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1348%2F147608307X204189">10.1348/147608307X204189</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Psychology+and+Psychotherapy%3A+Theory%2C+Research+and+Practice&amp;rft.atitle=Kant%2C+cognitive+psychotherapy%2C+and+the+hardening+of+the+categories&amp;rft.volume=80&amp;rft.issue=4&amp;rft.pages=605-615&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1348%2F147608307X204189&amp;rft.aulast=Nevid&amp;rft.aufirst=J.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Piaget, J. (1923). <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fondationjeanpiaget.ch/fjp/site/textes/VE/JP23_Langag_pensee_chap1_fonctionslang.pdf">"Langage et pensée chez l'enfant"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Langage+et+pens%C3%A9e+chez+l%27enfant&amp;rft_id=http%3A%2F%2Fwww.fondationjeanpiaget.ch%2Ffjp%2Fsite%2Ftextes%2FVE%2FJP23_Langag_pensee_chap1_fonctionslang.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> (3e éd. 1948 revue et avec un nouvel avant-propos et un nouveau chapitre II inséré  utgave  bind). Neuchâtel: Delachaux et Niestlé, p. 43f.</span>
+</li>
+<li id="cite_note-bartlett-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-bartlett_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Bartlett, F.C. (1932). <a rel="nofollow" class="external text" href="https://pdfs.semanticscholar.org/727e/7f158dc0839ef789e3cb99f3fc3f2e38e017.pdf"><i>Remembering: A Study in Experimental and Social Psychology</i></a> <span class="cs1-format">(PDF)</span>. Cambridge, England: Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Remembering%3A+A+Study+in+Experimental+and+Social+Psychology&amp;rft.place=Cambridge%2C+England&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1932&amp;rft.aulast=Bartlett&amp;rft.aufirst=F.C.&amp;rft_id=https%3A%2F%2Fpdfs.semanticscholar.org%2F727e%2F7f158dc0839ef789e3cb99f3fc3f2e38e017.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-lingualinks-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-lingualinks_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sil.org/lingualinks/literacy/ImplementALiteracyProgram/SchemaTheoryOfLearning.htm">"Schema theory of learning"</a>. <i>LinguaLinks Library</i>. SIL International. 2 July 1998.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LinguaLinks+Library&amp;rft.atitle=Schema+theory+of+learning&amp;rft.date=1998-07-02&amp;rft_id=http%3A%2F%2Fwww.sil.org%2Flingualinks%2Fliteracy%2FImplementALiteracyProgram%2FSchemaTheoryOfLearning.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kleider, H. M.; Pezdek, K.; Goldinger, S. D.; Kirk, A. (2008). "Schema-driven source misattribution errors: Remembering the expected from a witnessed event". <i>Applied Cognitive Psychology</i>. <b>22</b> (1): 1–20. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2Facp.1361">10.1002/acp.1361</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+Cognitive+Psychology&amp;rft.atitle=Schema-driven+source+misattribution+errors%3A+Remembering+the+expected+from+a+witnessed+event&amp;rft.volume=22&amp;rft.issue=1&amp;rft.pages=1-20&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1002%2Facp.1361&amp;rft.aulast=Kleider&amp;rft.aufirst=H.+M.&amp;rft.au=Pezdek%2C+K.&amp;rft.au=Goldinger%2C+S.+D.&amp;rft.au=Kirk%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tuckey, M.; Brewer, N. (2003). "The influence of schemas, stimulus ambiguity, and interview schedule on eyewitness memory over time". <i>Journal of Experimental Psychology: Applied</i>. <b>9</b> (2): 101–118. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2F1076-898X.9.2.101">10.1037/1076-898X.9.2.101</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Experimental+Psychology%3A+Applied&amp;rft.atitle=The+influence+of+schemas%2C+stimulus+ambiguity%2C+and+interview+schedule+on+eyewitness+memory+over+time&amp;rft.volume=9&amp;rft.issue=2&amp;rft.pages=101-118&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1037%2F1076-898X.9.2.101&amp;rft.aulast=Tuckey&amp;rft.aufirst=M.&amp;rft.au=Brewer%2C+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Bartlett-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bartlett_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bartlett_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bartlett, F.C. (1932). <a rel="nofollow" class="external text" href="https://pdfs.semanticscholar.org/727e/7f158dc0839ef789e3cb99f3fc3f2e38e017.pdf">Remembering: A study in experimental and social psychology</a>. Cambridge, England: Cambridge University Press</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Rumelhart, D.E. (1980) <a rel="nofollow" class="external text" href="https://www.taylorfrancis.com/books/e/9781351607247/chapters/10.4324%2F9781315107493-4">Schemata: the building blocks of cognition</a>. In: R.J. Spiro et al. (Eds) Theoretical Issues in Reading Comprehension, Hillsdale, NJ: Lawrence Erlbaum. See also: Mandler, J. M. (1984). Stories, scripts, and scenes: Aspects of schema theory. Hillsdale, NJ: Lawrence Erlbaum Associates.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brewer, W. F.; Treyens, J. C. (1981). "Role of schemata in memory for places". <i>Cognitive Psychology</i>. <b>13</b> (2): 207–230. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0010-0285%2881%2990008-6">10.1016/0010-0285(81)90008-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cognitive+Psychology&amp;rft.atitle=Role+of+schemata+in+memory+for+places&amp;rft.volume=13&amp;rft.issue=2&amp;rft.pages=207-230&amp;rft.date=1981&amp;rft_id=info%3Adoi%2F10.1016%2F0010-0285%2881%2990008-6&amp;rft.aulast=Brewer&amp;rft.aufirst=W.+F.&amp;rft.au=Treyens%2C+J.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Minsky, Marvin (1975).  Patrick H. Winston, ed. <i>A Framework for Representing Knowledge</i> (The Psychology of Computer Vision ed.). New York: McGraw-Hill.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Framework+for+Representing+Knowledge&amp;rft.place=New+York&amp;rft.edition=The+Psychology+of+Computer+Vision&amp;rft.pub=McGraw-Hill&amp;rft.date=1975&amp;rft.aulast=Minsky&amp;rft.aufirst=Marvin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Rumelhart, David E. (1980). "Schemata: The Building Blocks of Cognition". <i>Theoretical Issues in Reading Comprehension</i> (Theoretical Issues in Reading Comprehension ed.). Hillsdale, NJ: Erlbaum. pp.&#160;33–58. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.4324%2F9781315107493-4">10.4324/9781315107493-4</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781315107493" title="Special:BookSources/9781315107493">9781315107493</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Schemata%3A+The+Building+Blocks+of+Cognition&amp;rft.btitle=Theoretical+Issues+in+Reading+Comprehension&amp;rft.place=Hillsdale%2C+NJ&amp;rft.pages=33-58&amp;rft.edition=Theoretical+Issues+in+Reading+Comprehension&amp;rft.pub=Erlbaum&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.4324%2F9781315107493-4&amp;rft.isbn=9781315107493&amp;rft.aulast=Rumelhart&amp;rft.aufirst=David+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">Schank, Rodger C.; Abelson, Robert P. (1977). <a rel="nofollow" class="external text" href="https://content.taylorfrancis.com/books/download?dac=C2007-0-06021-9&amp;isbn=9781134919666&amp;format=googlePreviewPdf"><i>Scripts, Plans, Goals and Understanding</i></a>. Hillsdale, NJ: Erlbaum.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Scripts%2C+Plans%2C+Goals+and+Understanding&amp;rft.place=Hillsdale%2C+NJ&amp;rft.pub=Erlbaum&amp;rft.date=1977&amp;rft.aulast=Schank&amp;rft.aufirst=Rodger+C.&amp;rft.au=Abelson%2C+Robert+P.&amp;rft_id=https%3A%2F%2Fcontent.taylorfrancis.com%2Fbooks%2Fdownload%3Fdac%3DC2007-0-06021-9%26isbn%3D9781134919666%26format%3DgooglePreviewPdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Taylor, S. E., &amp; Crocker, J. (1981). Schematic bases of social information processing. In E. T. Higgins, C. A. Herman, &amp; M. P. Zanna (Eds.), Social cognition: The Ontario Symposium on Personality and Social Psychology (pp. 89-134). Hillsdale, NJ: Erlbaum.</span>
+</li>
+<li id="cite_note-taberandlodge-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-taberandlodge_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Taber, Charles S.; Lodge, Milton (2006). "Motivated Skepticism in the Evaluation of Political Beliefs". <i>American Journal of Political Science</i>. <b>50</b> (3): 755–769. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.472.7064">10.1.1.472.7064</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1540-5907.2006.00214.x">10.1111/j.1540-5907.2006.00214.x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0092-5853">0092-5853</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Political+Science&amp;rft.atitle=Motivated+Skepticism+in+the+Evaluation+of+Political+Beliefs&amp;rft.volume=50&amp;rft.issue=3&amp;rft.pages=755-769&amp;rft.date=2006&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.472.7064&amp;rft.issn=0092-5853&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1540-5907.2006.00214.x&amp;rft.aulast=Taber&amp;rft.aufirst=Charles+S.&amp;rft.au=Lodge%2C+Milton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">O'Sullivan, Chris S.; Durso, Francis T. (1984). "Effect of schema-incongruent information on memory for stereotypical attributes". <i>Journal of Personality and Social Psychology</i>. <b>47</b> (1): 55–70. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2F0022-3514.47.1.55">10.1037/0022-3514.47.1.55</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/6747816">6747816</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Personality+and+Social+Psychology&amp;rft.atitle=Effect+of+schema-incongruent+information+on+memory+for+stereotypical+attributes&amp;rft.volume=47&amp;rft.issue=1&amp;rft.pages=55-70&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1037%2F0022-3514.47.1.55&amp;rft_id=info%3Apmid%2F6747816&amp;rft.aulast=O%27Sullivan&amp;rft.aufirst=Chris+S.&amp;rft.au=Durso%2C+Francis+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book">Piaget, Jean (2001).  Robert L. Campbell, ed. <i>Studies in Reflection Abstraction</i>. Sussex: Psychology Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84169-157-2" title="Special:BookSources/978-1-84169-157-2">978-1-84169-157-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Studies+in+Reflection+Abstraction&amp;rft.place=Sussex&amp;rft.pub=Psychology+Press&amp;rft.date=2001&amp;rft.isbn=978-1-84169-157-2&amp;rft.aulast=Piaget&amp;rft.aufirst=Jean&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">McLeod, S. A (2009). <a rel="nofollow" class="external text" href="http://www.simplypsychology.org/piaget.html">"Jean Piaget | Cognitive Theory"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jean+Piaget+%7C+Cognitive+Theory&amp;rft.date=2009&amp;rft.aulast=McLeod&amp;rft.aufirst=S.+A&amp;rft_id=http%3A%2F%2Fwww.simplypsychology.org%2Fpiaget.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sedikides, C.; Green, J. D. (2000). "On the self-protective nature of inconsistency/negativity management: Using the person memory paradigm to examine self-referent memory". <i>Journal of Personality and Social Psychology</i>. <b>79</b> (6): 906–92. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2F0022-3514.79.6.906">10.1037/0022-3514.79.6.906</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11138760">11138760</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Personality+and+Social+Psychology&amp;rft.atitle=On+the+self-protective+nature+of+inconsistency%2Fnegativity+management%3A+Using+the+person+memory+paradigm+to+examine+self-referent+memory&amp;rft.volume=79&amp;rft.issue=6&amp;rft.pages=906-92&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1037%2F0022-3514.79.6.906&amp;rft_id=info%3Apmid%2F11138760&amp;rft.aulast=Sedikides&amp;rft.aufirst=C.&amp;rft.au=Green%2C+J.+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sanitioso, R.; Kunda, Z.; Fong, G. T. (1990). "Motivated recruitment of autobiographical memories". <i>Journal of Personality and Social Psychology</i>. <b>59</b> (2): 229–41. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2F0022-3514.59.2.229">10.1037/0022-3514.59.2.229</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2213492">2213492</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Personality+and+Social+Psychology&amp;rft.atitle=Motivated+recruitment+of+autobiographical+memories&amp;rft.volume=59&amp;rft.issue=2&amp;rft.pages=229-41&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1037%2F0022-3514.59.2.229&amp;rft_id=info%3Apmid%2F2213492&amp;rft.aulast=Sanitioso&amp;rft.aufirst=R.&amp;rft.au=Kunda%2C+Z.&amp;rft.au=Fong%2C+G.+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bahrick, Harry P; Hall, Lynda K; Berger, Stephanie A (1996). "Accuracy and Distortion in Memory for High School Grades". <i>Psychological Science</i>. <b>7</b> (5): 265–271. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1467-9280.1996.tb00372.x">10.1111/j.1467-9280.1996.tb00372.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Psychological+Science&amp;rft.atitle=Accuracy+and+Distortion+in+Memory+for+High+School+Grades&amp;rft.volume=7&amp;rft.issue=5&amp;rft.pages=265-271&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1467-9280.1996.tb00372.x&amp;rft.aulast=Bahrick&amp;rft.aufirst=Harry+P&amp;rft.au=Hall%2C+Lynda+K&amp;rft.au=Berger%2C+Stephanie+A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Story, A. L. (1998). "Self-esteem and memory for favorable and unfavorable personality feedback". <i>Personality and Social Psychology Bulletin</i>. <b>24</b>: 51–64. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F0146167298241004">10.1177/0146167298241004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Personality+and+Social+Psychology+Bulletin&amp;rft.atitle=Self-esteem+and+memory+for+favorable+and+unfavorable+personality+feedback&amp;rft.volume=24&amp;rft.pages=51-64&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1177%2F0146167298241004&amp;rft.aulast=Story&amp;rft.aufirst=A.+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Swann, W. B.; Jr; Pelham, B. W. (2002). "Who wants out when the going gets good? Psychological investment and preference for self-verifying college roommates". <i>Journal of Self and Identity</i>. <b>1</b> (3): 219–233. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1080%2F152988602760124856">10.1080/152988602760124856</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Self+and+Identity&amp;rft.atitle=Who+wants+out+when+the+going+gets+good%3F+Psychological+investment+and+preference+for+self-verifying+college+roommates&amp;rft.volume=1&amp;rft.issue=3&amp;rft.pages=219-233&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1080%2F152988602760124856&amp;rft.aulast=Swann&amp;rft.aufirst=W.+B.&amp;rft.au=Jr&amp;rft.au=Pelham%2C+B.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Cox_et_al._(2012)-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cox_et_al._(2012)_27-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cox, William T. L.; Abramson, Lyn Y.; Devine, Patricia G.; Hollon, Steven D. (2012). <a rel="nofollow" class="external text" href="http://pps.sagepub.com/content/7/5/427.abstract">"Stereotypes, Prejudice, and Depression: The Integrated Perspective"</a>. <i><a href="/wiki/Perspectives_on_Psychological_Science" title="Perspectives on Psychological Science">Perspectives on Psychological Science</a></i>. <b>7</b> (5): 427–449. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F1745691612455204">10.1177/1745691612455204</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26168502">26168502</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Perspectives+on+Psychological+Science&amp;rft.atitle=Stereotypes%2C+Prejudice%2C+and+Depression%3A+The+Integrated+Perspective&amp;rft.volume=7&amp;rft.issue=5&amp;rft.pages=427-449&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1177%2F1745691612455204&amp;rft_id=info%3Apmid%2F26168502&amp;rft.aulast=Cox&amp;rft.aufirst=William+T.+L.&amp;rft.au=Abramson%2C+Lyn+Y.&amp;rft.au=Devine%2C+Patricia+G.&amp;rft.au=Hollon%2C+Steven+D.&amp;rft_id=http%3A%2F%2Fpps.sagepub.com%2Fcontent%2F7%2F5%2F427.abstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alleydog.com/glossary/definition.php?term=Self-Schema">"Psychology Glossary"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Psychology+Glossary&amp;rft_id=http%3A%2F%2Fwww.alleydog.com%2Fglossary%2Fdefinition.php%3Fterm%3DSelf-Schema&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Young, J. E. (1999) Cognitive therapy for personality disorders: A schema-focused approach. (rev ed.) Sarasota, FL: Professional Resources Press</span>
+</li>
+<li id="cite_note-young-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-young_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-young_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Young, Klosko &amp; Weishaar (2003), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=vScjGGgJEZgC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Schema Therapy: A Practitioner's Guide</a>. New York: The Guilford Press.</span>
+</li>
+<li id="cite_note-APA-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-APA_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-APA_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Young, Jeffery. <a rel="nofollow" class="external text" href="http://www.apa.org/pubs/videos/4310804.aspx">"Schema Therapy"</a>. <a href="/wiki/American_Psychological_Association" title="American Psychological Association">American Psychological Association</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Schema+Therapy&amp;rft.pub=American+Psychological+Association&amp;rft.aulast=Young&amp;rft.aufirst=Jeffery&amp;rft_id=http%3A%2F%2Fwww.apa.org%2Fpubs%2Fvideos%2F4310804.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation journal">Widmayer, Sharon Alayne (2002). "Schema Theory: An Introduction". <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.474.1592">10.1.1.474.1592</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Schema+Theory%3A+An+Introduction&amp;rft.date=2002&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.474.1592&amp;rft.aulast=Widmayer&amp;rft.aufirst=Sharon+Alayne&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation web">Bucci, Wilma (2010). <a rel="nofollow" class="external text" href="http://www.thereferentialprocess.org/theory/emotion-schemas">"Emotion Schemas"</a>. <i>thereferentialprocess.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=thereferentialprocess.org&amp;rft.atitle=Emotion+Schemas&amp;rft.date=2010&amp;rft.aulast=Bucci&amp;rft.aufirst=Wilma&amp;rft_id=http%3A%2F%2Fwww.thereferentialprocess.org%2Ftheory%2Femotion-schemas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchema+%28psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="World_view" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:World_view" title="Template:World view"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:World_view" title="Template talk:World view"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:World_view&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="World_view" style="font-size:114%;margin:0 4em"><a href="/wiki/World_view" title="World view">World view</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Related_terms" style="font-size:114%;margin:0 4em">Related terms</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basic_belief" title="Basic belief">Basic beliefs</a>/<a href="/wiki/Belief" title="Belief">Beliefs</a></li>
+<li><a href="/wiki/Collective_consciousness" title="Collective consciousness">Collective consciousness</a>/<a href="/wiki/Collective_unconscious" title="Collective unconscious">Collective unconscious</a></li>
+<li><a href="/wiki/Conceptual_system" title="Conceptual system">Conceptual system</a></li>
+<li><a href="/wiki/Context_(language_use)" title="Context (language use)">Context</a></li>
+<li><a href="/wiki/Convention_(norm)" title="Convention (norm)">Conventions</a></li>
+<li><a href="/wiki/Cultural_movement" title="Cultural movement">Cultural movement</a></li>
+<li><a href="/wiki/Epic_poetry" title="Epic poetry">Epic poetry</a>/<a href="/wiki/National_epic" title="National epic">National epics</a>/<a href="/wiki/Pan-national_epic" title="Pan-national epic">Pan-national epics</a></li>
+<li><a href="/wiki/Fact" title="Fact">Facts</a> and <a href="/wiki/Factoid" title="Factoid">factoids</a></li>
+<li><a href="/wiki/Framing_(social_sciences)" title="Framing (social sciences)">Framing</a></li>
+<li><a href="/wiki/Ideology" title="Ideology">Ideology</a></li>
+<li><a href="/wiki/Life_stance" title="Life stance">Life stance</a></li>
+<li><a href="/wiki/Lifestyle_(sociology)" title="Lifestyle (sociology)">Lifestyle</a></li>
+<li><a href="/wiki/Meme" title="Meme">Memes</a>/<a href="/wiki/Memeplex" title="Memeplex">Memeplex</a></li>
+<li><a href="/wiki/Mental_model" title="Mental model">Mental model</a></li>
+<li><a href="/wiki/Metanarrative" title="Metanarrative">Metanarrative</a></li>
+<li><a href="/wiki/Mindset" title="Mindset">Mindset</a></li>
+<li><a href="/wiki/Norm_(social)" class="mw-redirect" title="Norm (social)">Norms</a></li>
+<li><a href="/wiki/Paradigm" title="Paradigm">Paradigm</a></li>
+<li><a href="/wiki/Philosophical_theory" title="Philosophical theory">Philosophical theory</a></li>
+<li><a href="/wiki/Point_of_view_(philosophy)" title="Point of view (philosophy)">Point of view</a></li>
+<li><a href="/wiki/Presupposition" title="Presupposition">Presuppositions</a></li>
+<li><a href="/wiki/Reality_tunnel" title="Reality tunnel">Reality tunnel</a></li>
+<li><a href="/wiki/Received_view" class="mw-redirect" title="Received view">Received view</a></li>
+<li><a class="mw-selflink selflink">Schemata</a></li>
+<li><a href="/wiki/School_of_thought" title="School of thought">School of thought</a></li>
+<li><a href="/wiki/Set_(psychology)" title="Set (psychology)">Set</a></li>
+<li><a href="/wiki/Social_reality" title="Social reality">Social reality</a></li>
+<li><a href="/wiki/Theory_of_everything" title="Theory of everything">Theory of everything</a></li>
+<li><a href="/wiki/Umwelt" title="Umwelt">Umwelt</a></li>
+<li><a href="/wiki/Value_system" class="mw-redirect" title="Value system">Value system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Aspects" style="font-size:114%;margin:0 4em">Aspects</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:6em"><a href="/wiki/Bias" title="Bias">Biases</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_bias" title="Academic bias">Academic</a></li>
+<li><a href="/wiki/Attentional_bias" title="Attentional bias">Attentional</a></li>
+<li><a href="/wiki/Attitude_polarization" class="mw-redirect" title="Attitude polarization">Attitude polarization</a></li>
+<li><a href="/wiki/Belief_bias" title="Belief bias">Belief</a></li>
+<li><a href="/wiki/Cognitive_bias" title="Cognitive bias">Cognitive</a> (<a href="/wiki/List_of_cognitive_biases" title="List of cognitive biases">list</a>)</li>
+<li><a href="/wiki/Collective_narcissism" title="Collective narcissism">Collective narcissism</a></li>
+<li><a href="/wiki/Confirmation_bias" title="Confirmation bias">Confirmation</a></li>
+<li><a href="/wiki/Congruence_bias" title="Congruence bias">Congruence</a></li>
+<li><a href="/wiki/Cryptomnesia" title="Cryptomnesia">Cryptomnesia</a></li>
+<li><a href="/wiki/Cultural_bias" title="Cultural bias">Cultural</a></li>
+<li><a href="/wiki/Ethnocentrism" title="Ethnocentrism">Ethnocentrism</a></li>
+<li><a href="/wiki/Filter_bubble" title="Filter bubble">Filter bubble</a></li>
+<li><a href="/wiki/Homophily" title="Homophily">Homophily</a></li>
+<li><a href="/wiki/In-group_favoritism" title="In-group favoritism">In-group favoritism</a></li>
+<li><a href="/wiki/Magical_thinking" title="Magical thinking">Magical thinking</a></li>
+<li><a href="/wiki/Media_bias" title="Media bias">Media</a></li>
+<li><a href="/wiki/Observer-expectancy_effect" title="Observer-expectancy effect">Observer-expectancy</a></li>
+<li><a href="/wiki/Observational_error" title="Observational error">Observational error</a></li>
+<li><a href="/wiki/Selective_exposure_theory" title="Selective exposure theory">Selective exposure</a></li>
+<li><a href="/wiki/Selective_perception" title="Selective perception">Selective perception</a></li>
+<li><a href="/wiki/Self-deception" title="Self-deception">Self-deception</a></li>
+<li><a href="/wiki/Self-fulfilling_prophecy" title="Self-fulfilling prophecy">Self-fulfilling prophecy</a> (<a href="/wiki/Clever_Hans" title="Clever Hans">Clever Hans effect</a>, <a href="/wiki/Placebo" title="Placebo">placebo effect</a>, <a href="/wiki/Wishful_thinking" title="Wishful thinking">wishful thinking</a>)</li>
+<li><a href="/wiki/Status_quo_bias" title="Status quo bias">Status quo</a></li>
+<li><a href="/wiki/Stereotype" title="Stereotype">Stereotyping</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6em">Change and<br />maintenance</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Activism" title="Activism">Activism</a></li>
+<li><a href="/wiki/Argument" title="Argument">Argument</a></li>
+<li><a href="/wiki/Argumentum_ad_populum" title="Argumentum ad populum">Argumentum ad populum</a></li>
+<li><a href="/wiki/Attitude_change" title="Attitude change">Attitude change</a></li>
+<li><a href="/wiki/Censorship" title="Censorship">Censorship</a></li>
+<li><a href="/wiki/Charisma" title="Charisma">Charisma</a></li>
+<li><a href="/wiki/Circular_reporting" title="Circular reporting">Circular reporting</a></li>
+<li><a href="/wiki/Cognitive_dissonance" title="Cognitive dissonance">Cognitive dissonance</a></li>
+<li><a href="/wiki/Critical_thinking" title="Critical thinking">Critical thinking</a></li>
+<li><a href="/wiki/Crowd_manipulation" title="Crowd manipulation">Crowd manipulation</a></li>
+<li><a href="/wiki/Cultural_dissonance" title="Cultural dissonance">Cultural dissonance</a></li>
+<li><a href="/wiki/Deprogramming" title="Deprogramming">Deprogramming</a></li>
+<li><a href="/wiki/Echo_chamber_(media)" title="Echo chamber (media)">Echo chamber</a></li>
+<li><a href="/wiki/Education" title="Education">Education</a> (<a href="/wiki/Religious_education" title="Religious education">religious</a>, <a href="/wiki/Values_education" title="Values education">values</a>)</li>
+<li><a href="/wiki/Euphemism" title="Euphemism">Euphemism</a></li>
+<li><a href="/wiki/Excommunication" title="Excommunication">Excommunication</a></li>
+<li><a href="/wiki/Fearmongering" title="Fearmongering">Fearmongering</a></li>
+<li><a href="/wiki/Historical_revisionism_(negationism)" class="mw-redirect" title="Historical revisionism (negationism)">Historical revisionism</a></li>
+<li><a href="/wiki/Ideological_repression" title="Ideological repression">Ideological repression</a></li>
+<li><a href="/wiki/Indoctrination" title="Indoctrination">Indoctrination</a></li>
+<li><a href="/wiki/Media_manipulation" title="Media manipulation">Media manipulation</a></li>
+<li><a href="/wiki/Media_regulation" title="Media regulation">Media regulation</a></li>
+<li><a href="/wiki/Brainwashing" title="Brainwashing">Mind control</a></li>
+<li><a href="/wiki/Missionary" title="Missionary">Missionaries</a></li>
+<li><a href="/wiki/Moral_entrepreneur" title="Moral entrepreneur">Moral entrepreneurship</a></li>
+<li><a href="/wiki/Persuasion" title="Persuasion">Persuasion</a></li>
+<li><a href="/wiki/Polite_fiction" title="Polite fiction">Polite fiction</a></li>
+<li><a href="/wiki/Political_engineering" title="Political engineering">Political engineering</a></li>
+<li><a href="/wiki/Propaganda" title="Propaganda">Propaganda</a></li>
+<li><a href="/wiki/Propaganda_model" title="Propaganda model">Propaganda model</a></li>
+<li><a href="/wiki/Proselytism" title="Proselytism">Proselytism</a></li>
+<li><a href="/wiki/Psychological_manipulation" title="Psychological manipulation">Psychological manipulation</a></li>
+<li><a href="/wiki/Psychological_warfare" title="Psychological warfare">Psychological warfare</a></li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Religious conversion</a> (<a href="/wiki/Forced_conversion" title="Forced conversion">forced</a>)</li>
+<li><a href="/wiki/Religious_persecution" title="Religious persecution">Religious persecution</a></li>
+<li><a href="/wiki/Religious_uniformity" title="Religious uniformity">Religious uniformity</a></li>
+<li><a href="/wiki/Revolution" title="Revolution">Revolutions</a></li>
+<li><a href="/wiki/Rhetoric" title="Rhetoric">Rhetoric</a></li>
+<li><a href="/wiki/Self-censorship" title="Self-censorship">Self-censorship</a></li>
+<li><a href="/wiki/Social_change" title="Social change">Social change</a></li>
+<li><a href="/wiki/Social_control" title="Social control">Social control</a></li>
+<li><a href="/wiki/Social_engineering_(political_science)" title="Social engineering (political science)">Social engineering</a></li>
+<li><a href="/wiki/Social_influence" title="Social influence">Social influence</a></li>
+<li><a href="/wiki/Social_progress" class="mw-redirect" title="Social progress">Social progress</a></li>
+<li><a href="/wiki/Suppression_of_dissent" class="mw-redirect" title="Suppression of dissent">Suppression of dissent</a></li>
+<li><a href="/wiki/Systemic_bias" title="Systemic bias">Systemic bias</a></li>
+<li><a href="/wiki/Woozle_effect" title="Woozle effect">Woozle effect</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6em"><a href="/wiki/Culture" title="Culture">Culture</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropology" title="Anthropology">Anthropology</a> (<a href="/wiki/Cultural_anthropology" title="Cultural anthropology">cultural</a>, <a href="/wiki/Social_anthropology" title="Social anthropology">social</a>)</li>
+<li><a href="/wiki/Calendar" title="Calendar">Calendars</a></li>
+<li><a href="/wiki/Ceremony" title="Ceremony">Ceremonies</a></li>
+<li><a href="/wiki/Coronation" title="Coronation">Coronations</a></li>
+<li><a href="/wiki/Cross-cultural_psychology" title="Cross-cultural psychology">Cross-cultural psychology</a></li>
+<li><a href="/wiki/Cultural_psychology" title="Cultural psychology">Cultural psychology</a></li>
+<li><a href="/wiki/Doctrine" title="Doctrine">Doctrine</a></li>
+<li><a href="/wiki/Employment" title="Employment">Employment</a>/<a href="/wiki/Serfdom" title="Serfdom">Serfdom</a>/<a href="/wiki/Slavery" title="Slavery">Slavery</a></li>
+<li><a href="/wiki/Family" title="Family">Families</a></li>
+<li><a href="/wiki/Funeral" title="Funeral">Funerals</a>/<a href="/wiki/Burial" title="Burial">Burial</a></li>
+<li><a href="/wiki/Game" title="Game">Games</a></li>
+<li><a href="/wiki/Holiday" title="Holiday">Holidays</a></li>
+<li><a href="/wiki/Hygiene" title="Hygiene">Hygiene</a> (<a href="/wiki/Ritual_purification" title="Ritual purification">ritual</a>)</li>
+<li><a href="/wiki/Identity_(philosophy)" title="Identity (philosophy)">Identity (philosophy)</a> (<a href="/wiki/Cultural_identity" title="Cultural identity">cultural</a>)</li>
+<li><a href="/wiki/Institution" title="Institution">Institutions</a></li>
+<li><a href="/wiki/Liminality" title="Liminality">Liminality</a></li>
+<li><a href="/wiki/Liturgy" title="Liturgy">Liturgy</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Myth_and_ritual" title="Myth and ritual">Myth and ritual</a></li>
+<li><a href="/wiki/Oath" title="Oath">Oaths</a></li>
+<li><a href="/wiki/Pilgrimage" title="Pilgrimage">Pilgrimages</a></li>
+<li><a href="/wiki/Play_(activity)" title="Play (activity)">Play</a></li>
+<li><a href="/wiki/Rite_of_passage" title="Rite of passage">Rites of passage</a> (<a href="/wiki/Secular_coming-of-age_ceremony" title="Secular coming-of-age ceremony">secular</a>)</li>
+<li><a href="/wiki/Ritual" title="Ritual">Rituals</a></li>
+<li><a href="/wiki/Social_class" title="Social class">Social class</a>/<a href="/wiki/Social_status" title="Social status">Social status</a>/<a href="/wiki/Caste" title="Caste">Caste</a></li>
+<li><a href="/wiki/Symbol" title="Symbol">Symbols</a></li>
+<li><a href="/wiki/Symbolic_boundaries" title="Symbolic boundaries">Symbolic boundaries</a></li>
+<li><a href="/wiki/Worship" title="Worship">Worship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6em"><a href="/wiki/Groupthink" title="Groupthink">Groupthink</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abilene_paradox" title="Abilene paradox">Abilene paradox</a></li>
+<li><a href="/wiki/Bandwagon_effect" title="Bandwagon effect">Bandwagon effect</a></li>
+<li><a href="/wiki/Collective" title="Collective">Collectives</a></li>
+<li><a href="/wiki/Collective_behavior" title="Collective behavior">Collective behavior</a> (<a href="/wiki/Collective_animal_behavior" title="Collective animal behavior">animal</a>)</li>
+<li><a href="/wiki/Collective_effervescence" title="Collective effervescence">Collective effervescence</a></li>
+<li><a href="/wiki/Collective_intelligence" title="Collective intelligence">Collective intelligence</a></li>
+<li><a href="/wiki/Conformity" title="Conformity">Conformity</a></li>
+<li><a href="/wiki/Consensus_theory" title="Consensus theory">Consensus theory</a></li>
+<li><a href="/wiki/Crowd_psychology" title="Crowd psychology">Crowd psychology</a></li>
+<li><a href="/wiki/Cult" title="Cult">Cults</a></li>
+<li><a href="/wiki/Culture-bound_syndrome" title="Culture-bound syndrome">Culture-bound syndromes</a></li>
+<li><a href="/wiki/Deindividuation" title="Deindividuation">Deindividuation</a></li>
+<li><a href="/wiki/Democracy" title="Democracy">Democracy</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Emotional_contagion" title="Emotional contagion">Emotional contagion</a></li>
+<li><a href="/wiki/Entitativity" title="Entitativity">Entitativity</a></li>
+<li><a href="/wiki/False-consensus_effect" class="mw-redirect" title="False-consensus effect">False-consensus effect</a></li>
+<li><a href="/wiki/Folie_%C3%A0_deux" title="Folie à deux">Folie à deux</a></li>
+<li><a href="/wiki/Group_action_(sociology)" title="Group action (sociology)">Group action</a></li>
+<li><a href="/wiki/Group_dynamics" title="Group dynamics">Group dynamics</a></li>
+<li><a href="/wiki/Group_emotion" title="Group emotion">Group emotion</a></li>
+<li><a href="/wiki/Group_polarization" title="Group polarization">Group polarization</a></li>
+<li><a href="/wiki/Groupshift" title="Groupshift">Groupshift</a></li>
+<li><a href="/wiki/Herd_behavior" title="Herd behavior">Herd behavior</a></li>
+<li><a href="/wiki/Holism" title="Holism">Holism</a></li>
+<li><a href="/wiki/Hysterical_contagion" title="Hysterical contagion">Hysterical contagion</a></li>
+<li><a href="/wiki/Information_cascade" title="Information cascade">Information cascade</a></li>
+<li><a href="/wiki/Invisible_hand" title="Invisible hand">Invisible hand</a></li>
+<li><a href="/wiki/Lynching" title="Lynching">Lynching</a></li>
+<li><a href="/wiki/Majoritarianism" title="Majoritarianism">Majoritarianism</a>/<a href="/wiki/Ochlocracy" title="Ochlocracy">Ochlocracy</a></li>
+<li><a href="/wiki/Mass_action_(sociology)" title="Mass action (sociology)">Mass action</a></li>
+<li><a href="/wiki/Mass_hysteria" class="mw-redirect" title="Mass hysteria">Mass hysteria</a></li>
+<li><a href="/wiki/Mass_psychogenic_illness" title="Mass psychogenic illness">Mass psychogenic illness</a></li>
+<li><a href="/wiki/Milieu_control" title="Milieu control">Milieu control</a></li>
+<li><a href="/wiki/Mobbing" title="Mobbing">Mobbing</a></li>
+<li><a href="/wiki/Moral_panic" title="Moral panic">Moral panic</a></li>
+<li><a href="/wiki/Organization" title="Organization">Organizations</a></li>
+<li><a href="/wiki/Peer_pressure" title="Peer pressure">Peer pressure</a></li>
+<li><a href="/wiki/Pluralistic_ignorance" title="Pluralistic ignorance">Pluralistic ignorance</a></li>
+<li><a href="/wiki/Political_correctness" title="Political correctness">Political correctness</a></li>
+<li><a href="/wiki/Pseudoconsensus" title="Pseudoconsensus">Pseudoconsensus</a></li>
+<li><a href="/wiki/Scapegoating" title="Scapegoating">Scapegoating</a></li>
+<li><a href="/wiki/Self-organization" title="Self-organization">Self-organization</a></li>
+<li><a href="/wiki/Social_actions" title="Social actions">Social action</a></li>
+<li><a href="/wiki/Social_behavior" title="Social behavior">Social behavior</a></li>
+<li><a href="/wiki/Social_emotions" title="Social emotions">Social emotions</a></li>
+<li><a href="/wiki/Social_exclusion" title="Social exclusion">Social exclusion</a></li>
+<li><a href="/wiki/Social_facilitation" title="Social facilitation">Social facilitation</a> (<a href="/wiki/Social_facilitation_in_animals" title="Social facilitation in animals">animal</a>)</li>
+<li><a href="/wiki/Social_group" title="Social group">Social group</a></li>
+<li><a href="/wiki/Social_proof" title="Social proof">Social proof</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">Social psychology</a></li>
+<li><a href="/wiki/Sociology" title="Sociology">Sociology</a></li>
+<li><a href="/wiki/Spontaneous_order" title="Spontaneous order">Spontaneous order</a></li>
+<li><a href="/wiki/Status_quo" title="Status quo">Status quo</a></li>
+<li><a href="/wiki/Stigmergy" title="Stigmergy">Stigmergy</a></li>
+<li><a href="/wiki/Swarm_behaviour" title="Swarm behaviour">Swarm behaviour</a></li>
+<li><a href="/wiki/System_justification" title="System justification">System justification</a></li>
+<li><a href="/wiki/Viral_phenomenon" title="Viral phenomenon">Viral phenomena</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6em"><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Axiom" title="Axiom">Axioms</a> (<a href="/wiki/Tacit_assumption" title="Tacit assumption">tacit assumptions</a>)</li>
+<li><a href="/wiki/Conceptual_framework" title="Conceptual framework">Conceptual framework</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a> (<a href="/wiki/Outline_of_epistemology" title="Outline of epistemology">outline</a>)</li>
+<li><a href="/wiki/Evidence" title="Evidence">Evidence</a> (<a href="/wiki/Anecdotal_evidence" title="Anecdotal evidence">anecdotal</a>, <a href="/wiki/Scientific_evidence" title="Scientific evidence">scientific</a>)</li>
+<li><a href="/wiki/Explanation" title="Explanation">Explanations</a></li>
+<li><a href="/wiki/Faith" title="Faith">Faith</a> (<a href="/wiki/Fideism" title="Fideism">fideism</a>)</li>
+<li><a href="/wiki/Gnosis" title="Gnosis">Gnosis</a></li>
+<li><a href="/wiki/Intuition" title="Intuition">Intuition</a></li>
+<li><a href="/wiki/Meaning-making" title="Meaning-making">Meaning-making</a></li>
+<li><a href="/wiki/Memory" title="Memory">Memory</a></li>
+<li><a href="/wiki/Metaknowledge" title="Metaknowledge">Metaknowledge</a></li>
+<li><a href="/wiki/Methodology" title="Methodology">Methodology</a></li>
+<li><a href="/wiki/Observation" title="Observation">Observation</a></li>
+<li><a href="/wiki/Observational_learning" title="Observational learning">Observational learning</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Reason" title="Reason">Reasoning</a> (<a href="/wiki/Fallacy" title="Fallacy">fallacious</a>, <a href="/wiki/Logic" title="Logic">logic</a>)</li>
+<li><a href="/wiki/Revelation" title="Revelation">Revelation</a></li>
+<li><a href="/wiki/Testimony" title="Testimony">Testimony</a></li>
+<li><a href="/wiki/Tradition" title="Tradition">Tradition</a> (<a href="/wiki/Folklore" title="Folklore">folklore</a>)</li>
+<li><a href="/wiki/Truth" title="Truth">Truth</a> (<a href="/wiki/Consensus_theory_of_truth" title="Consensus theory of truth">consensus theory</a>, <a href="/wiki/Criteria_of_truth" title="Criteria of truth">criteria</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6em"><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Etiology" title="Etiology">Ætiology</a></li>
+<li><a href="/wiki/Afterlife" title="Afterlife">Afterlife</a></li>
+<li><a href="/wiki/Anima_mundi" title="Anima mundi">Anima mundi</a></li>
+<li><a href="/wiki/Being" title="Being">Being</a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Concept" title="Concept">Concepts</a></li>
+<li><a href="/wiki/Consciousness" title="Consciousness">Consciousness</a> (<a href="/wiki/Mind%E2%80%93body_problem" title="Mind–body problem">mind–body problem</a>)</li>
+<li><a href="/wiki/Cosmogony" title="Cosmogony">Cosmogony</a></li>
+<li><a href="/wiki/Cosmology" title="Cosmology">Cosmology</a> (<a href="/wiki/Religious_cosmology" title="Religious cosmology">religious</a>)</li>
+<li><a href="/wiki/Creation_myth" title="Creation myth">Creation myth</a></li>
+<li><a href="/wiki/Deity" title="Deity">Deities</a> (<a href="/wiki/Existence_of_God" title="Existence of God">existence</a>)</li>
+<li><a href="/wiki/Destiny" title="Destiny">Destiny</a></li>
+<li><a href="/wiki/Eschatology" title="Eschatology">Eschatology</a></li>
+<li><a href="/wiki/Everything" title="Everything">Everything</a>/<a href="/wiki/Nothing" title="Nothing">Nothing</a></li>
+<li><a href="/wiki/Evolution" title="Evolution">Evolution</a></li>
+<li><a href="/wiki/Existence" title="Existence">Existence</a></li>
+<li><a href="/wiki/Fiction" title="Fiction">Fiction</a>/<a href="/wiki/Non-fiction" title="Non-fiction">Non-fiction</a></li>
+<li><a href="/wiki/Free_will" title="Free will">Free will</a></li>
+<li><a href="/wiki/Future" title="Future">Future</a></li>
+<li><a href="/wiki/History" title="History">History</a></li>
+<li><a href="/wiki/Idea" title="Idea">Ideas</a></li>
+<li><a href="/wiki/Idios_kosmos" title="Idios kosmos">Idios kosmos</a></li>
+<li><a href="/wiki/Illusion" title="Illusion">Illusions</a></li>
+<li><a href="/wiki/Incarnation" title="Incarnation">Incarnation</a></li>
+<li><a href="/wiki/Information" title="Information">Information</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Magic_(paranormal)" class="mw-redirect" title="Magic (paranormal)">Magic</a></li>
+<li><a href="/wiki/Matter_(philosophy)" title="Matter (philosophy)">Matter</a></li>
+<li><a href="/wiki/Miracle" title="Miracle">Miracles</a></li>
+<li><a href="/wiki/Mythology" class="mw-redirect" title="Mythology">Mythology</a> (<a href="/wiki/Comparative_mythology" title="Comparative mythology">comparative</a>)</li>
+<li><a href="/wiki/National_myth" title="National myth">National mythoi</a></li>
+<li><a href="/wiki/Nature" title="Nature">Nature</a> (<a href="/wiki/Nature_(philosophy)" title="Nature (philosophy)">philosophical</a>)</li>
+<li><a href="/wiki/Ontology" title="Ontology">Ontology</a></li>
+<li><a href="/wiki/Origin_myth" title="Origin myth">Origin myths</a> (<a href="/wiki/Political_myth" title="Political myth">political myths</a>)</li>
+<li><a href="/wiki/Otherworld" title="Otherworld">Otherworlds</a> (<a href="/wiki/Axis_mundi" title="Axis mundi">axes mundi</a>)</li>
+<li><a href="/wiki/Problem_of_evil" title="Problem of evil">Problem of evil</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a> (<a href="/wiki/Natural_philosophy" title="Natural philosophy">natural philosophy</a>)</li>
+<li><a href="/wiki/Reality" title="Reality">Reality</a></li>
+<li><a href="/wiki/Soul" title="Soul">Souls</a></li>
+<li><a href="/wiki/Spirit" title="Spirit">Spirit</a></li>
+<li><a href="/wiki/Supernatural" title="Supernatural">Supernature</a></li>
+<li><a href="/wiki/Teleology" title="Teleology">Teleology</a></li>
+<li><a href="/wiki/Theology" title="Theology">Theology</a></li>
+<li><a href="/wiki/Time" title="Time">Time</a></li>
+<li><a href="/wiki/Unobservable" title="Unobservable">Unobservables</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6em"><a href="/wiki/Axiology" title="Axiology">Value</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aesthetics" title="Aesthetics">Æsthetics</a></li>
+<li><a href="/wiki/Alms" title="Alms">Almsgiving</a>/<a href="/wiki/Charity_(practice)" title="Charity (practice)">Charity</a></li>
+<li><a href="/wiki/Altruism" title="Altruism">Altruism</a></li>
+<li><a href="/wiki/Autonomy" title="Autonomy">Autonomy</a></li>
+<li><a href="/wiki/Beauty" title="Beauty">Beauty</a></li>
+<li><a href="/wiki/Code_of_conduct" title="Code of conduct">Codes of conduct</a></li>
+<li><a href="/wiki/Comedy" title="Comedy">Comedy</a></li>
+<li><a href="/wiki/Common_good" title="Common good">Common good</a></li>
+<li><a href="/wiki/Conscience" title="Conscience">Conscience</a></li>
+<li><a href="/wiki/Consent" title="Consent">Consent</a></li>
+<li><a href="/wiki/Creativity" title="Creativity">Creativity</a></li>
+<li><a href="/wiki/Disgust" title="Disgust">Disgust</a></li>
+<li><a href="/wiki/Duty" title="Duty">Duty</a></li>
+<li><a href="/wiki/Economics" title="Economics">Economics</a></li>
+<li><a href="/wiki/Ecstasy_(philosophy)" title="Ecstasy (philosophy)">Ecstasy</a> (<a href="/wiki/Ecstasy_(emotion)" title="Ecstasy (emotion)">emotional</a>, <a href="/wiki/Religious_ecstasy" title="Religious ecstasy">religious</a>)</li>
+<li><a href="/wiki/Elegance" title="Elegance">Elegance</a></li>
+<li><a href="/wiki/Emotion" title="Emotion">Emotions</a> (<a href="/wiki/Aesthetic_emotions" title="Aesthetic emotions">æsthetic</a>)</li>
+<li><a href="/wiki/Entertainment" title="Entertainment">Entertainment</a></li>
+<li><a href="/wiki/Eroticism" title="Eroticism">Eroticism</a></li>
+<li><a href="/wiki/Ethics" title="Ethics">Ethics</a></li>
+<li><a href="/wiki/Etiquette" title="Etiquette">Étiquette</a></li>
+<li><a href="/wiki/Family_values" title="Family values">Family values</a></li>
+<li><a href="/wiki/Food_and_drink_prohibitions" title="Food and drink prohibitions">Food and drink prohibitions</a> (<a href="/wiki/Unclean_animal" title="Unclean animal">unclean animals</a>)</li>
+<li><a href="/wiki/Golden_Rule" title="Golden Rule">Golden Rule</a></li>
+<li><a href="/wiki/Guilt_(emotion)" title="Guilt (emotion)">Guilt</a>/<a href="/wiki/Culpability" title="Culpability">Culpability</a></li>
+<li><a href="/wiki/Happiness" title="Happiness">Happiness</a></li>
+<li><a href="/wiki/Harmony" title="Harmony">Harmony</a></li>
+<li><a href="/wiki/Honour" title="Honour">Honour</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Judgement" title="Judgement">Judgement</a></li>
+<li><a href="/wiki/Justice" title="Justice">Justice</a></li>
+<li><a href="/wiki/Law" title="Law">Laws</a> (<a href="/wiki/Jurisprudence" title="Jurisprudence">jurisprudence</a>, <a href="/wiki/Religious_law" title="Religious law">religious</a>)</li>
+<li><a href="/wiki/Liberty" title="Liberty">Liberty</a> (<a href="/wiki/Political_freedom" title="Political freedom">political freedom</a>)</li>
+<li><a href="/wiki/Love" title="Love">Love</a></li>
+<li><a href="/wiki/Magnificence_(history_of_ideas)" title="Magnificence (history of ideas)">Magnificence</a></li>
+<li><a href="/wiki/Maxim_(philosophy)" title="Maxim (philosophy)">Maxims</a></li>
+<li><a href="/wiki/Meaning_of_life" title="Meaning of life">Meaning of life</a></li>
+<li><a href="/wiki/Morality" title="Morality">Morality</a> (<a href="/wiki/Public_morality" title="Public morality">public</a>)</li>
+<li><a href="/wiki/Obligation" title="Obligation">Obligations</a></li>
+<li><a href="/wiki/Peace" title="Peace">Peace</a></li>
+<li><a href="/wiki/Piety" title="Piety">Piety</a></li>
+<li><a href="/wiki/Praxeology" title="Praxeology">Praxeology</a></li>
+<li><a href="/wiki/Principle" title="Principle">Principles</a></li>
+<li><a href="/wiki/Punishment" title="Punishment">Punishment</a></li>
+<li><a href="/wiki/Quality_(philosophy)" title="Quality (philosophy)">Qualities</a></li>
+<li><a href="/wiki/Repentance" title="Repentance">Repentance</a></li>
+<li><a href="/wiki/Reverence_(emotion)" title="Reverence (emotion)">Reverence</a></li>
+<li><a href="/wiki/Rights" title="Rights">Rights</a></li>
+<li><a href="/wiki/Human_sexuality" title="Human sexuality">Sexuality</a> (<a href="/wiki/Sexual_ethics" title="Sexual ethics">ethics</a>)</li>
+<li><a href="/wiki/Sin" title="Sin">Sin</a></li>
+<li><a href="/wiki/Social_stigma" title="Social stigma">Social stigma</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Style_(visual_arts)" title="Style (visual arts)">Styles</a></li>
+<li><a href="/wiki/Sublime_(philosophy)" title="Sublime (philosophy)">Sublime, The</a></li>
+<li><a href="/wiki/Suffering" title="Suffering">Suffering</a></li>
+<li><a href="/wiki/Sympathy" title="Sympathy">Sympathy</a></li>
+<li><a href="/wiki/Taboo" title="Taboo">Taboo</a></li>
+<li><a href="/wiki/Taste_(sociology)" title="Taste (sociology)">Taste</a></li>
+<li><a href="/wiki/Theodicy" title="Theodicy">Theodicy</a></li>
+<li><a href="/wiki/Trust_(social_sciences)" class="mw-redirect" title="Trust (social sciences)">Trust</a></li>
+<li><a href="/wiki/Unspoken_rule" title="Unspoken rule">Unspoken rules</a></li>
+<li><a href="/wiki/Virtue" title="Virtue">Virtues</a> and <a href="/wiki/Vice" title="Vice">Vices</a></li>
+<li><a href="/wiki/Work_of_art" title="Work of art">Works of art</a></li>
+<li><a href="/wiki/Wrongdoing" title="Wrongdoing">Wrongdoing</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Examples" style="font-size:114%;margin:0 4em">Examples</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:8em"><a href="/wiki/Attitude_(psychology)" title="Attitude (psychology)">Attitudes</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Optimism" title="Optimism">Optimism</a></li>
+<li><a href="/wiki/Pessimism" title="Pessimism">Pessimism</a></li>
+<li><a href="/wiki/Recluse" title="Recluse">Reclusion</a></li>
+<li><a href="/wiki/Weltschmerz" title="Weltschmerz">Weltschmerz</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em">Economic and<br />political <a href="/wiki/Ideology" title="Ideology">ideologies</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Authoritarianism" title="Authoritarianism">Authoritarianism</a></li>
+<li><a href="/wiki/Anarchism" title="Anarchism">Anarchism</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li>
+<li><a href="/wiki/Christian_democracy" title="Christian democracy">Christian democracy</a></li>
+<li><a href="/wiki/Collectivism" title="Collectivism">Collectivism</a></li>
+<li><a href="/wiki/Colonialism" title="Colonialism">Colonialism</a></li>
+<li><a href="/wiki/Communalism" title="Communalism">Communalism</a></li>
+<li><a href="/wiki/Communism" title="Communism">Communism</a></li>
+<li><a href="/wiki/Communitarianism" title="Communitarianism">Communitarianism</a></li>
+<li><a href="/wiki/Conservatism" title="Conservatism">Conservatism</a></li>
+<li><a href="/wiki/Constitutionalism" title="Constitutionalism">Constitutionalism</a></li>
+<li><a href="/wiki/Distributism" title="Distributism">Distributism</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Extremism" title="Extremism">Extremism</a></li>
+<li><a href="/wiki/Fanaticism" title="Fanaticism">Fanaticism</a></li>
+<li><a href="/wiki/Fascism" title="Fascism">Fascism</a></li>
+<li><a href="/wiki/Feminism" title="Feminism">Feminism</a></li>
+<li><a href="/wiki/Fundamentalism" title="Fundamentalism">Fundamentalism</a></li>
+<li><a href="/wiki/Globalism" title="Globalism">Globalism</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Imperialism" title="Imperialism">Imperialism</a></li>
+<li><a href="/wiki/Individualism" title="Individualism">Individualism</a></li>
+<li><a href="/wiki/Industrialism" class="mw-redirect" title="Industrialism">Industrialism</a></li>
+<li><a href="/wiki/Intellectualism" title="Intellectualism">Intellectualism</a></li>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Liberalism" title="Liberalism">Liberalism</a></li>
+<li><a href="/wiki/Libertarianism" title="Libertarianism">Libertarianism</a></li>
+<li><a href="/wiki/Masculism" title="Masculism">Masculism</a></li>
+<li><a href="/wiki/Militarism" title="Militarism">Militarism</a></li>
+<li><a href="/wiki/Monarchism" title="Monarchism">Monarchism</a></li>
+<li><a href="/wiki/Nationalism" title="Nationalism">Nationalism</a></li>
+<li><a href="/wiki/Pacifism" title="Pacifism">Pacifism</a></li>
+<li><a href="/wiki/Progressivism" title="Progressivism">Progressivism</a></li>
+<li><a href="/wiki/Political_radicalism" title="Political radicalism">Radicalism</a></li>
+<li><a href="/wiki/Reformism" title="Reformism">Reformism</a></li>
+<li><a href="/wiki/Republicanism" title="Republicanism">Republicanism</a></li>
+<li><a href="/wiki/Sentientism" title="Sentientism">Sentientism</a></li>
+<li><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></li>
+<li><a href="/wiki/Socialism" title="Socialism">Socialism</a></li>
+<li><a href="/wiki/Utilitarianism" title="Utilitarianism">Utilitarianism</a></li>
+<li><a href="/wiki/Veganism" title="Veganism">Veganism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em"><a href="/wiki/Religion" title="Religion">Religions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/African_traditional_religions" class="mw-redirect" title="African traditional religions">African traditional religions</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD" class="mw-redirect" title="Bahá&#39;í">Bahá'í</a></li>
+<li><a href="/wiki/Buddhism" title="Buddhism">Buddhism</a></li>
+<li><a href="/wiki/Cao_Dai" class="mw-redirect" title="Cao Dai">Cao Dai</a></li>
+<li><a href="/wiki/Cheondoism" title="Cheondoism">Cheondoism</a></li>
+<li><a href="/wiki/Chinese_traditional_religion" class="mw-redirect" title="Chinese traditional religion">Chinese traditional religions</a></li>
+<li><a href="/wiki/Christianity" title="Christianity">Christianity</a></li>
+<li><a href="/wiki/Ethnic_religion" title="Ethnic religion">Ethnic religions</a></li>
+<li><a href="/wiki/H%C3%B2a_H%E1%BA%A3o" title="Hòa Hảo">Hòa Hảo</a></li>
+<li><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a></li>
+<li><a href="/wiki/Islam" title="Islam">Islam</a></li>
+<li><a href="/wiki/Jainism" title="Jainism">Jainism</a></li>
+<li><a href="/wiki/Judaism" title="Judaism">Judaism</a></li>
+<li><a href="/wiki/Korean_shamanism" title="Korean shamanism">Korean shamanism</a></li>
+<li><a href="/wiki/Neo-Paganism" class="mw-redirect" title="Neo-Paganism">Neo-Paganism</a></li>
+<li><a href="/wiki/Rastafarianism" class="mw-redirect" title="Rastafarianism">Rastafarianism</a></li>
+<li><a href="/wiki/Secular" class="mw-redirect" title="Secular">Secular</a>/<a href="/wiki/Nonreligious" class="mw-redirect" title="Nonreligious">Nonreligious</a>/<a href="/wiki/Agnostic" class="mw-redirect" title="Agnostic">Agnostic</a>/<a href="/wiki/Atheist" class="mw-redirect" title="Atheist">Atheist</a></li>
+<li><a href="/wiki/Shinto" title="Shinto">Shinto</a></li>
+<li><a href="/wiki/Sikhism" title="Sikhism">Sikhism</a></li>
+<li><a href="/wiki/Spiritism" title="Spiritism">Spiritism</a></li>
+<li><a href="/wiki/Taoism" title="Taoism">Taoism</a></li>
+<li><a href="/wiki/Tenrikyo" title="Tenrikyo">Tenrikyo</a></li>
+<li><a href="/wiki/Tenriism" class="mw-redirect" title="Tenriism">Tenriism</a></li>
+<li><a href="/wiki/Unitarian_Universalism" title="Unitarian Universalism">Unitarian Universalism</a></li>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em">Schools of<br /><a href="/wiki/Philosophy" title="Philosophy">philosophy</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agriculturalism" title="Agriculturalism">Agriculturalism</a></li>
+<li><a href="/wiki/Aristotelianism" title="Aristotelianism">Aristotelianism</a></li>
+<li><a href="/wiki/Atomism" title="Atomism">Atomism</a></li>
+<li><a href="/wiki/Averroism" title="Averroism">Averroism</a></li>
+<li><a href="/wiki/Cartesianism" title="Cartesianism">Cartesianism</a></li>
+<li><a href="/wiki/Charvaka" title="Charvaka">Cārvāka</a></li>
+<li><a href="/wiki/Collectivism" title="Collectivism">Collectivism</a></li>
+<li><a href="/wiki/Confucianism" title="Confucianism">Confucianism</a>/<a href="/wiki/New_Confucianism" title="New Confucianism">New Confucianism</a></li>
+<li><a href="/wiki/Critical_theory" title="Critical theory">Critical theory</a></li>
+<li><a href="/wiki/Cynicism_(philosophy)" title="Cynicism (philosophy)">Cynicism</a></li>
+<li><a href="/wiki/Cyrenaics" title="Cyrenaics">Cyrenaics</a></li>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Dualistic_cosmology" title="Dualistic cosmology">Dualism</a></li>
+<li><a href="/wiki/Eleatics" title="Eleatics">Eleatics</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Eretrian_school" title="Eretrian school">Eretrian school</a></li>
+<li><a href="/wiki/Epicureanism" title="Epicureanism">Epicureanism</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialism</a></li>
+<li><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a></li>
+<li><a href="/wiki/Hedonism" title="Hedonism">Hedonism</a></li>
+<li><a href="/wiki/Hegelianism" title="Hegelianism">Hegelianism</a></li>
+<li><a href="/wiki/Hermeneutics" title="Hermeneutics">Hermeneutics</a></li>
+<li><a href="/wiki/Historicism" title="Historicism">Historicism</a>/<a href="/wiki/New_Historicism" title="New Historicism">New Historicism</a></li>
+<li><a href="/wiki/Holism" title="Holism">Holism</a></li>
+<li><a href="/wiki/Humanism" title="Humanism">Humanism</a>/<a href="/wiki/Renaissance_humanism" title="Renaissance humanism">Renaissance humanism</a></li>
+<li><a href="/wiki/Illuminationism" title="Illuminationism">Illuminationism</a></li>
+<li><a href="/wiki/Kalam" title="Kalam">ʿIlm al-Kalām</a></li>
+<li><a href="/wiki/Idealism" title="Idealism">Idealism</a></li>
+<li><a href="/wiki/Individualism" title="Individualism">Individualism</a></li>
+<li><a href="/wiki/Ionian_School_(philosophy)" title="Ionian School (philosophy)">Ionian</a></li>
+<li><a href="/wiki/Kantianism" title="Kantianism">Kantianism</a>/<a href="/wiki/Neo-Kantianism" title="Neo-Kantianism">Neo-Kantianism</a></li>
+<li><a href="/wiki/Kokugaku" title="Kokugaku">Kokugaku</a></li>
+<li><a href="/wiki/Legalism_(Chinese_philosophy)" title="Legalism (Chinese philosophy)">Legalism</a></li>
+<li><a href="/wiki/School_of_Names" title="School of Names">Logicians</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Mohism" title="Mohism">Mohism</a></li>
+<li><a href="/wiki/Megarian_school" title="Megarian school">Megarian school</a></li>
+<li><a href="/wiki/Modernism" title="Modernism">Modernism</a>/<a href="/wiki/Postmodernism" title="Postmodernism">Postmodernism</a></li>
+<li><a href="/wiki/Monism" title="Monism">Monism</a></li>
+<li><a href="/wiki/Natural_Law" class="mw-redirect" title="Natural Law">Natural Law</a></li>
+<li><a href="/wiki/School_of_Naturalists" title="School of Naturalists">Naturalism (Chinese)</a></li>
+<li><a href="/wiki/Naturalism_(philosophy)" title="Naturalism (philosophy)">Naturalism (western)</a></li>
+<li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Peripatetic_school" title="Peripatetic school">Peripatetic</a></li>
+<li><a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">Phenomenology</a></li>
+<li><a href="/wiki/Platonism" title="Platonism">Platonism</a>/<a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonism</a></li>
+<li><a href="/wiki/Pluralist_school" title="Pluralist school">Pluralism</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Pragmatism" title="Pragmatism">Pragmatism</a></li>
+<li><a href="/wiki/Pre-Socratic_philosophy" title="Pre-Socratic philosophy">Presocratic</a></li>
+<li><a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonism</a></li>
+<li><a href="/wiki/Pythagoreanism" title="Pythagoreanism">Pythagoreanism</a>/<a href="/wiki/Neopythagoreanism" title="Neopythagoreanism">Neopythagoreanism</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a></li>
+<li><a href="/wiki/Reductionism" title="Reductionism">Reductionism</a></li>
+<li><a href="/wiki/Scholasticism" title="Scholasticism">Scholasticism</a>/<a href="/wiki/Neo-Scholasticism" class="mw-redirect" title="Neo-Scholasticism">Neo-Scholasticism</a></li>
+<li><a href="/wiki/Sentientism" title="Sentientism">Sentientism</a></li>
+<li><a href="/wiki/Social_constructionism" title="Social constructionism">Social constructionism</a></li>
+<li><a href="/wiki/Sophism" class="mw-redirect" title="Sophism">Sophism</a></li>
+<li><a href="/wiki/Spinozism" title="Spinozism">Spinozism</a></li>
+<li><a href="/wiki/Stoicism" title="Stoicism">Stoicism</a></li>
+<li><a href="/wiki/Structuralism" title="Structuralism">Structuralism</a>/<a href="/wiki/Post-structuralism" title="Post-structuralism">Post-structuralism</a></li>
+<li><a href="/wiki/Thomism" title="Thomism">Thomism</a></li>
+<li><a href="/wiki/Transcendentalism" title="Transcendentalism">Transcendentalism</a></li>
+<li><a href="/wiki/Utilitarianism" title="Utilitarianism">Utilitarianism</a></li>
+<li><a href="/wiki/Yangism" title="Yangism">Yangism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20190403023551
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.584 seconds
+Real time usage: 0.681 seconds
+Preprocessor visited node count: 1612/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 130089/2097152 bytes
+Template argument size: 125/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 86062/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.306/10.000 seconds
+Lua memory usage: 5.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  493.492      1 -total
+ 69.47%  342.818      1 Template:Reflist
+ 47.68%  235.300     16 Template:Cite_journal
+  8.30%   40.982      1 Template:About
+  8.25%   40.700      7 Template:Cite_web
+  6.76%   33.382      1 Template:Citation_style
+  5.78%   28.542      5 Template:Cite_book
+  5.67%   27.967      1 Template:World_view
+  5.59%   27.603      1 Template:Ambox
+  4.85%   23.926      1 Template:Navbox_with_collapsible_groups
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1058555-0!canonical and timestamp 20190403023551 and revision id 882415059
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Schema_(psychology)&amp;oldid=882415059">https://en.wikipedia.org/w/index.php?title=Schema_(psychology)&amp;oldid=882415059</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li><li><a href="/wiki/Category:Psychological_adjustment" title="Category:Psychological adjustment">Psychological adjustment</a></li><li><a href="/wiki/Category:Psychological_theories" title="Category:Psychological theories">Psychological theories</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Wikipedia_references_cleanup_from_April_2012" title="Category:Wikipedia references cleanup from April 2012">Wikipedia references cleanup from April 2012</a></li><li><a href="/wiki/Category:All_articles_needing_references_cleanup" title="Category:All articles needing references cleanup">All articles needing references cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_April_2012" title="Category:Articles covered by WikiProject Wikify from April 2012">Articles covered by WikiProject Wikify from April 2012</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Schema+%28psychology%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Schema+%28psychology%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Schema_(psychology)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Schema_(psychology)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Schema_(psychology)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Schema_(psychology)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Schema_(psychology)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Schema_(psychology)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Schema_(psychology)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Schema_(psychology)&amp;oldid=882415059" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Schema_(psychology)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1051200" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Schema_%28psychology%29&amp;id=882415059" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Schema+%28psychology%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Schema+%28psychology%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Schema_(psychology)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AE%D8%B7%D8%B7_(%D8%B9%D9%84%D9%85_%D9%86%D9%81%D8%B3)" title="مخطط (علم نفس) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Sgema" title="Sgema – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Skema_(psykologi)" title="Skema (psykologi) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Schema_(Psychologie)" title="Schema (Psychologie) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Esquema_(psicolog%C3%ADa)" title="Esquema (psicología) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Sch%C3%A9ma_(psychologie_cognitive)" title="Schéma (psychologie cognitive) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Schema_(psicologia)" title="Schema (psicologia) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%9B%D7%9E%D7%94_(%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94)" title="סכמה (פסיכולוגיה) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/S%C3%A9ma" title="Séma – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Schemat_poznawczy" title="Schemat poznawczy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Esquema_(psicologia)" title="Esquema (psicologia) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Schema_(psihologie_cognitiv%C4%83)" title="Schema (psihologie cognitivă) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%81%D1%85%D0%B5%D0%BC_(%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Теория схем (психология) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Skeema" title="Skeema – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1051200#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 February 2019, at 22:33<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Schema_(psychology)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.584","walltime":"0.681","ppvisitednodes":{"value":1612,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":130089,"limit":2097152},"templateargumentsize":{"value":125,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":86062,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  493.492      1 -total"," 69.47%  342.818      1 Template:Reflist"," 47.68%  235.300     16 Template:Cite_journal","  8.30%   40.982      1 Template:About","  8.25%   40.700      7 Template:Cite_web","  6.76%   33.382      1 Template:Citation_style","  5.78%   28.542      5 Template:Cite_book","  5.67%   27.967      1 Template:World_view","  5.59%   27.603      1 Template:Ambox","  4.85%   23.926      1 Template:Navbox_with_collapsible_groups"]},"scribunto":{"limitreport-timeusage":{"value":"0.306","limit":"10.000"},"limitreport-memusage":{"value":5406143,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20190403023551","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1268"});});</script>
+</body>
+</html>

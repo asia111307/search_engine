@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Effort heuristic - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Effort_heuristic","wgTitle":"Effort heuristic","wgCurRevisionId":817814193,"wgRevisionId":817814193,"wgArticleId":12865108,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2007","All articles needing additional references","Heuristics","Experimental psychology","Cognitive psychology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Effort_heuristic","wgRelevantArticleId":12865108,"wgRequestId":"XLIz1wpAAEUAAAJOWJwAAABR","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5347513","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Effort_heuristic"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Effort_heuristic&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Effort_heuristic&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Effort_heuristic"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Effort_heuristic rootpage-Effort_heuristic skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Effort heuristic</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Effort_heuristic&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Effort+heuristic%22">"Effort heuristic"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Effort+heuristic%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Effort+heuristic%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Effort+heuristic%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Effort+heuristic%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Effort+heuristic%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">October 2007</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The <b>effort heuristic</b> is a mental <a href="/wiki/Rule_of_thumb" title="Rule of thumb">rule of thumb</a> in which the quality or worth of an object is determined from the perceived amount of effort that went into producing that object. In brief, the effort  <a href="/wiki/Heuristics_in_judgment_and_decision_making" class="mw-redirect" title="Heuristics in judgment and decision making">heuristic</a> follows a tendency to judge objects that took a longer time to produce to be of higher value.<sup id="cite_ref-Source_1_1-0" class="reference"><a href="#cite_note-Source_1-1">&#91;1&#93;</a></sup> The more effort invested in an object, the better it is deemed to be. This is especially true in situations where value is difficult to assess or the evaluator lacks expertise in the appraisement of an item. People use whatever information is available to them and effort is thought to generally be a reliable indicator of quality.<sup id="cite_ref-Source_1_1-1" class="reference"><a href="#cite_note-Source_1-1">&#91;1&#93;</a></sup>
+</p><p>An example of this would be the comparison of $100 earned, and $100 found. If someone finds $100 they are more inclined to go spend it on a whim, but if that $100 is part of a hard-earned paycheck, they are less likely to squander it away. Another way that effort heuristic can be considered is the amount of effort a person will put into an action depending on the goal.<sup id="cite_ref-Source_2_2-0" class="reference"><a href="#cite_note-Source_2-2">&#91;2&#93;</a></sup><sup id="cite_ref-Source_3_3-0" class="reference"><a href="#cite_note-Source_3-3">&#91;3&#93;</a></sup><sup id="cite_ref-Source_4_4-0" class="reference"><a href="#cite_note-Source_4-4">&#91;4&#93;</a></sup> If the goal is of little importance, the amount of effort a person is willing to put into it is going to be lower.<sup id="cite_ref-Source_3_3-1" class="reference"><a href="#cite_note-Source_3-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_Kruger_study"><span class="tocnumber">1</span> <span class="toctext">The Kruger study</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Experiment_1"><span class="tocnumber">1.1</span> <span class="toctext">Experiment 1</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Experiment_2"><span class="tocnumber">1.2</span> <span class="toctext">Experiment 2</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Experiment_3"><span class="tocnumber">1.3</span> <span class="toctext">Experiment 3</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Explanations"><span class="tocnumber">2</span> <span class="toctext">Explanations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Alternative_theories"><span class="tocnumber">3</span> <span class="toctext">Alternative theories</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Cognitive_dissonance"><span class="tocnumber">3.1</span> <span class="toctext">Cognitive dissonance</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Effort_justification"><span class="tocnumber">3.1.1</span> <span class="toctext">Effort justification</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Aronson_and_Mills_(1959)"><span class="tocnumber">3.1.2</span> <span class="toctext">Aronson and Mills (1959)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Self-perception_theory"><span class="tocnumber">3.2</span> <span class="toctext">Self-perception theory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Applications"><span class="tocnumber">4</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Goal_evaluations"><span class="tocnumber">4.1</span> <span class="toctext">Goal evaluations</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Consumer_appraisement"><span class="tocnumber">4.2</span> <span class="toctext">Consumer appraisement</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Marxian_economics"><span class="tocnumber">4.3</span> <span class="toctext">Marxian economics</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Labor_theory_of_value"><span class="tocnumber">4.3.1</span> <span class="toctext">Labor theory of value</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="The_Kruger_study">The Kruger study</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=1" title="Edit section: The Kruger study">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is experimental evidence that supports the notion that people sometimes use the effort that has been put into doing something as an estimate for its quality. The seminal study that investigated this phenomenon was done by Kruger, Wirtz, Van Boven, and Altermatt (2004). They conducted three experiments in which participants made judgments of quality—a poem in Experiment 1, paintings in Experiment 2, and medieval arms and armor in Experiment 3. In each experiment, they manipulated the effort seemingly invested in the objects' creation. Despite the fact that the actual quality of the work remained the same, they anticipated that manipulations in supposed effort would influence perceived quality.<sup id="cite_ref-Source_1_1-2" class="reference"><a href="#cite_note-Source_1-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Experiment_1">Experiment 1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=2" title="Edit section: Experiment 1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the first experiment, participants evaluated a poem with respect to how much they enjoyed it, the overall quality of the poem, and the amount of money a poetry magazine would pay for the poem. They were told that the experiment concerned the way in which people evaluate poetry. The subjects were randomly assigned to one of two condition groups in this study: low effort and high effort.  Participants in the low effort condition were told that the writer spent 4 hours on the poem while participants in the high effort condition were told the poet spent 18 hours on the piece.  The researchers combined the liking and quality measures into one composite result and found participants provided more favorable evaluations of the poem when they thought it took the poet 18 hours to compose rather than when they thought it took him 4 hours. They also judged the more effortful poem to be worth more money.
+</p>
+<h3><span class="mw-headline" id="Experiment_2">Experiment 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=3" title="Edit section: Experiment 2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the second experiment, non-experts and self-identified experts individually evaluated the quality of two paintings by Deborah Kleven: <i>12 Lines</i> and <i>Big Abstract.</i> Half of the participants were told that the former took 4 hours to paint and the latter 26 hours, and the other half were told the opposite. After rating each painting separately, participants then compared the two paintings directly.
+</p><p>The results revealed that participants preferred <i>12 Lines</i> over <i>Big Abstract</i> when they thought <i>12 Lines</i> took longer to paint, but the opposite tended to be true when they thought that <i>Big Abstract</i> took longer to paint. The effort manipulation had a similar effect on participants estimates of how much the paintings were worth. Participants who thought <i>12 Lines</i> took longer to produce thought that it was worth more money than <i>Big Abstract</i>, whereas the opposite tended to be true when participants thought that <i>Big Abstract</i> took longer to paint. The data also indicated that the effect of perceived effort on perceived quality was independent of whether participants had self-professed expertise in the domain. Self-identified art experts did not appear to rely on effort any less than novices, despite the fact that the self-identified experts were presumably more practiced at evaluating art. This points to the generality and intuitive appeal of effort as a heuristic for quality.
+</p>
+<h3><span class="mw-headline" id="Experiment_3">Experiment 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=4" title="Edit section: Experiment 3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the third and final experiment, researchers asked participants to rate the quality of several images of medieval arms and armor presented on a computer screen. When rating the final target piece of armor, half of the participants were told that it took the blacksmith 110 hours to complete, and half were told that it took 15 hours. In addition to manipulating the perceived effort invested by the artist, researchers also varied the ambiguity of the stimulus to examine its potential as a moderator in the use of the effort heuristic. This was done by altering the resolution of the image where half of the participants viewed a high-resolution image of the piece, and half viewed a low-resolution image.
+</p><p>Experiment 3 produced similar results as the first two; participants provided higher ratings of the piece when they thought it took the blacksmith longer to produce. The more effort invested in the object, the better it was assumed to be. The influence of effort on judgment was also bigger in the high-ambiguity condition than in the low-ambiguity condition. This was expected because the quality of the armor was more ambiguous in the low-resolution condition. Participants in this condition had less objective information upon which to make a judgment of quality, and thus were more likely to rely on the perceived effort invested by the blacksmith while evaluating.
+</p>
+<h2><span class="mw-headline" id="Explanations">Explanations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=5" title="Edit section: Explanations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Human behavior, like most other animals, is often driven by rewards and directed by the energetic cost of an action. It takes effort to attain rewards, and people accordingly weigh the value of rewards against the amount of effort that is required to attain them.<sup id="cite_ref-Source_2_2-1" class="reference"><a href="#cite_note-Source_2-2">&#91;2&#93;</a></sup> At an early age, children learn that good performance due to high effort is valued by adults and that teachers are most likely to reward those who work hard.<sup id="cite_ref-Source_5_5-0" class="reference"><a href="#cite_note-Source_5-5">&#91;5&#93;</a></sup><sup id="cite_ref-Source_6_6-0" class="reference"><a href="#cite_note-Source_6-6">&#91;6&#93;</a></sup> With experience, they internalize effort as a valuable commodity.
+</p>
+<h2><span class="mw-headline" id="Alternative_theories">Alternative theories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=6" title="Edit section: Alternative theories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Research directly examining and testing the effort heuristic is scarce, however there are other research areas that incorporated this construct and, in some way, manipulated its effects. However, a key distinction between the study done by Kruger et al. and other research on the role of effort on judgment is that the former focused on other-generated effort rather than self-generated effort.
+</p>
+<h3><span class="mw-headline" id="Cognitive_dissonance">Cognitive dissonance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=7" title="Edit section: Cognitive dissonance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Effort_justification">Effort justification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=8" title="Edit section: Effort justification">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Over half a century ago, social psychologist Leon Festinger developed the theory of <a href="/wiki/Cognitive_dissonance" title="Cognitive dissonance">cognitive dissonance</a>. It asserts that inconsistencies among a person's beliefs, attitudes, or opinions produce psychological discomfort, leading people to rationalize their behavior or change their attitudes.<sup id="cite_ref-Source_3_3-2" class="reference"><a href="#cite_note-Source_3-3">&#91;3&#93;</a></sup> One concept that stemmed from the dissonance theory is that of <a href="/wiki/Effort_justification" title="Effort justification">effort justification</a> in which the subjective value of an outcome is directly related to the effort that went into obtaining it.<sup id="cite_ref-Source_3_3-3" class="reference"><a href="#cite_note-Source_3-3">&#91;3&#93;</a></sup> When people suffer, work hard or make sacrifices, they will attempt to convince themselves that it is worthwhile. People tend to put the most value on goals or items which have required considerable effort to achieve.<sup id="cite_ref-Source_3_3-4" class="reference"><a href="#cite_note-Source_3-3">&#91;3&#93;</a></sup> This is probably because cognitive dissonance would arise if great effort is made to achieve something that is subsequently evaluated negatively.
+</p>
+<h4><span id="Aronson_and_Mills_.281959.29"></span><span class="mw-headline" id="Aronson_and_Mills_(1959)">Aronson and Mills (1959)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=9" title="Edit section: Aronson and Mills (1959)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Aronson and Mills conducted a study<sup id="cite_ref-Source_7_7-0" class="reference"><a href="#cite_note-Source_7-7">&#91;7&#93;</a></sup> where college students underwent a "severe" or a "mild" initiation to join a discussion group. Subjects in the severe initiation group were required to read a sexually explicit passage out loud in front of the experimenter, whereas those in the mild initiation group read a less embarrassing passage. When subjects were asked to evaluate the discussion group, those in the severe initiation condition rated it higher than those in the mild initiation group. Aronson and Mills interpreted their result in terms of cognitive dissonance. According to Aronson and Mills, to resolve the dissonance produced by reading the embarrassing passage, subjects in the severe initiation group gave more value to the discussion group than did subjects in the mild initiation group.<sup id="cite_ref-Source_4_4-1" class="reference"><a href="#cite_note-Source_4-4">&#91;4&#93;</a></sup> The more difficult the task, the greater the value given to sources of reinforcement that followed task completion.
+</p>
+<h3><span class="mw-headline" id="Self-perception_theory">Self-perception theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=10" title="Edit section: Self-perception theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Daryl Bem (1965) proposed an alternative to the cognitive dissonance theory in explaining how attitudes are shaped. The <a href="/wiki/Self-perception_theory" title="Self-perception theory">self-perception theory</a> suggests that people infer their own attitudes, opinions, and other internal states partly by observing their behavior and the circumstances in which that behavior occurs.<sup id="cite_ref-Source_8_8-0" class="reference"><a href="#cite_note-Source_8-8">&#91;8&#93;</a></sup> This pattern of thought unfolds because people are engaged in normal efforts to better understand their own behaviors. Bem suggested that all individuals analyze their own behavior as much as an outside observer might and, as a result of these observations, people make judgments about why they are motivated to do what they do. He originally believed that most findings explained by cognitive dissonance were really due to self-perception. However, studies have shown that self-perception is primarily at work when subjects do not have well-defined attitudes regarding the issue at hand.<sup id="cite_ref-Source_9_9-0" class="reference"><a href="#cite_note-Source_9-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=11" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Goal_evaluations">Goal evaluations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=12" title="Edit section: Goal evaluations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Research has shown that the amount of energy put towards the achievement of a goal may play a role in the development or change of an individual's attitude towards that goal.<sup id="cite_ref-Source_10_10-0" class="reference"><a href="#cite_note-Source_10-10">&#91;10&#93;</a></sup> While evaluating a goal, one is motivated to place more value on a goal that has required greater effort to achieve.<sup id="cite_ref-Source_11_11-0" class="reference"><a href="#cite_note-Source_11-11">&#91;11&#93;</a></sup> Axsom and Cooper (1985) suggested that if an objective or the way in which a goal is obtained is not initially attractive, an individual may later look to their own past behavior to determine their attitude towards that goal. If much effort has been spent in the attainment of a goal, it should come to be seen as worthwhile and therefore more attractive.<sup id="cite_ref-Source_13_12-0" class="reference"><a href="#cite_note-Source_13-12">&#91;12&#93;</a></sup> This resembles the need to justify one's efforts in accordance with the cognitive dissonance theory but there is evidence supporting that other factors may be at play.
+</p><p>One study proposed that the experienced goal value and consumers' subsequent motivation vary as a function of whether or not the pursuit of the goal is perceived to be one's autonomous choice.<sup id="cite_ref-Source_4_4-2" class="reference"><a href="#cite_note-Source_4-4">&#91;4&#93;</a></sup> They found that when consumers perceive that the goal they pursue is adopted through an autonomous choice, the initial effort investment is experienced as reflecting the value of the goal; therefore, greater effort increased the value of the goal as well as consumers' subsequent motivation.<sup id="cite_ref-Source_4_4-3" class="reference"><a href="#cite_note-Source_4-4">&#91;4&#93;</a></sup> Conversely, if consumers perceive that the goal has been imposed on them, they experience psychological reactance that is proportional to the amount of effort that they expend in pursuing the goal; thus, they devalue the goal as they invest more effort in its pursuit and show lower subsequent motivation.<sup id="cite_ref-Source_4_4-4" class="reference"><a href="#cite_note-Source_4-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Consumer_appraisement">Consumer appraisement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=13" title="Edit section: Consumer appraisement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The study by Kruger et al. demonstrated that when evaluating an item, people have a tendency to judge objects that took a longer time to produce to be of higher value. With this knowledge, companies can manipulate the manner in which a product is viewed to make their products appear desirable to consumers. Because effort is usually required to get the best outcomes, people looking for the best outcomes presume effort must imply the best possible outcome. Briñol, Petty, and Tormala (2006) suggested that the impact of effort on evaluation depends on the meaning people are overtly directed to assign to effort.<sup id="cite_ref-Source_14_13-0" class="reference"><a href="#cite_note-Source_14-13">&#91;13&#93;</a></sup> For example, if people are told that unintelligent people like ease, outcomes associated with ease are judged less favorably.<sup id="cite_ref-Source_15_14-0" class="reference"><a href="#cite_note-Source_15-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Marxian_economics">Marxian economics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=14" title="Edit section: Marxian economics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Labor_theory_of_value">Labor theory of value</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=15" title="Edit section: Labor theory of value">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The principles of the effort heuristic display a striking resemblance to the <a href="/wiki/Labor_theory_of_value" title="Labor theory of value">labor theory of value</a>. This theory is a major pillar of traditional Marxian economics. Its basic claim is simple: the value of a commodity can be objectively measured by the average number of labor hours required to produce that commodity.<sup id="cite_ref-Source_16_15-0" class="reference"><a href="#cite_note-Source_16-15">&#91;15&#93;</a></sup> Marx described labor power as a worker's capacity to produce goods and services. He explained that the long-run wage workers receive will depend on the number of labor hours it takes to produce a person who is fit for work.<sup id="cite_ref-Source_16_15-1" class="reference"><a href="#cite_note-Source_16-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Availability_heuristic" title="Availability heuristic">Availability heuristic</a></li>
+<li><a href="/wiki/Affect_heuristic" title="Affect heuristic">Affect heuristic</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Source_1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Source_1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Source_1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Source_1_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Kruger, J., Wirtz, D., Boven, L., &amp; Altermatt, T. (2004). The effort heuristic. Journal of Experimental Social Psychology, 40, 91-98.</span>
+</li>
+<li id="cite_note-Source_2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Source_2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Source_2_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bijeveld, E., Custers, R., &amp; Aarts, H. (2012). Adaptive reward pursuit: How effort requirements affect unconscious reward responses and conscious reward decisions. Journal of Experimental Psychology, 141, 728-742.</span>
+</li>
+<li id="cite_note-Source_3-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Source_3_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Source_3_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Source_3_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Source_3_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Source_3_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Festinger, L. (1957). A theory of cognitive dissonance. Stanford, Calif: Stanford University Press.</span>
+</li>
+<li id="cite_note-Source_4-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Source_4_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Source_4_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Source_4_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Source_4_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Source_4_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Zhang, Y., Xu, J., Jiang, Z., &amp; Huang, S. (2011). Been There, Done That: The Impact of Effort Investment on Goal Value and Consumer Motivation. Journal of Consumer Research, 38, 78-93.</span>
+</li>
+<li id="cite_note-Source_5-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_5_5-0">^</a></b></span> <span class="reference-text">Juvonen, J., &amp; Murdock, T. (1995). Grade-Level Differences in the Social Value of Effort: Implications for Self-Presentation Tactics of Early Adolescents. Child Development, 66, 1694-1694.</span>
+</li>
+<li id="cite_note-Source_6-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_6_6-0">^</a></b></span> <span class="reference-text">Harari, O., &amp; Covington, M. (1981). Reactions to Achievement Behavior From a Teacher and Student Perspective: A Developmental Analysis. American Educational Research Journal, 18, 15-28.</span>
+</li>
+<li id="cite_note-Source_7-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_7_7-0">^</a></b></span> <span class="reference-text">Aronson, E. &amp; Mills, J. (1959). The effect of severity of initiation on liking for a group. Journal of Abnormal and Social Psychology, 59, 177-181.</span>
+</li>
+<li id="cite_note-Source_8-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_8_8-0">^</a></b></span> <span class="reference-text">Bem, D. J. (1972). Self-perception theory. In L. Berkowitz (Ed.), Advances in experimental social psychology (Vol. 6, pp. 1–62). New York: Academic Press.</span>
+</li>
+<li id="cite_note-Source_9-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_9_9-0">^</a></b></span> <span class="reference-text">Olson, J., Roesesc, N., Meen, J., &amp; Robertson, D. (1995). The Preconditions and Consequences of Relative Deprivation: Two Field Studies1. Journal of Applied Social Psychology, 25, 944–964.</span>
+</li>
+<li id="cite_note-Source_10-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_10_10-0">^</a></b></span> <span class="reference-text">Maich, K. (2014). Reducing cognitive dissonance through effort justification: Evidence from past studies and daily experience. Western Undergraduate Psychology Journal, 1, 1–3.</span>
+</li>
+<li id="cite_note-Source_11-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_11_11-0">^</a></b></span> <span class="reference-text">Zentall, T. R. (2010). Justification of effort by
+humans and pigeons: Cognitive dissonance or contrast? Current Directions in Psychological Science, 19, 296-300.</span>
+</li>
+<li id="cite_note-Source_13-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_13_12-0">^</a></b></span> <span class="reference-text">Axsom, D., &amp; Cooper, J. (1985). Cognitive dissonance and psychotherapy: The role of effort justification in inducing weight loss. Journal of Experimental Social Psychology, 21, 149-160.</span>
+</li>
+<li id="cite_note-Source_14-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_14_13-0">^</a></b></span> <span class="reference-text">Briñol, Pablo, Richard E. Petty, and Zakary L. Tormala (2006), “The Malleable Meaning of Subjective Ease,” Psychological Science, 17 (3), 200–206.</span>
+</li>
+<li id="cite_note-Source_15-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Source_15_14-0">^</a></b></span> <span class="reference-text">Kim, S., &amp; Labroo, A. (2011). From Inherent Value to Incentive Value: When and Why Pointless Effort Enhances Consumer Preference. Journal of Consumer Research, 38, 712-742.</span>
+</li>
+<li id="cite_note-Source_16-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Source_16_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Source_16_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bowles, S., &amp; Gintis, H. (1977). The marxian theory of value and heterogenous labour: A critique and reformulation. Cambridge Journal of Economics, 1, 173-192.</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20190409121724
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.124 seconds
+Real time usage: 0.172 seconds
+Preprocessor visited node count: 349/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7962/2097152 bytes
+Template argument size: 12/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8657/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.037/10.000 seconds
+Lua memory usage: 1.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   92.598      1 Template:Refimprove
+100.00%   92.598      1 -total
+ 80.96%   74.966      1 Template:Ambox
+ 34.38%   31.831      1 Template:Find_sources_mainspace
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12865108-0!canonical and timestamp 20190409121724 and revision id 817814193
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Effort_heuristic&amp;oldid=817814193">https://en.wikipedia.org/w/index.php?title=Effort_heuristic&amp;oldid=817814193</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Heuristics" title="Category:Heuristics">Heuristics</a></li><li><a href="/wiki/Category:Experimental_psychology" title="Category:Experimental psychology">Experimental psychology</a></li><li><a href="/wiki/Category:Cognitive_psychology" title="Category:Cognitive psychology">Cognitive psychology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2007" title="Category:Articles needing additional references from October 2007">Articles needing additional references from October 2007</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Effort+heuristic" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Effort+heuristic" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Effort_heuristic" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Effort_heuristic" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Effort_heuristic">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Effort_heuristic&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Effort_heuristic&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Effort_heuristic" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Effort_heuristic" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Effort_heuristic&amp;oldid=817814193" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Effort_heuristic&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5347513" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Effort_heuristic&amp;id=817814193" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Effort+heuristic">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Effort+heuristic&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Effort_heuristic&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5347513#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 December 2017, at 19:18<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Effort_heuristic&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.172","ppvisitednodes":{"value":349,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7962,"limit":2097152},"templateargumentsize":{"value":12,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8657,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   92.598      1 Template:Refimprove","100.00%   92.598      1 -total"," 80.96%   74.966      1 Template:Ambox"," 34.38%   31.831      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.037","limit":"10.000"},"limitreport-memusage":{"value":1419040,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20190409121724","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Effort heuristic","url":"https:\/\/en.wikipedia.org\/wiki\/Effort_heuristic","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5347513","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5347513","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-08-21T02:58:43Z","dateModified":"2017-12-30T19:18:05Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1274"});});</script>
+</body>
+</html>

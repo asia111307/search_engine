@@ -1,0 +1,1333 @@
+
+<!--[if lt IE 9]><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><![endif]-->
+<!--[if gt IE 8]><!-->
+<!DOCTYPE html>
+<!--<![endif]-->
+<!--[if lt IE 7]><html xmlns="http://www.w3.org/1999/xhtml" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html xmlns="http://www.w3.org/1999/xhtml" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html xmlns="http://www.w3.org/1999/xhtml" class="lt-ie9"> <![endif]-->
+<!--[if IE 9]><html class="ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html><!--<![endif]-->
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>NMS | Abteilung Medizin  | Universität Freiburg</title>
+    <meta name="description" content="">
+    <meta name="robots" content="index, follow">
+    <link href="//cdn.unifr.ch/uf/v2.4.1/css/bootstrap.css" rel="stylesheet"/>
+    <link href="//cdn.unifr.ch/uf/v2.4.1/css/main.css" rel="stylesheet"/>
+    
+
+
+
+
+
+    <link rel="shortcut icon" type="image/ico" href="//cdn.unifr.ch/sharedconfig/favicon/favicon.ico"/>
+    <!-- Load IE8 specific styles--><!--[if lt IE 9]>
+    <link href="//cdn.unifr.ch/uf/v2.4.1/css/old_ie.css" rel="stylesheet"/><![endif]-->
+    <script src="//cdn.unifr.ch/uf/v2.4.1/js/modernizr.js"></script>
+    <!-- Spiders alternative page -->
+    
+        <link rel="alternate" hreflang="de" href="//www3.unifr.ch/med/de/section/departments/nms/">
+        
+
+<link rel="alternate" hreflang="fr" href="//www3.unifr.ch/med/fr/section/departments/nms/" />
+    
+    
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+  ga('create', 'UA-11149209-1', 'auto');
+  ga('private_track.set', 'anonymizeIp', true);
+
+  ga('create', 'UA-129733748-1', 'auto', {'name': 'private_track'});
+  ga('send', 'pageview');
+  
+	ga('private_track.send', 'pageview');
+	ga('private_track.set', 'anonymizeIp', true);
+	
+
+</script>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+
+<link href="//cdn.unifr.ch/uf/v2.4.1/css/corr.css" rel="stylesheet"/>
+
+<style>
+	/*
+	a[href^=http]{text-decoration:none;}
+	footer a[href^=http]{text-decoration:none; color:#fff;}
+	div.sub-menu li.star > a{font-weight:bold;}
+	*/
+</style>
+    <base href="//www3.unifr.ch/med/de/" />
+<link rel="stylesheet" href="/med/assets/components/templateextra/css/people.css" type="text/css" />
+</head>
+<body data-lang="de" class="green">
+<!-- Page wrapper-->
+<div id="wrapper">
+    <!-- Fixed header-->
+    <nav class="fixed-header pusher">
+        <div class="fixed-header--bg">
+            <div class="container clearfix">
+
+                <!-- The logo -->
+                
+
+<a href="javascript:;" class="open-offcanvas square bg-branded hover hidden-desktop"></a><a href="javascript:;" class="hidden-desktop square logo" style="content: ''; display:block;height:55px;width:55px;  no-repeat center center; background-size:contain;"></a>
+
+                
+
+<div class="search hidden-mobile">
+
+    
+
+
+                    <script class="search--template" type="text/template">
+                        <li>
+                            <a class="search--result-link" href="<%= link %>"></a>
+                            <h5><%= htmlTitle %></h5>
+                            <p><%= htmlSnippet %></p>
+                        </li>
+                    </script>
+
+
+                    <script class="search--show-more" type="text/template">
+                        <li class="text-align-center search--more-results">
+                            <a class="search--result-link" href="#"></a>
+                            <p>Mehr sehen</p>
+                            <p>
+                                <i class="gfx gfx-arrow-down"></i>
+                            </p>
+                        </li>
+                    </script>
+
+    <a href="#" data-expander-toggler="search-47727" data-fixed-mode-toggler="tablet laptop desktop large" class="search--toggler square"><i class="gfx gfx-search"></i></a>
+    <div data-expander-content="search-47727" data-expander-group="mobile-nav" class="search--input">
+        <div class="container">
+            
+            <div class="input-group">
+                <input type="text" class="form-control"/><span class="input-group-btn sd">
+                <input type="radio" name="searchdomain" value="https://www3.unifr.ch/med/" checked="checked" id="local-" class="hidden"/>
+                <label for="local-" class="btn btn-primary sd">Local</label></span><span class="input-group-btn sd">
+                <input type="radio" name="searchdomain" value="www.unifr.ch"  id="global-" class="hidden"/>
+                <label for="global-" class="btn btn-default">Global</label></span>
+            </div>
+            
+            <ul class="search--results">
+                <li class="blank-slate">Keine Resultate</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+                <!-- Globalmenu -->
+                <div class="meta-menu"><a href="#" data-fixed-mode-toggler="mobile" data-accordion-toggler="metamenu" class="square meta-menu--toggler hover bg-branded-desk"><i class="gfx gfx-tiles"></i><i class="square-triangle"></i><span class="hidden-mobile">Schnellzugriff
+</span></a>
+    <div data-accordion-content="metamenu" data-accordion-group="mobile-nav" class="meta-menu--content">
+        <nav data-scroll-container="data-scroll-container" class="container">
+            <ul>
+                <li class="first-level"><a href="#" data-accordion-toggler="meta2" data-scroll-to-me="data-scroll-to-me">Universität</a>
+                    <nav data-accordion-content="meta2">
+                        <ul>
+                            <li><a href="http://studies.unifr.ch/de" title="Die Studium: Bachelor, Master, Doktorat">Studium</a></li>
+                            <li><a href="http://www3.unifr.ch/campus/de/" title="Campus Life">Campus</a></li>
+                            <li><a href="http://www.unifr.ch/recherche/de" title="Forschung">Forschung</a></li>
+                            <li><a href="http://www3.unifr.ch/uni/de" title="Die Universität">Universität</a></li>
+                            <li><a href="http://www.unifr.ch/formcont/de"  title="Weiterbildung">Weiterbildung</a></li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="first-level"><a href="#" data-accordion-toggler="meta1" data-scroll-to-me="data-scroll-to-me">Fakultäten</a>
+                    <nav data-accordion-content="meta1">
+                        <ul>
+                            <li><a href="http://www.unifr.ch/theo/de" title="Theologische Fakultät"><span class="glyphicon glyphicon-stop color-orange" aria-hidden="true"></span> Theologische Fak.</a></li>
+                            <li><a href="http://www.unifr.ch/ius/de" title="Rechtswissenschaftliche Fakultät"><span class="glyphicon glyphicon-stop color-red" aria-hidden="true"></span> Rechtswissenschaftliche Fak.</a></li>
+                            <li><a href="http://www.unifr.ch/lettres/" title="Philosophische Fakultät"><span class="glyphicon glyphicon-stop color-sky" aria-hidden="true"></span> Philosophische Fak.</a></li>
+                            <li><a href="http://www.unifr.ch/ses/" title="Wirtschafts- und Sozialwissenschaftliche Fakultät"><span class="glyphicon glyphicon-stop color-purple" aria-hidden="true"></span> Wirtschafts- und Sozialwissenschaftliche Fak.</a></li>
+                            <li><a href="http://www.unifr.ch/science/de" title="Mathematisch-Naturwissenschaftliche Fakultät"><span class="glyphicon glyphicon-stop color-green" aria-hidden="true"></span> Math.-Nat. und Med. Fak.</a></li>
+                            <li><a href="http://www3.unifr.ch/faculties/de/interfakultaer.html" title="Interfakultär"><span class="glyphicon glyphicon-stop color-marine" aria-hidden="true"></span> Interfakultär</a></li>
+                           
+                            
+                        </ul>
+                    </nav>
+                </li>
+                <li class="first-level"><a href="http://www3.unifr.ch/you-are/de/" data-accordion-toggler="meta0" data-scroll-to-me="data-scroll-to-me">Informationen für</a>
+                    <nav data-accordion-content="meta0">
+                        <ul>
+                            <li><a href="http://www3.unifr.ch/you-are/de/studieninteressierte/" title="Sie sind... Studieninteressierte">Studieninteressierte</a></li>
+                            <li><a href="http://www3.unifr.ch/you-are/de/studierende/" title="Sie sind... Studenten">Studierende</a></li>
+                            <li><a href="http://www3.unifr.ch/you-are/de/medien/" title="Sie sind... Medien">Medien</a></li>
+                            <li><a href="http://www3.unifr.ch/you-are/de/forschende/" title="Sie sind... Forschende">Forschende</a></li>
+                            <li><a href="http://www3.unifr.ch/you-are/de/mitarbeitende/" title="Sie sind... Mitarbeitende">Mitarbeitende</a></li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="first-level meta-menu--contact bg-branded-desk">
+                    <a href="#" class="hidden-lg" data-accordion-toggler="contact" data-scroll-to-me="data-scroll-to-me">Ressourcen</a>
+                    <nav data-accordion-content="contact">
+                        <ul>
+                            <li><a href="http://www.unifr.ch/directory/de" class="gfx gfx-user"><span class="padding-sm">Verzeichnis</span></a></li>
+                            <li><a href="http://www.unifr.ch/map" class="gfx gfx-directions"><span class="padding-sm">Ortsplan</span></a></li>
+                            <li><a style="padding-left:0px" href="http://www.unifr.ch/biblio"><span class="glyphicon glyphicon-book adjust-desk" aria-hidden="true"></span><span class="padding-sm">Bibliotheken</span></a></li>
+                            <li><a href="https://mail.unifr.ch" class="gfx gfx-mail"><span class="padding-sm">Webmail</span></a></li>
+                            <li><a style="padding-left:0px" href="https://www3.unifr.ch/timetable/de/"><span class="glyphicon glyphicon-calendar adjust-desk" aria-hidden="true" ></span><span class="padding-sm">Vorlesungsverzeichnis</span></a></li>
+                            <li><a href="http://www.unifr.ch/login/verbinden.php" class="gfx gfx-lock"><span class="padding-sm">MyUnifr</span></a></li>
+                        </ul>
+                    </nav>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<style>
+    .adjust-desk{
+        padding-right:1px
+    }
+    .padding-sm{
+        padding-left:4px;
+    }
+    @media (min-width: 768px){
+        .padding-sm{
+            padding-left:0px;
+        }
+        .adjust-desk{
+            padding-right:8px
+        }
+        .hidden-lg{
+            display:none;
+        }
+        .meta-menu--content .first-level.meta-menu--contact nav a {
+            font-family: inherit;
+        }
+
+        .meta-menu--toggler span{
+            font-size:13px;
+            font-family: openSans-Regular-webfont,'Helvetica Neue',Helvetica,Arial,sans-serif;
+        }
+        .meta-menu--content {
+            background: rgba(255,255,255,0.95);
+        }
+        .meta-menu--content .first-level.meta-menu--contact{
+            background: #0c2447;
+
+        }
+        .meta-menu--content:after {
+            background: #0c2447;
+        }
+
+        .bg-branded-desk,.bg-branded-desk:visited,.bg-branded-desk:hover,.bg-branded-desk:active {
+        background: #0c2447;
+        color: #fff!important;
+        }
+
+
+
+    }
+</style>
+
+                <!-- Desktop Langmenu -->
+                
+
+<nav class="hidden-mobile square language-switch">
+    <ul>
+        
+<li><a href="//www3.unifr.ch/med/fr/section/departments/nms/" class="">FR</a></li>
+
+<li><a href="//www3.unifr.ch/med/de/section/departments/nms/" class=" bold">DE</a></li>
+    </ul>
+</nav>
+
+                <!-- Global Breadcrumb -->
+                
+
+
+<div class="breadcrumbs square">
+
+    <a href="//www.unifr.ch" data-accordion-toggler="crumbs" class="square bg-white hover hidden-desktop breadcrumbs--toggler"><i class="gfx gfx-home"></i><i class="square-triangle"></i></a>
+
+    <div data-accordion-content="crumbs" data-accordion-group="mobile-nav" class="breadcrumbs--content">
+        <nav class="breadcrumbs--mobile shortened">
+            <ul class="breadcrumbs--slider">
+                <!-- level 0 -->
+                
+                <li><a href="//www.unifr.ch" class="gfx gfx-home"></a></li>
+                
+
+                <!-- level 1 -->
+                
+                <li class="gfx gfx-triangle-right"></li>
+                <li >
+                    <a href="//www.unifr.ch/scimed" class="short">Math.-Nat. und Med. Fakultät</a>
+                    <a href="//www.unifr.ch/scimed" class="long">Math.-Nat. und Med. Fakultät</a>
+                </li>
+                
+                <!-- level 2 -->
+                
+                <li class="gfx gfx-triangle-right"></li>
+                <li class="desktop-expanded">
+                    <a href="//www.unifr.ch/med/" class="short">Abteilung Medizin
+</a>
+                    <a href="//www.unifr.ch/med/" class="long">Abteilung Medizin
+</a>
+                </li>
+                
+                <!-- level 3 -->
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+            </div>
+        </div>
+    </nav>
+    <!-- Offcanvas pusher-->
+    <div class="pusher pass-height">
+        <!-- Page header/offcanvas-->
+        <header id="header" class="offcanvas pass-height">
+            <nav class="service-menu">
+                <!-- mobile tools menu -->
+                <div class="hidden-desktop clearfix">
+
+                    <!-- Search Mobile -->
+                    
+                    <div class="search">
+                        <!-- Template for one search result -->
+                        
+
+
+                    <script class="search--template" type="text/template">
+                        <li>
+                            <a class="search--result-link" href="<%= link %>"></a>
+                            <h5><%= htmlTitle %></h5>
+                            <p><%= htmlSnippet %></p>
+                        </li>
+                    </script>
+
+
+                    <script class="search--show-more" type="text/template">
+                        <li class="text-align-center search--more-results">
+                            <a class="search--result-link" href="#"></a>
+                            <p>Mehr sehen</p>
+                            <p>
+                                <i class="gfx gfx-arrow-down"></i>
+                            </p>
+                        </li>
+                    </script>
+
+                        <a href="#" data-expander-toggler="search-27564" data-fixed-mode-toggler="tablet laptop desktop large" class="search--toggler square"><i class="gfx gfx-search"></i></a>
+                        <div data-expander-content="search-27564" data-expander-group="mobile-nav" class="search--input">
+                            <div class="container">
+                                
+                                <div class="input-group">
+                                    <input type="text" class="form-control"/>
+                                    <span class="input-group-btn sd">
+                                        <input type="radio" name="searchdomain" value="https://www3.unifr.ch/med/" id="local-" class="hidden" checked="checked"/>
+                                        <label for="local-" class="btn btn-primary sd">Local</label>
+                                    </span>
+                                    <span class="input-group-btn sd">
+                                        <input type="radio" name="searchdomain" value="www.unifr.ch"  id="global-" class="hidden" />
+                                        <label for="global-" class="btn btn-default">Global</label>
+                                    </span>
+                                </div>
+                                
+                                <ul class="search--results">
+                                    <li class="blank-slate">Keine Resultate</li>
+                                </ul>
+                             </div>
+                        </div>
+                    </div>
+
+
+                    <!-- langmenu.mobile -->
+                    
+
+<nav class="language-switch square hover bg-white"><a href="#" data-accordion-toggler="language-switch" class="toggle-language-switch square">DE</a>
+    <div data-accordion-content="language-switch" class="dropdown">
+        <ul class="bg-white">
+            
+
+<li><a href="//www3.unifr.ch/med/fr/section/departments/nms/" class="square bg-white hover ">FR</a></li>
+
+
+<li><a href="//www3.unifr.ch/med/de/section/departments/nms/" class="square bg-white hover  bold">DE</a></li>
+        </ul>
+    </div>
+</nav>
+                    <a href="javascript:;" class="close-offcanvas square hover bg-marine"></a>
+                </div>
+                <div class="hidden-mobile">
+                    <div class="container service-menu--relation">
+                        <nav class="clearfix">
+                            
+                        </nav>
+                        
+
+<h1 class="logo"><span class="sr-only">Universität Freiburg</span><a href="//www.unifr.ch"><img src="//cdn.unifr.ch/uf/v2.4.1/gfx/logo.png"/></a></h1>
+
+<p class="service-menu--department"><a href="//www3.unifr.ch/med/de/">Abteilung Medizin</a></p>
+                    </div>
+                </div>
+            </nav>
+            
+
+<!-- Use class flat-menu or push-menu on this container-->
+<!-- to toggle between the two types of navigation. The underlying-->
+<!-- structure is exactly the same.-->
+<nav class="push-menu container">
+    <!-- First navigation level is visible, therefore needs-->
+    <!-- the class .in-->
+    <!-- .default is needed to not register a swipe event listener-->
+    <div class="level default in">
+
+        
+
+<!-- start outerTpl -->
+<ul>
+    <li class="first"><a href="//www3.unifr.ch/med/de/" title="Home" >Home</a></li>
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/info/agenda.html" title="News & Events"   class="deeper">
+		News & Events
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/info/news/" title="News" >News</a></li>
+<li><a href="//www3.unifr.ch/med/de/info/agenda.html" title="Agenda" >Agenda</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/info/conferences/" title="Tagungen und Seminare" >Tagungen und Seminare</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="active">
+	<a href="//www3.unifr.ch/med/de/section/" title="Abteilung"   class="deeper">
+		Abteilung
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		
+
+<!-- start parentRowTpl -->
+<li class="first">
+	<a href="//www3.unifr.ch/med/de/section/welcome/" title="Grusswort"   class="deeper">
+		Grusswort
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/section/welcome/history.html" title="Geschichte" >Geschichte</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/section/organisation/" title="Organisation"   class="deeper">
+		Organisation
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/section/organisation/president-secmed.html" title="Präsidium" >Präsidium</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/organisation/leadership-teaching.html" title="Leitung Lehre" >Leitung Lehre</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/organisation/medoffice/" title="Med-Office" >Med-Office</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/organisation/commission.html" title="Organe und Kommissionen" >Organe und Kommissionen</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="active">
+	<a href="//www3.unifr.ch/med/de/section/departments/" title="Departemente"   class="deeper">
+		Departemente
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/section/departments/mph/" title="MPH" >Community Health (MPH)</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/departments/emc/" title="EMC" >Endokrinologie, Metabolismus und Kardiovaskuläres System (EMC)</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/departments/mss/" title="MSS" >Medizinische und chirurgische Fachgebiete (MSS)</a></li>
+<li class="active"><a href="//www3.unifr.ch/med/de/section/departments/nms/" title="NMS" >Neuro- und Bewegunswissenschaften (NMS)</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/departments/omi/" title="OMI" >Onkologie, Mikrobiologie und Immunologie (OMI)</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/section/institutes/" title="Institute und Zentren"   class="deeper">
+		Institute und Zentren
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/ifm" title="Institut für Hausarztmedizin (IFM)" >Institut für Hausarztmedizin (IFM)</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/section/platforms/" title="Lehrplattformen"   class="deeper">
+		Lehrplattformen
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/section/platforms/anatomie/" title="Anatomie" >Anatomie</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/platforms/histologie/" title="Histologie" >Histologie</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/platforms/neurophysiologie/" title="Neurophysiologie" >Neurophysiologie</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/platforms/sport/" title="Sport" >Sport</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/platforms/systemische-physiologie/" title="Systemische Physiologie" >Systemische Physiologie</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/section/staff/" title="Personal"   class="deeper">
+		Personal
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/section/staff/prof.html" title="Professoren-innen" >Professoren-innen</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/lehr-und-forschungspersonal.html" title="Lehr- und Forschungspersonal" >Lehr- und Forschungspersonal</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/assistenten-innen-und-doktoriende.html" title="Assistenten-innen und Doktoriende" >Assistenten-innen und Doktoriende</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/admin.html" title="Verwaltungspersonal" >Verwaltungspersonal</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/technisches-personal.html" title="Technisches Personal" >Technisches Personal</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/all.html" title="Alle Mitarbeitenden" >Alle Mitarbeitenden</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/staff/emeriti/" title="Emeriti" >Emeriti</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+<li><a href="//www3.unifr.ch/med/de/section/jobs/" title="Offene Stellen" >Offene Stellen</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/place.html" title="Standorte" >Standorte</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/partner.html" title="Partner" >Partner</a></li>
+<li><a href="https://www3.unifr.ch/scimed/de/associations" title="Vereinigungen" target="_blank">Vereinigungen </a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/contacts.html" title="Kontakt" >Kontakt</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/studium/" title="Studium"   class="deeper">
+		Studium
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		
+
+<!-- start parentRowTpl -->
+<li class="first">
+	<a href="//www3.unifr.ch/med/de/studium/domains/" title="Studienrichtungen"   class="deeper">
+		Studienrichtungen
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/studium/domains/humanmed/" title="Humanmedizin" >Humanmedizin</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/domains/biomed/" title="Biomedizinische Wissenschaften" >Biomedizinische Wissenschaften</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/domains/ebr/" title="Experimental Biomedical Research" >Experimental Biomedical Research</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/domains/sport/" title="Sport- und Bewegungswissenschaften" >Sport- und Bewegungswissenschaften</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/studium/domains/socialmed/" title="Sozial- und Geisteswissenschaften in der Medizin" >Sozial- und Geisteswissenschaften in der Medizin</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/studium/bachelor/" title="Bachelor"   class="deeper">
+		Bachelor
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/studium/bachelor/med/" title="Bachelor of Medicine" >Bachelor of Medicine</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/bachelor/biomed/" title="Bachelor in Biomedizinischen Wissenschaften" >Bachelor in Biomedizinischen Wissenschaften</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/studium/bachelor/sport/" title="Bachelor in Sport- und Bewegungswissenschaften" >Bachelor in Sport- und Bewegungswissenschaften</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/studium/master/" title="Master"   class="deeper">
+		Master
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/studium/master/med/" title="Master of Medicine" >Master of Medicine</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/master/biomed/" title="Master in Biomedizinischen Wissenschaften" >Master in Biomedizinischen Wissenschaften</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/master/mscebr/" title="Master in Experimental Biomedical Research" >Master in Experimental Biomedical Research</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/studium/master/sport/" title="Master in Sport- und Bewegungswissenschaften" >Master in Sport- und Bewegungswissenschaften</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+<li><a href="https://www3.unifr.ch/scimed/de/studies/doctorate" title="Doktorat" target="_blank">Doktorat</a></li>
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/studium/minors/" title="Zusatz- / Nebenfächer"   class="deeper">
+		Zusatz- / Nebenfächer
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/studium/minors/sport/" title="Zusatz- / Nebenfächer in Sport- und Bewegungswissenschaften" >Sport- und Bewegungswissenschaften</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/studium/minors/neuro/" title="Zusatzfach Neurowissenschaften" >Neurowissenschaften</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+<li><a href="//www3.unifr.ch/med/de/studium/advanced.html" title="Weiterbildung" >Weiterbildung</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/contact/" title="Studienberatung und Kontaktpersonen" >Studienberatung und Kontaktpersonen</a></li>
+<li class="last"><a href="http://www3.unifr.ch/scimed/de/studies/practical/" title="Kurse und Examen" target="_blank">Kurse und Examen</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="">
+	<a href="//www3.unifr.ch/med/de/research/researchgroups/" title="Forschung"   class="deeper">
+		Forschung
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="//www3.unifr.ch/med/de/research/researchgroups/" title="Forschungsgruppen" >Forschungsgruppen</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/research/scientific-report.html" title="Scientific Report" >Scientific Report</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+
+<!-- start parentRowTpl -->
+<li class="last">
+	<a href="//www3.unifr.ch/med/de/services/" title="Dienstleistungen"   class="deeper">
+		Dienstleistungen
+		<!--<span class="deeper"></span>-->
+	</a>
+	
+
+
+<!-- start innerTpl -->
+<div class="level">
+	<ul>
+		<li><a href="#" class="back">Zurück</a></li>
+		<li class="first"><a href="http://www3.unifr.ch/bioimage/" title="Bioimage LFM" target="_blank">Bioimage LFM</a></li>
+<li><a href="//www3.unifr.ch/med/de/services/bis/" title="BIS" >Brain Imaging and Stimulation Platform</a></li>
+<li><a href="https://www3.unifr.ch/scimed/de/cellanalytics" title="Cell Analytics Facility" target="_blank">Cell Analytics Facility</a></li>
+<li><a href="//www3.unifr.ch/med/de/services/koerperspende.html" title="Körperspende" >Körperspende</a></li>
+<li><a href="https://www3.unifr.ch/apps/med/eq/" title="Reservation Geräte" target="_blank">Reservation Geräte</a></li>
+<li><a href="//www3.unifr.ch/med/de/services/acting-patients.html" title="Schauspielpatienten" >Schauspielpatienten</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/services/sportanlagen.html" title="Sportanlagen" >Sportanlagen</a></li>
+
+	</ul>
+</div>
+<!-- end innerTpl -->
+</li>
+<!-- end parentRowTpl -->
+
+</ul>
+<!-- end outerTpl -->
+
+    </div>
+</nav>
+
+
+        </header>
+        <!-- Main content-->
+        <main id="main">
+            <div class="visible-lt-ie9 fixed-page-overlay"></div>
+            <div class="container">
+                <div class="sub-menu--spacer"></div>
+                
+
+
+
+<nav class="deepcrumbs">
+<ul>
+    
+        <li><a href="//www3.unifr.ch/med/de/" class="gfx gfx-home"></a></li>
+	<li><a href="//www3.unifr.ch/med/de/section/">Abteilung</a></li><li><a href="//www3.unifr.ch/med/de/section/departments/">Departemente</a></li><li>NMS</li>
+</ul>
+</nav>
+
+                <div class="content">
+                    <div class="row inner">
+                        <div class="col-md-3 sub-menu">
+                            <nav>
+                                <h4>
+                                    
+                                    <a href="//www3.unifr.ch/med/de/section/" data-expander-toggler="sub-menu" data-fixed-mode-toggler="mobile" class="filter--title fixed-page-mode--toggler hidden-min-laptop">
+                                        Abteilung</a>
+                                    <a href="//www3.unifr.ch/med/de/section/" class="hidden-max-laptop">
+                                        Abteilung</a>
+                                    
+                                </h4>
+
+                                <div data-expander-content="sub-menu" data-expander-group="mobile-nav" class="sub-menu--content">
+
+                                    <ul>
+
+
+<!--parentRowTpl-->
+<li class="first">
+    <a href="//www3.unifr.ch/med/de/section/welcome/" title="Grusswort" class="deeper"  >
+        Grusswort <i data-expander-toggler="sub-menu-72"
+                            
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-72" class="level"
+         
+         >
+        <ul><li class="first"><a href="//www3.unifr.ch/med/de/section/welcome/history.html" title="Geschichte" >Geschichte</a></li>
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+
+
+
+<!--parentRowTpl-->
+<li class="">
+    <a href="//www3.unifr.ch/med/de/section/organisation/" title="Organisation" class="deeper"  >
+        Organisation <i data-expander-toggler="sub-menu-20"
+                            
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-20" class="level"
+         
+         >
+        <ul><li class="first"><a href="//www3.unifr.ch/med/de/section/organisation/president-secmed.html" title="Präsidium" >Präsidium</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/organisation/leadership-teaching.html" title="Leitung Lehre" >Leitung Lehre</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/organisation/medoffice/" title="Med-Office" >Med-Office</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/organisation/commission.html" title="Organe und Kommissionen" >Organe und Kommissionen</a></li>
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+
+
+
+<!--parentRowTpl-->
+<li class="">
+    <a href="//www3.unifr.ch/med/de/section/departments/" title="Departemente" class="deeper"  >
+        Departemente <i data-expander-toggler="sub-menu-83"
+                            data-expander-state="open"
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-83" class="level"
+         data-expander-state="open"
+         >
+        <ul><li class="first"><a href="//www3.unifr.ch/med/de/section/departments/mph/" title="MPH" >Community Health (MPH)</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/departments/emc/" title="EMC" >Endokrinologie, Metabolismus und Kardiovaskuläres System (EMC)</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/departments/mss/" title="MSS" >Medizinische und chirurgische Fachgebiete (MSS)</a></li>
+<li class="active"><a href="//www3.unifr.ch/med/de/section/departments/nms/" title="NMS" >Neuro- und Bewegunswissenschaften (NMS)</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/departments/omi/" title="OMI" >Onkologie, Mikrobiologie und Immunologie (OMI)</a></li>
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+
+
+
+<!--parentRowTpl-->
+<li class="">
+    <a href="//www3.unifr.ch/med/de/section/institutes/" title="Institute und Zentren" class="deeper"  >
+        Institute und Zentren <i data-expander-toggler="sub-menu-84"
+                            
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-84" class="level"
+         
+         >
+        <ul>
+
+
+<!--parentRowTpl-->
+<li class="first">
+    <a href="//www3.unifr.ch/med/de/ifm" title="Institut für Hausarztmedizin (IFM)" class="deeper"  >
+        Institut für Hausarztmedizin (IFM) <i data-expander-toggler="sub-menu-87"
+                            
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-87" class="level"
+         
+         >
+        <ul><li class="first"><a href="//www3.unifr.ch/med/de/section/institutes/inst-ifm/team.html" title="Team" >Team</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/institutes/inst-ifm/media.html" title="Medien" >Medien</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/institutes/inst-ifm/partner.html" title="Partner" >Partner</a></li>
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+
+
+
+<!--parentRowTpl-->
+<li class="">
+    <a href="//www3.unifr.ch/med/de/section/platforms/" title="Lehrplattformen" class="deeper"  >
+        Lehrplattformen <i data-expander-toggler="sub-menu-85"
+                            
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-85" class="level"
+         
+         >
+        <ul>
+
+
+<!--parentRowTpl-->
+<li class="first">
+    <a href="//www3.unifr.ch/med/de/section/platforms/anatomie/" title="Anatomie" class="deeper"  >
+        Anatomie <i data-expander-toggler="sub-menu-396"
+                            
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-396" class="level"
+         
+         >
+        <ul><li class="first"><a href="//www3.unifr.ch/med/de/section/platforms/anatomie/koerperspende.html" title="Körperspendeprogramm" >Körperspendeprogramm</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/platforms/anatomie/tpf-anatomie-personal.html" title="Personal" >Personal</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/platforms/anatomie/studiensammlung.html" title="Studiensammlung" >Studiensammlung</a></li>
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+
+
+
+<!--parentRowTpl-->
+<li class="">
+    <a href="//www3.unifr.ch/med/de/section/platforms/histologie/" title="Histologie" class="deeper"  >
+        Histologie <i data-expander-toggler="sub-menu-395"
+                            
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-395" class="level"
+         
+         >
+        <ul><li class="first"><a href="//www3.unifr.ch/med/de/section/platforms/histologie/personal.html" title="Personal" >Personal</a></li>
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+<li><a href="//www3.unifr.ch/med/de/section/platforms/neurophysiologie/" title="Neurophysiologie" >Neurophysiologie</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/platforms/sport/" title="Sport" >Sport</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/platforms/systemische-physiologie/" title="Systemische Physiologie" >Systemische Physiologie</a></li>
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+
+
+
+<!--parentRowTpl-->
+<li class="">
+    <a href="//www3.unifr.ch/med/de/section/staff/" title="Personal" class="deeper"  >
+        Personal <i data-expander-toggler="sub-menu-23"
+                            
+                            
+                            class="gfx gfx-triangle-thin-down"></i>
+
+    </a>
+    <div data-expander-content="sub-menu-23" class="level"
+         
+         >
+        <ul><li class="first"><a href="//www3.unifr.ch/med/de/section/staff/prof.html" title="Professoren-innen" >Professoren-innen</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/lehr-und-forschungspersonal.html" title="Lehr- und Forschungspersonal" >Lehr- und Forschungspersonal</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/assistenten-innen-und-doktoriende.html" title="Assistenten-innen und Doktoriende" >Assistenten-innen und Doktoriende</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/admin.html" title="Verwaltungspersonal" >Verwaltungspersonal</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/technisches-personal.html" title="Technisches Personal" >Technisches Personal</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/all.html" title="Alle Mitarbeitenden" >Alle Mitarbeitenden</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/staff/emeriti/" title="Emeriti" >Emeriti</a></li>
+</ul>
+    </div>
+</li>
+<!--/parentRowTpl-->
+<li><a href="//www3.unifr.ch/med/de/section/jobs/" title="Offene Stellen" >Offene Stellen</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/place.html" title="Standorte" >Standorte</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/partner.html" title="Partner" >Partner</a></li>
+<li><a href="https://www3.unifr.ch/scimed/de/associations" title="Vereinigungen" target="_blank">Vereinigungen </a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/contacts.html" title="Kontakt" >Kontakt</a></li>
+</ul>
+
+                                </div>
+
+                            </nav>
+
+                        </div>
+                        <div class="col-md-9 inner-30">
+                            <div id="" class="row inner ">
+    <div class="col-md-12 inner-10">
+        <h2>Departement für Neuro- und Bewegungswissenschaften (NMS)<br></h2>
+    </div>
+</div>
+
+<div id="" class="row inner ">
+    <div class="col-md-8 inner-10">
+        <h3>Mitglieder</h3>
+
+<!-- from cache -->
+
+<div class="campusviews--list">    
+    
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/16120/b6711">Annoni Jean-Marie</a></p>
+    
+    Ordentliche-r Professor-in
+</article>
+
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/18304/4329a">Bresciani Jean-Pierre</a></p>
+    
+    Ordentliche-r Professor-in
+</article>
+
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/15198/249bb">Celio Marco</a></p>
+    
+    Ordentliche-r Professor-in
+</article>
+
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/16091/3990a">Merlo Marco</a></p>
+    
+    Ordentliche-r Professor-in
+</article>
+
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/7164/f9a81">Rainer Gregor</a></p>
+    
+    Ordentliche-r Professor-in
+</article>
+
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/15363/5e8cd">Rouiller Eric</a></p>
+    
+    Ordentliche-r Professor-in
+</article>
+
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/16766/cfb5f">Schwaller Beat</a></p>
+    
+    Ordentliche-r Professor-in
+</article>
+
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/11048/b2de9">Spierer Lucas</a></p>
+    
+    Lehr- und Forschungsra(e)t-in, Wissenschaftliche-r Mitarbeiter-in
+</article>
+
+
+<article class="box bg-white shadow">
+    <p><a class="bold" href="https://www3.unifr.ch/med/de/section/departments/nms/people/18091/1a222">Taube Wolfgang</a></p>
+    
+    Ordentliche-r Professor-in
+</article>
+
+</div>
+    </div>
+    <div class="col-md-4 inner-10">
+         <h3>Präsidium<br></h3>
+
+<!-- from cache -->
+
+<div class="row inner cp-card-1col">
+    
+
+<div class="col-sm-12 inner-05">
+    <article class="box inner-05 bg-grey-light shadow">
+        <a href="https://www3.unifr.ch/med/de/section/departments/nms/people/18091/1a222" class="box--link"></a>
+        <div class="box--banner box-people banner">
+
+            <img src="https://www3.unifr.ch/directory/img/placeholder-people.png" alt="">
+
+        </div>
+
+        <h5>Wolfgang Taube</h5>
+        
+        
+        <p>Ordentliche-r Professor-in</p>
+        <p>
+            Büro PER 21 - F429<br />
+            +41 26 300 7283<br />
+        </p>
+        <p class="text-right">
+            <a class="link inline gfx gfx-arrow-right after" href="#">Zum Profil</a>
+        </p>
+
+    </article>
+</div>
+</div>
+
+
+
+<div class="panel panel-default">
+    
+<div class="panel-heading">
+    <p>Kontakt</p>
+</div>
+
+  <div class="panel-body">
+    <div id="" class="row inner ">
+    <div class="col-md-12 inner-10">
+        <p><span class="fa fa-phone mceNonEditable"></span>&nbsp;+41 26 300 72 77</p>
+<p><span class="fa fa-envelope mceNonEditable"></span>&nbsp;<a class="inline-fine" href="mailto:beat.golliard-kaech@unifr.ch">beat.golliard-kaech@unifr.ch</a></p>
+    </div>
+</div>
+  </div>
+</div>       
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer-->
+        
+
+
+        <footer id="footer">
+    <div class="container">
+        <div class="row">
+            <nav class="footer-menu col-md-9">
+                <div class="row">
+                    <div class="col-xs-4">
+                        <h6><a href="//www3.unifr.ch/med/de/section/">ABTEILUNG</a></h6>
+<ul><li class="first"><a href="//www3.unifr.ch/med/de/section/welcome/" title="Grusswort" >Grusswort</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/organisation/" title="Organisation" >Organisation</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/departments/" title="Departemente" >Departemente</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/institutes/" title="Institute und Zentren" >Institute und Zentren</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/platforms/" title="Lehrplattformen" >Lehrplattformen</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/staff/" title="Personal" >Personal</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/jobs/" title="Offene Stellen" >Offene Stellen</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/place.html" title="Standorte" >Standorte</a></li>
+<li><a href="//www3.unifr.ch/med/de/section/partner.html" title="Partner" >Partner</a></li>
+<li><a href="https://www3.unifr.ch/scimed/de/associations" title="Vereinigungen" target="_blank">Vereinigungen </a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/section/contacts.html" title="Kontakt" >Kontakt</a></li>
+</ul>
+                    </div>
+                    <div class="col-xs-4">
+                        <h6><a href="//www3.unifr.ch/med/de/studium/">STUDIUM</a></h6>
+<ul><li class="first"><a href="//www3.unifr.ch/med/de/studium/domains/" title="Studienrichtungen" >Studienrichtungen</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/bachelor/" title="Bachelor" >Bachelor</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/master/" title="Master" >Master</a></li>
+<li><a href="https://www3.unifr.ch/scimed/de/studies/doctorate" title="Doktorat" target="_blank">Doktorat</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/minors/" title="Zusatz- / Nebenfächer" >Zusatz- / Nebenfächer</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/advanced.html" title="Weiterbildung" >Weiterbildung</a></li>
+<li><a href="//www3.unifr.ch/med/de/studium/contact/" title="Studienberatung und Kontaktpersonen" >Studienberatung und Kontaktpersonen</a></li>
+<li class="last"><a href="http://www3.unifr.ch/scimed/de/studies/practical/" title="Kurse und Examen" target="_blank">Kurse und Examen</a></li>
+</ul>
+                    </div>
+                    <div class="col-xs-4">
+                        <h6><a href="//www3.unifr.ch/med/de/research/">FORSCHUNG</a></h6>
+<ul><li class="first"><a href="//www3.unifr.ch/med/de/research/researchgroups/" title="Forschungsgruppen" >Forschungsgruppen</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/research/scientific-report.html" title="Scientific Report" >Scientific Report</a></li>
+</ul>
+
+<h6><a href="//www3.unifr.ch/med/de/services/">DIENSTLEISTUNGEN</a></h6>
+<ul><li class="first"><a href="http://www3.unifr.ch/bioimage/" title="Bioimage LFM" target="_blank">Bioimage LFM</a></li>
+<li><a href="//www3.unifr.ch/med/de/services/bis/" title="BIS" >Brain Imaging and Stimulation Platform</a></li>
+<li><a href="https://www3.unifr.ch/scimed/de/cellanalytics" title="Cell Analytics Facility" target="_blank">Cell Analytics Facility</a></li>
+<li><a href="//www3.unifr.ch/med/de/services/koerperspende.html" title="Körperspende" >Körperspende</a></li>
+<li><a href="https://www3.unifr.ch/apps/med/eq/" title="Reservation Geräte" target="_blank">Reservation Geräte</a></li>
+<li><a href="//www3.unifr.ch/med/de/services/acting-patients.html" title="Schauspielpatienten" >Schauspielpatienten</a></li>
+<li class="last"><a href="//www3.unifr.ch/med/de/services/sportanlagen.html" title="Sportanlagen" >Sportanlagen</a></li>
+</ul>
+                    </div>
+                </div>
+            </nav>
+            <nav class="footer-menu--contact col-md-3 col-xs-12">
+                <div class="row">
+                    <div class="col-sm-6 col-md-12 inner">
+                        
+
+
+
+
+<div>
+    <h6>Kontakt</h6>
+    <p>Universität Freiburg</p>
+    <p>Abteilung Medizin</p>
+    <p>Ch. du Musée 8</p>
+    <p>CH-1700 Freiburg</p>
+    
+    <p><a href="mailto:med-office@unifr.ch" class="link">med-office@unifr.ch</a></p>
+    <p><a href="//www.unifr.ch/med" class="link">www.unifr.ch/med</a></p>
+</div>
+<div class="footer--social-links">
+    <p>
+        <a href="https://www.facebook.com/unifribourg" target="_blank" class="gfx gfx-facebook"></a>
+        <a href="https://twitter.com/unifr" target="_blank" class="gfx gfx-twitter"></a>
+        <a href="https://www.youtube.com/channel/UCx74T4l0XqJFLcdlCavnoXQ" target="_blank" class="fa fa-youtube-play"></a>
+        <a href="https://www.linkedin.com/edu/school?id=10930" target="_blank" class="fa fa-linkedin"></a>
+        <a href="https://instagram.com/unifribourg/" target="_blank" class="fa fa-instagram"></a>
+    </p>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "EducationalOrganization",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Freiburg",
+    "addressRegion": "FR",
+    "postalCode": "1700",
+    "streetAddress": "Ch. du Musée 8"
+  },
+  "url" : "www.unifr.ch/med",
+  "name": "Abteilung Medizin",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+41 026 300 8490",
+      "contactType" : "customer support",
+      "availableLanguage" : ["English","French","German"]
+    } ],
+  "parentOrganization": {
+    "@context": "http://schema.org",
+    "@type": "EducationalOrganization",
+    "name":"Université de Fribourg | Universität Freiburg",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fribourg",
+        "addressRegion": "FR",
+        "postalCode": "1700",
+        "streetAddress": "Avenue de l'Europe 20"
+    },
+    "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+41-026-300-7034",
+      "contactType" : "customer support",
+      "availableLanguage" : ["English","French","German","Italian"],
+      "url":"http://www.unifr.ch/unicom"
+    } ],
+    "sameAs" : "https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Fribourg"
+  }
+}
+</script>
+
+
+
+
+    
+
+                    </div>
+                    <div class="col-sm-6 col-md-12">
+                        
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="footer-menu--meta">
+        <div class="container">
+            <div class="row">
+                <div class="footer--copyright col-md-8 col-sm-6"><span>&copy; Universität Freiburg | </span><a href="//www.unifr.ch/impressum">Impressum</a> | <a href="//www.unifr.ch/disclaimer">Rechtliche Hinweise</a> | <a href="//www.unifr.ch/help">Notfallnummern</a></div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    </div>
+</div>
+<!-- Bundled scripts-->
+<script src="//cdn.unifr.ch/uf/v2.4.1/js/shared.js"></script>
+<script src="//cdn.unifr.ch/uf/v2.4.1/js/app.js"></script>
+
+<!--[if lt IE 10]>
+<script src="//cdn.unifr.ch/uf/v2.4.1/js/lt_ie_10.js"></script><![endif]-->
+<!--[if lt IE 9]>
+<script src="//cdn.unifr.ch/uf/v2.4.1/js/polyfills.js"></script><![endif]-->
+
+
+
+
+
+
+
+<script>
+    setTimeout(function(){
+        $(document).ready(function($) {
+            hash = window.location.hash ;
+            if (hash) {
+                $(hash).click();
+            }
+        });
+    }, 250);
+
+</script>
+
+</body>
+</html>

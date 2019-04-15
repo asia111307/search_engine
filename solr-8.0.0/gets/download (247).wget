@@ -1,0 +1,1125 @@
+
+
+
+
+
+
+    
+<!DOCTYPE html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# event: http://ogp.me/ns/event#">
+
+    <title>OpenReaktor #74 Gamedev edition - Szkolenia w Warszawie, 17.04.2019 - Evenea.pl</title>
+
+    <link rel="shortcut icon" href="//d1ll4kxfi4ofbm.cloudfront.net/gfx/favicon.png" />
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta name="msapplication-config" content="none"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta name="robots" content="index,follow" />
+
+            <meta name="description" content="  On April 17  we&#039;re organizing  OpenReaktor #74 !   On monthly  #OpenReaktor  events we open up Reaktor, a startup mansion in Żoliborz (Central-North Warsaw), inviting interesting speakers and gathering the whole Warsaw startup scene in one place">
+                                                    <meta property="og:url" content="https://evenea.pl/imprezy/szkolenia/warszawa/openreaktor-74-gamedev-edition-219148/?source=fb_share"/>
+        <meta property="og:image" content="https://d1ll4kxfi4ofbm.cloudfront.net/file/event/219148/logo/logo3_219148_20190314114414.png"/>
+        <meta property="og:site_name" content="OpenReaktor #74 Gamedev edition"/>
+        <meta property="og:description" content="  On April 17  we&#039;re organizing  OpenReaktor #74 !   On monthly  #OpenReaktor  events we open up Reaktor, a startup mansion in Żoliborz (Central-North Warsaw), inviting interesting speakers and gathering the whole Warsaw startup scene in one place"/>
+        <meta property="og:type" content="event"/>
+        <meta property="event:start_time" content="2019-04-17 18:00:00"/>
+    
+    <meta property="og:title" content="OpenReaktor #74 Gamedev edition - Szkolenia w Warszawie, 17.04.2019 - Evenea"/>
+    <meta property="fb:app_id" content="180662738631570" />
+
+    <link href="//d1ll4kxfi4ofbm.cloudfront.net/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href="//d1ll4kxfi4ofbm.cloudfront.net/css/common180920160853.css" rel="stylesheet" />
+
+        <link href="//d1ll4kxfi4ofbm.cloudfront.net/css/new201903041322.css" rel="stylesheet" />
+    <link href="//d1ll4kxfi4ofbm.cloudfront.net/css/font-awesome.min.css" rel="stylesheet"/>
+    
+        <link href="//d1ll4kxfi4ofbm.cloudfront.net/css/minisite/minisite110420191134.css" rel="stylesheet"/>
+    
+    
+                        <link rel="canonical" href="https://evenea.pl/imprezy/szkolenia/warszawa/openreaktor-74-gamedev-edition-219148/" />
+            
+    <script type="text/javascript">
+    var hostname="evenea.pl";
+    var _gaq = _gaq || [];
+    </script>
+
+    <script type="text/javascript" src="//d1ll4kxfi4ofbm.cloudfront.net/js/jquery191.min.js"></script>
+    <script type="text/javascript" src="//d1ll4kxfi4ofbm.cloudfront.net/js/jquery-plugins-all.js"></script>
+    <script type="text/javascript" src="//d1ll4kxfi4ofbm.cloudfront.net/js/bootstrap.min.js"></script>
+
+        <script type="text/javascript" src="//d1ll4kxfi4ofbm.cloudfront.net/js/new.201809110905.js" ></script>
+            
+        <script type="text/javascript">
+        window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+        heap.load("1501856457");
+        </script>
+    
+        
+            
+<script type="text/javascript">
+
+      _gaq.push(['_setAccount', 'UA-12482729-1']);
+      _gaq.push(['_setDomainName', 'evenea.pl']);
+      // _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+</script>
+
+    </head>
+
+<body class="  eventDirectoryPage " ontouchstart="" and onmouseover="" id="index ">
+<div id="header" class="topHeaderMain ">
+	<div class="container">
+		<div class="row-fluid">
+						<a id="logo-desktop" class="logo" href="https://evenea.pl/"><img width="90" height="25" src="//d1ll4kxfi4ofbm.cloudfront.net/gfx/logo_color_new.svg" alt="evenea" /></a>
+			<button id="menu-ico-mobile" class="btn btn-link" style="display:none;" ><i class="fa fa-bars"></i></button>
+			<button id="search-ico-mobile" class="btn btn-link" style="display:none;" ><i class="fa fa-search"></i></button>
+
+			<div class="searchAndBrowse">
+				<div id="searchTop">
+					<form action="https://evenea.pl//imprezy" id="search-top-events">
+						<div class="input-append">
+							<input class="topSearchEvent" placeholder="szukaj wydarzeń" type="text" name="s" />
+							<button class="btn-btn-default topSearchEventButton"><i class="icon-search"></i><span style="display:none">Szukaj</span></button>
+						</div>
+						<input type="hidden" name="redirect" value="1"/>
+					</form>
+				</div>
+
+				<div id="browseTop">
+					<ul class="nav">
+						<li class="dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Przeglądaj <b class="caret"></b></a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+																<li><a href="https://evenea.pl/imprezy/szkolenia.html">szkolenia</a></li>
+																<li><a href="https://evenea.pl/imprezy/konferencje.html">konferencje</a></li>
+																<li><a href="https://evenea.pl/imprezy/koncerty.html">koncerty</a></li>
+																<li><a href="https://evenea.pl/imprezy/imprezy.html">imprezy</a></li>
+																<li><a href="https://evenea.pl/imprezy/kultura-i-sztuka.html">kultura i sztuka</a></li>
+																<li><a href="https://evenea.pl/imprezy/sport-i-rekreacja.html">sport i rekreacja</a></li>
+																<li><a href="https://evenea.pl/imprezy/film.html">film</a></li>
+																<li><a href="https://evenea.pl/imprezy/inne.html">inne</a></li>
+															</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+			
+			<ul class="nav pull-right" style="display:none">
+				<li class="nav-signup"><a rel="nofollow" href="https://evenea.pl/rejestracja/?organizator=1">Załóż konto</a></li>
+				<li class="nav-login"><a rel="nofollow" href="https://evenea.pl/logowanie">Zaloguj się</a></li>
+				<li class="nav-createevent"><a rel="nofollow" href="https://evenea.pl/rejestracja/?organizator=1"><span class="plus">+</span> Stwórz wydarzenie</a></li>
+				<li class="nav-myprofile"></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="mobile-menu loggedIn">
+	<button class="pull-right btn btn-link btn-close"><i class="fa fa-times"></i></button>
+	<ul class="nav" style="clear:both;margin-top:20px;float:left;">
+				<li><a href="https://evenea.pl/imprezy/szkolenia.html">szkolenia</a></li>
+				<li><a href="https://evenea.pl/imprezy/konferencje.html">konferencje</a></li>
+				<li><a href="https://evenea.pl/imprezy/koncerty.html">koncerty</a></li>
+				<li><a href="https://evenea.pl/imprezy/imprezy.html">imprezy</a></li>
+				<li><a href="https://evenea.pl/imprezy/kultura-i-sztuka.html">kultura i sztuka</a></li>
+				<li><a href="https://evenea.pl/imprezy/sport-i-rekreacja.html">sport i rekreacja</a></li>
+				<li><a href="https://evenea.pl/imprezy/film.html">film</a></li>
+				<li><a href="https://evenea.pl/imprezy/inne.html">inne</a></li>
+			</ul>
+
+		<ul class="login-true" style="margin-top:20px;display:none;">
+			<li class="myName"></li>
+			<li><a rel="nofollow" href="https://evenea.pl/panel/moje-bilety"><i class="fa fa-ticket"></i> Moje bilety</a></li>
+			<li><a rel="nofollow" href="https://evenea.pl/panel/ustawienia-twoje-dane"><i class="fa fa-cog"></i> Mój profil</a></li>
+			<li><a rel="nofollow" href="https://evenea.pl/panel/moje-wydarzenia"><i class="fa fa-calendar"></i> Moje wydarzenia</a></li>
+			<li><a rel="nofollow" href="https://evenea.pl/wyloguj"><i class="fa fa-sign-out"></i> Wyloguj</a></li>
+		</ul>
+		<ul class="login-false" style="display:none;">
+			<li style="width:100%;margin-top:40px;margin-bottom:20px"><a rel="nofollow"  class="btn btn-success" href="https://evenea.pl/logowanie">Zaloguj</a></li>
+			<li style="width:100%;"><a rel="nofollow"  class="btn btn-default" style="color:#000" href="https://evenea.pl/rejestracja">Załóż konto</a></li>
+		</ul>
+
+</div>
+
+<div class="clear-header"></div>
+
+
+<script async>
+	$('#search-ico-mobile').on('click', function() {
+		$('.searchAndBrowse').toggleClass('expanded');
+		$('.topSearchEvent').focus();
+		return false;
+	})
+
+	$('#menu-ico-mobile, .mobile-menu button.btn-close').on('click', function() {
+		$('.mobile-menu').toggleClass('expanded');
+		$('body').toggleClass('noscroll');
+		return false;
+	})
+
+	$.ajax({
+		url: "/script/header/block-user-menu",
+		dataType: 'json',
+		data: {
+			m: "minisite",
+			c: "index",
+			a: "index",
+		},
+		async: true,
+		success: function(data){
+			setTimeout(function(){
+				$("#header .nav .nav-myprofile").html(data.content);
+				if (data.login === true) {
+					$("#header").addClass('loggedIn');
+					$(".mobile-menu .login-true").show();
+					$(".mobile-menu .login-false").hide();
+				} else {
+					$("#header").removeClass('loggedIn');
+					$(".mobile-menu .login-true").hide();
+					$(".mobile-menu .login-false").show();
+				}
+				$("#header .pull-right").show();
+			}, 100);
+		}
+	});
+</script>
+<div id="content">
+
+
+
+
+<div class="container">
+
+
+        
+
+
+
+
+    
+    
+        <style type="text/css">
+            #enterVoucherCode {display:none;}
+        </style>
+    
+
+
+
+
+<script type="text/javascript">
+    function checkVoucherCodeHide( code ) {
+        var obj = new Object();
+        obj.event_id = '219148';
+        obj.code = code;
+
+        if ( code != undefined && code.length > 0 )
+        {
+            $.ajax({
+                url: "https://openreaktor74.evenea.pl/index/voucher-code-hide?callback=?",
+                data: obj,
+                dataType: "json",
+                success: function(data){
+                    if (data['res'] == 0) {
+                        $('#enterVoucherCode span').html(data['response']);
+                    } else {
+
+                        for ( i in data.arr )
+                        {
+                            $("#ticketRow"+data.arr[i]).show();
+                        }
+
+                        tabElementVoucherCode();
+
+                        $('#ticketChoose').show();
+
+                        $('body').removeClass('minisiteEnterVoucherCodeAccess');
+                        $('#enterVoucherCode span').html();
+                        $('#enterVoucherCode').hide();
+                        $('#formTickets .endBar').show();
+                        $('#formTickets .boxTitle').show();
+                    }
+                }
+            });
+} else {
+    tabElementVoucherCode();
+}
+}
+
+function tabElementVoucherCode()
+{
+
+    if ($('#ticketChoose tbody tr:visible').length == 0) {
+    }
+
+    if ($('#ticketChoose tbody tr:visible').length == 0 && $('#enterVoucherCode') != "") {
+        $('body').addClass('minisiteEnterVoucherCodeAccess');
+    }
+}
+
+$(document).ready(function(){
+    $("input[name=btnVoucherInput]").click(function(){
+        checkVoucherCodeHide( $("input[name=voucher_code_access]").val() );
+        return false;
+    });
+
+    checkVoucherCodeHide( $("input[name=voucher_code_access]").val() );
+});
+</script>
+
+<div class="row-fluid eventDirectory eventMainContent219148" id="eventMainContent" itemscope itemtype="http://schema.org/Event">
+
+    <div class="span8" id="mainCol">
+                            <div class="hero-unit " id="eventHeader">
+                    
+                    <h1 id="eventTitle" itemprop="name">OpenReaktor #74 Gamedev edition </h1>
+            </div>
+
+                        <div class="imgContainer imgContainerMain">
+                <div class="imgContainerInside">
+                    <img src="https://d1ll4kxfi4ofbm.cloudfront.net/file/event/219148/logo/logo3_219148_20190314114414.png" itemprop="image" alt=""/>
+                    <span id="eventTitle-mobile" style="display:none">OpenReaktor #74 Gamedev edition</span>
+                </div>
+            </div>
+            
+            <div class="boxMiejsce-mobile" style="display:none;">
+                <div class="well" id="boxMiejsceTermin">
+	<div class="boxInner boxTerminy">
+		<div class="row-fluid">
+			                <h3 class="eventDate" itemprop="startDate" content="2019-04-17 18:00:00">17&nbsp;Kwietnia&nbsp;2019, 18:00<span class="weekday"> (Środa)</span></h3>
+            			<a  class="add-to-calendar-standard" href="#myModalCalendar" target="_blank" role="button" data-toggle="modal">
+				Dodaj do kalendarza
+			</a>
+		</div>
+	</div>
+
+	<a class="btn btn-default btn-block add-to-calendar-mobile" href="#myModalCalendar" target="_blank" role="button" data-toggle="modal">
+		<i class="icon-calendar"></i> Dodaj do kalendarza
+	</a>
+
+	<div class="clearfix"></div>
+
+		<div class="boxInner boxMiejsce" itemprop="location" itemscope itemtype="http://schema.org/Place">
+		<address>
+						<h3 itemprop="name">
+				<a  style="font-size:inherit !important;color:inherit !important;" href="https://evenea.pl/miejsce/reaktorwarsaw-3983">ReaktorWarsaw</a>			</h3>
+			
+			<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">Bohomolca 15</span>
+				, <span itemprop="addressLocality">Warszawa</span>			</p>
+		</address>
+
+					<a target="_blank" href="https://maps.google.com/?q=Warszawa Bohomolca 15" style="cursor:pointer;">Zobacz na mapie</a>
+			<div class="clearfix"></div>
+			</div>
+	</div>
+
+
+
+    
+
+    <div class="priceBox">
+        <p itemprop="offers" class="ticketPrice " itemscope="itemscope" itemtype="http://schema.org/Offer">
+            <span itemprop="price">Udział bezpłatny</span>
+            <meta itemprop="priceCurrency" content="PLN" />
+        </p>
+
+                    <a class="btn_green" rel="nofollow" href="https://openreaktor74.evenea.pl?source=evenea-directory">Zarejestruj się</a>
+            </div>
+
+
+
+
+<style type="text/css">
+
+#eventDescription .priceBox {
+    background:none;
+    border-bottom:1px solid silver;
+}
+
+.priceBox ul {
+    margin-top:20px;
+    margin-left:15px;
+    margin-bottom: 0;
+}
+
+.priceBox li {
+    list-style:none;
+    text-align:left;
+    color:#fff;
+    margin-left:0;
+    padding-left:20px;
+    margin-bottom:0px;
+    font-size:11px;
+    line-height:17px;
+    background:url(//d1ll4kxfi4ofbm.cloudfront.net/gfx/ico/tick-white-small2.png) no-repeat left 3px;
+}
+
+#eventDescription .priceBox ul {
+    display: none;
+}
+
+
+</style>
+
+<div style="clear:both"></div>
+
+            </div>
+
+            <a name="tabs"></a>
+            <div class="eTabs">
+                <ul class="nav nav-tabs" id="myTab">
+                    <li class="active"><a href="#opis">Opis</a></li>
+
+                    
+                                            <li><a href="#ceny">Rejestracja</a></li>
+                    
+                </ul>
+
+                <div class="tab-content">
+                    <div class="tab-pane active" id="opis">
+                                                <div id="eventDescription" style="margin-top: 20px;margin-bottom: 20px">
+                                                                                            <p><strong>On&nbsp;April&nbsp;17&nbsp;</strong>we're organizing<strong> OpenReaktor #74</strong>!<br></p><p>On monthly <a class="_58cn" href="https://www.facebook.com/hashtag/openreaktor" data-ft="{" tn":"*n","type":104}"="" rel="nofollow">#OpenReaktor</a> events we open up Reaktor, a startup mansion in Żoliborz (Central-North Warsaw), inviting interesting speakers and gathering the whole Warsaw startup scene in one place to network. Hot Pizza, cold beer, great location, wonderful people and fantastic speakers!</p><p><strong>Agenda:</strong><br></p><p>18:00 Beer &amp; Networking<br>19:00 Announcements<br>- Karol Drzymała: Founder and General Manager Orbital Knigh, Be lean or die <br>- Mikołaj Marcisz: Founder &amp; Chief Creative Officer Vavel Game Studios, Relaunching a multi-million dollar MMO project with no money<br>- Jakub Pieczykolan, CEO Qubic Games: How not to pitch games to a publisher</p><p>21:00 Pizza</p><p><a href="https://www.facebook.com/events/277370462988902/" target="_blank" rel="nofollow">Facebook event</a><br></p><p><br></p><p><strong>PIZZA PARTNER</strong></p><p><a href="http://www.skmlegal.pl/" target="_blank" rel="nofollow"><img src="https://d1ll4kxfi4ofbm.cloudfront.net/images/72369/c6bcbc9256375e7d2ee9ed232e7ac938.png" alt="" style="width: 188px; height: 177.688px;"></a></p><p><br></p><p><b>PARTNER<br></b><img src="https://d1ll4kxfi4ofbm.cloudfront.net/images/72369/92a7a60fc1756833306e0259b1d0de4b.png" style="width: 235px; height: 105.915px;"></p><p><a href="https://jcd.pl/" target="_blank" rel="nofollow"><img src="https://d1ll4kxfi4ofbm.cloudfront.net/images/72369/519ff11e969f3b81c7eeb5556ecbd7ea.png" alt="" style="width: 221px; height: 85.9751px;"></a></p>
+                                                        
+
+    
+
+    <div class="priceBox">
+        <p itemprop="offers" class="ticketPrice " itemscope="itemscope" itemtype="http://schema.org/Offer">
+            <span itemprop="price">Udział bezpłatny</span>
+            <meta itemprop="priceCurrency" content="PLN" />
+        </p>
+
+                    <a class="btn_green" rel="nofollow" href="https://openreaktor74.evenea.pl?source=evenea-directory">Zarejestruj się</a>
+            </div>
+
+
+
+
+<style type="text/css">
+
+#eventDescription .priceBox {
+    background:none;
+    border-bottom:1px solid silver;
+}
+
+.priceBox ul {
+    margin-top:20px;
+    margin-left:15px;
+    margin-bottom: 0;
+}
+
+.priceBox li {
+    list-style:none;
+    text-align:left;
+    color:#fff;
+    margin-left:0;
+    padding-left:20px;
+    margin-bottom:0px;
+    font-size:11px;
+    line-height:17px;
+    background:url(//d1ll4kxfi4ofbm.cloudfront.net/gfx/ico/tick-white-small2.png) no-repeat left 3px;
+}
+
+#eventDescription .priceBox ul {
+    display: none;
+}
+
+
+</style>
+                            <div style="clear:both"></div>
+                                                        <div class="tags" style="margin-top:30px;padding-top:20px;">
+    <p><strong>Zobacz również:</strong></p>
+    
+    <style>
+        div.tags a.label {
+            background:transparent;
+            color:inherit !important;
+            text-shadow:none;
+            border:1px solid silver;
+            font-weight:normal;
+        }
+
+        div.tags a.label:hover {
+            background:#efefef !important;
+        }
+    </style>
+    
+
+    <a class="tag label" href="https://evenea.pl/imprezy/szkolenia.html">szkolenia</a>
+
+        <a class="tag label" href="https://evenea.pl/imprezy/szkolenia/warszawa.html">szkolenia w Warszawie</a>
+    
+    
+        <a class="tag label" href="https://evenea.pl/imprezy/warszawa.html">wydarzenia Warszawa</a>
+    
+    </div>
+                                                    </div>
+
+                                                    <p class="organizator organizatorContact">
+                                <a rel="nofollow" href="https://openreaktor74.evenea.pl//kontakt-z-organizatorem">Skontaktuj się z organizatorem </a>
+                            </p>
+
+                            <p style="font-size:11px;margin-top:0;" class="organizator">Organizatorem wydarzenia "<a style="color:inherit" href="https://evenea.pl/imprezy/szkolenia/warszawa/openreaktor-74-gamedev-edition-219148/"><strong>OpenReaktor #74 Gamedev edition</strong></a>" jest <strong><a style="color:inherit" href="https://evenea.pl/organizator?id=272222">ReaktorWarsaw</a></strong></p>
+
+                            
+
+                            <style>
+
+                            .organizatorContact {
+                                margin-top:30px;
+                                margin-bottom:0px;
+                                padding: 0 !important;
+                            }
+
+                            .organizatorContact a {
+                                background: #E6E6E6;
+                                padding: 4px 12px;
+                                border-radius: 5px;
+                                margin-bottom: 10px;
+                                display: inline-block;
+                                border: 1px solid #D5D5D5;
+                                color: #000 !important;
+                                font-weight: bold;
+                                font-size:11px;
+                            }
+
+                            .organizatorContact a:hover {
+                                background:#D5D5D5;
+                                border:1px solid silver;
+                                color:#000;
+                                text-decoration:none;
+                            }
+
+
+                            </style>
+                            
+                                            </div>
+
+                                        <div class="tab-pane" id="ceny">
+                                                                        <div class="well wellNoPadding" id="boxBilety">
+                        <div class="boxInner boxInside">
+                            <form  action="https://openreaktor74.evenea.pl/?source=evenea-directory" method="post"  id="formTickets">
+                                <fieldset>
+                                    <div class="boxInner">
+
+                            
+                                    
+                                                                            <table cellspacing="0" class="table table-striped" id="ticketChoose">
+                                            <thead class="ticketChooseThead">
+                                                <tr>
+                                                    <th class="wIco">&nbsp;</th>
+                                                    <th class="thName" style="width:400px">Rodzaj</th>
+                                                    <th class="thAvailable">Dostępne&nbsp;do</th>
+                                                                                                                                                                <th class="thNumberOf right">Liczba</th>
+                                                                                                    </tr>
+                                            </thead>
+                                            <tbody>
+                                                                                                                                                                                                        
+
+                                                    
+                                                    <tr class="ticketRow" id="ticketRow165113">
+                                                        <td class="wIco">
+                                                                                                                    &nbsp;
+                                                                                                                </td>
+
+                                                        <td class="tdName" data-th="Rodzaj">
+                                                            Early bird free ticket
+                                                            <div class="ticketDetails">
+
+                                                                
+                                                                
+                                                            </div>
+
+                                                        </td>
+
+                                                        <td class="tdAvailable lowercase" data-th="Dostępne&nbsp;do">
+                                                                                                                            17&nbsp;Kwietnia&nbsp;2019, 13:00
+                                                                                                                    </td>
+
+                                                                                                                
+                                                        <td class="tdNumberOf right" data-th="Liczba">
+                                                                                                                                                                                                                                                                <select class="input-small" name="ticket[165113]"  data-cena-biletu="0">
+                                                                                                                                                                                                                            <option value="1" >1</option>
+                                                                                                                                            </select>
+                                                                                                                            
+                                                        </td>
+
+                                                    </tr>
+                                                                                                                                                                                                                                                                                                </tbody>
+                                        </table>
+
+                                        
+                                        
+                                        <script type="text/javascript">
+                                        $(document).ready(function(){
+
+
+                                            $('#haveCode').click(function(e) {
+                                                $('#haveCode').hide();
+                                                $('#voucher_code').show();
+                                                e.preventDefault();
+                                            })
+
+                                            function WartoscZamowienia() {
+                                                var v = 0;
+                                                $('td.tdNumberOf select[name^=ticket]').each(function(){
+                                                    if ( $(this).val() > 0 && $(this).attr('data-cena-biletu') != undefined ) {
+
+
+                                                        v += $(this).val()*$(this).attr('data-cena-biletu');
+
+
+                                                        
+                                                                                                                
+                                                    }
+                                                });
+
+                                                if ( v > 0 ) {
+                                                    v = v.toFixed(2);
+                                                    v_number_format = v.replace(/\./g, ',');
+                                                    $('.wartosc-zamowienia.do-zaplaty').show();
+                                                    $('.wartosc-zamowienia.kod-promocyjny').show();
+                                                    $('.wartosc-zamowienia.do-zaplaty .wartosc').text(v_number_format);
+                                                    $('.wartosc-zamowienia.do-zaplaty .wartosc-netto').text((v/1.23).toFixed(2).replace(/\./g, ','));
+                                                    $('.wartosc-zamowienia.do-zaplaty .wartosc').attr('data-value',v);
+                                                    $('.wartosc-zamowienia.suma .wartosc').text(v_number_format);
+                                                    $('.wartosc-zamowienia.suma .wartosc').attr('data-value',v);
+                                                    $('input[name=amount_tmp]').val(v);
+                                                    voucherCode();
+                                                } else {
+                                                    $('.wartosc-zamowienia').hide();
+                                                    $('input[type=text][name=voucher_code]').val('');
+                                                }
+                                            }
+
+                                            function voucherCode() {
+                                                var voucher_code = $('input[type=text][name=voucher_code]').val();
+                                                if ( typeof voucher_code == "undefined" ) {
+                                                    voucher_code = '';
+                                                }
+
+                                                if ( voucher_code.length == 0 ) {
+                                                    $('.wartosc-zamowienia.rabat .wartosc').text( 0 );
+                                                    $('.wartosc-zamowienia.rabat .wartosc').attr( 'data-value', 0 );
+                                                    $('input[type=text][name=voucher_code]').attr('data-check',1);
+                                                    $('.voucher-check').hide();
+                                                } else {
+                                                    $('.voucher-check span').hide();
+                                                    $('.voucher-check .wait').show();
+                                                    $('.voucher-check').show();
+                                                    var objParams = new Object();
+                                                        objParams['voucher_code'] = voucher_code;
+                                                        objParams['payment_method'] = $('input[name=payment_method]:checked').val();
+                                                        $('#ticketChoose').find('select[name^=ticket],input[name^=ticket]').each(function(){
+                                                            objParams[$(this).attr('name')] = $(this).val();
+                                                        });
+
+                                                    $.ajax({
+                                                          url: "https://openreaktor74.evenea.pl/index/check-voucher-code?event_id=219148&callback=?",
+                                                          dataType: 'json',
+                                                          data: objParams,
+                                                          async: true,
+                                                          success: function(data){
+                                                              $('.voucher-check .wait').hide();
+                                                              if ( data.res == 1 ) {
+                                                                  $('.voucher-check span').hide();
+                                                                  if ( data.error == 0 && data.bln == 1 ) {
+                                                                      rabat = $('.wartosc-zamowienia.do-zaplaty .wartosc').attr('data-value')-data.amount;
+                                                                      rabat = rabat.toFixed(2);
+                                                                      rabat_number_format = rabat.replace(/\./g, ',');
+
+                                                                      $('.wartosc-zamowienia.rabat .wartosc').text( rabat_number_format );
+                                                                      $('.wartosc-zamowienia.rabat .wartosc').attr( 'data-value', rabat );
+
+                                                                      $('.wartosc-zamowienia.do-zaplaty .wartosc').text( data.amount_number_format );
+                                                                    var valueNet = data.amount_number_format.replace(/\,/g, '.');
+                                                                    $('.wartosc-zamowienia.do-zaplaty .wartosc-netto').text((valueNet/1.23).toFixed(2).replace(/\./g, ','));
+
+                                                                      $('.wartosc-zamowienia.suma').show();
+                                                                      $('.wartosc-zamowienia.rabat').show();
+                                                                    $('#haveCode').hide();
+                                                                    $('#voucher_code').show();
+                                                                      $('.voucher-check .success').show();
+                                                                      $('input[type=text][name=voucher_code]').attr('data-check',1);
+                                                                      $('input[name=amount_tmp]').val( data.amount );
+                                                                  } else {
+                                                                      $('.wartosc-zamowienia.rabat .wartosc').text( 0 );
+                                                                      $('.wartosc-zamowienia.rabat .wartosc').attr( 'data-value', 0 );
+                                                                      $('.wartosc-zamowienia.suma').hide();
+                                                                      $('.wartosc-zamowienia.rabat').hide();
+                                                                      $('.wartosc-zamowienia.do-zaplaty .wartosc').text( $('.wartosc-zamowienia.suma .wartosc').text() );
+                                                                      //alert( data.msg );
+                                                                      $('.voucher-check .error').show();
+                                                                      $('.voucher-check .error').text( data.msg );
+                                                                      $('input[type=text][name=voucher_code]').attr('data-check',0);
+                                                                      $('input[name=amount_tmp]').val( $('.wartosc-zamowienia.suma .wartosc').text() );
+                                                                  }
+                                                              }
+                                                          }
+                                                    });
+                                                }
+                                            }
+
+                                            /*
+                                            $('input[type=text][name=voucher_code]').change(function(){
+                                                voucherCode( 0 );
+                                            });
+                                            */
+
+                                            var myTimeoutVoucherCode=false;
+                                            $('input[type=text][name=voucher_code]').keyup(function(e){
+                                                $('input[type=text][name=voucher_code]').attr('data-check',0);
+                                                $('.voucher-check span').hide();
+                                                $('.voucher-check .wait').show();
+                                                if ( myTimeoutVoucherCode != false ) {
+                                                    clearTimeout(myTimeoutVoucherCode);
+                                                }
+                                                myTimeoutVoucherCode=setTimeout(function(){
+                                                    voucherCode();
+                                                },500);
+                                            });
+
+                                            $('td.tdNumberOf select[name^=ticket]').change(function(){
+                                                if ( $(this).attr('data-cena-biletu') != undefined ) {
+                                                    WartoscZamowienia();
+                                                }
+                                            })
+
+                                            $(".wartosc-zamowienia.oplata-dodatkowa-platnosc input[name=payment_method]").click(function(){
+                                                WartoscZamowienia();
+                                            });
+
+                                            
+                                                                                        
+
+                                            WartoscZamowienia();
+
+                                            
+
+
+
+                                        });
+                                        </script>
+                                        
+
+                                        
+                                            
+
+                                        <div class="endBar" style="text-align:center;">
+                                                                                            <input type="submit" class="btn btn-success btn-large" value="Get your free ticket" />
+
+                                            
+                                        </div>
+                                        
+                                    
+
+                        </div>
+                                </fieldset>
+
+                            </form>
+
+                        </div>
+
+
+
+
+                    </div>
+
+
+
+                            
+                                            </div>
+                                    </div>
+            </div>
+        
+        
+
+                                </div><!--end of main col-->
+
+            <div class="span4 sidebarEventDirectory" id="sidebar">
+            
+
+                            <div class="well" id="boxMiejsceTermin">
+	<div class="boxInner boxTerminy">
+		<div class="row-fluid">
+			                <h3 class="eventDate" itemprop="startDate" content="2019-04-17 18:00:00">17&nbsp;Kwietnia&nbsp;2019, 18:00<span class="weekday"> (Środa)</span></h3>
+            			<a  class="add-to-calendar-standard" href="#myModalCalendar" target="_blank" role="button" data-toggle="modal">
+				Dodaj do kalendarza
+			</a>
+		</div>
+	</div>
+
+	<a class="btn btn-default btn-block add-to-calendar-mobile" href="#myModalCalendar" target="_blank" role="button" data-toggle="modal">
+		<i class="icon-calendar"></i> Dodaj do kalendarza
+	</a>
+
+	<div class="clearfix"></div>
+
+		<div class="boxInner boxMiejsce" itemprop="location" itemscope itemtype="http://schema.org/Place">
+		<address>
+						<h3 itemprop="name">
+				<a  style="font-size:inherit !important;color:inherit !important;" href="https://evenea.pl/miejsce/reaktorwarsaw-3983">ReaktorWarsaw</a>			</h3>
+			
+			<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">Bohomolca 15</span>
+				, <span itemprop="addressLocality">Warszawa</span>			</p>
+		</address>
+
+					<a target="_blank" href="https://maps.google.com/?q=Warszawa Bohomolca 15" style="cursor:pointer;">Zobacz na mapie</a>
+			<div class="clearfix"></div>
+			</div>
+	</div>
+
+
+
+    
+
+    <div class="priceBox">
+        <p itemprop="offers" class="ticketPrice " itemscope="itemscope" itemtype="http://schema.org/Offer">
+            <span itemprop="price">Udział bezpłatny</span>
+            <meta itemprop="priceCurrency" content="PLN" />
+        </p>
+
+                    <a class="btn_green" rel="nofollow" href="https://openreaktor74.evenea.pl?source=evenea-directory">Zarejestruj się</a>
+            </div>
+
+
+
+
+<style type="text/css">
+
+#eventDescription .priceBox {
+    background:none;
+    border-bottom:1px solid silver;
+}
+
+.priceBox ul {
+    margin-top:20px;
+    margin-left:15px;
+    margin-bottom: 0;
+}
+
+.priceBox li {
+    list-style:none;
+    text-align:left;
+    color:#fff;
+    margin-left:0;
+    padding-left:20px;
+    margin-bottom:0px;
+    font-size:11px;
+    line-height:17px;
+    background:url(//d1ll4kxfi4ofbm.cloudfront.net/gfx/ico/tick-white-small2.png) no-repeat left 3px;
+}
+
+#eventDescription .priceBox ul {
+    display: none;
+}
+
+
+</style>
+
+<div style="clear:both"></div>
+
+                        
+                                                </div><!--/sidebar-->
+                    <div class="boxPolecamyTakze myEvents" style="margin-top:30px;clear:both;">
+                <h4 class="boxTitle" style="margin-bottom:20px">Polecamy także:</h4>
+                <div class="row-fluid">
+                                                                    
+
+
+	
+    
+    <div class="imgContainer eventThumb" style="position:relative;" itemscope itemtype="http://schema.org/Event">
+        <div class="imgContainerInside">
+                            <img class="eventPhotoThumb" src="https://d1ll4kxfi4ofbm.cloudfront.net/file/event/219153/logo/logo4_219153_20190314121026.jpg"  alt="Business Insider Trends Festival"/>
+                    </div>
+        <h2 class="eventTitle" itemprop="name">
+            <a href="https://evenea.pl/imprezy/konferencje/warsaw/business-insider-trends-festival-219153/?utm_source=related_events&utm_medium=evenea_www&utm_term=future_event&utm_campaign=event_promo" itemprop="url">Business Insider Trends Festival</a>
+        </h2>
+        <div class="datePrice">
+            <span class="date" itemprop="startDate" content="2019-10-02 09:00:00">
+                2 Października - 3 Października
+            </span>
+
+                            <span class="price">od&nbsp;600,00&nbsp;zł</span>
+                    </div>
+
+        <div class="placeAndCategory">
+                            <span class="location" itemprop="location" itemscope itemtype="http://schema.org/EventVenue">
+                    <span itemprop="name" class="address">The Koneser Square</span>,                     <span itemprop="address" itemscope itemtype="http://schema.org/postaladdress">
+                        <span itemprop="addressLocality">Warsaw</span>
+                    </span>
+                </span>
+                    </div>
+        <div style="clear:both;"></div>
+        <p class="buyTicket" style="">
+            <button class="btn btn-large btn-success">Kup&nbsp;bilety</button>
+        </p>
+    </div>
+
+                                                
+
+
+	
+    
+    <div class="imgContainer eventThumb" style="position:relative;" itemscope itemtype="http://schema.org/Event">
+        <div class="imgContainerInside">
+                            <img class="eventPhotoThumb" src="https://d1ll4kxfi4ofbm.cloudfront.net/file/event/222099/logo/logo4_222099_20190411164019.png"  alt="I love Commerce"/>
+                    </div>
+        <h2 class="eventTitle" itemprop="name">
+            <a href="https://evenea.pl/imprezy/konferencje/poznan/i-love-commerce-222099/?utm_source=related_events&utm_medium=evenea_www&utm_term=future_event&utm_campaign=event_promo" itemprop="url">I love Commerce</a>
+        </h2>
+        <div class="datePrice">
+            <span class="date" itemprop="startDate" content="2019-05-10 10:00:00">
+                10 Maja, 10:00 - 19:00
+            </span>
+
+                            <span class="price">od&nbsp;701,10&nbsp;zł</span>
+                    </div>
+
+        <div class="placeAndCategory">
+                            <span class="location" itemprop="location" itemscope itemtype="http://schema.org/EventVenue">
+                    <span itemprop="name" class="address">MTP Sala Ziemi</span>,                     <span itemprop="address" itemscope itemtype="http://schema.org/postaladdress">
+                        <span itemprop="addressLocality">Poznań</span>
+                    </span>
+                </span>
+                    </div>
+        <div style="clear:both;"></div>
+        <p class="buyTicket" style="">
+            <button class="btn btn-large btn-success">Kup&nbsp;bilety</button>
+        </p>
+    </div>
+
+                                                
+
+
+	
+    
+    <div class="imgContainer eventThumb" style="position:relative;" itemscope itemtype="http://schema.org/Event">
+        <div class="imgContainerInside">
+                            <img class="eventPhotoThumb" src="https://d1ll4kxfi4ofbm.cloudfront.net/file/event/222096/logo/logo4_202722_20180903224400.jpg"  alt="Warsztat Edukacji Finansowej - Gra Cashflow !"/>
+                    </div>
+        <h2 class="eventTitle" itemprop="name">
+            <a href="https://evenea.pl/imprezy/szkolenia/warszawa/warsztat-edukacji-finansowej-gra-cashflow--222096/?utm_source=related_events&utm_medium=evenea_www&utm_term=future_event&utm_campaign=event_promo" itemprop="url">Warsztat Edukacji Finansowej - Gra Cashflow !</a>
+        </h2>
+        <div class="datePrice">
+            <span class="date" itemprop="startDate" content="2019-04-17 19:00:00">
+                Pojutrze, 19:00 - 21:00
+            </span>
+
+                            <span class="price">28,29&nbsp;zł</span>
+                    </div>
+
+        <div class="placeAndCategory">
+                            <span class="location" itemprop="location" itemscope itemtype="http://schema.org/EventVenue">
+                    <span itemprop="name" class="address">Warszawa</span>,                     <span itemprop="address" itemscope itemtype="http://schema.org/postaladdress">
+                        <span itemprop="addressLocality">Warszawa</span>
+                    </span>
+                </span>
+                    </div>
+        <div style="clear:both;"></div>
+        <p class="buyTicket" style="">
+            <button class="btn btn-large btn-success">Kup&nbsp;bilety</button>
+        </p>
+    </div>
+
+                                                
+
+
+	
+    
+    <div class="imgContainer eventThumb" style="position:relative;" itemscope itemtype="http://schema.org/Event">
+        <div class="imgContainerInside">
+                            <img class="eventPhotoThumb" src="https://d1ll4kxfi4ofbm.cloudfront.net/file/event/219242/logo/logo4_219242_20190315155447.png"  alt="WORLD SALES CONGRESS 2019 - ŁÓDŹ"/>
+                    </div>
+        <h2 class="eventTitle" itemprop="name">
+            <a href="https://evenea.pl/imprezy/konferencje/91-065-lodz/world-sales-congress-2019-lodz-219242/?utm_source=related_events&utm_medium=evenea_www&utm_term=future_event&utm_campaign=event_promo" itemprop="url">WORLD SALES CONGRESS 2019 - ŁÓDŹ</a>
+        </h2>
+        <div class="datePrice">
+            <span class="date" itemprop="startDate" content="2019-05-24 09:00:00">
+                24 Maja, 09:00 - 17:45
+            </span>
+
+                            <span class="price">od&nbsp;390,00&nbsp;zł</span>
+                    </div>
+
+        <div class="placeAndCategory">
+                            <span class="location" itemprop="location" itemscope itemtype="http://schema.org/EventVenue">
+                    <span itemprop="name" class="address">Hotel Andels 4****</span>,                     <span itemprop="address" itemscope itemtype="http://schema.org/postaladdress">
+                        <span itemprop="addressLocality">91-065 Łódź</span>
+                    </span>
+                </span>
+                    </div>
+        <div style="clear:both;"></div>
+        <p class="buyTicket" style="">
+            <button class="btn btn-large btn-success">Kup&nbsp;bilety</button>
+        </p>
+    </div>
+
+                                                            </div><!--endfluid-->
+            </div>
+            
+</div>
+
+    <div id="myModalCalendar" class="modal hide" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+		<h3 id="myModalLabel">Dodaj do kalendarza</h3>
+	</div>
+	<div class="modal-body">
+		<p>
+			<a rel="nofollow" href="https://openreaktor74.evenea.pl/calendar/google" target="_blank"> <img src="//d1ll4kxfi4ofbm.cloudfront.net/gfx/google-cal.png" alt="">Google Calendar</a>
+		</p>
+		<p>
+			<a rel="nofollow" href="https://openreaktor74.evenea.pl/calendar/ics"> <img src="//d1ll4kxfi4ofbm.cloudfront.net/gfx/outlook-cal.png" alt="">Outlook</a>
+		</p>
+		<p>
+			<a rel="nofollow" href="https://openreaktor74.evenea.pl/calendar/ics"> <img src="//d1ll4kxfi4ofbm.cloudfront.net/gfx/ical.png" alt="">iCal</a>
+		</p>
+	</div>
+</div>
+
+
+
+<style>
+	#myModalCalendar p {
+		border-bottom:1px solid #efefef;
+		margin:0;
+		font-size:15px;
+	}
+
+	#myModalCalendar p a {
+		padding:20px;
+		display:block;
+	}
+
+	#myModalCalendar p img {
+		margin-right: 15px;
+	}
+
+	#myModalCalendar p a:hover {
+		background: #efefef;
+		text-decoration:none;
+	}
+
+</style>
+
+
+   
+
+
+<style type="text/css">
+    
+    .lang-en { display: none; }
+    
+</style></div><!--/content-->    <div style="float: left;width:100%;background:#F5F5F5;padding-top:20px;padding-bottom: 20px;">
+        <h3 style="text-align:center;">Organizujesz wydarzenie?</h3>
+        <h4 style="text-align:center;font-weight:300;margin-bottom:20px;">Dołącz do tysięcy polskich organizatorów korzystających z Evenea do sprzedaży biletów i rejestracji uczestników.</h4>
+        <p style="text-align:center;margin-bottom:30px">
+            <a target="_blank" style="font-size:18px;text-transform:uppercase;padding:8px 20px;font-weight:300 !important;text-shadow:none;" href="https://evenea.pl/dla-organizatorow?utm_source=event_website&utm_medium=evenea_www&utm_term=footer_b2b_big&utm_campaign=b2b" class="btn btn-default">
+            Dowiedz się więcej
+            </a>
+        </p>
+    </div>
+    <div style="clear:both">
+
+<footer class="footer">
+    <div class="row row-fluid">
+        <div class="container">
+            <div class="span3">
+                <ul class="menu_footer">
+                    <li class="first">Czym jest evenea?</li>
+                    <li><a href="https://evenea.pl/dla-organizatorow">Rejestracja uczestników</a></li>
+                    <li><a rel="nofollow" href="https://evenea.pl/dla-organizatorow/klienci">Klienci</a></li>
+                    <li><a rel="nofollow" href="https://evenea.pl/dla-organizatorow/cennik">Cennik</a></li>
+                    <li><a rel="nofollow" href="https://evenea.pl/dla-organizatorow/kontakt">Kontakt</a></li>
+                    <li><a rel="nofollow" href="https://evenea.pl/regulamin">Regulamin</a></li>
+                    <li><a rel="nofollow" href="https://evenea.pl/polityka-prywatnosci">Polityka prywatności</a></li>
+                    <li><a href="https://blog.evenea.pl" target="_blank">Blog</a></li>
+                </ul>
+            </div>
+            <div class="span3 li_jaktodziala">
+                <ul class="menu_footer">
+                    <li class="first">Jak to działa?</li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/funkcje/strona-www">Strona WWW</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/funkcje/promocja">Promocja</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/funkcje/sprzedaz-biletow">Sprzedaż biletów</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/funkcje/zarzadzanie">Zarządzanie</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/funkcje/integracja-z-facebookiem">Integracja z Facebookiem</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/funkcje/mobile">Mobile</a></li>
+                </ul>
+            </div>
+            <div class="span3 li_rozwiazania">
+                <ul class="menu_footer">
+                    <li class="first">Rozwiązania</li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/rozwiazania/szkolenia-i-kursy">Szkolenia i kursy</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/rozwiazania/konferencje-i-targi">Konferencje i targi</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/rozwiazania/festiwale-i-imprezy-masowe">Festiwale i imprezy masowe</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/rozwiazania/imprezy-sportowe">Imprezy sportowe</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/rozwiazania/koncerty-i-imprezy-muzyczne">Koncerty i imprezy muzyczne</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/rozwiazania/wydarzenia-spoleczne-i-kulturalne">Wydarzenia społeczne i kulturalne</a></li>
+                    <li><a href="https://evenea.pl/dla-organizatorow/rozwiazania/spotkania-korporacyjne-i-networking">Spotkania korporacyjne i networking </a></li>
+                    <li><a href="https://www.spotello.pl" target="_blank">Rezerwuj sale na Spotello </a></li>
+                </ul>
+            </div>
+
+            <div class="span3 li_wydarzenia">
+                <ul class="menu_footer">
+                    <li class="first">Znajdź wydarzenie</li>
+                    <li><a href="https://evenea.pl/imprezy/koncerty/warszawa.html">Koncerty w Warszawie</a></li>
+                    <li><a href="https://evenea.pl/imprezy/koncerty/krakow.html">Koncerty w Krakowie</a></li>
+                    <li><a href="https://evenea.pl/imprezy/konferencje/warszawa.html">Konferencje w Warszawie</a></li>
+                    <li><a href="https://evenea.pl/imprezy/gdansk.html">Wydarzenia w Gdańsku</a></li>                    
+                </ul>
+            </div>
+
+            <div class="span3">
+                <ul class="menu_footer">
+                    <li class="first">Kontakt</li>
+                    <li>e-mail: <a rel="nofollow" href="mailto:info@evenea.pl">info@evenea.pl</a><br/>
+                        telefon: <a rel="nofollow" href="tel:+48697160919">+48 697 160 919</a><br/><br/>EventLabs Sp. z o.o.<br />Mokotowska 1<br />00-640 Warszawa</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+</div><!--mainContainer-->
+
+
+
+    
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '648436568606867');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648436568606867&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"748c0d20c5","applicationID":"13165107","transactionName":"MwNTMkdZWkUEVkYMVwpJcAVBUVtYSlhbC1EXD0UDGlFaUgBNHQxWAANJ","queueTime":0,"applicationTime":138,"atts":"H0RQRA9DSUs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

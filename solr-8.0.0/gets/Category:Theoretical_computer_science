@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Category:Theoretical computer science - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Theoretical_computer_science","wgTitle":"Theoretical computer science","wgCurRevisionId":884974590,"wgRevisionId":884974590,"wgArticleId":990361,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Areas of computer science","Applied mathematics","Discrete mathematics","Formal sciences","Cognitive science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Theoretical_computer_science","wgRelevantArticleId":990361,"wgRequestId":"XLDnxQpAMEwAABOIVAsAAABH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7153055","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.action.view.categoryPage.styles":"ready","ext.categoryTree.styles":"ready","mediawiki.helplink":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.categoryTree.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.categoryPage.styles%7Cmediawiki.helplink%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Category:Theoretical_computer_science&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Category:Theoretical_computer_science&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Category:Theoretical_computer_science"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject mw-editable page-Category_Theoretical_computer_science rootpage-Category_Theoretical_computer_science skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Categories" target="_blank" class="mw-helplink">Help</a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Category:Theoretical computer science</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/32px-Desktop_computer_clipart_-_Yellow_theme.svg.png" decoding="async" width="32" height="23" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/48px-Desktop_computer_clipart_-_Yellow_theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/64px-Desktop_computer_clipart_-_Yellow_theme.svg.png 2x" data-file-width="281" data-file-height="203" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Information_technology" title="Portal:Information technology">Information technology portal</a></span></li></ul></div>
+<div role="note" class="hatnote navigation-not-searchable relarticle mainarticle">The main article for this <a href="/wiki/Help:Categories" title="Help:Categories">category</a> is <b><a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">Theoretical computer science</a></b>.</div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Theoretical_computer_science" class="extiw" title="commons:Category:Theoretical computer science">Theoretical computer science</a></b></i>.</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20190410050039
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.080 seconds
+Real time usage: 0.112 seconds
+Preprocessor visited node count: 144/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 4347/2097152 bytes
+Template argument size: 402/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   95.907      1 -total
+ 53.10%   50.923      1 Template:Commonscat
+ 27.15%   26.038      1 Template:Portal
+ 19.49%   18.694      1 Template:Cat_main
+ 13.23%   12.685      1 Template:Commons
+ 10.91%   10.461      1 Template:Sister_project
+  7.24%    6.943      1 Template:Side_box
+  6.84%    6.562      1 Template:Replace
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:990361-0!canonical and timestamp 20190410050039 and revision id 884974590
+ -->
+</div><div class="mw-category-generated" lang="en" dir="ltr"><div id="mw-subcategories">
+<h2>Subcategories</h2>
+<p>This category has the following 21 subcategories, out of 21 total.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Algorithms" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Algorithms" title="Category:Algorithms">Algorithms</a>‎ <span title="Contains 54 subcategories, 111 pages, and 0 files" dir="ltr">(54 C, 111 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Computational_learning_theory" title="Category:Computational learning theory">Computational learning theory</a>‎ <span title="Contains 0 subcategories, 21 pages, and 0 files" dir="ltr">(21 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>E</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Evolutionary_computation" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Evolutionary_computation" title="Category:Evolutionary computation">Evolutionary computation</a>‎ <span title="Contains 4 subcategories, 27 pages, and 0 files" dir="ltr">(4 C, 27 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>F</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Formal_languages" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Formal_languages" title="Category:Formal languages">Formal languages</a>‎ <span title="Contains 12 subcategories, 203 pages, and 0 files" dir="ltr">(12 C, 203 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Formal_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Formal_methods" title="Category:Formal methods">Formal methods</a>‎ <span title="Contains 18 subcategories, 95 pages, and 0 files" dir="ltr">(18 C, 95 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>G</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Graph_theory" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Graph_theory" title="Category:Graph theory">Graph theory</a>‎ <span title="Contains 23 subcategories, 93 pages, and 0 files" dir="ltr">(23 C, 93 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>I</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Information_theory" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Information_theory" title="Category:Information theory">Information theory</a>‎ <span title="Contains 16 subcategories, 193 pages, and 0 files" dir="ltr">(16 C, 193 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>L</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Logic_in_computer_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Logic_in_computer_science" title="Category:Logic in computer science">Logic in computer science</a>‎ <span title="Contains 19 subcategories, 98 pages, and 0 files" dir="ltr">(19 C, 98 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>M</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_theorems_in_theoretical_computer_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_theorems_in_theoretical_computer_science" title="Category:Mathematical theorems in theoretical computer science">Mathematical theorems in theoretical computer science</a>‎ <span title="Contains 1 subcategory, 6 pages, and 0 files" dir="ltr">(1 C, 6 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematics_of_computing" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematics_of_computing" title="Category:Mathematics of computing">Mathematics of computing</a>‎ <span title="Contains 6 subcategories, 7 pages, and 0 files" dir="ltr">(6 C, 7 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>N</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Natural_computation" title="Category:Natural computation">Natural computation</a>‎ <span title="Contains 0 subcategories, 3 pages, and 0 files" dir="ltr">(3 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Pseudorandomness" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Pseudorandomness" title="Category:Pseudorandomness">Pseudorandomness</a>‎ <span title="Contains 1 subcategory, 15 pages, and 0 files" dir="ltr">(1 C, 15 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Pursuit-evasion" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Pursuit-evasion" title="Category:Pursuit-evasion">Pursuit-evasion</a>‎ <span title="Contains 1 subcategory, 9 pages, and 0 files" dir="ltr">(1 C, 9 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>Q</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Quantum_computing" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Quantum_computing" title="Category:Quantum computing">Quantum computing</a>‎ <span title="Contains 3 subcategories, 43 pages, and 0 files" dir="ltr">(3 C, 43 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Quantum_information_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Quantum_information_science" title="Category:Quantum information science">Quantum information science</a>‎ <span title="Contains 8 subcategories, 164 pages, and 0 files" dir="ltr">(8 C, 164 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>R</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Rewriting_systems" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Rewriting_systems" title="Category:Rewriting systems">Rewriting systems</a>‎ <span title="Contains 5 subcategories, 34 pages, and 0 files" dir="ltr">(5 C, 34 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>T</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Theoretical_computer_science_conferences" title="Category:Theoretical computer science conferences">Theoretical computer science conferences</a>‎ <span title="Contains 0 subcategories, 38 pages, and 0 files" dir="ltr">(38 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Theoretical_computer_scientists" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Theoretical_computer_scientists" title="Category:Theoretical computer scientists">Theoretical computer scientists</a>‎ <span title="Contains 2 subcategories, 236 pages, and 0 files" dir="ltr">(2 C, 236 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Theory_of_computation" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Theory_of_computation" title="Category:Theory of computation">Theory of computation</a>‎ <span title="Contains 8 subcategories, 92 pages, and 0 files" dir="ltr">(8 C, 92 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>U</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Unsolved_problems_in_computer_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Unsolved_problems_in_computer_science" title="Category:Unsolved problems in computer science">Unsolved problems in computer science</a>‎ <span title="Contains 1 subcategory, 25 pages, and 0 files" dir="ltr">(1 C, 25 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>Σ</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Theoretical_computer_science_stubs" title="Category:Theoretical computer science stubs">Theoretical computer science stubs</a>‎ <span title="Contains 0 subcategories, 80 pages, and 0 files" dir="ltr">(80 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div></div></div>
+</div><div id="mw-pages">
+<h2><span id="Pages_in_category"></span>Pages in category "Theoretical computer science"</h2>
+<p>The following 116 pages are in this category, out of  116 total. This list may not reflect recent changes (<a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date?" title="Wikipedia:FAQ/Categorization">learn more</a>).
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>*</h3>
+<ul><li><a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">Theoretical computer science</a></li></ul></div><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/wiki/ACM_Doctoral_Dissertation_Award" title="ACM Doctoral Dissertation Award">ACM Doctoral Dissertation Award</a></li>
+<li><a href="/wiki/ACM_SIGACT" title="ACM SIGACT">ACM SIGACT</a></li>
+<li><a href="/wiki/Algorithm" title="Algorithm">Algorithm</a></li>
+<li><a href="/wiki/Algorithm_engineering" title="Algorithm engineering">Algorithm engineering</a></li>
+<li><a href="/wiki/Algorithmic_logic" title="Algorithmic logic">Algorithmic logic</a></li>
+<li><a href="/wiki/Algorithmic_technique" title="Algorithmic technique">Algorithmic technique</a></li>
+<li><a href="/wiki/Algorithmic_transparency" title="Algorithmic transparency">Algorithmic transparency</a></li>
+<li><a href="/wiki/Analysis_of_Boolean_functions" title="Analysis of Boolean functions">Analysis of Boolean functions</a></li>
+<li><a href="/wiki/Angelic_non-determinism" title="Angelic non-determinism">Angelic non-determinism</a></li>
+<li><a href="/wiki/Automated_reasoning" title="Automated reasoning">Automated reasoning</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
+<ul><li><a href="/wiki/Bigraph" title="Bigraph">Bigraph</a></li>
+<li><a href="/wiki/Bio-inspired_computing" title="Bio-inspired computing">Bio-inspired computing</a></li>
+<li><a href="/wiki/Bird%E2%80%93Meertens_formalism" title="Bird–Meertens formalism">Bird–Meertens formalism</a></li>
+<li><a href="/wiki/Bisimulation" title="Bisimulation">Bisimulation</a></li>
+<li><a href="/wiki/Bridging_model" title="Bridging model">Bridging model</a></li>
+<li><a href="/wiki/British_Colloquium_for_Theoretical_Computer_Science" title="British Colloquium for Theoretical Computer Science">British Colloquium for Theoretical Computer Science</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/wiki/Categorical_logic" title="Categorical logic">Categorical logic</a></li>
+<li><a href="/wiki/Chaos_computing" title="Chaos computing">Chaos computing</a></li>
+<li><a href="/wiki/Chemical_computer" title="Chemical computer">Chemical computer</a></li>
+<li><a href="/wiki/Circuit_Value_Problem" title="Circuit Value Problem">Circuit Value Problem</a></li>
+<li><a href="/wiki/Coinduction" title="Coinduction">Coinduction</a></li>
+<li><a href="/wiki/Combinatorial_optimization" title="Combinatorial optimization">Combinatorial optimization</a></li>
+<li><a href="/wiki/Complexity_function" title="Complexity function">Complexity function</a></li>
+<li><a href="/wiki/Computability_in_Europe" title="Computability in Europe">Computability in Europe</a></li>
+<li><a href="/wiki/Computation" title="Computation">Computation</a></li>
+<li><a href="/wiki/Computational_irreducibility" title="Computational irreducibility">Computational irreducibility</a></li>
+<li><a href="/wiki/Computational_learning_theory" title="Computational learning theory">Computational learning theory</a></li>
+<li><a href="/wiki/Computational_problem" title="Computational problem">Computational problem</a></li>
+<li><a href="/wiki/Concurrence_(quantum_computing)" title="Concurrence (quantum computing)">Concurrence (quantum computing)</a></li>
+<li><a href="/wiki/Configurable_modularity" title="Configurable modularity">Configurable modularity</a></li>
+<li><a href="/wiki/Corecursion" title="Corecursion">Corecursion</a></li>
+<li><a href="/wiki/Correctness_(computer_science)" title="Correctness (computer science)">Correctness (computer science)</a></li></ul></div><div class="mw-category-group"><h3>D</h3>
+<ul><li><a href="/wiki/Demonic_non-determinism" title="Demonic non-determinism">Demonic non-determinism</a></li>
+<li><a href="/wiki/Digital_probabilistic_physics" title="Digital probabilistic physics">Digital probabilistic physics</a></li>
+<li><a href="/wiki/Dis-unification_(computer_science)" title="Dis-unification (computer science)">Dis-unification (computer science)</a></li>
+<li><a href="/wiki/Dominance-based_rough_set_approach" title="Dominance-based rough set approach">Dominance-based rough set approach</a></li>
+<li><a href="/wiki/Dynamic_Data_Driven_Applications_Systems" title="Dynamic Data Driven Applications Systems">Dynamic Data Driven Applications Systems</a></li></ul></div><div class="mw-category-group"><h3>E</h3>
+<ul><li><a href="/wiki/Error_tolerance_(PAC_learning)" title="Error tolerance (PAC learning)">Error tolerance (PAC learning)</a></li>
+<li><a href="/wiki/European_Association_for_Theoretical_Computer_Science" title="European Association for Theoretical Computer Science">European Association for Theoretical Computer Science</a></li>
+<li><a href="/wiki/Exact_cover" title="Exact cover">Exact cover</a></li>
+<li><a href="/wiki/Expander_mixing_lemma" title="Expander mixing lemma">Expander mixing lemma</a></li>
+<li><a href="/wiki/Extractor_(mathematics)" title="Extractor (mathematics)">Extractor (mathematics)</a></li></ul></div><div class="mw-category-group"><h3>F</h3>
+<ul><li><a href="/wiki/Formal_language" title="Formal language">Formal language</a></li>
+<li><a href="/wiki/Profinite_word" title="Profinite word">Profinite word</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Formal_verification" title="Formal verification">Formal verification</a></li>
+<li><a href="/wiki/Fredkin_finite_nature_hypothesis" title="Fredkin finite nature hypothesis">Fredkin finite nature hypothesis</a></li>
+<li><a href="/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation" title="French Institute for Research in Computer Science and Automation">French Institute for Research in Computer Science and Automation</a></li>
+<li><a href="/wiki/Full_employment_theorem" title="Full employment theorem">Full employment theorem</a></li>
+<li><a href="/wiki/Fundamenta_Informaticae" title="Fundamenta Informaticae">Fundamenta Informaticae</a></li></ul></div><div class="mw-category-group"><h3>G</h3>
+<ul><li><a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">Gödel Prize</a></li>
+<li><a href="/wiki/Grammar_systems_theory" title="Grammar systems theory">Grammar systems theory</a></li>
+<li><a href="/wiki/Granular_computing" title="Granular computing">Granular computing</a></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<ul><li><a href="/wiki/Hindley%E2%80%93Milner_type_system" title="Hindley–Milner type system">Hindley–Milner type system</a></li>
+<li><a href="/wiki/Hub_labels" title="Hub labels">Hub labels</a></li></ul></div><div class="mw-category-group"><h3>I</h3>
+<ul><li><a href="/wiki/Idempotence" title="Idempotence">Idempotence</a></li>
+<li><a href="/wiki/Indirect_self-reference" title="Indirect self-reference">Indirect self-reference</a></li>
+<li><a href="/wiki/Institution_(computer_science)" title="Institution (computer science)">Institution (computer science)</a></li>
+<li><a href="/wiki/Institutional_model_theory" title="Institutional model theory">Institutional model theory</a></li>
+<li><a href="/wiki/Interactive_computation" title="Interactive computation">Interactive computation</a></li></ul></div><div class="mw-category-group"><h3>J</h3>
+<ul><li><a href="/wiki/Journal_of_Automata,_Languages_and_Combinatorics" title="Journal of Automata, Languages and Combinatorics">Journal of Automata, Languages and Combinatorics</a></li></ul></div><div class="mw-category-group"><h3>K</h3>
+<ul><li><a href="/wiki/Knuth_Prize" title="Knuth Prize">Knuth Prize</a></li>
+<li><a href="/wiki/Knuth%27s_Simpath_algorithm" title="Knuth&#039;s Simpath algorithm">Knuth&#039;s Simpath algorithm</a></li>
+<li><a href="/wiki/Krivine_machine" title="Krivine machine">Krivine machine</a></li></ul></div><div class="mw-category-group"><h3>L</h3>
+<ul><li><a href="/wiki/Lambda_calculus" title="Lambda calculus">Lambda calculus</a></li>
+<li><a href="/wiki/Level_ancestor_problem" title="Level ancestor problem">Level ancestor problem</a></li>
+<li><a href="/wiki/LogP_machine" title="LogP machine">LogP machine</a></li>
+<li><a href="/wiki/Lowest_common_ancestor" title="Lowest common ancestor">Lowest common ancestor</a></li>
+<li><a href="/wiki/Lulu_smoothing" title="Lulu smoothing">Lulu smoothing</a></li></ul></div><div class="mw-category-group"><h3>M</h3>
+<ul><li><a href="/wiki/Monge_array" title="Monge array">Monge array</a></li>
+<li><a href="/wiki/Motion_planning" title="Motion planning">Motion planning</a></li></ul></div><div class="mw-category-group"><h3>N</h3>
+<ul><li><a href="/wiki/Natural_computing" title="Natural computing">Natural computing</a></li>
+<li><a href="/wiki/Neighbour-sensing_model" title="Neighbour-sensing model">Neighbour-sensing model</a></li>
+<li><a href="/wiki/Nerode_Prize" title="Nerode Prize">Nerode Prize</a></li>
+<li><a href="/wiki/Nominal_techniques" title="Nominal techniques">Nominal techniques</a></li>
+<li><a href="/wiki/Nominal_terms_(computer_science)" title="Nominal terms (computer science)">Nominal terms (computer science)</a></li>
+<li><a href="/wiki/Notation_for_theoretic_scheduling_problems" title="Notation for theoretic scheduling problems">Notation for theoretic scheduling problems</a></li></ul></div><div class="mw-category-group"><h3>O</h3>
+<ul><li><a href="/wiki/Occam_learning" title="Occam learning">Occam learning</a></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><a href="/wiki/Pattern_language_(formal_languages)" title="Pattern language (formal languages)">Pattern language (formal languages)</a></li>
+<li><a href="/wiki/%CE%A0-calculus" title="Π-calculus">Π-calculus</a></li>
+<li><a href="/wiki/Postselection" title="Postselection">Postselection</a></li>
+<li><a href="/wiki/Probabilistic_bisimulation" title="Probabilistic bisimulation">Probabilistic bisimulation</a></li>
+<li><a href="/wiki/Promise_theory" title="Promise theory">Promise theory</a></li>
+<li><a href="/wiki/Property_testing" title="Property testing">Property testing</a></li>
+<li><a href="/wiki/Pseudorandomness" title="Pseudorandomness">Pseudorandomness</a></li></ul></div><div class="mw-category-group"><h3>Q</h3>
+<ul><li><a href="/wiki/Quantum_algorithm" title="Quantum algorithm">Quantum algorithm</a></li>
+<li><a href="/wiki/Quantum_capacity" title="Quantum capacity">Quantum capacity</a></li>
+<li><a href="/wiki/Quantum_computing" title="Quantum computing">Quantum computing</a></li>
+<li><a href="/wiki/Quantum_digital_signature" title="Quantum digital signature">Quantum digital signature</a></li>
+<li><a href="/wiki/Quantum_machine_learning" title="Quantum machine learning">Quantum machine learning</a></li>
+<li><a href="/wiki/Quantum_threshold_theorem" title="Quantum threshold theorem">Quantum threshold theorem</a></li>
+<li><a href="/wiki/Quasi-empiricism_in_mathematics" title="Quasi-empiricism in mathematics">Quasi-empiricism in mathematics</a></li></ul></div><div class="mw-category-group"><h3>R</h3>
+<ul><li><a href="/wiki/Ranked_alphabet" title="Ranked alphabet">Ranked alphabet</a></li>
+<li><a href="/wiki/Recursion_(computer_science)" title="Recursion (computer science)">Recursion (computer science)</a></li>
+<li><a href="/wiki/Recursive_definition" title="Recursive definition">Recursive definition</a></li>
+<li><a href="/wiki/Reed%E2%80%93Muller_code" title="Reed–Muller code">Reed–Muller code</a></li>
+<li><a href="/wiki/Representer_theorem" title="Representer theorem">Representer theorem</a></li>
+<li><a href="/wiki/Rough_set" title="Rough set">Rough set</a></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<ul><li><a href="/wiki/Roger_Schank" title="Roger Schank">Roger Schank</a></li>
+<li><a href="/wiki/Scientific_community_metaphor" title="Scientific community metaphor">Scientific community metaphor</a></li>
+<li><a href="/wiki/Semigroup_action" title="Semigroup action">Semigroup action</a></li>
+<li><a href="/wiki/Simulation_preorder" title="Simulation preorder">Simulation preorder</a></li>
+<li><a href="/wiki/Small-bias_sample_space" title="Small-bias sample space">Small-bias sample space</a></li>
+<li><a href="/wiki/Spintronics" title="Spintronics">Spintronics</a></li>
+<li><a href="/wiki/Summer_School_Marktoberdorf" title="Summer School Marktoberdorf">Summer School Marktoberdorf</a></li>
+<li><a href="/wiki/Sun-Ni_law" title="Sun-Ni law">Sun-Ni law</a></li></ul></div><div class="mw-category-group"><h3>T</h3>
+<ul><li><a href="/wiki/Tardiness_(scheduling)" title="Tardiness (scheduling)">Tardiness (scheduling)</a></li>
+<li><a href="/wiki/Theory_of_Computing_Systems" title="Theory of Computing Systems">Theory of Computing Systems</a></li>
+<li><a href="/wiki/Transcriptor" title="Transcriptor">Transcriptor</a></li>
+<li><a href="/wiki/Tree_(automata_theory)" title="Tree (automata theory)">Tree (automata theory)</a></li>
+<li><a href="/wiki/Tree_automaton" title="Tree automaton">Tree automaton</a></li>
+<li><a href="/wiki/Tree_transducer" title="Tree transducer">Tree transducer</a></li>
+<li><a href="/wiki/Turing_machine" title="Turing machine">Turing machine</a></li></ul></div><div class="mw-category-group"><h3>U</h3>
+<ul><li><a href="/wiki/Unrestricted_algorithm" title="Unrestricted algorithm">Unrestricted algorithm</a></li></ul></div><div class="mw-category-group"><h3>W</h3>
+<ul><li><span class="redirect-in-category"><a href="/wiki/Weakest_precondition" class="mw-redirect" title="Weakest precondition">Weakest precondition</a></span></li></ul></div></div></div>
+</div></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:Theoretical_computer_science&amp;oldid=884974590">https://en.wikipedia.org/w/index.php?title=Category:Theoretical_computer_science&amp;oldid=884974590</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Areas_of_computer_science" title="Category:Areas of computer science">Areas of computer science</a></li><li><a href="/wiki/Category:Applied_mathematics" title="Category:Applied mathematics">Applied mathematics</a></li><li><a href="/wiki/Category:Discrete_mathematics" title="Category:Discrete mathematics">Discrete mathematics</a></li><li><a href="/wiki/Category:Formal_sciences" title="Category:Formal sciences">Formal sciences</a></li><li><a href="/wiki/Category:Cognitive_science" title="Category:Cognitive science">Cognitive science</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-ns-shown">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3ATheoretical+computer+science" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3ATheoretical+computer+science" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-category" class="selected"><span><a href="/wiki/Category:Theoretical_computer_science" title="View the category page [c]" accesskey="c">Category</a></span></li><li id="ca-talk"><span><a href="/wiki/Category_talk:Theoretical_computer_science" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Category:Theoretical_computer_science">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Category:Theoretical_computer_science&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Category:Theoretical_computer_science&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Category:Theoretical_computer_science" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Category:Theoretical_computer_science" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Category:Theoretical_computer_science&amp;oldid=884974590" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Category:Theoretical_computer_science&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7153055" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Category%3ATheoretical+computer+science">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Category%3ATheoretical+computer+science&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Category:Theoretical_computer_science&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Theoretical_computer_science" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9_%D9%86%D8%B8%D8%B1%D9%8A%D8%A9" title="تصنيف:معلوماتية نظرية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80:%E0%A6%A4%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8" title="বিষয়শ্রেণী:তাত্ত্বিক কম্পিউটার বিজ্ঞান – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D1%82%D0%B8%D0%BA_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Теоретик информатика – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%A2%D1%8D%D0%B0%D1%80%D1%8D%D1%82%D1%8B%D1%87%D0%BD%D0%B0%D1%8F_%D1%96%D0%BD%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%82%D1%8B%D0%BA%D0%B0" title="Катэгорыя:Тэарэтычная інфарматыка – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Теоретична информатика – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Kategorie:Theoretische_Informatik" title="Kategorie:Theoretische Informatik – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Kategorija:Teorijsko_ra%C4%8Dunarstvo" title="Kategorija:Teorijsko računarstvo – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Categoria:Inform%C3%A0tica_te%C3%B2rica" title="Categoria:Informàtica teòrica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kategorie:Teoretick%C3%A1_informatika" title="Kategorie:Teoretická informatika – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Categori:Cyfrifiadureg_ddamcaniaethol" title="Categori:Cyfrifiadureg ddamcaniaethol – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kategori:Teoretisk_datalogi" title="Kategori:Teoretisk datalogi – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kategorie:Theoretische_Informatik" title="Kategorie:Theoretische Informatik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1:%CE%98%CE%B5%CF%89%CF%81%CE%B7%CF%84%CE%B9%CE%BA%CE%AE_%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%AE" title="Κατηγορία:Θεωρητική πληροφορική – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Inform%C3%A1tica_te%C3%B3rica" title="Categoría:Informática teórica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kategorio:Teoria_komputiko" title="Kategorio:Teoria komputiko – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kategoria:Informatika_teorikoa" title="Kategoria:Informatika teorikoa – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%B9%D9%84%D9%88%D9%85_%D9%86%D8%B8%D8%B1%DB%8C_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87" title="رده:علوم نظری رایانه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Informatique_th%C3%A9orique" title="Catégorie:Informatique théorique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:%EC%9D%B4%EB%A1%A0_%EC%A0%84%EC%82%B0%ED%95%99" title="분류:이론 전산학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:%E0%A4%B8%E0%A5%88%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" title="श्रेणी:सैद्धांतिक कम्प्यूटर विज्ञान – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Kategorija:Teoretsko_ra%C4%8Dunarstvo" title="Kategorija:Teoretsko računarstvo – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Categoria:Informatica_theoric" title="Categoria:Informatica theoric – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Flokkur:Kennileg_t%C3%B6lvunarfr%C3%A6%C3%B0i" title="Flokkur:Kennileg tölvunarfræði – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Categoria:Teorie_dell%27informatica" title="Categoria:Teorie dell&#039;informatica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:%E1%83%97%E1%83%94%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%98%E1%83%9C%E1%83%A4%E1%83%9D%E1%83%A0%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90" title="კატეგორია:თეორიული ინფორმატიკა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D1%82%D1%81%D0%BA%D0%B0_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Категорија:Теоретска информатика – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%BC%E0%B4%97%E0%B5%8D%E0%B4%97%E0%B4%82:%E0%B4%A4%E0%B4%BF%E0%B4%AF%E0%B4%B1%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%B8%E0%B4%AF%E0%B5%BB%E0%B4%B8%E0%B5%8D" title="വർഗ്ഗം:തിയററ്റിക്കൽ കമ്പ്യൂട്ടർ സയൻസ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kategori:Sains_komputer_teori" title="Kategori:Sains komputer teori – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D0%B0%D0%BB:%D0%9E%D0%BD%D0%BE%D0%BB%D1%8B%D0%BD_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA" title="Ангилал:Онолын информатик – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Categorie:Theoretische_informatica" title="Categorie:Theoretische informatica – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Category:%E7%90%86%E8%AB%96%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6" title="Category:理論計算機科学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kategori:Teoretisk_informatikk" title="Kategori:Teoretisk informatikk – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kategori:Teoretisk_informatikk" title="Kategori:Teoretisk informatikk – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Categoria:Ci%C3%AAncia_da_computa%C3%A7%C3%A3o_te%C3%B3rica" title="Categoria:Ciência da computação teórica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Categorie:Informatic%C4%83_teoretic%C4%83" title="Categorie:Informatică teoretică – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Теоретическая информатика – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Category:Theoretical_computer_science" title="Category:Theoretical computer science – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kateg%C3%B3ria:Teoretick%C3%A1_po%C4%8D%C3%ADta%C4%8Dov%C3%A1_veda" title="Kategória:Teoretická počítačová veda – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kategorija:Teoreti%C4%8Dno_ra%C4%8Dunalni%C5%A1tvo" title="Kategorija:Teoretično računalništvo – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D1%81%D0%BA%D0%BE_%D1%80%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Категорија:Теоријско рачунарство – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kategorija:Teorijsko_ra%C4%8Dunarstvo" title="Kategorija:Teorijsko računarstvo – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Luokka:Tietojenk%C3%A4sittelyteoria" title="Luokka:Tietojenkäsittelyteoria – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kategori:Teoretisk_datalogi" title="Kategori:Teoretisk datalogi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%97%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B5" title="หมวดหมู่:วิทยาการคอมพิวเตอร์เชิงทฤษฎี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kategori:Teorik_bilgisayar_bilimi" title="Kategori:Teorik bilgisayar bilimi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Категорія:Теоретична інформатика – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%DB%81:%D9%86%D8%B8%D8%B1%DB%8C%D8%A7%D8%AA%DB%8C_%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%B9%D8%B1_%D8%B3%D8%A7%D8%A6%D9%86%D8%B3" title="زمرہ:نظریاتی کمپیوٹر سائنس – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh_l%C3%BD_thuy%E1%BA%BFt" title="Thể loại:Khoa học máy tính lý thuyết – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Category:%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="Category:理论计算机科学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7153055#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 February 2019, at 04:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Category:Theoretical_computer_science&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.080","walltime":"0.112","ppvisitednodes":{"value":144,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":4347,"limit":2097152},"templateargumentsize":{"value":402,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   95.907      1 -total"," 53.10%   50.923      1 Template:Commonscat"," 27.15%   26.038      1 Template:Portal"," 19.49%   18.694      1 Template:Cat_main"," 13.23%   12.685      1 Template:Commons"," 10.91%   10.461      1 Template:Sister_project","  7.24%    6.943      1 Template:Side_box","  6.84%    6.562      1 Template:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":1445471,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20190410050039","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":154,"wgHostname":"mw1241"});});</script>
+</body>
+</html>

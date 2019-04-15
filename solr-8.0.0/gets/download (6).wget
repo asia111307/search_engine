@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>UnderstandingPrejudice.org</title>
+	<meta name="keywords" content="prejudice, racism, iat, asi, stereotypes, stereotyping, slavery, presidents, sexism, ambivalent, homophobia, segregation, discrimination, stereotype, heterosexism, plous, anti-semitism, antisemitism, holocaust, native americans, american indians, native iq, speciesism, psychology, mcgraw-hill">
+	<meta name="description" content="Has thousands of links on racism, sexism, and other prejudices, with searchable databases and fascinating interactive exercises. Very well done!">
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-9046968-4', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+	<META http-equiv="content-type" content="text/html; charset=UTF-8">
+<script>
+var img1 = new Image;
+img1.src = "images/readtp_o.gif";
+var img2 = new Image;
+img2.src = "images/readbt_o.gif";
+var img3 = new Image;
+img3.src = "images/demos_o.gif";
+var img4 = new Image;
+img4.src = "images/mult_o.gif";
+var img5 = new Image;
+img5.src = "images/teach_o.gif";
+var img6 = new Image;
+img6.src = "images/exp_o.gif";
+var img7 = new Image;
+img7.src = "images/links_o.gif";
+var img8 = new Image;
+img8.src = "images/about_o.gif";
+var img9 = new Image;
+img9.src = "images/priv_o.gif";
+var img10 = new Image;
+img10.src = "images/cont_o.gif";
+var img11 = new Image;
+img11.src = "images/home_o.gif";
+var img12 = new Image;
+img12.src = "images/org_o.gif";
+
+function rollover(imgName, target) {
+	if (document.images) {
+		imgchange = '/images/' + imgName + '.gif';
+		document[target].src = imgchange;
+		}
+}
+</script>
+<link rel="stylesheet" href="/style.css">
+</head>
+
+<body class="bodysm" background="/images/bg.gif" topmargin=0 marginheight=0>
+<center>
+
+<table width=605 border=0 cellpadding=0 cellspacing=0>
+<tr valign=bottom>
+<td colspan=2 width=460><img src="/images/logotp.gif" width=460 height=41 alt="Understanding Prejudice" border="0"><br><img src="/images/logobt.gif" width=460 height=56 alt="Understanding Prejudice" border=0></td>
+<td width=142 rowspan=2><a href="/baseline/"><img src="/images/basetp.gif" width=142 height=27 alt="Baseline Survey" border="0"></a></td>
+<td width=3 rowspan=2><img src="/images/topedge.gif" width=3 height=27 alt="" border="0"></td>
+</tr>
+<tr><td width=139><a onmouseover="rollover('readtp_o','readtp');rollover('readbt_o','readbt')" onmouseout="rollover('readtp','readtp');rollover('readbt','readbt')" href="/readroom/"><img src="/images/readtp.gif" name="readtp" width=139 height=5 alt="Reading Room" border="0"></a></td>
+<td width=321><img src="/images/grnband.gif" width=321 height=5 alt="" border="0"></td></tr>
+</table>
+
+<table width=605 border="0" cellpadding="0" cellspacing="0">
+<tr valign=top>
+<td width=139><table border="0" width="139" cellpadding="0" cellspacing="0"><tr valign=top><td height=284 width=139><a onmouseover="rollover('readtp_o','readtp');rollover('readbt_o','readbt')" onmouseout="rollover('readtp','readtp');rollover('readbt','readbt')" href="/readroom/"><img name="readbt" src="/images/readbt.gif" width=139 height=25 alt="Reading Room" border=0></a><br>
+<a href="/demos/" onmouseover="rollover('demos_o','demos')" onmouseout="rollover('demos','demos')"><img src="/images/demos.gif" width=139 height=43 alt="Exercises and Demonstrations" name="demos" border="0"></a><br>
+<a href="/multimedia/"  onmouseover="rollover('mult_o','mult')" onmouseout="rollover('mult','mult')"><img src="/images/mult.gif" name="mult" width=139 height=30 alt="Multimedia Center" border="0"></a><br>
+<a href="/teach/"  onmouseover="rollover('teach_o','teach')" onmouseout="rollover('teach','teach')"><img src="/images/teach.gif" name="teach" width=139 height=30 alt="Teacher's Corner" border="0"></a><br>
+<a href="/experts/"  onmouseover="rollover('exp_o','experts')" onmouseout="rollover('exp','experts')"><img src="/images/exp.gif" name="experts" width=139 height=30 alt="Directory of Experts" border="0"></a><br>
+<a href="/organizations/"  onmouseover="rollover('org_o','org')" onmouseout="rollover('org','org')"><img src="/images/org.gif" name="org" width=139 height=30 alt="Organizations" border="0"></a><br>
+
+<a href="/links/"  onmouseover="rollover('links_o','links')" onmouseout="rollover('links','links')"><img src="/images/links.gif" name="links" width=139 height=30 alt="Links on Prejudice" border="0"></a><br>
+<a href="/about/"  onmouseover="rollover('about_o','about')" onmouseout="rollover('about','about')"><img src="/images/about.gif" name="about" width=139 height=30 alt="About Us" border="0"></a><br>
+<a href="/privacy/"  onmouseover="rollover('priv_o','priv')" onmouseout="rollover('priv','priv')"><img src="/images/priv.gif" width=139 name="priv" height=30 alt="Privacy Policy" border="0"></a><br>
+<a href="/contact/"  onmouseover="rollover('cont_o','cont')" onmouseout="rollover('cont','cont')"><img src="/images/cont.gif" name="cont" width=139 height=30 alt="Contact Us" border="0"></a><br>
+<img src="/images/navbot.gif" width=139 height=6 alt="" border="0"><br></td></tr>
+<tr><td width=139 background="/images/navbg.gif" bgcolor="#339966">
+<img src="/images/trans.gif" width=1 height=200 alt="" border="0">
+<script>
+document.write('<img src="/images/trans.gif" width=1 height=' + (screen.height-500) + ' alt="" border="0">');
+</script>
+</td></tr></table></td>
+
+<td width=463 bgcolor="white" align=right>
+	<table width=463 border=0 cellpadding=0 cellspacing=0>
+	<tr valign=top>
+	<td width=314>
+	<img src="/images/iconsd.gif" width=314 height=14 alt="" border=0><br>
+		<table width="314" border=0 cellpadding=0 cellspacing=0>
+		<tr valign=top><td width=14><img src="/images/trans.gif" width=10 height=1 alt="" border="0"></td>
+		<td width=290>
+<br>Welcome to UnderstandingPrejudice.org, a web site for students, teachers, and others interested in the causes and consequences of prejudice.
+<br><br>
+In these pages you will find more than 2,000 links to prejudice-related resources, as well as searchable databases with hundreds of prejudice researchers and social justice organizations.
+<br><br>
+To the right, you'll also find a variety of interactive exercises offering unique perspectives on prejudice, stereotyping, and discrimination.
+<br><br>
+Although this web site is intended to supplement a McGraw-Hill anthology entitled <a href="anthol.htm"><i>Understanding Prejudice and Discrimination</i></a>, all pages and activities are freely available and can be used with other texts or on their own.
+<br><br>
+Note: For readers of the anthology, the best place to start is with the Baseline Survey above (to record your opinions before reading the anthology).
+			</div></td>
+		<td width=10><img src="/images/trans.gif" width=10 height=1 alt="" border="0"></td>
+		</tr></table>
+	</td>
+
+	<td width=149 align=right bgcolor="white"><a href="/baseline/"><img src="/images/basebt.gif" alt="Baseline Survey" width="148" height="44" border="0"></a><br>
+	<a href="/slidetour/"><img src="/images/slidetr.gif" alt="Slide Tour of Prejudice" width="148" height="58" border="0"></a><br>
+	<a href="/drawline/"><img src="/images/intdemo.gif" alt="Where Do You Draw the Line?" width="148" height="58" border="0"></a><br>
+	<a href="/asi/"><img src="/images/asi.gif" alt="Ambivalent Sexism and Culture" width="148" height="64" border="0"></a><br>
+	<a href="/slavery/"><img src="/images/slavery.gif" alt="Slavery and the U.S. Presidents" width="148" height="58" border="0"></a><br>
+	<a href="/nativeiq/"><img src="/images/nativ.gif" alt="What's Your Native IQ?" width="148" height="66" border="0"></a><br>
+	<a href="/iat/"><img src="/images/iat.gif" alt="Test Yourself for Hidden Biases" width="148" height="56" border="0"></a><br>
+	<a href="/segregation/"><img src="/images/seghome.gif" alt="Can You Avoid Segregation?" width="148" height="54" border="0" vspace=6></a><br>
+	<br>
+
+	<a href="http://www.socialpsychology.org/"><img src="/images/spn.gif" alt="Social Psychology Network" width="74" height="30" border="0"></a><br>
+
+	</td>
+	</tr></table>
+	<img src="/images/trans.gif" width=1 height=7 alt="" border="0"><br>
+	<img src="/images/blue.gif" width=449 height=1 alt="" border="0"><br>
+	<img src="/images/trans.gif" width=1 height=3 alt="" border="0"><br>
+	<div class="copyright">&copy;2002-2019, S. Plous</div>
+</td>
+<td width=2 bgcolor="white"><img src="/images/trans.gif" width=2 height=1 alt="" border="0"></td>
+<td width=1 bgcolor="#996666"><img src="/images/trans.gif" width=1 height=1 alt="" border="0"></td></tr>
+
+</table>
+<img src="/logimage.php?page=%2Findex.php&rnd=1481636105" width=1 height=1 border=0>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9046968-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div>
+</body>
+</html>

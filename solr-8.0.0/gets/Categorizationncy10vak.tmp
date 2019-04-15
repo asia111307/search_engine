@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:FAQ/Categorization - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:FAQ/Categorization","wgTitle":"FAQ/Categorization","wgCurRevisionId":887018121,"wgRevisionId":887018121,"wgArticleId":735402,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected project pages","Wikipedia FAQs","Wikipedia categorization"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:FAQ/Categorization","wgRelevantArticleId":735402,"wgRequestId":"XKWpGgpAAEIAAAzqkOAAAABU","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q15868179","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.ui.button":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.inputBox.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:FAQ/Categorization"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_FAQ_Categorization rootpage-Wikipedia_FAQ skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-directory-icon" class="mw-indicator"><a href="/wiki/Wikipedia:Directory" title="Part of Wikipedia&#39;s directories and indexes."><img alt="Part of Wikipedia&#39;s directories and indexes." src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_flat_directory_icon.svg/25px-Blue_flat_directory_icon.svg.png" decoding="async" width="25" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_flat_directory_icon.svg/38px-Blue_flat_directory_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_flat_directory_icon.svg/50px-Blue_flat_directory_icon.svg.png 2x" data-file-width="30" data-file-height="25" /></a></div>
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:FAQ/Categorization</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">Wikipedia:FAQ</a></span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>
+<span style="margin-left: 10px; padding: 5px 5px 5px 5px; border-top: 1px solid #C0C0C0; border-bottom: 1px solid #C0C0C0;">
+<a href="/wiki/Help:Contents" title="Help:Contents"><img alt="Help-browser.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/20px-Help-browser.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/30px-Help-browser.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/40px-Help-browser.svg.png 2x" data-file-width="48" data-file-height="48" /></a>&#160;<a href="/wiki/Help:Contents" title="Help:Contents">Help</a>&#160;<img alt="&gt;" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/12px-Breadcrumb_separator.svg.png" decoding="async" width="12" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/18px-Breadcrumb_separator.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/24px-Breadcrumb_separator.svg.png 2x" data-file-width="431" data-file-height="1150" /><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">FAQs</a>&#160;<img alt="&gt;" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/12px-Breadcrumb_separator.svg.png" decoding="async" width="12" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/18px-Breadcrumb_separator.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/24px-Breadcrumb_separator.svg.png 2x" data-file-width="431" data-file-height="1150" /><a class="mw-selflink selflink">Categorization</a></span>
+</p>
+<div style="border: solid 2px #A3B1BF; background: #F5FAFF; padding: 1em;">
+<div style="background-color:#cedff2; border-bottom:0px; border: 1px solid #a3b0bf; text-align:center; padding:4px 0.17em; margin-bottom: 0.6em; color:#000 !important; font-size:150%"><strong>Categorization FAQ (for editors)</strong>
+</div> 
+<div class="hlist" style="text-align: center; padding: 4px 1em; word-spacing: 2px; border: 1px solid #A3B1BF; background:#E6F2FF">
+<p><b>FAQs (Frequently Asked Questions)</b>
+</p>
+<ul><li><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">Index of FAQs</a></li>
+<li><a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">Main FAQ</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Overview" title="Wikipedia:FAQ/Overview">Overview</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Readers" title="Wikipedia:FAQ/Readers">Readers</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Schools" title="Wikipedia:FAQ/Schools">Schools</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Organizations" title="Wikipedia:FAQ/Organizations">Organizations</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Contributing" title="Wikipedia:FAQ/Contributing">Contributing</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Editing" title="Wikipedia:FAQ/Editing">Editing</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Featured_articles" title="Wikipedia:FAQ/Featured articles">Featured articles</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Administration" title="Wikipedia:FAQ/Administration">Administration</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Blocks" title="Wikipedia:FAQ/Blocks">Blocks</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Technical" title="Wikipedia:FAQ/Technical">Technical</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Problems" title="Wikipedia:FAQ/Problems">Problems</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Article_subjects" title="Wikipedia:FAQ/Article subjects">Article&#160;subjects</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categories" title="Wikipedia:FAQ/Categories">Categories</a></li>
+<li><a class="mw-selflink selflink">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Copyright" title="Wikipedia:FAQ/Copyright">Copyright</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Forking" title="Wikipedia:FAQ/Forking">Forking</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Template" title="Wikipedia:FAQ/Template">Templates</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Miscellaneous" title="Wikipedia:FAQ/Miscellaneous">Miscellaneous</a>  <div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search"><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="22" dir="ltr" /><input type="hidden" value="Wikipedia:FAQ" name="prefix" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search the FAQs" /><input type="hidden" value="Search" name="fulltext" /></form></div> </li></ul></div>
+<p class="mw-empty-elt">
+</p><p>Frequently asked questions about the Wikipedia <i>Category</i> feature.
+</p><p>This page is addressed mainly to those editing Wikipedia. For information for readers, see <a href="/wiki/Wikipedia:FAQ/Categories" title="Wikipedia:FAQ/Categories">Wikipedia:FAQ/Categories</a>.
+</p><p>For more detailed guidelines on creating and organizing categories, see <a href="/wiki/Help:Category" title="Help:Category">Help:Category</a>. More technical information can be found at <a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">Wikipedia:Categorization</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#What_are_categories?"><span class="tocnumber">1</span> <span class="toctext">What are categories?</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#What_is_the_purpose_of_categories?"><span class="tocnumber">1.1</span> <span class="toctext">What is the purpose of categories?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#What_categories_already_exist?"><span class="tocnumber">1.2</span> <span class="toctext">What categories already exist?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#How_else_can_I_navigate_articles?"><span class="tocnumber">1.3</span> <span class="toctext">How else can I navigate articles?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#What_is_the_difference_between_a_list_and_a_category?"><span class="tocnumber">1.4</span> <span class="toctext">What is the difference between a list and a category?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Are_&quot;List_of_...&quot;_articles_still_needed?"><span class="tocnumber">1.5</span> <span class="toctext">Are "List of ..." articles still needed?</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Categories_compared_with_navigation_templates"><span class="tocnumber">1.6</span> <span class="toctext">Categories compared with navigation templates</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Can_pages_be_in_more_than_one_category?"><span class="tocnumber">1.7</span> <span class="toctext">Can pages be in more than one category?</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#What_are_&quot;maintenance_categories&quot;?"><span class="tocnumber">1.8</span> <span class="toctext">What are "maintenance categories"?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#What_is_the_naming_convention_for_categories?"><span class="tocnumber">2</span> <span class="toctext">What is the naming convention for categories?</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Lists"><span class="tocnumber">2.1</span> <span class="toctext">Lists</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Topics"><span class="tocnumber">2.2</span> <span class="toctext">Topics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Editing_articles"><span class="tocnumber">3</span> <span class="toctext">Editing articles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#How_do_I_add_an_article_to_a_category?"><span class="tocnumber">3.1</span> <span class="toctext">How do I add an article to a category?</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#How_do_I_reference_(link_to)_a_category_on_a_page_without_categorizing_the_page?"><span class="tocnumber">3.2</span> <span class="toctext">How do I reference (link to) a category on a page without categorizing the page?</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Where_should_the_category_tag_go_in_the_article?"><span class="tocnumber">3.3</span> <span class="toctext">Where should the category tag go in the article?</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#In_what_order_should_categories_be_listed_within_the_article?"><span class="tocnumber">3.4</span> <span class="toctext">In what order should categories be listed within the article?</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#How_do_I_sort_the_article_differently_on_the_category_page?"><span class="tocnumber">3.5</span> <span class="toctext">How do I sort the article differently on the category page?</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Which_categories_can_be_used_for_categorization_of_articles_on_people?"><span class="tocnumber">3.6</span> <span class="toctext">Which categories can be used for categorization of articles on people?</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Somebody_changed_my_categorization_–_what_do_I_do?"><span class="tocnumber">3.7</span> <span class="toctext">Somebody changed my categorization – what do I do?</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#What_should_I_do_if_I_see_an_article_without_any_categories?"><span class="tocnumber">3.8</span> <span class="toctext">What should I do if I see an article without any categories?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Maintaining_categories"><span class="tocnumber">4</span> <span class="toctext">Maintaining categories</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#I_am_interested_in_XYZ_categories_–_where_can_I_get_involved?"><span class="tocnumber">4.1</span> <span class="toctext">I am interested in XYZ categories – where can I get involved?</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#I_want_to_change_the_relationships_of_some_categories_–_will_anyone_mind?"><span class="tocnumber">4.2</span> <span class="toctext">I want to change the relationships of some categories – will anyone mind?</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#What_goes_on_a_category_page?"><span class="tocnumber">4.3</span> <span class="toctext">What goes on a category page?</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#The_{{cat_main}}_template"><span class="tocnumber">4.4</span> <span class="toctext">The &#123;&#123;cat main&#125;&#125; template</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#How_do_I_categorize_categories_which_have_a_main_article?"><span class="tocnumber">4.5</span> <span class="toctext">How do I categorize categories which have a main article?</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Do_categories_need_parents?"><span class="tocnumber">4.6</span> <span class="toctext">Do categories need parents?</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Can_categories_be_renamed,_moved,_or_redirected?"><span class="tocnumber">4.7</span> <span class="toctext">Can categories be renamed, moved, or redirected?</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#How_do_I_delete_a_category?"><span class="tocnumber">4.8</span> <span class="toctext">How do I delete a category?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#State_of_the_Category_feature"><span class="tocnumber">5</span> <span class="toctext">State of the Category feature</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Known_issues"><span class="tocnumber">5.1</span> <span class="toctext">Known issues</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#How_do_I_report_bugs?"><span class="tocnumber">5.2</span> <span class="toctext">How do I report bugs?</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#How_do_I_request_feature_enhancements?"><span class="tocnumber">5.3</span> <span class="toctext">How do I request feature enhancements?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#What_is_the_state_of_categorization?"><span class="tocnumber">6</span> <span class="toctext">What is the state of categorization?</span></a>
+<ul>
+<li class="toclevel-2 tocsection-36"><a href="#Related_topics"><span class="tocnumber">6.1</span> <span class="toctext">Related topics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-37"><a href="#Why_might_a_category_list_not_be_up_to_date?"><span class="tocnumber">7</span> <span class="toctext">Why might a category list not be up to date?</span></a></li>
+<li class="toclevel-1 tocsection-38"><a href="#Tools"><span class="tocnumber">8</span> <span class="toctext">Tools</span></a></li>
+</ul>
+</div>
+
+<h2><span id="What_are_categories.3F"></span><span class="mw-headline" id="What_are_categories?">What are categories?</span></h2>
+<p>Categories allow articles to be placed in one or more groups, and allow those groups to be further categorized.
+When an article belongs to a category, it will contain a special link to a page that describes the category. Similarly, when a sub-category belongs to a parent category, it will contain a special link to the parent category's page.
+Each category page contains an introduction that can be edited like an article, and an automatically generated list of links to sub-categories and articles that belong to the category.
+Categories do not form a strict hierarchy or tree of categories, since each article can appear in more than one category, and each category can appear in more than one parent category. This allows multiple categorization schemes to co-exist simultaneously. It is possible to construct loops in the category space, but this is discouraged.
+</p>
+<h3><span id="What_is_the_purpose_of_categories.3F"></span><span class="mw-headline" id="What_is_the_purpose_of_categories?">What is the purpose of categories?</span></h3>
+<p>There are two main ways to use categories: lists and topics. When starting a subcategory, making an early decision about whether it is a list or a topic will reduce later renames, recategorizations, and discussions. The category page can be used to tell others whether it is a list or a topic, and to link to a main list or main article. See <a href="https://meta.wikimedia.org/wiki/Categorization_requirements" class="extiw" title="meta:Categorization requirements">meta:Categorization requirements</a> for the original purpose of the feature, and <a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">Wikipedia:Categorization</a> for current usage and guidelines for assignment.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon.">clarification needed</span></a></i>&#93;</sup>
+</p>
+<h3><span id="What_categories_already_exist.3F"></span><span class="mw-headline" id="What_categories_already_exist?">What categories already exist?</span></h3>
+<p>The best way to find out what exists is to browse. Either start at <a href="/wiki/Wikipedia:Browse" class="mw-redirect" title="Wikipedia:Browse">Wikipedia:Browse</a> or start at <a href="/wiki/Category:Articles" title="Category:Articles">Category:Articles</a>, which shows the "top" level categories, to which all other categories should be connected.  A list of all categories can be found at <a href="/wiki/Special:Categories" title="Special:Categories">Special:Categories</a> – there are many thousands listed but you can jump through them using the search box. <a href="/wiki/Category:Wikipedia_categories" title="Category:Wikipedia categories">Category:Wikipedia categories</a> is the standard top-level category provided by the MediaWiki software, but orphan categories (categories without any parent categories) can exist. <a rel="nofollow" class="external text" href="http://toolserver.org/~daniel/WikiSense/CategoryTree.php">Category Tree browser</a> at the Toolserver is a JavaScript category browser, but it is marked "deprecated". <a rel="nofollow" class="external text" href="http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php">Cat Scan</a>, also at the Toolserver, can be used to find subcategories.
+<a href="/wiki/Wikipedia:Category_schemes" class="mw-redirect" title="Wikipedia:Category schemes">Wikipedia:Category schemes</a> shows designs that predate the category feature. Some high-level categories can be found at <a href="/wiki/Wikipedia:Categorization#Current_projects" title="Wikipedia:Categorization">Wikipedia:Categorization#Current projects</a>.
+</p>
+<h3><span id="How_else_can_I_navigate_articles.3F"></span><span class="mw-headline" id="How_else_can_I_navigate_articles?">How else can I navigate articles?</span></h3>
+<p>As well as the standard links within articles themselves, every page has a link (typically at the side) called <a href="/wiki/Help:What_links_here" title="Help:What links here">What links here</a>.
+</p>
+<h3><span id="What_is_the_difference_between_a_list_and_a_category.3F"></span><span class="mw-headline" id="What_is_the_difference_between_a_list_and_a_category?">What is the difference between a list and a category?</span></h3>
+<p>Grouping articles into a category is not the same as making a list of articles. To make a list of articles, you edit the list directly; but to place articles into a category, you edit each article and insert a category tag by placing [[Category:<i>category_name</i>]] in the body of the text. This automatically adds those articles as a list on the category's page. Despite the difference in how they are maintained, it is sometimes convenient to think of a category as a list of articles.
+While an article may be in multiple lists, the goal is that browsing downwards from a list parent category, e.g. <a href="/wiki/Category:People" title="Category:People">Category:People</a>, should only arrive at articles that are about people, e.g. <a href="/wiki/John_Lennon" title="John Lennon">John Lennon</a>, and not related articles e.g. <a href="/wiki/251_Menlove_Avenue" title="251 Menlove Avenue">251 Menlove Avenue</a>.
+There are some natural hierarchies of lists. One example is the <a href="/wiki/Scientific_classification" class="mw-redirect" title="Scientific classification">scientific classification</a> of organisms, which would only place an article in one category. Other systems use multiple listings, e.g. <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> could be in <a href="/wiki/Category:Wikis" title="Category:Wikis">Category:Wikis</a> and <a href="/wiki/Category:Encyclopedias" title="Category:Encyclopedias">Category:Encyclopedias</a>.
+List categories are likely to also be subcategories of topic categories.
+Maintaining and tracking categories often requires more effort than a simple list. If you have a category that has vague criteria or that adds and removes members frequently, then maintaining a simple list is often more appropriate.
+Further information on this topic can be found at <a href="/wiki/Wikipedia:Categories,_lists,_and_navigation_templates" title="Wikipedia:Categories, lists, and navigation templates">Wikipedia:Categories, lists, and navigation templates</a>.
+</p>
+<h3><span id="Are_.22List_of_....22_articles_still_needed.3F"></span><span class="mw-headline" id="Are_&quot;List_of_...&quot;_articles_still_needed?">Are "List of ..." articles still needed?</span></h3>
+<p>There are many articles in Wikipedia called "List of ...", e.g. "List of assassins".
+<a href="/wiki/Wikipedia:Lists" class="mw-disambig" title="Wikipedia:Lists">Lists</a> are still useful for showing "missing" articles.
+<i>See also</i>: <a href="/wiki/Wikipedia:Categories,_lists,_and_navigation_templates" title="Wikipedia:Categories, lists, and navigation templates">Wikipedia:Categories, lists, and navigation templates</a> and <a href="/wiki/Wikipedia_talk:Categorization/Archive_1#Lists_v._categories" title="Wikipedia talk:Categorization/Archive 1">Wikipedia talk:Categorization/Archive 1#Lists v. categories</a>.
+</p>
+<h3><span class="mw-headline" id="Categories_compared_with_navigation_templates">Categories compared with navigation templates</span></h3>
+<p>John Brown's Raid on Harpers Ferry is an <a href="/wiki/John_Brown%27s_raid_on_Harpers_Ferry" title="John Brown&#39;s raid on Harpers Ferry">article</a>, a <a href="/wiki/Category:John_Brown%27s_raid_on_Harpers_Ferry" title="Category:John Brown&#39;s raid on Harpers Ferry">category</a>, and a <a href="/wiki/Template:John_Brown%27s_Raid_on_Harpers_Ferry" title="Template:John Brown&#39;s Raid on Harpers Ferry">navigation template</a>.
+</p><p>A <a href="/wiki/Wikipedia:Template" class="mw-redirect" title="Wikipedia:Template">template</a>, whose name is marked by {{ before and }} after, is a collection of text and/or formatting commands, which technically exist as a page of their own. They are "called" (inserted) by placing the template name, within the <a href="/wiki/Braces_(punctuation)" class="mw-redirect" title="Braces (punctuation)">braces</a>, on a page on which that text is wanted.
+</p><p>A <a href="/wiki/Wikipedia:Navigational_template" class="mw-redirect" title="Wikipedia:Navigational template">navigation template</a> is a collection of links on a single topic, formatted in a standard way, in a box with a border. These links can be arranged in different ways within the box. The box is placed at the right or at the foot of the pages linked in it.
+</p><p>There are many fewer navigation templates than categories; only important topics have them. There is no requirement that a page be linked in a navigation template, whereas every page must belong to at least one category, and almost always more.
+</p><p>When appropriate, however, a navigation template organizes links in a far more useful way than categories do. It permits many nuances that categories can not, or can only clumsily. For the reader, a navigation template, if it exists, makes finding related articles much faster.
+</p><p>Templates are more complicated to create than categories, and the Wikipedian wishing to create one may want to use an existing template as a model.
+</p><p><i>See also</i>: <a href="/wiki/Wikipedia:Categories,_lists,_and_navigation_templates" title="Wikipedia:Categories, lists, and navigation templates">Wikipedia:Categories, lists, and navigation templates</a>, <a href="/wiki/Wikipedia:Article_series" title="Wikipedia:Article series">Wikipedia:Article series</a>, <a href="/wiki/Wikipedia:Incumbent_series" title="Wikipedia:Incumbent series">Wikipedia:Incumbent series</a>.
+</p>
+<h3><span id="Can_pages_be_in_more_than_one_category.3F"></span><span class="mw-headline" id="Can_pages_be_in_more_than_one_category?">Can pages be in more than one category?</span></h3>
+<p>Yes, it is expected that most pages will be members of more than one category.
+Similarly, each category can be a member of more than one parent category.
+</p>
+<h3><span id="What_are_.22maintenance_categories.22.3F"></span><span class="mw-headline" id="What_are_&quot;maintenance_categories&quot;?">What are "maintenance categories"?</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Wikipedia:PROJCATS" class="mw-redirect" title="Wikipedia:PROJCATS">WP:PROJCATS</a></div>
+<p>Some categories exist to aid maintenance of the project, for example, <a href="/wiki/Wikipedia:Template" class="mw-redirect" title="Wikipedia:Template">template</a> categories and <a href="/wiki/Wikipedia:Redirect" title="Wikipedia:Redirect">redirect</a> categories.  Maintenance categories are often added by templates, <code class="mw-highlight" id="" style="" dir="ltr">{{...}}</code>, rather than by the "wikilink" structure, <code class="mw-highlight" id="" style="" dir="ltr">[[...]]</code>.  Benefits of template usage include the ability to populate more than one category with a single template, inclusion of text to explain the rationale of a given categorization(s), the ability to readily include/exclude certain pages or types of pages, and so on.  Contributors may monitor these maintenance categories for many reasons to include compliance with policies and guidelines that pertain to various conventions, such as page <a href="/wiki/Wikipedia:Naming_convention" class="mw-redirect" title="Wikipedia:Naming convention">naming conventions</a>.  Maintenance categories are usually "hidden" from view and can be seen only by registered users who have set their preferences to see hidden categories, which is easy to do:
+</p>
+<dl><dd><ol><li>Go to <span class="example" style="font-family: Georgia, serif;"><a href="/wiki/Special:Preferences" title="Special:Preferences">Preferences</a>&#160;→ <a href="/wiki/Special:Preferences#mw-prefsection-rendering" title="Special:Preferences">Appearance</a></span></li>
+<li>Scroll down to <b>Advanced options</b></li>
+<li>Check the box <b>Show hidden categories</b></li>
+<li>Click <kbd class="nowrap button" title="This is not a clickable button; it illustrates the button one should find." style="padding:.2em .6em; border:1px solid; border-color:#AAA #555 #555 #AAA; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; background-color: #F2F2F2; color: #000; background-image: -moz-linear-gradient(top, #FCFCFC, #E0E0E0); background-image: -o-linear-gradient(top, #FCFCFC, #E0E0E0); background-image: -webkit-linear-gradient(top, #FCFCFC, #E0E0E0); background-image: linear-gradient(to bottom, #FCFCFC, #E0E0E0); font-family:sans-serif;">Save</kbd></li></ol></dd>
+<dd>It is a good idea to <a href="/wiki/Wikipedia:PURGE" class="mw-redirect" title="Wikipedia:PURGE">purge your browser cache</a> to ensure that you can see hidden categories after setting your preferences.</dd></dl>
+<p>Templates used to populate redirect categories are indexed functionally and alphanumerically at <a href="/wiki/Wikipedia:Template_messages/Redirect_pages" title="Wikipedia:Template messages/Redirect pages">Wikipedia:Template messages/Redirect pages</a>.
+</p>
+<h2><span id="What_is_the_naming_convention_for_categories.3F"></span><span class="mw-headline" id="What_is_the_naming_convention_for_categories?">What is the naming convention for categories?</span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main page: <a href="/wiki/Wikipedia:Naming_conventions_(categories)" class="mw-redirect" title="Wikipedia:Naming conventions (categories)">Wikipedia:Naming conventions (categories)</a></div>
+<p>Use the Wikipedia titling conventions of no unnecessary capital letters or abbreviations, i.e. use [[Category:Category examples]] instead of [[Category:Category E.g.]].
+Avoid ambiguities.
+</p>
+<h3><span class="mw-headline" id="Lists">Lists</span></h3>
+<p>If the category collects articles, then avoid the word <i>List</i> in the name of the category, and use plurals, e.g. <a href="/wiki/Category:Popes" title="Category:Popes">Category:Popes</a>.
+</p><p>However, if the category collects <i>lists</i>, then using the word <i>Lists</i> in the name of the category is appropriate, e.g. <a href="/wiki/Category:Lists_of_radio_stations" title="Category:Lists of radio stations">Category:Lists of radio stations</a>.
+</p>
+<h3><span class="mw-headline" id="Topics">Topics</span></h3>
+<p>Use the topic name without indicating structure, e.g. [[Category:History of London]] instead of [[Category:History - Europe - UK - London]].
+</p>
+<h2><span class="mw-headline" id="Editing_articles">Editing articles</span></h2>
+<dl><dd><i>See also</i>: <a href="https://meta.wikimedia.org/wiki/MediaWiki_User%27s_Guide:_Using_Categories" class="extiw" title="meta:MediaWiki User&#39;s Guide: Using Categories">meta:MediaWiki User's Guide: Using Categories</a>.</dd></dl>
+<h3><span id="How_do_I_add_an_article_to_a_category.3F"></span><span class="mw-headline" id="How_do_I_add_an_article_to_a_category?">How do I add an article to a category?</span></h3>
+<p>Edit the article and add [[Category:<i>Surname</i>]] at the bottom of the article.
+For example: [[Category:Mind-body interventions]].
+</p>
+<h3><span id="How_do_I_reference_.28link_to.29_a_category_on_a_page_without_categorizing_the_page.3F"></span><span class="mw-headline" id="How_do_I_reference_(link_to)_a_category_on_a_page_without_categorizing_the_page?">How do I reference (link to) a category on a page without categorizing the page?</span></h3>
+<p>To link to the category page, put a colon before the word "category", inside the link, e.g.<br /> [[:<i>Category:United States</i>]], which will appear as <a href="/wiki/Category:United_States" title="Category:United States">Category:United States</a>.
+</p>
+<h3><span id="Where_should_the_category_tag_go_in_the_article.3F"></span><span class="mw-headline" id="Where_should_the_category_tag_go_in_the_article?">Where should the category tag go in the article?</span></h3>
+<p>Category tags should be placed at the bottom of the article, after the appendices (e.g. References and External links) and before any inter-wiki language links and stub templates (see <a href="/wiki/Wikipedia:Layout" class="mw-redirect" title="Wikipedia:Layout">Wikipedia:Layout</a>). This ensures that when newcomers press "edit", they are immediately presented with the main article text, rather than the more esoteric category tags. It also ensures that the category tags are in a consistent place so they are easy to find when an editor is updating the categorization of a bunch of articles.
+</p>
+<h3><span id="In_what_order_should_categories_be_listed_within_the_article.3F"></span><span class="mw-headline" id="In_what_order_should_categories_be_listed_within_the_article?">In what order should categories be listed within the article?</span></h3>
+<p>Both the alphabet and importance are used to order categories currently. Since some categories are obviously less relevant to the reader than others, categories should be ordered so that someone reading the article can use them to understand the subject, directing the reader to the categories that are most important to exploring the subject or understanding its context. Although this, like most ordering issues in Wikipedia, is a matter for judgment, it is generally clear that some categories – for example the birthplace or birth year of a person – are less important than others, such as their status as an Oscar or Nobel Prize winner. (See also <a href="/wiki/Wikipedia:Categorization_of_people#Categorisation_schemes" title="Wikipedia:Categorization of people">Wikipedia:Categorization of people#Categorisation schemes</a>.)
+</p>
+<h3><span id="How_do_I_sort_the_article_differently_on_the_category_page.3F"></span><span class="mw-headline" id="How_do_I_sort_the_article_differently_on_the_category_page?">How do I sort the article differently on the category page?</span></h3>
+<p>This is needed especially for sorting people by surname, leaving out articles ("The" and "A") from the beginning of names, and other cases when preferred sorting key is not identical with article name; Such as grouping people with surnames starting with 'Mac' and 'Mc' together, or to force the most important articles or sub-categories to appear at the beginning of the list.
+</p><p>If most or all categories should be sorted in the same way, use a &#123;&#123;<a href="/wiki/Template:DEFAULTSORT" title="Template:DEFAULTSORT">DEFAULTSORT</a>&#125;&#125; tag, which looks like {{DEFAULTSORT:Smith, John}}. All categories will then sort under "Smith" unless the "pipe-trick" is used for them (see below).
+</p><p>For individual cases use the "pipe-trick": Expand the category notation to include the desired sorting key after a pipe sign (syntax is similar to <a href="/wiki/Wikipedia:Piped_link" title="Wikipedia:Piped link">Wikipedia:piped link</a>, but the effect is different). For example, an article categorized by <code>[[Category:Proper category|Sorting key]]</code> would appear under S within the category.
+</p><p>See more details at <a href="/wiki/Wikipedia:SORTKEY" class="mw-redirect" title="Wikipedia:SORTKEY">WP:SORTKEY</a>.
+</p>
+<h3><span id="Which_categories_can_be_used_for_categorization_of_articles_on_people.3F"></span><span class="mw-headline" id="Which_categories_can_be_used_for_categorization_of_articles_on_people?">Which categories can be used for categorization of articles on people?</span></h3>
+<p>Articles about people should be categorized cautiously.  Unlike the body of the article, the various category choices for people can focus on what, in most cases, are common and unrelated attributes such as place of birth and gender, instead of emphasising the reason for their inclusion.
+</p><p>See <a href="/wiki/Wikipedia:Categorization_of_people" title="Wikipedia:Categorization of people">Wikipedia:Categorization of people</a> for guidelines.
+</p>
+<h3><span id="Somebody_changed_my_categorization_.E2.80.93_what_do_I_do.3F"></span><span class="mw-headline" id="Somebody_changed_my_categorization_–_what_do_I_do?">Somebody changed my categorization – what do I do?</span></h3>
+<p>All contributions to Wikipedia may be "edited mercilessly".  If the change was not explained in the article history or <a href="/wiki/Wikipedia:Talk_page" class="mw-redirect" title="Wikipedia:Talk page">talk page</a>, try leaving a question on the relevant user's talk page. You may also change it back if you disagree.
+</p>
+<h3><span id="What_should_I_do_if_I_see_an_article_without_any_categories.3F"></span><span class="mw-headline" id="What_should_I_do_if_I_see_an_article_without_any_categories?">What should I do if I see an article without any categories?</span></h3>
+<p>The easiest way to handle it is to add the <code>&#123;&#123;<a href="/wiki/Template:Uncategorized" title="Template:Uncategorized">Uncategorized</a>&#125;&#125;</code> template to the article, which will place a notice that the article needs categorizing, and automatically add it to the list at <a href="/wiki/Category:Uncategorized_pages" title="Category:Uncategorized pages">Category:Uncategorized pages</a>.  Or, try to categorize it yourself.  One useful technique is to try following links in the article to other similar pages, and see how they are categorized, so you know what to copy.
+</p>
+<h2><span class="mw-headline" id="Maintaining_categories">Maintaining categories</span></h2>
+<h3><span id="I_am_interested_in_XYZ_categories_.E2.80.93_where_can_I_get_involved.3F"></span><span class="mw-headline" id="I_am_interested_in_XYZ_categories_–_where_can_I_get_involved?">I am interested in XYZ categories – where can I get involved?</span></h3>
+<p>See <a href="/wiki/Wikipedia:WikiProject_Categories/Current_subprojects" title="Wikipedia:WikiProject Categories/Current subprojects">Wikipedia:WikiProject Categories/Current subprojects</a>, <a href="/wiki/Wikipedia:WikiProject" title="Wikipedia:WikiProject">Wikipedia:WikiProject</a> and <a href="/wiki/Portal_talk:Contents" title="Portal talk:Contents">Portal talk:Contents</a>.
+</p>
+<h3><span id="I_want_to_change_the_relationships_of_some_categories_.E2.80.93_will_anyone_mind.3F"></span><span class="mw-headline" id="I_want_to_change_the_relationships_of_some_categories_–_will_anyone_mind?">I want to change the relationships of some categories – will anyone mind?</span></h3>
+<p>If you want to restructure some existing categories, it is best to discuss your plans with others working in the same areas, or at least to announce your intentions.  This is to avoid the situation where someone is placing an article into multiple categories, someone else is populating a category with multiple articles and parent categories, while someone else is trying to restructure part of the category tree, and nobody ends up with what they want.  A good place to start looking for an interested group of people is <a href="/wiki/Category:WikiProjects" title="Category:WikiProjects">Category:WikiProjects</a>.
+</p>
+<h3><span id="What_goes_on_a_category_page.3F"></span><span class="mw-headline" id="What_goes_on_a_category_page?">What goes on a category page?</span></h3>
+<p>Category pages exist to be a convenient cross-reference to related articles and other categories.
+A category page should contain a brief description of the purpose of the category.
+A prominent link to the most important article in the category is usually a good idea, but please avoid copying large quantities of text or images from an article to a category page.  If a category and a page have a one-to-one correspondence, then the template &#123;&#123;<a href="/wiki/Template:Cat_main" title="Template:Cat main">cat main</a>&#125;&#125; or similar is often the best solution.  Introductions should be short and only navigation templates that facilitate moving between categories or category pages can be included.
+</p>
+<h3><span id="The_.7B.7Bcat_main.7D.7D_template"></span><span class="mw-headline" id="The_{{cat_main}}_template">The &#123;&#123;<a href="/wiki/Template:Cat_main" title="Template:Cat main">cat main</a>&#125;&#125; template</span></h3>
+<p><span id="cat_main"></span>
+</p><p>In many cases, a category has a "main article", which describes the subject of that category. The category and the article often have the same name. In such case, do this:
+</p>
+<ul><li>Add the "{{cat main}}" tag in the category.</li>
+<li>Arrange for the article to appear at the <i>top</i> of the list of articles in the category, by putting a vertical bar and a space after the category name in the Category: tag (e.g. [[Category:''catname''| ]]).</li></ul>
+<p>For such a category/article pair, the guidelines for what other categories the "main article" should be in are still being worked out.  Normally articles should not appear both in a category and a "parent" of that category; however an exception should be made for the "main article" of a category — the category system makes more sense if each main article appears in some or all of the categories that the equivalent category appears in. It is optimal for browsing, where the user need not keep bouncing back and forth between the categories of "main" pages and other pages.
+</p><p>If the subject has count, then make the category name plural and create a redirect of that same, plural name, redirecting back to the singular name.  For instance <a href="/wiki/City" title="City">City</a> and <a href="/wiki/Category:Cities" title="Category:Cities">Category:Cities</a>.  That is, create a page called "Cities" and add the line
+</p>
+<pre>#REDIRECT [[City]]
+</pre>
+<p>This helps to prevent confusion by blocking others from creating a competing page that overlaps in scope and you will be able to use the cat main template without specifying any additional parameters.
+</p><p>In theory, if a main article is categorized correctly in its corresponding category, the use of the cat main template is redundant.
+</p>
+<h3><span id="How_do_I_categorize_categories_which_have_a_main_article.3F"></span><span class="mw-headline" id="How_do_I_categorize_categories_which_have_a_main_article?">How do I categorize categories which have a main article?</span></h3>
+<p><i>Take <a href="/wiki/John_Lennon" title="John Lennon">John Lennon</a> and <a href="/wiki/Category:John_Lennon" title="Category:John Lennon">Category:John Lennon</a> or <a href="/wiki/The_KLF" title="The KLF">The KLF</a> and <a href="/wiki/Category:The_KLF" title="Category:The KLF">Category:The KLF</a>. Should all category memberships which relate to Lennon or the KLF (but not to, for example, the state of the article) be added to <a href="/wiki/Category:John_Lennon" title="Category:John Lennon">Category:John Lennon</a>/<a href="/wiki/Category:The_KLF" title="Category:The KLF">Category:The KLF</a> and removed from the article? That would seem to follow from literal interpretation of the "no categorizing into a subcategory and category at once" rule, but it forces readers to click an extra time and hides relationships from them.</i>
+</p><p>The article should be left in those categories it would belong to if it had no category of its own; see <a href="/wiki/Wikipedia:Categorization_and_subcategories#Topic_article_rule" class="mw-redirect" title="Wikipedia:Categorization and subcategories">Wikipedia:Categorization and subcategories#Topic article rule</a> as well as <a href="/wiki/Wikipedia:Categorization#Some_general_guidelines" title="Wikipedia:Categorization">Wikipedia:Categorization#Some general guidelines</a>.
+</p>
+<h3><span id="Do_categories_need_parents.3F"></span><span class="mw-headline" id="Do_categories_need_parents?">Do categories need parents?</span></h3>
+<p>Yes.  If you are creating a new category, look for a suitable "parent" category (or several) to assign it to. A good place to look is in articles on related subjects.
+</p><p>If you do not have a parent category, then your category cannot be browsed to via other categories.  Also, your category will show up on <a href="/wiki/Wikipedia:Database_reports/Uncategorized_categories" title="Wikipedia:Database reports/Uncategorized categories">Wikipedia:Database reports/Uncategorized categories</a>.
+</p>
+<h3><span id="Can_categories_be_renamed.2C_moved.2C_or_redirected.3F"></span><span class="mw-headline" id="Can_categories_be_renamed,_moved,_or_redirected?">Can categories be renamed, moved, or redirected?</span></h3>
+<style data-mw-deduplicate="TemplateStyles:r886047113">.mw-parser-output .module-shortcutboxplain{float:right;border:1px solid #aaa;background:#fff;margin:0 0 0 1em;padding:.3em .6em .2em .6em;text-align:center;font-size:85%;font-weight:bold}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:.2em;font-weight:normal}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}</style><div class="module-shortcutanchordiv"><span id="WP:CMOVE"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><ul><li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:CMOVE&amp;redirect=no">WP:CMOVE</a></span></li></ul></div>
+<p>Yes, "speedy renaming" can be done by listing the category at <a href="/wiki/Wikipedia:Categories_for_discussion#Speedy_renaming" title="Wikipedia:Categories for discussion">Wikipedia:Categories for discussion#Speedy renaming</a>. See <a href="/wiki/Wikipedia:Category_deletion_policy#Speedy_renaming_procedure" class="mw-redirect" title="Wikipedia:Category deletion policy">Wikipedia:Category deletion policy#Speedy renaming procedure</a>.
+</p><p>"Normal" redirects in the form <i>#REDIRECT [[Category:Better name]]</i> are not currently recommended in category space.  Instead, use the template &#123;&#123;<a href="/wiki/Template:Category_redirect" title="Template:Category redirect">Category redirect</a>&#125;&#125;: a bot periodically recategorizes articles in the redirected category to the target category.  Any editor can add a category redirect although, in general, established categories should not be unilaterally redirected but should be taken to <a href="/wiki/Wikipedia:Categories_for_discussion" title="Wikipedia:Categories for discussion">Wikipedia:Categories for discussion</a> to suggest redirecting as part of a rename / merger of the category.
+</p><p>Categories can be moved as of May 22, 2014. The old name will have {{<a href="/wiki/Template:Category_redirect" title="Template:Category redirect">Category redirect</a>|New name}} instead of #REDIRECT [[:Category:New name]].
+</p>
+<h3><span id="How_do_I_delete_a_category.3F"></span><span class="mw-headline" id="How_do_I_delete_a_category?">How do I delete a category?</span></h3>
+<p>If you feel a category falls within <a href="/wiki/Wikipedia:Category_deletion_policy" class="mw-redirect" title="Wikipedia:Category deletion policy">Wikipedia:Category deletion policy</a>, bring it up on <a href="/wiki/Wikipedia:Categories_for_discussion" title="Wikipedia:Categories for discussion">Wikipedia:Categories for discussion</a>.
+</p>
+<h2><span class="mw-headline" id="State_of_the_Category_feature">State of the Category feature</span></h2>
+<p>The category feature appeared in the <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> software v1.3, which was implemented on Wikipedia in late May 2004.
+</p><p>Initially categories were displayed at the top right of articles, but they were soon moved to the bottom due to layout conflicts. (Not every skin has them at the bottom; e.g. Cologne Blue has them at top right.)
+</p>
+<h3><span class="mw-headline" id="Known_issues">Known issues</span></h3>
+<p><a class="external text" href="https://phabricator.wikimedia.org/maniphest/?query_format=advanced&amp;product=MediaWiki&amp;component=Categories">Reported categorisation bugs</a> can be seen at <a class="external text" href="https://phabricator.wikimedia.org/">Phabricator</a>.
+</p>
+<ul><li>Category pages still show old sub-categories and articles after edits <a rel="nofollow" class="external autonumber" href="http://sourceforge.net/tracker/index.php?func=detail&amp;aid=970584&amp;group_id=34373&amp;atid=411192">[1]</a> <a rel="nofollow" class="external autonumber" href="http://sourceforge.net/tracker/index.php?func=detail&amp;aid=975072&amp;group_id=34373&amp;atid=411192">[2]</a>.</li></ul>
+<dl><dd><i>Work-around</i>: You need to make a dummy edit to the category page to fix this, e.g., add a space at the end of a line.  Explain this in the edit summary (e.g. "Dummy edit to refresh"), and flag the edit as minor if you have a Wikipedia user account.</dd></dl>
+<ul><li>Categories can be sub-categories of themselves <a rel="nofollow" class="external autonumber" href="http://sourceforge.net/tracker/index.php?func=detail&amp;aid=970259&amp;group_id=34373&amp;atid=411192">[3]</a>.</li></ul>
+<dl><dd><i>Work-around</i>: Don't do it.</dd></dl>
+<ul><li>Categories cannot be redirected <a class="external autonumber" href="https://phabricator.wikimedia.org/T2100">[4]</a>.</li></ul>
+<dl><dd><i>Work-around</i>: Don't do it, place a link on the page instead if it already exists.</dd></dl>
+<ul><li>Layout issues:
+<ul><li>Category and interwiki tags produce ugly whitespace <a class="external autonumber" href="https://phabricator.wikimedia.org/T2087">[5]</a></li>
+<li>Category pages show a pre-formatted box from spaces within category lines <a class="external autonumber" href="https://phabricator.wikimedia.org/T2833">[6]</a></li></ul></li></ul>
+<dl><dd><dl><dd><i>Work-around</i>: Edit category pages so that there is only one category tag per line.</dd></dl></dd></dl>
+<h3><span id="How_do_I_report_bugs.3F"></span><span class="mw-headline" id="How_do_I_report_bugs?">How do I report bugs?</span></h3>
+<p>Bugs should be reported to the Wikimedia <a class="external text" href="https://phabricator.wikimedia.org/">Phabricator</a> website.  (See <a href="/wiki/Wikipedia:Bug_reports_and_feature_requests" title="Wikipedia:Bug reports and feature requests">Wikipedia:Bug reports and feature requests</a> for instructions.)
+</p>
+<h3><span id="How_do_I_request_feature_enhancements.3F"></span><span class="mw-headline" id="How_do_I_request_feature_enhancements?">How do I request feature enhancements?</span></h3>
+<p>Enhancements can be requested at the <a class="external text" href="https://phabricator.wikimedia.org/">Phabricator</a> website.  (See also <a href="https://www.mediawiki.org/wiki/MediaWiki_roadmap" class="extiw" title="mw:MediaWiki roadmap">mw:MediaWiki roadmap</a>.)
+</p>
+<h2><span id="What_is_the_state_of_categorization.3F"></span><span class="mw-headline" id="What_is_the_state_of_categorization?">What is the state of categorization?</span></h2>
+<p>When trying to categorize an article, it may be difficult to tell into which categories it should be placed.  Sometimes when trying to categorize by a field of interest, one intersects with someone else's efforts from another field.
+</p><p>Category policies are still being refined by experimentation, discussion, and polls.  Categorizations and systems are likely to be discussed and improved upon for a very long time.  To be part of the discussion see <a href="/wiki/Wikipedia_talk:Categorization" title="Wikipedia talk:Categorization">Wikipedia talk:Categorization</a>.
+</p>
+<h3><span class="mw-headline" id="Related_topics">Related topics</span></h3>
+<p>To allow related articles to be grouped together, and those groupings placed into a hierarchy.  For example, both <a href="/wiki/Gwalior" title="Gwalior">Gwalior</a> and <a href="/w/index.php?title=History_of_Gwalior&amp;action=edit&amp;redlink=1" class="new" title="History of Gwalior (page does not exist)">History of Gwalior</a> could be in the <a href="/wiki/Category:Gwalior" title="Category:Gwalior">Category : Gwalior</a>.
+</p><p>There are some natural hierarchies of topics, e.g., placing <a href="/wiki/Category:History_of_India" title="Category:History of India">Category:History of India</a> under <a href="/wiki/Category:Asia" title="Category:Asia">Category:Asia</a> and <a href="/wiki/Category:History" title="Category:History">Category:History</a>.
+</p><p>Topic categories are unlikely to be subcategories of list categories.
+</p><p>Currently the software does not allow you to look at <a href="/wiki/Category:People" title="Category:People">Category:People</a> and retrieve a list of all articles in sub-categories.
+</p>
+<h2><span id="Why_might_a_category_list_not_be_up_to_date.3F"></span><span class="mw-headline" id="Why_might_a_category_list_not_be_up_to_date?">Why might a category list not be up to date?</span></h2>
+<p>Sometimes, pages are not placed in categories manually by Wikipedia editors, but by means of <a href="/wiki/Wikipedia:Templates" title="Wikipedia:Templates">templates</a>, which can be used to place identical information (including category membership information) on many different pages at once. When the information on such a template is edited, the pages containing that template are updated, but not necessarily updated immediately. This means that pages might not always appear in the most current categories. However, this problem usually affects project maintenance categories rather than the categories used for browsing.
+</p><p>Various other delays sometimes mean that lists of category members or subcategories, or the page counts given, are not completely up to date (see Phabricator tickets <a href="https://phabricator.wikimedia.org/T18036" class="extiw" title="phabricator:T18036">T18036</a>, <a href="https://phabricator.wikimedia.org/T132467" class="extiw" title="phabricator:T132467">T132467</a>, and <a href="https://phabricator.wikimedia.org/T157670" class="extiw" title="phabricator:T157670">T157670</a> for technical details). So if you are editing Wikipedia and find that your page hasn't yet shown up in a category or been removed from an old category, don't panic! The problem may resolve itself within minutes, but sometimes it may take longer, in some cases days, even months. (It may help if you make a <a href="/wiki/Help:Null_edit" class="mw-redirect" title="Help:Null edit">null edit</a> to the page.)
+</p>
+<h2><span class="mw-headline" id="Tools">Tools</span></h2>
+<p>There are some tools which help in maintaining and analysing categories. These include:
+</p>
+<ul><li><a class="external text" href="http://tools.wmflabs.org/render-tests/catcycle-dev/catcycle.py">CatCycle</a>, to trace cycles in the category structure, or find the relationship between two categories</li>
+<li><a rel="nofollow" class="external text" href="https://petscan.wmflabs.org/">PetScan</a>, is a powerful querying tool that among other tasks can scan categories, selecting pages on many categories</li></ul>
+<p><br />
+</p><p><br />
+</p>
+<hr />
+<p><b>More FAQ topics</b>
+</p>
+<div class="hlist" style="text-align: center; padding: 4px 1em; word-spacing: 2px; border: 1px solid #A3B1BF; background:#E6F2FF">
+<p><b>FAQs (Frequently Asked Questions)</b>
+</p>
+<ul><li><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">Index of FAQs</a></li>
+<li><a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">Main FAQ</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Overview" title="Wikipedia:FAQ/Overview">Overview</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Readers" title="Wikipedia:FAQ/Readers">Readers</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Schools" title="Wikipedia:FAQ/Schools">Schools</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Organizations" title="Wikipedia:FAQ/Organizations">Organizations</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Contributing" title="Wikipedia:FAQ/Contributing">Contributing</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Editing" title="Wikipedia:FAQ/Editing">Editing</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Featured_articles" title="Wikipedia:FAQ/Featured articles">Featured articles</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Administration" title="Wikipedia:FAQ/Administration">Administration</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Blocks" title="Wikipedia:FAQ/Blocks">Blocks</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Technical" title="Wikipedia:FAQ/Technical">Technical</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Problems" title="Wikipedia:FAQ/Problems">Problems</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Article_subjects" title="Wikipedia:FAQ/Article subjects">Article&#160;subjects</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categories" title="Wikipedia:FAQ/Categories">Categories</a></li>
+<li><a class="mw-selflink selflink">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Copyright" title="Wikipedia:FAQ/Copyright">Copyright</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Forking" title="Wikipedia:FAQ/Forking">Forking</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Template" title="Wikipedia:FAQ/Template">Templates</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Miscellaneous" title="Wikipedia:FAQ/Miscellaneous">Miscellaneous</a>  <div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search"><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="22" dir="ltr" /><input type="hidden" value="Wikipedia:FAQ" name="prefix" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search the FAQs" /><input type="hidden" value="Search" name="fulltext" /></form></div> </li></ul></div>
+<div role="navigation" class="navbox" aria-labelledby="Wikipedia_categorization" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wikipedia_categorization_navbox" title="Template:Wikipedia categorization navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia_categorization_navbox" title="Template talk:Wikipedia categorization navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedia_categorization_navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Wikipedia_categorization" style="font-size:114%;margin:0 4em">Wikipedia categorization</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Guidelines</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:Categories,_lists,_and_navigation_templates" title="Wikipedia:Categories, lists, and navigation templates">Categories, lists, and navigation templates</a></li>
+<li><a href="/wiki/Wikipedia:Overcategorization" title="Wikipedia:Overcategorization">Overcategorization</a></li>
+<li><a href="/wiki/Wikipedia:Categorization_of_people" title="Wikipedia:Categorization of people">Categorization of people</a></li>
+<li><a href="/wiki/Wikipedia:Categorization/Ethnicity,_gender,_religion_and_sexuality" title="Wikipedia:Categorization/Ethnicity, gender, religion and sexuality">Categorization/Ethnicity, gender, religion and sexuality</a></li>
+<li><a href="/wiki/Wikipedia:People_by_year" title="Wikipedia:People by year">People by year</a></li>
+<li><a href="/wiki/Wikipedia:Categorizing_redirects" title="Wikipedia:Categorizing redirects">Categorizing redirects</a></li>
+<li><a href="/wiki/Wikipedia:Category_names" title="Wikipedia:Category names">Category names</a></li>
+<li><a href="/wiki/Wikipedia:User_categories" title="Wikipedia:User categories">User categories</a></li>
+<li><a href="/wiki/Wikipedia:Overcategorization/User_categories" title="Wikipedia:Overcategorization/User categories">Overcategorization/User categories</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Help pages</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:Categories" title="Help:Categories">Categories</a></li>
+<li><a href="/wiki/Help:Category" title="Help:Category">Category</a></li>
+<li><a href="/wiki/Wikipedia:Classification" title="Wikipedia:Classification">Classification</a></li>
+<li><a href="/wiki/Wikipedia:Container_category" title="Wikipedia:Container category">Container category</a></li>
+<li><a href="/wiki/Wikipedia:PetScan" title="Wikipedia:PetScan">PetScan</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categories" title="Wikipedia:FAQ/Categories">FAQ for readers</a></li>
+<li><a class="mw-selflink selflink">FAQ for editors</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages/Category_namespace" title="Wikipedia:Template messages/Category namespace">Template messages/Category namespace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discussions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Categories_for_discussion" title="Wikipedia:Categories for discussion">Categories for discussion</a></li>
+<li><a href="/wiki/Wikipedia:Categories_for_discussion/Speedy" title="Wikipedia:Categories for discussion/Speedy">Categories for discussion/Speedy</a></li>
+<li><a href="/wiki/Wikipedia:Categories_for_discussion/All_current_discussions" title="Wikipedia:Categories for discussion/All current discussions">Categories for discussion/All current discussions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Projectspace essays</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Categories_are_different_from_articles" title="Wikipedia:Categories are different from articles">Categories are different from articles</a></li>
+<li><a href="/wiki/Wikipedia:Categories_versus_lists" title="Wikipedia:Categories versus lists">Categories versus lists</a></li>
+<li><a href="/wiki/Wikipedia:Categorising_fiction" title="Wikipedia:Categorising fiction">Categorising fiction</a></li>
+<li><a href="/wiki/Wikipedia:Do_not_write_articles_using_categories" title="Wikipedia:Do not write articles using categories">Do not write articles using categories</a></li>
+<li><a href="/wiki/Wikipedia:Overcategorization/Intersection_of_location_and_occupation" title="Wikipedia:Overcategorization/Intersection of location and occupation">Overcategorization/Intersection of location and occupation</a></li>
+<li><a href="/wiki/Wikipedia:Wiki_workflow" title="Wikipedia:Wiki workflow">Wiki workflow</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Plants/Description_in_year_categories" title="Wikipedia:WikiProject Plants/Description in year categories">WikiProject Plants/Description in year categories</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Userspace essays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/User:DexDor/Terminology_categories" title="User:DexDor/Terminology categories">DexDor/Terminology categories</a></li>
+<li><a href="/wiki/User:DexDor/Categorization_of_award_recipients" title="User:DexDor/Categorization of award recipients">DexDor/Categorization of award recipients</a></li>
+<li><a href="/wiki/User:Alan_Liefting/Essays/On_categorisation" title="User:Alan Liefting/Essays/On categorisation">Alan Liefting/On categorisation</a></li>
+<li><a href="/wiki/User:Coder_Dan/Categories" title="User:Coder Dan/Categories">Coder Dan/Categories</a></li>
+<li><a href="/wiki/User:Gracefool/What_is_a_category%3F" title="User:Gracefool/What is a category?">gracefool/What is a category?</a></li>
+<li><a href="/wiki/User:Kbdank71/Wikiproject_notification" title="User:Kbdank71/Wikiproject notification">Kbdank71/Wikiproject notification</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight: bold;"><div>
+<ul><li><a href="/wiki/Category:Wikipedia_categorization" title="Category:Wikipedia categorization">Category:Wikipedia categorization</a></li>
+<li><a href="/wiki/Category:Contents" title="Category:Contents">Category:Contents</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Categories" title="Wikipedia:WikiProject Categories">WikiProject Categories</a></li></ul>
+</div></td></tr></tbody></table></div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20190404065003
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.266 seconds
+Preprocessor visited node count: 825/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26076/2097152 bytes
+Template argument size: 820/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1894/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 1.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  198.332      1 -total
+ 25.92%   51.414      1 Template:Pp-semi-protected
+ 19.10%   37.875      1 Wikipedia:FAQ/framework
+ 13.92%   27.615      1 Template:Huh
+ 12.45%   24.685      1 Template:PartofHelpContents
+ 11.88%   23.556      1 Template:Shortcut
+ 11.47%   22.754      1 Template:Top_icon
+ 10.25%   20.325      3 Template:Category_handler
+ 10.11%   20.045      1 Template:Fix-span
+  6.74%   13.362      1 Template:Replace
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:735402-0!canonical and timestamp 20190404065002 and revision id 887018121
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:FAQ/Categorization&amp;oldid=887018121">https://en.wikipedia.org/w/index.php?title=Wikipedia:FAQ/Categorization&amp;oldid=887018121</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_FAQs" title="Category:Wikipedia FAQs">Wikipedia FAQs</a></li><li><a href="/wiki/Category:Wikipedia_categorization" title="Category:Wikipedia categorization">Wikipedia categorization</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_project_pages" title="Category:Wikipedia semi-protected project pages">Wikipedia semi-protected project pages</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3AFAQ%2FCategorization" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AFAQ%2FCategorization" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:FAQ/Categorization" title="View the project page [c]" accesskey="c">Project page</a></span></li><li id="ca-talk"><span><a href="/wiki/Wikipedia_talk:FAQ/Categorization" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Wikipedia:FAQ/Categorization">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:FAQ/Categorization&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:FAQ/Categorization&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:FAQ/Categorization" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:FAQ/Categorization" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:FAQ/Categorization&amp;oldid=887018121" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:FAQ/Categorization&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15868179" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AFAQ%2FCategorization">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3AFAQ%2FCategorization&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:FAQ/Categorization&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%B8%E0%A6%A4%E0%A6%A4%E0%A7%87_%E0%A6%89%E0%A6%A6%E0%A6%BF%E0%A6%A4_%E0%A6%AA%E0%A7%8D%E0%A7%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9/%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%87%E0%A6%A3%E0%A7%80" title="ৱিকিপিডিয়া:সততে উদিত প্ৰশ্নসমূহ/শ্ৰেণী – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%BE%D8%B1%D8%B3%D8%B4%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B1%D8%A7%DB%8C%D8%AC/%D8%B1%D8%AF%D9%87%E2%80%8C%D9%87%D8%A7" title="ویکی‌پدیا:پرسش‌های رایج/رده‌ها – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia:FAQ/Kategorisasi" title="Wikipedia:FAQ/Kategorisasi – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vikipedi:SSS/Kategorizasyon" title="Vikipedi:SSS/Kategorizasyon – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15868179#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 March 2019, at 02:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:FAQ/Categorization&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.266","ppvisitednodes":{"value":825,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26076,"limit":2097152},"templateargumentsize":{"value":820,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1894,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  198.332      1 -total"," 25.92%   51.414      1 Template:Pp-semi-protected"," 19.10%   37.875      1 Wikipedia:FAQ/framework"," 13.92%   27.615      1 Template:Huh"," 12.45%   24.685      1 Template:PartofHelpContents"," 11.88%   23.556      1 Template:Shortcut"," 11.47%   22.754      1 Template:Top_icon"," 10.25%   20.325      3 Template:Category_handler"," 10.11%   20.045      1 Template:Fix-span","  6.74%   13.362      1 Template:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.064","limit":"10.000"},"limitreport-memusage":{"value":1929417,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20190404065003","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":374,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

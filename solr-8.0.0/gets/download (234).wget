@@ -1,0 +1,2235 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"> <!--<![endif]-->
+<head itemscope itemtype="http://schema.org/WebSite" profile="http://gmpg.org/xfn/11">
+
+	<link rel="dns-prefetch" href="//use.typekit.net">
+	<link rel="dns-prefetch" href="//p.typekit.net">
+	<link rel="dns-prefetch" href="//fonts.typekit.net">
+	<link rel="dns-prefetch" href="//scontent.cdninstagram.com">
+	<link rel="dns-prefetch" href="//stats.wired.com">
+	<link rel="dns-prefetch" href="//wired.disqus.com">
+	<link rel="dns-prefetch" href="//www.wired.com">
+	<link rel="dns-prefetch" href="//cdn.tt.omtrdc.net">
+	<link rel="dns-prefetch" href="//cdn.optimizely.com">
+	<link rel="dns-prefetch" href="//a.disquscdn.com">
+	<link rel="dns-prefetch" href="//stats.wired.com">
+	<link rel="dns-prefetch" href="//sstats.wired.com">
+
+		<link rel="dns-prefetch" href="//assets.adobedtm.com" >
+	<link rel="dns-prefetch" href="//b.scorecardresearch.com">
+	<link rel="dns-prefetch" href="//subscribe.wired.com">
+	<link rel="dns-prefetch" href="//www.googletagservices.com">
+	<link rel="dns-prefetch" href="//segment-data.zqtk.net">
+	<link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+	<link rel="dns-prefetch" href="//condenast.demdex.net">
+	
+
+	<title itemprop='name'>Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I) | WIRED</title>
+
+	
+		<link rel="preload" href="https://www.wired.com/wp-content/themes/Phoenix/assets/css/hf.css?ver=1538429171" as="style" onload="this.rel='stylesheet'">
+
+	<script async>
+		/*! loadCSS and preload polyfill
+		https://github.com/filamentgroup/loadCSS/
+		[c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */
+		!function(a){"use strict";var b=function(b,c,d){function j(a){return e.body?a():void setTimeout(function(){j(a)})}function l(){f.addEventListener&&f.removeEventListener("load",l),f.media=d||"all"}var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",j(function(){g.parentNode.insertBefore(f,c?g:g.nextSibling)});var k=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){k(a)})};return f.addEventListener&&f.addEventListener("load",l),f.onloadcssdefined=k,k(l),f};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this),function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(a){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+	</script>
+	<!-- css fallback -->
+	<noscript>
+		<link type="text/css" rel="stylesheet" href="https://www.wired.com/wp-content/themes/Phoenix/assets/css/hf.css?v=1538429171" />
+	</noscript>
+	
+	<script async>
+		!function(){var e={kitId:'joo1eie'},t=!1,a=document.createElement("script");a.src="//use.typekit.net/"+e.kitId+".js",a.type="text/javascript",a.async="true",a.onload=a.onreadystatechange=function(){var a=this.readyState;if(!(t||a&&"complete"!=a&&"loaded"!=a)){t=!0;try{Typekit.load(e)}catch(c){}}};var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)}();
+	</script>
+
+	<meta name="news_keywords" content="analytics, Cognitive, systems" /><meta name="description" content="IBM’s recent announcements of three new services based in Watson technology make it clear that there is pressure in the enterprise software space to incorporate new technologies, both in hardware and software, in order to keep pace with modern business. It seems we are approaching another turning point in technology where many concepts that were previously limited&hellip;"/>	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name='viewport' content='width=device-width, initial-scale=1.0, minimal-ui, shrink-to-fit=no' />
+
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico" />
+	<link rel="alternate" type="application/rss+xml" title="WIRED RSS Feed" href="https://www.wired.com/feed/" />
+	<link rel="pingback" href="https://www.wired.com/xmlrpc.php" />
+
+	<!--  MS/Windows 8 -->
+	<meta name="application-name" content="WIRED: WIRED"/>
+	<meta name="msapplication-tooltip" content="Read in-depth coverage of current and future trends in technology, and how they are shaping business, entertainment, communications, science, politics, and culture at Wired.com."/>
+	<meta name="msapplication-TileColor" content="#cb0004"/>
+	<meta name="msapplication-TileImage" content="https://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon_ie.png" />
+	<meta name="msvalidate.01" content="" />
+
+	<!-- Hide the Pinterest pin -->
+	<meta name="pinterest" content="nohover" />
+
+	<!-- Apple -->
+	<link rel="apple-touch-icon" href="https://www.wired.com/wp-content/themes/Phoenix/assets/images/apple-touch-icon.png" />
+
+	
+		<meta property="og:type" content="article"/>
+	<meta property="og:title" content="Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I)" />
+											<meta property="og:image" content="https://www.wired.com/wp-content/uploads/images_blogs/gadgetlab/2011/04/iscilloscope.jpg" />
+									<meta property="og:image:width" content="660" />
+													<meta property="og:image:height" content="469" />
+								
+		
+											<meta property="article:tag" content="analytics" />
+												<meta property="article:tag" content="Cognitive" />
+												<meta property="article:section" content="Innovation Insights" />
+												<meta property="article:tag" content="systems" />
+						
+
+
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/"/>
+<meta property="og:site_name" content="WIRED" />
+<meta property="fb:page_id" content="19440638720" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image:src" content="https://www.wired.com/wp-content/uploads/images_blogs/gadgetlab/2011/04/iscilloscope.jpg" />
+	<meta name="twitter:title" content="Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I)" />
+	<meta name="twitter:description" content="" />
+	<meta name="twitter:site" content="@wired" />
+	<meta name="twitter:domain" content="WIRED" />
+	<meta name="twitter:creator" content="@wired" />
+
+	<!-- Google -->
+		<link href="https://plus.google.com/+WIRED" rel="publisher" />
+	<meta name="google-site-verification" content="" />
+	<meta name="gmapkey" content="ABQIAAAAF5yd_X_vTzike6sB6lp3wBQ4h890iMeKvsDZGQOc75SG0lWKAhQW755bw9E_-3ijKe6eqE5sg_NLEw" />
+
+	<!-- Schema.org markup for Google+ on singles for image -->
+					<meta itemprop="image" content="https://www.wired.com/wp-content/uploads/images_blogs/gadgetlab/2011/04/iscilloscope.jpg">
+				<meta itemprop="description" content="IBM’s recent announcements of three new services based in Watson technology make it clear that there is pressure in the enterprise software space to incorporate new technologies, both in hardware and software, in order to keep pace with modern business. It seems we are approaching another turning point in technology where many concepts that were previously limited&hellip;" />
+	
+		<meta name="Section" content="Blog" />
+	<meta name="Subsection" content="WIRED" />
+	<meta name="DisplayDate" content="2014-07-10" />
+	<meta name="ExpiryDate" content="2060-12-31" />
+	<meta name="Author" content="Jorge Garcia, TEC" />
+	
+					<script>!function(n,e,t){var s,c;s=function(){var e=n.location.hostname,s=location.search.match(/CNS_SB=([^&\s]+)[&\s]?/)||[],c=e+"/cns"+(s.length?"-sandbox/"+s[1]:"")+"/services.min.js";return t||"//"+c}(),n.cns=n.cns||{async:function(n,e){this.queue[n]||(this.queue[n]=[]),"function"==typeof e&&this.queue[n].push(e)},queue:{}},c=e.createElement("script"),c.async=!0,c.src=s,e.head.appendChild(c)}(window,document);</script>
+		
+	<meta name="robots" content="index, nofollow"/><script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/insights\/2014\/07\/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part\/"
+    },
+    "headline": "Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I)",
+    "datePublished": "2014-07-10T12:23:26+00:00",
+    "dateModified": "2015-08-07T02:55:57+00:00",
+    "keywords": [
+        "analytics",
+        "cognitive",
+        "systems"
+    ],
+    "url": "https:\/\/www.wired.com\/insights\/2014\/07\/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part\/",
+    "articleSection": "uncategorized",
+    "author": {
+        "@type": "Person",
+        "name": "Jorge Garcia, TEC"
+    },
+    "description": "",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/images_blogs\/gadgetlab\/2011\/04\/iscilloscope.jpg",
+        "height": 660,
+        "width": 469
+    }
+}</script><link rel="canonical" href="https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/" />
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+			{'gtm.start': new Date().getTime(),event:'gtm.js'}
+			);var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-5HBJC2K');</script>
+		<link rel='dns-prefetch' href='//s.skimresources.com' />
+<link rel='dns-prefetch' href='//widgets.outbrain.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='phoenix-style-css'  href='https://www.wired.com/wp-content/themes/Phoenix/assets/css/style.css?ver=1538429171' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.wired.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.wired.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.wired.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F&#038;format=xml" />
+
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="https://www.wired.com/feed/podcast" />
+
+<meta name='parsely-title' content='Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I)' />
+<meta name='parsely-link' content='https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/' />
+<meta name='parsely-type' content='post' />
+<meta name='parsely-image-url' content='https://www.wired.com/wp-content/uploads/images_blogs/gadgetlab/2011/04/iscilloscope.jpg' />
+<meta name='parsely-pub-date' content='2014-07-10T12:23:26+00:00' />
+<meta name='parsely-section' content='uncategorized' />
+<meta name='parsely-author' content='Jorge Garcia, TEC' />
+<meta name='parsely-tags' content='analytics,cognitive,systems' />
+<meta name='parsely-metadata' content='{"description":"","image-1-1":"https://assets.wired.com/photos/w_1000/wp-content/uploads/images_blogs/gadgetlab/2011/04/iscilloscope.jpg","image-16-9":"https://assets.wired.com/photos/w_1000/wp-content/uploads/images_blogs/gadgetlab/2011/04/iscilloscope.jpg"}' />
+
+	<script type="text/javascript" id="simplereach-analytics-tag">
+    __reach_config = {
+      pid: '530d03e197b0c989da000024',
+      iframe: true,
+      title: 'Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I) | WIRED',
+      url: 'https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/',
+      date: '2014-07-10 12:23:26',
+      authors: ['Jorge Garcia, TEC'],
+      channels: ['insights',],
+      tags: ['analytics','cognitive','systems',]
+    };
+    (function(){
+      var s = document.createElement('script');
+      s.async = true;
+      s.type = 'text/javascript';
+      s.src = document.location.protocol + '//simple-cdn.s3.amazonaws.com/js/reach.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+    })();
+</script>
+
+</head>
+<body class="single single-non-editorial postid-1461431 veil-inactive jorge-garcia-tec type-non-editorial no-primary category-insights insights 2014 07 machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part" data-layout>
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HBJC2K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<div class="js-out-of-page"></div>
+	<div class="js-newsletter-rad"></div>
+<header id='global-header' class='overflow-hide text-c clearfix fixed top right left hr-top bg-white' data-headroom data-js='header' data-hover='hoverOut'>
+	
+<!-- Logo bar -->
+<div id='logo-bar' class='border-b row bg-white' data-js='logoBar'>
+
+	<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Skip to: Start of article</a>
+
+	<!-- Navigation toggle -->
+	<button class='cursor-pointer absolute left top nav-tog' data-ui='navOpen' data-js='navTog'>
+		<span class='visually-hidden'>Visually Open Nav.</span>
+		<i aria-hidden="true" role="presentation" class='ui ui-boxes ui-sm' data-js='boxes'></i>
+	</button>
+
+	<!-- WIRED logo -->
+	<a class="row" href='https://www.wired.com/'>
+		<i aria-hidden='true' role="presentation" aria-label="WIRED Logo" class='  block ui ui-logo ui-logo-left center'></i>
+		<span class='visually-hidden'>Go to Wired Home Page.</span>
+	</a>
+
+	<!-- Title || Category text -->
+			<div tabindex="-1" aria-hidden='true' role="presentation"  class="hide-mob flex-row justify-c align-m brandon article-hdr">
+			<span class="flex-auto text-c flex-box align-m justify-c">
+									<i aria-hidden="true" role="presentation" id='cat-icon' class=' sm-icon active inline-block'></i>
+					<h1 class="hide-mob">
+						Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I)					</h1>
+							</span>
+		</div>
+	
+	
+	<!-- Subscribe button -->
+	<div id="subscribe-button" data-js="subTog" class="subscribe-hdr absolute top right">
+		<div id="CM-subscribe-link" class="absolute" aria-hidden="true" role="presentation" tabindex="-1">
+			<div id="cm-subscribe-button"></div>
+		</div>
+		<button data-ui="subOpen" class="meta subscribe-cta">subscribe</button>
+	</div>
+
+	<!-- Search toggle -->
+	<button class='subscribe-tog cursor-pointer absolute top right hide-mob hide-sm nav-tog' data-ui='searchOpen' data-js='searchTog'>
+		<span class='visually-hidden'>Open Search Field.</span>
+		<i aria-hidden="true" role="presentation" class='ui ui-search ui-sm' data-js='search'></i>
+	</button>
+</div>
+	<!-- Search field -->
+<form role="search" id='nav-search' method='get' class='right left' action='https://www.wired.com/search' data-js='navSearch' autocomplete="off">
+	<fieldset>
+		<input id='q' class='black text-c no-outline no-border' name="q" type='search' required='required' data-js="searchInput" />
+		<label class='black text-c absolute top right left' for='q'>Search</label>
+		<input id='sort-order' class='black text-c no-outline no-border' name="sort" type='hidden' value='score' />
+		<input id='search-submit' class='text-c visually-hidden' type='submit' value='Submit Search' />
+	</fieldset>
+</form>
+	<!-- Navigation menu -->
+<nav role="navigation" id='global-nav' class='mob-pad-b-huge' data-js='globalNav'>
+
+	<div id="nav-sections-wrap" class="row bg-white">
+		<ul role='menubar' id='nav-sections' data-js='navSections' class='flex-row center justify-c align-m'
+		>
+			<li role='presentation' class='nav-section nav-business block float-l border-r'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/category/business/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon business center'></i>
+						<span class='meta'>Business</span>
+					</span>
+				</a>
+			</li>
+
+			<li role='presentation' class='nav-section nav-culture block float-l border-r'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/category/culture/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon culture center'></i>
+						<span class='meta'>culture</span>
+					</span>
+				</a>
+			</li>
+
+			<li role='presentation' class='nav-section nav-gear block float-l border-r'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/category/gear/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon gear center'></i>
+						<span class='meta'>Gear</span>
+					</span>
+				</a>
+			</li>
+
+			<li role='presentation' class='nav-section nav-ideas block float-l border-r'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/category/ideas/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon ideas center'></i>
+						<span class='meta'>Ideas</span>
+					</span>
+				</a>
+			</li>
+
+			<li role='presentation' class='nav-section nav-science block float-l border-r'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/category/science/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon science center'></i>
+						<span class='meta'>Science</span>
+					</span>
+				</a>
+			</li>
+
+			<li role='presentation' class='nav-section nav-security block float-l border-r'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/category/security/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon security center'></i>
+						<span class='meta'>Security</span>
+					</span>
+				</a>
+			</li>
+
+			<li role='presentation' class='nav-section nav-transportation block float-l border-r'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/category/transportation/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon transportation center'></i>
+						<span class='meta'>transportation</span>
+					</span>
+				</a>
+			</li>
+
+			<li role='presentation' class='nav-section nav-photo block float-l border-r'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/category/photo/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon photo center'></i>
+						<span class='meta'>photo</span>
+					</span>
+				</a>
+			</li>
+
+			<li role='presentation' class='nav-section nav-video block float-l'>
+				<a role='menuitem' class='clearfix' href='https://www.wired.com/video/'>
+					<span class="vertical-fix">
+						<i aria-hidden='true' role="presentation" class='icon video center'></i>
+						<span class='meta'>video</span>
+					</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div role='presentation' id='secondary-sections' class='hide bg-white' data-js='navSecondary'>
+		<ul role='menubar' class='flex-row justify-c'>
+			<li role='presentation' class='col hide-mob hide-nav mob-col-9 mob-omega sm-col-9 no-marg-sm no-marg-med no-marg-big'>
+				<a role='menuitem' class='meta mob-pad-t-25 mob-pad-b-25 sm-pad-t-25 sm-pad-b-25' href='https://www.wired.com/category/photo/'>Photo</a>
+			</li>
+			<li role='presentation' class='col hide-mob hide-nav mob-col-9 mob-omega sm-col-9 no-marg-sm no-marg-med no-marg-big'>
+				<a role='menuitem' class='meta mob-pad-t-25 mob-pad-b-25 sm-pad-t-25 sm-pad-b-25' href='https://www.wired.com/video'>Video</a>
+			</li>
+			<li role='presentation' class='col mob-col-9 mob-omega sm-col-9 no-marg-sm no-marg-med no-marg-big'>
+				<a role='menuitem' class='meta mob-pad-t-25 mob-pad-b-25 sm-pad-t-25 sm-pad-b-25' href='https://www.wired.com/category/magazine/'>Magazine</a>
+			</li>
+			<li role='presentation' class='col mob-col-9 mob-omega sm-col-9 no-marg-sm no-marg-med no-marg-big'>
+				<a role='menuitem' class='meta mob-pad-t-25 mob-pad-b-25 sm-pad-t-25 sm-pad-b-25' href='https://www.wired.com/category/wiredinsider/'>WIRED INSIDER</a>
+			</li>
+					</ul>
+	</div>
+	<div id="header-cm" class="site-container cm-header overflow-hide text-l bg-white hide-mob hide-sm" data-js='cmHeader'>
+	<ul class='flex-row'>
+		<li tabindex="-1" aria-hidden="true" role="presentation" id="cm-dropdown-subscribe" class="header-cm-subscribe col med-col-6 big-col-6 hide-mob ">
+				<span class='visually-hidden'>Fallback Image</span>
+				<div class='fallback fallback-cm hide' data-js='fallback' alt='Consumer Marketing Fallback'>
+					<a href="https://www.wired.com/go/failsafe" target="_blank">
+	<h4 tabindex="-1" aria-hidden="true" role="presentation" data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Get The<br/>Magazine</h4>
+</a>
+<div tabindex="-1" aria-hidden="true" role="presentation" data-js='cmSubscribe' class="cm cm-fallback pad-l-med pad-r-med marg-t-med">
+	<!--<div class=" border-b cmad cmsubscribe pad-l-med pad-r-med marg-b-med">-->
+		<div class="border-b cm cm-subscribe-footer">
+			<h5 class="exchange-sm no-marg hide-med no-clamp">
+				Subscribe now to get <br>6 months for $5 - plus a FREE Portable <br>Phone Charger.
+			</h5>
+		</div>
+	<!--</div>-->
+</div>
+<a tabindex="-1" aria-hidden="true" role="presentation" class='bottom clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.wired.com/go/failsafe' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Subscribe</span>
+</a>				</div>
+		</li>
+		<li id="cm-dropdown-newsletter" class="header-cm-newsletter col med-col-6 big-col-6 hide-mob">
+			<a class="no-pad" tabindex="-1" aria-hidden="true" role="presentation" href='https://www.wired.com/services/newsletters/demographics'>
+	<h4 tabindex="-1" aria-hidden="true" role="presentation" data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Get Our<br/>Newsletter</h4>
+</a>
+
+<div tabindex="-1" aria-hidden="true" role="presentation" data-js='cmNewsletter' class="cm cm-newsletter pad-l-med pad-r-med marg-t-med marg-b-med border-l border-r">
+
+	<h5 class="exchange-sm no-marg">WIRED's biggest stories, delivered to your inbox.</h5>
+
+	<form class="absolute left right marg-l-med marg-r-med mc-embedded-subscribe-form" action="//wired.us8.list-manage.com/subscribe/post-json?u=d6a9b4ef731bfa16b27259de6&amp;id=62b9dead85&amp;c=?" method="get" name="mc-embedded-subscribe-form" target="_blank" novalidate data-ui="submitForm">
+
+		<span class="absolute brandon title pad-t-sm" data-ui="hideMe"></span>
+
+		<input tabindex="-1" aria-hidden="true" role="presentation" aria-label="Enter your Email Address to Subscribe." type="email" value="" name="EMAIL" class="mce-email pad-t-sm pad-b-sm brandon clearfix" placeholder="Enter your email" required>
+
+		<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		<div aria-hidden="true" role="presentation" style="position: absolute; left: -5000px;">
+			<input aria-label="Email Form" type="text" name="b_d6a9b4ef731bfa16b27259de6_62b9dead85" tabindex="-1" value="">
+		</div>
+
+		<input tabindex="-1" aria-hidden="true" role="presentation" aria-label="Submit your email and subscribe." type="submit" value="Submit" name="subscribe" class="clearfix hide">
+
+		<div class="email-submit relative">
+			<a aria-label="Click to Submit Newsletter Subscription. You will receive a confirmation via Email." data-js="emailSubmit" class="clearfix pad-t-med cursor-pointer flex-box align-m opacity-5 load-more no-outline" data-ui="submitForm">
+				<i aria-hidden="true" role="presentation" class="ui ui-more float-l marg-r-sm"></i><span class="meta black col">Submit</span>
+			</a>
+
+			<div tabindex="-1" aria-hidden="true" role="presentation" data-js="emailSubmitSuccess" class="success absolute top bottom left right pad-t-med flex-box align-m visibility-hidden opacity-0">
+				<i aria-hidden="true" role="presentation" class='ui ui-success float-l marg-r-sm cursor-default'></i>
+				<span class='more meta black'>Thank You</span>
+			</div>
+
+			<div tabindex="-1" aria-hidden="true" role="presentation" data-js="emailSubmitError" class="error absolute top bottom left right pad-t-med flex-box align-m visibility-hidden opacity-0">
+				<i aria-hidden="true" role="presentation" class='ui ui-error float-l marg-r-sm cursor-default'></i>
+				<span class='more meta black'>Invalid Email</span>
+			</div>
+		</div>
+	</form>
+</div>
+
+
+		</li>
+		<li class="header-cm-twitter col med-col-6 big-col-6 hide-mob no-marg" data-js="cm-social-wrapper">
+			<div id="cm-dropdown-twitter" class="cm-social" data-js="social-unit">
+				
+<a href="https://twitter.com/WIRED" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Twitter</h4>
+</a>
+
+<div aria-hidden="true" role="presentation" class="cm cm-twitter cm-social-footer pad-l-med marg-r-med">
+		<ul class='border-b'>
+						<li class="link-underline pad-b-med">
+			<img alt="Wired Twitter" class="float-l marg-r-sm marg-b-big" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/apple-touch-icon.png">
+			<time>9 hours</time>
+			<p class="marg-t-micro cm-tweet exchange-sm">Self-driving cars might not be as imminent as we thought <a class="no-pad" href="https://t.co/OSEZRBCp4t">wired.trib.al/wk1fxvp</a></p>
+		</li>
+					</ul>
+	</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://twitter.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+			</div>
+			<div id="cm-dropdown-facebook" class="cm-social" data-js="social-unit">
+				<a href="https://www.facebook.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Facebook</h4>
+</a>
+
+<div class="cm cm-facebook cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.facebook.com/wired' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">Don't miss our latest news, features and videos.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.facebook.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+			</div>
+			<div id="cm-dropdown-pinterest" class="cm-social" data-js="social-unit">
+				<a href="https://www.pinterest.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">We’re On<br/>Pinterest</h4>
+</a>
+
+<div class="cm cm-pinterest cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.pinterest.com/wired/' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">See what's inspiring us.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.pinterest.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+			</div>
+			<div id="cm-dropdown-youtube" class="cm-social" data-js="social-unit">
+				<a href="https://www.youtube.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Youtube</h4>
+</a>
+
+<div class="cm cm-youtube cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.youtube.com/wired/' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">Don't miss out on WIRED's latest videos.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.youtube.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+
+			</div>
+		</li>
+	</ul>
+</div>
+</nav>
+	
+<!-- Header Social -->
+<div tabindex="-1" aria-hidden="true" role="presentation" id='mobile-share' class='fixed left right top flex-row align-m no-wrap hide-med hide-big social-group' data-js='mobileShare'>
+
+	<a id="fb-share" class='col flex-flow flex-box align-m justify-c bg-fb fb clearfix no-underline no-marg' target="_blank" href='https://www.facebook.com/sharer/sharer.php?t=Machine+Learning+and+Cognitive+Systems%3A+The+Next+Evolution+of+Enterprise+Intelligence+%28Part+I%29&#038;u=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F?mbid=social_fb_onsiteshare'>
+		<i aria-hidden="true" role="presentation" class='ui ui-social ui-fb-sm'></i>
+	</a>
+
+	<a id="twitter-share" class='col flex-flow flex-box align-m justify-c bg-twit twitter clearfix no-underline no-marg' target="_blank" href='https://twitter.com/intent/tweet?text=Machine%20Learning%20and%20Cognitive%20Systems%3A%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20%28Part%20I%29&#038;related&#038;url=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F?mbid=social_twitter_onsiteshare'>
+		<i aria-hidden="true" role="presentation" class='ui ui-social ui-twit-sm'></i>
+	</a>
+
+	<a id="pint-share" class='col flex-flow flex-box align-m justify-c bg-pint pint clearfix no-underline no-marg' target="_blank" href='https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F&#038;media=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2Fimages_blogs%2Fgadgetlab%2F2011%2F04%2Fiscilloscope.jpg&#038;description=Machine%20Learning%20and%20Cognitive%20Systems:%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20(Part%20I)'>
+		<i aria-hidden="true" role="presentation" class='ui ui-social ui-pint-sm'></i>
+	</a>
+
+		<a id="comment-share" class='col flex-flow flex-box align-m justify-c bg-comments comments clearfix no-underline no-outline cursor-pointer no-marg' data-ui="commentsOpen" data-js='wordBubble'>
+		<i aria-hidden="true" role="presentation" class='ui ui-social ui-comments'></i>
+	</a>
+	
+	<a id="mail-share" class='col flex-flow flex-box align-m justify-c bg-mail mail clearfix no-underline no-marg' href='mailto:?subject=WIRED:%20Machine%20Learning%20and%20Cognitive%20Systems:%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20(Part%20I)&#038;body=Check%20out%20this%20great%20article%20I%20read%20on%20WIRED:%0D%0A%0D%0AMachine%20Learning%20and%20Cognitive%20Systems:%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20(Part%20I)%0D%0A%0D%0Ahttps://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/?mbid=email_onsiteshare'>
+		<i aria-hidden="true" role="presentation" class='ui ui-social ui-mail'></i>
+	</a>
+</div>
+</header>
+    <div class="pusher" data-js="pusher" data-headroom></div>
+<div id="crown9x1_frame" data-constellation-id="crown" data-jivox-ad-id="constellation-crown"></div>
+		<div tabindex="-1" aria-hidden="true" role="presentation" class="rad brad-top bg-gray-1 flex-box align-m justify-c" data-js="leaderboard" data-headroom data-rad><div class="advertisement">
+				<span class='visually-hidden'>Advertisement.</span>
+		</div></div>
+
+<main id="main" class="site-main" data-js="main">
+
+
+	<div id="post-1461431" class="post standard site-container marg-b-50 post-1461431 non-editorial type-non-editorial status-publish has-post-thumbnail hentry category-insights tag-analytics tag-cognitive tag-systems" data-js='article' data-id="1461431">
+
+	<!-- any images in the post content will be duplicated here as well -->
+	
+	<a class="visually-hidden skip-to-text-link focusable" href="#start-of-content">Skip Article Header. Skip to: Start of Article.</a>
+
+	<header id="post-header" class='standard mob-marg-t-med mob-marg-b-25 med-marg-b-50 big-marg-b-50 marg-t-50 clearfix' data-js='postHeader'>
+
+		<ul tabindex="0" role='list' aria-label="Metadata for article." class="center metadata marg-b-sm mob-marg-b-sm relative">
+
+	
+	<li tabindex="0" class="sponsor-title inline-block marg-r-sm mob-marg-b-sm block brandon uppercase" itemprop="articleSection">
+		Partner Content	</li>
+
+				<li tabindex="0" class="byline marg-r-sm inline-block mob-marg-b-sm">
+			<span class='visually-hidden'>Author: Jorge Garcia, TEC.</span>
+			<span class="link-underline-sm marg-r-sm" itemprop="author">
+				Jorge Garcia, TEC			</span>
+		</li>
+				</ul>
+
+		<h1 id="post-title" tabindex="0" class="post-title sponsor-label mob-marg-b-25 med-marg-b-50 big-marg-b-50 tungsten" data-js="postTitle">Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I)</h1>
+		<figure id="attachment_63591" class="wp-caption landscape aligncenter  relative" data-js=""><div class="ui-social-wrapper image absolute top right">
+							<ul class="no-marg"><li><a class="fb clearfix no-underline no-outline" onclick="window.open( 'https://www.facebook.com/dialog/feed?display=popup&app_id=719405864858490&link=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F&picture=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2Fimages_blogs%2Fgadgetlab%2F2011%2F04%2Fiscilloscope.jpg&redirect_uri=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F' , 'Facebook' , 'height=580, width=730' )"><i aria-hidden="true" role="presentation" class="ui ui-social-xtra-sm ui-fb-xtra-sm active bg-fb"></i></a></li><li><a  class="pint clearfix no-underline no-outline" onclick="window.open( 'https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F&is_video=true&media=https://www.wired.com/wp-content/uploads/images_blogs/gadgetlab/2011/04/iscilloscope.jpg&description=Machine%20Learning%20and%20Cognitive%20Systems%3A%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20%28Part%20I%29%20%7C%20Image%3A%20Penn%20Sate%2FFlickr%20%7C%20From%20WIRED.com' , 'Pinterest' , 'height=580, width=730' )"><i aria-hidden="true" role="presentation" data-js="social"  class="ui ui-social-xtra-sm ui-pint-xtra-sm active bg-pint"></i></a></li></ul>
+							</div><img data-pin-description="Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I)" src="https://www.wired.com/wp-content/uploads/2014/07/brain_660.jpg" alt="Image: Penn Sate/Flickr" width="660" height="440" class="size-full wp-image-63591" /><figcaption class="wp-caption-text link-underline"><em>Image: Penn Sate/Flickr</em></figcaption></figure>	</header>
+
+	<section tabindex="0" class='post-container clearfix relative' data-js='post' id="start-of-content">
+		<article class='content link-underline relative body-copy' data-js='content'>
+
+			<p>IBM’s <a href="http://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-News/IBM-Invests-Over-$1-Billion-in-Watson-for-Analytics-and-Big-Data-94169.aspx" target="_blank">recent announcements</a> of three new services based in <a href="http://www-03.ibm.com/innovation/us/watson/" target="_blank">Watson technology</a> make it clear that there is pressure in the enterprise software space to incorporate new technologies, both in hardware and software, in order to keep pace with modern business. It seems we are approaching another turning point in technology where many concepts that were previously limited to academic research or very narrow industry niches are now being considered for mainstream enterprise software applications.</p>
+<p>Machine learning, along with many other disciplines within the field of artificial intelligence and cognitive systems, is gaining popularity, and it may in the not so distant future have a colossal impact on the software industry. This first part of my series on machine learning explores some basic concepts of the discipline and its potential for transforming the business intelligence and analytics space.</p>
+<p><strong>So, What Is Machine Learning Anyway?</strong></p>
+<p>In simple terms, machine learning is a branch of the larger discipline of Artificial Intelligence, which involves the design and construction of computer applications or systems that are able to learn based on their data inputs and/or outputs. Basically, a machine learning system learns by experience; that is, based on specific training, the system will be able to make generalizations based on its exposition to a number of cases and then be able to perform actions after new or unforeseen events.</p>
+<p>The discipline of machine learning also incorporates other data analysis disciplines, ranging from predictive analytics and data mining to pattern recognition. And a variety of specific algorithms are used for this purpose, frequently organized in taxonomies, these algorithms can be used depending on the type of input required (a list of algorithms can be found in Wikipedia based on their type).</p>
+<p>As a discipline, machine learning is not new. Initial documents and references can be traced back to the early fifties with the work of Alan Turing, Arthur Samuel, and Tom M. Mitchell. And the field has undergone extensive development since that time.</p>
+<p>One of the more important applications of machine learning is to automate the acquisition of knowledge bases used by so-called expert systems, systems that aims to emulate the decision making process of human expertise in a field. But the scope of its application has been growing. In <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.3235&amp;rep=rep1&amp;type=pdf" target="_blank">Applications of Machine Learning and Rule Induction</a>, Langley and Simon review some major paradigms for machine learning scenarios, all based on a very important premise:</p>
+<blockquote><p>To improve performance on some task, and the general approach involves finding and exploiting regularities in training data.</p>
+</blockquote>
+<p>The major approaches include using <a href="http://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">neural networks</a>, <a href="http://edutechwiki.unige.ch/en/Case-based_learning" target="_blank">case-based learning</a>, <a href="http://en.wikipedia.org/wiki/Genetic_algorithm" target="_blank">genetic algorithms</a>, <a href="http://en.wikipedia.org/wiki/Rule_induction" target="_blank">rule induction</a>, and analytic learning. While in the past they were applied independently, in recent times these paradigms or models are being used in a hybrid fashion, closing the boundaries between them and enabling the development of more effective models. The combination of analytic methods can ensure effective and repeatable and reliable results, a required component for practical usage in mainstream business and industry solutions.</p>
+<p>According to <a href="http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf" target="_blank">A Few Useful Things to Know about Machine Learning</a>, while the discipline by itself is far from simple, it is based on a simple (but not simplistic) principle:</p>
+<blockquote><p><em>LEARNING = REPRESENTATION + EVALUATION + OPTIMIZATION</em></p>
+</blockquote>
+<p>Where:</p>
+<ul>
+<li><strong>Representation</strong> means the use of a classifier element represented in a formal language that a computer can handle and interpret; </li>
+<li><strong>Evaluation</strong> consists of a function needed to distinguish or evaluate the good and bad classifiers; and</li>
+<li><strong>Optimization</strong> represents the method used to search among these classifiers within the language to find the highest scoring ones.</li>
+</ul>
+<p>As the paper states:</p>
+<blockquote><p>The fundamental goal of machine learning is to generalize beyond the examples in the training set.</p>
+</blockquote>
+<p>This way the system can infer new decisions or correct answers that then serve to increase learning and optimize accuracy and performance.</p>
+<p>Also, each component of the machine learning process comprises a good mix of mathematical techniques, algorithms, and methodologies that can be applied (Figure 1).</p>
+<p><span class="font-size-1"><a href="http://api.ning.com:80/files/MOC7BqAcxPuQS9W2NCsCd*jZz7jTP39e9bqmOSqFihVTYgAlO4ZO0y1pQVvzW*bCauKaHkeFopxC0mdApwZzBVeyGHfEqB0x/Figure1_ML_Components.png" target="_self"><img src="https://api.ning.com:80/files/MOC7BqAcxPuQS9W2NCsCd*jZz7jTP39e9bqmOSqFihVTYgAlO4ZO0y1pQVvzW*bCauKaHkeFopxC0mdApwZzBVeyGHfEqB0x/Figure1_ML_Components.png?width=500" width="500" class="align-center"/></a></span></p>
+<p style="text-align: center;"><em><span class="font-size-1">Figure 1. The Three components of learning algorithms. Source: A Few Useful Things to Know about Machine Learning</span></em></p>
+<p style="text-align: left;">In this context, machine learning can be done by applying specific learning strategies, such as:</p>
+<ul>
+<li>A <strong>supervised</strong> strategy to map the data inputs and model them against desired outputs, and</li>
+<li>An <strong>unsupervised</strong> strategy, to map the inputs and model them to find new trends.</li>
+</ul>
+<p>Derivative ones that combine these for a semi-supervised approach and others are also be used. This opens the door onto a multitude of applications for which machine learning can be used, in many areas, to describe, prescribe, and discover what is going on within large volumes of diverse data.</p>
+<p><strong>Machine Learning Builds in Business, Especially for Analytics</strong></p>
+<p>Thanks to the success of the application of machine learning within certain disciplines such as speech recognition, computer vision, bio-surveillance, and robot control, the interest in and adoption of machine language technologies has grown, particularly over the last decade. Interesting also is how, in many fields, machine learning is escaping its containment from science labs to reach commercial and business applications.</p>
+<p>There are several scenarios where machine learning can have a key role: in those systems that are so complex that algorithms are very hard to design, or when an application requires the software to adapt to an operational environment, or with complex systems that need to work with extensive and complex data sets. In this way, machine learning methods play an increasing role not just in general in the field of computer science, but also in terms of enterprise software applications, especially for those types of applications that need in-depth data analysis and adaptability. These areas include analytics, business intelligence, and Big Data.</p>
+<p><strong>Why Business Intelligence and Big Data?</strong></p>
+<p>In 1958, H. P. Luhn wrote what perhaps is the <a href="http://altaplana.com/ibmrd0204H.pdf" target="_blank">first document on Business Intelligence</a>. The abstract begins as:</p>
+<blockquote><p>An automatic system is being developed to disseminate information to the various sections of any industrial, scientific or government organization. This intelligence system will utilize data-processing machines for auto-abstracting and auto-encoding of documents and for creating interest profiles for each of the “action points” in an organization. Both incoming and internally generated documents are automatically abstracted, characterized by a word pattern, and sent automatically to appropriate action points. This paper shows the flexibility of such a system in identifying known information, in finding who needs to know it and in disseminating it efficiently either in abstract form or as a complete document.</p>
+</blockquote>
+<p>The premise of BI systems has remained pretty much the same: to collect an organization’s data from disparate sources and process it in the best possible way to produce useful information to &#8212; and perhaps this is the most important part &#8212; help decision makers to make the best informed decision for the benefit of an organization. A simple definition, not a simple task.</p>
+<p>In this regard, Business Intelligence has been adapting and evolving with greater or lesser degrees of accuracy and failure to provide information workers with the ability to make these decisions, and has played a very important role in the decision support platform of many organizations.</p>
+<p>This evolution has changed the role of BI systems not just to provide high-level decision support at a strategic level, but to inform an increasing number of areas involved with middle management and operations. It has also has increased the need for BI systems and initiatives to evolve so that they are able to deal with increasingly complex data analysis problems. Applications need to be boosted so that they can deal with larger and complex amounts of data and can not only provide current status results, but also predict, play with hypothetical scenarios, and finally learn to make accurate suggestions—a green field for machine learning (Figure 2).</p>
+<p><a href="http://api.ning.com:80/files/MOC7BqAcxPvjHMmR79RL50SQP9lf9pE4IqGb7saKHRobR4NjJU*yJMpN9Mi9ayCSwmdvClqnP52a0Dmi-5C6SyvYaKgjdi7C/Figure2_ML_Components.png" target="_self"><img src="https://api.ning.com:80/files/MOC7BqAcxPvjHMmR79RL50SQP9lf9pE4IqGb7saKHRobR4NjJU*yJMpN9Mi9ayCSwmdvClqnP52a0Dmi-5C6SyvYaKgjdi7C/Figure2_ML_Components.png?width=500" width="500" class="align-center"/></a></p>
+<p style="text-align: center;"><strong><span class="font-size-1">Figure 2. Some factors triggering the need for faster, better, and improved ways for decision support, analytics, and BI systems</span></strong></p>
+</p>
+<p>A good model to understand the evolution of BI systems is D. J. Power’s <a href="http://dssresources.com/history/dsshistory.html">history of decision support systems</a>, which of course BI is an important part of. According to Mr. Power, decision support systems and applications have evolved in the following stages:</p>
+<ol>
+<li><strong>Model Driven</strong>. Emphasizes access to and manipulation of financial, optimization and/or simulation models. Simple quantitative models provide the most elementary level of functionality. Use limited data and parameters provided by decision makers to aid decision makers in analyzing a situation, but in general large data bases are not needed for model-driven.</li>
+<li><strong>Data Driven</strong>. In general, a data-driven DSS emphasizes access to and manipulation of a time-series of internal company data and sometimes external and real-time data. Simple file systems accessed by query and retrieval tools provide the most elementary level of functionality. Data warehouse systems that allow the manipulation of data by computerized tools tailored to a specific task and setting or by more general tools and operators provide additional functionality. Data-Driven DSS with On-line Analytical Processing OLAP provide the highest level of functionality and decision support that is linked to analysis of large collections of historical data.</li>
+<li><strong>Communications Driven</strong>. Communications-driven DSS use network and communications technologies to facilitate decision-relevant collaboration and communication. In these systems, communication technologies are the dominant architectural component. Tools used include groupware, video conferencing and computer-based bulletin boards.</li>
+<li><strong>Document Driven</strong>. Uses computer storage and processing technologies to provide document retrieval and analysis. Large document databases may include scanned documents, hypertext documents, images, sounds and video. Examples of documents that might be accessed by a document-driven DSS are policies and procedures, product specifications, catalogs, and corporate historical documents, including minutes of meetings and correspondence. A search engine is a primary decision-aiding tool associated with a document-driven DSS. These systems have also been called text-oriented DSS.</li>
+<li><strong>Knowledge Driven</strong>. Knowledge-driven DSS can suggest or recommend actions to managers. These DSS are person-computer systems with specialized problem-solving expertise. The &#8220;expertise&#8221; consists of knowledge about a particular domain, understanding of problems within that domain, and &#8220;skill&#8221; at solving some of these problems.</li>
+</ol>
+<p>Within these descriptions there are clear elements in place to boost the adoption of technologies and methodologies such as machine learning &#8212; collaboration, intensive management, and increase of non-traditional data (relational). The need for systems to solve complexity coincides with the advent of phenomena such as Big Data and advanced analytics in business giving a natural space for machine learning to make the entrance to help crunching big sets of complex data, and to be part of the increasingly complex machinery in place for data analysis and decision making.</p>
+<p>Along with disciplines like data mining, natural language processing, and others, machine learning is being seen in business as a tool of choice for transforming what use to be a business intelligence application approach into a wider enterprise intelligence or analytics platform or ecosystem, which goes beyond the traditional scope of BI &#8212; focused on answering “what is going on with my business?” &#8212; to give all possible answers to “why are we doing what we’re doing?” and “how can we do it better?” and even “what should we do?”.</p>
+<p>As businesses models are becoming more complex and producing massive amounts of data to be handled with less and less latency, decision support and BI systems are required to grow in complexity and in their ability to handle those volumes of data. This demand is boosting the growth of more sophisticated solutions to address specific business and industry problems; it’s not enough to sit out a straightforward result, systems need to provide business guidance.</p>
+<p>Some scenarios where machine learning is gaining increased popularity in the context of analytics and BI can be found in applications for risk analysis, marketing analytics, and advanced analytics for Big Data sources.</p>
+<p><strong>Machine Learning Is a Reality for Business</strong></p>
+<p>As Tim Negris states in <a href="http://www.citoresearch.com/data-science/getting-ready-machine-learning" target="_blank">Getting ready for machine learning</a>:</p>
+<blockquote><p>Despite what many business people might guess, machine learning is not in its infancy. It has come to be used very effectively across a wide array of applications.</p>
+</blockquote>
+<p>And it’s being increasingly adopted within many analytics, Big Data, and business intelligence initiatives in the form of a component laying side-to-side with other analytics solutions, or packaged within a solution that has already adopted it as part of its functional stack.</p>
+<p>In either case, machine learning is preparing to be part of the next evolution of enterprise intelligence business offerings.</p>
+<p>In the next part of this series on machine learning, I will address some specifics of the usage of machine learning as part of Big Data and Advanced Analytics, as well as its role in the formation of the new so-called area of cognitive systems. In the mean time, please share comments below and let me know your thoughts.</p>
+<p><em>Jorge Garcia is Senior BI and Data Management Analyst at Technology Evaluation Centers.</em></p>
+<p><em>Top image: <a href="http://www.flickr.com/photos/pennstatelive/9680965922/" target="_blank">Penn Sate</a>/Flickr</em></p>
+<div class="ning-pub-blog-import subdomain-wirednext">
+<div class="ning-pub-blog-title">Originally posted by:</div>
+<div class="ning-pub-blog-container">
+<div class="ning-pub-blog-author"><a href="http://wirednext.ning.com/profile/JorgeGarcia"><img src="https://api.ning.com:80/files/NvWHU5oq4TaeU9e9F9KLfQaMNcoOqMS5k1IYjLko8uK*jFLVf*gkwDg*mgPYl4uOr2CxvKZkmUfmzIYKxRJcKZKovKzQHevV/Garcia2_1.jpg?width=68&#038;height=68&#038;crop=1:1"/></a><a href="http://wirednext.ning.com/profile/JorgeGarcia">Jorge Garcia</a></div>
+<div class="ning-pub-blog-src"><a href="http://wirednext.ning.com/xn/detail/6544125:BlogPost:104056">View original post</a></div>
+</div>
+</div>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			<ul id="article-tags" aria-label="Tags for this Story." class="list-none center metadata marg-t-50 pad-b-med border-t border-b" data-js="articleTags"><li class="no-underline pad-t-med pad-r-sm no-marg analytics" itemprop="articleSection"><a href="https://www.wired.com/tag/analytics/" rel="tag">analytics</a></li><li class="no-underline pad-t-med pad-r-sm no-marg cognitive" itemprop="articleSection"><a href="https://www.wired.com/tag/cognitive/" rel="tag">Cognitive</a></li><li class="no-underline pad-t-med pad-r-sm no-marg systems" itemprop="articleSection"><a href="https://www.wired.com/tag/systems/" rel="tag">systems</a></li></ul>		</article>
+
+		<div class="hide-big">
+			
+<div role="group" aria-label="Share Tools." id="sharing" class="absolute top bottom hide-mob social-group" data-js="social">
+
+	<a class="visually-hidden skip-to-text-link focusable bg-white" href="#latest-news-list">Skip Social. Skip to: Latest News.</a>
+
+	<ul data-js="socialSticky" id="share-card" class="border-t-big pad-t-med no-marg" data-headroom data-sticky>
+
+		<li>
+			<h4 id="latest-news-hdr" class="ambroise-hdr pad-b-med big-pad-l-med clearfix">Share</h4>
+		</li>
+
+		<li class="big-marg med-marg-t-med med-marg-b-med pad-b-med">
+			<a id="fb-share" class="fb clearfix no-underline no-outline" target="_blank" href="https://www.facebook.com/sharer/sharer.php?t=Machine+Learning+and+Cognitive+Systems%3A+The+Next+Evolution+of+Enterprise+Intelligence+%28Part+I%29&#038;u=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F?mbid=social_fb_onsiteshare">
+				<i aria-hidden="true" role="presentation" class="block ui ui-social ui-fb-sm relative active float-l marg-r-sm bg-fb"></i>
+				<span class="meta float-l">
+					<span class="clearfix hide-med">Share</span>
+					<span class="count-wrapper">
+						<span class="clearfix black marg-t-nano social-fader fade-up-in" data-js="fbCount"></span>
+						<span class="clearfix black marg-t-nano social-fader" data-js="fbCount"></span>
+					</span>
+				</span>
+			</a>
+		</li>
+
+		<li class="big-marg med-marg-t-med med-marg-b-med pad-b-med">
+			<a id="twitter-share" class="twitter clearfix no-underline no-outline" target="_blank" href="https://twitter.com/intent/tweet?text=Machine%20Learning%20and%20Cognitive%20Systems%3A%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20%28Part%20I%29&#038;related&#038;url=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F?mbid=social_twitter_onsiteshare">
+				<i aria-hidden="true" role="presentation" class="block ui ui-social ui-twit-sm relative active float-l marg-r-sm bg-twit"></i>
+				<span class="meta float-l">
+					<span class="clearfix hide-med">Tweet</span>
+					<span class="count-wrapper">
+						<span class="clearfix black marg-t-nano social-fader fade-up-in" data-js="twitCount"></span>
+						<span class="clearfix black marg-t-nano social-fader" data-js="twitCount"></span>
+					</span>
+				</span>
+			</a>
+		</li>
+
+				<li class="big-marg med-marg-t-med med-marg-b-med pad-b-med">
+			<a id="comments-open-bubble" href="#article-comments" class="comments clearfix no-underline no-outline" data-ui="commentsOpen" data-js="wordBubble">
+				<i aria-hidden="true" role="presentation" class="ui ui-social ui-comments relative active float-l marg-r-sm bg-comments"></i>
+				<span class="meta float-l">
+					<span class="clearfix hide-med">Comment</span>
+					<span class="disqus-comment-count clearfix black marg-t-nano text-l" data-js="commentCount" data-disqus-identifier="1461431 http://innovationinsights.wired.com/insights/?p=63571"></span>
+				</span>
+			</a>
+		</li>
+		
+		<li class="big-marg-t-med big-marg-l-med big-marg-r-med med-marg-t-med med-marg-b-med no-border">
+			<a id="mail-share" class="mail clearfix no-underline no-outline" href="mailto:?subject=WIRED:%20Machine%20Learning%20and%20Cognitive%20Systems:%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20(Part%20I)&#038;body=Check%20out%20this%20great%20article%20I%20read%20on%20WIRED:%0D%0A%0D%0AMachine%20Learning%20and%20Cognitive%20Systems:%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20(Part%20I)%0D%0A%0D%0Ahttps://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/?mbid=email_onsiteshare" target="_blank">
+				<i aria-hidden="true" role="presentation" class="block ui ui-social ui-mail relative active float-l marg-r-sm bg-mail"></i>
+				<span class="meta float-l hide-med">Email</span>
+			</a>
+		</li>
+
+	</ul>
+</div>
+		</div>
+
+	</section>
+
+	<div class="hide-med">
+		
+<div role="group" aria-label="Share Tools." id="sharing" class="absolute top bottom hide-mob social-group" data-js="social">
+
+	<a class="visually-hidden skip-to-text-link focusable bg-white" href="#latest-news-list">Skip Social. Skip to: Latest News.</a>
+
+	<ul data-js="socialSticky" id="share-card" class="border-t-big pad-t-med no-marg" data-headroom data-sticky>
+
+		<li>
+			<h4 id="latest-news-hdr" class="ambroise-hdr pad-b-med big-pad-l-med clearfix">Share</h4>
+		</li>
+
+		<li class="big-marg med-marg-t-med med-marg-b-med pad-b-med">
+			<a id="fb-share" class="fb clearfix no-underline no-outline" target="_blank" href="https://www.facebook.com/sharer/sharer.php?t=Machine+Learning+and+Cognitive+Systems%3A+The+Next+Evolution+of+Enterprise+Intelligence+%28Part+I%29&#038;u=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F?mbid=social_fb_onsiteshare">
+				<i aria-hidden="true" role="presentation" class="block ui ui-social ui-fb-sm relative active float-l marg-r-sm bg-fb"></i>
+				<span class="meta float-l">
+					<span class="clearfix hide-med">Share</span>
+					<span class="count-wrapper">
+						<span class="clearfix black marg-t-nano social-fader fade-up-in" data-js="fbCount"></span>
+						<span class="clearfix black marg-t-nano social-fader" data-js="fbCount"></span>
+					</span>
+				</span>
+			</a>
+		</li>
+
+		<li class="big-marg med-marg-t-med med-marg-b-med pad-b-med">
+			<a id="twitter-share" class="twitter clearfix no-underline no-outline" target="_blank" href="https://twitter.com/intent/tweet?text=Machine%20Learning%20and%20Cognitive%20Systems%3A%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20%28Part%20I%29&#038;related&#038;url=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F?mbid=social_twitter_onsiteshare">
+				<i aria-hidden="true" role="presentation" class="block ui ui-social ui-twit-sm relative active float-l marg-r-sm bg-twit"></i>
+				<span class="meta float-l">
+					<span class="clearfix hide-med">Tweet</span>
+					<span class="count-wrapper">
+						<span class="clearfix black marg-t-nano social-fader fade-up-in" data-js="twitCount"></span>
+						<span class="clearfix black marg-t-nano social-fader" data-js="twitCount"></span>
+					</span>
+				</span>
+			</a>
+		</li>
+
+				<li class="big-marg med-marg-t-med med-marg-b-med pad-b-med">
+			<a id="comments-open-bubble" href="#article-comments" class="comments clearfix no-underline no-outline" data-ui="commentsOpen" data-js="wordBubble">
+				<i aria-hidden="true" role="presentation" class="ui ui-social ui-comments relative active float-l marg-r-sm bg-comments"></i>
+				<span class="meta float-l">
+					<span class="clearfix hide-med">Comment</span>
+					<span class="disqus-comment-count clearfix black marg-t-nano text-l" data-js="commentCount" data-disqus-identifier="1461431 http://innovationinsights.wired.com/insights/?p=63571"></span>
+				</span>
+			</a>
+		</li>
+		
+		<li class="big-marg-t-med big-marg-l-med big-marg-r-med med-marg-t-med med-marg-b-med no-border">
+			<a id="mail-share" class="mail clearfix no-underline no-outline" href="mailto:?subject=WIRED:%20Machine%20Learning%20and%20Cognitive%20Systems:%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20(Part%20I)&#038;body=Check%20out%20this%20great%20article%20I%20read%20on%20WIRED:%0D%0A%0D%0AMachine%20Learning%20and%20Cognitive%20Systems:%20The%20Next%20Evolution%20of%20Enterprise%20Intelligence%20(Part%20I)%0D%0A%0D%0Ahttps://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/?mbid=email_onsiteshare" target="_blank">
+				<i aria-hidden="true" role="presentation" class="block ui ui-social ui-mail relative active float-l marg-r-sm bg-mail"></i>
+				<span class="meta float-l hide-med">Email</span>
+			</a>
+		</li>
+
+	</ul>
+</div>
+	</div>
+
+	
+<aside id="sidebar" data-js="sidebar">
+
+	<div id="sidebar-wrap" class="clearfix" data-headroom data-sticky data-js="stickySidebar">
+		<a class="visually-hidden skip-to-text-link focusable bg-white" href="#comments-open-button">Skip Latest News. Skip to: Comments.</a>
+
+					<div tabindex="-1" aria-hidden="true" role="presentation" class="rad box sidebar-rad marg-b-med" data-js="sidebarRad" data-rad>
+				
+
+<button aria-hidden='true' role='presentation' class="cursor-pointer flex-row align-m justify-c" data-ui="fallbackClick">
+	<div aria-hidden="true" role="presentation" class='fallback fallback-short hide border box-shadow' data-js='fallback' alt='fallback'></div>
+</button>
+
+			</div>
+		
+		
+<div class="card smart short-order-2 overflow-hide squish-normal seamless squish no-marg show-all" data-js="mostPopular" id=
+"most-pop">
+	<h4 id="most-pop-hdr" class="ambroise-hdr clearfix pad">Most Popular</h4>
+
+	<ul id="most-pop-list" aria-labelledby="most-pop-hdr" class="story-list border-t" data-js='most-popular'>
+															<li class="story-1  ">
+					<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/04\/geeks-guide-love-death-robots\/"
+    },
+    "headline": "Love, Death &#038; Robots Could Have Been So Much Better",
+    "datePublished": "2019-04-13T08:50:28+00:00",
+    "dateModified": "2019-04-13T10:12:52+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy",
+        "netflix",
+        "sci-fi"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/04\/geeks-guide-love-death-robots\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "Netflix's series of sci-fi shorts is good, but failed to reach its full potential.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/04\/Culture_GeeksGuide_ZimaBlue.jpg",
+        "height": 1500,
+        "width": 1125
+    }
+}</script>					<a href="https://www.wired.com/2019/04/geeks-guide-love-death-robots/" class="clearfix pad" content="https://www.wired.com/2019/04/geeks-guide-love-death-robots/">
+						<span class="visually-hidden">
+							<em>Love,</em> <em>Death</em> <em>&#038;</em> <em>Robots</em> Could Have Been So Much Better						</span>
+
+						
+														<picture class="thumb col mob-col-6 med-col-6 big-col-6"><!--1:1 small--><img srcset="https://assets.wired.com/photos/w_75,h_75/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-200x200-e1555004462645.jpg 75w, https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-200x200-e1555004462645.jpg 150w" sizes="75px" src="https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-200x200-e1555004462645.jpg" alt="" /><!--Generated in 0.415 ms--></picture>						
+						<div aria-hidden="true" role="presentation" class="col mob-col-12 med-col-12 big-col-12">
+							<span class="byline marg-b-micro">Podcasts</span>
+
+							<h5 class="title line-clamp exchange-sm"><em>Love,</em> <em>Death</em> <em>&#038;</em> <em>Robots</em> Could Have Been So Much Better</h5>
+
+							<span class="byline marg-t-micro">Geek&#039;s Guide to the Galaxy</span>
+						</div>
+					</a>
+				</li>
+
+
+								<hr class="story-1 ">
+
+															<li class="story-2  ">
+					<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/04\/geeks-guide-jasper-fforde\/"
+    },
+    "headline": "What If Humans Hibernated Through the Winter?",
+    "datePublished": "2019-04-06T08:50:38+00:00",
+    "dateModified": "2019-04-04T14:41:15+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/04\/geeks-guide-jasper-fforde\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "It doesn't sound like the <em>worst<\/em> idea...",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/04\/Culture_GeeksGuide_Bear-1039976568.jpg",
+        "height": 2400,
+        "width": 1800
+    }
+}</script>					<a href="https://www.wired.com/2019/04/geeks-guide-jasper-fforde/" class="clearfix pad" content="https://www.wired.com/2019/04/geeks-guide-jasper-fforde/">
+						<span class="visually-hidden">
+							What If Humans Hibernated Through the Winter?						</span>
+
+						
+														<picture class="thumb col mob-col-6 med-col-6 big-col-6"><!--1:1 small--><img srcset="https://assets.wired.com/photos/w_75,h_75/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-200x200-e1554400547853.jpg 75w, https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-200x200-e1554400547853.jpg 150w" sizes="75px" src="https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-200x200-e1554400547853.jpg" alt="" /><!--Generated in 0.364 ms--></picture>						
+						<div aria-hidden="true" role="presentation" class="col mob-col-12 med-col-12 big-col-12">
+							<span class="byline marg-b-micro">Podcasts</span>
+
+							<h5 class="title line-clamp exchange-sm">What If Humans Hibernated Through the Winter?</h5>
+
+							<span class="byline marg-t-micro">Geek&#039;s Guide to the Galaxy</span>
+						</div>
+					</a>
+				</li>
+
+
+									<div aria-hidden="true" role="presentation" class="js-polar-primary-post-listing-wp"></div>
+								<hr class="story-2 ">
+
+															<li class="story-3  ">
+					<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-sci-fi-future\/"
+    },
+    "headline": "Sci-Fi Writers Are Imagining a Path Back to Normality",
+    "datePublished": "2019-03-30T08:50:05+00:00",
+    "dateModified": "2019-04-01T18:43:57+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy",
+        "sci-fi"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-sci-fi-future\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "The science fiction world has gotten more political recently, shouting back at the Trump administration's policies.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/03\/Culture_GeeksGuide_Trump-1133148622.jpg",
+        "height": 2400,
+        "width": 1800
+    }
+}</script>					<a href="https://www.wired.com/2019/03/geeks-guide-sci-fi-future/" class="clearfix pad" content="https://www.wired.com/2019/03/geeks-guide-sci-fi-future/">
+						<span class="visually-hidden">
+							Sci-Fi Writers Are Imagining a Path Back to Normality						</span>
+
+						
+														<picture class="thumb col mob-col-6 med-col-6 big-col-6"><!--1:1 small--><img srcset="https://assets.wired.com/photos/w_75,h_75/wp-content/uploads/2019/03/Culture_GeeksGuide_Trump-1133148622-200x200-e1553809675498.jpg 75w, https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/Culture_GeeksGuide_Trump-1133148622-200x200-e1553809675498.jpg 150w" sizes="75px" src="https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/Culture_GeeksGuide_Trump-1133148622-200x200-e1553809675498.jpg" alt="" /><!--Generated in 0.421 ms--></picture>						
+						<div aria-hidden="true" role="presentation" class="col mob-col-12 med-col-12 big-col-12">
+							<span class="byline marg-b-micro">Podcasts</span>
+
+							<h5 class="title line-clamp exchange-sm">Sci-Fi Writers Are Imagining a Path Back to Normality</h5>
+
+							<span class="byline marg-t-micro">Geek&#039;s Guide to the Galaxy</span>
+						</div>
+					</a>
+				</li>
+
+
+								<hr class="story-3 ">
+
+															<li class="story-4 squish-hide hide-mob  ">
+					<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/lexus-design-awards\/"
+    },
+    "headline": "LEXUS DESIGN AWARDS",
+    "datePublished": "2019-03-29T01:00:43+00:00",
+    "dateModified": "2019-03-29T10:47:09+00:00",
+    "keywords": [],
+    "url": "https:\/\/www.wired.com\/2019\/03\/lexus-design-awards\/",
+    "articleSection": "uncategorized",
+    "author": {
+        "@type": "Person",
+        "name": "matt stevenson"
+    },
+    "description": "John Maeda - Designing for a Better Tomorrow",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/03\/FSS_05.png",
+        "height": 4000,
+        "width": 3000
+    }
+}</script>					<a href="https://www.wired.com/2019/03/lexus-design-awards/" class="clearfix pad" content="https://www.wired.com/2019/03/lexus-design-awards/">
+						<span class="visually-hidden">
+							LEXUS DESIGN AWARDS						</span>
+
+						
+														<picture class="thumb col mob-col-6 med-col-6 big-col-6"><!--1:1 small--><img srcset="https://assets.wired.com/photos/w_75,h_75/wp-content/uploads/2019/03/FSS_05-200x200.png 75w, https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/FSS_05-200x200.png 150w" sizes="75px" src="https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/FSS_05-200x200.png" alt="" /><!--Generated in 0.390 ms--></picture>						
+						<div aria-hidden="true" role="presentation" class="col mob-col-12 med-col-12 big-col-12">
+							<span class="byline marg-b-micro">Uncategorized</span>
+
+							<h5 class="title line-clamp exchange-sm">LEXUS DESIGN AWARDS</h5>
+
+							<span class="byline marg-t-micro">matt stevenson</span>
+						</div>
+					</a>
+				</li>
+
+
+								<hr class="hide-mob squish-hide story-4 ">
+
+															<li class="story-5 squish-hide hide-mob  ">
+					<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/apple-media-event-liveblog\/"
+    },
+    "headline": "Apple Event Liveblog: All the News, as It Happens",
+    "datePublished": "2019-03-25T06:00:04+00:00",
+    "dateModified": "2019-03-25T12:05:50+00:00",
+    "keywords": [
+        "apple",
+        "apple-event"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/03\/apple-media-event-liveblog\/",
+    "articleSection": "gear",
+    "author": {
+        "@type": "Person",
+        "name": "Wired Staff"
+    },
+    "description": "On Monday morning, Apple hosts an event to outline plans for its news distribution and media streaming services. Our live coverage starts at 9 am Pacific.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/03\/timcook-967356920.jpg",
+        "height": 2400,
+        "width": 1800
+    }
+}</script>					<a href="https://www.wired.com/2019/03/apple-media-event-liveblog/" class="clearfix pad" content="https://www.wired.com/2019/03/apple-media-event-liveblog/">
+						<span class="visually-hidden">
+							Apple Event Liveblog: All the News, as It Happens						</span>
+
+						
+														<picture class="thumb col mob-col-6 med-col-6 big-col-6"><!--1:1 small--><img srcset="https://assets.wired.com/photos/w_75,h_75/wp-content/uploads/2019/03/timcook-967356920-200x200.jpg 75w, https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/timcook-967356920-200x200.jpg 150w" sizes="75px" src="https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/timcook-967356920-200x200.jpg" alt="Tim Cook on stage" /><!--Generated in 0.399 ms--></picture>						
+						<div aria-hidden="true" role="presentation" class="col mob-col-12 med-col-12 big-col-12">
+							<span class="byline marg-b-micro">Liveblog</span>
+
+							<h5 class="title line-clamp exchange-sm">Apple Event Liveblog: All the News, as It Happens</h5>
+
+							<span class="byline marg-t-micro">Wired Staff</span>
+						</div>
+					</a>
+				</li>
+
+
+								<hr class="hide-mob squish-hide story-5 ">
+
+															<li class="story-6 squish-hide hide-mob  squish-hide-normal">
+					<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-braving-britannia\/"
+    },
+    "headline": "We Need More Videogame Folklorists",
+    "datePublished": "2019-03-23T08:50:55+00:00",
+    "dateModified": "2019-03-25T20:37:55+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-braving-britannia\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "Author Wes Locher believes chronicling the offline lives of players is important. He's right.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+        "width": "1024 px",
+        "height": "1024 px"
+    }
+}</script>					<a href="https://www.wired.com/2019/03/geeks-guide-braving-britannia/" class="clearfix pad" content="https://www.wired.com/2019/03/geeks-guide-braving-britannia/">
+						<span class="visually-hidden">
+							We Need More Videogame Folklorists						</span>
+
+													<img aria-hidden='true' role="presentation" class="thumb col mob-col-6 med-col-6 big-col-6" data-pin-description="We Need More Videogame Folklorists" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/article-thumb-icon.png" />
+						
+						<div aria-hidden="true" role="presentation" class="col mob-col-12 med-col-12 big-col-12">
+							<span class="byline marg-b-micro">Podcasts</span>
+
+							<h5 class="title line-clamp exchange-sm">We Need More Videogame Folklorists</h5>
+
+							<span class="byline marg-t-micro">Geek&#039;s Guide to the Galaxy</span>
+						</div>
+					</a>
+				</li>
+
+
+								<hr class="hide-mob squish-hide story-6 squish-hide-normal">
+
+															<li class="story-7 squish-hide hide-mob  squish-hide-normal">
+					<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-ben-bova\/"
+    },
+    "headline": "Here&#8217;s An Idea: Replace Trials with Virtual Reality Duels",
+    "datePublished": "2019-03-16T08:50:28+00:00",
+    "dateModified": "2019-03-13T15:39:38+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-ben-bova\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "Sci-fi author Ben Bova thinks it's a viable alternative to prolonged, expensive lawsuits.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/03\/Culture-GeeksGuide-RPO.jpg",
+        "height": 1072,
+        "width": 804
+    }
+}</script>					<a href="https://www.wired.com/2019/03/geeks-guide-ben-bova/" class="clearfix pad" content="https://www.wired.com/2019/03/geeks-guide-ben-bova/">
+						<span class="visually-hidden">
+							Here&#8217;s An Idea: Replace Trials with Virtual Reality Duels						</span>
+
+						
+														<picture class="thumb col mob-col-6 med-col-6 big-col-6"><!--1:1 small--><img srcset="https://assets.wired.com/photos/w_75,h_75/wp-content/uploads/2019/03/Culture-GeeksGuide-RPO-200x200-e1552492910400.jpg 75w, https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/Culture-GeeksGuide-RPO-200x200-e1552492910400.jpg 150w" sizes="75px" src="https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/Culture-GeeksGuide-RPO-200x200-e1552492910400.jpg" alt="" /><!--Generated in 0.376 ms--></picture>						
+						<div aria-hidden="true" role="presentation" class="col mob-col-12 med-col-12 big-col-12">
+							<span class="byline marg-b-micro">Podcasts</span>
+
+							<h5 class="title line-clamp exchange-sm">Here&#8217;s An Idea: Replace Trials with Virtual Reality Duels</h5>
+
+							<span class="byline marg-t-micro">Geek&#039;s Guide to the Galaxy</span>
+						</div>
+					</a>
+				</li>
+
+
+								<hr class="hide-mob squish-hide story-7 squish-hide-normal">
+
+															<li class="story-8 squish-hide hide-mob  squish-hide-normal">
+					<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-david-baldacci\/"
+    },
+    "headline": "A Fantasy Novel About Building a Big, Dumb Wall",
+    "datePublished": "2019-03-09T08:50:41+00:00",
+    "dateModified": "2019-03-07T19:47:50+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-david-baldacci\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "Bestselling author David Baldacci's latest is about a town that builds a barrier to exclude \"Outliers.\"",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/03\/Culture_GeeksGuide_BorderWall-1096832060.jpg",
+        "height": 2400,
+        "width": 1800
+    }
+}</script>					<a href="https://www.wired.com/2019/03/geeks-guide-david-baldacci/" class="clearfix pad" content="https://www.wired.com/2019/03/geeks-guide-david-baldacci/">
+						<span class="visually-hidden">
+							A Fantasy Novel About Building a Big, Dumb Wall						</span>
+
+						
+														<picture class="thumb col mob-col-6 med-col-6 big-col-6"><!--1:1 small--><img srcset="https://assets.wired.com/photos/w_75,h_75/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-200x200.jpg 75w, https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-200x200.jpg 150w" sizes="75px" src="https://assets.wired.com/photos/w_150,h_150/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-200x200.jpg" alt="" /><!--Generated in 0.399 ms--></picture>						
+						<div aria-hidden="true" role="presentation" class="col mob-col-12 med-col-12 big-col-12">
+							<span class="byline marg-b-micro">Podcasts</span>
+
+							<h5 class="title line-clamp exchange-sm">A Fantasy Novel About Building a Big, Dumb Wall</h5>
+
+							<span class="byline marg-t-micro">Geek&#039;s Guide to the Galaxy</span>
+						</div>
+					</a>
+				</li>
+
+
+								<hr class="hide-mob squish-hide story-8 squish-hide-normal">
+
+										</ul>
+	<a class="clearfix pad flex-box align-m load-more opacity-5 pad-t-med pad-l-med pad-r-med " href="/most-popular">
+		<i aria-hidden="true" role="presentation" class="ui ui-more float-l marg-r-sm"></i>
+		<span class="col meta black">More Stories</span>
+	</a>
+</div>
+	</div>
+
+</aside>
+</div>
+
+
+</main>
+
+	
+<div class="article-comments row border-t">
+
+	<div class="site-container pad"  data-js="comments">
+		<a class="visually-hidden skip-to-text-link focusable bg-white" href="#prefooter">Skip Comments. Skip to: Footer.</a>
+
+		<a data-js="comTog" data-ui="commentsOpen" id="comments-open-button" class="clearfix flex-box align-m load-more opacity-5 cursor-pointer no-outline">
+			<i aria-hidden="true" role="presentation" data-js='commentX' class='ui ui-comment-open float-l marg-r-sm'></i>
+			<span data-js='commentText' class='meta black'>View comments</span>
+		</a>
+	</div>
+
+	<div class="flex-row">
+		<div id='article-comments' class="visibility-hidden site-container overflow-hide" data-js='commentContainer'>
+			<div tabindex="0" role='complementary' aria-label="Beginning of Comment Thread. Warning: Comments not screen reader friendly." class="col mob-col-18 med-col-18 big-col-18 marg-t-50 border-t-big" data-js='disqusContainer'>
+				
+<div id="disqus_thread">
+    </div>
+
+<script defer type="text/javascript">
+var disqus_url = 'https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/';
+var disqus_identifier = '1461431 http://innovationinsights.wired.com/insights/?p=63571';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'wired';
+var disqus_title = "Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I)";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+
+    
+    this.language = '';
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.defer = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+			</div>
+		</div>
+	</div>
+
+
+<aside id="prefooter" class='prefooter-single pad-b clearfix pad-t-med med-pad-t-big mob-pad-t-med bg-gray-1' role="complementary" data-js='prefooter'>
+	<section class='site-container clearfix flex-box'>
+
+					
+<div tabindex="-1" aria-hidden="true" role="presentation" class="border-t-big bg-white card marg-b-med mob-order-1" id='around-the-web' data-outbrain-url="https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/">
+
+	<div class="col big-col-18 pad">
+		<h4 id="around-the-web-hdr" class="tungsten inline-block gray-5" data-js="aroundTheWebHdr">Sponsored Stories</h4>
+
+		<button tabindex="-1" aria-hidden="true" role="presentation" class='no-outline load-more meta hide-mob gray-5 inline big-marg-l-med med-marg-l-med' data-js='poweredByOutbrain' data-ui='poweredByOutbrain'>Powered By Outbrain</button>
+	</div>
+
+	<div class="border-t hide-med hide-big">
+		<button tabindex="-1" aria-hidden="true" role="presentation" class='no-outline marg-t-med marg-b-med marg-l-med cursor-pointer load-more meta black opacity-6' data-js='poweredByOutbrain' data-ui='poweredByOutbrain'>Powered By Outbrain</button>
+	</div>
+
+	<ul tabindex="-1" aria-hidden="true" role="presentation" data-js='around-the-web' class="flex-row border-t pad no-marg mob-pad-t-med mob-pad-b-med">
+		<!-- javascriptz goes here -->
+	</ul>
+
+</div>
+		
+		<div class='flex-row mob-order-2'>
+			<div class="article-group float-l-big float-l-med col med-col-10 big-col-12 mob-order-1">
+
+				<h1 class="ambroise-hdr hide-sm hide-med hide-big pad border-b col" id='mob-hdr'>More Uncategorized</h1>
+
+				<div class="flex-row items items-1" data-items='1'>
+					<!-- Top Story Card -->
+					<div role="article" class="card col big-col-18 med-col-18 mob-pad">
+
+						
+						<a href="https://www.wired.com/2019/04/geeks-guide-love-death-robots/" class='clearfix med-pad big-pad'>
+							
+							<picture class="col big-col-12 med-col-12 mob-marg-b-med desc-4-3 tablet-1-1 mob-16-9">
+								<!--4:3 medium--><source data-srcset="https://assets.wired.com/photos/w_383,h_287/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x450-e1555004532986.jpg 383w, https://assets.wired.com/photos/w_536,h_402/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x450-e1555004532986.jpg 536w, https://assets.wired.com/photos/w_766,h_574/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x450-e1555004532986.jpg 766w, https://assets.wired.com/photos/w_909/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x450-e1555004532986.jpg 909w" sizes="(max-width: 1032px) calc((100vw - 416px) * 0.6666666666 - 28.3333333px), 383px" media="(min-width: 961px)" class="wired-lazy-load" /><!--1:1 medium--><source data-srcset="https://assets.wired.com/photos/w_250,h_250/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-500x500-e1555004499485.jpg 250w, https://assets.wired.com/photos/w_301,h_301/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-500x500-e1555004499485.jpg 301w, https://assets.wired.com/photos/w_500,h_500/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-500x500-e1555004499485.jpg 500w, https://assets.wired.com/photos/w_556/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-500x500-e1555004499485.jpg 556w" sizes="(min-width: 768px) calc((100vw - 416px) * 0.5 - 24px), 247px" media="(min-width: 768px) and (max-width: 960px)" class="wired-lazy-load" /><!--16:9 medium--><img data-srcset="https://assets.wired.com/photos/w_207,h_116/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 207w, https://assets.wired.com/photos/w_248,h_140/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 248w, https://assets.wired.com/photos/w_302,h_170/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 302w, https://assets.wired.com/photos/w_414,h_232/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 414w, https://assets.wired.com/photos/w_496,h_280/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 496w, https://assets.wired.com/photos/w_604,h_340/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 604w, https://assets.wired.com/photos/w_695,h_391/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 695w, https://assets.wired.com/photos/w_998,h_562/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 998w, https://assets.wired.com/photos/w_1033/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg 1033w" sizes="(max-width: 767px) calc(100vw - 72px), 695px" media="(max-width: 960px)" class="wired-lazy-load" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/spacer-1x1.png" data-src="https://assets.wired.com/photos/w_1033/wp-content/uploads/2019/04/Culture_GeeksGuide_ZimaBlue-600x338-e1555004512573.jpg" alt="" /><!--Generated in 1.216 ms-->							</picture>
+
+							<div class='col med-col-6 big-col-6'>
+								<span aria-hidden="true" role="presentation" class="byline marg-b-micro">Podcasts</span>
+
+								<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/04\/geeks-guide-love-death-robots\/"
+    },
+    "headline": "Love, Death &#038; Robots Could Have Been So Much Better",
+    "datePublished": "2019-04-13T08:50:28+00:00",
+    "dateModified": "2019-04-13T10:12:52+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy",
+        "netflix",
+        "sci-fi"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/04\/geeks-guide-love-death-robots\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "Netflix's series of sci-fi shorts is good, but failed to reach its full potential.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/04\/Culture_GeeksGuide_ZimaBlue.jpg",
+        "height": 1500,
+        "width": 1125
+    }
+}</script>								<h2 class="title title-big exchange">
+									<em>Love, Death &#038; Robots</em> Could Have Been So Much Better								</h2>
+
+								<span aria-hidden="true" role="presentation" class='byline marg-t-micro'>Geek&#039;s Guide to the Galaxy</span>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="flex-row items items-2" data-items='2'>
+					<!-- Narrow Card -->
+					<div role="article" class="card med-col-9 big-col-6 col mob-pad">
+
+						
+						<a href="https://www.wired.com/2019/04/geeks-guide-jasper-fforde/" class='clearfix med-pad big-pad'>
+							
+							<picture class="med-marg-b-med marg-b-med med-col-18 mob-16-9 desc-1-1">
+								<!--1:1 medium--><source data-srcset="https://assets.wired.com/photos/w_136,h_136/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-500x500-e1554400559119.jpg 136w, https://assets.wired.com/photos/w_163,h_163/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-500x500-e1554400559119.jpg 163w, https://assets.wired.com/photos/w_272,h_272/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-500x500-e1554400559119.jpg 272w, https://assets.wired.com/photos/w_326,h_326/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-500x500-e1554400559119.jpg 326w" sizes="(max-width: 1032px) calc((100vw - 400px) * 0.5 - 48px), 163px" media="(min-width: 768px)" class="wired-lazy-load" /><!--16:9 medium--><img data-srcset="https://assets.wired.com/photos/w_248,h_140/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg 248w, https://assets.wired.com/photos/w_302,h_170/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg 302w, https://assets.wired.com/photos/w_499,h_281/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg 499w, https://assets.wired.com/photos/w_695,h_391/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg 695w, https://assets.wired.com/photos/w_496,h_280/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg 496w, https://assets.wired.com/photos/w_604,h_340/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg 604w, https://assets.wired.com/photos/w_998,h_562/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg 998w, https://assets.wired.com/photos/w_1390,h_782/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg 1390w" sizes="(max-width: 767px) calc(100vw - 72px), 695px" media="(max-width: 767px)" class="wired-lazy-load" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/spacer-1x1.png" data-src="https://assets.wired.com/photos/w_1390,h_782/wp-content/uploads/2019/04/Culture_GeeksGuide_Bear-1039976568-600x338-e1554400567128.jpg" alt="" /><!--Generated in 0.865 ms-->							</picture>
+
+							<div class='row'>
+								<span aria-hidden="true" role="presentation" class="byline marg-b-micro">Podcasts</span>
+
+								<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/04\/geeks-guide-jasper-fforde\/"
+    },
+    "headline": "What If Humans Hibernated Through the Winter?",
+    "datePublished": "2019-04-06T08:50:38+00:00",
+    "dateModified": "2019-04-04T14:41:15+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/04\/geeks-guide-jasper-fforde\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "It doesn't sound like the <em>worst<\/em> idea...",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/04\/Culture_GeeksGuide_Bear-1039976568.jpg",
+        "height": 2400,
+        "width": 1800
+    }
+}</script>								<h2 class="title brandon clamp-5">
+									What If Humans Hibernated Through the Winter?								</h2>
+
+								<span aria-hidden="true" role="presentation" class="byline marg-t-sm">Geek&#039;s Guide to the Galaxy</span>
+							</div>
+						</a>
+					</div>
+
+					<!-- Standard Card -->
+					<div id="video-prefooter-card" role="article" class="card med-col-9 big-col-12 col mob-pad">
+						<!-- video configuration -->
+						<a id="article-video-card" href="https://www.wired.com/2017/06/women-engineers-rampant-sexism-silicon-valley/" class='clearfix med-pad big-pad'>
+							<div class="relative">
+								<i aria-hidden="true" role="presentation" class='ui ui-med ui-play absolute opacity-8'></i>
+								
+								<picture class="med-marg-b-med marg-b-med med-col-18 tablet-1-1 mob-16-9 desc-16-9">
+									<!--1:1 medium--><source data-srcset="https://assets.wired.com/photos/w_136,h_136/wp-content/uploads/2017/06/EngineeringHP-500x500-e1496860875138.jpg 136w, https://assets.wired.com/photos/w_232,h_232/wp-content/uploads/2017/06/EngineeringHP-500x500-e1496860875138.jpg 232w, https://assets.wired.com/photos/w_272,h_272/wp-content/uploads/2017/06/EngineeringHP-500x500-e1496860875138.jpg 272w, https://assets.wired.com/photos/w_464,h_464/wp-content/uploads/2017/06/EngineeringHP-500x500-e1496860875138.jpg 464w" sizes="(min-width: 768px) and (max-width: 960px) calc((100vw - 400px) * 0.5 - 48px), 232px" media="(min-width: 768px) and (max-width: 960px)" class="wired-lazy-load" /><!--16:9 medium--><img data-srcset="https://assets.wired.com/photos/w_248,h_140/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 248w, https://assets.wired.com/photos/w_302,h_170/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 302w, https://assets.wired.com/photos/w_373,h_210/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 373w, https://assets.wired.com/photos/w_499,h_281/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 499w, https://assets.wired.com/photos/w_695,h_391/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 695w, https://assets.wired.com/photos/w_496,h_280/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 496w, https://assets.wired.com/photos/w_604,h_340/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 604w, https://assets.wired.com/photos/w_746,h_420/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 746w, https://assets.wired.com/photos/w_998,h_562/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 998w, https://assets.wired.com/photos/w_1390,h_782/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg 1390w" sizes="(max-width: 767px) calc(100vw - 72px), (min-width: 961px) and (max-width: 1032px) calc((100vw - 416px) * (2/3) - 38.333px), 373px" media="(max-width: 767px), (min-width: 961px)" class="wired-lazy-load" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/spacer-1x1.png" data-src="https://assets.wired.com/photos/w_1390,h_782/wp-content/uploads/2017/06/EngineeringHP-600x338-e1496860921919.jpg" /><!--Generated in 1.978 ms-->								</picture>
+							</div>
+
+							<div class='row'>
+								<span aria-hidden="true" role="presentation" class="byline marg-b-micro">Kayla LaCour</span>
+
+								<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2017\/06\/women-engineers-rampant-sexism-silicon-valley\/"
+    },
+    "headline": "Women Engineers On the Rampant Sexism of Silicon Valley",
+    "datePublished": "2017-06-07T06:30:51+00:00",
+    "dateModified": "2017-06-07T00:42:54+00:00",
+    "keywords": [],
+    "url": "https:\/\/www.wired.com\/2017\/06\/women-engineers-rampant-sexism-silicon-valley\/",
+    "articleSection": "business",
+    "author": {
+        "@type": "Person",
+        "name": "Kayla LaCour"
+    },
+    "description": "Every industry face challenges when it comes to gender disparity. What do those challenges look like when 88 percent of your field looks nothing like you?",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2017\/06\/EngineeringHP.jpg",
+        "height": 1481,
+        "width": 1080
+    }
+}</script>								<h2 class="title title-big brandon">
+									Women Engineers On the Rampant Sexism of Silicon Valley								</h2>
+
+								<span aria-hidden="true" role="presentation" class='byline marg-t-micro'><? echo esc_html( wired_get_the_byline_name( $related_video ) ); ?></span>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="flex-row items items-3" data-items='3'>
+					<div class="med-col-18 big-col-9 col med-order-2">
+						<div class='flex-row'>
+
+							<!-- Small Card -->
+							<div role="article" class="col med-col-8 big-col-18 card mob-pad">
+
+								
+								<a href="https://www.wired.com/2019/03/lexus-design-awards/" class='clearfix med-pad big-pad'>
+									
+									<picture class="col med-col-18 big-col-9 mob-marg-b-med med-marg-b-med desc-1-1 mob-16-9">
+										<!--1:1 medium--><source data-srcset="https://assets.wired.com/photos/w_125,h_125/wp-content/uploads/2019/03/FSS_05-500x500.png 125w, https://assets.wired.com/photos/w_136,h_136/wp-content/uploads/2019/03/FSS_05-500x500.png 136w, https://assets.wired.com/photos/w_232,h_232/wp-content/uploads/2019/03/FSS_05-500x500.png 232w, https://assets.wired.com/photos/w_250,h_250/wp-content/uploads/2019/03/FSS_05-500x500.png 250w, https://assets.wired.com/photos/w_272,h_272/wp-content/uploads/2019/03/FSS_05-500x500.png 272w, https://assets.wired.com/photos/w_464,h_464/wp-content/uploads/2019/03/FSS_05-500x500.png 464w" sizes="(min-width: 768px) and (max-width: 960px) calc((100vw - 400px) * 0.5 - 48px), (max-width: 1032px) calc(((100vw - 400px) * .5 - 16px) * .5 - 24px), 125px" media="(min-width: 768px)" class="wired-lazy-load" /><!--16:9 medium--><img data-srcset="https://assets.wired.com/photos/w_248,h_140/wp-content/uploads/2019/03/FSS_05-600x338.png 248w, https://assets.wired.com/photos/w_302,h_170/wp-content/uploads/2019/03/FSS_05-600x338.png 302w, https://assets.wired.com/photos/w_499,h_281/wp-content/uploads/2019/03/FSS_05-600x338.png 499w, https://assets.wired.com/photos/w_496,h_280/wp-content/uploads/2019/03/FSS_05-600x338.png 496w, https://assets.wired.com/photos/w_600/wp-content/uploads/2019/03/FSS_05-600x338.png 600w" sizes="(max-width: 767px) calc(100vw - 72px), 695px" media="(max-width: 767px)" class="wired-lazy-load" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/spacer-1x1.png" data-src="https://assets.wired.com/photos/w_600/wp-content/uploads/2019/03/FSS_05-600x338.png" alt="" /><!--Generated in 0.860 ms-->									</picture>
+
+									<div class='col big-col-9'>
+										<span aria-hidden="true" role="presentation" class="byline marg-b-micro">matt stevenson</span>
+
+										<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/lexus-design-awards\/"
+    },
+    "headline": "LEXUS DESIGN AWARDS",
+    "datePublished": "2019-03-29T01:00:43+00:00",
+    "dateModified": "2019-03-29T10:47:09+00:00",
+    "keywords": [],
+    "url": "https:\/\/www.wired.com\/2019\/03\/lexus-design-awards\/",
+    "articleSection": "uncategorized",
+    "author": {
+        "@type": "Person",
+        "name": "matt stevenson"
+    },
+    "description": "John Maeda - Designing for a Better Tomorrow",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/03\/FSS_05.png",
+        "height": 4000,
+        "width": 3000
+    }
+}</script>										<h2 class="title-sm brandon">
+											LEXUS DESIGN AWARDS										</h2>
+
+										<span aria-hidden="true" role="presentation" class='byline marg-t-micro'>matt stevenson</span>
+									</div>
+								</a>
+							</div>
+
+
+							<!-- Small Card -->
+							<div role="article" class="col med-col-8 big-col-18 card mob-pad">
+
+								
+								<a href="https://www.wired.com/2019/03/apple-media-event-liveblog/" class='clearfix med-pad big-pad'>
+									
+									<picture class="reverse col med-col-18 big-col-9 mob-marg-b-med med-marg-b-med desc-1-1 mob-16-9">
+										<!--1:1 medium--><source data-srcset="https://assets.wired.com/photos/w_125,h_125/wp-content/uploads/2019/03/timcook-967356920-500x500.jpg 125w, https://assets.wired.com/photos/w_136,h_136/wp-content/uploads/2019/03/timcook-967356920-500x500.jpg 136w, https://assets.wired.com/photos/w_232,h_232/wp-content/uploads/2019/03/timcook-967356920-500x500.jpg 232w, https://assets.wired.com/photos/w_250,h_250/wp-content/uploads/2019/03/timcook-967356920-500x500.jpg 250w, https://assets.wired.com/photos/w_272,h_272/wp-content/uploads/2019/03/timcook-967356920-500x500.jpg 272w, https://assets.wired.com/photos/w_464,h_464/wp-content/uploads/2019/03/timcook-967356920-500x500.jpg 464w" sizes="(min-width: 768px) and (max-width: 960px) calc((100vw - 400px) * 0.5 - 48px), (max-width: 1032px) calc(((100vw - 400px) * .5 - 16px) * .5 - 24px), 125px" media="(min-width: 768px)" class="wired-lazy-load" /><!--16:9 medium--><img data-srcset="https://assets.wired.com/photos/w_248,h_140/wp-content/uploads/2019/03/timcook-967356920-600x338.jpg 248w, https://assets.wired.com/photos/w_302,h_170/wp-content/uploads/2019/03/timcook-967356920-600x338.jpg 302w, https://assets.wired.com/photos/w_499,h_281/wp-content/uploads/2019/03/timcook-967356920-600x338.jpg 499w, https://assets.wired.com/photos/w_496,h_280/wp-content/uploads/2019/03/timcook-967356920-600x338.jpg 496w, https://assets.wired.com/photos/w_600/wp-content/uploads/2019/03/timcook-967356920-600x338.jpg 600w" sizes="(max-width: 767px) calc(100vw - 72px), 695px" media="(max-width: 767px)" class="wired-lazy-load" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/spacer-1x1.png" data-src="https://assets.wired.com/photos/w_600/wp-content/uploads/2019/03/timcook-967356920-600x338.jpg" alt="Tim Cook on stage" /><!--Generated in 0.896 ms-->									</picture>
+
+									<div class='col big-col-9'>
+										<span aria-hidden="true" role="presentation" class="byline marg-b-micro">Liveblog</span>
+
+										<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/apple-media-event-liveblog\/"
+    },
+    "headline": "Apple Event Liveblog: All the News, as It Happens",
+    "datePublished": "2019-03-25T06:00:04+00:00",
+    "dateModified": "2019-03-25T12:05:50+00:00",
+    "keywords": [
+        "apple",
+        "apple-event"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/03\/apple-media-event-liveblog\/",
+    "articleSection": "gear",
+    "author": {
+        "@type": "Person",
+        "name": "Wired Staff"
+    },
+    "description": "On Monday morning, Apple hosts an event to outline plans for its news distribution and media streaming services. Our live coverage starts at 9 am Pacific.",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/03\/timcook-967356920.jpg",
+        "height": 2400,
+        "width": 1800
+    }
+}</script>										<h2 class="title brandon">
+											Apple Event Liveblog: All the News, as It Happens										</h2>
+
+										<span aria-hidden="true" role="presentation" class='byline marg-t-micro'>Wired Staff</span>
+									</div>
+								</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<!-- Text Card -->
+					<div role="article" class="card text med-order-1 med-col-18 big-col-9 col mob-pad">
+
+						
+						<a href="https://www.wired.com/2019/03/geeks-guide-david-baldacci/" class='clearfix med-pad big-pad'>
+							
+							<picture class="hide-sm hide-med hide-big mob-marg-b-med mob-16-9">
+								<!--16:9 medium--><img data-srcset="https://assets.wired.com/photos/w_1/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-600x338.jpg 1w, https://assets.wired.com/photos/w_2/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-600x338.jpg 2w, https://assets.wired.com/photos/w_248,h_140/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-600x338.jpg 248w, https://assets.wired.com/photos/w_302,h_170/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-600x338.jpg 302w, https://assets.wired.com/photos/w_496,h_280/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-600x338.jpg 496w, https://assets.wired.com/photos/w_600/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-600x338.jpg 600w" sizes="(min-width: 768px) 1px, (max-width: 767px) calc(100vw - 72px), 695px" media="(max-width: 767px)" class="wired-lazy-load" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/spacer-1x1.png" data-src="https://assets.wired.com/photos/w_600/wp-content/uploads/2019/03/Culture_GeeksGuide_BorderWall-1096832060-600x338.jpg" alt="" /><!--Generated in 0.563 ms-->							</picture>
+
+							<script type="application/ld+json">{
+    "publisher": {
+        "@type": "Organization",
+        "name": "WIRED",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/article-icon.jpg",
+            "width": "1024 px",
+            "height": "1024 px"
+        }
+    },
+    "@context": "http:\/\/schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-david-baldacci\/"
+    },
+    "headline": "A Fantasy Novel About Building a Big, Dumb Wall",
+    "datePublished": "2019-03-09T08:50:41+00:00",
+    "dateModified": "2019-03-07T19:47:50+00:00",
+    "keywords": [
+        "geeks-guide-to-the-galaxy"
+    ],
+    "url": "https:\/\/www.wired.com\/2019\/03\/geeks-guide-david-baldacci\/",
+    "articleSection": "culture",
+    "author": {
+        "@type": "Person",
+        "name": "Geek&#039;s Guide to the Galaxy"
+    },
+    "description": "Bestselling author David Baldacci's latest is about a town that builds a barrier to exclude \"Outliers.\"",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.wired.com\/wp-content\/uploads\/2019\/03\/Culture_GeeksGuide_BorderWall-1096832060.jpg",
+        "height": 2400,
+        "width": 1800
+    }
+}</script>							<h2 aria-hidden="true" role="presentation" class="ambroise-hdr author opacity-6">
+								Podcasts							</h2>
+
+							<h3 class="tungsten title marg-t-micro">
+								A Fantasy Novel About Building a Big, Dumb Wall							</h3>
+
+							<span aria-hidden="true" role="presentation" class='byline marg-t-micro'>Geek&#039;s Guide to the Galaxy</span>
+						</a>
+					</div>
+				</div>
+
+			</div>
+
+			<aside class='float-r-big float-r-med col med-col-8 big-col-6 mob-order-2'>
+				<div class='flex-row'>
+					<!-- Secondary Card -->
+					<div role="article" class="col big-col-12 card smart squish-sm" id='we-recommend' data-outbrain-url="https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/">
+
+						<h4 id="we-recommend-hdr" class="ambroise-hdr clearfix pad border-b">We Recommend</h4>
+
+													<button class='no-outline marg-t-med marg-b-med marg-l-med cursor-pointer load-more meta black opacity-6' data-js='poweredByOutbrain' data-ui='poweredByOutbrain'>Powered By Outbrain</button>
+						
+						<ul role='list' aria-labelledby="we-recommend-hdr" class="story-list border-t" data-js='we-recommend'>
+							<!-- JAVASCRIPTZ GO HERE -->
+						</ul>
+
+											</div>
+
+					<div tabindex="-1" aria-hidden='true' role='presentation' class="prefooter-rad rad rad-bottom box col marg-b-med center overflow-hide" data-rad>
+						
+
+<button aria-hidden='true' role='presentation' class="cursor-pointer flex-row align-m justify-c" data-ui="fallbackClick">
+	<div aria-hidden="true" role="presentation" class='fallback fallback-short hide border box-shadow' data-js='fallback' alt='fallback'></div>
+</button>
+
+					</div>
+				</div>
+			</aside>
+		</div>
+
+		<div role="complementary" id="cm-footer" class="card border-t-big cm-footer clearfix mob-order-3">
+	<div class="flex-row">
+		<div tabindex="-1" aria-hidden="true" role="presentation" id="cm-footer-cm-unit" class="col mob-col-18 med-col-6 big-col-6 no-marg subscribe-col">
+
+			<div class='fallback fallback-cm hide' data-js='fallback' alt='Consumer Marketing Fallback'>
+				<a href="https://www.wired.com/go/failsafe" target="_blank">
+	<h4 tabindex="-1" aria-hidden="true" role="presentation" data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Get The<br/>Magazine</h4>
+</a>
+<div tabindex="-1" aria-hidden="true" role="presentation" data-js='cmSubscribe' class="cm cm-fallback pad-l-med pad-r-med marg-t-med">
+	<!--<div class=" border-b cmad cmsubscribe pad-l-med pad-r-med marg-b-med">-->
+		<div class="border-b cm cm-subscribe-footer">
+			<h5 class="exchange-sm no-marg hide-med no-clamp">
+				Subscribe now to get <br>6 months for $5 - plus a FREE Portable <br>Phone Charger.
+			</h5>
+		</div>
+	<!--</div>-->
+</div>
+<a tabindex="-1" aria-hidden="true" role="presentation" class='bottom clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.wired.com/go/failsafe' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Subscribe</span>
+</a>			</div>
+		</div>
+		<div id="cm-footer-newsletter" class="col med-col-6 big-col-6 hide-mob no-marg newsletter-col">
+			<a class="no-pad" tabindex="-1" aria-hidden="true" role="presentation" href='https://www.wired.com/services/newsletters/demographics'>
+	<h4 tabindex="-1" aria-hidden="true" role="presentation" data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Get Our<br/>Newsletter</h4>
+</a>
+
+<div tabindex="-1" aria-hidden="true" role="presentation" data-js='cmNewsletter' class="cm cm-newsletter pad-l-med pad-r-med marg-t-med marg-b-med border-l border-r">
+
+	<h5 class="exchange-sm no-marg">WIRED's biggest stories, delivered to your inbox.</h5>
+
+	<form class="absolute left right marg-l-med marg-r-med mc-embedded-subscribe-form" action="//wired.us8.list-manage.com/subscribe/post-json?u=d6a9b4ef731bfa16b27259de6&amp;id=62b9dead85&amp;c=?" method="get" name="mc-embedded-subscribe-form" target="_blank" novalidate data-ui="submitForm">
+
+		<span class="absolute brandon title pad-t-sm" data-ui="hideMe"></span>
+
+		<input tabindex="-1" aria-hidden="true" role="presentation" aria-label="Enter your Email Address to Subscribe." type="email" value="" name="EMAIL" class="mce-email pad-t-sm pad-b-sm brandon clearfix" placeholder="Enter your email" required>
+
+		<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		<div aria-hidden="true" role="presentation" style="position: absolute; left: -5000px;">
+			<input aria-label="Email Form" type="text" name="b_d6a9b4ef731bfa16b27259de6_62b9dead85" tabindex="-1" value="">
+		</div>
+
+		<input tabindex="-1" aria-hidden="true" role="presentation" aria-label="Submit your email and subscribe." type="submit" value="Submit" name="subscribe" class="clearfix hide">
+
+		<div class="email-submit relative">
+			<a aria-label="Click to Submit Newsletter Subscription. You will receive a confirmation via Email." data-js="emailSubmit" class="clearfix pad-t-med cursor-pointer flex-box align-m opacity-5 load-more no-outline" data-ui="submitForm">
+				<i aria-hidden="true" role="presentation" class="ui ui-more float-l marg-r-sm"></i><span class="meta black col">Submit</span>
+			</a>
+
+			<div tabindex="-1" aria-hidden="true" role="presentation" data-js="emailSubmitSuccess" class="success absolute top bottom left right pad-t-med flex-box align-m visibility-hidden opacity-0">
+				<i aria-hidden="true" role="presentation" class='ui ui-success float-l marg-r-sm cursor-default'></i>
+				<span class='more meta black'>Thank You</span>
+			</div>
+
+			<div tabindex="-1" aria-hidden="true" role="presentation" data-js="emailSubmitError" class="error absolute top bottom left right pad-t-med flex-box align-m visibility-hidden opacity-0">
+				<i aria-hidden="true" role="presentation" class='ui ui-error float-l marg-r-sm cursor-default'></i>
+				<span class='more meta black'>Invalid Email</span>
+			</div>
+		</div>
+	</form>
+</div>
+
+
+		</div>
+		<div id="cm-footer-social" class="hide-mob col mob-col-18 med-col-6 big-col-6 no-marg twitter-col" data-js="cm-social-wrapper">
+			<div id="cm-footer-twitter" class="cm-social" data-js="social-unit">
+				
+<a href="https://twitter.com/WIRED" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Twitter</h4>
+</a>
+
+<div aria-hidden="true" role="presentation" class="cm cm-twitter cm-social-footer pad-l-med marg-r-med">
+		<ul class='border-b'>
+						<li class="link-underline pad-b-med">
+			<img alt="Wired Twitter" class="float-l marg-r-sm marg-b-big" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/apple-touch-icon.png">
+			<time>9 hours</time>
+			<p class="marg-t-micro cm-tweet exchange-sm">Self-driving cars might not be as imminent as we thought <a class="no-pad" href="https://t.co/OSEZRBCp4t">wired.trib.al/wk1fxvp</a></p>
+		</li>
+					</ul>
+	</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://twitter.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+			</div>
+			<div id="cm-footer-facebook" class="cm-social" data-js="social-unit">
+				<a href="https://www.facebook.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Facebook</h4>
+</a>
+
+<div class="cm cm-facebook cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.facebook.com/wired' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">Don't miss our latest news, features and videos.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.facebook.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+			</div>
+			<div id="cm-footer-pinterest" class="cm-social" data-js="social-unit">
+				<a href="https://www.pinterest.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">We’re On<br/>Pinterest</h4>
+</a>
+
+<div class="cm cm-pinterest cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.pinterest.com/wired/' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">See what's inspiring us.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.pinterest.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+			</div>
+			<div id="cm-footer-youtube" class="cm-social" data-js="social-unit">
+				<a href="https://www.youtube.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Youtube</h4>
+</a>
+
+<div class="cm cm-youtube cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.youtube.com/wired/' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">Don't miss out on WIRED's latest videos.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.youtube.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div role="complementary" class="card smart hide-med hide-big cm-footer clearfix mob-order-4">
+	<div class="cm-footer-newsletter col med-col-6 big-col-6 no-marg newsletter-col">
+		<a class="no-pad" tabindex="-1" aria-hidden="true" role="presentation" href='https://www.wired.com/services/newsletters/demographics'>
+	<h4 tabindex="-1" aria-hidden="true" role="presentation" data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Get Our<br/>Newsletter</h4>
+</a>
+
+<div tabindex="-1" aria-hidden="true" role="presentation" data-js='cmNewsletter' class="cm cm-newsletter pad-l-med pad-r-med marg-t-med marg-b-med border-l border-r">
+
+	<h5 class="exchange-sm no-marg">WIRED's biggest stories, delivered to your inbox.</h5>
+
+	<form class="absolute left right marg-l-med marg-r-med mc-embedded-subscribe-form" action="//wired.us8.list-manage.com/subscribe/post-json?u=d6a9b4ef731bfa16b27259de6&amp;id=62b9dead85&amp;c=?" method="get" name="mc-embedded-subscribe-form" target="_blank" novalidate data-ui="submitForm">
+
+		<span class="absolute brandon title pad-t-sm" data-ui="hideMe"></span>
+
+		<input tabindex="-1" aria-hidden="true" role="presentation" aria-label="Enter your Email Address to Subscribe." type="email" value="" name="EMAIL" class="mce-email pad-t-sm pad-b-sm brandon clearfix" placeholder="Enter your email" required>
+
+		<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		<div aria-hidden="true" role="presentation" style="position: absolute; left: -5000px;">
+			<input aria-label="Email Form" type="text" name="b_d6a9b4ef731bfa16b27259de6_62b9dead85" tabindex="-1" value="">
+		</div>
+
+		<input tabindex="-1" aria-hidden="true" role="presentation" aria-label="Submit your email and subscribe." type="submit" value="Submit" name="subscribe" class="clearfix hide">
+
+		<div class="email-submit relative">
+			<a aria-label="Click to Submit Newsletter Subscription. You will receive a confirmation via Email." data-js="emailSubmit" class="clearfix pad-t-med cursor-pointer flex-box align-m opacity-5 load-more no-outline" data-ui="submitForm">
+				<i aria-hidden="true" role="presentation" class="ui ui-more float-l marg-r-sm"></i><span class="meta black col">Submit</span>
+			</a>
+
+			<div tabindex="-1" aria-hidden="true" role="presentation" data-js="emailSubmitSuccess" class="success absolute top bottom left right pad-t-med flex-box align-m visibility-hidden opacity-0">
+				<i aria-hidden="true" role="presentation" class='ui ui-success float-l marg-r-sm cursor-default'></i>
+				<span class='more meta black'>Thank You</span>
+			</div>
+
+			<div tabindex="-1" aria-hidden="true" role="presentation" data-js="emailSubmitError" class="error absolute top bottom left right pad-t-med flex-box align-m visibility-hidden opacity-0">
+				<i aria-hidden="true" role="presentation" class='ui ui-error float-l marg-r-sm cursor-default'></i>
+				<span class='more meta black'>Invalid Email</span>
+			</div>
+		</div>
+	</form>
+</div>
+
+
+	</div>
+</div>
+
+<div role="complementary" class="card smart hide-med hide-big cm-footer clearfix mob-order-5">
+	<div class="twitter-col" data-js="cm-social-wrapper">
+		<div class="cm-social" data-js="social-unit">
+			
+<a href="https://twitter.com/WIRED" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Twitter</h4>
+</a>
+
+<div aria-hidden="true" role="presentation" class="cm cm-twitter cm-social-footer pad-l-med marg-r-med">
+		<ul class='border-b'>
+						<li class="link-underline pad-b-med">
+			<img alt="Wired Twitter" class="float-l marg-r-sm marg-b-big" src="https://www.wired.com/wp-content/themes/Phoenix/assets/images/apple-touch-icon.png">
+			<time>9 hours</time>
+			<p class="marg-t-micro cm-tweet exchange-sm">Self-driving cars might not be as imminent as we thought <a class="no-pad" href="https://t.co/OSEZRBCp4t">wired.trib.al/wk1fxvp</a></p>
+		</li>
+					</ul>
+	</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://twitter.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+		</div>
+		<div class="cm-social" data-js="social-unit">
+			<a href="https://www.facebook.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Facebook</h4>
+</a>
+
+<div class="cm cm-facebook cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.facebook.com/wired' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">Don't miss our latest news, features and videos.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.facebook.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+		</div>
+		<div class="cm-social" data-js="social-unit">
+				<a href="https://www.pinterest.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">We’re On<br/>Pinterest</h4>
+</a>
+
+<div class="cm cm-pinterest cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.pinterest.com/wired/' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">See what's inspiring us.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.pinterest.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+		</div>
+		<div class="cm-social" data-js="social-unit">
+			<a href="https://www.youtube.com/wired" target="_blank">
+	<h4 data-js='cmH4' class="ambroise-hdr clearfix border-b marg-b-med pad title">Follow Us<br/>On Youtube</h4>
+</a>
+
+<div class="cm cm-youtube cm-social-footer pad-l-med marg-r-med">
+	<a tabindex="-1" aria-hidden="true" role="presentation" class='row border-b no-pad' href='https://www.youtube.com/wired/' target='_blank'>
+		<h5 class="exchange-sm no-marg hide-sm hide-med">Don't miss out on WIRED's latest videos.</h5>
+	</a>
+</div>
+
+<a tabindex="-1" aria-hidden="true" role="presentation" class='clearfix pad cursor-pointer flex-box align-m opacity-5 load-more' href='https://www.youtube.com/wired' target='_blank'>
+	<i aria-hidden="true" role="presentation" class='ui ui-more float-l marg-r-sm'></i>
+	<span class='meta black col'>Follow</span>
+</a>
+
+		</div>
+	</div>
+</div>
+	</section>
+</aside>
+
+
+</main><!-- #main -->
+
+
+
+
+
+	<footer id="global-footer" class='text-c box-shadow-3 med-pad-b-big big-pad-b-big bg-white' data-js='footer'>
+
+		
+		<a href='https://www.wired.com/'>
+			<i role="img" aria-label="WIRED Logo" class='ui ui-logo ui-logo-center mob-marg-t-med mob-marg-b-med med-marg-t-big big-marg-t-big med-marg-b-big big-marg-b-big'></i>
+		</a>
+
+		<ul role="list" aria-label="share-tools" id="footer-social" class='site-container mob-marg-b-med clearfix flex-box justify-c'>
+			<li role="listitem" class='float-l mob-col-6 med-marg-r-med big-marg-r-med mob-marg-b-med'>
+				<a href="https://www.facebook.com/wired">
+					<span class='visually-hidden'>Wired Facebook</span>
+					<i aria-hidden='true' role='presentation' class='ui ui-social ui-fb ui-ftr active mob-marg-b-med'>
+					</i>
+				</a>
+			</li>
+			<li role="listitem" class='float-l mob-col-6 med-marg-r-med big-marg-r-med mob-marg-b-med'>
+				<a href="https://twitter.com/wired">
+					<span class='visually-hidden'>Wired Twitter</span>
+					<i aria-hidden='true' role='presentation' class='ui ui-social ui-twit ui-ftr active mob-marg-b-med'>
+					</i>
+				</a>
+			</li>
+			<li role="listitem" class='float-l mob-col-6 mob-omega med-marg-r-med big-marg-r-med mob-marg-b-med'>
+				<a href="https://www.pinterest.com/wired/">
+					<span class='visually-hidden'>Wired Pinterest</span>
+					<i aria-hidden='true' role='presentation' class='ui ui-social ui-pint active ui-ftr mob-marg-b-med'>
+					</i>
+				</a>
+			</li>
+			<li role="listitem" class='float-l mob-col-6 med-marg-r-med big-marg-r-med'>
+				<a href="https://www.youtube.com/user/wired">
+					<span class='visually-hidden'>Wired Youtube</span>
+					<i aria-hidden='true' role='presentation' class='ui ui-social ui-youtube ui-ftr'>
+					</i>
+				</a>
+			</li>
+			<li role="listitem" class='float-l mob-col-6 med-marg-r-med big-marg-r-med'>
+				<a href="https://wired.tumblr.com/">
+					<span class='visually-hidden'>Wired Tumblr</span>
+					<i aria-hidden='true' role='presentation' class='ui ui-social ui-tumblrs ui-ftr'>
+					</i>
+				</a>
+			</li>
+			<li role="listitem" class='float-l mob-col-6 mob-omega'>
+				<a href="https://instagram.com/wired">
+					<span class='visually-hidden'>Wired Instagram</span>
+					<i aria-hidden='true' role='presentation' class='ui ui-social ui-insta ui-ftr'>
+					</i>
+				</a>
+			</li>
+		</ul>
+
+		<ul id='footer-info' class="meta mob-marg-b-med med-marg-t-big med-marg-b-big big-marg-t-big big-marg-b-big site-container clearfix flex-box justify-c">
+							<li class='mob-col-9 pad-r-sm marg-b-sm border-r inline-block'>
+					<a href='https://accounts.wired.com?redirect_to=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F07%2Fmachine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part%2F&#038;ref=footer'>Login</a>
+				</li>
+			
+			<li class='mob-col-9 mob-omega pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href='https://www.wired.com/subscribe'>Subscribe</a>
+			</li>
+
+			<li class='mob-col-9 pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/wired-advertising">Advertise</a>
+			</li>
+
+			<li class='mob-col-9 mob-omega pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/about/sitemap">Site Map</a>
+			</li>
+
+			<li class='mob-col-9 pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/about/press">Press Center</a>
+			</li>
+
+			<li class='mob-col-9 mob-omega pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/about/faq">FAQ</a>
+			</li>
+
+			<li class='mob-col-9 pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href='https://subscriptions.wired.com/pubs/N3/WIR/Register.jsp?cds_page_id=175371&cds_mag_code=WIR&id=1423757547774&lsid=50431012277019467&vid=1'>Customer Care</a>
+			</li>
+
+			<li class='mob-col-9 mob-omega pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/about/feedback">Contact Us</a>
+			</li>
+
+			<li class='mob-col-9 pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/securedrop">SecureDrop</a>
+			</li>
+
+			<li class='mob-col-9 mob-omega pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://subscribe.wired.com/subscribe/wired/109426?source=NativeFooter">T-Shirt Collection</a>
+			</li>
+
+			<li class='mob-col-9 pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/services/newsletters/demographics">Newsletter</a>
+			</li>
+
+			<li class='mob-col-9 mob-omega pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/wired-staff">Wired Staff</a>
+			</li>
+
+			<li class='mob-col-9 pad-l-sm pad-r-sm marg-b-sm border-r inline-block'>
+				<a href="https://www.wired.com/about/wired-jobs/">Jobs</a>
+			</li>
+
+			<li class='mob-col-9 mob-omega pad-l-sm pad-r-sm marg-b-sm inline-block'>
+				<a href="https://www.wired.com/about/rss_feeds">RSS</a>
+			</li>
+		</ul>
+
+		<p class='caption site-container mob-pad-b-med marg-b-sm link-underline-micro'>CNMN Collection</p>
+
+		<p class='caption site-container mob-pad-b-med marg-b-sm link-underline-micro'>&copy; 2018 Condé Nast. All rights reserved.</p>
+		<p class='caption site-container mob-pad-b-med marg-b-sm link-underline-micro'>Use of and/or registration on any portion of this site constitutes acceptance of our <a aria-label="Go to Condé Nast User Agreement" href="http://www.condenast.com/privacy-policy" target="_blank" >User Agreement</a> (updated 5/25/18) and <a aria-label="Go to Condé Nast Cookie Statement" href="http://www.condenast.com/privacy-policy#privacypolicy" target="_blank" >Privacy Policy and Cookie Statement</a> (updated 5/25/18). <a aria-label="Go to California Privacy Policy" href="http://www.condenast.com/privacy-policy#privacypolicy-california" target="_blank" >Your California Privacy Rights</a>. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. <a aria-label="Go to Condé Nast Ad Choices" href="http://www.condenast.com/privacy-policy#privacypolicy-optout" target="_blank">Ad Choices</a>.
+		</p>
+	</footer>
+
+</div><!-- #page -->
+<!-- Config detection -->
+<script>var blockAdBlock = false;</script>
+
+
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'wired';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script>window.digitalData={
+    "contributor": "Jorge Garcia, TEC",
+    "contentID": 1461431,
+    "contentLength": "",
+    "display": "Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I) | WIRED",
+    "pageType": "Article|default",
+    "searchTerms": "",
+    "canonical": "https:\/\/www.wired.com\/insights\/2014\/07\/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part\/",
+    "pageValue": "all",
+    "publishDate": "2014-07-10T12:23:26+00:00",
+    "section": "insights",
+    "subsection": "null",
+    "numOfSearchResults": "",
+    "modifiedDate": "2015-08-07T02:55:57+00:00",
+    "keywords": {
+        "display": "analytics|cognitive|systems"
+    },
+    "logged_in": "not logged in"
+};</script><script>window.gaDataLayer={
+    "event": false,
+    "content": {
+        "contributor": "Jorge Garcia, TEC",
+        "contentID": 1461431,
+        "contentLength": "",
+        "display": "Machine Learning and Cognitive Systems: The Next Evolution of Enterprise Intelligence (Part I) | WIRED",
+        "pageType": "Article|default",
+        "searchTerms": "",
+        "canonical": "https:\/\/www.wired.com\/insights\/2014\/07\/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part\/",
+        "pageValue": "all",
+        "publishDate": "2014-07-10T12:23:26+00:00",
+        "section": "insights",
+        "subsection": "null",
+        "numOfSearchResults": "",
+        "modifiedDate": "2015-08-07T02:55:57+00:00",
+        "keywords": {
+            "display": "analytics|cognitive|systems"
+        },
+        "logged_in": "not logged in"
+    },
+    "page": {
+        "pageURL": "https:\/\/www.wired.com\/insights\/2014\/07\/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part",
+        "canonical": "https:\/\/www.wired.com\/insights\/2014\/07\/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part",
+        "canonicalPathName": "\/insights\/2014\/07\/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part"
+    },
+    "user": [],
+    "site": {
+        "appVersion": "1.0.0"
+    }
+};</script>		<div id="parsely-root" style="display: none">
+			<span id="parsely-cfg" data-parsely-site="wired.com"></span>
+		</div>
+		<script>
+			(function(s, p, d) {
+				var h=d.location.protocol, i=p+"-"+s,
+					e=d.getElementById(i), r=d.getElementById(p+"-root"),
+					u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+					:"static."+p+".com";
+				if (e) return;
+				e = d.createElement(s); e.id = i; e.async = true;
+				e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+			})("script", "parsely", document);
+		</script>
+	
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WIRED = {"accountsApi":"https:\/\/api-accounts.wired.com\/api"};
+var Wired_Video = {"taxonomy":"","term_id":""};
+var wiredVideoFeed = [];var wiredAds = {"wired_env":"production","channel":"uncategorized","slug":"machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part","templateType":"article","tags":["analytics","cognitive","systems"]};/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wired.com/assets/load?scripts=true&amp;c=1&amp;load%5B%5D=skimlinks,outbrain,blockadblock,jquery,wired,plugin-global-min,ads,wp-embed&amp;ver=1538429171'></script>
+		<!-- COMSCORE -->
+		<script type="text/javascript">
+		//<!--
+			var _comscore = _comscore || [];
+			_comscore.push({c1: "2",c2: "6035094",c4: "http://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/"});
+			(function() {var s  = document.createElement("script"),el = document.getElementsByTagName("script")[0];s.async = true; s.src = (document.location.protocol == "https:" ?"https://sb" : "http://b") +".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el);})();
+		//-->
+		</script>
+		<!-- COMSCORE noscript -->
+		<noscript>
+			<img src="http://b.scorecardresearch.com/p?c1=2&#038;c2=6035094&#038;c4=http://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/" />
+		</noscript>		<script defer type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.wired.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.async=true,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<script>
+	// Picture element HTML5 shiv
+	document.createElement( "picture" );
+</script>
+
+<script defer src="https://www.wired.com/wp-content/themes/Phoenix/assets/js/vendor/picturefill.min.js"></script>
+
+
+	<!-- Omniture DTM -->
+			<script src="//assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-5e0259aff0b35c55ae1387e43a61e5902ea0cdb6.js" defer></script>
+	
+
+</body>
+</html>

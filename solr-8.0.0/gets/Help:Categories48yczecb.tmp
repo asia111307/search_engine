@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Help:Categories - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Help","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":12,"wgPageName":"Help:Categories","wgTitle":"Categories","wgCurRevisionId":887017972,"wgRevisionId":887017972,"wgArticleId":2093155,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected project pages","Wikipedia information pages","Reader help","Wikipedia categorization"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Help:Categories","wgRelevantArticleId":2093155,"wgRequestId":"XK5XjgpAMFAAADriidoAAACB","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q42102637","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.ui.button":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Help:Categories"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-12 ns-subject page-Help_Categories rootpage-Help_Categories skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected due to vandalism"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Help:Categories</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div role="note" class="hatnote navigation-not-searchable">For more extensive information for editors, see <a href="/wiki/Help:Category" title="Help:Category">Help:Category</a>.</div>
+<table class="plainlinks ombox ombox-notice" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/60px-Information_icon4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/80px-Information_icon4.svg.png 2x" data-file-width="620" data-file-height="620" /></td><td class="mbox-text"><div style="padding-top: 6px; padding-bottom: 5px;"><b>This is an <a href="/wiki/Wikipedia:Project_namespace#How-to_and_information_pages" title="Wikipedia:Project namespace">information page</a>.</b><br /><div style="font-size: 90%;"> It describes the editing community's established practice on some aspect or aspects of Wikipedia's norms and customs. It is not one of <a href="/wiki/Wikipedia:Policies_and_guidelines" title="Wikipedia:Policies and guidelines">Wikipedia's policies or guidelines</a>, as it has not been <a href="/wiki/Wikipedia:Consensus#Levels_of_consensus" title="Wikipedia:Consensus">thoroughly vetted by the community</a>.</div></div></td><td class="mbox-imageright"><style data-mw-deduplicate="TemplateStyles:r886047113">.mw-parser-output .module-shortcutboxplain{float:right;border:1px solid #aaa;background:#fff;margin:0 0 0 1em;padding:.3em .6em .2em .6em;text-align:center;font-size:85%;font-weight:bold}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:.2em;font-weight:normal}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}</style><div class="module-shortcutanchordiv"><span id="H:CATS"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><ul><li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=H:CATS&amp;redirect=no">H:CATS</a></span></li></ul></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Wikipedia:FAQ/Readers" title="Wikipedia:FAQ/Readers">Readers' FAQ</a> and help</th></tr><tr><td style="padding:0.2em 0 0.4em;padding-bottom:0.7em;border-bottom:1px solid #aaa;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Question_Circle.svg/50px-Question_Circle.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Question_Circle.svg/75px-Question_Circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Question_Circle.svg/100px-Question_Circle.svg.png 2x" data-file-width="20" data-file-height="20" /></td></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;padding-top:0.4em;padding-bottom:0.4em;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul><li><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a>
+<ul><li><a href="/wiki/Wikipedia:Administration" title="Wikipedia:Administration">Administration</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">FAQs</a></li></ul></li>
+<li><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></li>
+<li><a class="mw-selflink selflink">Categories</a></li>
+<li><a href="/wiki/Help:Censorship" title="Help:Censorship">Censorship</a></li>
+<li><a href="/wiki/Help:Copyright" title="Help:Copyright">Copyright</a></li>
+<li><a href="/wiki/Help:Disambiguation" title="Help:Disambiguation">Disambiguation</a></li>
+<li><a href="/wiki/Help:Viewing_media" title="Help:Viewing media">Images and multimedia</a></li>
+<li><a href="/wiki/Help:ISBN" title="Help:ISBN">ISBN</a></li>
+<li><a href="/wiki/Help:Microformats" title="Help:Microformats">Microformats</a></li>
+<li><a href="/wiki/Help:Mobile_access" title="Help:Mobile access">Mobile access</a></li>
+<li><a href="/wiki/Help:Navigation" title="Help:Navigation">Navigation</a></li>
+<li><a href="/wiki/Help:Other_languages" title="Help:Other languages">Other languages</a></li>
+<li><a href="/wiki/Help:Page_name" title="Help:Page name">Page names</a></li>
+<li><a href="/wiki/Help:Portals" class="mw-redirect" title="Help:Portals">Portals</a></li>
+<li><a href="/wiki/Help:Protected_pages" title="Help:Protected pages">Protected pages</a></li>
+<li><a href="/wiki/Help:Searching" title="Help:Searching">Searching</a></li>
+<li><a href="/wiki/Help:Student_help" title="Help:Student help">Student help</a></li></ul>
+</div></td>
+</tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;padding-top:0.4em;padding-bottom:0.4em;border-bottom:1px solid #aaa;">
+<ul><li><a href="/wiki/Wikipedia:Researching_with_Wikipedia" title="Wikipedia:Researching with Wikipedia">Researching with Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia:Citing_Wikipedia" title="Wikipedia:Citing Wikipedia">Citing Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia:Contributing_to_Wikipedia" title="Wikipedia:Contributing to Wikipedia">Contributing to Wikipedia</a></li></ul></td>
+</tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;padding-top:0.4em;padding-bottom:0.4em;border-bottom:1px solid #aaa;">
+<ul><li><a href="/wiki/Help:Glossary" title="Help:Glossary">Readers' glossary</a></li>
+<li><a href="/wiki/Wikipedia:Reader%27s_index_to_Wikipedia" title="Wikipedia:Reader&#39;s index to Wikipedia">Readers' index</a></li>
+<li><a href="/wiki/Help:Wikipedia:_The_Missing_Manual/Appendixes/Reader%27s_guide_to_Wikipedia" title="Help:Wikipedia: The Missing Manual/Appendixes/Reader&#39;s guide to Wikipedia"><i>Reader's guide to Wikipedia</i></a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Reader_help" title="Template:Reader help"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Reader_help" title="Template talk:Reader help"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Reader_help&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Categories</b> are used in Wikipedia to link articles under a common topic and are found at the bottom of the article page. Clicking the category name displays a list of articles in that category, as well as any sub-categories. Categories allow readers to navigate through Wikipedia and find related articles.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:902px;"><a href="/wiki/File:Chicken_Eyeglasses_categories.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_Eyeglasses_categories.png/900px-Chicken_Eyeglasses_categories.png" decoding="async" width="900" height="430" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_Eyeglasses_categories.png/1350px-Chicken_Eyeglasses_categories.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9c/Chicken_Eyeglasses_categories.png 2x" data-file-width="1669" data-file-height="798" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Chicken_Eyeglasses_categories.png" class="internal" title="Enlarge"></a></div>The bottom of a Wikipedia article on <a href="/wiki/Chicken_eyeglasses" title="Chicken eyeglasses">Chicken eyeglasses</a>. At the very bottom of the page, below the References, navigation templates and external links are a series of links. These links are the categories used on the page, which include: <a href="/wiki/Category:Animal_welfare" title="Category:Animal welfare">Category:Animal Welfare</a>, <a href="/wiki/Category:Animal_equipment" title="Category:Animal equipment">Category:Animal equipment</a>, <a href="/wiki/Category:Eyewear" title="Category:Eyewear">Category:Eyewear</a>, and <a href="/wiki/Category:Poultry_farming" title="Category:Poultry farming">Category:Poultry farming</a> . By clicking on the category link at the bottom of the page, readers can navigate the Category tree (see below).</div></div></div></div>
+<h2><span class="mw-headline" id="Category_tree">Category tree</span></h2>
+<p>All of the categories form a hierarchy, although sub-categories may be a member of more than one category. An example of a small part of this hierarchical structure looks somewhat like this:
+</p>
+<table align="center">
+<tbody><tr>
+<td>
+<pre>    <a href="/wiki/Category:Main_topic_classifications" title="Category:Main topic classifications">Category:Main topic classifications</a>
+                      ↓
+              <a href="/wiki/Category:History" title="Category:History">Category:History</a>
+                      ↓
+       <a href="/wiki/Category:History_by_location" title="Category:History by location">Category:History by location</a>
+                      ↓
+       <a href="/wiki/Category:History_by_country" title="Category:History by country">Category:History by country</a>
+                      ↓
+      <a href="/wiki/Category:History_of_Australia" title="Category:History of Australia">Category:History of Australia</a>
+                      ↓
+     <a href="/wiki/Category:History_of_Australia_by_location" title="Category:History of Australia by location">Category:History of Australia by location</a>
+                      ↓
+<a href="/wiki/Category:History_of_Australia_by_state_or_territory" title="Category:History of Australia by state or territory">Category:History of Australia by state or territory</a>
+                      ↓
+      New South Wales, Queensland, etc.
+</pre>
+</td></tr></tbody></table>
+<p>The actual relationship is more complex since a category may appear as a subcategory of several other categories. The actual relationship of part of the category structure looks like this:
+</p><p><br />
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/File:Category-diagram.png" class="image"><img alt="Category-diagram.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Category-diagram.png/400px-Category-diagram.png" decoding="async" width="400" height="203" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Category-diagram.png/600px-Category-diagram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Category-diagram.png/800px-Category-diagram.png 2x" data-file-width="1254" data-file-height="636" /></a></div></div>
+<p><br />
+The uppermost category in the hierarchy is <a href="/wiki/Category:Contents" title="Category:Contents">Category:Contents</a>. From here all other categories branch out, including those that are used for the maintenance of Wikipedia. 
+</p><p>If an entry in a category is shown in <i>italics</i> it is a redirect to an article of a different name or a section of an article that contains information about that particular subject.
+</p>
+<div style="clear:both;"></div>
+<hr />
+<div class="mw-inputbox-centered" style="background-color: #cee0f2;"><form name="searchbox" class="searchbox" action="/wiki/Special:Search"><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="30" dir="ltr" />  <div class="mw-inputbox-element mw-ui-checkbox"><input type="checkbox" name="ns12" value="1" id="mw-inputbox-ns12-0.901215977228" checked="checked" /><label for="mw-inputbox-ns12-0.901215977228">Help</label></div>  <div class="mw-inputbox-element mw-ui-checkbox"><input type="checkbox" name="ns14" value="1" id="mw-inputbox-ns14-0.901215977228" checked="checked" /><label for="mw-inputbox-ns14-0.901215977228">Category</label></div>  <input type="submit" name="fulltext" class="mw-ui-button" value="Search" /></form></div>
+<hr />
+<div role="navigation" class="navbox" aria-labelledby="Wikipedia_categorization" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wikipedia_categorization_navbox" title="Template:Wikipedia categorization navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia_categorization_navbox" title="Template talk:Wikipedia categorization navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedia_categorization_navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Wikipedia_categorization" style="font-size:114%;margin:0 4em">Wikipedia categorization</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Guidelines</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:Categories,_lists,_and_navigation_templates" title="Wikipedia:Categories, lists, and navigation templates">Categories, lists, and navigation templates</a></li>
+<li><a href="/wiki/Wikipedia:Overcategorization" title="Wikipedia:Overcategorization">Overcategorization</a></li>
+<li><a href="/wiki/Wikipedia:Categorization_of_people" title="Wikipedia:Categorization of people">Categorization of people</a></li>
+<li><a href="/wiki/Wikipedia:Categorization/Ethnicity,_gender,_religion_and_sexuality" title="Wikipedia:Categorization/Ethnicity, gender, religion and sexuality">Categorization/Ethnicity, gender, religion and sexuality</a></li>
+<li><a href="/wiki/Wikipedia:People_by_year" title="Wikipedia:People by year">People by year</a></li>
+<li><a href="/wiki/Wikipedia:Categorizing_redirects" title="Wikipedia:Categorizing redirects">Categorizing redirects</a></li>
+<li><a href="/wiki/Wikipedia:Category_names" title="Wikipedia:Category names">Category names</a></li>
+<li><a href="/wiki/Wikipedia:User_categories" title="Wikipedia:User categories">User categories</a></li>
+<li><a href="/wiki/Wikipedia:Overcategorization/User_categories" title="Wikipedia:Overcategorization/User categories">Overcategorization/User categories</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Help pages</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Categories</a></li>
+<li><a href="/wiki/Help:Category" title="Help:Category">Category</a></li>
+<li><a href="/wiki/Wikipedia:Classification" title="Wikipedia:Classification">Classification</a></li>
+<li><a href="/wiki/Wikipedia:Container_category" title="Wikipedia:Container category">Container category</a></li>
+<li><a href="/wiki/Wikipedia:PetScan" title="Wikipedia:PetScan">PetScan</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categories" title="Wikipedia:FAQ/Categories">FAQ for readers</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categorization" title="Wikipedia:FAQ/Categorization">FAQ for editors</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages/Category_namespace" title="Wikipedia:Template messages/Category namespace">Template messages/Category namespace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discussions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Categories_for_discussion" title="Wikipedia:Categories for discussion">Categories for discussion</a></li>
+<li><a href="/wiki/Wikipedia:Categories_for_discussion/Speedy" title="Wikipedia:Categories for discussion/Speedy">Categories for discussion/Speedy</a></li>
+<li><a href="/wiki/Wikipedia:Categories_for_discussion/All_current_discussions" title="Wikipedia:Categories for discussion/All current discussions">Categories for discussion/All current discussions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Projectspace essays</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Categories_are_different_from_articles" title="Wikipedia:Categories are different from articles">Categories are different from articles</a></li>
+<li><a href="/wiki/Wikipedia:Categories_versus_lists" title="Wikipedia:Categories versus lists">Categories versus lists</a></li>
+<li><a href="/wiki/Wikipedia:Categorising_fiction" title="Wikipedia:Categorising fiction">Categorising fiction</a></li>
+<li><a href="/wiki/Wikipedia:Do_not_write_articles_using_categories" title="Wikipedia:Do not write articles using categories">Do not write articles using categories</a></li>
+<li><a href="/wiki/Wikipedia:Overcategorization/Intersection_of_location_and_occupation" title="Wikipedia:Overcategorization/Intersection of location and occupation">Overcategorization/Intersection of location and occupation</a></li>
+<li><a href="/wiki/Wikipedia:Wiki_workflow" title="Wikipedia:Wiki workflow">Wiki workflow</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Plants/Description_in_year_categories" title="Wikipedia:WikiProject Plants/Description in year categories">WikiProject Plants/Description in year categories</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Userspace essays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/User:DexDor/Terminology_categories" title="User:DexDor/Terminology categories">DexDor/Terminology categories</a></li>
+<li><a href="/wiki/User:DexDor/Categorization_of_award_recipients" title="User:DexDor/Categorization of award recipients">DexDor/Categorization of award recipients</a></li>
+<li><a href="/wiki/User:Alan_Liefting/Essays/On_categorisation" title="User:Alan Liefting/Essays/On categorisation">Alan Liefting/On categorisation</a></li>
+<li><a href="/wiki/User:Coder_Dan/Categories" title="User:Coder Dan/Categories">Coder Dan/Categories</a></li>
+<li><a href="/wiki/User:Gracefool/What_is_a_category%3F" title="User:Gracefool/What is a category?">gracefool/What is a category?</a></li>
+<li><a href="/wiki/User:Kbdank71/Wikiproject_notification" title="User:Kbdank71/Wikiproject notification">Kbdank71/Wikiproject notification</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight: bold;"><div>
+<ul><li><a href="/wiki/Category:Wikipedia_categorization" title="Category:Wikipedia categorization">Category:Wikipedia categorization</a></li>
+<li><a href="/wiki/Category:Contents" title="Category:Contents">Category:Contents</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Categories" title="Wikipedia:WikiProject Categories">WikiProject Categories</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20190410204353
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.214 seconds
+Preprocessor visited node count: 260/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28045/2097152 bytes
+Template argument size: 30/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1287/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 1.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  158.334      1 -total
+ 34.51%   54.640      1 Template:Information_page
+ 32.22%   51.020      1 Template:Pp-vandalism
+ 23.86%   37.779      1 Template:Ombox
+ 17.30%   27.398      1 Template:Shortcut
+ 12.63%   19.992      1 Template:Reader_help
+ 10.60%   16.785      1 Template:Sidebar
+  8.54%   13.526      1 Template:Wikipedia_categorization_navbox
+  8.05%   12.738      1 Template:Namespace_detect
+  7.65%   12.113      1 Template:For
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2093155-0!canonical and timestamp 20190410204353 and revision id 887017972
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Help:Categories&amp;oldid=887017972">https://en.wikipedia.org/w/index.php?title=Help:Categories&amp;oldid=887017972</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_information_pages" title="Category:Wikipedia information pages">Wikipedia information pages</a></li><li><a href="/wiki/Category:Reader_help" title="Category:Reader help">Reader help</a></li><li><a href="/wiki/Category:Wikipedia_categorization" title="Category:Wikipedia categorization">Wikipedia categorization</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_project_pages" title="Category:Wikipedia semi-protected project pages">Wikipedia semi-protected project pages</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Help%3ACategories" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Help%3ACategories" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-help" class="selected"><span><a href="/wiki/Help:Categories" title="View the help page [c]" accesskey="c">Help page</a></span></li><li id="ca-talk"><span><a href="/wiki/Help_talk:Categories" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Help:Categories">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/w/index.php?title=Help:Categories&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Help:Categories&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Help:Categories" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Help:Categories" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Help:Categories&amp;oldid=887017972" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Help:Categories&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q42102637" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Help%3ACategories">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Help%3ACategories&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Help:Categories&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Help:%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="Help:ကဏ္ဍများ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%85%D8%AF%D8%AF:%D8%B2%D9%85%D8%B1%D8%A7" title="مدد:زمرا – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q42102637#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 March 2019, at 02:03<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Help:Categories&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.214","ppvisitednodes":{"value":260,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":28045,"limit":2097152},"templateargumentsize":{"value":30,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1287,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  158.334      1 -total"," 34.51%   54.640      1 Template:Information_page"," 32.22%   51.020      1 Template:Pp-vandalism"," 23.86%   37.779      1 Template:Ombox"," 17.30%   27.398      1 Template:Shortcut"," 12.63%   19.992      1 Template:Reader_help"," 10.60%   16.785      1 Template:Sidebar","  8.54%   13.526      1 Template:Wikipedia_categorization_navbox","  8.05%   12.738      1 Template:Namespace_detect","  7.65%   12.113      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":1539573,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20190410204353","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1245"});});</script>
+</body>
+</html>

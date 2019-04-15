@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Concept map - EduTech Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Concept_map","wgTitle":"Concept map","wgCurRevisionId":68264,"wgRevisionId":68264,"wgArticleId":2780,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Stubs","Cognitive tools","Visualization","Knowledge representation","Knowledge and idea management","Pages using ISBN magic links"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Concept_map","wgRelevantArticleId":2780,"wgRequestId":"440c379b875c3d1c1a7f3a58","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"srfFilteredConfig":null,"sdgDownArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/right-arrow.png","wgHeaderTabsTabIndexes":[],"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/mediawiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","openlayers","googlemaps3"],"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.vector.styles.responsive":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1wt4m49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.smw.style","ext.smw.tooltips","ext.cite.a11y","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.wikilog","ext.headertabs","ext.headertabs.large","ext.categoryTree","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.cite.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.responsive&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rdf+xml" title="Concept map" href="/mediawiki/index.php?title=Special:ExportRDF/Concept_map&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="EduTech Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//edutechwiki.unige.ch/mediawiki/api.php?action=rsd"/>
+<link rel="license" href="/en/EduTech_Wiki:Copyrights"/>
+<!--[if lt IE 9]><script src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Concept_map rootpage-Concept_map skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Concept map</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From EduTech Wiki</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="Banner_stub noprint">
+<p> <span style="font-weight:bold;">This article <i>or</i> section is a stub</span>. It does not yet contain enough information to be considered a real article. In other words, it is a short or insufficient piece of information and requires additions.</p></div>
+<div class="onlyinprint"><p><i>Draft</i></p></div>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Typology_of_concept_maps"><span class="tocnumber">2</span> <span class="toctext">Typology of concept maps</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Concept_mapping_in_education"><span class="tocnumber">3</span> <span class="toctext">Concept mapping in education</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Some_quotes"><span class="tocnumber">3.1</span> <span class="toctext">Some quotes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Learning_theoretical_foundations"><span class="tocnumber">3.2</span> <span class="toctext">Learning theoretical foundations</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Instructional_designs_with_concept_maps"><span class="tocnumber">3.3</span> <span class="toctext">Instructional designs with concept maps</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Assessing_students_schemata_about_concept_maps"><span class="tocnumber">3.4</span> <span class="toctext">Assessing students schemata about concept maps</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Software"><span class="tocnumber">4</span> <span class="toctext">Software</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Stand-alone_programs"><span class="tocnumber">4.1</span> <span class="toctext">Stand-alone programs</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Online_software_.28web_2.0_services.29"><span class="tocnumber">4.2</span> <span class="toctext">Online software (web 2.0 services)</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Commercial"><span class="tocnumber">4.3</span> <span class="toctext">Commercial</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Links"><span class="tocnumber">5</span> <span class="toctext">Links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Indexes_and_bibliographies"><span class="tocnumber">5.1</span> <span class="toctext">Indexes and bibliographies</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Introductions"><span class="tocnumber">5.2</span> <span class="toctext">Introductions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition"><span class="mw-headline-number">1</span> Definition</span></h2>
+<p>A concept map is a kind of <a href="/en/Visualization" title="Visualization">visualization</a> and a kind of <a href="/en/Diagramming_software" title="Diagramming software">diagram</a>, i.e. a graphical representation of some domain knowledge.
+More precisely, concept mapping is a technique to visualize relationships between different concepts. Concepts are drawn as nodes (e.g. boxes) and relations are drawn with so-called arcs, i.e. lines that are drawn between associated concepts. These arcs are usually labeled (named), i.e. express the kind of relationship, for instance, "results in". In addition arcs can be directional, i.e. one would use arrows instead of lines.
+</p>
+<ul><li>A concept map is a graphical representation of a person's (student's) knowledge of a domain. (Alpert &amp; Grueneberg, 2001).</li></ul>
+<ul><li>Concept maps are tools for organizing and representing knowledge. They include concepts, usually enclosed in circles or boxes of some type, and relationships between concepts or propositions, (indicated by a connecting line and linking word) between two concepts. Linking words on the line specify the relationship between the two concepts. (<a class="external text" href="http://www.msu.edu/~luckie/ctools/">Concept Maps: What the heck is this?</a>, retrieved 11:44, 9 August 2007 (MEST).)</li></ul>
+<ul><li>The arrangement of major concepts from a text or lecture into a visual arrangement. Lines are drawn between associated concepts, and relationships between the connected concepts are named. These concept maps reveal the structural pattern in the material and provide the big picture. ( <a class="external text" href="http://www.neiu.edu/~dbehrlic/hrd408/glossary.htm">Diane Ehrlich</a> retrieved 21:08, 3 July 2006 (MEST))</li></ul>
+<ul><li>Concept mapping is a technique for visualizing the relationships between different concepts. A concept map is a diagram showing the relationships in between concepts. Concepts are connected with labelled arrows, in a downward-branching hierarchical structure. The relationship between concepts is articulated in linking phrases, e.g., "gives rise to", "results in", "is required by," or "contributes to". ( <a class="external text" href="http://en.wikipedia.org/wiki/Concept_map">Wikipedia - Concept Map</a> retrieved 21:08, 3 July 2006 (MEST) )</li></ul>
+<h2><span class="mw-headline" id="Typology_of_concept_maps"><span class="mw-headline-number">2</span> Typology of concept maps</span></h2>
+<p>Concept maps can be defined in a more narrow sense as by Novak &amp; Cañas (2006) - see below - or more generally as a drawing that somehow connects concepts.
+</p>
+<dl><dt>According to structural properties</dt></dl>
+<ul><li>Spider-like maps with labeled arcs (the typical concept map)</li>
+<li>Hierarchical maps (like <a href="/en/Mind_map" title="Mind map">mind maps</a>)</li>
+<li>Various diagrams, e.g. <a href="/en/Flow_chart" title="Flow chart">flow charts</a></li>
+<li>Formal maps like <a href="/en/UML" class="mw-redirect" title="UML">UML</a> diagrams,</li>
+<li>Formal <a href="/en/Semantic_network" title="Semantic network">semantic networks</a>, <a href="/en/Topic_map" title="Topic map">Topic maps</a>, etc. I.e. drawings are associated with a formal symbolic representation.</li>
+<li>Other specialized contents like arguments, part-of maps, organigraphs (organization charts), etc.</li></ul>
+<dl><dt>According to purpose</dt></dl>
+<p>(<a class="external text" href="http://users.edte.utwente.nl/lanzing/cm_home.htm">Jan Lanzing</a>, retrieved 11:44, 9 August 2007 (MEST))
+</p>
+<ul><li>to generate ideas (brain storming, etc.);</li>
+<li>to design a complex structure (long texts, hypermedia, large web sites, etc.);</li>
+<li>to communicate complex ideas;</li>
+<li>to aid learning by explicitly integrating new and old knowledge;</li>
+<li>to assess understanding or diagnose misunderstanding.</li>
+<li>to define processes and flows</li></ul>
+<dl><dt>The typical concept map</dt></dl>
+<p>The most typical concept is a map that contains
+</p>
+<ul><li>concepts,</li>
+<li>directed and labeled arcs.</li>
+<li>In addition, concepts are presented in hierarchical manner, the most general concepts on top.</li></ul>
+<p>I.e. Novak and Cañas (2006), two of leading concept map researchers define concept maps in their famous <a class="external text" href="http://cmap.ihmc.us/Publications/ResearchPapers/TheoryCmaps/TheoryUnderlyingConceptMaps.htm">Theory Underlying Concept Maps and How to Construct Them</a> paper defined concept maps like this: <span style="background-color:#eeeeee" class="citation">&#8220;Concept maps are graphical tools for organizing and representing knowledge. They include concepts, usually enclosed in circles or boxes of some type, and relationships between concepts indicated by a connecting line linking two concepts. Words on the line, referred to as linking words or linking phrases, specify the relationship between the two concepts. We define concept as a perceived regularity in events or objects, or records of events or objects, designated by a label. The label for most concepts is a word, although sometimes we use symbols such as + or&#160;%, and sometimes more than one word is used. Propositions are statements about some object or event in the universe, either naturally occurring or constructed. Propositions contain two or more concepts connected using linking words or phrases to form a meaningful statement. Sometimes these are called semantic units, or units of meaning. &#8221;</span>
+</p><p>Here is Novak's and Cañas' concept map explaining concept maps (this image may be under copyright):
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:602px;"><a href="/en/File:CmapAboutCmaps-medium.png" class="image"><img alt="" src="/mediawiki/images/thumb/3/38/CmapAboutCmaps-medium.png/600px-CmapAboutCmaps-medium.png" width="600" height="361" class="thumbimage" srcset="/mediawiki/images/thumb/3/38/CmapAboutCmaps-medium.png/900px-CmapAboutCmaps-medium.png 1.5x, /mediawiki/images/3/38/CmapAboutCmaps-medium.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/en/File:CmapAboutCmaps-medium.png" class="internal" title="Enlarge"></a></div>A concept map showing the key features of concept maps. Concept maps tend to be read progressing from the top downward. Source: <a class="external free" href="http://cmap.ihmc.us/Publications/ResearchPapers/TheoryCmaps/TheoryUnderlyingConceptMaps.htm">http://cmap.ihmc.us/Publications/ResearchPapers/TheoryCmaps/TheoryUnderlyingConceptMaps.htm</a>. Copyright: copied without permission</div></div></div>
+<p>An other, simpler version of this map can be found in <a class="external text" href="http://en.wikipedia.org/wiki/Concept_Map">Wikipedia</a>
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:602px;"><a href="/en/File:Conceptmap.png" class="image"><img alt="" src="/mediawiki/images/thumb/d/df/Conceptmap.png/600px-Conceptmap.png" width="600" height="389" class="thumbimage" srcset="/mediawiki/images/d/df/Conceptmap.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/en/File:Conceptmap.png" class="internal" title="Enlarge"></a></div>Example concept map, created using IHMC CmapTools. Copyright: Wikipedia - <a class="external text" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a></div></div></div>
+<dl><dt>Integration of multimedia.</dt></dl>
+<p>Tools like CMapTools can integrate multimedia resources. Alpert and Grueneberg argue as follows:
+</p><p><span style="background-color:#eeeeee" class="citation">&#8220; Concept map tools should be able to represent multiple types or forms of knowledge, not merely text-based propositions. Specifically, incorporating multimedia in concept mapping software should (a) provide for greater cognitive fidelity in student-constructed concept maps, allowing students to more comprehensively represent their knowledge in ways similar to their own cognitive representations; (b) offer the illustrative advantages of dynamic visual imagery and audio to students learning new concepts and domains; (c) provide the capability of reifying concepts with concrete instances that can be seen and heard; (d) offer richer expressive power for concept map authors; (e) provide for a more engaging student experience; and (f) better capitalize on functionality available in modern personal computers.&#8221;</span> (Alpert &amp; Grueneberg, 2001)
+</p>
+<dl><dt>Design guidelines according to Novak et al.</dt></dl>
+<ul><li>Concepts are either perceived regularities in events or objects, or sometimes records of events or objects</li>
+<li>You should understand links as propositions. Using the linking words one should be able to phrase a meaningful statement. Propositions that are encoded in a map are semantic units or units of meaning.</li>
+<li>Concepts should be represented in a hierarchical fashion with the most inclusive, most general concepts at the top of the map and the more specific, less general concepts arranged hierarchically below.</li>
+<li>Concept maps should be built with a context in mind. E.g. one can construct concept maps with reference to a focus question (some particular question we seek to answer).</li>
+<li>Concept maps should include cross-links, i.e. links between concepts in different segments or domains of the concept map. These represent/foster creative leaps on the part of the knowledge producer.</li>
+<li>One should add specific examples of events or objects that help to clarify the meaning of a given concept. Normally these are not included in ovals or boxes, but added as special links, since they are specific events or objects and do not represent concepts.</li></ul>
+<p>There are two features of concept maps that are important in the facilitation of creative thinking: the hierarchical structure that is represented in a good map and the ability to search for and characterize new cross-links.
+</p>
+<h2><span class="mw-headline" id="Concept_mapping_in_education"><span class="mw-headline-number">3</span> Concept mapping in education</span></h2>
+<p>Rationales for concept mapping in education are based on several connected ideas:
+</p>
+<ol><li>General <a href="/en/Writing-to-learn" title="Writing-to-learn">writing-to-learn</a> arguments like writing favors making connections, or writing in a different genre favors meta-cognitive activities.</li>
+<li>Concept maps can prepare writing, assist in exploration and reading and be used as planning tools. More precisely: concept maps can be used as a creativity / brainstorming tool, as <a href="/en/Note_taking" title="Note taking">note taking</a> tool,  as planning tool for writing (in particular hypertexts) or project (e.g. <a href="/en/Conjecture_map" title="Conjecture map">conjecture map</a>), as tool to express and communicate complex ideas.</li>
+<li>Concept maps could an assessment tool for the teacher and/or could be used as teaching materials.</li></ol>
+<p>Plotnick (1997) lists five purposes of concept mapping:
+</p>
+<ul><li>To generate ideas (brainstorming);</li>
+<li>To design complex structures (long texts, hypermedia, large web sites);</li>
+<li>To communicate complex ideas;</li>
+<li>To aid learning by explicitly integrating new and old knowledge; and</li>
+<li>To assess understanding or diagnose misunderstanding.</li></ul>
+<h3><span class="mw-headline" id="Some_quotes"><span class="mw-headline-number">3.1</span> Some quotes</span></h3>
+<p>(to integrate in some re-writing)
+<span style="background-color:#eeeeee" class="citation">&#8220; [...] the primary rationale for concept mapping is that students must establish connections between bits of given information, again in a visible medium. Concept mapping can stimulate students to demonstrate relationships among facts and concepts, demonstrate relationships between lower-order and higher-order concepts, and demonstrate relationships between old and new information within the students' own cognitive structures. It is noteworthy that writing of any kind, not just journaling or concept mapping, makes many of the same demands and that the literature on cohesion in writing (Halliday &amp; Hasan, 1976; Lovejoy &amp; Lance, 1991) complements the literature on concept mapping. Concept maps, then, not only serve the same ends as writing (making connections) but also serve as a valuable means to writing (as a prewriting or planning tool) and as a valuable means for the teacher to assess learning-in-progress.&#8221;</span> (Germann &amp; Young-soo, 2001:321).
+</p><p>However, findings reported from these authors who studied whether electronic journaling plus electronic concept mapping lead to heigtheing reflection in science classes for future science teachers, are not overwhelming: <span style="background-color:#eeeeee" class="citation">&#8220; It was hoped that use of electronic journaling and concept mapping would promote sustained reflection (as demonstrated in the quality of revised concept maps and quality of revised drafts of the culminating paper). On the surface we were disappointed. [...] This lack of demonstrated changed in their concept maps leads us to believe that most students were doing all they could to absorb new ideas and begin to make sense of them. If, however, reflection stems from certain habits of questioning and from heightened skepticism and discrimination of sources of evidence, then most students displayed many behavioral change&#8221;</span>.  (Germann &amp; Young-soo, 2001: 327).
+</p>
+<h3><span class="mw-headline" id="Learning_theoretical_foundations"><span class="mw-headline-number">3.2</span> Learning theoretical foundations</span></h3>
+<p>Novak and Cañas (2006) argue that <span style="background-color:#eeeeee" class="citation">&#8220;learning is mediated heavily by language, and takes place primarily by a reception learning process where new meanings are obtained by asking questions and getting clarification of relationships between old concepts and propositions and new concepts and propositions&#8221;</span> and refer to Ausubel's assimilation theory:
+</p><p><span style="background-color:#eeeeee" class="citation">&#8220;According to Ausubel, learning is based upon the kinds of superordinate, representational, and combinatorial processes that occur during the reception of information. A primary process in learning is subsumption in which new material is related to relevant ideas in the existing cognitive structure on a substantive, non-verbatim basis&#8221;</span> <a class="external text" href="http://tip.psychology.org/ausubel.html">Subsumption Theory (D. Ausubel)</a>, retrieved 14:03, 18 August 2007 (MEST). According to this theory, cognitive maps can make excellent <a href="/en/Advance_Organizer" title="Advance Organizer">advance Organizers</a>.
+</p><p>Ausubel makes a clear distinction between simple rote learning and meaningful learning. We summarize Novak and Cañas (2006) interpretation of Ausubel's theory:
+</p>
+<ol><li>Learning materials must be clear and presented with language and examples that related to learner's prior knowledge.</li>
+<li>The learner must possess relevant prior knowledge (this is related to condition 1)</li>
+<li>The learner must choose to learn meaningfully, i.e. attempt to incorporate new meanings into their prior knowledge, and as consequence, instructional strategies that emphasize relating new knowledge to prior knowledge foster meaningful learning.</li></ol>
+<p>Concept maps can help with 1 for the presentation of information and 3 for both presentation and learning activities where the leaner draws concepts maps. These learner made maps then also can be used as evaluation tools and help to organize remediation activities.
+</p><p>Novak and Cañas (2006) also make the point that cognitive maps can favor integration of concepts and reduce misconceptions and <a href="/en/Cognitive_load" title="Cognitive load">cognitive load</a>. Most importantly they help structuring of information which is crucial for retrieval. <span style="background-color:#eeeeee" class="citation">&#8220;We believe one of the reasons concept mapping is so powerful for the facilitation of meaningful learning is that it serves as a kind of template or scaffold to help to organize knowledge and to structure it, even though the structure must be built up piece by piece with small units of interacting concept and propositional frameworks. Many learners and teachers are surprised to see how this simple tool facilitates meaningful learning and the creation of powerful knowledge frameworks that not only permit utilization of the knowledge in new contexts, but also the retention of the knowledge for long periods of time (Novak, 1990; Novak &amp; Wandersee, 1991).&#8221;</span>
+</p>
+<h3><span class="mw-headline" id="Instructional_designs_with_concept_maps"><span class="mw-headline-number">3.3</span> Instructional designs with concept maps</span></h3>
+<dl><dt>Student construction of concept maps</dt></dl>
+<p>According to Novak and Cañas (2006) concept maps can be used to support many kinds of learning activities, from reading expert maps, to various active learning like data collection, report preparation, oral presentation, group collaboration, and finally, evaluation.
+</p><p>The authors then outline a few recommendations for student activities.
+</p>
+<ul><li>A teacher may give focus questions. The phrasing of the question will lead to different outcomes. E.g. asking "what is educational technology" only may not lead to the same result as "why do we need educational technology".</li>
+<li>Use of a "parking lot". <span style="background-color:#eeeeee" class="citation">&#8220;The staring point for the construction of the concept map can be a list of concepts that the teacher wants to make sure all students include in their map&#8221;</span></li>
+<li>Expert skeleton maps <span style="background-color:#eeeeee" class="citation">&#8220; have been previously prepared by an expert in the topic, and permits both students and teachers to build their knowledge on a solid foundation. "Expert skeleton" concept maps serve as a guide or scaffold or aid to learning in a way analogous to the use of scaffolding in constructing or refurbishing a building.&#8221;</span> Novak and Cañas (2006)</li></ul>
+<p>The free <a class="external text" href="http://cmap.ihmc.us/download/">IHMC CmapTools</a> support such activities. CmapTools provides a variety of features for a variety of the tasks that students perform (Cañas &amp; Novak, 2005). For example
+</p>
+<ul><li>Support of collaboration (shared synchronous or asynchronous editing). In addition, "Discussion threads" and "Annotations" in the form of electronic "Post-It" notes can be used to make anecdotal comments on concept maps or during map construction.</li>
+<li>Search for information based on a concept map leading to an improved map with linked resources.</li>
+<li>Record the process of constructing a Cmap for later playback, providing support to the teacher to demonstrate the construction of a concept map.</li>
+<li>Piece-wise display a concept map and associated resources in full-screen mode for oral presentations</li>
+<li>Graphically compare two Cmaps, allowing the teacher to compare the student's map to his/hers for an initial evaluation.</li></ul>
+<p>The concept map can thus become an artifact around which the various activities of the learning process can be centered.
+</p>
+<dl><dt>Concept maps as advance organizers</dt></dl>
+<p><span style="background-color:#eeeeee" class="citation">&#8220; Ausubel suggests that advance organizers might foster meaningful learning by prompting the student regarding pre-existing superordinate concepts that are already in the student's cognitive structure, and by otherwise providing a context of general concepts into which the student can incorporate progressively differentiated details. Ausubel claims that by presenting a global representation of the knowledge to be learned, advance organizers might foster "integrative reconciliation" of the subdomains of knowledge - the ability to understand interconnections among the basic concepts in the domain.&#8221;</span> (<a class="external text" href="http://www.csudh.edu/dearhabermas/advorg03.htm">Ausubel's Advance Organizers</a>, retrieved 19:35, 2 October 2006 (MEST))
+</p>
+<dl><dt>Cognitive maps as concept maps</dt></dl>
+<p>Läge et al. (2008) suggest a strategy to support assimilative learning. Assimilative (as opposed to accomodation) is understood as integrating new information into existing knowledge or cognitive structures without restructuring the current schema. A stable and most notably a correct memory representation which "spans" the knowledge space is essential. Building elaborately a basic structure as well as the assimilative integration of new information can be eased with the aid of <b>cognitive maps</b>. The authors propose a <span style="background-color:#eeeeee" class="citation">&#8220; general model of a "cognitive map" which is based on geographical representations.In such a cognitive map, a distance measure between the concepts is used to represent the general similarity which an individual sees between each object of a knowledge field.&#8221;</span> (Läge, 2008:30). Such maps can be generated with statistical techniques like multidimensional scaling from a matrix of paired similarity judgements for a set of objects. 
+</p><p>These maps could be used in the following way. Students are given a map containing a number of concepts (e.g. 20) where the similarities (and therefore the distance) have been defined by experts. Learners then will have to state similarities between new concepts and existing ones. From this a learner's map will be generated. The learner's map then can be compared to the expert's map. <span style="background-color:#eeeeee" class="citation">&#8220; If the structure of a learner-map differs eminently from the expert-map, the
+person has to be instructed to re-learn the fundamental criteria of the knowledge field in a first step. As soon as the positions of the majority of objects correspond to those of the experts [...], the correctly placed objects can be used for an assimilative process for learning the incorrectly represented objects: Exercises are presented which specifically focus on a feature comparison by using one correctly placed (well known) object as an anchor for learning the features of the incorrectly represented object. Similarities and differences are specifically presented so that the person learns to better integrate the target object into the existing structure.&#8221;</span> (Läge, 2008:32)
+</p>
+<dl><dt>Other uses</dt></dl>
+<p>Particular kinds of visual maps and languages exist for many purposes. E.g.
+</p>
+<ul><li>Flow charting (processes and activities)</li>
+<li>Argumenting</li></ul>
+<h3><span class="mw-headline" id="Assessing_students_schemata_about_concept_maps"><span class="mw-headline-number">3.4</span> Assessing students schemata about concept maps</span></h3>
+<p>Klein (1998:32) describes a schema questionnaire. It <span style="background-color:#eeeeee" class="citation">&#8220; was used to elicit information regarding students' existing schemata about concept mapping. The questionnaire included three questions to assess schemata directly (<i>What is a concept map?</i> <i>How do you make a concept map?</i> <i>What can you use a concept map for?</i>) and 18 questions that sought to get at the level of abstractness of studentsÕ schemata indirectly (9 ratings of the usefulness of concept mapping in various situations, and 9 ratings of the goodness of different concept maps).&#8221;</span>
+</p>
+<ul><li><a href="/en/Concept_map/Schema_questionnaire" title="Concept map/Schema questionnaire">Concept map/Schema questionnaire</a> (questionnaire items without the maps)</li></ul>
+<p>The same institution, the <a class="external text" href="https://www.cse.ucla.edu">Center for the Study of Evaluation</a> at UCLA, also published a <a class="external text" href="https://www.cse.ucla.edu/products/reports/TECH460.pdf">feasibility of machine scoring of concept maps</a> study <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Software"><span class="mw-headline-number">4</span> Software</span></h2>
+<p>See also other indexes, e.g.:
+</p>
+<ul><li><a class="external text" href="http://www.informationtamers.com/WikIT/index.php?title=Free_mind_mapping_%28and_related_types%29_software">Free mind mapping (and related types) software</a> (WikIT)</li>
+<li><a class="external text" href="http://www.mind-mapping.org/">Software for mindmapping and information organisation</a> (mind-mapping.org)</li></ul>
+<h3><span class="mw-headline" id="Stand-alone_programs"><span class="mw-headline-number">4.1</span> Stand-alone programs</span></h3>
+<dl><dt>Free standalone general purpose programs</dt></dl>
+<ul><li><a class="external text" href="http://cmap.ihmc.us/download/">IHMC CmapTools</a>. Freeware, multi-platform. Joseph D. Novak, the inventor of concept maps is part of the team at the Institute for Human and Machine Cognition (IHMC). <a href="/en/User:DSchneider" class="mw-redirect" title="User:DSchneider">DSchneider</a> recommends this tool). There is extensive <a class="external text" href="http://cmap.ihmc.us/Documentation/">documentation</a> done with CMAP itself.</li>
+<li><a class="external text" href="http://freemind.sourceforge.net/wiki/index.php/Main_Page">FreeMind</a> (<a class="external text" href="http://en.wikipedia.org/wiki/FreeMind">Wikipedia entry</a>) is a free mind mapping application written in Java. Various export formats. Integrates with some Wikis .</li>
+<li><a href="/en/PIViT" title="PIViT">PIViT</a> (Project investigation and Visualization tool) is a Project Support Environment initially designed for science teachers and its main feature is a concept mapping tool. (This project may be dead, but it is often referred to in the literature).</li>
+<li><a class="external text" href="http://vue.uit.tufts.edu/">VUE</a> from the Visual Understanding Environment (VUE) project at Tufts UIT Academic Technology. VUE provides a visual environment for structuring, presenting, and sharing digital information. Using VUE's concept mapping interface, faculty and students design semantic networks of digital resources drawn from digital libraries, local and remote file systems and the Web. The resulting content maps can then be viewed and exchanged online.</li>
+<li><a class="external text" href="http://www.xmind.net/">XMind</a> <span style="background-color:#eeeeee" class="citation">&#8220;XMind is an open source brainstorming and mind mapping software tool developed by XMind Ltd. It helps people to capture ideas, organize to various charts, and share them for collaboration. It supports mind maps, fishbone diagrams, tree diagrams, org-charts, logic charts, and spreadsheets. It is often used for knowledge management, meeting minutes, task management, and GTD. XMind is compatible with FreeMind. The latest version is XMind 3.&#8221;</span> (<a class="external text" href="http://en.wikipedia.org/wiki/XMIND">Wikipedia</a>, retrieved 19:37, 13 January 2010 (UTC)).</li></ul>
+<dl><dt>Free Mind mapping software</dt></dl>
+<p>See also <a href="/en/Mind_map" title="Mind map">mind map</a>
+</p>
+<ul><li><a class="external text" href="http://www.mindmeister.com">Mindmeister</a></li>
+<li><a class="external text" href="http://www.bubbl.us/">bubbl.us</a></li>
+<li><a class="external text" href="http://www.mindomo.com/">Mindomo</a></li>
+<li><a class="external text" href="http://www.text2mindmap.com/">Tex2Mindmap</a> (automatic generation from text input)</li></ul>
+<dl><dt>Maps by coding</dt></dl>
+<p>Some folks prefer using code to generate maps. It can be faster if precise layout is not an issue. See for example:
+</p>
+<ul><li><a href="/en/Graphviz" title="Graphviz">Graphviz</a></li></ul>
+<dl><dt>Free standalone special purpose programs</dt></dl>
+<ul><li><a href="/en/MOTPlus" title="MOTPlus">MOTPlus</a>, general purpose, ontology and learning design concept map editor (free for non-commercial use).</li>
+<li><a class="external text" href="http://compendium.open.ac.uk/institute/">Compendium software website</a></li>
+<li><a href="/en/Compendium_LD" title="Compendium LD">Compendium LD</a>, a learning design editor (built on top of compendium)</li>
+<li><a class="external text" href="http://www.deepamehta.de/">DeepaMehta</a></li></ul>
+<dl><dt>Alternatives</dt></dl>
+<ul><li>Special purpose <a href="/en/Diagramming_software" title="Diagramming software">diagramming software</a>, e.g. various <a href="/en/UML" class="mw-redirect" title="UML">UML</a> programs</li>
+<li>General purpose <a href="/en/Diagramming_software" title="Diagramming software">diagramming software</a>, e.g. the kind used to produce <a href="/en/Flow_chart" title="Flow chart">Flow charts</a></li></ul>
+<h3><span id="Online_software_(web_2.0_services)"></span><span class="mw-headline" id="Online_software_.28web_2.0_services.29"><span class="mw-headline-number">4.2</span> Online software (web 2.0 services)</span></h3>
+<dl><dt>Somewhat free online mind mapping programs</dt></dl>
+<ul><li><a class="external text" href="http://www.mindmeister.com/">MindMeister</a> is an online mind-mapping service (free, at least beta version of Feb 2007)
+<ul><li><a class="external text" href="http://www.google.com/ig/directory?type=gadgets&amp;url=hosting.gmodules.com/ig/gadgets/file/101486067477648140919/mindmeister_geistesblitz.xml">MindMeister Geistesblitz</a> is an iGoogle gadget.</li></ul></li>
+<li><a class="external text" href="http://bubbl.us">bubbl.us</a> on-line concept map tool (free, with some google ads). Features and easy to learn interface, zoom, printing, export as widget code, export as bitmap.</li>
+<li><a class="external text" href="http://mywebspiration.com/">Webspiration</a> Made by Inspiration (probably the best commercial standalone software, free for the moment - 1/2010).</li></ul>
+<dl><dt>Free online programs</dt></dl>
+<ul><li><a class="external text" href="http://educate.intel.com/en/thinkingtools/seeingreason/">Seeing Reason Tool</a> Analyzing cause-and-effect relationships is important to understanding complex systems by <i>Intel</i>.</li></ul>
+<dl><dt>Online diagramming (flowchart) programs</dt></dl>
+<ul><li><a class="external text" href="http://www.flowchart.com/">Flowchart.com</a></li>
+<li><a class="external text" href="https://www.lucidchart.com/pages/examples/mind_mapping_software">LucidChart mind maps</a></li>
+<li><a class="external text" href="http://creately.com/">Creatly com</a></li>
+<li><a class="external text" href="http://cacoo.com/">Cacoo</a></li>
+<li><a class="external text" href="http://www.gliffy.com/">Gliffy</a></li></ul>
+<dl><dt>Online programs to sort out</dt></dl>
+<ul><li><a class="external text" href="http://www.spinscape.com/">Spinscape</a> and the <a class="external text" href="http://www.google.com/ig/directory?type=gadgets&amp;url=app.spinscape.com/spinbitz/spinscape-gadget.cmd">igoogle gadget</a></li>
+<li>Google Wave MindMap Gadget</li>
+<li><a class="external text" href="http://mind42.com/">Mind42</a></li></ul>
+<h3><span class="mw-headline" id="Commercial"><span class="mw-headline-number">4.3</span> Commercial</span></h3>
+<dl><dt>Commercial</dt></dl>
+<ul><li><a class="external text" href="http://www.inspiration.com/">Inspiration</a></li>
+<li><a class="external text" href="http://www.nova-mind.com/">Nova Mind</a> Mind Map-like tool</li>
+<li>MindJet</li>
+<li><a class="external text" href="http://web.singnet.com.sg/~axon2000/">Axon</a> (free limited demo version available)</li></ul>
+<dl><dt>Commercial online programs</dt></dl>
+<ul><li><a class="external text" href="http://www.thebrain.com/">The Brain</a> (through the web)</li></ul>
+<h2><span class="mw-headline" id="Links"><span class="mw-headline-number">5</span> Links</span></h2>
+<h3><span class="mw-headline" id="Indexes_and_bibliographies"><span class="mw-headline-number">5.1</span> Indexes and bibliographies</span></h3>
+<ul><li>Novak, J. D., &amp; Wandersee, J. (1991). Coeditors, special issue on concept mapping. Journal of Research in Science Teaching, 28(10).</li>
+<li>The <a class="external text" href="http://cmap.ihmc.us/">Cmap Tools</a> Home page has links that you can follow, e.g. to <a class="external text" href="http://cmap.ihmc.us/Publications/ResearchPapers/TheoryCmaps/TheoryUnderlyingConceptMaps.htm">Novak and Cañas's good introduction</a> and to all associated <a class="external text" href="http://cmap.ihmc.us/Publications/">Research Publications</a> (most are online)</li></ul>
+<ul><li><a class="external text" href="http://users.edte.utwente.nl/lanzing/cm_home.htm">The Concept Mapping Homepage</a> including the excellent <a class="external text" href="http://users.edte.utwente.nl/lanzing/cm_bibli.htm">W.A. Lanzing's Concept Mapping Bibliography</a></li></ul>
+<p><b>People</b>
+</p>
+<ul><li><a class="external text" href="http://www.ihmc.us/groups/jnovak/">Joseph D. Novak</a> (homepage)</li></ul>
+<p><b>Templates &amp; Examples</b>
+<a class="external autonumber" href="https://creately.com/diagram-community/popular/t/mind-map">[1]</a>(Mind Map Templates &amp; Examples)  - Collection of ready to use mind map templates and example that's freely available to use.
+</p>
+<h3><span class="mw-headline" id="Introductions"><span class="mw-headline-number">5.2</span> Introductions</span></h3>
+<ul><li>Plotnick, Eric (1997). <a class="external text" href="http://www.ericdigests.org/1998-1/concept.htm">Concept Mapping: A Graphical System for Understanding the Relationship between Concepts</a>, ERIC Digest, ED407938</li></ul>
+<ul><li><a class="external text" href="http://en.wikipedia.org/wiki/Concept_map">Concept map</a> (Wikipedia Article)</li></ul>
+<ul><li><a class="external text" href="http://classes.aces.uiuc.edu/ACES100/MM.html">Introduction to Concept Maps</a>. Includes tips for learners. University of Illinois at Urbana-Champaign.</li></ul>
+<ul><li><a class="external free" href="http://en.wikipedia.org/wiki/Concept_Map">http://en.wikipedia.org/wiki/Concept_Map</a></li>
+<li><a class="external text" href="http://library.humboldt.edu/owls/owl2-Map.htm">Organizing Your Research, Map Your Concepts</a> by Martha Johansen, Humbolt State University.</li></ul>
+<ul><li><a class="external text" href="http://forpd.ucf.edu/strategies/stratMap.html">Concept Definition Map</a>, FOR-PD's Reading Strategy of the Month.</li>
+<li><a class="external text" href="http://www.mapasconceptuales.info/KM-ImportantConcept-eng.htm">The importance of the "more important concept" in a concept map or "the most relevant concepts</a></li></ul>
+<ul><li><a class="external text" href="http://www.p-jones.demon.co.uk/">Hodges' Knowledge Domains Model</a>, A conceptual framework developed in health care, but applicable universally.</li></ul>
+<ul><li><a class="external text" href="http://www.informationtamers.com/WikIT/">WikiIT</a> "...is here to provide you with a resource to help in taming the torrent of information that knowledge workers have to deal with daily". E.g. see:
+<ul><li><a class="external text" href="http://www.informationtamers.com/WikIT/index.php?title=Information_map_types">Information map types</a>  === Templates &amp; Examples ===</li>
+<li><a class="external text" href="https://creately.com/diagram-community/popular/t/mind-map">Mind Map Templates &amp; Examples</a>  - Collection of ready to use mind map templates and example that's freely available to use.</li></ul></li></ul>
+<h2><span class="mw-headline" id="References"><span class="mw-headline-number">6</span> References</span></h2>
+<p>(rather see bibliographies above ... )
+</p>
+<ul><li>Alpert, Sherman R. and Keith Grueneberg (2001), Multimedia in Concept Maps: A Design Rationale and Web-Based Application, Proceedings of ED-MEDIA 2001, <a class="external text" href="http://www.research.ibm.com/people/a/alpert/EDMEDIA2001/Edmedia.htm">HTML</a></li></ul>
+<ul><li>Anderson, J. R., &amp; Lebiere, C. (1998). The atomic components of thought. Mahwah, NJ: Erlbaum.</li></ul>
+<ul><li>Anderson, J. R., Byrne, M. D., Douglass, S., Lebiere, C., &amp; Qin, Y. (2004). An Integrated Theory of the Mind. Psychological Review, 111(4), 1036–1050.</li></ul>
+<ul><li>Anderson-Inman, L.,&amp; Zeitz, L. (1993, August/September). Computer-based concept-mapping: Active studying for active learners. "Computing Teacher," 21(1). 6-8, 10-11. (EJ 469 254).</li></ul>
+<ul><li>Ausubel (2000). The Acquisition and Retention of Knowledge: A Cognitive View, Springer, SBN 978-0-7923-6505-1</li></ul>
+<ul><li>Ausubel, D. (1968). "Educational psychology: A cognitive view." New York: Holt, Rinehart, and Winston.</li></ul>
+<ul><li>Burrows N L and S R Mooring, Mapping conceptual understanding, <i>Chem. Educ. Res. Pract.</i>, 2015, DOI: 10.1039/c4rp00180j (<a class="external text" href="http://www.rsc.org/eic/2014/12/conceptual-understanding-curriculum-design">summary</a>)</li></ul>
+<ul><li>Cañas, A. J., Ford, K. M., Novak, J. D., Hayes, P., Reichherzer, T., &amp; Suri, N. (2001). Online concept maps: Enhancing collaborative learning by using technology with concept maps. The Science Teacher, 68(4), 49-51.</li></ul>
+<ul><li>Cañas, Alberto J. and Joseph D. Novak (2006). Re-Examining The Foundations For Effective Use Of Concept Maps, Concept Maps: Theory, Methodology, Technology, Proc. of the Second Int. Conference on Concept Mapping, Costa Rica 2006. <a class="external text" href="http://cmc.ihmc.us/cmc2006Papers/cmc2006-p247.pdf">PDF</a></li></ul>
+<ul><li>Farrand, P.; Hussain, F.; Hennessy, E. (2002). "The efficacy of the mind map study technique". Medical Education 36 (5): 426–431. doi:10.1046/j.1365-2923.2002.01205.x. <a class="external text" href="http://www3.interscience.wiley.com/journal/118952400/abstract.">Abstract</a></li></ul>
+<ul><li>Germann, P., &amp; Young-soo, K. (2001). Heightening reflection through dialogue: A case for electronic journaling and electronic concept mapping in science classes. Contemporary Issues in Technology and Teacher Education, [Online serial], 1 (3) . Available: <a class="external text" href="http://www.citejournal.org/vol1/iss3/currentissues/science/article1.htm">HTML/PDF</a></li></ul>
+<ul><li>Halliday, M.A.K., &amp; Hasan, R. (1976). Cohesion in English . London: Longman.</li></ul>
+<ul><li>Lovejoy, K.B., &amp; Lance, D.M. (1991). Information management and cohesion in the study of written discourse. Linguistics and Education, 3, 251-273.</li></ul>
+<ul><li>Luckie Douglas, Concept Maps: What the heck is this? Excerpted, rearranged (and annotated) from an online manuscript by Joseph D. Novak, Cornell University (http://cmap.coginst.uwf.edu/info/, webpage <a class="external text" href="http://www.msu.edu/~luckie/ctools/">HTML</a>, , retrieved 11:44, 9 August 2007 (MEST).</li></ul>
+<ul><li>Buzan, T. (1995). The MindMap book. (2 ed.). London, UK: BBC Books.</li></ul>
+<ul><li>Jonassen, D.H., Beissner, K., &amp; Yacci, M.A. (1993). Structural knowledge: Techniques for conveying, assessing, and acquiring structural knowledge. Hillsdale, NJ: Lawrence Erlbaum Associates.</li></ul>
+<ul><li>Läge, Damian; René Oberholzer; Samy Egli and Roland Streule (2008). Assimilative Learning with the Aid of Cognitive Maps, <i>International Journal of emerging technologies in learning</i>, 3 (2). <a class="external text" href="http://online-journals.org/i-jet/article/view/217">Abstract/PDF</a></li></ul>
+<ul><li>Lawson, M. J. (1994). Concept Mapping. In T. Hus"n &amp; T. N. Postlethwaite (Eds.), The international encyclopedia of education (2nd ed., Vol. 2, pp. 1026-1031). Oxford: Elsevier Science.</li></ul>
+<ul><li>Mintzberg, H. and L. Van der Heyden. 1999. Organigraphs: Drawing how companies really work. Harvard Business Review (September-October): 87-94. (A <a class="external text" href="http://maaw.info/ArticleSummaries/ArtSumMintzbergVanderHeyden99.htm">summary</a> was made by Deborah Bichsel)</li></ul>
+<ul><li>Novak, J. D. (1990). Concept maps and vee diagrams: Two metacognitive tools for science and mathematics education. Instructional Science, 19, 29-52.</li></ul>
+<ul><li>Novak, J.D. (1991). Clarify with concept maps: A tool for students and teachers alike. The Science Teacher, 58(7), 45Novak, J. D., &amp; Wandersee, J. (1991). Coeditors, special issue on concept mapping. Journal of Research in Science Teaching, 28(10).-49.</li></ul>
+<ul><li>Novak, J. D. (1993). How do we learn our lesson?&#160;: Taking students through the process. The Science Teacher, 60(3), 50-55.</li></ul>
+<ul><li>Novak, J.D. (2010). Learning, Creating, and Using Knowledge: Concept Mapas as Facilitative Tools in Schools and Corporations (2nd Ed.) NY: Routledge.  <a href="/en/Special:BookSources/0415991854" class="internal mw-magiclink-isbn">ISBN 0415991854</a></li></ul>
+<ul><li>Novak, Joseph D. &amp; Alberto J. Cañas (2006). The Theory Underlying Concept Maps and How to Construct Them, Technical Report IHMC CmapTools 2006-01, Florida Institute for Human and Machine Cognition, <a class="external text" href="http://cmap.ihmc.us/Publications/ResearchPapers/TheoryCmaps/TheoryUnderlyingConceptMaps.htm">HTML</a> (PDFs also available). <b>Recommended for introductory reading</b>. (in case the URL changes see <a class="external autonumber" href="http://cmap.ihmc.us/">[2]</a></li></ul>
+<ul><li>Novak, J. D., Gowin, D. B., and Johansen, G. T. (1983). The use of concept mapping and knowledge vee mapping with junior high school science students. "Science Education," 67, 625-645.</li></ul>
+<ul><li>Novak, J.D., &amp; Wandersee, J.H. (1990). Perspectives on concept mapping (special issue). Journal of Research in Science Teaching, 27, 921-1079.</li></ul>
+<ul><li>Novak, J. D., &amp; Wandersee, J. (1991). Coeditors, special issue on concept mapping. Journal of Research in Science Teaching, 28(10).</li></ul>
+<ul><li>Pressley, M., VanEtten, S., Yokoi, L., Freebern, G., &amp; VanMeter, P. (1998). "The metacognition of college studentship: A grounded theory approach". In: D. J. Hacker, J. Dunlosky, &amp; A. C. Graesser (Eds.), Metacognition in Theory and Practice (pp. 347-367). Mahwah NJ: Erlbaum <a href="/en/Special:BookSources/9780805824810" class="internal mw-magiclink-isbn">ISBN 9780805824810</a></li></ul>
+<ul><li>Ross, B., &amp; Munby, H. (1991). Concept mapping and misconceptions: A study of high-school students' understanding of acids and bases. "International Journal of Science Education," 13(1), 11-24. (EJ 442 063)</li></ul>
+<ul><li>Yensen, Jack, Strategies for Learning - from Concept Maps to Learning Objects and Books to Wooks, Webpage, <a class="external autonumber" href="http://www.eaa-knowledge.com/ojni/ni/602/strategies.htm">[3]</a>, , retrieved 11:44, 9 August 2007 (MEST).</li></ul>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Harold F. O'Neil &amp; Davina C. D. Klein, Feasibility of Machine Scoring of Concept Maps, enter for the Study of Evaluation National Center for Research on Evaluation, Standards, and Student Testing, Graduate School of Education &amp; Information Studies, University of California, Los Angeles</span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20190401185607
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.063 seconds
+Real time usage: 0.071 seconds
+Preprocessor visited node count: 184/1000000
+Preprocessor generated node count: 448/1000000
+Post‐expand include size: 8961/2097152 bytes
+Template argument size: 7524/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 601/5000000 bytes
+ExtRegexFun count: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    8.452      1 -total
+ 29.06%    2.456     14 Template:Quotation
+ 17.72%    1.498      1 Template:Stub
+-->
+</div>
+<!-- Saved in parser cache with key edutechwiki_en:pcache:idhash:2780-0!canonical and timestamp 20190401185607 and revision id 68264
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://edutechwiki.unige.ch/mediawiki/index.php?title=Concept_map&amp;oldid=68264">http://edutechwiki.unige.ch/mediawiki/index.php?title=Concept_map&amp;oldid=68264</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/en/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/en/Category:Stubs" title="Category:Stubs">Stubs</a></li><li><a href="/en/Category:Cognitive_tools" title="Category:Cognitive tools">Cognitive tools</a></li><li><a href="/en/Category:Visualization" title="Category:Visualization">Visualization</a></li><li><a href="/en/Category:Knowledge_representation" title="Category:Knowledge representation">Knowledge representation</a></li><li><a href="/en/Category:Knowledge_and_idea_management" title="Category:Knowledge and idea management">Knowledge and idea management</a></li><li><a href="/en/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Concept+map" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/en/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/en/Concept_map" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/mediawiki/index.php?title=Talk:Concept_map&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/en/Concept_map">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/mediawiki/index.php?title=Concept_map&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=Concept_map&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Slow Search</label>
+						</h3>
+						<form action="/mediawiki/index.php" id="searchform">
+							<div>
+								<input type="search" name="search" placeholder="Search EduTech Wiki" title="Search EduTech Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/en/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-TEST" aria-labelledby="p-TEST-label">
+			<h3 id="p-TEST-label">TEST</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Navigation_and_help" aria-labelledby="p-Navigation_and_help-label">
+			<h3 id="p-Navigation_and_help-label">Navigation and help</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Mainpage"><a href="/en/Main_Page">Main Page</a></li><li id="n-recentchanges"><a href="/en/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-about"><a href="/en/EduTech_Wiki:About">About</a></li><li id="n-randompage"><a href="/en/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li><li id="n-Editing-rules"><a href="/en/Help:Editing_rules">Editing rules</a></li><li id="n-Blog:DKS"><a href="/en/Blog:DKS">Blog:DKS</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-categorytree-portlet" aria-labelledby="p-categorytree-portlet-label">
+			<h3 id="p-categorytree-portlet-label">Categories</h3>
+			<div class="body">
+				<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Citizen_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Citizen_science">Citizen science</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Design_and_research_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Design_and_research_methods">Design and research methods</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Education_and_instruction" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Education_and_instruction">Education and instruction</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technologies">Educational technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technology_-_the_field" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technology_-_the_field">Educational technology - the field</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Position_paper">Position paper</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Psychology_and_learning" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Psychology_and_learning">Psychology and learning</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Socio-political_and_organization" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Socio-political_and_organization">Socio-political and organization</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Special_contents" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Special_contents">Special contents</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Technologies">Technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Tutorials" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Tutorials">Tutorials</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		</div>
+					</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Concept+map">Create a book</a></li><li id="coll-download-as-rl"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Concept+map&amp;returnto=Concept+map&amp;oldid=68264&amp;writer=rl">Download as PDF</a></li><li id="t-print"><a href="/mediawiki/index.php?title=Concept_map&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/en/Special:WhatLinksHere/Concept_map" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/en/Special:RecentChangesLinked/Concept_map" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/en/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/mediawiki/index.php?title=Concept_map&amp;oldid=68264" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/mediawiki/index.php?title=Concept_map&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/mediawiki/index.php?title=Special:CiteThisPage&amp;page=Concept_map&amp;id=68264" title="Information on how to cite this page">Cite this page</a></li><li id="t-smwbrowselink"><a href="/en/Special:Browse/:Concept-5Fmap" rel="search">Browse properties</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">In other languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="http://edutechwiki.unige.ch/fr/carte_conceptuelle" title="carte conceptuelle – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Big_brother" aria-labelledby="p-Big_brother-label">
+			<h3 id="p-Big_brother-label">Big brother</h3>
+			<div class="body">
+								<ul>
+					<li id="n-New-Pages"><a href="/en/Special:NewPages">New Pages</a></li><li id="n-contributionscores"><a href="/en/Special:ContributionScores">Contribution scores</a></li><li id="n-Popular-Pages"><a href="/en/Special:Popularpages">Popular Pages</a></li><li id="n-Who-is-online-.3F"><a href="/en/Special:WhosOnline">Who is online ?</a></li><li id="n-Version"><a href="/en/Special:Version">Version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-TECFA_Links" aria-labelledby="p-TECFA_Links-label">
+			<h3 id="p-TECFA_Links-label">TECFA Links</h3>
+			<div class="body">
+				<div class="sidebar_banner"><a href="http://tecfa.unige.ch/"><img title="TECFA - Educational Technology Unit - UniGE" alt="TECFA - Educational Technology Unit - Home page" src="/mediawiki/tecfa/TECFAlogoArtNoText.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/maltt"><img title="Master of Science in Learning and Teaching Technologies" alt="Master of Science in Learning and Teaching Technologies" src="/mediawiki/tecfa/LOGO_MALTT.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/formcont/"><img title="Certificate of Advanced Studies (CAS): Conception et développement de projets e-learning, Journées thématiques, TECFA, FPSE, Université de Genève" alt="Cours de formation continue offerts par TECFA, Université de Genève: CAS - Conception et développement de projets e-learning, Application des normes du e-learning, Réalisation de vidéos pédagogiques, Introduction HTML5 et CSS, Coordination des formations en ligne, Traitement de ressources multimédia, Activités pédagogiques avec Captivate" src="/mediawiki/tecfa/fclogored.png" /></a></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Page last modified 10:42, 6 June 2018.</li>
+								<li id="footer-info-copyright">By default, content is protected by a <a href="/en/EduTech_Wiki:Copyrights" title="EduTech Wiki:Copyrights">CC BY-NC-SA Licence</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/en/EduTech_Wiki:Privacy_policy" title="EduTech Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/en/EduTech_Wiki:About" title="EduTech Wiki:About">About EduTech Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/en/EduTech_Wiki:General_disclaimer" title="EduTech Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/mediawiki/tecfa/somerights.png" alt="CC BY-NC-SA Licence" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/mediawiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /mediawiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+										<li id="footer-monitoredbyico">
+						<a href="http://wikiapiary.com/wiki/EduTech_Wiki_(en)"><img src="/mediawiki/tecfa/Monitored_by_WikiApiary.png" alt="Monitored by WikiApiary" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.063","walltime":"0.071","ppvisitednodes":{"value":184,"limit":1000000},"ppgeneratednodes":{"value":448,"limit":1000000},"postexpandincludesize":{"value":8961,"limit":2097152},"templateargumentsize":{"value":7524,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":601,"limit":5000000},"timingprofile":["100.00%    8.452      1 -total"," 29.06%    2.456     14 Template:Quotation"," 17.72%    1.498      1 Template:Stub"]},"cachereport":{"timestamp":"20190401185607","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7586057-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141});});</script>
+	</body>
+<!-- Cached/compressed 20190401185607 -->
+</html>

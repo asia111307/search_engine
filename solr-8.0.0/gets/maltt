@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- Site Crafted Using PageLines v1.4.5 - WordPress - HTML5 ( not logged in ) - www.PageLines.com -->
+
+<!-- Title -->
+<title>Master MALTT | A la une</title>
+
+<!-- Start >> Meta Tags and Inline Scripts -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Master MALTT &raquo; Feed" href="https://tecfalabs.unige.ch/maltt/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Master MALTT &raquo; Comments Feed" href="https://tecfalabs.unige.ch/maltt/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Master MALTT &raquo; A la une Comments Feed" href="https://tecfalabs.unige.ch/maltt/master/presentation-video/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tecfalabs.unige.ch\/maltt\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<!-- Styles -->
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://tecfalabs.unige.ch/maltt/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='pagelines-less-css'  href='https://tecfalabs.unige.ch/maltt/?pageless=1_1555070765' type='text/css' media='all' />
+
+<!-- Scripts -->
+<script type='text/javascript' src='https://tecfalabs.unige.ch/maltt/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://tecfalabs.unige.ch/maltt/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://tecfalabs.unige.ch/maltt/wp-content/themes/pagelines/sections/navbar/navbar.js?ver=5.0.3'></script>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><link rel='https://api.w.org/' href='https://tecfalabs.unige.ch/maltt/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tecfalabs.unige.ch/maltt/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tecfalabs.unige.ch/maltt/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel="canonical" href="https://tecfalabs.unige.ch/maltt/" />
+<link rel='shortlink' href='https://tecfalabs.unige.ch/maltt/' />
+<link rel="alternate" type="application/json+oembed" href="https://tecfalabs.unige.ch/maltt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftecfalabs.unige.ch%2Fmaltt%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://tecfalabs.unige.ch/maltt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftecfalabs.unige.ch%2Fmaltt%2F&#038;format=xml" />
+
+<!-- On Ready -->
+<script> /* <![CDATA[ */
+!function ($) {
+jQuery(document).ready(function() {
+})
+}(window.jQuery);
+/* ]]> */
+</script>
+
+
+<!-- NavBar | Section Head -->
+			<!--[if IE 8]>
+				<style>
+					.nav-collapse.collapse {
+						height: auto;
+						overflow: visible;
+					}
+				</style>
+			<![endif]-->
+				<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+span.anchor {
+    display: block;
+    position: relative;
+    top: -50px;
+    visibility: hidden;
+}
+
+.back-to-top {
+	background: none;
+	margin: 0;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 70px;
+	height: 70px;
+	z-index: 100;
+	display: none;
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #ff9000;
+}
+ 
+  
+ 
+.back-to-top i {
+	font-size: 60px;
+}		</style>
+	
+<style type="text/css" id="pagelines-custom">
+ .navbar.pl-color-blue {
+  border-top: 0px !important;
+  background-color: #085C86 !important;
+  background-image: none !important;
+}
+.branding_wrap {
+  background-image: url("https://tecfa.unige.ch/gif/TECFAlogoCol_765%C3%97393.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 180px;
+}
+.mainlogo-img {
+  max-width: 400px !important;
+}
+.page-canvas {
+  background-color: #F1F1F1 !important;
+}
+.outline.fix {
+  background: #333;
+}
+.home h1 {
+  display: none;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .branding_wrap {
+    background: none !important;
+  }
+}
+@media only screen and (max-width: 750px) {
+  .branding_wrap {
+    background: none !important;
+  }
+} 
+</style>
+
+<link rel="stylesheet" type="text/css" href="https://tecfalabs.unige.ch/maltt/wp-content/themes/pagelines/../../tecfastyle.css" media="screen" />
+
+
+</head>
+
+<!-- Start >> HTML Body -->
+<body class="home page-template-default page page-id-1162 page-child parent-pageid-31 custom responsive pagelines default full_width ">
+<div id="site" class="fullwidth">
+	<div id="page" class="thepage">
+				<div class="page-canvas">
+						<header id="header" class="container-group">
+				<div class="outline">
+					
+
+<!-- Branding | Section Template -->
+<section id="branding" class="container clone_1 section-branding fix"><div class="texture"><div class="content"><div class="content-pad"><div class="branding_wrap fix"><a class="plbrand mainlogo-link" href="https://tecfalabs.unige.ch/maltt" title="Master MALTT"><img class="mainlogo-img" src="https://tecfalabs.unige.ch/maltt/wp-content/uploads/MalttLogo3vert-01-2.png" alt="Master MALTT" /></a><div class="icons" style="bottom: 0px; right: px;"></div></div>			<script type="text/javascript">
+				jQuery('.icons a').hover(function(){ jQuery(this).fadeTo('fast', 1); },function(){ jQuery(this).fadeTo('fast', 0.5);});
+			</script>
+</div></div></div></section>
+
+<!-- NavBar | Section Template -->
+<section id="navbar" class="container clone_1 section-navbar fix"><div class="content"><div class="content-pad">	<div class="navbar fix navbar-content-width  pl-color-blue plnav_hover">
+	  <div class="navbar-inner ">
+	    <div class="navbar-content-pad fix">
+	    		      <a href="javascript:void(0)" class="nav-btn nav-btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	      </a>
+				      		<div class="nav-collapse collapse">
+	       <form method="get" class="searchform" onsubmit="this.submit();return false;" action="https://tecfalabs.unige.ch/maltt/" ><fieldset><input type="text" value="" name="s" class="searchfield" placeholder="Search" /></fieldset></form><ul id="menu-main" class="font-sub navline pldrop pull-left"><li class="page_item page-item-31 page_item_has_children current_page_ancestor current_page_parent"><a href="https://tecfalabs.unige.ch/maltt/master/">Accueil</a>
+<ul class='children'>
+	<li class="page_item page-item-1162 current_page_item"><a href="https://tecfalabs.unige.ch/maltt/">A la une</a></li>
+	<li class="page_item page-item-1164"><a href="https://tecfalabs.unige.ch/maltt/master/qui-sommes-nous/">Le Master MALTT c&#8217;est&#8230;</a></li>
+</ul>
+</li>
+<li class="page_item page-item-306 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/futurs-etudiants/">Futurs étudiants</a>
+<ul class='children'>
+	<li class="page_item page-item-314"><a href="https://tecfalabs.unige.ch/maltt/futurs-etudiants/admission/">Conditions d&#8217;admission</a></li>
+	<li class="page_item page-item-321"><a href="https://tecfalabs.unige.ch/maltt/futurs-etudiants/profils-vises/">Profils visés</a></li>
+</ul>
+</li>
+<li class="page_item page-item-329 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/programme/">Programme</a>
+<ul class='children'>
+	<li class="page_item page-item-385 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/programme/organisation/">Organisation et dates</a></li>
+	<li class="page_item page-item-53 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/programme/cours/">Liste des cours</a></li>
+</ul>
+</li>
+<li class="page_item page-item-439"><a href="https://tecfalabs.unige.ch/maltt/enseignants-et-collaborateurs/">Enseignants et collaborateurs</a></li>
+<li class="page_item page-item-107"><a href="https://tecfalabs.unige.ch/maltt/debouches/">Débouchés</a></li>
+<li class="page_item page-item-468 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/informations-pratiques/">Infos pratiques</a>
+<ul class='children'>
+	<li class="page_item page-item-8"><a href="https://tecfalabs.unige.ch/maltt/informations-pratiques/reglement/">Règlement et plan d’étude</a></li>
+	<li class="page_item page-item-475"><a href="https://tecfalabs.unige.ch/maltt/informations-pratiques/declaration-de-bologne/">Déclaration de Bologne et ECTS</a></li>
+	<li class="page_item page-item-477"><a href="https://tecfalabs.unige.ch/maltt/informations-pratiques/faq/">Foire aux questions (FAQ)</a></li>
+	<li class="page_item page-item-470"><a href="https://tecfalabs.unige.ch/maltt/informations-pratiques/contact/">Contact et coordonnées</a></li>
+</ul>
+</li>
+<li class="page_item page-item-367 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/alumni/">Anciens étudiants</a>
+<ul class='children'>
+	<li class="page_item page-item-352"><a href="https://tecfalabs.unige.ch/maltt/alumni/memoires-realises/">Mémoires de fin d&#8217;études du MALTT</a></li>
+	<li class="page_item page-item-99"><a href="https://tecfalabs.unige.ch/maltt/alumni/parcours/">Parcours d&#8217;anciens étudiants</a></li>
+	<li class="page_item page-item-517"><a href="https://tecfalabs.unige.ch/maltt/alumni/temoignages/">Témoignages</a></li>
+</ul>
+</li>
+</ul>				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div></div></section>				</div>
+			</header>
+						<div id="page-main" class="container-group">
+				<div id="dynamic-content" class="outline">
+
+
+<!-- Content | Section Template -->
+<section id="content" class="container clone_1 section-content-area fix"><div class="texture"><div class="content"><div class="content-pad">		<div id="pagelines_content" class="fullwidth fix">
+
+						<div id="column-wrap" class="fix">
+
+								<div id="column-main" class="mcolumn fix">
+					<div class="mcolumn-pad" >
+						
+
+<!-- PostLoop | Section Template -->
+<section id="postloop" class="copy clone_1 section-postloop"><div class="copy-pad"><article class="fpost post-number-1 post-1162 page type-page status-publish hentry" id="post-1162"><div class="hentry-pad"><section class="post-meta fix post-nothumb  media"><section class="bd post-header fix" ><section class="bd post-title-section fix"><hgroup class="post-title fix"><h1 class="entry-title pagetitle">A la une</h1>
+</hgroup></section> </section></section><div class="entry_wrap fix"><div class="entry_content"><hr />
+<div style="text-align: justify; min-height: 112px;">
+<p><a href="https://www.unige.ch/fapse/"><img style="width: 250px; display: inline-block; float: left;" src="https://tecfa.unige.ch/gif/server/fapse70.png" /></a>Le Master MALTT est une maîtrise universitaire de la Faculté de <a href="https://www.unige.ch/fapse/">Psychologie et des Sciences de l&#8217;Education de l&#8217;Université de Genève.</a> Le programme est dispensé par le laboratoire <a href="http://tecfa.unige.ch/">TECFA</a>, une unité de recherche et d&#8217;enseignement dans le domaine des technologies éducatives.</p>
+<p>Agenda : <a href="#soutenances">Dernières soutenances de mémoire MALTT Session janvier-février 2019</a></p>
+</div>
+<hr />
+<p><!--
+
+
+<h1 style="display:block;">Séance d</h1>
+
+
+--></p>
+<div><img class="alignleft wp-image-2278 " style="float: left; margin-bottom: 20px; margin-right: 15px;" src="https://tecfalabs.unige.ch/maltt/wp-content/uploads/AFFICHE_MALTT_2019-300DPI.png" alt="" width="301" height="426" srcset="https://tecfalabs.unige.ch/maltt/wp-content/uploads/AFFICHE_MALTT_2019-300DPI.png 3508w, https://tecfalabs.unige.ch/maltt/wp-content/uploads/AFFICHE_MALTT_2019-300DPI-212x300.png 212w, https://tecfalabs.unige.ch/maltt/wp-content/uploads/AFFICHE_MALTT_2019-300DPI-768x1086.png 768w, https://tecfalabs.unige.ch/maltt/wp-content/uploads/AFFICHE_MALTT_2019-300DPI-724x1024.png 724w" sizes="(max-width: 301px) 100vw, 301px" />Si vous êtes intéressés à :<br />
+&#8211; concevoir et mettre en œuvre des formations, des programmes ou des cours utilisant les technologies du réseau, le web et internet ;<br />
+&#8211; créer des logiciels interactifs ou des jeux vidéo pédagogiques ;<br />
+&#8211; participer à la conception de formation e-learning.Nous vous invitons à découvrir <a href="http://prezi.com/ehzg64xqiluu/?utm_campaign=share&amp;utm_medium=copy&amp;rc=ex0share" target="_blank" rel="noopener"><strong>la présentation prezi</strong></a> du programme de Maîtrise universitaire en Sciences et Technologies de l&#8217;Apprentissage et de la Formation (Master of Science in Learning and Teaching Technologies ou MALTT). Ce document a été présenté lors de la séance d&#8217;information du 19 Mars 2018.</div>
+<div>&#8211; prochaine séance d&#8217;information: <strong>lundi 18 mars 2019 à 17:15</strong> (sous-sol Uni Pignon)</div>
+<hr />
+<h1 style="display: block; clear: both;">A la une</h1>
+<div class="row">
+<div class="span7" style="text-align: left;"><iframe src="https://www.youtube.com/embed/_FAaX5rNXxc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="span5" style="text-align: left;">
+<h3 id="admission">Prochain délai d&#8217;admission</h3>
+<p><strong>Admission au Master MALTT Rentrée 2019</strong><br />
+Envoyez votre dossier avant le <strong>1er Juillet 2019</strong> pour les étudiants de l&#8217;UNIGE, <strong>30 avril</strong> pour les nouveaux immatriculés (<a href="http://tecfalabs.unige.ch/maltt/futurs-etudiants/admission/">Voir rubrique Admission</a>)</p>
+</div>
+<p><!-- span 12 --></p>
+</div>
+<div class="row">
+<div class="span12" style="text-align: justify;">
+<h3 id="soutenances">Soutenances de mémoires du Master MALTT &#8211; Session Janvier-Février 2019</h3>
+<p>En l&#8217;absence d&#8217;indication contraire, les soutenances ont lieu dans la salle Pignon S01. Elles sont publiques.</p>
+<ul>
+<li>Mercredi 23 janvier 2019, 16h, Brigitte Steiner <em>Représentations visuelles et multimédia dans l ’ apprentissage des tons lexicaux chinois</em> Dir. : M. Bétrancourt et M. Fritz</li>
+<li>Vendredi 25 janvier, 14h00, Chiara Sirna<em> La complémentarité des modèles d’appropriation et d’acceptation des technologies dans l’analyse d’usage d’un dispositif techno-pédagogique.</em> Dir. : K. Benetos</li>
+</ul>
+</div>
+<p><!-- span 4 --></p>
+</div>
+<p><!-- row --></p>
+</div></div></div></article><div class="clear"></div></div></section>					</div>
+				</div>
+
+							</div>
+					</div>
+</div></div></div></section>				</div>
+								<div id="morefoot_area" class="container-group">
+									</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+
+	<footer id="footer" class="container-group">
+		<div class="outline fix">
+		
+
+<!-- Simple Nav | Section Template -->
+<section id="simple_nav" class="container clone_1 section-simple_nav fix"><div class="texture"><div class="content"><div class="content-pad"><ul id="simple_nav_fallback" class="inline-list simplenav font-sub"><li class="page_item page-item-31 page_item_has_children current_page_ancestor current_page_parent"><a href="https://tecfalabs.unige.ch/maltt/master/">Accueil</a></li>
+<li class="page_item page-item-306 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/futurs-etudiants/">Futurs étudiants</a></li>
+<li class="page_item page-item-329 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/programme/">Programme</a></li>
+<li class="page_item page-item-439"><a href="https://tecfalabs.unige.ch/maltt/enseignants-et-collaborateurs/">Enseignants et collaborateurs</a></li>
+<li class="page_item page-item-107"><a href="https://tecfalabs.unige.ch/maltt/debouches/">Débouchés</a></li>
+<li class="page_item page-item-468 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/informations-pratiques/">Infos pratiques</a></li>
+<li class="page_item page-item-367 page_item_has_children"><a href="https://tecfalabs.unige.ch/maltt/alumni/">Anciens étudiants</a></li>
+</ul></div></div></div></section><div id="cred" class="pagelines" style="display: block; visibility: visible;"><a class="plimage" target="_blank" href="http://www.pagelines.com" title="Build a website with PageLines"><img src="https://tecfalabs.unige.ch/maltt/wp-content/themes/pagelines/images/pagelines.png" alt="Build a website with PageLines" /></a></div><div class="clear"></div>		</div>
+	</footer>
+</div>
+
+<!-- Footer Scripts -->
+<script type='text/javascript' src='https://tecfalabs.unige.ch/maltt/wp-content/themes/pagelines/js/script.bootstrap.min.js?ver=2.3.1'></script>
+<script type='text/javascript' src='https://tecfalabs.unige.ch/maltt/wp-content/themes/pagelines/js/script.blocks.js?ver=1.0.1'></script>
+<script type='text/javascript' src='https://tecfalabs.unige.ch/maltt/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+</body>
+</html>

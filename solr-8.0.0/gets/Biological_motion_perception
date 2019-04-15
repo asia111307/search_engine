@@ -1,0 +1,2140 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biological motion perception - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Biological_motion_perception","wgTitle":"Biological motion perception","wgCurRevisionId":883790423,"wgRevisionId":883790423,"wgArticleId":42938624,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Perception","Cognition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Biological_motion_perception","wgRelevantArticleId":42938624,"wgRequestId":"XLAkegpAIDEAALF3aVwAAACU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q18205552","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Biological_motion_perception"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Biological_motion_perception&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Biological_motion_perception&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Biological_motion_perception"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Biological_motion_perception rootpage-Biological_motion_perception skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Biological motion perception</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+<b>Biological motion perception</b> is the act of perceiving the fluid unique motion of a biological agent.  The phenomenon was first documented by Swedish perceptual psychologist, Gunnar Johansson, in 1973.<sup id="cite_ref-Johansson1973_1-0" class="reference"><a href="#cite_note-Johansson1973-1">&#91;1&#93;</a></sup>  There are many <a href="/wiki/Brain" title="Brain">brain</a> areas involved in this process, some similar to those used to perceive <a href="/wiki/Face" title="Face">faces</a>. While humans complete this process with ease, from a <a href="/wiki/Computational_neuroscience" title="Computational neuroscience">computational neuroscience</a> perspective there is still much to be learned as to how this complex perceptual problem is solved. One tool which many research studies in this area use is a display <a href="/wiki/Stimulus_(physiology)" title="Stimulus (physiology)">stimuli</a> called a point light walker. Point light walkers are coordinated moving dots that simulate biological motion in which each dot represents specific joints of a human performing an action.
+</p><p>Currently a large topic of research, many different models of biological motion/perception have been proposed. The following models have shown that both <a href="/wiki/Visual_appearance" title="Visual appearance">form</a> and <a href="/wiki/Motion_(physics)" class="mw-redirect" title="Motion (physics)">motion</a> are important components of biological motion perception. However, to what extent each of the components play is contrasted upon the models.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Neuroanatomy"><span class="tocnumber">1</span> <span class="toctext">Neuroanatomy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Single_Cell_Recording"><span class="tocnumber">1.1</span> <span class="toctext">Single Cell Recording</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Neuroimaging"><span class="tocnumber">1.2</span> <span class="toctext">Neuroimaging</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Neuropsychological_Damage"><span class="tocnumber">1.3</span> <span class="toctext">Neuropsychological Damage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Biological_Motion_Perception_Models"><span class="tocnumber">2</span> <span class="toctext">Biological Motion Perception Models</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Cognitive_Model_of_Biological_Motion_Form_(Lange_&amp;_Lappe,_2006)[14]"><span class="tocnumber">2.1</span> <span class="toctext">Cognitive Model of Biological Motion Form (Lange &amp; Lappe, 2006)<sup>&#91;14&#93;</sup></span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Background"><span class="tocnumber">2.1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Model"><span class="tocnumber">2.1.2</span> <span class="toctext">Model</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Action_Recognition_by_Motion_Detection_in_Posture_Space_(Theusner,_Lussanet,_and_Lappe,_2014)"><span class="tocnumber">2.2</span> <span class="toctext">Action Recognition by Motion Detection in Posture Space (Theusner, Lussanet, and Lappe, 2014)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Overview"><span class="tocnumber">2.2.1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Posture_Model"><span class="tocnumber">2.2.2</span> <span class="toctext">Posture Model</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Motion_Model"><span class="tocnumber">2.2.3</span> <span class="toctext">Motion Model</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Critical_Features_for_the_Recognition_of_Biological_Motion_(Casille_and_Giese,_2005)"><span class="tocnumber">2.3</span> <span class="toctext">Critical Features for the Recognition of Biological Motion (Casille and Giese, 2005)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Statistical_Analysis_and_Psychophysical_Experiments"><span class="tocnumber">2.3.1</span> <span class="toctext">Statistical Analysis and Psychophysical Experiments</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Model_2"><span class="tocnumber">2.3.2</span> <span class="toctext">Model</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Testing_the_model"><span class="tocnumber">2.3.3</span> <span class="toctext">Testing the model</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Neuroanatomy">Neuroanatomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=1" title="Edit section: Neuroanatomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Research in this area seeks to identify the specific brain regions or circuits responsible for processing the information which the <a href="/wiki/Visual_system" title="Visual system">visual system</a> perceives in the world. And in this case, specifically recognizing motion created by biological agents.
+</p>
+<h3><span class="mw-headline" id="Single_Cell_Recording">Single Cell Recording</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=2" title="Edit section: Single Cell Recording">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The most precise research is done using <a href="/wiki/Single-unit_recording" title="Single-unit recording">single-cell recordings</a> in the primate brain. This research has yielded areas important to motion perception in primates such as area MT (middle <a href="/wiki/Temporal_lobe" title="Temporal lobe">temporal</a> <a href="/wiki/Visual_cortex" title="Visual cortex">visual</a> area), also referred to as V5, and area MST (<a href="/wiki/Medial_superior_temporal_area" title="Medial superior temporal area">medial superior temporal area</a>). These areas contain cells characterized as direction cells, expansion/contraction cells, and rotation cells, which react to certain classes of movement.<sup id="cite_ref-Born_R.,_Bradley_D._2-0" class="reference"><a href="#cite_note-Born_R.,_Bradley_D.-2">&#91;2&#93;</a></sup><sup id="cite_ref-Tanaka_and_Saito_3-0" class="reference"><a href="#cite_note-Tanaka_and_Saito-3">&#91;3&#93;</a></sup><sup id="cite_ref-van_Essen_and_Gallant_4-0" class="reference"><a href="#cite_note-van_Essen_and_Gallant-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Neuroimaging">Neuroimaging</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=3" title="Edit section: Neuroimaging">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Additionally, research on human participants is being conducted as well. While single-cell recording is not conducted on humans, this research uses <a href="/wiki/Neuroimaging" title="Neuroimaging">neuroimaging</a> methods such as <a href="/wiki/Functional_magnetic_resonance_imaging" title="Functional magnetic resonance imaging">fMRI</a>, <a href="/wiki/Positron_emission_tomography" title="Positron emission tomography">PET</a>, <a href="/wiki/Electroencephalography" title="Electroencephalography">EEG</a>/<a href="/wiki/Event-related_potential" title="Event-related potential">ERP</a> to collect information on what brain areas become active when executing biological motion perception tasks, such as viewing point light walker stimuli. Areas uncovered from this type of research are the dorsal visual pathway, <a href="/wiki/Extrastriate_body_area" title="Extrastriate body area">extrastriate body area</a>, <a href="/wiki/Fusiform_gyrus" title="Fusiform gyrus">fusiform gyrus</a>, <a href="/wiki/Superior_temporal_sulcus" title="Superior temporal sulcus">superior temporal sulcus</a>, and <a href="/wiki/Premotor_cortex" title="Premotor cortex">premotor cortex</a>. The <a href="/wiki/Two-streams_hypothesis" title="Two-streams hypothesis">dorsal visual pathway</a> (sometimes referred to as the “where” pathway), as contrasted with the <a href="/wiki/Two-streams_hypothesis" title="Two-streams hypothesis">ventral visual pathway</a> (“what” pathway), has been shown to play a significant role in the perception of motion cues. While the ventral pathway is more responsible for form cues.<sup id="cite_ref-Grossman_et_al_5-0" class="reference"><a href="#cite_note-Grossman_et_al-5">&#91;5&#93;</a></sup><sup id="cite_ref-Ptito_et_al_6-0" class="reference"><a href="#cite_note-Ptito_et_al-6">&#91;6&#93;</a></sup><sup id="cite_ref-Downing_et_al_7-0" class="reference"><a href="#cite_note-Downing_et_al-7">&#91;7&#93;</a></sup><sup id="cite_ref-Hadjikhani_and_Gelder_8-0" class="reference"><a href="#cite_note-Hadjikhani_and_Gelder-8">&#91;8&#93;</a></sup><sup id="cite_ref-Saygin_9-0" class="reference"><a href="#cite_note-Saygin-9">&#91;9&#93;</a></sup><sup id="cite_ref-Saygin_et_al_10-0" class="reference"><a href="#cite_note-Saygin_et_al-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Neuropsychological_Damage">Neuropsychological Damage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=4" title="Edit section: Neuropsychological Damage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Valuable information can also be learned from cases where a patient has suffered from some sort of <a href="/wiki/Neurology" title="Neurology">neurological</a> damage and consequently loses certain functionalities of neural processing. One patient with bilateral <a href="/wiki/Lesion" title="Lesion">lesions</a> that included the human homologue of area MT, lost their ability to see biological motion when the stimulus was embedded in noise, a task which the average observer is able to complete. Another study on <a href="/wiki/Stroke" title="Stroke">stroke</a> patients sustaining lesions to their superior temporal and premotor <a href="/wiki/Frontal_lobe" title="Frontal lobe">frontal</a> areas showed deficits in their processing of biological motion stimuli, thereby implicating these areas as important to that perception process. A <a href="/wiki/Case_study" title="Case study">case study</a> conducted on a patient with bilateral lesions involving the posterior <a href="/wiki/Visual_cortex" title="Visual cortex">visual pathways</a> and effecting the lateral <a href="/wiki/Parietal-temporal-occipital" title="Parietal-temporal-occipital">parietal-temporal-occipital</a> cortex struggled with early motion tasks, and yet was able to perceive the biological motion of a point light walker, a higher-order task. This may be due to the fact that area V3B and area KO were still intact, suggesting their possible roles in biological motion perception.<sup id="cite_ref-Vaina_et_al_11-0" class="reference"><a href="#cite_note-Vaina_et_al-11">&#91;11&#93;</a></sup><sup id="cite_ref-Saygin2_12-0" class="reference"><a href="#cite_note-Saygin2-12">&#91;12&#93;</a></sup><sup id="cite_ref-Vaina_and_Giese_13-0" class="reference"><a href="#cite_note-Vaina_and_Giese-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biological_Motion_Perception_Models">Biological Motion Perception Models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=5" title="Edit section: Biological Motion Perception Models">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Cognitive_Model_of_Biological_Motion_Form_.28Lange_.26_Lappe.2C_2006.29.5B14.5D"></span><span class="mw-headline" id="Cognitive_Model_of_Biological_Motion_Form_(Lange_&amp;_Lappe,_2006)[14]">Cognitive Model of Biological Motion Form (Lange &amp; Lappe, 2006)<sup id="cite_ref-Lange_and_Lappe_14-0" class="reference"><a href="#cite_note-Lange_and_Lappe-14">&#91;14&#93;</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=6" title="Edit section: Cognitive Model of Biological Motion Form (Lange &amp; Lappe, 2006)[14]">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=7" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The relative roles of form cues compared to motion cues in the process of perceiving biological motion is unclear. Previous research has not untangled the circumstances under which local motion cues are needed or only additive. This model looks at how form-only cues can replicate psychophysical results of biological motion perception.
+</p>
+<h4><span class="mw-headline" id="Model">Model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=8" title="Edit section: Model">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Template Creation</i>
+</p><p>Same as below. See 2.2.2 Template Generation
+</p><p><i>Stage 1</i>
+</p><p>The first stage compares stimulus images to the assumed library of upright human walker templates in memory. Each dot in a given stimulus frame is compared to the nearest limb location on a template and these combined, weighted distances are outputted by the function:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F_{tc}(t)=\sum _{i=1}^{n}e^{\left({\frac {(\mu _{tc}-p_{i}(t))^{2}}{2X\sigma }}\right)}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mi>c</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow>
+              <mo>(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mrow>
+                    <mo stretchy="false">(</mo>
+                    <msub>
+                      <mi>&#x03BC;<!-- μ --></mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>t</mi>
+                        <mi>c</mi>
+                      </mrow>
+                    </msub>
+                    <mo>&#x2212;<!-- − --></mo>
+                    <msub>
+                      <mi>p</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>i</mi>
+                      </mrow>
+                    </msub>
+                    <mo stretchy="false">(</mo>
+                    <mi>t</mi>
+                    <mo stretchy="false">)</mo>
+                    <msup>
+                      <mo stretchy="false">)</mo>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>2</mn>
+                      </mrow>
+                    </msup>
+                  </mrow>
+                  <mrow>
+                    <mn>2</mn>
+                    <mi>X</mi>
+                    <mi>&#x03C3;<!-- σ --></mi>
+                  </mrow>
+                </mfrac>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{tc}(t)=\sum _{i=1}^{n}e^{\left({\frac {(\mu _{tc}-p_{i}(t))^{2}}{2X\sigma }}\right)}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/82c65fbd43bc529150f4c5ad9e2f6949d085d7e5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:24.938ex; height:8.509ex;" alt="F_{tc}(t) = \sum_{i=1}^n e^  \left (\frac{(\mu_{tc}-p_i(t))^2}{2X\sigma}\right)"/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p_{i}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{i}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5bab39399bf5424f25d957cdc57c84a0622626d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:2.059ex; height:2.009ex;" alt="p_{i}"/></span> gives the position of a particular stimulus dot and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mu _{tc}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03BC;<!-- μ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mi>c</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu _{tc}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/15491534f58da9ad3c1503c576aebc1f443e0154" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.94ex; height:2.176ex;" alt=" \mu_{tc}"/></span> represents the nearest limb position in the template. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C3;<!-- σ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="\sigma "/></span> represents the size of the receptor field to adjust for the size of the stimulus figure.
+</p><p>The best fitting template was then selected by a <a href="/wiki/Winner-take-all_in_action_selection" title="Winner-take-all in action selection">winner-takes-all</a> mechanism and entered into a <a href="/wiki/Leaky_integrator" title="Leaky integrator">leaky integrator</a>:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau {\frac {\delta u_{1,2}(t)}{\delta t}}=-u_{1,2}+i_{1,2}+w_{+}f(u_{1,2}(t))-w_{-}f(u_{2,1}(t))}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C4;<!-- τ --></mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>&#x03B4;<!-- δ --></mi>
+              <msub>
+                <mi>u</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                  <mo>,</mo>
+                  <mn>2</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>&#x03B4;<!-- δ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>u</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>i</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>+</mo>
+          </mrow>
+        </msub>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>u</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+          </mrow>
+        </msub>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>u</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+            <mo>,</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tau {\frac {\delta u_{1,2}(t)}{\delta t}}=-u_{1,2}+i_{1,2}+w_{+}f(u_{1,2}(t))-w_{-}f(u_{2,1}(t))}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e7a6ed28c1d2463b60e0564864e01d7fcc66537" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:54.776ex; height:5.843ex;" alt="\tau \frac{\delta u_{1,2}(t)}{\delta t} = -u_{1,2}+i_{1,2}+w_+f(u_{1,2}(t))- w_-f(u_{2,1}(t)) "/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle w_{+}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>+</mo>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle w_{+}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2a5ce193ef0e1aa829e596a82f8f9202f532661" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.175ex; height:2.009ex;" alt="w_+"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle w_{-}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle w_{-}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dbd80f73b5607e88986cce94c764620b7b7d1d22" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.175ex; height:2.009ex;" alt="w_-"/></span> are the weights for lateral excitation and inhibition, respectively, and the activities <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle u_{1,2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>u</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle u_{1,2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5fa90ad5261f5bbedc8dd1e25ae0bec3a2f3c4dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:3.663ex; height:2.343ex;" alt="u_{1,2}"/></span> provide the left/right decision for which direction the stimulus is facing.
+</p><p><i>Stage 2</i>
+</p><p>The second stage attempts to use the <a href="/wiki/Temporality" title="Temporality">temporal</a> order of the stimulus frames to change the expectations of what frame would be coming next. The equation
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau {\frac {\delta v_{1,2}(t)}{\delta t}}=-v_{1,2}(t)+w_{m,n}u(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C4;<!-- τ --></mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>&#x03B4;<!-- δ --></mi>
+              <msub>
+                <mi>v</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                  <mo>,</mo>
+                  <mn>2</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>&#x03B4;<!-- δ --></mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo>,</mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mi>u</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tau {\frac {\delta v_{1,2}(t)}{\delta t}}=-v_{1,2}(t)+w_{m,n}u(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e3c33f5458d9c1bec4db9c777309e3f815462ed1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:31.815ex; height:5.843ex;" alt="\tau \frac{\delta v_{1,2}(t)}{\delta t} = -v_{1,2}(t) + w_{m,n}u(t) "/></span></dd></dl></dd></dl>
+<p>takes into account <a href="/wiki/Top-down_and_bottom-up_design" title="Top-down and bottom-up design">bottom-up</a> input from stage 1 <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (u)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (u)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56442c1765ba0e1bb2be23486a2b5d8e053a7d7d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.139ex; height:2.843ex;" alt="(u)"/></span>, the activities in decision stage 2 for the possible responses <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (v_{1,2})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (v_{1,2})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c52ebc9cb35652f81ecbc8f1998e0c6b5022cf63" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:5.271ex; height:3.009ex;" alt="(v_{1,2})"/></span>, and weights the difference between selected frame <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"/></span> and previous frame <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;" alt="m"/></span>.
+</p><p><i>Implications</i>
+</p><p>This model highlights the abilities of form-related cues to detect biological motion and orientation in a neurologically feasible model. The results of the Stage 1 model showed that all behavioral data could be replicated by using form information alone - global motion information was not necessary to detect figures and their orientation. This model shows the possibility of the use of form cues, but can be criticized for a lack of <a href="/wiki/Ecological_validity" title="Ecological validity">ecological validity</a>. Humans do not detect biological figures in static environments and motion is an inherent aspect in upright figure recognition.
+</p>
+<h3><span id="Action_Recognition_by_Motion_Detection_in_Posture_Space_.28Theusner.2C_Lussanet.2C_and_Lappe.2C_2014.29"></span><span class="mw-headline" id="Action_Recognition_by_Motion_Detection_in_Posture_Space_(Theusner,_Lussanet,_and_Lappe,_2014)">Action Recognition by Motion Detection in Posture Space (Theusner, Lussanet, and Lappe, 2014)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=9" title="Edit section: Action Recognition by Motion Detection in Posture Space (Theusner, Lussanet, and Lappe, 2014)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=10" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Old models of <a href="/wiki/Biological_motion" title="Biological motion">biological motion</a> <a href="/wiki/Motion_perception" title="Motion perception">perception</a> are concerned with <a href="/wiki/Optical_motion_tracking" class="mw-redirect" title="Optical motion tracking">tracking</a> joint and limb motion relative to one another over time.<sup id="cite_ref-Johansson1973_1-1" class="reference"><a href="#cite_note-Johansson1973-1">&#91;1&#93;</a></sup> However, recent experiments in biological motion perception have suggested that motion information is unimportant for action recognition.<sup id="cite_ref-Beintema&amp;Lappe2002_15-0" class="reference"><a href="#cite_note-Beintema&amp;Lappe2002-15">&#91;15&#93;</a></sup> This model shows how biological motion may be perceived from sequences of <a href="/wiki/Posture_(psychology)" title="Posture (psychology)">posture</a> recognition, rather than from the direct perception of motion information. An experiment was conducted to test the validity of this model, in which subjects are presented moving point-light and stick-figure walking <a href="/wiki/Stimulus_(psychology)" title="Stimulus (psychology)">stimuli</a>. Each frame of the walking stimulus is matched to a posture template, the progression of which is recorded on a 2D posture–time <a href="/wiki/Plot_(graphics)" title="Plot (graphics)">plot</a> that implies motion recognition.
+</p>
+<h4><span class="mw-headline" id="Posture_Model">Posture Model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=11" title="Edit section: Posture Model">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Template Generation</i>
+</p><p>Posture templates for stimulus matching were constructed with motion tracking data from nine people walking.<sup id="cite_ref-Beintema2006_16-0" class="reference"><a href="#cite_note-Beintema2006-16">&#91;16&#93;</a></sup> <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">3D coordinates</a> of the twelve major joints (feet, knees, hips, hands, elbows, and shoulders) were tracked and <a href="/wiki/Interpolation" title="Interpolation">interpolated</a> between to generate limb motion. Five sets of 2D projections were created: leftward, frontward, rightward, and the two 45° intermediate orientations. Finally, projections of the nine walkers were <a href="/wiki/Normalization_(statistics)" title="Normalization (statistics)">normalized</a> for walking speed (1.39 seconds at 100 frames per cycle), height, and hip location in posture space. One of the nine walkers was chosen as the walking stimulus, and the remaining eight were kept as templates for matching.
+</p><p><i>Template Matching</i>
+</p><p>Template matching is computed by simulating posture selective <a href="/wiki/Artificial_neuron" title="Artificial neuron">neurons</a> as described by <sup id="cite_ref-Lange&amp;Lappe2006_17-0" class="reference"><a href="#cite_note-Lange&amp;Lappe2006-17">&#91;17&#93;</a></sup> A neuron is excited by similarity to a static frame of the walker stimulus. For this experiment, 4,000 neurons were generated (8 walkers times 100 frames per cycle times 5 2D projections). A neuron's similarity to a frame of the stimulus is calculated as follows:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R_{\psi }(t)=\sum _{i=1}^{N}\exp \left(-{\frac {\left|(x_{i}(t),y_{i}(t))-(\mathrm {X} _{i},_{\psi },\mathrm {P} _{i},_{\psi })\right\vert ^{2}}{2\cdot \sigma }}\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>N</mi>
+          </mrow>
+        </munderover>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <msup>
+                  <mrow>
+                    <mo>|</mo>
+                    <mrow>
+                      <mo stretchy="false">(</mo>
+                      <msub>
+                        <mi>x</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>i</mi>
+                        </mrow>
+                      </msub>
+                      <mo stretchy="false">(</mo>
+                      <mi>t</mi>
+                      <mo stretchy="false">)</mo>
+                      <mo>,</mo>
+                      <msub>
+                        <mi>y</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>i</mi>
+                        </mrow>
+                      </msub>
+                      <mo stretchy="false">(</mo>
+                      <mi>t</mi>
+                      <mo stretchy="false">)</mo>
+                      <mo stretchy="false">)</mo>
+                      <mo>&#x2212;<!-- − --></mo>
+                      <mo stretchy="false">(</mo>
+                      <msub>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi mathvariant="normal">X</mi>
+                        </mrow>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>i</mi>
+                        </mrow>
+                      </msub>
+                      <msub>
+                        <mo>,</mo>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>&#x03C8;<!-- ψ --></mi>
+                        </mrow>
+                      </msub>
+                      <mo>,</mo>
+                      <msub>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi mathvariant="normal">P</mi>
+                        </mrow>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>i</mi>
+                        </mrow>
+                      </msub>
+                      <msub>
+                        <mo>,</mo>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>&#x03C8;<!-- ψ --></mi>
+                        </mrow>
+                      </msub>
+                      <mo stretchy="false">)</mo>
+                    </mrow>
+                    <mo>|</mo>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msup>
+                <mrow>
+                  <mn>2</mn>
+                  <mo>&#x22C5;<!-- ⋅ --></mo>
+                  <mi>&#x03C3;<!-- σ --></mi>
+                </mrow>
+              </mfrac>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R_{\psi }(t)=\sum _{i=1}^{N}\exp \left(-{\frac {\left|(x_{i}(t),y_{i}(t))-(\mathrm {X} _{i},_{\psi },\mathrm {P} _{i},_{\psi })\right\vert ^{2}}{2\cdot \sigma }}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e40d16854649ea780012432f71a4ddef69fb5ed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:52.272ex; height:7.509ex;" alt="{\displaystyle R_{\psi }(t)=\sum _{i=1}^{N}\exp \left(-{\frac {\left|(x_{i}(t),y_{i}(t))-(\mathrm {X} _{i},_{\psi },\mathrm {P} _{i},_{\psi })\right\vert ^{2}}{2\cdot \sigma }}\right)}"/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (x_{i},y_{i})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (x_{i},y_{i})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6dbb919b91ccacf17ed47898048428a1baf9703" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.912ex; height:2.843ex;" alt="(x_{i},y_{i})"/></span> describe a stimulus point and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (c_{i},r_{i})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (c_{i},r_{i})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46c4b58e7117c23425aa5b716d9be6243a71a552" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.498ex; height:2.843ex;" alt="(c_i, r_i)"/></span> describe the limb location at time <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="t"/></span>; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \psi }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C8;<!-- ψ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \psi }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.513ex; height:2.509ex;" alt="\psi "/></span> describes the preferred posture; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;" alt="R"/></span> describes a neuron's response to a stimulus of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle N}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;" alt="N"/></span> points; and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sigma }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C3;<!-- σ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="\sigma "/></span> describes limb width.
+</p><p><i>Response Simulation</i>
+</p><p>The neuron most closely resembling the posture of the walking stimulus changes over time. The neural activation pattern can be graphed in a 2D plot, called a posture-time plot. Along the x axis, templates are sorted chronologically according to a forward walking pattern. Time progresses along the y axis with the beginning corresponding to the origin. The perception of forward walking motion is represented as a line with a positive <a href="/wiki/Slope" title="Slope">slope</a> from the origin, while backward walking is conversely represented as a line with a negative slope.
+</p>
+<h4><span class="mw-headline" id="Motion_Model">Motion Model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=12" title="Edit section: Motion Model">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Motion Detection in Posture Space</i>
+</p><p>The posture-time plots used in this model follow the established space-time plots used for describing object motion.<sup id="cite_ref-Adelson&amp;Bergen1985_18-0" class="reference"><a href="#cite_note-Adelson&amp;Bergen1985-18">&#91;18&#93;</a></sup> Space-time plots with time at the y axis and the spatial dimension at the x axis, define <a href="/wiki/Velocity" title="Velocity">velocity</a> of an object by the slope of the line. Information about an object's motion can be detected by spatio-temporal <a href="/wiki/Filter_(higher-order_function)" title="Filter (higher-order function)">filters</a>.<sup id="cite_ref-Rechardt1957_19-0" class="reference"><a href="#cite_note-Rechardt1957-19">&#91;19&#93;</a></sup><sup id="cite_ref-vanSanten&amp;Sperling1984_20-0" class="reference"><a href="#cite_note-vanSanten&amp;Sperling1984-20">&#91;20&#93;</a></sup> In this biological motion model, motion is detected similarly but replaces the spatial dimension for posture space along the x axis, and body motion is detected by using posturo-temporal filters rather than spatio-temporal filters.
+</p><p><i>Posturo-Temporal Filters</i>
+</p><p>Neural responses are first normalized as described by <sup id="cite_ref-Simoncelli&amp;Heeger1998_21-0" class="reference"><a href="#cite_note-Simoncelli&amp;Heeger1998-21">&#91;21&#93;</a></sup>
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \nu _{\psi }(t)={\frac {R_{\psi }(t)-{\bar {R}}}{\bar {R}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03BD;<!-- ν --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>R</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>&#x03C8;<!-- ψ --></mi>
+                </mrow>
+              </msub>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+              <mo>&#x2212;<!-- − --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>R</mi>
+                    <mo stretchy="false">&#x00AF;<!-- ¯ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>R</mi>
+                <mo stretchy="false">&#x00AF;<!-- ¯ --></mo>
+              </mover>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \nu _{\psi }(t)={\frac {R_{\psi }(t)-{\bar {R}}}{\bar {R}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c4d3ac8e0a08b7e5bfb1759d7667abca72c65d8e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:19.354ex; height:6.509ex;" alt="\nu_\psi(t) = \frac{R_\psi(t) - \bar{R}}{\bar{R}}"/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R_{y}(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R_{y}(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f3d5da2d38022c732917124cd7a2c7c68713147" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:5.462ex; height:3.009ex;" alt="R_y(t)"/></span> describes the neural response; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle _{\psi }}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle _{\psi }}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a70961f7a1a5bba5c4c76026ef13847da027f828" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:1.302ex; height:2.009ex;" alt="_\psi"/></span> describes the preferred posture at time <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="t"/></span>; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\bar {R}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>R</mi>
+              <mo stretchy="false">&#x00AF;<!-- ¯ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\bar {R}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/771ade41bcd0ef92e246bb14daeb44dc41a447b9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.764ex; height:2.509ex;" alt="{\bar {R}}"/></span> describes the mean neural response over all neurons over <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="t"/></span>; and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle n_{y}(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>n</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n_{y}(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e70b7e85f5e8576e94f43ebb0a333089fc0a21a6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:5.093ex; height:3.009ex;" alt="n_y(t)"/></span> describes the normalized response. The filters are defined for forward and backward walking (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle g^{f},g^{b}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>f</mi>
+          </mrow>
+        </msup>
+        <mo>,</mo>
+        <msup>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>b</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle g^{f},g^{b}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4999d4ecb0b98d6177244a7d3bc5551a920c38a6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.344ex; height:3.009ex;" alt="g^f, g^b"/></span> respectively). The response of the posturo-temporal filter is described
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{\psi }(\tau )=\sum _{t=0ms}^{\tau }\sum _{p=1}^{100}g_{\tau ,\psi }(t,p)\cdot \nu _{\psi }(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C4;<!-- τ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>=</mo>
+            <mn>0</mn>
+            <mi>m</mi>
+            <mi>s</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C4;<!-- τ --></mi>
+          </mrow>
+        </munderover>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>100</mn>
+          </mrow>
+        </munderover>
+        <msub>
+          <mi>g</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C4;<!-- τ --></mi>
+            <mo>,</mo>
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>p</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msub>
+          <mi>&#x03BD;<!-- ν --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{\psi }(\tau )=\sum _{t=0ms}^{\tau }\sum _{p=1}^{100}g_{\tau ,\psi }(t,p)\cdot \nu _{\psi }(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e19d8236274cfe369e34af74ef8640e2b4ccee9d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:32.847ex; height:7.676ex;" alt="r_\psi(\tau) = \sum_{t=0ms}^\tau \sum_{p=1}^{100} g_{\tau, \psi} (t, p) \sdot \nu_\psi(t)"/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;" alt="r"/></span> is the response of the filter at time <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C4;<!-- τ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tau }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.202ex; height:1.676ex;" alt="\tau "/></span>; and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;" alt="p"/></span> describes the posture dimension. The response of the filter is normalized by
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle N_{\psi }(\tau )=\max \left[\left({\frac {r_{\psi }(\tau )}{\sum _{t}\sum _{p}g_{\tau ,\psi }(t,p)^{2}}}\right),0\right]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C4;<!-- τ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo movablelimits="true" form="prefix">max</mo>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mrow>
+              <mo>(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mrow>
+                    <msub>
+                      <mi>r</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>&#x03C8;<!-- ψ --></mi>
+                      </mrow>
+                    </msub>
+                    <mo stretchy="false">(</mo>
+                    <mi>&#x03C4;<!-- τ --></mi>
+                    <mo stretchy="false">)</mo>
+                  </mrow>
+                  <mrow>
+                    <munder>
+                      <mo>&#x2211;<!-- ∑ --></mo>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>t</mi>
+                      </mrow>
+                    </munder>
+                    <munder>
+                      <mo>&#x2211;<!-- ∑ --></mo>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>p</mi>
+                      </mrow>
+                    </munder>
+                    <msub>
+                      <mi>g</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>&#x03C4;<!-- τ --></mi>
+                        <mo>,</mo>
+                        <mi>&#x03C8;<!-- ψ --></mi>
+                      </mrow>
+                    </msub>
+                    <mo stretchy="false">(</mo>
+                    <mi>t</mi>
+                    <mo>,</mo>
+                    <mi>p</mi>
+                    <msup>
+                      <mo stretchy="false">)</mo>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>2</mn>
+                      </mrow>
+                    </msup>
+                  </mrow>
+                </mfrac>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mo>,</mo>
+            <mn>0</mn>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N_{\psi }(\tau )=\max \left[\left({\frac {r_{\psi }(\tau )}{\sum _{t}\sum _{p}g_{\tau ,\psi }(t,p)^{2}}}\right),0\right]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8bbd395f5bc6ce139cca9cd5c1ac6262e252ee24" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:40.994ex; height:7.509ex;" alt="N_\psi(\tau) = \max \left [ \left ( \frac{r_\psi(\tau)}{\sum_t \sum_p g_{\tau, \psi} (t, p)^2} \right ), 0 \right ]"/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle N}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;" alt="N"/></span> describes the response of the neuron selecting body motion. Finally, body motion is calculated by
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varepsilon _{\psi }(\tau )=N_{\psi }^{F}(\tau )^{2}-N_{\psi }^{B}(\tau )^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B5;<!-- ε --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C4;<!-- τ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msubsup>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>F</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C4;<!-- τ --></mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <msubsup>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03C8;<!-- ψ --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C4;<!-- τ --></mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varepsilon _{\psi }(\tau )=N_{\psi }^{F}(\tau )^{2}-N_{\psi }^{B}(\tau )^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7de2acbfd055f9996fe5281932dfc8f537508bee" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.338ex; width:26.655ex; height:3.676ex;" alt="\varepsilon_\psi(\tau) = N_\psi^F(\tau)^2 - N_\psi^B(\tau)^2"/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varepsilon }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B5;<!-- ε --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varepsilon }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a30c89172e5b88edbd45d3e2772c7f5e562e5173" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;" alt="\varepsilon "/></span> describes body motion energy.
+</p>
+<h3><span id="Critical_Features_for_the_Recognition_of_Biological_Motion_.28Casille_and_Giese.2C_2005.29"></span><span class="mw-headline" id="Critical_Features_for_the_Recognition_of_Biological_Motion_(Casille_and_Giese,_2005)">Critical Features for the Recognition of Biological Motion (Casille and Giese, 2005)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=13" title="Edit section: Critical Features for the Recognition of Biological Motion (Casille and Giese, 2005)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Statistical_Analysis_and_Psychophysical_Experiments">Statistical Analysis and Psychophysical Experiments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=14" title="Edit section: Statistical Analysis and Psychophysical Experiments">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The following model suggests that biological motion recognition could be accomplished through the extraction of a single critical feature: dominant local <a href="/wiki/Optical_flow" title="Optical flow">optic flow</a> motion. These following assumptions were brought about from results of both statistical analysis and <a href="/wiki/Psychophysics" title="Psychophysics">psychophysical</a> experiments.<sup id="cite_ref-Casile2005_22-0" class="reference"><a href="#cite_note-Casile2005-22">&#91;22&#93;</a></sup>
+</p><p>First, <a href="/wiki/Principal_component_analysis" title="Principal component analysis">Principal component analysis</a> was done on full body <a href="/wiki/2d_computer_graphics" class="mw-redirect" title="2d computer graphics">2d</a> walkers and point light walkers. The analysis found that dominant local optic flow features are very similar in both full body 2d stimuli and point light walkers (Figure 1).<sup id="cite_ref-Casile2005_22-1" class="reference"><a href="#cite_note-Casile2005-22">&#91;22&#93;</a></sup> Since subjects can recognize biological motion upon viewing a point light walker, then the similarities between these two stimuli may highlight critical features needed for biological motion recognition.
+</p><p>Through psychophysical experiments, it was found that <a href="/wiki/Human_subject_research" title="Human subject research">subjects</a> could recognize biological motion using a CFS <a href="/wiki/Stimulus_(physiology)" title="Stimulus (physiology)">stimulus</a> which  contained opponent motion in the horizontal direction but randomly moving dots in the horizontal direction (Figure 2).<sup id="cite_ref-Casile2005_22-2" class="reference"><a href="#cite_note-Casile2005-22">&#91;22&#93;</a></sup> Because of the movement of the dots, this stimulus could not be fit to a human <a href="/wiki/Skeleton" title="Skeleton">skeleton</a> model suggesting that biological motion recognition may not heavily rely on form as a critical feature. Also, the psychophysical experiments showed that subjects similarly recognize biological motion for both the CFS stimulus and SPS, a stimulus in which dots of the point light walker were reassigned to different positions within the human body shape for every nth frame thereby highlights the importance of form vs the motion (Fig.1.).<sup id="cite_ref-Beintema2002_23-0" class="reference"><a href="#cite_note-Beintema2002-23">&#91;23&#93;</a></sup> The results of the following psychophysical experiments show that motion is a critical feature that could be used to recognize biological motion.
+</p><p>The following statistical analysis and psychophysical experiments highlight the importance of dominant local motion patterns in biological motion recognition.Furthermore, due to the ability of subjects to recognize biological motion given the CFS stimulus, it is postulated that <a href="/wiki/Horizontal_plane" class="mw-redirect" title="Horizontal plane">horizontal</a> opponent motion and coarse positional information is important for recognition of biological motion.
+</p>
+<h4><span class="mw-headline" id="Model_2">Model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=15" title="Edit section: Model">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The following model contains detectors modeled from existing neurons that extracts motion features with increasing complexity. (Figure 4).<sup id="cite_ref-Casile2005_22-3" class="reference"><a href="#cite_note-Casile2005-22">&#91;22&#93;</a></sup>
+</p><p><i>Detectors of Local Motion</i>
+</p><p>These detectors detect different motion directions and are modeled from neurons in monkey V1/2 and area <a href="/wiki/Middle_temporal_gyrus" title="Middle temporal gyrus">MT</a><sup id="cite_ref-Snowden1994_24-0" class="reference"><a href="#cite_note-Snowden1994-24">&#91;24&#93;</a></sup>
+The output of the local motion detectors are the following:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle G_{p}(x)=H(v(x),v_{1},v_{2})\cdot b(\theta ,\theta _{p})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>H</mi>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03B8;<!-- θ --></mi>
+        <mo>,</mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G_{p}(x)=H(v(x),v_{1},v_{2})\cdot b(\theta ,\theta _{p})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/796d772f23e9fbb4f8be8fdd1f12c2d2a5488645" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:32.454ex; height:3.009ex;" alt="G_p(x) = H(v(x),v_1,v_2) \cdot  b(\theta,\theta_p) "/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x"/></span> is the position with preferred direction <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \theta _{p},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \theta _{p},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b2226564c72f8730efa9873a9410ebd3da5e817b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.796ex; height:2.843ex;" alt="\theta_p,"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle v}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>v</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle v}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.128ex; height:1.676ex;" alt="v"/></span>  is the velocity, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \theta }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B8;<!-- θ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \theta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.09ex; height:2.176ex;" alt="\theta "/></span> is the direction, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75a9edddcca2f782014371f75dca39d7e13a9c1b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;" alt="H"/></span> is the rectangular speed tuning function such that
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H(v,v_{1},v_{2})=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo>,</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H(v,v_{1},v_{2})=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dda5fd92db46b53b7e588b512681e20b22b2b790" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.693ex; height:2.843ex;" alt="H(v,v_1,v_2) = 1 "/></span> for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle v_{1}&lt;v&lt;v_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>&lt;</mo>
+        <mi>v</mi>
+        <mo>&lt;</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle v_{1}&lt;v&lt;v_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8b17b1df7ba3da73df190a5b1c0b4bb2ed2e4a3f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.688ex; height:2.176ex;" alt=" v_1 &lt; v &lt; v_2 "/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H(v,v_{1},v_{2})=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo>,</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>v</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H(v,v_{1},v_{2})=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5861835013e00ced6ee1cbb3012b3777c6a563ac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.693ex; height:2.843ex;" alt=" H(v,v_1,v_2) = 0 "/></span> otherwise.</dd></dl></dd></dl>
+<p>The direction-tuning of motion energy detectors are given by
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle b(\theta ,\theta _{p})=\left\{\left({\frac {1}{2}}\right)\left[\ 1+cos(\theta ,\theta _{p})\right]\ \right\}^{q}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03B8;<!-- θ --></mi>
+        <mo>,</mo>
+        <msub>
+          <mi>&#x03B8;<!-- θ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mrow>
+            <mo>{</mo>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                    <mn>1</mn>
+                    <mn>2</mn>
+                  </mfrac>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mrow>
+                <mo>[</mo>
+                <mrow>
+                  <mtext>&#xA0;</mtext>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>c</mi>
+                  <mi>o</mi>
+                  <mi>s</mi>
+                  <mo stretchy="false">(</mo>
+                  <mi>&#x03B8;<!-- θ --></mi>
+                  <mo>,</mo>
+                  <msub>
+                    <mi>&#x03B8;<!-- θ --></mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>p</mi>
+                    </mrow>
+                  </msub>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <mo>]</mo>
+              </mrow>
+              <mtext>&#xA0;</mtext>
+            </mrow>
+            <mo>}</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>q</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b(\theta ,\theta _{p})=\left\{\left({\frac {1}{2}}\right)\left[\ 1+cos(\theta ,\theta _{p})\right]\ \right\}^{q}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/97c6d01212ca0d25061ff42d0f9e0000cca0fbec" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:36.614ex; height:6.176ex;" alt=" b(\theta,\theta_p)=\left\{ \left ( \frac{1}{2} \right ) \left [\ 1 + cos(\theta,\theta_p)\right]\ \right\}^q "/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>q</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.07ex; height:2.009ex;" alt="q"/></span> is a parameter that determines width of direction tuning function. (q=2 for simulation).
+</p><p><i>Neural detectors for opponent motion selection</i>
+</p><p>The following neural detectors are used to detect horizontal and vertical opponent motion due by pooling together the output of previous local motion energy detectors into two adjacent subfields. Local motion detectors that have the same direction preference are combined into the same subfield. These detectors were modeled after neurons sensitive to opponent motion such as the ones in <a href="/wiki/Middle_temporal_gyrus" title="Middle temporal gyrus">MT</a> and <a href="/wiki/Superior_temporal_sulcus" title="Superior temporal sulcus">medial superior temporal (MST)</a>.<sup id="cite_ref-Born2000_25-0" class="reference"><a href="#cite_note-Born2000-25">&#91;25&#93;</a></sup><sup id="cite_ref-Tanaka1989_26-0" class="reference"><a href="#cite_note-Tanaka1989-26">&#91;26&#93;</a></sup> Also, KO/V3B has been associated with processing edges, moving objects, and opponent motion. Patients with damage to dorsal pathway areas but an intact KO/V3B, as seen in patient AF can still perceive biological motion.<sup id="cite_ref-Vaina1990_27-0" class="reference"><a href="#cite_note-Vaina1990-27">&#91;27&#93;</a></sup>
+</p><p>The output for these detectors are the following:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle o_{l}(x)={\sqrt {max(g_{p}(x_{i}))max(g_{r}(x_{j}))}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>o</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mi>m</mi>
+            <mi>a</mi>
+            <mi>x</mi>
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>g</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>x</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+            <mo stretchy="false">)</mo>
+            <mi>m</mi>
+            <mi>a</mi>
+            <mi>x</mi>
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>g</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>r</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>x</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>j</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+            <mo stretchy="false">)</mo>
+          </msqrt>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle o_{l}(x)={\sqrt {max(g_{p}(x_{i}))max(g_{r}(x_{j}))}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dde25335d9cc065ca9f185e9b9e8e584841d6b95" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:35.468ex; height:4.843ex;" alt="o_l(x)=\sqrt{max(g_p(x_i))max(g_r(x_j))}"/></span></dd></dl></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x"/></span> is the position the output is centered at, direction preferences <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;" alt="p"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;" alt="r"/></span>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i,j}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mo>,</mo>
+        <mi>j</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i,j}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4cbf8bbc622154cda8208d6e339495fe16a1f9a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.794ex; height:2.509ex;" alt="i,j"/></span> signify spatial positions of two subfields.
+</p><p>The final output of opponent motion detector is given as
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle o_{l}(x)=max(o_{l}(x_{k}))}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>o</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>m</mi>
+        <mi>a</mi>
+        <mi>x</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>o</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle o_{l}(x)=max(o_{l}(x_{k}))}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8155cea8441d677e8f033549a39f5b3ca85c0937" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.575ex; height:2.843ex;" alt="o_l(x)=max(o_l(x_k))"/></span></dd></dl></dd></dl>
+<p>where output is the pooled responses of detectors of type <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span> at <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x_{k}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x_{k}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d2b88c64c76a03611549fb9b4cf4ed060b56002" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.418ex; height:2.009ex;" alt="x_{k}"/></span> different spatial positions.
+</p><p><i>Detectors of optic flow patterns</i>
+</p><p>Each detector looks at one frame of a training stimulus and compute an instantaneous optic flow field for that particular frame. These detectors model neurons in <a href="/wiki/Superior_temporal_sulcus" title="Superior temporal sulcus">Superior temporal sulcus</a><sup id="cite_ref-Grossman2000_28-0" class="reference"><a href="#cite_note-Grossman2000-28">&#91;28&#93;</a></sup> and <a href="/wiki/Fusiform_face_area" title="Fusiform face area">Fusiform face area</a><sup id="cite_ref-Grossman2002_29-0" class="reference"><a href="#cite_note-Grossman2002-29">&#91;29&#93;</a></sup>
+</p><p>The input of these detectors is arranged from vector u and are comprised from the previous opponent motion detectors’ responses. The output is the following:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle G(u)=e^{(u-u_{0})^{T}C(u-u_{0})}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>G</mi>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mi>u</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <msub>
+              <mi>u</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>0</mn>
+              </mrow>
+            </msub>
+            <msup>
+              <mo stretchy="false">)</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>T</mi>
+              </mrow>
+            </msup>
+            <mi>C</mi>
+            <mo stretchy="false">(</mo>
+            <mi>u</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <msub>
+              <mi>u</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>0</mn>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G(u)=e^{(u-u_{0})^{T}C(u-u_{0})}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1adf3c9932c7b6c827bc3d7b030e27f623cc8347" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:22.272ex; height:3.676ex;" alt="G(u) = e^{(u-u_0)^T C(u-u_0)}"/></span></dd></dl></dd></dl>
+<p>such that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle u_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>u</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle u_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c7425f9c7ab645587060423c0af62f8a61fbc65" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.384ex; height:2.009ex;" alt="u_{0}"/></span> is the center of the <a href="/wiki/Radial_basis_function" title="Radial basis function">radial basis function</a> for each neuron and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span> is a diagonal matrix which contains elements that have been set during training and correspond to vector u. These elements equal zero if the variance over training doesn't exceed a certain threshold. Otherwise, these elements equal the inverse of variance.
+</p><p>Since recognition of biological motion is dependent on the sequence of activity, the following model is sequence selective. The activity of the optic flow pattern neuron is modeled by the following equation of
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau H_{k}^{l}(t)=-H_{k}^{l}(t)+\sum _{m}w(k-m)f(H_{k}^{l}(t)+G_{k}^{l}(t))}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C4;<!-- τ --></mi>
+        <msubsup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msubsup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </munder>
+        <mi>w</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>m</mi>
+        <mo stretchy="false">)</mo>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <msubsup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <msubsup>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tau H_{k}^{l}(t)=-H_{k}^{l}(t)+\sum _{m}w(k-m)f(H_{k}^{l}(t)+G_{k}^{l}(t))}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5f4d015a0e05b35805844affd14faa4c4d5d2e5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:50.756ex; height:5.509ex;" alt="\tau H_k^l(t) = -H_k^l(t) + \sum_m w(k-m)f(H_k^l(t)+G_k^l(t))"/></span></dd></dl></dd></dl>
+<p>in which <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;" alt="k"/></span> is a specific frame in the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span>-th training sequence, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C4;<!-- τ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tau }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.202ex; height:1.676ex;" alt="\tau "/></span> is the time constant.<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f(H)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>H</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(H)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c503f2afe29eb11813b8ef35d75e51a0237510cd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.152ex; height:2.843ex;" alt="f(H)"/></span> a threshold function, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle w(m)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>w</mi>
+        <mo stretchy="false">(</mo>
+        <mi>m</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle w(m)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/867fb6d4b3d03416837bfa9a56c38b53c375a95a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.514ex; height:2.843ex;" alt="w(m)"/></span> is an asymmetric interaction kernel, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle G_{k}^{l}(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G_{k}^{l}(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/defb3ab9bfee608ca3352133a46611056f8ac4e6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:5.564ex; height:3.176ex;" alt="G_k^l(t)"/></span> is obtained from the previous section.
+</p><p><i>Detectors of complete biological motion patterns</i>
+The following detectors sum the output of the optic flow pattern detectors in order to selectively activate for whole movement patterns (e.g. walking right vs. walking left). These detectors model similar neurons that optic flow pattern detectors model:
+</p><p><a href="/wiki/Superior_temporal_sulcus" title="Superior temporal sulcus">Superior temporal sulcus</a><sup id="cite_ref-Grossman2000_28-1" class="reference"><a href="#cite_note-Grossman2000-28">&#91;28&#93;</a></sup> and <a href="/wiki/Fusiform_face_area" title="Fusiform face area">Fusiform face area</a><sup id="cite_ref-Grossman2002_29-1" class="reference"><a href="#cite_note-Grossman2002-29">&#91;29&#93;</a></sup>
+</p><p>The input of these detectors are the activity of the optic flow motion detectors, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H_{l}^{l}(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H_{l}^{l}(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2bd773ea8fd71d2e1dee6524ca3423b03dd34d9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:5.475ex; height:3.176ex;" alt="H_l^l(t)"/></span>. The output of these detectors are the following:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau _{s}P^{l}(t)=-P^{l}(t)+\sum _{k}H_{l}^{l}(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C4;<!-- τ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+          </mrow>
+        </msub>
+        <msup>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </munder>
+        <msubsup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tau _{s}P^{l}(t)=-P^{l}(t)+\sum _{k}H_{l}^{l}(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2ee663d043786a7bb2afe5d5b8e544ce601a01b9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:29.369ex; height:5.509ex;" alt="\tau_s P^l (t) = -P^l(t) + \sum_k H_l^l(t)"/></span></dd></dl></dd></dl>
+<p>such that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle P^{l}(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>P</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P^{l}(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd3176bc3a63e65049f0204f52f5dea12c8400f2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.193ex; height:3.176ex;" alt="P^l(t)"/></span> is the activity of the complete biological motion pattern detector in response to pattern type <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span> (e.g. walking to the left), <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \tau _{s}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C4;<!-- τ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>s</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \tau _{s}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c275a0c624748353b74062f56672cf02b250cab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.019ex; height:2.009ex;" alt=" \tau_s "/></span> equals the time constant (used 150 ms in simulation), and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H_{k}^{l}(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msubsup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>l</mi>
+          </mrow>
+        </msubsup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H_{k}^{l}(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96b6c0669e3c084ea6c6dd0137854d7b649a2516" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:5.669ex; height:3.176ex;" alt="H_k^l(t)"/></span> equals the activity of optic flow pattern detector at kth frame in sequence l.
+</p>
+<h4><span class="mw-headline" id="Testing_the_model">Testing the model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=16" title="Edit section: Testing the model">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Using correct determination of walking direction of both the CFS and SPS stimulus, the model was able to replicate similar results as the psychophysical experiments. (could determine walking direction of CFS and SPS stimuli and increasing correct with increasing number of dots). It is postulated that recognition of biological motion is made possible by the opponent horizontal motion information that is present in both the CFS and SPS stimuli.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Demo of point light walker: <a rel="nofollow" class="external autonumber" href="http://www.biomotionlab.ca/Demos/BMLwalker.html">[1]</a>
+</p><p>
+References: </p><div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Johansson1973-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Johansson1973_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Johansson1973_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Johansson (1973). "Visual perception of biological motion and a model for its analysis". <i>Perception &amp; Psychophysics</i>. <b>14</b> (2): 201–214. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3758%2Fbf03212378">10.3758/bf03212378</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Perception+%26+Psychophysics&amp;rft.atitle=Visual+perception+of+biological+motion+and+a+model+for+its+analysis&amp;rft.volume=14&amp;rft.issue=2&amp;rft.pages=201-214&amp;rft.date=1973&amp;rft_id=info%3Adoi%2F10.3758%2Fbf03212378&amp;rft.au=Johansson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Born_R.,_Bradley_D.-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Born_R.,_Bradley_D._2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Born, Bradley (2005). "Structure and Function of Visual Area MT". <i>Annual Review of Neuroscience</i>. <b>28</b>: 157–189. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1146%2Fannurev.neuro.26.041002.131052">10.1146/annurev.neuro.26.041002.131052</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16022593">16022593</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Neuroscience&amp;rft.atitle=Structure+and+Function+of+Visual+Area+MT&amp;rft.volume=28&amp;rft.pages=157-189&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.neuro.26.041002.131052&amp;rft_id=info%3Apmid%2F16022593&amp;rft.au=Born%2C+Bradley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Tanaka_and_Saito-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tanaka_and_Saito_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tanaka and Saito (1989). "Analysis of Motion of the Visual Field by Direction, Expansion/Contraction, and Rotation Cells Clustered in the Dorsal Part of the Medial Superior Temporal Area of the Macaque Monkey". <i>Journal of Neurophysiology</i>. <b>62</b> (3): 626–641. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1152%2Fjn.1989.62.3.626">10.1152/jn.1989.62.3.626</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Neurophysiology&amp;rft.atitle=Analysis+of+Motion+of+the+Visual+Field+by+Direction%2C+Expansion%2FContraction%2C+and+Rotation+Cells+Clustered+in+the+Dorsal+Part+of+the+Medial+Superior+Temporal+Area+of+the+Macaque+Monkey&amp;rft.volume=62&amp;rft.issue=3&amp;rft.pages=626-641&amp;rft.date=1989&amp;rft_id=info%3Adoi%2F10.1152%2Fjn.1989.62.3.626&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-van_Essen_and_Gallant-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-van_Essen_and_Gallant_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">van Essen and Gallant (1994). "Neural Mechanisms of Form and Motion Processing in the Primate Visual System". <i>Neuron</i>. <b>13</b>: 1–10. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0896-6273%2894%2990455-3">10.1016/0896-6273(94)90455-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neuron&amp;rft.atitle=Neural+Mechanisms+of+Form+and+Motion+Processing+in+the+Primate+Visual+System&amp;rft.volume=13&amp;rft.pages=1-10&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1016%2F0896-6273%2894%2990455-3&amp;rft.au=van+Essen+and+Gallant&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Grossman_et_al-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grossman_et_al_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Grossman;  et al. (2000). "Brain Areas Involved in the Perception of Biological Motion". <i>Journal of Cognitive Neuroscience</i>. <b>12</b> (5): 711–720. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.138.1319">10.1.1.138.1319</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1162%2F089892900562417">10.1162/089892900562417</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11054914">11054914</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Cognitive+Neuroscience&amp;rft.atitle=Brain+Areas+Involved+in+the+Perception+of+Biological+Motion&amp;rft.volume=12&amp;rft.issue=5&amp;rft.pages=711-720&amp;rft.date=2000&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.138.1319&amp;rft_id=info%3Apmid%2F11054914&amp;rft_id=info%3Adoi%2F10.1162%2F089892900562417&amp;rft.au=Grossman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Ptito_et_al-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ptito_et_al_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ptito;  et al. (2003). "Separate neural pathways for contour and biological-motion cues in motion-defined animal shapes". <i>NeuroImage</i>. <b>19</b> (2): 246–252. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fs1053-8119%2803%2900082-x">10.1016/s1053-8119(03)00082-x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NeuroImage&amp;rft.atitle=Separate+neural+pathways+for+contour+and+biological-motion+cues+in+motion-defined+animal+shapes&amp;rft.volume=19&amp;rft.issue=2&amp;rft.pages=246-252&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1016%2Fs1053-8119%2803%2900082-x&amp;rft.au=Ptito&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Downing_et_al-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Downing_et_al_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Downing;  et al. (2001). "A Cortical Area Selective for Visual Processing of the Human Body". <i>Science</i>. <b>293</b> (5539): 2470–2473. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.70.6526">10.1.1.70.6526</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.1063414">10.1126/science.1063414</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11577239">11577239</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=A+Cortical+Area+Selective+for+Visual+Processing+of+the+Human+Body&amp;rft.volume=293&amp;rft.issue=5539&amp;rft.pages=2470-2473&amp;rft.date=2001&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.70.6526&amp;rft_id=info%3Apmid%2F11577239&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1063414&amp;rft.au=Downing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Hadjikhani_and_Gelder-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hadjikhani_and_Gelder_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hadjikhani and Gelder (2003). "Seeing Fearful Body Expressions activates the Fusiform Cortex and Amygdala". <i>Current Biology</i>. <b>13</b> (24): 2201–2205. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.cub.2003.11.049">10.1016/j.cub.2003.11.049</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14680638">14680638</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Current+Biology&amp;rft.atitle=Seeing+Fearful+Body+Expressions+activates+the+Fusiform+Cortex+and+Amygdala&amp;rft.volume=13&amp;rft.issue=24&amp;rft.pages=2201-2205&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cub.2003.11.049&amp;rft_id=info%3Apmid%2F14680638&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Saygin-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Saygin_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Saygin, A.P. (2012). "Chapter 21: Sensory and motor brain areas supporting biological motion perception: neuropsychological and neuroimaging studies".  In Johnson &amp; Shiffrar, K. <i>Biological motion perception and the brain: Neuropsychological and neuroimaging studies</i>. Oxford Series in Visual Cognition. pp.&#160;371–389.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+21%3A+Sensory+and+motor+brain+areas+supporting+biological+motion+perception%3A+neuropsychological+and+neuroimaging+studies&amp;rft.btitle=Biological+motion+perception+and+the+brain%3A+Neuropsychological+and+neuroimaging+studies&amp;rft.pages=371-389&amp;rft.pub=Oxford+Series+in+Visual+Cognition&amp;rft.date=2012&amp;rft.aulast=Saygin&amp;rft.aufirst=A.P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Saygin_et_al-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Saygin_et_al_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Saygin;  et al. (2004). "Point-Light Biological Motion Perception Activates Human Premotor Cortex". <i>The Journal of Neuroscience</i>. <b>24</b> (27): 6181–6188. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1523%2Fjneurosci.0504-04.2004">10.1523/jneurosci.0504-04.2004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Neuroscience&amp;rft.atitle=Point-Light+Biological+Motion+Perception+Activates+Human+Premotor+Cortex&amp;rft.volume=24&amp;rft.issue=27&amp;rft.pages=6181-6188&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1523%2Fjneurosci.0504-04.2004&amp;rft.au=Saygin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Vaina_et_al-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vaina_et_al_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Vaina;  et al. (1990). "Intact "biological motion" and "structure from motion" perception in a patient with impaired motion mechanisms". <i>Visual Neuroscience</i>. <b>5</b> (4): 353–369. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2Fs0952523800000444">10.1017/s0952523800000444</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Visual+Neuroscience&amp;rft.atitle=Intact+%22biological+motion%22+and+%22structure+from+motion%22+perception+in+a+patient+with+impaired+motion+mechanisms&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=353-369&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1017%2Fs0952523800000444&amp;rft.au=Vaina&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Saygin2-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Saygin2_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Saygin (2007). "Superior temporal and premotor brain areas necessary for biological motion perception". <i>Brain</i>. <b>130</b> (Pt 9): 2452–2461. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2Fbrain%2Fawm162">10.1093/brain/awm162</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17660183">17660183</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Brain&amp;rft.atitle=Superior+temporal+and+premotor+brain+areas+necessary+for+biological+motion+perception&amp;rft.volume=130&amp;rft.issue=Pt+9&amp;rft.pages=2452-2461&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1093%2Fbrain%2Fawm162&amp;rft_id=info%3Apmid%2F17660183&amp;rft.au=Saygin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Vaina_and_Giese-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vaina_and_Giese_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Vaina &amp; Giese (2002). "Biological motion: Why some motion impaired stroke patients "can" while others "can't" recognize it? A computational explanation". <i>Journal of Vision</i>. <b>2</b> (7): 332. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1167%2F2.7.332">10.1167/2.7.332</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Vision&amp;rft.atitle=Biological+motion%3A+Why+some+motion+impaired+stroke+patients+%22can%22+while+others+%22can%27t%22+recognize+it%3F+A+computational+explanation&amp;rft.volume=2&amp;rft.issue=7&amp;rft.pages=332&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1167%2F2.7.332&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Lange_and_Lappe-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lange_and_Lappe_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lange and Lappe (2006). "A Model of Biological Motion Perception from Configural Form Cues". <i>The Journal of Neuroscience</i>. <b>26</b> (11): 2894–2906. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1523%2Fjneurosci.4915-05.2006">10.1523/jneurosci.4915-05.2006</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16540566">16540566</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Neuroscience&amp;rft.atitle=A+Model+of+Biological+Motion+Perception+from+Configural+Form+Cues&amp;rft.volume=26&amp;rft.issue=11&amp;rft.pages=2894-2906&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1523%2Fjneurosci.4915-05.2006&amp;rft_id=info%3Apmid%2F16540566&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Beintema&amp;Lappe2002-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Beintema&amp;Lappe2002_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beintema and Lappe (2002). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC122827">"Perception of biological motion without local image motion"</a>. <i>Proc Natl Acad Sci USA</i>. <b>99</b> (8): 5661–5663. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1073%2Fpnas.082483699">10.1073/pnas.082483699</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC122827">122827</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11960019">11960019</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proc+Natl+Acad+Sci+USA&amp;rft.atitle=Perception+of+biological+motion+without+local+image+motion&amp;rft.volume=99&amp;rft.issue=8&amp;rft.pages=5661-5663&amp;rft.date=2002&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC122827&amp;rft_id=info%3Apmid%2F11960019&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.082483699&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC122827&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Beintema2006-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Beintema2006_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beintema JA, Georg K, Lappe M (2006). "Perception of biological motion from limited lifetime stimuli". <i>Percept Psychophys</i>. <b>68</b> (4): 613–624. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3758%2Fbf03208763">10.3758/bf03208763</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Percept+Psychophys&amp;rft.atitle=Perception+of+biological+motion+from+limited+lifetime+stimuli&amp;rft.volume=68&amp;rft.issue=4&amp;rft.pages=613-624&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.3758%2Fbf03208763&amp;rft.aulast=Beintema&amp;rft.aufirst=JA&amp;rft.au=Georg%2C+K&amp;rft.au=Lappe%2C+M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Lange&amp;Lappe2006-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lange&amp;Lappe2006_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lange J, Lappe M (2006). "A model of biological motion perception from configural form cues". <i>J Neurosci</i>. <b>26</b> (11): 2894–2906. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1523%2Fjneurosci.4915-05.2006">10.1523/jneurosci.4915-05.2006</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16540566">16540566</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J+Neurosci&amp;rft.atitle=A+model+of+biological+motion+perception+from+configural+form+cues&amp;rft.volume=26&amp;rft.issue=11&amp;rft.pages=2894-2906&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1523%2Fjneurosci.4915-05.2006&amp;rft_id=info%3Apmid%2F16540566&amp;rft.aulast=Lange&amp;rft.aufirst=J&amp;rft.au=Lappe%2C+M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Adelson&amp;Bergen1985-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Adelson&amp;Bergen1985_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Adelson EH, Bergen JR (1985). "Spatiotemporal energy models for the perception of motion". <i>J Opt Soc Am</i>. <b>2</b> (2): 284–299. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1364%2Fjosaa.2.000284">10.1364/josaa.2.000284</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/3973762">3973762</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J+Opt+Soc+Am&amp;rft.atitle=Spatiotemporal+energy+models+for+the+perception+of+motion&amp;rft.volume=2&amp;rft.issue=2&amp;rft.pages=284-299&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1364%2Fjosaa.2.000284&amp;rft_id=info%3Apmid%2F3973762&amp;rft.aulast=Adelson&amp;rft.aufirst=EH&amp;rft.au=Bergen%2C+JR&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Rechardt1957-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rechardt1957_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Reichardt W (1957). "Autokorrelations-Auswertung als Funktionsprinzip des Zentralnervensystems". <i>Z Naturforsch</i>. <b>12</b> (7): 448–457. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1515%2Fznb-1957-0707">10.1515/znb-1957-0707</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Z+Naturforsch&amp;rft.atitle=Autokorrelations-Auswertung+als+Funktionsprinzip+des+Zentralnervensystems&amp;rft.volume=12&amp;rft.issue=7&amp;rft.pages=448-457&amp;rft.date=1957&amp;rft_id=info%3Adoi%2F10.1515%2Fznb-1957-0707&amp;rft.au=Reichardt+W&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-vanSanten&amp;Sperling1984-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-vanSanten&amp;Sperling1984_20-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">van Santen JP, Sperling G (1984). "Temporal covariance model of human motion perception". <i>J Opt Soc Am</i>. <b>1</b> (5): 451–473. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1364%2Fjosaa.1.000451">10.1364/josaa.1.000451</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J+Opt+Soc+Am&amp;rft.atitle=Temporal+covariance+model+of+human+motion+perception&amp;rft.volume=1&amp;rft.issue=5&amp;rft.pages=451-473&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1364%2Fjosaa.1.000451&amp;rft.aulast=van+Santen&amp;rft.aufirst=JP&amp;rft.au=Sperling%2C+G&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Simoncelli&amp;Heeger1998-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Simoncelli&amp;Heeger1998_21-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Simoncelli EP, Heeger DJ (1998). "A model of neuronal responses in visual area MT". <i>Vision Res</i>. <b>38</b> (5): 743–761. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fs0042-6989%2897%2900183-1">10.1016/s0042-6989(97)00183-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Vision+Res&amp;rft.atitle=A+model+of+neuronal+responses+in+visual+area+MT&amp;rft.volume=38&amp;rft.issue=5&amp;rft.pages=743-761&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1016%2Fs0042-6989%2897%2900183-1&amp;rft.aulast=Simoncelli&amp;rft.aufirst=EP&amp;rft.au=Heeger%2C+DJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Casile2005-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Casile2005_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Casile2005_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Casile2005_22-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Casile2005_22-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Casile, &amp; Giese (2005). "Critical features for the recognition of biological motion". <i>Journal of Vision</i>. <b>5</b> (4): 348–360. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1167%2F5.4.6">10.1167/5.4.6</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15929657">15929657</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Vision&amp;rft.atitle=Critical+features+for+the+recognition+of+biological+motion&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=348-360&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1167%2F5.4.6&amp;rft_id=info%3Apmid%2F15929657&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Beintema2002-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Beintema2002_23-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beintema, &amp; Lappe (2002). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC122827">"Perception of biological motion without local image motion"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>99</b> (8): 5661–5663. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1073%2Fpnas.082483699">10.1073/pnas.082483699</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC122827">122827</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Perception+of+biological+motion+without+local+image+motion&amp;rft.volume=99&amp;rft.issue=8&amp;rft.pages=5661-5663&amp;rft.date=2002&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC122827&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.082483699&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC122827&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Snowden1994-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Snowden1994_24-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Snowden, R.J. (1994). "Motion processing in the primate cerebral cortex". <i>Visual Detection of Motion</i>: 51–84.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Visual+Detection+of+Motion&amp;rft.atitle=Motion+processing+in+the+primate+cerebral+cortex&amp;rft.pages=51-84&amp;rft.date=1994&amp;rft.au=Snowden%2C+R.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Born2000-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Born2000_25-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Born, R.T. (2000). "Center-surround interactions in the middle temporal visual area of the owl monkey". <i>Journal of Neurophysiology</i>. <b>84</b> (5): 2658–2669. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1152%2Fjn.2000.84.5.2658">10.1152/jn.2000.84.5.2658</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11068007">11068007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Neurophysiology&amp;rft.atitle=Center-surround+interactions+in+the+middle+temporal+visual+area+of+the+owl+monkey&amp;rft.volume=84&amp;rft.issue=5&amp;rft.pages=2658-2669&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1152%2Fjn.2000.84.5.2658&amp;rft_id=info%3Apmid%2F11068007&amp;rft.au=Born%2C+R.T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Tanaka1989-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tanaka1989_26-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tanaka, K. &amp; Saito, H (2000). "Analysis of motion in the visual field by direction, expansion/contraction, and rotation cells clustered in the dorsal part of the medial superior temporal area of the macaque monkey". <i>Journal of Neurophysiology</i>. <b>62</b> (3): 535–552.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Neurophysiology&amp;rft.atitle=Analysis+of+motion+in+the+visual+field+by+direction%2C+expansion%2Fcontraction%2C+and+rotation+cells+clustered+in+the+dorsal+part+of+the+medial+superior+temporal+area+of+the+macaque+monkey&amp;rft.volume=62&amp;rft.issue=3&amp;rft.pages=535-552&amp;rft.date=2000&amp;rft.au=Tanaka%2C+K.&amp;rft.au=Saito%2C+H&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Vaina1990-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vaina1990_27-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Vaina, L. M., Lemay, M., Bienfang, D., Choi, A. &amp; Nakayama, K. (1990). "Intact "biological motion" and "structure from motion" perception in a patient with impaired motion mechanisms: A case study". <i>Visual Neuroscience</i>. <b>5</b> (4): 353–369. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2Fs0952523800000444">10.1017/s0952523800000444</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Visual+Neuroscience&amp;rft.atitle=Intact+%22biological+motion%22+and+%22structure+from+motion%22+perception+in+a+patient+with+impaired+motion+mechanisms%3A+A+case+study&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=353-369&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1017%2Fs0952523800000444&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Grossman2000-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grossman2000_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grossman2000_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Grossman, E. Donnelly, M. Price, R., Pickens, D. Morgan, V., Neighbor, G. et al. (2000). "Brain areas involved in perception of biological motion". <i>Journal of Cognitive Neuroscience</i>. <b>12</b> (5): 711–720. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.138.1319">10.1.1.138.1319</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1162%2F089892900562417">10.1162/089892900562417</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11054914">11054914</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Cognitive+Neuroscience&amp;rft.atitle=Brain+areas+involved+in+perception+of+biological+motion&amp;rft.volume=12&amp;rft.issue=5&amp;rft.pages=711-720&amp;rft.date=2000&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.138.1319&amp;rft_id=info%3Apmid%2F11054914&amp;rft_id=info%3Adoi%2F10.1162%2F089892900562417&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Grossman2002-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grossman2002_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grossman2002_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Grossman, E. &amp; Blake, R. (2002). "Brain areas active during visual perception of biological motion". <i>Neuron</i>. <b>35</b> (6): 1167–1175. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fs0896-6273%2802%2900897-8">10.1016/s0896-6273(02)00897-8</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12354405">12354405</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neuron&amp;rft.atitle=Brain+areas+active+during+visual+perception+of+biological+motion&amp;rft.volume=35&amp;rft.issue=6&amp;rft.pages=1167-1175&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1016%2Fs0896-6273%2802%2900897-8&amp;rft_id=info%3Apmid%2F12354405&amp;rft.au=Grossman%2C+E.&amp;rft.au=Blake%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiological+motion+perception" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1245
+Cached time: 20190320213418
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.480 seconds
+Real time usage: 0.768 seconds
+Preprocessor visited node count: 1697/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54762/2097152 bytes
+Template argument size: 92/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 96144/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.250/10.000 seconds
+Lua memory usage: 3.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  343.048      1 Template:Reflist
+100.00%  343.048      1 -total
+ 84.47%  289.771     28 Template:Cite_journal
+  2.82%    9.674      1 Template:Cite_book
+  0.73%    2.519      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42938624-0!canonical!math=5 and timestamp 20190320213417 and revision id 883790423
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Biological_motion_perception&amp;oldid=883790423">https://en.wikipedia.org/w/index.php?title=Biological_motion_perception&amp;oldid=883790423</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Perception" title="Category:Perception">Perception</a></li><li><a href="/wiki/Category:Cognition" title="Category:Cognition">Cognition</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Biological+motion+perception" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Biological+motion+perception" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Biological_motion_perception" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Biological_motion_perception" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Biological_motion_perception">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Biological_motion_perception&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Biological_motion_perception&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Biological_motion_perception" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Biological_motion_perception" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Biological_motion_perception&amp;oldid=883790423" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Biological_motion_perception&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18205552" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Biological_motion_perception&amp;id=883790423" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Biological+motion+perception">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Biological+motion+perception&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Biological_motion_perception&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18205552#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 February 2019, at 17:29<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Biological_motion_perception&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.480","walltime":"0.768","ppvisitednodes":{"value":1697,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54762,"limit":2097152},"templateargumentsize":{"value":92,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":96144,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  343.048      1 Template:Reflist","100.00%  343.048      1 -total"," 84.47%  289.771     28 Template:Cite_journal","  2.82%    9.674      1 Template:Cite_book","  0.73%    2.519      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.250","limit":"10.000"},"limitreport-memusage":{"value":3719233,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20190320213418","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Biological motion perception","url":"https:\/\/en.wikipedia.org\/wiki\/Biological_motion_perception","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18205552","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18205552","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-06-01T23:15:13Z","dateModified":"2019-02-17T17:29:49Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136,"wgHostname":"mw1328"});});</script>
+</body>
+</html>

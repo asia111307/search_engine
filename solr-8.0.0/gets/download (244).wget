@@ -1,0 +1,1684 @@
+
+	<!doctype html>
+	<html class="no-js" lang="">
+
+	<head><link rel="stylesheet" type="text/css" href="https://www.rapidvaluesolutions.com/wp-content/cache/minify/bf4cf.default.include.d04e04.css" media="all" />
+<script async type="text/javascript" src="https://www.rapidvaluesolutions.com/wp-content/cache/minify/bf4cf.default.include.9db001.js"></script>
+
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800" rel="stylesheet">
+		<title>
+			Cognitive Services &amp; Machine Learning Solutions - RapidValue		</title>
+							<link rel="apple-touch-icon" href="apple-touch-icon.png">
+					<!-- Place favicon.ico in the root directory -->
+					
+											<meta name="description" content="We help enterprises create new business opportunities by building cognitive solutions powered by machine learning, robotics &amp; artificial intelligence."/>
+<link rel="canonical" href="https://www.rapidvaluesolutions.com/cognitive-machine-learning-services/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cognitive Services &amp; Machine Learning Solutions - RapidValue" />
+<meta property="og:description" content="We help enterprises create new business opportunities by building cognitive solutions powered by machine learning, robotics &amp; artificial intelligence." />
+<meta property="og:url" content="https://www.rapidvaluesolutions.com/cognitive-machine-learning-services/" />
+<meta property="og:site_name" content="RapidValue" />
+<meta property="article:publisher" content="https://www.facebook.com/RapidValue" />
+<meta property="og:image" content="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/machine-learning-and-cognitive-735x500.jpg" />
+<meta property="og:image:secure_url" content="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/machine-learning-and-cognitive-735x500.jpg" />
+<meta property="og:image:width" content="735" />
+<meta property="og:image:height" content="500" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="We help enterprises create new business opportunities by building cognitive solutions powered by machine learning, robotics &amp; artificial intelligence." />
+<meta name="twitter:title" content="Cognitive Services &amp; Machine Learning Solutions - RapidValue" />
+<meta name="twitter:site" content="@rapidvalue" />
+<meta name="twitter:image" content="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/machine-learning-and-cognitive.jpg" />
+<meta name="twitter:creator" content="@rapidvalue" />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.rapidvaluesolutions.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script>
+<script src="https://www.rapidvaluesolutions.com/wp-includes/js/jquery/jquery-migrate.min.js" defer="defer" type="text/javascript"></script>
+<script src="https://www.rapidvaluesolutions.com/wp-content/plugins/add-to-any/addtoany.min.js" defer="defer" type="text/javascript"></script>
+<link rel='https://api.w.org/' href='https://www.rapidvaluesolutions.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rapidvaluesolutions.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.rapidvaluesolutions.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel='shortlink' href='https://www.rapidvaluesolutions.com/?p=11030' />
+<link rel="alternate" type="application/json+oembed" href="https://www.rapidvaluesolutions.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rapidvaluesolutions.com%2Fcognitive-machine-learning-services%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.rapidvaluesolutions.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rapidvaluesolutions.com%2Fcognitive-machine-learning-services%2F&#038;format=xml" />
+
+<script type="text/javascript">
+var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script>
+                <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+                                <style type="text/css">
+                    <!--
+                    
+            @font-face {
+                font-family: 'aslsicons2';
+                src: url('https://www.rapidvaluesolutions.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot');
+                src: url('https://www.rapidvaluesolutions.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot?#iefix') format('embedded-opentype'),
+                     url('https://www.rapidvaluesolutions.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff2') format('woff2'),
+                     url('https://www.rapidvaluesolutions.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff') format('woff'),
+                     url('https://www.rapidvaluesolutions.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.ttf') format('truetype'),
+                     url('https://www.rapidvaluesolutions.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.svg#icons') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+                font-size: 0px !important;
+                color: rgba(0, 0, 0, 0);
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+                font-size: 11px !important;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            div[id*='ajaxsearchlite'].wpdreams_asl_container {
+                width: 100%;
+                margin: 0px 0px 0px 0px;
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+                font-weight: bold;
+                color: rgba(217, 49, 43, 1);
+                background-color: rgba(238, 238, 238, 1);
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results .results div.asl_image {
+                width: 70px;
+                height: 70px;
+            }
+                                -->
+                </style>
+                            <script type="text/javascript">
+                if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
+                    _ASL.initialize();
+            </script>
+            
+							<!-- Google Analytics -->
+							<script type="text/javascript">
+								var _gaq = _gaq || [];
+								_gaq.push(['_setAccount', 'UA-18999746-1']);
+								_gaq.push(['_trackPageview']);
+
+								(function () {
+									var ga = document.createElement('script');
+									ga.type = 'text/javascript';
+									ga.async = true;
+									ga.src = 'https://www.rapidvaluesolutions.com/wp-content/uploads/cached-scripts/ga.js';
+									var s = document.getElementsByTagName('script')[0];
+									s.parentNode.insertBefore(ga, s);
+								})();
+							</script>
+							<!-- page-machine-learning-and-cognitive.php -->	</head>
+
+	<body data-rsssl=1 data-spy="scroll" data-target="#myNavbar">
+		<header class="site-header container-fluid clearfix">
+			<span class="site-logo"><a href="https://www.rapidvaluesolutions.com" alt="RapidValue Solutions" title="RapidValue Solutions">RapidValue <small>Building Digital Enterprise</small></a></span>
+			<div class="nav-container">
+				<nav class="social-links">
+					<ul class="icons-nav">
+						<li><a href="https://www.facebook.com/RapidValue" data-icon="f" target="_blank"><span>Facebook</span></a></li>
+						<li><a href="https://plus.google.com/113259425789862615985/posts" data-icon="g" target="_blank"><span>Google Plus</span></a></li>
+						<li><a href="https://www.linkedin.com/company/rapidvalue" data-icon="i" target="_blank"><span>LinkedIn</span></a></li>
+						<li><a href="https://twitter.com/rapidvalue" data-icon="t" target="_blank"><span>Twitter</span></a></li>
+						<li><a href="https://www.youtube.com/channel/UCc2SXewmMWZ8Tbpr9Iwuuww" data-icon="y" target="_blank"><span>YouTube</span></a></li>
+					</ul>
+				</nav>
+				<div class="rvs style">
+					<div id="myNav" class="overlay">
+						<div class="overlay-head">
+							<span class="site-logo"><a href="https://www.rapidvaluesolutions.com" alt="RapidValue Solutions" title="RapidValue Solutions"></a></span>
+						</div>
+						<a href="javascript:void(0)" data-icon="X" class="closebtn" onclick="closeNav()"></a>
+						<ul id="main-nav" class="main-navigation overlay-content" style="display:none;">
+							<li class="menu-item custom_active"><a href="https://www.rapidvaluesolutions.com/case-study-listing/">Our Work</a>								<ul class="menu_whole mega-menu">
+									<li class="textsection description_menu dark-bg-menu">
+										<span class="menu_desc">
+								Our Work							</span>
+										<p>
+											We work with fortune 500/1000 firms, multinational companies and innovative product start-ups.										</p>
+									</li>
+									<li class="sub_menus">
+										<div class="menu-rapidvalue-menu-container"><ul id="menu-rapidvalue-menu" class="menu"><li id="menu-item-8923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8923"><a href="https://www.rapidvaluesolutions.com/customer_spotlight/">Testimonials</a></li>
+<li id="menu-item-8924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8924"><a href="https://www.rapidvaluesolutions.com/case-study-listing/">Case Studies</a></li>
+<li id="menu-item-8922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8922"><a href="https://www.rapidvaluesolutions.com/videos/">Videos</a></li>
+<li id="menu-item-11817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11817"><a href="https://www.rapidvaluesolutions.com/interview-with-abof/">Client Interviews</a></li>
+</ul></div>									</li>
+								</ul>
+								</li><li class="menu-item three_level"><a href="https://www.rapidvaluesolutions.com/digital-journeys/">What We Do</a>								<ul class="menu_whole mega-menu">
+									<li class="textsection description_menu dark-bg-menu">
+										<span class="menu_desc">
+								What We Do							</span>
+										<p>
+											We offer end-to-end digital services and product engineering expertise across industry verticals to enterprises, worldwide.										</p>
+									</li>
+									<li class="sub_menus">
+										<div class="menu-rapidvalue-menu-container"><ul id="menu-rapidvalue-menu-1" class="menu"><li id="menu-item-8899" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-8899"><a href="#">Technology</a>
+<ul class="sub-menu">
+	<li id="menu-item-9212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9212"><a href="https://www.rapidvaluesolutions.com/mobile-omnichannel-digital-solutions/">Mobile &#038; Omni-channel</a></li>
+	<li id="menu-item-9211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9211"><a href="https://www.rapidvaluesolutions.com/iot-services/">IoT</a></li>
+	<li id="menu-item-17512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17512"><a href="https://www.rapidvaluesolutions.com/cloud-consulting-and-cloud-services/">Cloud</a></li>
+	<li id="menu-item-11011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11011"><a href="https://www.rapidvaluesolutions.com/business-robotic-process-automation/">Business Process Automation</a></li>
+	<li id="menu-item-11043" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11030 current_page_item menu-item-11043"><a href="https://www.rapidvaluesolutions.com/cognitive-machine-learning-services/">Machine Learning &#038; Cognitive</a></li>
+	<li id="menu-item-10915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10915"><a href="https://www.rapidvaluesolutions.com/microservices-and-api-integration-solutions/">Microservices &#038; API</a></li>
+</ul>
+</li>
+<li id="menu-item-8900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8900"><a href="#">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-9220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9220"><a href="https://www.rapidvaluesolutions.com/digital-consulting/">Consulting</a></li>
+	<li id="menu-item-9260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9260"><a href="https://www.rapidvaluesolutions.com/ui-ux-design-services/">UX Design</a></li>
+	<li id="menu-item-9345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9345"><a href="https://www.rapidvaluesolutions.com/product-engineering-services/">Product Engineering</a></li>
+	<li id="menu-item-9213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9213"><a href="https://www.rapidvaluesolutions.com/software-testing-services/">Testing</a></li>
+	<li id="menu-item-11853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11853"><a href="https://www.rapidvaluesolutions.com/professional-services/">Professional Services</a></li>
+</ul>
+</li>
+<li id="menu-item-8901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8901"><a href="#">Process</a>
+<ul class="sub-menu">
+	<li id="menu-item-9305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9305"><a href="https://www.rapidvaluesolutions.com/agile-delivery-solutions/">Agile</a></li>
+	<li id="menu-item-9159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9159"><a href="https://www.rapidvaluesolutions.com/devops-services/">DevOps</a></li>
+</ul>
+</li>
+</ul></div>									</li>
+								</ul>
+								</li><li class="menu-item "><a href="https://www.rapidvaluesolutions.com/digital-transformation-solutions/">Solutions</a>								<ul class="menu_whole mega-menu">
+									<li class="textsection description_menu dark-bg-menu">
+										<span class="menu_desc">
+								Solutions							</span>
+										<p>
+											Our flagship solutions improve productivity, streamlines workflow, achieves higher ROI and reduces cost.										</p>
+									</li>
+									<li class="sub_menus">
+										<div class="menu-rapidvalue-menu-container"><ul id="menu-rapidvalue-menu-2" class="menu"><li id="menu-item-8918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8918"><a href="https://www.rapidvaluesolutions.com/equipme-oracle-digital-suite/">eQuipMe™ &#8211; Oracle Digital Suite</a></li>
+<li id="menu-item-9157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9157"><a href="https://www.rapidvaluesolutions.com/asseteze-smart-asset-management-solutions/">AsseteZe &#8211; Smart Asset Manager</a></li>
+<li id="menu-item-8917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8917"><a href="https://www.rapidvaluesolutions.com/accurate/">AccuRate &#8211; Test Automation Accelerator</a></li>
+</ul></div>									</li>
+								</ul>
+								</li><li class="menu-item industry_menu"><a href="https://www.rapidvaluesolutions.com/industries/">Industries</a>								<ul class="menu_whole mega-menu">
+									<li class="textsection description_menu dark-bg-menu">
+										<span class="menu_desc">
+								Industries							</span>
+										<p>
+											We provide digital transformation solutions across multiple industry verticals.										</p>
+									</li>
+									<li class="sub_menus">
+										<div class="menu-rapidvalue-menu-container"><ul id="menu-rapidvalue-menu-3" class="menu"><li id="menu-item-10479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10479"><a href="https://www.rapidvaluesolutions.com/opd-for-isv-product-startups/">ISV &#038; Product Startups</a></li>
+<li id="menu-item-10898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10898"><a href="https://www.rapidvaluesolutions.com/banking-and-financial-services/">Banking &#038; Financial Services</a></li>
+<li id="menu-item-10478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10478"><a href="https://www.rapidvaluesolutions.com/digital-transformation-for-insurance-companies/">Insurance</a></li>
+<li id="menu-item-10477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10477"><a href="https://www.rapidvaluesolutions.com/digital-solutions-for-manufacturing/">Manufacturing</a></li>
+<li id="menu-item-10593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10593"><a href="https://www.rapidvaluesolutions.com/media-entertainment/">Media &#038; Entertainment</a></li>
+<li id="menu-item-10480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10480"><a href="https://www.rapidvaluesolutions.com/retail-digital-solutions/">Retail</a></li>
+<li id="menu-item-11852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11852"><a href="https://www.rapidvaluesolutions.com/telco-hitech-services/">Telco &#038; Hi-Tech</a></li>
+<li id="menu-item-14918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14918"><a href="https://www.rapidvaluesolutions.com/digital-transformation-healthcare-services-solutions/">Healthcare</a></li>
+</ul></div>									</li>
+								</ul>
+								</li><li class="menu-item "><a href="https://www.rapidvaluesolutions.com/insights/">Insights</a>								<ul class="menu_whole mega-menu">
+									<li class="textsection description_menu dark-bg-menu">
+										<span class="menu_desc">
+								Insights							</span>
+										<p>
+											We have published several thought leadership papers and blogs. We intend to keep our readers informed with the latest in digital technology.										</p>
+									</li>
+									<li class="sub_menus">
+										<div class="menu-rapidvalue-menu-container"><ul id="menu-rapidvalue-menu-4" class="menu"><li id="menu-item-9082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9082"><a href="https://www.rapidvaluesolutions.com/blog">Blogs</a></li>
+<li id="menu-item-8920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8920"><a href="https://www.rapidvaluesolutions.com/whitepapers">Whitepapers</a></li>
+<li id="menu-item-8921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8921"><a href="https://www.rapidvaluesolutions.com/infographics">Infographics</a></li>
+<li id="menu-item-16164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16164"><a href="https://www.rapidvaluesolutions.com/techbytes/">TechBytes</a></li>
+</ul></div>									</li>
+								</ul>
+								</li><li class="menu-item company-reload"><a href="https://www.rapidvaluesolutions.com/about-us/">About Us</a>								<ul class="menu_whole mega-menu">
+									<li class="textsection description_menu dark-bg-menu">
+										<span class="menu_desc">
+								About Us							</span>
+										<p>
+											One of the fastest emerging digital transformation firms. We are proud to win several awards and recognition from global industry forums.										</p>
+									</li>
+									<li class="sub_menus">
+										<div class="menu-rapidvalue-menu-container"><ul id="menu-rapidvalue-menu-5" class="menu"><li id="menu-item-8925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8925"><a href="https://www.rapidvaluesolutions.com/about-us/#About">Overview</a></li>
+<li id="menu-item-8926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8926"><a href="https://www.rapidvaluesolutions.com/about-us/#Leadership">Leadership</a></li>
+<li id="menu-item-8927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8927"><a href="https://www.rapidvaluesolutions.com/about-us/#Awards&#038;Recognition">Awards</a></li>
+<li id="menu-item-8928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8928"><a href="https://www.rapidvaluesolutions.com/about-us/#Partners">Partners</a></li>
+<li id="menu-item-8929" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8929"><a href="https://www.rapidvaluesolutions.com/about-us/#Media">Media</a></li>
+<li id="menu-item-8930" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8930"><a href="https://www.rapidvaluesolutions.com/about-us/#Events">Events</a></li>
+</ul></div>									</li>
+								</ul>
+								</li><li class="hiring_active "><a href="https://www.rapidvaluesolutions.com/careers/">We Are Hiring</a>								<ul class="menu_whole mega-menu">
+									<li class="textsection description_menu dark-bg-menu">
+										<span class="menu_desc">
+								We Are Hiring							</span>
+										<p>
+																					</p>
+									</li>
+									<li class="sub_menus">
+																			</li>
+								</ul>
+								</li><li class="rounded rounded active"><a href="https://www.rapidvaluesolutions.com/contact-us/">Contact Us</a>								<ul class="menu_whole mega-menu">
+									<li class="textsection description_menu dark-bg-menu">
+										<span class="menu_desc">
+								Contact Us							</span>
+										<p>
+																					</p>
+									</li>
+									<li class="sub_menus">
+																			</li>
+								</ul>
+								</li>						</ul>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div class="wrapper"><section class="enterprise_banner cons_banner_blk">
+	<div class="home-case-study-block">
+		<figure class="case-study-image-container">
+			<img src="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/machine-learning-and-cognitive.jpg" title="Machine Learning &#038; Cognitive" alt="Machine Learning &#038; Cognitive" />
+		</figure>
+		<div class="casestudy-content">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-7">
+						<div class="casestudy">
+							<div class="content-block">
+								<h1 class="black-banner-text">
+									Making Businesses <br />
+Think, Predict & Act								</h1>
+																<button data-toggle="modal" data-target="#Downloadwhitepaper" class="btn btn-outline-secondary omni-download-btn whitepaper_download" data-name="RapidValue-Whitepaper-Transforming-Oracle-enterprise-Mobility-using-Intelligent-ChatBot.pdf" data-path="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/RapidValue-Whitepaper-Transforming-Oracle-enterprise-Mobility-using-Intelligent-ChatBot.pdf">Download Whitepaper</button> 								<a href="https://www.rapidvaluesolutions.com/maildownload.php?link=https://www.rapidvaluesolutions.com/wp-content/uploads/2017/12/RPA-in-Financial-Services-Infographic-by-RapidValue.pdf" class="btn btn-outline-secondary omni-download-btn">Download Infographic</a>
+								<br/>
+								<button type="button" class="btn-videoplay banner-videoplay" data-toggle="modal" data-target="#myModal" data-icon="Z"></button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="video_modal">
+		<div class="modal fade" id="myModal" role="dialog" data-toggle="modal">
+			<div class="modal-dialog">
+				<!-- Modal content-->
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" id="modalClose" class="close" data-dismiss="modal" data-icon="X"></button>
+					</div>
+					<div class="modal-body">
+						<iframe class="iframeauto" src="https://player.vimeo.com/video/253933902" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="mobile-omni-intro industry_intro_blk">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12">
+				<h2>
+					Machine Learning & Cognitive Services				</h2>
+				<p class="common-p">
+					As per industry research, by 2018 around 50% of consumers will interact with services based on cognitive computing almost on a regular basis. Enterprises across industries have started integrating cognitive capabilities to decrease costs, enhance efficiency, and boost revenue. Cognitive technologies powered by machine learning, real-time computing and artificial intelligence are helping enterprises create new business opportunities.<br />
+<br />
+RapidValue helps enterprises infuse advanced intelligence into their products, solutions and applications using cutting-edge cognitive technologies. We help clients in crafting cognitive strategies and identifying key business areas to implement automated business operations and processes.<br />
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="iot_business cons_digital_blk ml-intro-blk">
+	<div class="enterprise_bottom_content">
+		<div class="container-fluid">
+			<div class="row">
+				<!--<div class="col-md-6 digital_img_blk wow fadeIn">
+					<img src="" />
+				</div>-->
+				<div class="col-md-6 wow fadeInUp">
+					<h2 class="cons_h3">
+						Key Offerings					</h2>
+					<p>
+						We enable businesses realize the multitude of opportunities possible by integrating the power of cognitive technologies into their products and services.					</p>
+					<div class="light_intro_digital">
+						<ul>
+														<li>
+								<div class="row">
+									<div class="col-md-1">
+										<span data-icon="Q" class="mob-omni-icon"></span>
+									</div>
+									<div class="col-md-11">
+										<h3>Enterprise Cognitive Strategy</h3>
+<p><a href="https://www.rapidvaluesolutions.com/digital-consulting/" target="_blank" rel="noopener"><span style="color: #808080;">Digital Transformation Roadmap</span></a> | Innovation Workshops | Industry-aligned PoCs</p>
+									</div>
+								</div>
+							</li>
+														<li>
+								<div class="row">
+									<div class="col-md-1">
+										<span data-icon="^" class="mob-omni-icon"></span>
+									</div>
+									<div class="col-md-11">
+										<h3>End-to-end Engineering of Intelligent Products &amp; Applications</h3>
+<p>Product Development | Solution accelerators | Continuous Integration &amp; Deployment</p>
+									</div>
+								</div>
+							</li>
+														<li>
+								<div class="row">
+									<div class="col-md-1">
+										<span data-icon="&#xe004;" class="mob-omni-icon"></span>
+									</div>
+									<div class="col-md-11">
+										<h3>Smart Process Transformation</h3>
+<p><a href="https://www.rapidvaluesolutions.com/business-robotic-process-automation/" target="_blank" rel="noopener"><span style="color: #808080;">Robotic Process Automation</span></a> | <span style="color: #808080;"><a href="https://www.rapidvaluesolutions.com/iot-services/" target="_blank" style="color: #808080;" rel="noopener">IoT</a></span> | Artificial Intelligence | Chatbots</p>
+									</div>
+								</div>
+							</li>
+													</ul>
+					</div>
+				</div>
+				<div class="col-md-6 digital_img_blk wow fadeIn">
+					<img src="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/Cognitive-Image-1.svg" />
+					<h5>
+						Achieve next-level of digital maturity with <br />
+our top-notch cognitive capabilities					</h5>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="ml-section">
+	<div class="container-fluid">
+		<h2 class="cons_h3">
+			Machine Learning		</h2>
+		<h5>
+			Advanced Analytics. Deeper Insights. Faster Decision		</h5>
+		<div class="row">
+			<div class="col-md-6 ml-content">
+					<p>We provide enterprise-grade machine learning capabilities to enhance existing and build new business processes with intelligent algorithms.</p>
+<ul>
+<li>Processing high-volume data</li>
+<li><span style="color: #000000;"><a href="https://www.rapidvaluesolutions.com/cloud-consulting-and-cloud-services/" target="_blank" style="color: #000000;" rel="noopener">Cloud</a></span>-based infrastructure</li>
+<li>Predictive analytics based on historical data</li>
+<li>Adaptive analytics to respond in real-time</li>
+</ul>
+<p>At RapidValue, we have been investing deeply in artificial intelligence and cognitive technologies, and many of the solutions our customers experience are driven by machine learning capabilities. These solutions learn continuously and provide critical business insights. We work with industry-specific AI platform partners to deliver innovative machine learning solutions and services.</p>
+			</div>
+			<div class="col-md-6">
+				<img src="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/Cognitive.jpg" />
+			</div>
+		</div>
+	</div>
+</section>
+<section class="mobile_casestudy">
+	<div class="solutions-case-tab">
+		<div class="home-case-study-block case-study-redirect">
+						<a href="https://www.rapidvaluesolutions.com/casestudy/97-automated-insurance-underwriting">
+				<figure class="case-study-image-container">
+					<img src="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/97-automated-insurance-underwriting-using-rpa-1-1920x835.jpg" title="Automated Underwriting Decisions in Seconds" alt="Automated Underwriting Decisions in Seconds" />
+				</figure>
+			</a>
+			<div class="casestudy-content case-content-not-redirect">
+				<div class="container-fluid">
+					<div class="row">
+						<div class=" col-md-12">
+							<div class="casestudy">
+								<h5>Case Study</h5>
+								<div class="content-block">
+									<h4>
+										Automated Underwriting Decisions in Seconds									</h4>
+																		<br/><br/>
+									<a href="https://www.rapidvaluesolutions.com/casestudy/97-automated-insurance-underwriting" class="btn btn-primary">Find out more</a>
+									<button data-toggle="modal" data-target="#Downloadcasestudy" class="btn btn-secondary casestudy_download" data-name="Automated-Underwriting-Case-Study-by-RapidValue-1.pdf" data-path="https://www.rapidvaluesolutions.com/wp-content/uploads/2017/11/Automated-Underwriting-Case-Study-by-RapidValue-1.pdf">Download</button>
+								</div>
+							</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<div class="clearfix"></div>
+
+<div class="home-contact-block container-fluid" id="home-block">
+	<div class="row">
+		<div class="col-md-9">
+			<span class="how-can-we">How can we help you?</span>
+			<label class="to-schedule">To schedule a demo or to get a quote, get in touch with us.</label>
+		</div>
+		<div class="contact-link align-self-end col-md-3">
+			<a href="https://www.rapidvaluesolutions.com/contact-us/" class="plain-link-white"> <span  data-icon=">"></span> Contact Us</a>
+		</div>
+	</div>
+</div>
+</div>
+
+<div class="video_modal">
+	<div class="modal fade" id="Downloadcasestudy" role="dialog" data-toggle="modal">
+		<div class="modal-dialog">
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="modalClose" class="close" data-dismiss="modal" data-icon="X" onclick="window.opener.location.reload();"></button>
+				</div>
+				<div class="modal-body">
+					<div class="whitepaper-form">
+						<header><i class="icon-close-popup"></i>
+							<h5 class="formh5">Download Case Study</h5>
+						</header>
+						<article class="modal-body clearfix">
+							<noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-8-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-8" aria-describedby="nf-form-errors-8" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='8';form.settings={"objectType":"Form Setting","editActive":"1","title":"Download Casestudy","key":"","created_at":"2017-06-21 21:54:55","show_title":"0","clear_complete":"1","hide_complete":"1","default_label_pos":"above","wrapper_class":"","element_class":"","add_submit":"1","currency":"","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"The Form has reached it's submission limit.","calculations":[],"formContentData":["name_1494498286747","company_1494498270285","email_1494498130829","phone_1508217978537","sign_me_up_for_rapidvalue_updates_1494498537525","casestudy_name_1502949497071","case_study_url_1502949509543","casestudy_1503570272019","download_now_1494498378123"],"drawerDisabled":"","lock":"0","changeEmailErrorMsg":"Please enter a valid email address!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","unique_field_error":"A form with this value has already been submitted.","ninjaForms":"Ninja Forms","changeDateErrorMsg":"Please enter a valid date!","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#36;","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"label_pos":"hidden","required":1,"default":"","placeholder":"Name","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","label":"Name","key":"name_1494498286747","type":"firstname","custom_name_attribute":"fname","personally_identifiable":1,"id":51,"beforeField":"","afterField":"","parentType":"firstname","element_templates":["firstname","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"drawerDisabled":"","label_pos":"hidden","required":1,"placeholder":"Company","default":"","container_class":"one-half form-control","element_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","label":"Company","key":"company_1494498270285","type":"textbox","custom_name_attribute":"","personally_identifiable":"","id":52,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"label_pos":"hidden","required":1,"default":"","placeholder":"Email","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","label":"Email","key":"email_1494498130829","type":"email","custom_name_attribute":"email","personally_identifiable":1,"id":53,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":5,"element_class":"","help_text":"","admin_label":"","manual_key":"","disable_input":"","input_limit_msg":"Character(s) left","input_limit_type":"characters","input_limit":"","container_class":"one-half form-control","default":"","placeholder":"Contact Number","label_pos":"hidden","required":1,"label":"Phone","type":"phone","key":"phone_1508217978537","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","drawerDisabled":"","custom_name_attribute":"phone","personally_identifiable":1,"id":94,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["tel","textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":6,"label_pos":"right","required":"","container_class":"one-half first form-control ","element_class":"signme_check","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","default_value":"unchecked","checked_calc_value":"Sign me up for RapidValue updates","unchecked_calc_value":"Don't sign me up for RapidValue updates","default":"unchecked","drawerDisabled":false,"label":"Sign me up for RapidValue updates","key":"sign_me_up_for_rapidvalue_updates_1494498537525","type":"checkbox","checked_value":"Checked","unchecked_value":"Unchecked","id":55,"beforeField":"","afterField":"","parentType":"checkbox","value":"unchecked","element_templates":["checkbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":7,"default":"test","admin_label":"","drawerDisabled":"","label":"Casestudy Name","key":"casestudy_name_1502949497071","type":"hidden","id":56,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","value":"test","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":8,"default":"","admin_label":"","drawerDisabled":"","label":"Case Study Url","key":"case_study_url_1502949509543","type":"hidden","id":57,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":9,"type":"hidden","label":"Casestudy","key":"casestudy_1503570272019","default":"","admin_label":"","drawerDisabled":"","id":69,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":10,"processing_label":"Processing","container_class":"one-half btn btn-primary download_submit","element_class":"submit_btn","drawerDisabled":false,"label":"Download Now","key":"download_now_1494498378123","type":"submit","id":59,"beforeField":"","afterField":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+        						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="video_modal">
+	<div class="modal fade" id="Downloadwhitepaper" role="dialog" data-toggle="modal">
+		<div class="modal-dialog">
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="modalClose" class="close" data-dismiss="modal" data-icon="X" onclick="window.opener.location.reload();"></button>
+				</div>
+				<div class="modal-body">
+					<div class="whitepaper-form">
+						<header><i class="icon-close-popup"></i>
+							<h5 class="formh5">Download Whitepaper</h5>
+						</header>
+						<article class="modal-body clearfix">
+							<noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-3-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-3" aria-describedby="nf-form-errors-3" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='3';form.settings={"objectType":"Form Setting","editActive":true,"title":"Download Whitepaper","key":"","created_at":"2017-05-12 02:04:50","show_title":"0","clear_complete":"1","hide_complete":"1","default_label_pos":"above","wrapper_class":"","element_class":"","add_submit":"1","currency":"","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"The Form has reached it's submission limit.","calculations":[],"formContentData":["name_1494498286747","company_1494498270285","email_1494498130829","phone_1508218243614","sign_me_up_for_rapidvalue_updates_1507292978311","whitepaper_name_1495631737917","whitepaper_url_1495628216103","whitepaper_1503570321759","download_now_1536061680924"],"drawerDisabled":false,"changeEmailErrorMsg":"Please enter a valid email address!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","unique_field_error":"A form with this value has already been submitted.","ninjaForms":"Ninja Forms","changeDateErrorMsg":"Please enter a valid date!","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#36;","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"label_pos":"hidden","required":1,"default":"","placeholder":"Name","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","type":"firstname","label":"Name","key":"name_1494498286747","drawerDisabled":"","custom_name_attribute":"fname","personally_identifiable":1,"id":13,"beforeField":"","afterField":"","parentType":"firstname","element_templates":["firstname","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"label_pos":"hidden","required":1,"placeholder":"Company","default":"","container_class":"one-half form-control","element_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","type":"textbox","label":"Company","key":"company_1494498270285","drawerDisabled":"","custom_name_attribute":"","personally_identifiable":"","id":14,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"label_pos":"hidden","required":1,"default":"","placeholder":"Email","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","type":"email","label":"Email","key":"email_1494498130829","custom_name_attribute":"email","personally_identifiable":1,"id":15,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":5,"input_limit_msg":"Character(s) left","input_limit_type":"characters","input_limit":"","container_class":"one-half form-control","element_class":"","label_pos":"hidden","required":1,"default":"","placeholder":"Contact Number","key":"phone_1508218243614","label":"Phone","type":"phone","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","drawerDisabled":"","custom_name_attribute":"phone","personally_identifiable":1,"id":96,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["tel","textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":6,"default_value":"unchecked","desc_text":"","help_text":"","admin_label":"","disable_input":0,"manual_key":"","element_class":"signme_check","required":"","container_class":"one-half first form-control ","label_pos":"right","key":"sign_me_up_for_rapidvalue_updates_1507292978311","type":"checkbox","label":"Sign me up for RapidValue updates","drawerDisabled":false,"unchecked_calc_value":"Don't Sign me up for RapidValue updates","checked_calc_value":"Sign me up for RapidValue updates","checked_value":"Checked","unchecked_value":"Unchecked","id":82,"beforeField":"","afterField":"","parentType":"checkbox","element_templates":["checkbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":7,"key":"whitepaper_name_1495631737917","label":"Whitepaper Name","type":"hidden","default":"test","admin_label":"","drawerDisabled":"","id":39,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","value":"test","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":8,"type":"hidden","label":"Whitepaper Url","key":"whitepaper_url_1495628216103","default":"","admin_label":"","drawerDisabled":"","id":40,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":9,"type":"hidden","label":"Whitepaper","key":"whitepaper_1503570321759","default":"","admin_label":"","drawerDisabled":"","id":41,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":10,"processing_label":"Processing","container_class":"one-half btn btn-primary download_submit","element_class":"submit_btn","key":"download_now_1536061680924","label":"Download now","type":"submit","drawerDisabled":false,"id":18,"beforeField":"","afterField":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+        						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--Schedule Demo-->
+<div class="video_modal">
+	<div class="modal fade" id="DownloadDemo" role="dialog" data-toggle="modal">
+		<div class="modal-dialog">
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="modalClose" class="close" data-dismiss="modal" data-icon="X" onclick="window.opener.location.reload();"></button>
+				</div>
+				<div class="modal-body">
+					<div class="whitepaper-form">
+						<header><i class="icon-close-popup"></i>
+							<h5 class="formh5">Schedule Demo</h5>
+						</header>
+						<article class="modal-body clearfix">
+
+                             <noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-16-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-16" aria-describedby="nf-form-errors-16" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='16';form.settings={"objectType":"Form Setting","editActive":true,"title":" Schedule Demo","created_at":"2018-09-03 23:09:00","show_title":"0","clear_complete":"1","hide_complete":"1","default_label_pos":"above","wrapper_class":"","element_class":"","add_submit":"1","currency":"","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"The Form has reached it's submission limit.","calculations":[],"formContentData":["name_1494498286747","company_1494498270285","email_1494498130829","phone_1508218243614","sign_me_up_for_rapidvalue_updates_1507292978311","submit_1536063000018"],"drawerDisabled":false,"changeEmailErrorMsg":"Please enter a valid email address!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","unique_field_error":"A form with this value has already been submitted.","key":"","ninjaForms":"Ninja Forms","changeDateErrorMsg":"Please enter a valid date!","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#36;","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"drawerDisabled":false,"key":"name_1494498286747","label":"Name","type":"firstname","desc_text":"","help_text":"","admin_label":"","element_class":"","container_class":"one-half first form-control","placeholder":"Name","default":"","required":1,"label_pos":"hidden","custom_name_attribute":"fname","personally_identifiable":1,"id":162,"beforeField":"","afterField":"","parentType":"firstname","element_templates":["firstname","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"drawerDisabled":"","key":"company_1494498270285","label":"Company","type":"textbox","custom_mask":"","mask":"","disable_browser_autocomplete":"","desc_text":"","help_text":"","admin_label":"","disable_input":"","manual_key":"","input_limit_msg":"Character(s) left","input_limit_type":"characters","input_limit":"","element_class":"","container_class":"one-half form-control","default":"","placeholder":"Company","required":1,"label_pos":"hidden","custom_name_attribute":"","personally_identifiable":"","id":163,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"key":"email_1494498130829","label":"Email","type":"email","desc_text":"","help_text":"","admin_label":"","element_class":"","container_class":"one-half first form-control","placeholder":"Email","default":"","required":1,"label_pos":"hidden","custom_name_attribute":"email","personally_identifiable":1,"id":164,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":5,"placeholder":"Contact Number","key":"phone_1508218243614","label":"Phone","type":"phone","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","drawerDisabled":"","default":"","required":1,"input_limit_msg":"Character(s) left","input_limit_type":"characters","input_limit":"","container_class":"one-half form-control","element_class":"","label_pos":"hidden","custom_name_attribute":"phone","personally_identifiable":1,"id":169,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["tel","textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":6,"default_value":"unchecked","desc_text":"","help_text":"","admin_label":"","manual_key":"","element_class":"signme_check","required":"","container_class":"one-half first form-control ","label_pos":"right","key":"sign_me_up_for_rapidvalue_updates_1507292978311","type":"checkbox","label":"Sign me up for RapidValue updates","drawerDisabled":"","unchecked_calc_value":"Don't Sign me up for RapidValue updates","checked_calc_value":"Sign me up for RapidValue updates","checked_value":"Checked","unchecked_value":"Unchecked","disable_input":0,"id":170,"beforeField":"","afterField":"","parentType":"checkbox","element_templates":["checkbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":10,"processing_label":"Processing","container_class":"one-half btn btn-primary download_submit","element_class":"submit_btn","key":"submit_1536063000018","label":"Submit","type":"submit","drawerDisabled":false,"id":165,"beforeField":"","afterField":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+         
+						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--END-->
+
+<div class="video_modal">
+	<div class="modal fade" id="Downloadinfographics" role="dialog" data-toggle="modal">
+		<div class="modal-dialog">
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="modalClose" class="close" data-dismiss="modal" data-icon="X" onclick="window.opener.location.reload();"></button>
+				</div>
+				<div class="modal-body">
+					<div class="whitepaper-form">
+						<header><i class="icon-close-popup"></i>
+							<h5 class="formh5">Download Infographics</h5>
+						</header>
+						<article class="modal-body clearfix">
+							<noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-7-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-7" aria-describedby="nf-form-errors-7" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='7';form.settings={"objectType":"Form Setting","editActive":"1","title":"Download Infographics","key":"","created_at":"2017-06-21 21:54:55","show_title":"0","clear_complete":"1","hide_complete":"1","default_label_pos":"above","wrapper_class":"","element_class":"","add_submit":"1","currency":"","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"The Form has reached it's submission limit.","calculations":[],"formContentData":["name_1494498286747","company_1494498270285","email_1494498130829","phone_1494498131636","sign_me_up_for_rapidvalue_updates_1494498537525","infographics_name_1498107373370","infographics_url_1498107382792","infographics_1503570300281","download_now_1494498378123"],"drawerDisabled":"","lock":"0","changeEmailErrorMsg":"Please enter a valid email address!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","unique_field_error":"A form with this value has already been submitted.","ninjaForms":"Ninja Forms","changeDateErrorMsg":"Please enter a valid date!","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#36;","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"label_pos":"hidden","required":0,"default":"","placeholder":"Name","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","label":"Name","key":"name_1494498286747","type":"firstname","id":42,"beforeField":"","afterField":"","parentType":"firstname","element_templates":["firstname","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"label_pos":"hidden","required":0,"placeholder":"Company","default":"","container_class":"one-half form-control","element_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","label":"Company","key":"company_1494498270285","type":"textbox","id":43,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"label_pos":"hidden","required":1,"default":"","placeholder":"Email","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","label":"Email","key":"email_1494498130829","type":"email","id":44,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":4,"label_pos":"hidden","required":1,"placeholder":"Contact Number","default":"","container_class":"one-half form-control","element_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","label":"Phone","key":"phone_1494498131636","type":"phone","id":45,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["tel","textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":5,"label_pos":"right","required":"","container_class":"one-half first form-control ","element_class":"signme_check","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","default_value":"unchecked","checked_calc_value":"Sign me up for RapidValue updates","unchecked_calc_value":"Don't Sign me up for RapidValue updates","default":"unchecked","drawerDisabled":false,"label":"Sign me up for RapidValue updates","key":"sign_me_up_for_rapidvalue_updates_1494498537525","type":"checkbox","checked_value":"Checked","unchecked_value":"Unchecked","id":46,"beforeField":"","afterField":"","parentType":"checkbox","value":"unchecked","element_templates":["checkbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":999,"default":"test","admin_label":"","drawerDisabled":"","label":"Infographics Name","key":"infographics_name_1498107373370","type":"hidden","id":47,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","value":"test","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":999,"default":"","admin_label":"","drawerDisabled":"","label":"Infographics Url","key":"infographics_url_1498107382792","type":"hidden","id":48,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":999,"default":"","admin_label":"","drawerDisabled":"","label":"Infographics","key":"infographics_1503570300281","type":"hidden","id":49,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":9999,"processing_label":"Processing","container_class":"one-half btn btn-primary download_submit","element_class":"submit_btn","drawerDisabled":"","label":"Download Now","key":"download_now_1494498378123","type":"submit","id":50,"beforeField":"","afterField":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+        						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="video_modal">
+	<div class="modal fade" id="Downloadportfolio" role="dialog" data-toggle="modal">
+		<div class="modal-dialog">
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="modalClose" class="close" data-dismiss="modal" data-icon="X" onclick="window.opener.location.reload();"></button>
+				</div>
+				<div class="modal-body">
+					<div class="portfolio-form">
+						<header><i class="icon-close-popup"></i>
+							<h5 class="formh5">Download Portfolio</h5>
+						</header>
+						<article class="modal-body clearfix">
+							<noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-10-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-10" aria-describedby="nf-form-errors-10" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='10';form.settings={"objectType":"Form Setting","editActive":true,"title":"Download PortFolio","key":"","created_at":"2017-08-08 23:47:16","show_title":"0","clear_complete":"1","hide_complete":"1","default_label_pos":"above","wrapper_class":"","element_class":"","add_submit":"1","currency":"","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"The Form has reached it's submission limit.","calculations":[],"formContentData":["name_1494498286747","company_1494498270285","email_1494498130829","phone_1508218117033","sign_me_up_for_rapidvalue_updates_1494498537525","portfolio_name_1504764826725","portfolio_url_1504764834718","portfolio_1504764845533","download_now_1494498378123"],"drawerDisabled":false,"lock":"0","changeEmailErrorMsg":"Please enter a valid email address!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","unique_field_error":"A form with this value has already been submitted.","ninjaForms":"Ninja Forms","changeDateErrorMsg":"Please enter a valid date!","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#36;","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"label_pos":"hidden","required":1,"default":"","placeholder":"Name","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","drawerDisabled":"","label":"Name","key":"name_1494498286747","type":"firstname","id":70,"beforeField":"","afterField":"","parentType":"firstname","element_templates":["firstname","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"drawerDisabled":"","label_pos":"hidden","required":1,"placeholder":"Company","default":"","container_class":"one-half form-control","element_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","label":"Company","key":"company_1494498270285","type":"textbox","id":71,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"label_pos":"hidden","required":1,"default":"","placeholder":"Email","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","label":"Email","key":"email_1494498130829","type":"email","id":72,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":5,"element_class":"","input_limit":"","container_class":"one-half form-control","default":"","placeholder":"Contact Number","label_pos":"hidden","required":1,"label":"Phone","key":"phone_1508218117033","type":"phone","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","drawerDisabled":"","id":95,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["tel","textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":6,"label_pos":"right","required":"","container_class":"one-half first form-control ","element_class":"signme_check","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","default_value":"unchecked","checked_calc_value":"Sign me up for RapidValue updates","unchecked_calc_value":"Don't Sign me up for RapidValue updates","default":"unchecked","drawerDisabled":false,"label":"Sign me up for RapidValue updates","key":"sign_me_up_for_rapidvalue_updates_1494498537525","type":"checkbox","checked_value":"Checked","unchecked_value":"Unchecked","id":74,"beforeField":"","afterField":"","parentType":"checkbox","value":"unchecked","element_templates":["checkbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":7,"default":"test","admin_label":"","drawerDisabled":"","label":"Portfolio Name","key":"portfolio_name_1504764826725","type":"hidden","id":75,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","value":"test","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":8,"default":"","admin_label":"","drawerDisabled":"","label":"Portfolio Url","key":"portfolio_url_1504764834718","type":"hidden","id":76,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":9,"default":"","admin_label":"","drawerDisabled":"","label":"Portfolio","key":"portfolio_1504764845533","type":"hidden","id":77,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":10,"processing_label":"Processing","container_class":"one-half btn btn-primary download_submit","element_class":"submit_btn","drawerDisabled":"","label":"Download Now","key":"download_now_1494498378123","type":"submit","id":78,"beforeField":"","afterField":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+        						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="video_modal">
+	<div class="modal fade" id="Downloadbrochure" role="dialog" data-toggle="modal">
+		<div class="modal-dialog">
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="modalClose" class="close" data-dismiss="modal" data-icon="X" onclick="window.opener.location.reload();"></button>
+				</div>
+				<div class="modal-body">
+					<div class="whitepaper-form">
+						<header><i class="icon-close-popup"></i>
+							<h5 class="formh5">Download Brochure</h5>
+						</header>
+						<article class="modal-body clearfix">
+							<noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-9-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-9" aria-describedby="nf-form-errors-9" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='9';form.settings={"objectType":"Form Setting","editActive":"1","title":"Download Brochure","key":"","created_at":"2017-08-08 23:47:16","show_title":"0","clear_complete":"1","hide_complete":"1","default_label_pos":"above","wrapper_class":"","element_class":"","add_submit":"1","currency":"","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"The Form has reached it's submission limit.","calculations":[],"formContentData":["name_1494498286747","company_1494498270285","email_1494498130829","phone_1508217590333","sign_me_up_for_rapidvalue_updates_1494498537525","brochure_name_1502261629526","brochure_url_1502261636910","brochure_1503568011624","download_now_1494498378123"],"drawerDisabled":"","lock":"0","unique_field_error":"A form with this value has already been submitted.","ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#36;","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"label_pos":"hidden","required":1,"default":"","placeholder":"Name","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","drawerDisabled":"","label":"Name","key":"name_1494498286747","type":"firstname","custom_name_attribute":"fname","personally_identifiable":1,"id":60,"beforeField":"","afterField":"","parentType":"firstname","element_templates":["firstname","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"drawerDisabled":"","label_pos":"hidden","required":1,"placeholder":"Company","default":"","container_class":"one-half form-control","element_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","label":"Company","key":"company_1494498270285","type":"textbox","custom_name_attribute":"","personally_identifiable":"","id":61,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"label_pos":"hidden","required":1,"default":"","placeholder":"Email","container_class":"one-half first form-control","element_class":"","admin_label":"","help_text":"","desc_text":"","label":"Email","key":"email_1494498130829","type":"email","drawerDisabled":false,"custom_name_attribute":"email","personally_identifiable":1,"id":62,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":4,"manual_key":"","input_limit_msg":"Character(s) left","input_limit":"","input_limit_type":"characters","element_class":"","container_class":"one-half form-control","label_pos":"hidden","required":1,"default":"","placeholder":"Contact Number","key":"phone_1508217590333","label":"Phone","type":"phone","custom_mask":"","mask":"","drawerDisabled":"","disable_browser_autocomplete":"","desc_text":"","help_text":"","admin_label":"","disable_input":"","custom_name_attribute":"phone","personally_identifiable":1,"id":93,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["tel","textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":6,"label_pos":"right","required":"","container_class":"one-half first form-control ","element_class":"signme_check","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","default_value":"unchecked","checked_calc_value":"Sign me up for RapidValue updates","unchecked_calc_value":"Don't Sign me up for RapidValue updates","default":"unchecked","drawerDisabled":false,"label":"Sign me up for RapidValue updates","key":"sign_me_up_for_rapidvalue_updates_1494498537525","type":"checkbox","checked_value":"Checked","unchecked_value":"Unchecked","id":64,"beforeField":"","afterField":"","parentType":"checkbox","value":"unchecked","element_templates":["checkbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":7,"default":"test","admin_label":"","drawerDisabled":"","label":"Brochure Name","key":"brochure_name_1502261629526","type":"hidden","id":65,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","value":"test","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":8,"default":"","admin_label":"","drawerDisabled":"","label":"Brochure Url","key":"brochure_url_1502261636910","type":"hidden","id":66,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":9,"default":"","admin_label":"","drawerDisabled":"","label":"Brochure","key":"brochure_1503568011624","type":"hidden","id":67,"beforeField":"","afterField":"","label_pos":"above","parentType":"hidden","element_templates":["hidden","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":10,"processing_label":"Processing","container_class":"one-half btn btn-primary download_submit","element_class":"submit_btn","drawerDisabled":"","label":"Download Now","key":"download_now_1494498378123","type":"submit","id":68,"beforeField":"","afterField":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+        						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer class="site-footer container-fluid">
+	<div class="row">
+		<div class="col-md-9">
+			<nav class="footer-nav">
+				<div class="menu-rapidvalue-footermenu-container"><ul class="menu row"><li id='menu-item-116'  class="col-md-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children"><h5 class='footer_menu_head'><label>Digital Services</label></h5>
+<ul class="sub-menu level-0">
+<li id='menu-item-118'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.rapidvaluesolutions.com/mobile-omnichannel-digital-solutions/"><span data-hover='Mobile &#038; Omni-Channel'>Mobile &#038; Omni-Channel</span></a> </li>
+<li id='menu-item-120'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.rapidvaluesolutions.com/iot-services/"><span data-hover='IoT'>IoT</span></a> </li>
+<li id='menu-item-122'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.rapidvaluesolutions.com/devops-services/"><span data-hover='Microservices &#038; DevOps'>Microservices &#038; DevOps</span></a> </li>
+</ul>
+</li>
+<li id='menu-item-123'  class="col-md-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children"><h5 class='footer_menu_head'><label>Digital Journeys</label></h5>
+<ul class="sub-menu level-0">
+<li id='menu-item-124'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.rapidvaluesolutions.com/equipme-oracle-digital-suite/"><span data-hover='eQuipMe™ – Oracle Digital Suite'>eQuipMe™ – Oracle Digital Suite</span></a> </li>
+<li id='menu-item-126'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.rapidvaluesolutions.com/asseteze-smart-asset-management-solutions/"><span data-hover='AsseteZe – Smart Asset Manager'>AsseteZe – Smart Asset Manager</span></a> </li>
+<li id='menu-item-125'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.rapidvaluesolutions.com/accurate/"><span data-hover='AccuRate – Test Automation Suite'>AccuRate – Test Automation Suite</span></a> </li>
+</ul>
+</li>
+<li id='menu-item-380'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children"><h5 class='footer_menu_head'><label>Company</label></h5>
+<ul class="sub-menu level-0">
+<li id='menu-item-8877'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.rapidvaluesolutions.com/about-us/#About"><span data-hover='About Us'>About Us</span></a> </li>
+<li id='menu-item-8878'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.rapidvaluesolutions.com/about-us/#Milestones"><span data-hover='Milestones'>Milestones</span></a> </li>
+<li id='menu-item-8879'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.rapidvaluesolutions.com/about-us/#Leadership"><span data-hover='Leadership'>Leadership</span></a> </li>
+<li id='menu-item-8880'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.rapidvaluesolutions.com/about-us/#Awards&amp;Recognition"><span data-hover='Awards'>Awards</span></a> </li>
+<li id='menu-item-8881'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.rapidvaluesolutions.com/about-us/#Events"><span data-hover='Events'>Events</span></a> </li>
+<li id='menu-item-8882'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.rapidvaluesolutions.com/about-us/#Media"><span data-hover='Media'>Media</span></a> </li>
+<li id='menu-item-8883'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.rapidvaluesolutions.com/about-us/#Partners"><span data-hover='Partners'>Partners</span></a> </li>
+</ul>
+</li>
+</ul></div>			</nav>
+		</div>
+		<div class="social-links-block col-md-3">
+			<h5 class="footer_menu_head">Connect With Us</h5>
+			<ul class="social-links-footer row d-flex flex-sm-wrap flex-nowrap justify-content-between">
+				<li class="col-md-3 col-1"><a href="https://www.facebook.com/RapidValue" data-icon="f" target="_blank"><span>Facebook</span></a></li>
+				<li class="col-md-3 col-1"><a href="https://plus.google.com/113259425789862615985/posts" data-icon="g" target="_blank"><span>GooglePlus</span></a></li>
+				<li class="col-md-3 col-1"><a href="https://www.instagram.com/rapidvalue_solutions/" data-icon="n" target="_blank"><span>Instagram</span></a></li>
+				<li class="col-md-3 col-1"><a href="https://www.linkedin.com/company/rapidvalue" data-icon="i" target="_blank"><span>Linkedin</span></a></li>
+				<li class="col-md-3 col-1"><a href="http://www.slideshare.net/Rapidvaluesolutions" data-icon="s" target="_blank"><span>Slideshare</span></a></li>
+				<li class="col-md-3 col-1"><a href="https://in.pinterest.com/RapidValue/" data-icon="p" target="_blank"><span>Pinterest</span></a></li>
+				<li class="col-md-3 col-1"><a href="https://www.youtube.com/channel/UCc2SXewmMWZ8Tbpr9Iwuuww" data-icon="y" target="_blank"><span>Youtube</span></a></li>
+				<li class="col-md-3 col-1"><a href="https://twitter.com/rapidvalue" data-icon="t" target="_blank"><span>Twitter</span></a></li>
+			</ul>
+			<div class="contact-number">
+				<h5>24/7 Toll Free</h5>
+				<a href="tel:+ 1-877-643-1850" class="phone">+ 1-877-643-1850</a>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="footer-copyrights">© RapidValue Solutions</div>
+		</div>
+	</div>
+</footer>
+<!-- .site-footer -->
+<script src="https://use.typekit.net/ven0qpd.js"></script>
+<script>
+	try {
+		Typekit.load({
+			async: true
+		});
+	} catch (e) {}
+</script>
+<!--<link href="https://fonts.googleapis.com/css?family=Montserrat:200,300" rel="stylesheet">-->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800" rel="stylesheet">
+<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/vendor/modernizr-2.8.3.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+	window.jQuery || document.write('<script src="RapidValue/js/vendor/jquery-1.12.0.min.js"><\/script>')
+</script>
+<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/jquery.easeScroll.js"></script>
+<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/owl.carousel.min.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>-->
+
+<!---->
+
+<!--<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/mediaelement/mediaplayer.js"></script>-->
+<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/mediaelement/mediaelement-and-player.min.js"></script>
+
+<script>
+	$(document).ready(function () {
+		$("#nav-mobile").html($("#nav-main").html());
+		$("#nav-trigger span").click(function () {
+			if ($("nav#nav-mobile ul").hasClass("expanded")) {
+				$("nav#nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
+				$(this).removeClass("open");
+			} else {
+				$("nav#nav-mobile ul").addClass("expanded").slideDown(250);
+				$(this).addClass("open");
+			}
+		});
+	});
+	$(window).load(function () {
+		$('.post-load').each(function () {
+			var $this = $(this);
+			setTimeout(function () {
+				$this.attr('src', $this.data('src')).hide().fadeIn();
+			}, 2000);
+		});
+	});
+
+	/*---------Company--------------*/
+	var companyNavtab = $('.company-nav-tab');
+	if (companyNavtab.length) {
+		var companyNav = companyNavtab.offset().top - $('.site-header').outerHeight(true);
+
+		function onScroll(event) {
+			var scrollPos = $(window).scrollTop();
+			$('#company-nav-tab a').each(function () {
+				var currLink = $(this);
+				var refElement = $(currLink.attr("href"));
+				if (refElement.position().top <= scrollPos && refElement.position().top - refElement.height() > scrollPos) {
+					$('#company-nav-tab ul li a').removeClass("active");
+					currLink.addClass("active");
+				} else {
+					currLink.removeClass("active");
+				}
+			});
+		}
+	}
+</script>
+
+<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/custom.js"></script>
+
+<script type="text/javascript">
+	$('#myNavbar').animate({
+		scrollTop: $('#myDiv').get(0).scrollHeight
+	}, 1500);
+
+	var $ = jQuery;
+	$('body').scrollspy({
+		target: '#myNavbar',
+		offset: 450
+	})
+	$(document).ready(function () {
+		removeSection = function (e) {
+			$('[data-spy="scroll"]').each(function () {
+				var $spy = $(this).scrollspy('refresh');
+			});
+		}
+		$(".scroll-area").scrollspy({
+			target: "#myNavbar"
+		});
+	});
+
+	var casestudy = $('.case-study-nav-default');
+	if (casestudy.length) {
+		var fixmeTop = $('.case-study-about').offset().top
+
+		$(window).scroll(function () {
+			var currentScroll = $(window).scrollTop();
+			if (currentScroll >= fixmeTop) {
+				$('.case-study-nav-default').removeClass('absolute_nav_casestudy');
+				$('.case-study-nav-default').addClass('fixtop_casestudy');
+			} else {
+				$('.case-study-nav-default').removeClass('fixtop_casestudy');
+				$('.case-study-nav-default').addClass('absolute_nav_casestudy');
+			}
+		});
+
+	}
+
+	$(window).scroll(function () {
+		div1 = $('.home-contact-block');
+		div2 = $('.case-study-nav-default');
+
+		div1FromTop = div1.offset().top + 170
+		div2FromTop = $(window).scrollTop() + $(window).height();
+
+		if (div1FromTop <= div2FromTop) div2.hide();
+		else div2.show();
+	});
+
+	$(document).ready(function ($) {
+		$("a").on('click', function (e) {
+			if (this.hash !== "" && this.pathname == window.location.pathname) {
+				e.preventDefault();
+				var target = this.hash;
+				var topOffset = 0;
+				if (target != "#top") {
+					var topOffset = $(target).offset().top - 330;
+				}
+
+				$('html, body').stop().animate({
+					'scrollTop': topOffset
+				}, 900, 'swing', function () {
+					window.location.hash = target;
+				});
+			}
+		});
+	});
+
+	$(window).scroll(function () {
+		div1 = $('.home-contact-block');
+		div2 = $('.whitepaper-nav-default');
+
+		div1FromTop = div1.offset().top + 170
+		div2FromTop = $(window).scrollTop() + $(window).height();
+
+		if (div1FromTop <= div2FromTop) div2.hide();
+		else div2.show();
+	});
+
+	$('.count').each(function () {
+		$(this).prop('Counter', 5).animate({
+			Counter: $(this).text()
+		}, {
+			duration: 4000,
+			easing: 'swing',
+			step: function (now) {
+				$(this).text(Math.ceil(now));
+			}
+		});
+	});
+</script>
+<script type="text/javascript">
+	function selectchanged() {
+		var selectedCase = $("#caseselect option:selected").val();
+		$(".item").hide();
+		$("div[data-cat='Commerce / Retail']").show();
+	}
+</script>
+<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/slick.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+	$(document).on('ready', function () {
+		$('.responsive').slick({
+			infinite: false,
+			dots: true,
+			speed: 300,
+			slidesToShow: 2,
+			slidesToScroll: 2,
+			autoplay: true,
+			responsive: [{
+					breakpoint: 1024,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 2,
+						infinite: true,
+					}
+				},
+				{
+					breakpoint: 767,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1
+					}
+				},
+				{
+					breakpoint: 480,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1
+					}
+				}
+			]
+		});
+	});
+</script>
+
+<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/wow.min.js"></script>
+<script>
+	new WOW().init();
+
+	jQuery(function ($) {
+		$(window).resize(function () {
+			if ($(window).width() < 768) {
+				$(".dropdown-toggle").attr('data-toggle', 'dropdown');
+			} else {
+				$(".dropdown-toggle").removeAttr('data-toggle dropdown');
+			}
+			if ($(window).width() < 1280) {}
+		});
+	});
+
+	var fadeblock = $('.innerbanner');
+	var range = 200;
+	if (fadeblock.length) {
+		$(window).on('scroll', function () {
+
+			var scrollTop = $(this).scrollTop();
+			var offset = fadeblock.offset().top
+			var height = fadeblock.outerHeight();
+			offset = offset + height / 2;
+			var calc = 1 - (scrollTop - offset + range) / range;
+
+			fadeblock.css({
+				'opacity': calc
+			});
+
+			if (calc > '1') {
+				fadeblock.css({
+					'opacity': 1
+				});
+			} else if (calc < '0') {
+				fadeblock.css({
+					'opacity': 0
+				});
+			}
+		});
+	}
+
+	$('.footer_menu_head').click(function (e) {
+		if (jQuery(window).width() < 768) {
+			e.preventDefault();
+			var $this = $(this).parent().find('.sub-menu');
+			$(".footer-nav .sub-menu").not($this).hide();
+			$this.slideToggle();
+		}
+	});
+
+	/*$(window).resize(function() {
+		location.reload();
+	});*/
+
+
+	$(".menu-item").on("click", function () {
+		if ($(".sub-menu .rvs-back:visible")) {
+			$('.menu_whole .rvs-back').css('display:none !important;');
+		}
+	});
+</script>
+<!--<script src="https://www.rapidvaluesolutions.com/wp-content/themes/RapidValue/js/jquery.masonry.js"></script> -->
+<script>
+	/*$(function() {
+
+			var $container = $('#portfolio');
+
+			$container.imagesLoaded(function() {
+				$container.masonry({
+					itemSelector: '.port_box'
+				});
+			});
+
+	});*/
+</script>
+
+<script>
+	$(document).ready(function () {
+		$('button.btn-videoplay').click(function () {
+			var videobutton = $(this);
+			var videopath = $(this).data('attribute');
+			document.getElementById('videolinkfield').src = videopath + '?autoplay=1';
+			/*$('.iframeauto').$(this).src += "?autoplay=1";*/
+			var videoparent = videobutton.parent();
+			var videosibling = videoparent.siblings('.video_modal');
+			var playvideo = videosibling.find('video');
+			playvideo.trigger('play');
+		});
+		$('button.key_appl_video').click(function () {
+			var keyapplbutton = $(this);
+			var videopath = $(this).data('attribute');
+			document.getElementById('videolinkfield').src = videopath;
+			/*$('.iframeauto').$(this).src += "?autoplay=1";*/
+			var videoparent = keyapplbutton.parent().parent().parent();
+			var videosibling = videoparent.siblings('.video_modal');
+			var playvideo = videosibling.find('video');
+			playvideo.trigger('play');
+		});
+		$('button.banner-videoplay').click(function () {
+			$('video').trigger('play');
+		});
+		$('button.company_about_video').click(function () {
+			$('video').trigger('play');
+		});
+
+		$('button.close').click(function () {
+			$('video').each(function () {
+				$('video').trigger('pause');
+			});
+			vimeoWrap = $('#vimeowrap');
+			vimeoWrap.html(vimeoWrap.html());
+		})
+		$('.modal').click(function () {
+			$('video').each(function () {
+				$('video').trigger('pause');
+			});
+		});
+		$(".modal>.modal-dialog>.modal-content>.modal-body").click(function (e) {
+			e.stopPropagation();
+		});
+	});
+</script>
+
+<script>
+	$(document).ready(function () {
+		$('button.brochure_download').click(function () {
+			var brochurefilepath = $(this).data('path');
+			var brochurefilename = $(this).data('name');
+			var brochure = brochurefilename.substr(0, brochurefilename.lastIndexOf('.'));
+			var brochurename = brochure.replace(/-/g, ' ');
+			$('#nf-field-65').val(brochurefilename);
+			$('#nf-field-66').val(brochurefilepath);
+			$('#nf-field-67').val(brochurename);
+		});
+
+		//$('button.whitepaper_download').click(function(){
+		$(".container-fluid").on("click", "button.whitepaper_download", function () {
+			var whitepaperfilepath = $(this).data('path');
+			var whitepaperfilename = $(this).data('name');
+			var whitepaper = whitepaperfilename.substr(0, whitepaperfilename.lastIndexOf('.'));
+			var whitepapername = whitepaper.replace(/-/g, ' ');
+			$('#nf-field-39').val(whitepaperfilename);
+			$('#nf-field-40').val(whitepaperfilepath);
+			$('#nf-field-41').val(whitepapername);
+		});
+
+		$('button.infographics_download').click(function () {
+			var infographicsfilepath = $(this).data('path');
+			var infographicsfilename = $(this).data('name');
+			var infographics = infographicsfilename.substr(0, infographicsfilename.lastIndexOf('.'));
+			var infographicsname = infographics.replace(/-/g, ' ');
+			$('#nf-field-47').val(infographicsfilename);
+			$('#nf-field-48').val(infographicsfilepath);
+			$('#nf-field-49').val(infographicsname);
+		});
+        
+//        schedule demo
+        
+        $('button.schedule_demo').click(function () {
+			var schedulefilepath = $(this).data('path');
+			var schedulefilename = $(this).data('name');
+			var schedule = schedulefilename.substr(0, schedulefilename.lastIndexOf('.'));
+			var schedulename = schedule.replace(/-/g, ' ');
+			$('#nf-field-166').val(schedulefilename);    
+			$('#nf-field-167').val(schedulefilepath);
+			$('#nf-field-168').val(schedulename);  
+		});
+
+		$('button.casestudy_download').click(function () {
+			var casestudyfilepath = $(this).data('path');
+			var casestudyfilename = $(this).data('name');
+			var casestudy = casestudyfilename.substr(0, casestudyfilename.lastIndexOf('.'));
+			var casestudyname = casestudy.replace(/-/g, ' ');
+			$('#nf-field-56').val(casestudyfilename);
+			$('#nf-field-57').val(casestudyfilepath);
+			$('#nf-field-69').val(casestudyname);
+		});
+
+		$('button.portfolio_download').click(function () {
+			var portfoliofilepath = $(this).data('path');
+			var portfoliofilename = $(this).data('name');
+			var portfolio = portfoliofilename.substr(0, portfoliofilename.lastIndexOf('.'));
+			var portfolioname = portfolio.replace(/-/g, ' ');
+			$('#nf-field-75').val(portfoliofilename);
+			$('#nf-field-76').val(portfoliofilepath);
+			$('#nf-field-77').val(portfolioname);
+		});
+		var formExists = setInterval(function () {
+			if ($(".nf-form-cont").length) {
+				// Set your event listeners here, example:
+				var jobAppliedFor = $('.form-intro span').text();
+				$('#nf-field-98').val(jobAppliedFor);
+				clearInterval(formExists);
+			}
+		}, 100); // check every 100ms
+
+	});
+</script>
+<script>
+	if ($(window).width() < 767) {
+		$('.menu-item').removeClass('three_level');
+	}
+
+	function goBack() {
+		window.history.back();
+	}
+</script>
+<script>
+	$(document).ready(function () {
+		$('.rvs-toggled-button').toggle(function () {
+			$('.rvs-toggled-button span').hide();
+		});
+		$("button").show();
+		$("a").show();
+		// Hide the div
+		$(".first-readmore").hide();
+		// Show the div after 5s
+		$(".first-readmore").delay(5000).fadeIn(100);
+	});
+</script>
+<script>
+	$(function () {
+		$('#modalClose').click(function () {
+			$('.modal-body iframe').attr('src', $('iframe').attr('src'));
+		});
+	});
+</script>
+
+<script>
+	var resizeboxes = function () {
+		if ($(window).width() < 767) {
+			$('#myNav').addClass('overlay');
+			$('#main-nav').addClass('overlay-content');
+			$('#myNav').append('<div class="overlay-head"><span class="site-logo"><a href="https://www.rapidvaluesolutions.com" alt="RapidValue Solutions" title="RapidValue Solutions">RapidValue <small>Building Digital Enterprise</small></a></span></div>');
+			$('#myNav').append('<a href="javascript:void(0)" data-icon="X" class="closebtn" onclick="closeNav()"></a>');
+			$('.overlay-head').eq(1).remove();
+		} else {
+			$('#myNav').removeClass('overlay');
+			$('#main-nav').removeClass('overlay-content');
+			$('.closebtn').remove();
+			$('.overlay-head').remove();
+		}
+		if ($(window).width() < 767) {
+			$('.company-reload ul li ul li').click(function () {
+				location.reload();
+			});
+		}
+
+	}
+	resizeboxes();
+
+	$(window).resize(function () {
+		resizeboxes();
+	});
+
+	function openNav() {
+		document.getElementById("myNav").style.width = "100%";
+	}
+
+	function closeNav() {
+		document.getElementById("myNav").style.width = "0%";
+	}
+</script>
+
+<script>
+	function myFunction(x) {
+		x.classList.toggle("change");
+	}
+
+	$('.hiring_active ul').remove();
+	$('.rounded ul').remove();
+
+	$("li.hiring_active, li.rounded").click(function (event) {
+		event.stopPropagation();
+	});
+
+	jQuery(document).ready(function () {
+		jQuery('.main-navigation').fadeIn(1000);
+	});
+
+	$('li.no-redirect-link > a').click(function (e) {
+		e.preventDefault();
+	});
+</script>
+<script>
+	$(document).ready(function () {
+		$("body").on('click', 'input[type="checkbox"]', function (e) {
+			e.stopImmediatePropagation();
+			var checked = (e.currentTarget.checked) ? false : true;
+			e.currentTarget.checked = (checked) ? false : checked.toString();
+		});
+		$("body").on('click', '#modalClose', function (e) {
+			$('input').not('.submit_btn').val('');
+			//$('input:checkbox').removeAttr('checked');
+			/*$('.nf-error-msg').hide();*/
+		});
+		$("body").on('keypress', 'input[type="tel"]', function (e) {
+			if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+				return false;
+			}
+		});
+
+		/*$("body").on('keypress', '#nf-field-11', function(e) {
+			var re = /^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/.test(this.value);
+			if (!re) {
+				$( ".email-container .nf-error-wrap" ).append( "<div class='nf-error-msg nf-error-invalid-email'>Please enter a valid email address!</div>" );
+				$( ".nf-error-invalid-email" ).siblings().remove();
+			} else {
+				$('nf-error-invalid-email').remove();
+			}
+		});*/
+		$("body").on('click', '#navbarCollapse', function (e) {
+			if ($(window).width() < 767) {
+				if ($("#navbarCollapse .case-study-nav").hasClass("expanded")) {
+					$('.case-study-nav li').on('click', function (e) {
+						$('.case-study-nav').removeClass('expanded').slideUp(250);
+					});
+				}
+			}
+		});
+
+		/*$("body").on('click', '#modalClose', function(e) {
+			$('.nf-error-msg').hide();
+		});
+		$("body").on('click', '.submit_btn', function(e) {
+			$('.nf-error-msg').show();
+		});
+		$("body").on('click', '.download_submit', function(e) {
+			$('.nf-error-msg').show();
+		});*/
+
+	});
+
+	$(function () {
+		if (($(location).attr("href")) == 'http://dev.rapidvaluesolutions.com/TempDirectory/RVSwebsite/wordpress/case-study-listing/') {
+
+			$('.custom_active').addClass('active');
+		} else {
+			$('.custom_active').removeClass('active');
+		}
+	});
+
+
+	$(document).on('nfFormReady', function (e, layoutView) {
+		if ($(window).width() < 767) {
+			$('nf-fields-wrap nf-field div').removeClass('one-half');
+		} else {
+			$('nf-fields-wrap>nf-field>div').addClass('one-half');
+			$('#nf-field-11-container,#nf-field-12-container,#nf-field-35-container,#nf-field-36-container,#nf-field-37-container').removeClass('one-half');
+		}
+		if ($(window).width() < 870) {
+			$('#nf-field-9-container').removeClass('one-half');
+			$('#nf-field-10-container').removeClass('one-half');
+		} else {
+			$('#nf-field-9-container').addClass('one-half');
+			$('#nf-field-10-container').addClass('one-half');
+		}
+	});
+</script>
+
+<!-- Tracking Codes - Start----------------->
+
+
+<!-- Zoho Chat Code -->
+<script type="text/javascript">
+	var $zoho = $zoho || {
+		salesiq: {
+			values: {},
+			ready: function () {
+				$zoho.salesiq.floatbutton.visible("hide");
+			}
+		}
+	};
+	var d = document;
+	s = d.createElement("script");
+	s.type = "text/javascript";
+	s.defer = true;
+	s.src = "https://salesiq.zoho.com/rapidvalueitsolutions/float.ls?embedname=rapidvalueitsolutions";
+	t = d.getElementsByTagName("script")[0];
+	t.parentNode.insertBefore(s, t);
+</script>
+
+		<!-- Tracking Codes - End -->
+
+		<link rel='stylesheet' id='dashicons-css'  href='https://www.rapidvaluesolutions.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nf-display-css'  href='https://www.rapidvaluesolutions.com/wp-content/plugins/ninja-forms/assets/css/display-structure.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxsearchlite = {"ajaxurl":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
+var ASL = {"ajaxurl":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery","detect_ajax":"0","scrollbar":"1","js_retain_popstate":"0","version":"4722"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.rapidvaluesolutions.com/wp-content/plugins/ajax-search-lite/js/min/jquery.ajaxsearchlite.min.js'></script>
+<script type='text/javascript' src='https://www.rapidvaluesolutions.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://www.rapidvaluesolutions.com/wp-includes/js/underscore.min.js'></script>
+<script type='text/javascript' src='https://www.rapidvaluesolutions.com/wp-includes/js/backbone.min.js'></script>
+<script type='text/javascript' src='https://www.rapidvaluesolutions.com/wp-content/plugins/ninja-forms/assets/js/min/front-end-deps.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","ajaxNonce":"6501bbfc53","requireBaseUrl":"https:\/\/www.rapidvaluesolutions.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","ajaxNonce":"6501bbfc53","requireBaseUrl":"https:\/\/www.rapidvaluesolutions.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","ajaxNonce":"6501bbfc53","requireBaseUrl":"https:\/\/www.rapidvaluesolutions.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","ajaxNonce":"6501bbfc53","requireBaseUrl":"https:\/\/www.rapidvaluesolutions.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","ajaxNonce":"6501bbfc53","requireBaseUrl":"https:\/\/www.rapidvaluesolutions.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"$","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.rapidvaluesolutions.com\/wp-admin\/admin-ajax.php","ajaxNonce":"6501bbfc53","requireBaseUrl":"https:\/\/www.rapidvaluesolutions.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr","file_upload":"file_upload"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rapidvaluesolutions.com/wp-content/plugins/ninja-forms/assets/js/min/front-end.js'></script>
+<script id="tmpl-nf-layout" type="text/template">
+	<span id="nf-form-title-{{{ data.id }}}" class="nf-form-title">
+		{{{ ( 1 == data.settings.show_title ) ? '<h3>' + data.settings.title + '</h3>' : '' }}}
+	</span>
+	<div class="nf-form-wrap ninja-forms-form-wrap">
+		<div class="nf-response-msg"></div>
+		<div class="nf-debug-msg"></div>
+		<div class="nf-before-form"></div>
+		<div class="nf-form-layout"></div>
+		<div class="nf-after-form"></div>
+	</div>
+</script>
+
+<script id="tmpl-nf-empty" type="text/template">
+
+</script>
+<script id="tmpl-nf-before-form" type="text/template">
+	{{{ data.beforeForm }}}
+</script><script id="tmpl-nf-after-form" type="text/template">
+	{{{ data.afterForm }}}
+</script><script id="tmpl-nf-before-fields" type="text/template">
+    <div class="nf-form-fields-required">{{{ data.renderFieldsMarkedRequired() }}}</div>
+    {{{ data.beforeFields }}}
+</script><script id="tmpl-nf-after-fields" type="text/template">
+    {{{ data.afterFields }}}
+    <div id="nf-form-errors-{{{ data.id }}}" class="nf-form-errors" role="alert"></div>
+    <div class="nf-form-hp"></div>
+</script>
+<script id="tmpl-nf-before-field" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-after-field" type="text/template">
+    {{{ data.afterField }}}
+</script><script id="tmpl-nf-form-layout" type="text/template">
+	<form>
+		<div>
+			<div class="nf-before-form-content"></div>
+			<div class="nf-form-content {{{ data.element_class }}}"></div>
+			<div class="nf-after-form-content"></div>
+		</div>
+	</form>
+</script><script id="tmpl-nf-form-hp" type="text/template">
+	<label for="nf-field-hp-{{{ data.id }}}" aria-hidden="true">
+		{{{ nfi18n.formHoneypot }}}
+		<input id="nf-field-hp-{{{ data.id }}}" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value=""/>
+	</label>
+</script>
+<script id="tmpl-nf-field-layout" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-container" class="nf-field-container {{{ data.type }}}-container {{{ data.renderContainerClass() }}}">
+        <div class="nf-before-field"></div>
+        <div class="nf-field"></div>
+        <div class="nf-after-field"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-before" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-field-after" type="text/template">
+    <#
+    /*
+     * Render our input limit section if that setting exists.
+     */
+    #>
+    <div class="nf-input-limit"></div>
+    <#
+    /*
+     * Render our error section if we have an error.
+     */
+    #>
+    <div id="nf-error-{{{ data.id }}}" class="nf-error-wrap nf-error" role="alert"></div>
+    <#
+    /*
+     * Render any custom HTML after our field.
+     */
+    #>
+    {{{ data.afterField }}}
+</script>
+<script id="tmpl-nf-field-wrap" type="text/template">
+	<div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+		<#
+		/*
+		 * This is our main field template. It's called for every field type.
+		 * Note that must have ONE top-level, wrapping element. i.e. a div/span/etc that wraps all of the template.
+		 */
+        #>
+		<#
+		/*
+		 * Render our label.
+		 */
+        #>
+		{{{ data.renderLabel() }}}
+		<#
+		/*
+		 * Render our field element. Uses the template for the field being rendered.
+		 */
+        #>
+		<div class="nf-field-element">{{{ data.renderElement() }}}</div>
+		<#
+		/*
+		 * Render our Description Text.
+		 */
+        #>
+		{{{ data.renderDescText() }}}
+	</div>
+</script>
+<script id="tmpl-nf-field-wrap-no-label" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+        <div class="nf-field-label"></div>
+        <div class="nf-field-element">{{{ data.renderElement() }}}</div>
+        <div class="nf-error-wrap"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-wrap-no-container" type="text/template">
+
+        {{{ data.renderElement() }}}
+
+        <div class="nf-error-wrap"></div>
+</script>
+<script id="tmpl-nf-field-label" type="text/template">
+	<div class="nf-field-label"><label for="nf-field-{{{ data.id }}}"
+	                                   id="nf-label-field-{{{ data.id }}}"
+	                                   class="{{{ data.renderLabelClasses() }}}">{{{ data.label }}} {{{ ( 'undefined' != typeof data.required && 1 == data.required ) ? '<span class="ninja-forms-req-symbol">*</span>' : '' }}} {{{ data.maybeRenderHelp() }}}</label></div>
+</script>
+<script id="tmpl-nf-field-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-form-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-field-input-limit" type="text/template">
+    {{{ data.currentCount() }}} {{{ nfi18n.of }}} {{{ data.input_limit }}} {{{ data.input_limit_msg }}}
+</script><script id="tmpl-nf-field-null" type="text/template">
+</script><script id="tmpl-nf-field-firstname" type="text/template">
+    <input
+            type="text"
+            value="{{{ data.value }}}"
+            class="{{{ data.renderClasses() }}} nf-element"
+
+            id="nf-field-{{{ data.id }}}"
+            <# if( ! data.disable_browser_autocompletes ){ #>
+            name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+            autocomplete="given-name"
+            <# } else { #>
+            name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+            {{{ data.maybeDisableAutocomplete() }}}
+            <# } #>
+            {{{ data.renderPlaceholder() }}}
+
+            aria-invalid="false"
+            aria-describedby="nf-error-{{{ data.id }}}"
+            aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+            {{{ data.maybeRequired() }}}
+    >
+</script>
+<script id='tmpl-nf-field-input' type='text/template'>
+    <input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false" aria-describedby="nf-error-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ data.value }}}" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}}
+           aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+            {{{ data.maybeRequired() }}}
+    >
+</script>
+<script id="tmpl-nf-field-textbox" type="text/template">
+	<input
+			type="text"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+			{{{ data.renderPlaceholder() }}}
+			{{{ data.maybeDisabled() }}}
+			{{{ data.maybeInputLimit() }}}
+
+			id="nf-field-{{{ data.id }}}"
+			<# if( ! data.disable_browser_autocomplete && -1 < [ 'city', 'zip' ].indexOf( data.type ) ){ #>
+				name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+				autocomplete="on"
+			<# } else { #>
+				name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+				{{{ data.maybeDisableAutocomplete() }}}
+			<# } #>
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+			aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id="tmpl-nf-field-email" type="text/template">
+	<input
+			type="email"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+
+			id="nf-field-{{{ data.id }}}"
+			<# if( ! data.disable_browser_autocompletes ){ #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+			autocomplete="email"
+			<# } else { #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+			{{{ data.maybeDisableAutocomplete() }}}
+			<# } #>
+			{{{ data.renderPlaceholder() }}}
+			{{{ data.maybeDisabled() }}}
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+			aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id="tmpl-nf-field-tel" type="text/template">
+	<input
+			type="tel"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+
+			id="nf-field-{{{ data.id }}}"
+			<# if( ! data.disable_browser_autocompletes ){ #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+			autocomplete="tel"
+			<# } else { #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+			{{{ data.maybeDisableAutocomplete() }}}
+			<# } #>
+			{{{ data.renderPlaceholder() }}}
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+			aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id="tmpl-nf-field-checkbox" type="text/template">
+	<input id="nf-field-{{{ data.id }}}"
+	       name="nf-field-{{{ data.id }}}"
+	       aria-describedby="nf-error-{{{ data.id }}}"
+	       class="{{{ data.renderClasses() }}} nf-element"
+	       type="checkbox"
+	       value="1" {{{ data.maybeDisabled() }}}{{{ data.maybeChecked() }}}
+	       aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id="tmpl-nf-field-hidden" type="text/template">
+    <input type="hidden" id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ data.value }}}" {{{ data.renderPlaceholder() }}}>
+</script>
+<script id="tmpl-nf-field-submit" type="text/template">
+	<input id="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element " type="button" value="{{{ data.label }}}" {{{ ( data.disabled ) ? 'disabled' : '' }}}>
+</script><script id='tmpl-nf-field-button' type='text/template'>
+    <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
+        {{{ data.label }}}
+    </button>
+</script>        <script>
+            var post_max_size = '99';
+            var upload_max_filesize = '99';
+            var wp_memory_limit = '40';
+        </script>
+        			
+					
+															<!-- Facebook Pixel Code -->
+								<script>
+									! function (f, b, e, v, n, t, s) {
+										if (f.fbq) return;
+										n = f.fbq = function () {
+											n.callMethod ?
+												n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+										};
+										if (!f._fbq) f._fbq = n;
+										n.push = n;
+										n.loaded = !0;
+										n.version = '2.0';
+										n.queue = [];
+										t = b.createElement(e);
+										t.async = !0;
+										t.src = v;
+										s = b.getElementsByTagName(e)[0];
+										s.parentNode.insertBefore(t, s)
+									}(window, document, 'script',
+										'https://connect.facebook.net/en_US/fbevents.js');
+									fbq('init', '1829749273970371');
+									fbq('track', 'PageView');
+								</script>
+								<noscript>
+									<img height="1" width="1" src="https://www.facebook.com/tr?id=1829749273970371&ev=PageView
+&noscript=1" />
+								</noscript>
+								<!-- End Facebook Pixel Code -->
+
+								<!-- Google Code for Remarketing Tag -->
+								<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+								<script type="text/javascript">
+									/* <![CDATA[ */
+									var google_conversion_id = 880553178;
+									var google_custom_params = window.google_tag_params;
+									var google_remarketing_only = true;
+									/* ]]> */
+								</script>
+								<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+								</script>
+								<noscript>
+									<div style="display:inline;">
+										<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/880553178/?guid=ON&amp;script=0" />
+									</div>
+								</noscript>
+								
+
+																																	<!-- Start of Async Drift Code -->
+													<script>
+														"use strict";
+
+														! function () {
+															var t = window.driftt = window.drift = window.driftt || [];
+															if (!t.init) {
+																if (t.invoked) return void(window.console && console.error && console.error("Drift snippet included twice."));
+																t.invoked = !0, t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"],
+																	t.factory = function (e) {
+																		return function () {
+																			var n = Array.prototype.slice.call(arguments);
+																			return n.unshift(e), t.push(n), t;
+																		};
+																	}, t.methods.forEach(function (e) {
+																		t[e] = t.factory(e);
+																	}), t.load = function (t) {
+																		var e = 3e5,
+																			n = Math.ceil(new Date() / e) * e,
+																			o = document.createElement("script");
+																		o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+																		var i = document.getElementsByTagName("script")[0];
+																		i.parentNode.insertBefore(o, i);
+																	};
+															}
+														}();
+														drift.SNIPPET_VERSION = '0.3.1';
+														drift.load('xt2e69c68hd3');
+													</script>
+													<!-- End of Async Drift Code -->
+													</body>
+
+													</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 119/256 objects using disk
+Page Caching using disk 
+Content Delivery Network via N/A
+Minified using disk
+
+Served from: www.rapidvaluesolutions.com @ 2019-04-15 13:26:32 by W3 Total Cache
+-->

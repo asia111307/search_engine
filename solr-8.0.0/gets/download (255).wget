@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>Three Critical Ingredients for AI, Machine Learning &amp; Cognitive Computing Success - Reltio Cloud : Reltio Cloud</title>
+<link href="//www.google-analytics.com" rel="dns-prefetch">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.reltio.com/wp-content/themes/alpha-omega/images/favicon.ico" />
+<!-- <link href="https://www.reltio.com/wp-content/themes/alpha-omega/img/icons/touch.png" rel="apple-touch-icon-precomposed"> -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://use.typekit.net/ndt5bua.css">
+<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.reltio.com/blog/2017-5-three-critical-ingredients-preventing-ai-machine-learning-and-cognitive-computing-from-being-successful/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Three Critical Ingredients for AI, Machine Learning &amp; Cognitive Computing Success - Reltio Cloud" />
+<meta property="og:description" content="It&#039;s easy to be seduced by the &quot;black magic&quot;&nbsp;of technology that can solve a variety of your business challenges by just asking Watson, Einstein, Siri, Alexa or even HAL,&nbsp;and other &quot;humanizing&quot; names. Beyond the hype, here are 3 critical ingredients that must be considered in order to be successful." />
+<meta property="og:url" content="https://www.reltio.com/blog/2017-5-three-critical-ingredients-preventing-ai-machine-learning-and-cognitive-computing-from-being-successful/" />
+<meta property="og:site_name" content="Reltio Cloud" />
+<meta property="article:tag" content="AI" />
+<meta property="article:tag" content="Analytics" />
+<meta property="article:tag" content="Cognitive Computing" />
+<meta property="article:tag" content="Data Monetization" />
+<meta property="article:tag" content="Data-driven Applications" />
+<meta property="article:tag" content="Deep Learning" />
+<meta property="article:tag" content="Machine Learning" />
+<meta property="article:tag" content="MDM" />
+<meta property="article:tag" content="Modern Data Management" />
+<meta property="article:tag" content="Predictive Analytics" />
+<meta property="article:section" content="Business" />
+<meta property="article:published_time" content="2017-05-17T18:23:00+00:00" />
+<meta property="og:image" content="https://www.reltio.com/wp-content/uploads/2017/05/5bdc271d6e29a_img.png" />
+<meta property="og:image:secure_url" content="https://www.reltio.com/wp-content/uploads/2017/05/5bdc271d6e29a_img.png" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="400" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="It&#039;s easy to be seduced by the &quot;black magic&quot;&nbsp;of technology that can solve a variety of your business challenges by just asking Watson, Einstein, Siri, Alexa or even HAL,&nbsp;and other &quot;humanizing&quot; names. Beyond the hype, here are 3 critical ingredients that must be considered in order to be successful." />
+<meta name="twitter:title" content="Three Critical Ingredients for AI, Machine Learning &amp; Cognitive Computing Success - Reltio Cloud" />
+<meta name="twitter:image" content="https://www.reltio.com/wp-content/uploads/2017/05/5bdc271d6e29a_img.png" />
+<!-- / Yoast SEO Premium plugin. -->
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Reltio Cloud &raquo; Feed" href="https://www.reltio.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Reltio Cloud &raquo; Comments Feed" href="https://www.reltio.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Reltio Cloud &raquo; Three Critical Ingredients for AI, Machine Learning &#038; Cognitive Computing Success Comments Feed" href="https://www.reltio.com/blog/2017-5-three-critical-ingredients-preventing-ai-machine-learning-and-cognitive-computing-from-being-successful/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.reltio.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://www.reltio.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='menu-image-css'  href='https://www.reltio.com/wp-content/plugins/menu-image/menu-image.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome-css'  href='https://www.reltio.com/wp-content/plugins/wpbakery-page-builder/assets/lib/bower/font-awesome/css/font-awesome.min.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.reltio.com/wp-content/cache/wpfc-minified/kc4q1clv/3nvx.css" media="all"/>
+<link rel='stylesheet' id='sa-bootstrap-css'  href='//stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='theme-style-css'  href='https://www.reltio.com/wp-content/themes/alpha-omega/style.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='animate-css-css'  href='https://www.reltio.com/wp-content/plugins/wpbakery-page-builder/assets/lib/bower/animate-css/animate.min.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.reltio.com/wp-content/cache/wpfc-minified/jm8z5f7o/3nvx.css" media="all"/>
+<link rel='stylesheet' id='sa-fonts-css'  href='//fonts.googleapis.com/css?family=Lato%7COswald%3A300&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sa-featherlight-css'  href='//cdnjs.cloudflare.com/ajax/libs/featherlight/1.7.13/featherlight.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-5-css'  href='//use.fontawesome.com/releases/v5.4.1/css/all.css' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='bsf-Defaults-css'  href='https://www.reltio.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='moove_gdpr_frontend-css'  href='https://www.reltio.com/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.reltio.com/wp-content/cache/wpfc-minified/9lrg8g99/3s7e.css" media="all"/>
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script src='//www.reltio.com/wp-content/cache/wpfc-minified/eicqgak6/3nvx.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.reltio.com/wp-includes/js/jquery/jquery.js'></script> -->
+<!-- <script type='text/javascript' src='https://www.reltio.com/wp-includes/js/jquery/jquery-migrate.min.js'></script> -->
+<link rel='https://api.w.org/' href='https://www.reltio.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.reltio.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.reltio.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.4" />
+<link rel='shortlink' href='https://www.reltio.com/?p=3912' />
+<link rel="alternate" type="application/json+oembed" href="https://www.reltio.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.reltio.com%2Fblog%2F2017-5-three-critical-ingredients-preventing-ai-machine-learning-and-cognitive-computing-from-being-successful%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.reltio.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.reltio.com%2Fblog%2F2017-5-three-critical-ingredients-preventing-ai-machine-learning-and-cognitive-computing-from-being-successful%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.reltio.com/wp-content/plugins/wpbakery-page-builder/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T95C25J');</script>
+<!-- End Google Tag Manager -->
+<!-- Listen Loop code -->
+<script>
+(function() {
+var fks = document.createElement('script');
+fks.type = 'text/javascript';
+fks.async = true;
+fks.setAttribute("fk-public-key","UW4LzzbzEHazzVRXbKpP");
+fks.setAttribute("fk-server","app.listenloop.com");
+fks.src = ('https:' == document.location.protocol ? 'https://':'http://') +
+'cdn.listenloop.com/assets/featurekicker.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fks, s);
+})();
+</script>
+<!-- Heap Analytics tracking code -->
+<script type="text/javascript">
+window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+heap.load("760401255");
+</script>
+<!-- Crazy Egg tracking code -->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0026/9262.js" async="async"></script>
+<!-- Bing Ads tracking code --> 
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"25018691"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>	</head>
+<body data-rsssl=1 class="post-template-default single single-post postid-3912 single-format-standard wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T95C25J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->		<div id="search-contact">
+<form id="search-form" action="/" method="GET">
+<input type="text" placeholder="Search" name="s">
+<button><i class="fas fa-search"></i></button>
+</form>
+<a class="contact-button" href="/contact-us">Contact Us</a>
+</div>
+<header id="header">
+<div class="container-fluid">
+<div class="row row-eq-height align-items-center">
+<div class="col-6 col-sm-3">
+<a class="logo" href="https://www.reltio.com"><img src="https://www.reltio.com/wp-content/themes/alpha-omega/images/reltio-logo.png" alt="Reltio Cloud"></a>
+</div>
+<div class="col-6 col-sm-9 text-right">
+<nav id="main-navigation" class="menu-main-menu-container"><ul><li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2515"><a href="https://www.reltio.com/reltio-cloud/" class="menu-image-title-after"><span class="menu-image-title">Products</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5915" class="submenu-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-5915"><a href="/reltio-cloud/" class="menu-image-title-before menu-image-not-hovered"><span class="menu-image-title">Reltio Cloud</span><img width="48" height="48" src="https://www.reltio.com/wp-content/uploads/2018/12/cloud-48x48.png" class="menu-image menu-image-title-before" alt="" /></a></li>
+<li id="menu-item-5918" class="green-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-5918"><a href="#" class="menu-image-title-after"><span class="menu-image-title">Modern Data Management Platform</span></a></li>
+<li id="menu-item-6203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6203"><a href="https://www.reltio.com/solutions/master-data-management/" class="menu-image-title-after"><span class="menu-image-title">Cloud Master Data Management</span></a></li>
+<li id="menu-item-5910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5910"><a href="https://www.reltio.com/reference-data-management/" class="menu-image-title-after"><span class="menu-image-title">Reference Data Management</span></a></li>
+<li id="menu-item-5911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5911"><a href="https://www.reltio.com/workflow-and-collaboration/" class="menu-image-title-after"><span class="menu-image-title">Workflow and Collaboration</span></a></li>
+<li id="menu-item-5912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5912"><a href="https://www.reltio.com/technology/data-as-a-service/" class="menu-image-title-after"><span class="menu-image-title">Data as a Service</span></a></li>
+<li id="menu-item-5913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5913"><a href="https://www.reltio.com/analytics/" class="menu-image-title-after"><span class="menu-image-title">Reltio IQ</span></a></li>
+<li id="menu-item-5914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5914"><a href="https://www.reltio.com/technology/data-driven-applications/" class="menu-image-title-after"><span class="menu-image-title">Data-driven Applications</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5229"><a href="#" class="menu-image-title-after"><span class="menu-image-title">Technology</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5917" class="submenu-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-5917"><a href="#" class="menu-image-title-before menu-image-not-hovered"><span class="menu-image-title">Technology</span><img width="48" height="48" src="https://www.reltio.com/wp-content/uploads/2018/12/cloud-48x48.png" class="menu-image menu-image-title-before" alt="" /></a></li>
+<li id="menu-item-5919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5919"><a href="https://www.reltio.com/technology/data-management/" class="menu-image-title-after"><span class="menu-image-title">Platform as a Service</span></a></li>
+<li id="menu-item-5920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5920"><a href="https://www.reltio.com/multicloud/" class="menu-image-title-after"><span class="menu-image-title">Multi Cloud &#038; Multimodel</span></a></li>
+<li id="menu-item-5921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5921"><a href="https://www.reltio.com/technology/self-learning-graph/" class="menu-image-title-after"><span class="menu-image-title">Self-Learning Graph</span></a></li>
+<li id="menu-item-5922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5922"><a href="https://www.reltio.com/machine-learning/" class="menu-image-title-after"><span class="menu-image-title">AI &#038; Machine Learning</span></a></li>
+<li id="menu-item-5923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5923"><a href="https://www.reltio.com/performance/" class="menu-image-title-after"><span class="menu-image-title">Performance &#038; Scalability</span></a></li>
+<li id="menu-item-5924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5924"><a href="https://www.reltio.com/security-certifications/" class="menu-image-title-after"><span class="menu-image-title">Compliance &#038; Security</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2514"><a href="https://www.reltio.com/solutions/" class="menu-image-title-after"><span class="menu-image-title">Solutions</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5925" class="submenu-headline menu-item menu-item-type-post_type menu-item-object-page menu-item-5925"><a href="https://www.reltio.com/solutions/" class="menu-image-title-before menu-image-not-hovered"><span class="menu-image-title">Solutions</span><img width="48" height="48" src="https://www.reltio.com/wp-content/uploads/2018/12/solutions-48x48.png" class="menu-image menu-image-title-before" alt="" /></a></li>
+<li id="menu-item-5927" class="green-headline column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5927"><a href="#" class="menu-image-title-after"><span class="menu-image-title">By Business Need</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5930"><a href="https://www.reltio.com/account-360/" class="menu-image-title-after"><span class="menu-image-title">Account 360</span></a></li>
+<li id="menu-item-5931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5931"><a href="https://www.reltio.com/customer-360/" class="menu-image-title-after"><span class="menu-image-title">Customer 360</span></a></li>
+<li id="menu-item-5932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5932"><a href="https://www.reltio.com/consumer-360/" class="menu-image-title-after"><span class="menu-image-title">Consumer 360</span></a></li>
+<li id="menu-item-5933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5933"><a href="https://www.reltio.com/product-360/" class="menu-image-title-after"><span class="menu-image-title">Product 360</span></a></li>
+<li id="menu-item-5934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5934"><a href="https://www.reltio.com/supplier-360/" class="menu-image-title-after"><span class="menu-image-title">Supplier 360</span></a></li>
+<li id="menu-item-5935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5935"><a href="https://www.reltio.com/gdpr/" class="menu-image-title-after"><span class="menu-image-title">GDPR Compliance</span></a></li>
+<li id="menu-item-5936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5936"><a href="https://www.reltio.com/solutions/mergers-acquisitions/" class="menu-image-title-after"><span class="menu-image-title">Mergers and Acquisitions</span></a></li>
+<li id="menu-item-5937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5937"><a href="https://www.reltio.com/digital-transformation/" class="menu-image-title-after"><span class="menu-image-title">Digital Transformation</span></a></li>
+<li id="menu-item-5938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5938"><a href="https://www.reltio.com/solutions/data-monetization/" class="menu-image-title-after"><span class="menu-image-title">Data Monetization</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5928" class="green-headline column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5928"><a href="#" class="menu-image-title-after"><span class="menu-image-title">By Role</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5939"><a href="https://www.reltio.com/chief-information-officer/" class="menu-image-title-after"><span class="menu-image-title">CIO</span></a></li>
+<li id="menu-item-5940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5940"><a href="https://www.reltio.com/chief-data-officer/" class="menu-image-title-after"><span class="menu-image-title">CDO</span></a></li>
+<li id="menu-item-5941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5941"><a href="https://www.reltio.com/chief-marketing-officers/" class="menu-image-title-after"><span class="menu-image-title">CMO</span></a></li>
+<li id="menu-item-5942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5942"><a href="https://www.reltio.com/data-scientists-business-analysts/" class="menu-image-title-after"><span class="menu-image-title">Data Scientists &#038; Business Analysts</span></a></li>
+<li id="menu-item-5943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5943"><a href="https://www.reltio.com/master-data-management/" class="menu-image-title-after"><span class="menu-image-title">Master Data Management Experts</span></a></li>
+<li id="menu-item-5944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5944"><a href="https://www.reltio.com/sales-and-account-managers/" class="menu-image-title-after"><span class="menu-image-title">Sales and Account Managers</span></a></li>
+<li id="menu-item-5945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5945"><a href="https://www.reltio.com/compliance-governance/" class="menu-image-title-after"><span class="menu-image-title">Compliance &#038; Governance Professionals</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5929" class="green-headline column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5929"><a href="#" class="menu-image-title-after"><span class="menu-image-title">By Industry</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5946"><a href="https://www.reltio.com/solutions/life-sciences/" class="menu-image-title-after"><span class="menu-image-title">Life Sciences</span></a></li>
+<li id="menu-item-5947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5947"><a href="https://www.reltio.com/healthcare/" class="menu-image-title-after"><span class="menu-image-title">Healthcare</span></a></li>
+<li id="menu-item-5948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5948"><a href="https://www.reltio.com/retail/" class="menu-image-title-after"><span class="menu-image-title">Retail</span></a></li>
+<li id="menu-item-5949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5949"><a href="https://www.reltio.com/financial-services/" class="menu-image-title-after"><span class="menu-image-title">Financial Services</span></a></li>
+<li id="menu-item-5950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5950"><a href="https://www.reltio.com/insurance/" class="menu-image-title-after"><span class="menu-image-title">Insurance</span></a></li>
+<li id="menu-item-5951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5951"><a href="https://www.reltio.com/solutions/media-entertainment/" class="menu-image-title-after"><span class="menu-image-title">Media &#038; Entertainment</span></a></li>
+<li id="menu-item-5952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5952"><a href="https://www.reltio.com/solutions/oilandgas/" class="menu-image-title-after"><span class="menu-image-title">Oil &#038; Gas</span></a></li>
+<li id="menu-item-5953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5953"><a href="https://www.reltio.com/solutions/government/" class="menu-image-title-after"><span class="menu-image-title">Government</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2624"><a href="#" class="menu-image-title-after"><span class="menu-image-title">Customers</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5954" class="submenu-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-5954"><a href="#" class="menu-image-title-before menu-image-not-hovered"><span class="menu-image-title">Customers</span><img width="48" height="48" src="https://www.reltio.com/wp-content/uploads/2018/12/Customers-48x48.png" class="menu-image menu-image-title-before" alt="" /></a></li>
+<li id="menu-item-5138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5138"><a href="https://www.reltio.com/customer-success-stories/" class="menu-image-title-after"><span class="menu-image-title">Customer Success Stories</span></a></li>
+<li id="menu-item-2625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2625"><a href="https://www.reltio.com/genius/" class="menu-image-title-after"><span class="menu-image-title">Data Geniuses</span></a></li>
+</ul>
+</li>
+<li id="menu-item-4938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4938"><a href="https://www.reltio.com/resources/" class="menu-image-title-after"><span class="menu-image-title">Resources</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5956" class="submenu-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-5956"><a href="/resources" class="menu-image-title-before menu-image-not-hovered"><span class="menu-image-title">Resources</span><img width="48" height="48" src="https://www.reltio.com/wp-content/uploads/2018/12/Resources-48x48.png" class="menu-image menu-image-title-before" alt="" /></a></li>
+<li id="menu-item-4939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4939"><a href="/resources/#analyst-reports" class="menu-image-title-after"><span class="menu-image-title">Analyst Reports</span></a></li>
+<li id="menu-item-4940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4940"><a href="/resources/#whitepaper-ebooks" class="menu-image-title-after"><span class="menu-image-title">Whitepaper &#038; Ebooks</span></a></li>
+<li id="menu-item-4941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4941"><a href="/resources/#videos-webinars" class="menu-image-title-after"><span class="menu-image-title">Videos &#038; Webinars</span></a></li>
+<li id="menu-item-4942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4942"><a href="/resources/#articles" class="menu-image-title-after"><span class="menu-image-title">Articles</span></a></li>
+<li id="menu-item-4943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4943"><a href="/resources/#blogs" class="menu-image-title-after"><span class="menu-image-title">Blogs</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2663"><a href="https://www.reltio.com/partner-program/" class="menu-image-title-after"><span class="menu-image-title">Partners</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5972" class="submenu-headline menu-item menu-item-type-post_type menu-item-object-page menu-item-5972"><a href="https://www.reltio.com/partner-program/" class="menu-image-title-before menu-image-not-hovered"><span class="menu-image-title">Partner Program</span><img width="48" height="48" src="https://www.reltio.com/wp-content/uploads/2018/12/partners-48x48.png" class="menu-image menu-image-title-before" alt="" /></a></li>
+<li id="menu-item-2660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2660"><a href="https://www.reltio.com/partner-program/" class="menu-image-title-after"><span class="menu-image-title">Partner Program</span></a>
+<ul class="sub-menu">
+<li id="menu-item-2661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2661"><a href="https://www.reltio.com/powered-by-reltio/" class="menu-image-title-after"><span class="menu-image-title">Powered by Reltio</span></a></li>
+<li id="menu-item-2662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2662"><a href="/powered-by-reltio/#1540302678146-cd7b5115-8725" class="menu-image-title-after"><span class="menu-image-title">Delivered by Reltio</span></a></li>
+<li id="menu-item-2664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2664"><a href="/powered-by-reltio/#1540302937378-6c8f6542-6b6d" class="menu-image-title-after"><span class="menu-image-title">Integrated With Reltio</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705"><a href="https://www.reltio.com/partner-list/" class="menu-image-title-after"><span class="menu-image-title">Partner List</span></a></li>
+<li id="menu-item-4040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4040"><a href="https://www.reltio.com/partner-spotlight/" class="menu-image-title-after"><span class="menu-image-title">Partner Spotlight</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2765"><a href="https://www.reltio.com/company/" class="menu-image-title-after"><span class="menu-image-title">Company</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5974" class="submenu-headline menu-item menu-item-type-post_type menu-item-object-page menu-item-5974"><a href="https://www.reltio.com/company/" class="menu-image-title-before menu-image-not-hovered"><span class="menu-image-title">Company</span><img width="48" height="48" src="https://www.reltio.com/wp-content/uploads/2018/12/company-48x48.png" class="menu-image menu-image-title-before" alt="" /></a></li>
+<li id="menu-item-5961" class="green-headline column menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5961"><a href="https://www.reltio.com/news/" class="menu-image-title-after"><span class="menu-image-title">Latest News</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5963"><a href="/news/#recognition" class="menu-image-title-after"><span class="menu-image-title">Recognition</span></a></li>
+<li id="menu-item-5965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5965"><a href="/news/#articles" class="menu-image-title-after"><span class="menu-image-title">Articles</span></a></li>
+<li id="menu-item-5964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5964"><a href="/news/#analyst-report" class="menu-image-title-after"><span class="menu-image-title">Analyst Reports</span></a></li>
+<li id="menu-item-5966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5966"><a href="/news/#whitepaper-ebooks" class="menu-image-title-after"><span class="menu-image-title">Whitepapers &#038; Ebooks</span></a></li>
+<li id="menu-item-5967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5967"><a href="/news/#videos-webinars" class="menu-image-title-after"><span class="menu-image-title">Videos &#038; Webinars</span></a></li>
+<li id="menu-item-5968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5968"><a href="/news/#press-release" class="menu-image-title-after"><span class="menu-image-title">Press Release</span></a></li>
+<li id="menu-item-5962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5962"><a href="https://www.reltio.com/events/" class="menu-image-title-after"><span class="menu-image-title">Events</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5970"><a href="/events/#mdm-summit" class="menu-image-title-after"><span class="menu-image-title">Modern Data Management Summit</span></a></li>
+<li id="menu-item-5971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5971"><a href="/events/#upcoming-events" class="menu-image-title-after"><span class="menu-image-title">Upcoming Events</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5976" class="green-headline column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5976"><a href="/company/#about" class="menu-image-title-after"><span class="menu-image-title">About</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5977"><a href="/company/#about" class="menu-image-title-after"><span class="menu-image-title">Mission</span></a></li>
+<li id="menu-item-5978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5978"><a href="/company/#about" class="menu-image-title-after"><span class="menu-image-title">Why Reltio?</span></a></li>
+<li id="menu-item-5979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5979"><a href="/company/#team" class="menu-image-title-after"><span class="menu-image-title">Team</span></a></li>
+<li id="menu-item-5980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5980"><a href="/company/#investors" class="menu-image-title-after"><span class="menu-image-title">Investors</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5981" class="green-headline column menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5981"><a href="https://www.reltio.com/careers/" class="menu-image-title-after"><span class="menu-image-title">Careers at Reltio</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5982"><a href="https://www.reltio.com/careers/" class="menu-image-title-after"><span class="menu-image-title">Careers at Reltio</span></a></li>
+<li id="menu-item-6279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6279"><a href="https://www.reltio.com/careers-at-reltio-customers-partners/" class="menu-image-title-after"><span class="menu-image-title">Careers at Reltio Partners</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5983" class="green-headline column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5983"><a href="#" class="menu-image-title-after"><span class="menu-image-title">Customer Success</span></a>
+<ul class="sub-menu">
+<li id="menu-item-5984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5984"><a href="http://help.reltio.com/" class="menu-image-title-after"><span class="menu-image-title">Reltio Cloud User Guide/Documentation</span></a></li>
+<li id="menu-item-5985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5985"><a href="http://support.reltio.com/" class="menu-image-title-after"><span class="menu-image-title">support.reltio.com</span></a></li>
+<li id="menu-item-6026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6026"><a href="https://www.reltio.com/reltio-training/" class="menu-image-title-after"><span class="menu-image-title">Reltio Training</span></a>
+<ul class="sub-menu">
+<li id="menu-item-6025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6025"><a href="https://www.reltio.com/reltio-cloud-beginner-101/" class="menu-image-title-after"><span class="menu-image-title">Reltio Cloud Beginner 101</span></a></li>
+<li id="menu-item-6024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6024"><a href="https://www.reltio.com/reltio-cloud-advanced-102/" class="menu-image-title-after"><span class="menu-image-title">Reltio Cloud Advanced 102</span></a></li>
+<li id="menu-item-6023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6023"><a href="https://www.reltio.com/reltio-iq-beginner-201/" class="menu-image-title-after"><span class="menu-image-title">Reltio IQ Beginner 201</span></a></li>
+<li id="menu-item-6022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6022"><a href="https://www.reltio.com/self-paced-video-library/" class="menu-image-title-after"><span class="menu-image-title">Self Paced Video Library</span></a></li>
+</ul>
+</li>
+<li id="menu-item-7144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7144"><a href="https://www.reltio.com/certification/" class="menu-image-title-after"><span class="menu-image-title">Certification</span></a>
+<ul class="sub-menu">
+<li id="menu-item-7146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7146"><a href="https://www.reltio.com/reltio-cloud-core-configurator-certification/" class="menu-image-title-after"><span class="menu-image-title">Reltio Cloud Core Configurator Certification</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></nav>						<a id="search-link" href="/?s="><i class="fas fa-search"></i></a>
+<div id="nav-toggle" class="fas fa-bars"></div>	
+</div>
+</div>
+</div>
+</header>
+<div id="page-content">
+<div class="container">
+<div style="width: 100%; height: 150px;"></div>
+<div class="container">
+<div class="row">
+<div class="col-12">
+<article id="post-3912 single-post" class="post-3912 post type-post status-publish format-standard has-post-thumbnail hentry category-business category-technology tag-ai tag-analytics tag-cognitive-computing tag-data-monetization tag-data-driven-applications tag-deep-learning tag-machine-learning tag-mdm tag-modern-data-management tag-predictive-analytics">
+<header>
+<div class="single-tags text-center">
+<a href="https://www.reltio.com/blog/category/business/" rel="category tag">Business</a>, <a href="https://www.reltio.com/blog/category/technology/" rel="category tag">Technology</a>									</div>
+<h1 class="text-center" style="font-size: 28px; line-height: 36px;">Three Critical Ingredients for AI, Machine Learning &#038; Cognitive Computing Success</h1>
+</header>
+<p style="text-align: center; white-space: pre-wrap;"><a href="https://www.linkedin.com/in/ramonchen/" target="_blank"><em>Ramon Chen, Chief Product Officer, Reltio</em></a></p>
+<p style="white-space: pre-wrap;">You may already know a lot about <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">Artificial Intelligence</a>&nbsp;(AI),&nbsp;<a href="https://www.reltio.com/about/news/2017/1/machine-learning-delivers-quality-data-at-the-speed-of-the-business" target="_blank">Machine Learning</a>&nbsp;(ML),&nbsp;<a href="https://www.technologyreview.com/s/513696/deep-learning/" target="_blank">Deep Learning</a>&nbsp;or even what some vendors call <a href="https://www.reltio.com/about/news/2016/2/cognitive-computing-and-big-data-analytics-with-judith-hurwitz" target="_blank">Cognitive Computing</a>.&nbsp;Or maybe you are still trying to <a href="https://www.forbes.com/sites/bernardmarr/2016/12/06/what-is-the-difference-between-artificial-intelligence-and-machine-learning/#1db1aa2c2742" target="_blank">understand the nuances and differences between each term</a>, and how they relate to each other.</p>
+<p style="white-space: pre-wrap;">Either way, it&#8217;s easy to be seduced by the &#8220;black magic&#8221;&nbsp;of technology that can solve a variety of your business challenges by just asking Watson, Einstein, Siri, Alexa, <a href="https://www.youtube.com/watch?v=ARJ8cAGm6JE" target="_blank">Hal</a> (<a href="https://www.youtube.com/watch?v=UgkyrW2NiwM" target="_blank">click for the iconic HAL 9000 scene in Space Odyssey</a>)&nbsp;or other &#8220;humanizing&#8221; names.</p>
+<p style="white-space: pre-wrap;">In fact <a href="http://www.gartner.com/newsroom/id/3412017" target="_blank">Gartner&#8217;s 2016 Emerging Technologies Hype Cycle</a> has Machine Learning at the very &#8220;Peak of Inflated Expectations.&#8221; Those who are familiar with the cycle, know what is likely to come next &lt;Trough of Disillusionment cough cough&gt;.&nbsp;</p>
+<p>      <img src="https://www.reltio.com/wp-content/uploads/2017/05/5bdc271d6e29a_img.png" alt=''/></p>
+<p style="white-space: pre-wrap;">&nbsp;</p>
+<p style="white-space: pre-wrap;">If you want to protect yourself from the hype, here are 3 critical ingredients for your consideration:</p>
+<p style="white-space: pre-wrap;">At <a href="https://www.reltio.com" target="_blank">Reltio</a> we&#8217;ve been articulating a vision, which includes a pragmatic perspective of machine learning (ML) for over 3 years now. Realizing that not only does ML not offer a silver bullet, but there is still much to learn (pun intended) as to how such technologies can ultimately benefit both IT and business.&nbsp;Noted Big Data expert <a href="https://www.linkedin.com/in/bernardmarr" target="_blank">Bernard Marr</a> provides a nice list of use cases that might be <a href="https://www.forbes.com/sites/bernardmarr/2016/09/30/what-are-the-top-10-use-cases-for-machine-learning-and-ai/#61d97ef994c9" target="_blank">applied to your specific business and industry</a>. The key is that a focused set of benefits for each users&#8217; role, must be defined in order for it to be accurately measured so it doesn&#8217;t get labelled yet another (data) science project with limited value.</p>
+<h3 style="white-space: pre-wrap;">#1 Create a Reliable Data Foundation</h3>
+<p style="white-space: pre-wrap;">Most companies are NOT ready for any form of AI, ML, or Cognitive Computing to help their business user, because their data is such poor shape to even attempt such an endeavor. Ironically, a great IT use case is to use ML to first help improve the consistency, accuracy and manageability for better data quality (DQ), uncovering patterns, anomaly detection and assisting humans, such as data stewards, to make their job more focused and efficient.</p>
+<h3 style="white-space: pre-wrap;">#2 Bring Analytics and Machine Learning to the Data</h3>
+<p style="white-space: pre-wrap;">Just as the process of aggregating data to perform historical or predictive analytics is a cumbersome and expensive process, gathering and blending all of the right data that will guarantee machine learning is effective must be the in the DNA of any <a href="https://www.reltio.com/technology/data-management">Modern Data Management Platform as a Service</a>&nbsp;(PaaS).&nbsp;&nbsp;</p>
+<p style="white-space: pre-wrap;">Bolting on AI or ML into legacy <a href="https://www.reltio.com/solutions/master-data-management">master data management</a>&nbsp;(MDM)&nbsp;systems, or using such MDM tools to <strong>feed downstream disparate ML tools</strong> is putting lipstick on hosted managed services disguised as cloud. Reliable data, relevant insights and recommended actions via <a href="https://www.reltio.com/about/news/2017/1/machine-learning-delivers-quality-data-at-the-speed-of-the-business" target="_blank">machine learning</a>&nbsp;needs to be seamlessly combined into one, single multi-tenant cloud platform, architected from the ground up, for both analytical intelligence and operational execution, through <a href="https://www.reltio.com/technology/data-driven-applications" target="_blank">data-driven applications</a>.</p>
+<p style="white-space: pre-wrap;">Successful execution requires a closed-loop of all data, insights and actions,&nbsp;to ensure accurate metrication for continuously improved outcomes. Further, a multi-tenant cloud environment is the only way sufficient storage and processing capacity can be elastically accessed on demand to meet any business need.</p>
+<p style="white-space: pre-wrap;">Another benefit of a multi-tenant cloud PaaS is the potential to use a wide variety of anonymized data to help with machine learning across all industries. Having a large enough set of data is a critical factor for smaller companies to benefit from the right recommended actions, for common industry use cases.</p>
+<h3 style="white-space: pre-wrap;">#3 Don&#8217;t Go all in on one vendor</h3>
+<p style="white-space: pre-wrap;">In a rush to market that &#8220;our tools do it too,&#8221; large vendors will unfortunately, over promise, and under deliver. It&#8217;s not their fault, as they must respond to the market, but many face an unenviable task of achieving ingredient #2 above, let alone attempting to now also execute on a plan to deliver their own AI technologies.&nbsp;</p>
+<p style="white-space: pre-wrap;"><a href="https://www.reltio.com/partner-list" target="_blank">An open ecosystem that allows you to choose and partner with the technologies</a>, and domain experts of your choice is critical to getting the most out of a still young and evolving landscape. Most companies<a href="https://www.reltio.com/blog/2017/5/evolve-from-legacy-mdm" target="_blank">&nbsp;are already trying to evolve out of their legacy MDM platforms</a>.&nbsp;Getting further locked into a single vendor, delivering both MDM and ML, through siloed disparate tools will not provide &#8220;clarity,&#8221;&nbsp;and may further complicate an already fragmented data management strategy.</p>
+<p style="white-space: pre-wrap;">At Reltio, we formed <a href="http://www.imshealth.com/en/solution-areas/healthcare-data-technology-applications/master-data-management" target="_blank">strategic partnerships with companies like QuintilesIMS</a> to combine our strengths to jointly deliver on a vision for the next generation MDM and analytics capabilities for life sciences.</p>
+<p style="white-space: pre-wrap;">In summary, look to master your data in #1 for a reliable data foundation. #2 ensure that it covers all data types, sources and modes of consumption in a seamless feedback loop on a Modern Data Management platform architected from the ground up to avoid further siloing your data. Finally, #3 give yourself the openness and flexibility of your partners of choice to meet your business needs.&nbsp;</p>
+<p style="white-space: pre-wrap;">You don&#8217;t want a HAL-like failure that prevents you from realizing your true goal of improving your business.</p>
+<div class="sqs-block-button-container--center" data-alignment="center" data-button-size="small">
+<a href="https://www.reltio.com/machine-learning/" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Learn More About Reltio Insights for Analytics and Machine Learning</a>
+</div>
+<div class="sqs-block-button-container--center" data-alignment="center" data-button-size="small">
+<a href="https://www.reltio.com/ai-machine-learning-resources/" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Click here for more AI and Machine Learning resources</a>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid page-content vc_custom_1544813922919 vc_row-has-fill"><div class="white-text wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<h2><a href="tel:8553603282">(855) 360-DATA</a></h2>
+<p><strong>RELTIO HQ</strong><br />
+100 MARINE PARKWAY, REDWOOD SHORES, CA 94065, USA <a href="mailto:SALES@RELTIO.COM">SALES@RELTIO.COM</a></p>
+</div>
+</div>
+<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_white" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<h2>Terms &amp; Policies</h2>
+<p><a href="/sla-support-policy">SLA &amp; Support Policy</a><br />
+<a href="/reltio-data-security-policy">Data Security Policy</a><br />
+<a href="/privacypolicy">Privacy Policy</a><br />
+<a href="/socialnetworktos">Social Network TOS</a><br />
+<a href="/reltio-website-terms">Reltio Website Terms</a><br />
+<a href="https://status.reltio.com/" target="_blank" rel="noopener">Real-time Status</a></p>
+<p><a class="social-link" href="https://www.linkedin.com/company/reltio-inc"><span class="fab fa-linkedin-in"></span></a>    <a class="social-link" href="https://twitter.com/Reltio"><span class="fab fa-twitter"></span></a>    <a class="social-link" href="https://plus.google.com/b/108347306203359518730/"><span class="fab fa-google-plus-g"></span></a>    <a class="social-link" href="https://www.facebook.com/ReltioHub"><span class="fab fa-facebook-f"></span></a></p>
+</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<h3><span style="color: #ffffff;">JOIN OUR DATA-DRIVEN KNOWLEDGE CENTER</span></h3>
+</div>
+</div>
+<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1549241434649" >
+<div class="wpb_wrapper">
+<iframe data-preserve-html-node="true" scrolling="no" src="https://www2.reltio.com/l/269032/2018-09-19/6rnhq" width="100%" height="350" type="text/html" frameborder="0" allowtransparency="true" style="border: 0"></iframe>
+</div>
+</div>
+<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+<div class="wpb_wrapper">
+<div><a href="https://privacy.truste.com/privacy-seal/validation?rid=841f0d9e-77d9-4e36-b2a0-eb7cd8170dc5" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="142" height="45" src="https://www.reltio.com/wp-content/uploads/2019/02/seal.png" class="vc_single_image-img attachment-full" alt="" srcset="https://www.reltio.com/wp-content/uploads/2019/02/seal.png 142w, https://www.reltio.com/wp-content/uploads/2019/02/seal-120x38.png 120w, https://www.reltio.com/wp-content/uploads/2019/02/seal-24x8.png 24w, https://www.reltio.com/wp-content/uploads/2019/02/seal-36x11.png 36w, https://www.reltio.com/wp-content/uploads/2019/02/seal-48x15.png 48w" sizes="(max-width: 142px) 100vw, 142px"></a> <a href="//privacy.truste.com/privacy-seal/validation?rid=d7c2e176-39dd-4f72-b2d1-0ececb8d1391" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=d7c2e176-39dd-4f72-b2d1-0ececb8d1391" alt="TRUSTe"/></a></div>
+</div>
+</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+<div id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-light-scheme gdpr_infobar_postion_bottom">
+<div class="moove-gdpr-info-bar-container">
+<div class="moove-gdpr-info-bar-content">
+<div class="moove-gdpr-cookie-notice">
+<p><span style="font-size: 11pt;"><span>We use cookies to help us improve, promote, and protect our services. By continuing to use the site, you agree to our cookie policy.</span> <span data-href="#moove_gdpr_cookie_modal" class="change-settings-button">Settings</span>.</span></p>
+</div>
+<!--  .moove-gdpr-cookie-notice -->                <div class="moove-gdpr-button-holder">
+<button class="mgbutton moove-gdpr-infobar-allow-all" rel="nofollow">Accept</button>
+</div>
+<!--  .button-container -->            </div>
+<!-- moove-gdpr-info-bar-content -->
+</div>
+<!-- moove-gdpr-info-bar-container -->
+</div>
+<!-- #moove_gdpr_cookie_info_bar  -->
+<!-- <link rel='stylesheet' id='js_composer_front-css'  href='https://www.reltio.com/wp-content/plugins/wpbakery-page-builder/assets/css/js_composer.min.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.reltio.com/wp-content/cache/wpfc-minified/13hwyjo7/3nvx.css" media="all"/>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle2/2.1.6/jquery.cycle2.core.min.js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js'></script>
+<script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js'></script>
+<script type='text/javascript' src='https://www.reltio.com/wp-content/themes/alpha-omega/js/particles.min.js'></script>
+<script type='text/javascript' src='https://www.reltio.com/wp-content/themes/alpha-omega/js/app.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https:\/\/www.reltio.com\/wp-admin\/admin-ajax.php","post_id":"3912","plugin_dir":"https:\/\/www.reltio.com\/wp-content\/plugins\/gdpr-cookie-compliance","is_page":"","enabled_default":{"third_party":0,"advanced":0},"force_reload":"false","is_single":"1","current_user":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.reltio.com/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js'></script>
+<script type='text/javascript' src='https://www.reltio.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://www.reltio.com/wp-content/plugins/wpbakery-page-builder/assets/js/dist/js_composer_front.min.js'></script>
+<style>
+#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar{font-family:Nunito,sans-serif}#moove_gdpr_save_popup_settings_button{background-color:#2580b6;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#1b6c9c}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#0c4da2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton{background-color:#0c4da2;border-color:#0c4da2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover{background-color:#fff;color:#0c4da2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i{background-color:#0c4da2;border:1px solid #0c4da2}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover{color:#0c4da2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button{color:#000}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button i{color:#000}#moove_gdpr_cookie_modal.lity-hide{display:none}</style>    <button data-href="#moove_gdpr_cookie_modal" id="moove_gdpr_save_popup_settings_button" style='display: block;bottom: 20px; left: 20px;' class=" gdpr-floating-button-custom-position">
+<span class="moove_gdpr_icon"><i class="moovegdpr-advanced"></i></span>
+<span class="moove_gdpr_text">Change cookie settings</span>
+</button>
+<!-- V2 -->
+<div id="moove_gdpr_cookie_modal" class="lity-hide">
+<div class="moove-gdpr-modal-content moove-clearfix logo-position-center moove_gdpr_modal_theme_v2">
+<a href="#" class="moove-gdpr-modal-close" rel="nofollow"><i class="moovegdpr-arrow-close"></i></a>
+<div class="moove-gdpr-modal-left-content">
+<ul id="moove-gdpr-menu">
+<li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+<button data-href="#privacy_overview" class="moove-gdpr-tab-nav"><i class="moovegdpr-privacy-overview"></i> <span>Privacy Overview</span></button>
+</li>
+<li class="menu-item-strict-necessary-cookies menu-item-off">
+<button data-href="#strict-necessary-cookies" class="moove-gdpr-tab-nav"><i class="moovegdpr-strict-necessary"></i> <span>Strictly Necessary Cookies</span></button>
+</li>
+</ul>
+</div>
+<!--  .moove-gdpr-modal-left-content -->
+<div class="moove-gdpr-modal-right-content">
+<div class="moove-gdpr-modal-title"> 
+<div>
+<h3 class="tab-title">Privacy Overview</h3>
+</div>
+<div class="moove-gdpr-company-logo-holder">
+<img src="https://www.reltio.com/wp-content/themes/alpha-omega/images/reltio-logo.png" alt="Reltio Cloud" class="img-responsive" />
+</div>
+<!--  .moove-gdpr-company-logo-holder -->            </div>
+<!-- .moove-gdpr-modal-ritle -->
+<div class="main-modal-content">
+<div class="moove-gdpr-tab-content">
+<div id="privacy_overview" class="moove-gdpr-tab-main">
+<div class="moove-gdpr-tab-main-content">
+<p>We use cookies to help us improve, promote, and protect our services. By continuing to use the site, you agree to our cookie policy.</p>
+<p style="text-align: center;"><a href="https://www.reltio.com/privacypolicy/">Privacy Policy</a></p>
+</div>
+<!--  .moove-gdpr-tab-main-content -->
+</div>
+<!-- #privacy_overview -->                        <div id="strict-necessary-cookies" class="moove-gdpr-tab-main" >
+<h3 class="tab-title">Strictly Necessary Cookies</h3>
+<div class="moove-gdpr-tab-main-content">
+<p>Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings. <span>These are cookies that are required for the operation of our Site and under our terms with you. They include, for example, cookies that make use of certain Services offered through the Site.</span></p>
+<p>If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.</p>
+<div class="moove-gdpr-status-bar ">
+<form>
+<fieldset>
+<label class='gdpr-acc-link' for="moove_gdpr_strict_cookies" >disable</label>
+<label class="switch">                            
+<input type="checkbox"  value="check" name="moove_gdpr_strict_cookies" id="moove_gdpr_strict_cookies">
+<span class="slider round" data-text-enable="Enabled" data-text-disabled="Disabled"></span>
+</label>
+</fieldset>
+</form>
+</div>
+<!-- .moove-gdpr-status-bar -->
+</div>
+<!--  .moove-gdpr-tab-main-content -->
+</div>
+<!-- #strict-necesarry-cookies -->
+</div>
+<!--  .moove-gdpr-tab-content -->
+</div>
+<!--  .main-modal-content -->
+<div class="moove-gdpr-modal-footer-content">
+<div class="moove-gdpr-button-holder">
+<button class="mgbutton moove-gdpr-modal-allow-all button-visible" rel="nofollow">Enable All</button>
+<button class="mgbutton moove-gdpr-modal-save-settings button-visible" rel="nofollow">Save Changes</button>
+</div>
+<!--  .moove-gdpr-button-holder -->                <div class="moove-gdpr-branding-cnt">
+</div>
+<!--  .moove-gdpr-branding -->            </div>
+<!--  .moove-gdpr-modal-footer-content -->
+</div>
+<!--  .moove-gdpr-modal-right-content -->
+<div class="moove-clearfix"></div>
+</div>
+<!--  .moove-gdpr-modal-content -->
+</div>
+<!-- #moove_gdpr_cookie_modal  -->		<script src="https://cdnjs.cloudflare.com/ajax/libs/featherlight/1.7.13/featherlight.min.js" integrity="sha256-/SEQTcl9tvyYDA8SuhV/PMn92shN3kNn8C9vnbBcE9Y=" crossorigin="anonymous"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDZQkOHB1swpF9W6_5Ow8zcm4GU7YGeNHg"></script>
+<!-- Video banner code -->
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1596933573910741']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1596933573910741&ev=PixelInitialized" /></noscript>
+<!-- Linkedin tracking code -->
+<script type="text/javascript"> _linkedin_data_partner_id = "86414"; </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=86414&fmt=gif" /> </noscript>
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '856368d05bf3418c9d63f5f7121d860e');
+qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/856368d05bf3418c9d63f5f7121d860e/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+<!-- Pardot tracking code -->
+<script type="text/javascript">
+piAId = '270032';
+piCId = '1274';
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+<!-- Google offline conversion tracking 1st code -->
+<script type="text/javascript">
+function setCookie(name, value, days){
+var date = new Date();
+date.setTime(date.getTime() + (days*24*60*60*1000)); 
+var expires = "; expires=" + date.toGMTString();
+document.cookie = name + "=" + value + expires + ";path=/";
+}
+function getParam(p){
+var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
+return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+var gclid = getParam('gclid');
+if(gclid){
+var gclsrc = getParam('gclsrc');
+if(!gclsrc || gclsrc.indexOf('aw') !== -1){
+setCookie('gclid', gclid, 90);
+}
+}
+</script>
+<!-- Google offline conversion tracking 3rd code -->
+<script> 
+function readCookie(name) { 
+var n = name + "="; 
+var cookie = document.cookie.split(';'); 
+for(var i=0;i < cookie.length;i++) {      
+var c = cookie[i];      
+while (c.charAt(0)==' '){c = c.substring(1,c.length);}      
+if (c.indexOf(n) == 0){return c.substring(n.length,c.length);} 
+} 
+return null; 
+} 
+window.onload = function() {      
+document.getElementById('gclid_field').value = 
+readCookie('gclid'); 
+} 
+</script>	</body>
+</html><!-- WP Fastest Cache file was created in 0.81770896911621 seconds, on 12-04-19 20:32:03 -->

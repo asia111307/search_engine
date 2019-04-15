@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta charset="utf-8">
+
+        
+
+        <!-- IBM: BASE -->
+
+        <script src="//1.www.s81c.com/common/v18/js/www.js"></script>
+
+        
+<!-- This site is optimized with the Yoast SEO plugin v9.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Artificial Intelligence, Machine Learning and Cognitive Computing - IBM Digital Nordic</title>
+<meta name="description" content="Artificial Intelligence, Machine Learning and Cognitive Computing are trending buzzwords of our time. I read about them every day in different media, but as a regular customer it is rare that I get a “wow experience” as a result of new technologies. Where are the actual implementations? I have decided to investigate this subject over the next couple of months with the aim of uncovering what new technology can do for the customer experience through specific examples. New technology opens up new opportunities, but in the very end it’s all about providing a better customer experience. In a digital world, where everything related to product and price is completely transparent, and where the distance between store and customer is shorter than ever, the 4Ps are dying. Instead, we are now talking about the 4Cs: Consistency, Content, Convenience and Contextual – with focus on the customer experience (learn more about the 4Cs here). In this article, I will…"/>
+<link rel="canonical" href="https://www.ibm.com/blogs/nordic-msp/artificial-intelligence-machine-learning-cognitive-computing/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Artificial Intelligence, Machine Learning and Cognitive Computing - IBM Digital Nordic" />
+<meta property="og:description" content="Artificial Intelligence, Machine Learning and Cognitive Computing are trending buzzwords of our time. I read about them every day in different media, but as a regular customer it is rare that I get a “wow experience” as a result of new technologies. Where are the actual implementations? I have decided to investigate this subject over the next couple of months with the aim of uncovering what new technology can do for the customer experience through specific examples. New technology opens up new opportunities, but in the very end it’s all about providing a better customer experience. In a digital world, where everything related to product and price is completely transparent, and where the distance between store and customer is shorter than ever, the 4Ps are dying. Instead, we are now talking about the 4Cs: Consistency, Content, Convenience and Contextual – with focus on the customer experience (learn more about the 4Cs here). In this article, I will…" />
+<meta property="og:url" content="https://www.ibm.com/blogs/nordic-msp/artificial-intelligence-machine-learning-cognitive-computing/" />
+<meta property="og:site_name" content="IBM Digital Nordic" />
+<meta property="article:tag" content="artificial intelligence" />
+<meta property="article:tag" content="cognitive computing" />
+<meta property="article:tag" content="machine learning" />
+<meta property="article:section" content="Cognitive" />
+<meta property="article:published_time" content="2017-11-20T09:06:46+00:00" />
+<meta property="article:modified_time" content="2017-11-17T12:14:25+00:00" />
+<meta property="og:updated_time" content="2017-11-17T12:14:25+00:00" />
+<meta property="og:image" content="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image-.png" />
+<meta property="og:image:secure_url" content="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image-.png" />
+<meta property="og:image:width" content="1440" />
+<meta property="og:image:height" content="264" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Artificial Intelligence, Machine Learning and Cognitive Computing are trending buzzwords of our time. I read about them every day in different media, but as a regular customer it is rare that I get a “wow experience” as a result of new technologies. Where are the actual implementations? I have decided to investigate this subject over the next couple of months with the aim of uncovering what new technology can do for the customer experience through specific examples. New technology opens up new opportunities, but in the very end it’s all about providing a better customer experience. In a digital world, where everything related to product and price is completely transparent, and where the distance between store and customer is shorter than ever, the 4Ps are dying. Instead, we are now talking about the 4Cs: Consistency, Content, Convenience and Contextual – with focus on the customer experience (learn more about the 4Cs here). In this article, I will…" />
+<meta name="twitter:title" content="Artificial Intelligence, Machine Learning and Cognitive Computing - IBM Digital Nordic" />
+<meta name="twitter:image" content="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image-.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='site_css-css'  href='https://www.ibm.com/blogs/nordic-msp/wp-content/themes/ibmNorthstar/assets/css/style.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.ibm.com/blogs/nordic-msp/wp-json/' />
+<link rel='shortlink' href='https://www.ibm.com/blogs/nordic-msp/?p=38727' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ibm.com/blogs/nordic-msp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fartificial-intelligence-machine-learning-cognitive-computing%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ibm.com/blogs/nordic-msp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fartificial-intelligence-machine-learning-cognitive-computing%2F&#038;format=xml" />
+<script type="text/javascript">
+           var ajaxurl = "https://www.ibm.com/blogs/nordic-msp/wp-admin/admin-ajax.php";
+         </script>
+        <!-- ============================================================ -->
+        <!-- START: v18_head -->
+        
+        <link rel="alternate" type="application/atom+xml" title="IBM Digital Nordic" href="https://www.ibm.com/blogs/nordic-msp/feed/atom/" />
+
+        
+        <link rel="icon" href="//www.ibm.com/favicon.ico">
+
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="geo.country" content="US" />
+        <meta name="dcterms.date" content="2017-11-20" />
+        <meta name="dcterms.rights" content="© Copyright IBM Corp. 2019" />
+                <meta property="fb:pages" content="" />
+                       <script>
+            digitalData = {
+                page: {
+                    category: {
+                        primaryCategory: '',
+                        ibm: {
+                                globalBrandTableL10: '',
+                                gbt10: '',
+                                globalBrandTableL17: '',
+                                gbt17: '',
+                                globalBrandTableL20: '',
+                                gbt20: '',
+                                globalBrandTableL30: '',
+                                gbt30: '',
+                              }
+                    },
+                    pageInfo: {
+                        effectiveDate: '2017-11-20',
+                        expiryDate: '2022-11-19',
+                        language: 'en-US',
+                        publishDate: '2017-11-20',
+                        publisher: 'IBM Corporation',
+                        version: 'v18',
+                        ibm: {
+                            contentDelivery: 'ibm.com/blogs',
+                            contentProducer: 'ibmNorthstar 1.7.10.1',
+                            country: 'US',
+                            ibmDynamicCm: false,
+                            industry: 'ZZ',
+                            owner: 'Inge Lorenzen/Denmark/IBM',
+                            siteID: '',
+                            subject: 'IBM000',
+                            type: 'CT915',
+                            }
+                        }
+                    }
+                };
+        </script>
+
+        <link href="//1.www.s81c.com/common/v18/css/www.css" rel="stylesheet" />
+        <link href="//1.www.s81c.com/common/v18/css/forms.css" rel="stylesheet" />
+        <link href="//1.www.s81c.com/common/v18/css/tables.css" rel="stylesheet" />
+
+        
+        <script type="text/javascript">
+            IBMCore.common.util.config.set({
+                survey: { global_percent: 5 },
+                footer: {
+                  type: "alternate",
+                  socialLinks: { enabled:false }
+                },
+                scrolltracker:{enabled:!1},
+                masthead: {
+                    type: 'alternate'                }
+            });
+        </script>
+
+        <!-- IBM: FORMS -->
+
+        <script src="//1.www.s81c.com/common/v18/js/forms.js"></script>
+
+        <!-- IBM: TABLES -->
+
+        <script src="//1.www.s81c.com/common/v18/js/tables.js"></script>
+
+        <!-- IBM: METRICS -->
+        <script src="//1.www.s81c.com/common/stats/ida_stats.js"></script>
+
+
+        <script src='//1.www.s81c.com/common/v18/js/masonry.js'></script>
+
+
+
+       
+       
+       
+                 <!-- END: v18_head -->
+        <!-- ============================================================ -->
+
+    </head>
+
+    <body  id="ibm-com" class="post-template-default single single-post postid-38727 single-format-standard ibm-type" itemscope itemtype="http://schema.org/WebPage">
+
+
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+        <div id="ibm-top" class="ibm-landing-page page">
+
+                                      <div id="ibm-masthead" role="banner" aria-label="IBM">
+                  <div id="ibm-mast-options">
+                      <ul role="toolbar" aria-labelledby="ibm-masthead">
+                          <li id="ibm-geo" role="presentation"><a href="//www.ibm.com/planetwide/select/selector.html" role="button" aria-label="United states selected - Choose a country">United States</a> </li>
+                      </ul>
+                  </div>
+                  <div id="ibm-universal-nav">
+                      <nav role="navigation" aria-label="IBM">
+
+                          <div id="ibm-home"><a href="//www.ibm.com/us/en/">IBM®</a></div>
+                          <ul id="ibm-menu-links" role="toolbar" aria-label="Site map">
+                              <li><a href="//www.ibm.com/sitemap/us/en/">Site map</a></li>
+                          </ul>
+                      </nav>
+                      <div id="ibm-search-module" role="search" aria-labelledby="ibm-masthead">
+                          <form id="ibm-search-form" action="//www.ibm.com/Search/" method="get">
+                              <label for="q"></label>
+                              <input type="text" maxlength="100" value="" placeholder="Search" name="q" id="q" aria-label="Search" />
+                              <input type="hidden" value="18" name="v" />
+                              <input type="hidden" value="utf" name="en" />
+                              <input type="hidden" value="en" name="lang" />
+                              <input type="hidden" value="us" name="cc" />
+                              <span class="ibm-search-scope"><input type="checkbox" name="s" value="customsearch" checked id="scopeoption"> <label for="scopeoption">Search within IBM Digital Nordic</span>
+                              <input type="submit" id="ibm-search" class="ibm-btn-search" value="Submit" />
+                          </form>
+                          <form class="ibm-hide" id="customSearchForm" action="https://www.ibm.com/blogs/nordic-msp/" method="get">
+                              <input type="text" name="s">
+                          </form>
+                      </div>
+                  </div>
+              </div>
+                          <header role="banner" aria-labelledby="ibm-pagetitle-h1">
+              
+                            <div class="ibm-sitenav-menu-container">
+                   <!-- The code below is where you edit the blog title that appears in menu navigation -->
+                   <div class="ibm-sitenav-menu-name"><a class="ibm-bold" href="https://www.ibm.com/blogs/nordic-msp/">IBM Digital Nordic</a></div>
+                    <div class="ibm-sitenav-menu-list">
+
+                        <ul role="menubar">
+
+                                                                    <li role="presentation"><a role="menuitem" href="https://www.ibm.com/blogs/nordic-msp">Home</a></li>
+                                                                        <li role="presentation"><a role="menuitem" href="https://www.ibm.com/blogs/nordic-msp/about/">About us</a></li>
+                                                                        <li role="presentation"><a role="menuitem" href="https://www.ibm.com/blogs/nordic-msp/contributors/">Contributors</a></li>
+                                                                        <li role="presentation"><a role="menuitem" href="https://www.ibm.com/blogs/nordic-msp/archive/">Archive</a></li>
+                                                                        <li role="presentation"><a role="menuitem" href="https://www.ibm.com/blogs/nordic-msp/categories/">Categories</a></li>
+                                                        </ul>
+                    </div>
+                </div>
+              
+          <nav role="navigation" aria-labelledby="ibm-pagetitle-h1">
+
+          </nav>
+          <!-- CONTENT_NAV_END -->
+                </header>
+
+
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+        jQuery("#commentform #submit").attr('onClick','IBMCore.common.widget.overlay.show("overlayExampleAlert"); return false;')
+        jQuery("#comments-agree").click(function(){
+            IBMCore.common.widget.overlay.hide('overlayExampleAlert',true);
+            jQuery("#commentform #submit").removeAttr('onClick');
+            jQuery("#commentform #submit").trigger('click');
+        });
+        jQuery("#comments-disagree").click(function(){
+            IBMCore.common.widget.overlay.hide('overlayExampleAlert',true);
+        });
+    });
+</script>
+            <main role="main" aria-labelledby="ibm-pagetitle-h1">
+        <div id="ibm-pcon">
+            <div id="ibm-content">
+                <div id="ibm-content-body ibm-padding-top-0">
+                    <div id="ibm-content-main">
+    <!-- The Loop -->
+    
+        
+        <div class="ibm-blog__article ibm-padding-bottom-0" data-post-id-38727>
+
+                <div id="ibm-leadspace-head" class="ibm-alternate ibm-textcolor-white-core"
+                        data-desktop-lg-retina="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image-.png"
+                        data-desktop-lg="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image--1440x264.png"
+                        data-desktop-retina="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image-.png"
+                        data-desktop="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image--1200x264.png"
+                        data-tablet-retina="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image--1200x264.png"
+                        data-tablet="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image--780x264.png"
+                        data-mobile-retina="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image--780x264.png"
+                        data-mobile="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image--380x264.png"
+                        style="background: url(https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/peter-sommer-blog-image--1440x264.png) no-repeat 0 0 / cover #fff;">                        
+
+                    <div id="ibm-leadspace-body"
+                     class="">
+                        <div class="ibm-columns">
+                            <div class="ibm-col-2-1 ">
+                                                                   <a href="https://www.ibm.com/blogs/nordic-msp/category/cognitive/">                                    <h4 class="ibm-blog__category ibm-textcolor-white-core">
+                                    Cognitive</h4></a>                                    
+                            <h1 class="ibm-h1 ibm-medium ''" itemprop="headline" rel="bookmark">
+                            Artificial Intelligence, Machine Learning and Cognitive Computing</h1>
+
+
+                            
+                            </div>
+                        </div>
+                    </div>
+                            </div>
+
+    <div class="ibm-columns">
+        <div class="ibm-col-1-1 ibm-padding-top-2">
+        <div class="ibm-blog__article-main">
+            <div class="ibm-blog__article-date"><p class="ibm-date-time ibm-textcolor-gray-40">
+            November 20, 2017 | Written by: <a href="https://www.ibm.com/blogs/nordic-msp/author/peter-sommer/" title="Posts by Peter Sommer" rel="author">Peter Sommer</a></p>
+            <p>
+    Categorized: <a href="https://www.ibm.com/blogs/nordic-msp/category/cognitive/">Cognitive</a>            </p>
+                 </div>
+
+                    
+                    
+                    <!--<div class="ibm-blog__article-content">-->
+                        <p class="ibm-bold">Share this post:</p><div class="ibm-clear"></div><p id="sharespacing" class="ibm-icononly ibm-shareiconspaceing"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fartificial-intelligence-machine-learning-cognitive-computing%2F" target="_blank" class="ibm-facebook-encircled-link">  <span class="ibm-textcolor-gray-40 sharecount-font-size nh-facebook-count-38727"></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fartificial-intelligence-machine-learning-cognitive-computing%2F&title=Artificial Intelligence, Machine Learning and Cognitive Computing&summary=Artificial+Intelligence%2C+Machine+Learning+and+Cognitive+Computing+are+trending+buzzwords+of+our+time.+I+read+about+them+every+day+in+different+media%2C+but+as+a+regular+customer+it+is+rare+that+I+get+a+%E2%80%9Cwow+experience%E2%80%9D+as+a+result+of+new+technologies.+Where+are+the+actual+implementations%3F+I+have+decided+to+investigate+this+subject+over+%5B%26hellip%3B%5D&source=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp" target="_blank" class="ibm-linkedin-encircled-link">  <span class="ibm-textcolor-gray-40 sharecount-font-size nh-linkedin-count-38727"></span></a><a href="https://twitter.com/share?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fartificial-intelligence-machine-learning-cognitive-computing%2F&text=Artificial Intelligence, Machine Learning and Cognitive Computing"target="_blank" class="ibm-twitter-encircled-link">  </a></p>
+                        <p>Artificial Intelligence, Machine Learning and Cognitive Computing are trending buzzwords of our time. I read about them every day in different media, but as a regular customer it is rare that I get a “wow experience” as a result of new technologies. Where are the actual implementations? I have decided to investigate this subject over the next couple of months with the aim of uncovering what new technology can do for the customer experience through specific examples.</p>
+<p>New technology opens up new opportunities, but in the very end it’s all about providing a better customer experience. In a digital world, where everything related to product and price is completely transparent, and where the distance between store and customer is shorter than ever, the 4Ps are dying. Instead, we are now talking about the 4Cs: Consistency, Content, Convenience and Contextual – with focus on the customer experience (learn more about the 4Cs <a href="https://www.linkedin.com/pulse/amazon-k%C3%B8ber-whole-foods-nogen-grund-til-ny-bekymring-peter-sommer/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BR9B4rGtnTmSrw4DAoezDjQ%3D%3D">here</a>).</p>
+<p>In this article, I will primarily focus on explaining the central terms in relation to real life implementations and business value &#8211; I am not in pursuit of academic truth on these terms:</p>
+<p><img class="alignnone size-full wp-image-38730" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/the-new-technologies.jpg" alt="" width="1024" height="701" srcset="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/the-new-technologies.jpg 1024w, https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/the-new-technologies-300x205.jpg 300w, https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/the-new-technologies-768x526.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><strong>Machine Learning </strong>provides computers with the ability to continuing learning without being pre-programmed after a manual. Machine Learning is algorithms that learn from data and create foresights based on this data.<br />
+A simple example of how it can be used: Building a model, that can predict customer demand by understanding the correlation between sales numbers from a store correlated with historical weather data and local events happening in the area. I can recommend <a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BR9B4rGtnTmSrw4DAoezDjQ%3D%3D">this link</a>, which gives a visual explanation of a specific Machine Learning example.</p>
+<p><strong>Artificial Intelligence</strong> is when machines work “intelligently”. The intelligence emerges from a business point of view when machines – based on information – are able to make decisions, which maximizes the chances of success in a given topic. By the use of Machine Learning, Artificial Intelligence is able to use learning from a data set to solve problems and give relevant recommendations. If we continue the example from above, we can use the learning about the correlation between weather, local events and sales numbers to create a fully automated system, that decides upon the daily supply shipped to a given store.</p>
+<p><strong>Cognitive Computing </strong>are systems that learn at scale, reason with purpose and interact with humans naturally. It is a mixture of computer science and cognitive science – that is, the understanding of the human brain and how it works. By means of self-teaching algorithms that use data mining, visual recognition, and natural language processing, the computer is able to solve problems and thereby optimize human processes. Learn more about it <a href="https://www.forbes.com/sites/bernardmarr/2016/03/23/what-everyone-should-know-about-cognitive-computing/#759ff2945088">here</a> or <a href="https://www.research.ibm.com/software/IBMResearch/multimedia/Computing_Cognition_WhitePaper.pdf">here</a>. Examples:</p>
+<p><strong>Visual Recognition </strong>applies a pattern recognition that makes it possible to identify what is in a given photo/video. Based on this, the technology can come up with recommendations or even make decisions. Try the technology <a href="https://visual-recognition-demo.mybluemix.net/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BR9B4rGtnTmSrw4DAoezDjQ%3D%3D">here</a>.</p>
+<p>A good commercial example is the company ”The Hunt”. The business idea is simple: take a photo of a piece of clothing – e.g. a pair of shoes – and the service will help you track down all stores that sell the product or likewise products. Learn more <a href="http://content.mail3.spopessentials3.com/lp/36765/218563/The_Hunt_Case_Study.pdf?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BR9B4rGtnTmSrw4DAoezDjQ%3D%3D">here</a> and click <a href="https://www.thehunt.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BR9B4rGtnTmSrw4DAoezDjQ%3D%3D">here</a> to try it yourself.</p>
+<p><strong>Natural Language Processing </strong>is the ability to understand common sentences while being able to sense the mood – if there is e.g. anger, frustration or happiness and excitement. The technology can be used to create chatbots, which are systems you can communicate via regular talk. The best customer experience I have tried is with The North Face. Here, a chatbot helps me find the exact right jacket. Try it yourself <a href="https://www.thenorthface.com/xps?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BR9B4rGtnTmSrw4DAoezDjQ%3D%3D">here</a>.</p>
+<p><strong>Based on this: does the new technology belong in the future or is it already relevant in the Nordic today? The technology is a reality and it works – but in a Nordic context we are still in the very early stages, and Nordic examples are still few. During the next couple of months I will share with you the best examples of implementations of the new technology that I encounter. I am very interested in learning how you have experienced a better customer experience by the use of new technology?</strong></p>
+<p>&nbsp;</p>
+                        </div>
+                                                                          <div class="ibm-columns">
+                              <div class="ibm-col-6-3">
+                                  <div class="ibm-mo">
+                                      <div class="ibm-mo__image"><img class="ibm-circle" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2017/11/Peter-Sommer-foto-.jpg" width="118" height="118" alt=""/></div>
+                                      <div class="ibm-mo__body">
+                                          <strong><a href="https://www.ibm.com/blogs/nordic-msp/author/peter-sommer/" title="Posts by Peter Sommer" rel="author">Peter Sommer</a></strong>
+                                          <p>Partner - Industry Executive</p>
+                                      </div>
+                                  </div>
+                              </div>
+                            </div>
+                                                                                <div class="ibm-padding-top-1">
+                        <script type="text/javascript">
+    jQuery(document).ready(function($){
+              
+//       
+    var shareUrl = "https://www.ibm.com/blogs/nordic-msp/artificial-intelligence-machine-learning-cognitive-computing/";
+    var postID = "38727";
+    $('.nh-facebook-count-'+postID).text();
+    //$('.nh-linkedin-count-'+postID).text();
+
+  
+});
+
+</script>
+                        <!--</div>-->
+                        <div class="ibm-blog__article-tags">
+            <p class='ibm-button-link ibm-btn-row'><a class="ibm-btn-sec" href="https://www.ibm.com/blogs/nordic-msp/tag/artificial-intelligence/" rel="tag">artificial intelligence</a> <a class="ibm-btn-sec" href="https://www.ibm.com/blogs/nordic-msp/tag/cognitive-computing/" rel="tag">cognitive computing</a> <a class="ibm-btn-sec" href="https://www.ibm.com/blogs/nordic-msp/tag/machine-learning/" rel="tag">machine learning</a><br /></p>
+               </div>
+
+
+                    <!--- <div class="ibm-blog__article-date">
+                        <p class="ibm-date-time ibm-textcolor-gray-40"></p>
+                    </div>
+
+                    <div class="ibm-rule ibm-alternate ibm-gray-30"> </div> -->
+
+                    </div>
+                                       <div class="ibm-columns">
+                    <div class="ibm-col-4-1">
+                                                                                                        <p><a href="https://www.ibm.com/blogs/nordic-msp/nordic-ibm-cloud-garage-open-business/" class="ibm-previous-link ibm-inlinelink">Previous Post</a></p>
+                            <h6 class="nav-title"><a href="https://www.ibm.com/blogs/nordic-msp/nordic-ibm-cloud-garage-open-business/">Nordic IBM Cloud Garage open for business</a></h6>
+                                            </div>
+
+                    <div class="ibm-col-4-1 ibm-right ibm-fright">
+                                                                                                        <p><a href="https://www.ibm.com/blogs/nordic-msp/ibm-domino-10-beyond/" class="ibm-next-link ibm-inlinelink ibm-icon-after">Next Post</a></p>
+                            <h6 class="nav-title"><a href="https://www.ibm.com/blogs/nordic-msp/ibm-domino-10-beyond/">IBM Domino 10 and beyond</a></h6>
+                                            </div>
+                    </div>
+
+                    <!--<div class="ibm-padding-top-1">
+                                        </div>-->
+
+
+                </div>
+
+
+
+        </div>
+        
+
+                <div class="ibm-article-band ibm-blog__postgrid ibm-padding-top-0">
+            <div class="ibm-columns ibm-padding-bottom-0">
+                <div class="ibm-col-1-1 ibm-padding-top-2 ibm-padding-bottom-2">
+                        <span class="ibm-h2">More Cognitive stories  </span>
+                </div>
+            </div>
+            <div class="ibm-columns" data-items=".ibm-blog__postgrid-item-link">
+                                    
+ <div class="ibm-col-6-2 ibm-col-medium-6-3 post post" data-post-id-"47276">
+    <div class="ibm-card">
+
+        <div class="ibm-card__heading"><p>
+    <a href="https://www.ibm.com/blogs/nordic-msp/category/innovation/">    Innovation    </a></p></div>
+    
+    
+      <div class="ibm-card__image"><a href="https://www.ibm.com/blogs/nordic-msp/call-for-code-2019/"><img class="ibm-resize" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2019/04/Ditlev-call-for-code--1024x434.jpg" alt="" /></a></div>
+      <div class="ibm-card__content">
+
+      
+
+
+    <h3 class="ibm-h3"><a class="ibm-blog__header-link" href= "https://www.ibm.com/blogs/nordic-msp/call-for-code-2019/"><span class="ibm-textcolor-default">Your digital superpowers are needed – to help your fellow human beings after disaster strikes</span></a></h3>
+    <p>You wake up cold and stiff. Your bed is nothing more than a blanket spread across the ground, and the cold morning air chills you to the bone. Your body is stiff and your head is spinning. Your throat is parched and your stomach churns from hunger. Where am I? What do I do now? [&hellip;]</p>
+    </div>
+    <div class="ibm-card__bottom ibm-padding-bottom-0 ibm-padding-top-0"  onmouseleave="socialCardHide(47276)">
+    <p style="max-width: calc(100% - 36px);"><a class="ibm-forward-link ibm-inlinelink ibm-fleft" href="https://www.ibm.com/blogs/nordic-msp/call-for-code-2019/">Continue reading</a></p>
+
+          <p class="ibm-icon-nolink ibm-icononly ibm-inlinelink ibm-fright ibm-share-encircled-link" onclick="socialCardDisplayClick(47276)" onmouseenter="socialCardDisplayClick(47276)"></p>
+    
+
+  <div id='47276_social' style="display: none;">
+    <div>
+      <p class="ibm-icononly">
+
+        <p class="ibm-bold">Share this post:</p><div class="ibm-clear"></div><p id="sharespacing" class="ibm-icononly ibm-shareiconspaceing"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fcall-for-code-2019%2F" target="_blank" class="ibm-facebook-encircled-link">  <span class="ibm-textcolor-gray-40 sharecount-font-size nh-facebook-count-47276"></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fcall-for-code-2019%2F&title=Your digital superpowers are needed – to help your fellow human beings after disaster strikes&summary=You+wake+up+cold+and+stiff.+Your+bed+is+nothing+more+than+a+blanket+spread+across+the+ground%2C+and+the+cold+morning+air+chills+you+to+the+bone.+Your+body+is+stiff+and+your+head+is+spinning.+Your+throat+is+parched+and+your+stomach+churns+from+hunger.+Where+am+I%3F+What+do+I+do+now%3F+%5B%26hellip%3B%5D&source=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp" target="_blank" class="ibm-linkedin-encircled-link">  <span class="ibm-textcolor-gray-40 sharecount-font-size nh-linkedin-count-47276"></span></a><a href="https://twitter.com/share?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fcall-for-code-2019%2F&text=Your digital superpowers are needed – to help your fellow human beings after disaster strikes"target="_blank" class="ibm-twitter-encircled-link">  </a></p>
+      </p>
+    </div>
+    <!-- <p class="ibm-icononly"><a href="http://www.facebook.com/sharer.php?u=https://www.ibm.com/blogs/nordic-msp/call-for-code-2019/&amp;t=Your digital superpowers are needed – to help your fellow human beings after disaster strikes" target="_blank" class="ibm-facebook-encircled-link">Facebook</a>
+    <a href="https://twitter.com/intent/tweet?original_referer=https://www.ibm.com/blogs/nordic-msp/call-for-code-2019/&amp;text=Your digital superpowers are needed – to help your fellow human beings after disaster strikes&amp;tw_p=tweetbutton&amp;url=https://www.ibm.com/blogs/nordic-msp/call-for-code-2019/" target="_blank" class="ibm-twitter-encircled-link">Twitter</a>
+    <a class="ibm-linkedin-encircled-link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.ibm.com/blogs/nordic-msp/call-for-code-2019/&amp;title=Your digital superpowers are needed – to help your fellow human beings after disaster strikes&amp;source=IBM Digital Nordic" target="_blank">LinkedIn</a>
+    <a class="ibm-googleplus-encircled-link" href="https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=https://www.ibm.com/blogs/nordic-msp/call-for-code-2019/" target="_blank">LinkedIn</a></p> -->
+</div>
+    </div>
+    </div>
+  </div>
+<script type="text/javascript">
+    jQuery(document).ready(function($){
+        $('.nh-facebook-count-'+47276).text();
+        //$('.nh-linkedin-count-'+47276).text();
+
+
+  
+});
+
+</script>                    
+ <div class="ibm-col-6-2 ibm-col-medium-6-3 post post" data-post-id-"47396">
+    <div class="ibm-card">
+
+        <div class="ibm-card__heading"><p>
+    <a href="https://www.ibm.com/blogs/nordic-msp/category/storwize/">    Storwize    </a></p></div>
+    
+    
+      <div class="ibm-card__image"><a href="https://www.ibm.com/blogs/nordic-msp/high-performance-storage-for-the-masses/"><img class="ibm-resize" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2019/04/Kim-Gregers-blog-image--1024x683.jpg" alt="" /></a></div>
+      <div class="ibm-card__content">
+
+      
+
+
+    <h3 class="ibm-h3"><a class="ibm-blog__header-link" href= "https://www.ibm.com/blogs/nordic-msp/high-performance-storage-for-the-masses/"><span class="ibm-textcolor-default">High performance storage for the masses</span></a></h3>
+    <p>We always write articles about the fastest and greatest of our hardware or software-products. Not this time. How about launching a high-performance storage system targeted the main stream needs of most customers? It is not the fastest ever, since that position is still being held by IBM FlashSystem 9150, but it is to a high [&hellip;]</p>
+    </div>
+    <div class="ibm-card__bottom ibm-padding-bottom-0 ibm-padding-top-0"  onmouseleave="socialCardHide(47396)">
+    <p style="max-width: calc(100% - 36px);"><a class="ibm-forward-link ibm-inlinelink ibm-fleft" href="https://www.ibm.com/blogs/nordic-msp/high-performance-storage-for-the-masses/">Continue reading</a></p>
+
+          <p class="ibm-icon-nolink ibm-icononly ibm-inlinelink ibm-fright ibm-share-encircled-link" onclick="socialCardDisplayClick(47396)" onmouseenter="socialCardDisplayClick(47396)"></p>
+    
+
+  <div id='47396_social' style="display: none;">
+    <div>
+      <p class="ibm-icononly">
+
+        <p class="ibm-bold">Share this post:</p><div class="ibm-clear"></div><p id="sharespacing" class="ibm-icononly ibm-shareiconspaceing"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fhigh-performance-storage-for-the-masses%2F" target="_blank" class="ibm-facebook-encircled-link">  <span class="ibm-textcolor-gray-40 sharecount-font-size nh-facebook-count-47396"></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fhigh-performance-storage-for-the-masses%2F&title=High performance storage for the masses&summary=We+always+write+articles+about+the+fastest+and+greatest+of+our+hardware+or+software-products.+Not+this+time.+How+about+launching+a+high-performance+storage+system+targeted+the+main+stream+needs+of+most+customers%3F+It+is+not+the+fastest+ever%2C+since+that+position+is+still+being+held+by+IBM+FlashSystem+9150%2C+but+it+is+to+a+high+%5B%26hellip%3B%5D&source=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp" target="_blank" class="ibm-linkedin-encircled-link">  <span class="ibm-textcolor-gray-40 sharecount-font-size nh-linkedin-count-47396"></span></a><a href="https://twitter.com/share?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fhigh-performance-storage-for-the-masses%2F&text=High performance storage for the masses"target="_blank" class="ibm-twitter-encircled-link">  </a></p>
+      </p>
+    </div>
+    <!-- <p class="ibm-icononly"><a href="http://www.facebook.com/sharer.php?u=https://www.ibm.com/blogs/nordic-msp/high-performance-storage-for-the-masses/&amp;t=High performance storage for the masses" target="_blank" class="ibm-facebook-encircled-link">Facebook</a>
+    <a href="https://twitter.com/intent/tweet?original_referer=https://www.ibm.com/blogs/nordic-msp/high-performance-storage-for-the-masses/&amp;text=High performance storage for the masses&amp;tw_p=tweetbutton&amp;url=https://www.ibm.com/blogs/nordic-msp/high-performance-storage-for-the-masses/" target="_blank" class="ibm-twitter-encircled-link">Twitter</a>
+    <a class="ibm-linkedin-encircled-link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.ibm.com/blogs/nordic-msp/high-performance-storage-for-the-masses/&amp;title=High performance storage for the masses&amp;source=IBM Digital Nordic" target="_blank">LinkedIn</a>
+    <a class="ibm-googleplus-encircled-link" href="https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=https://www.ibm.com/blogs/nordic-msp/high-performance-storage-for-the-masses/" target="_blank">LinkedIn</a></p> -->
+</div>
+    </div>
+    </div>
+  </div>
+<script type="text/javascript">
+    jQuery(document).ready(function($){
+        $('.nh-facebook-count-'+47396).text();
+        //$('.nh-linkedin-count-'+47396).text();
+
+
+  
+});
+
+</script>                    
+ <div class="ibm-col-6-2 ibm-col-medium-6-3 post post" data-post-id-"46223">
+    <div class="ibm-card">
+
+        <div class="ibm-card__heading"><p>
+    <a href="https://www.ibm.com/blogs/nordic-msp/category/event/">    Event    </a></p></div>
+    
+    
+      <div class="ibm-card__image"><a href="https://www.ibm.com/blogs/nordic-msp/youthspeak-forum-2019/"><img class="ibm-resize" src="https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2019/03/YouthSpeak-2.png" alt="" /></a></div>
+      <div class="ibm-card__content">
+
+      
+
+
+    <h3 class="ibm-h3"><a class="ibm-blog__header-link" href= "https://www.ibm.com/blogs/nordic-msp/youthspeak-forum-2019/"><span class="ibm-textcolor-default">YouthSpeak Forum 2019</span></a></h3>
+    <p>YouthSpeak Forum 2019 is a one-day event in Denmark for 150 young social innovators, as well as stakeholders from business, education, and politics. They are all gathered for a dialogue on the challenges and solutions for sustainable development that young people and the Danish society as a whole can drive. The forum aims to create [&hellip;]</p>
+    </div>
+    <div class="ibm-card__bottom ibm-padding-bottom-0 ibm-padding-top-0"  onmouseleave="socialCardHide(46223)">
+    <p style="max-width: calc(100% - 36px);"><a class="ibm-forward-link ibm-inlinelink ibm-fleft" href="https://www.ibm.com/blogs/nordic-msp/youthspeak-forum-2019/">Continue reading</a></p>
+
+          <p class="ibm-icon-nolink ibm-icononly ibm-inlinelink ibm-fright ibm-share-encircled-link" onclick="socialCardDisplayClick(46223)" onmouseenter="socialCardDisplayClick(46223)"></p>
+    
+
+  <div id='46223_social' style="display: none;">
+    <div>
+      <p class="ibm-icononly">
+
+        <p class="ibm-bold">Share this post:</p><div class="ibm-clear"></div><p id="sharespacing" class="ibm-icononly ibm-shareiconspaceing"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fyouthspeak-forum-2019%2F" target="_blank" class="ibm-facebook-encircled-link">  <span class="ibm-textcolor-gray-40 sharecount-font-size nh-facebook-count-46223"></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fyouthspeak-forum-2019%2F&title=YouthSpeak Forum 2019&summary=YouthSpeak+Forum+2019+is+a+one-day+event+in+Denmark+for+150+young+social+innovators%2C+as+well+as+stakeholders+from+business%2C+education%2C+and+politics.+They+are+all+gathered+for+a+dialogue+on+the+challenges+and+solutions+for+sustainable+development+that+young+people+and+the+Danish+society+as+a+whole+can+drive.+The+forum+aims+to+create+%5B%26hellip%3B%5D&source=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp" target="_blank" class="ibm-linkedin-encircled-link">  <span class="ibm-textcolor-gray-40 sharecount-font-size nh-linkedin-count-46223"></span></a><a href="https://twitter.com/share?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fnordic-msp%2Fyouthspeak-forum-2019%2F&text=YouthSpeak Forum 2019"target="_blank" class="ibm-twitter-encircled-link">  </a></p>
+      </p>
+    </div>
+    <!-- <p class="ibm-icononly"><a href="http://www.facebook.com/sharer.php?u=https://www.ibm.com/blogs/nordic-msp/youthspeak-forum-2019/&amp;t=YouthSpeak Forum 2019" target="_blank" class="ibm-facebook-encircled-link">Facebook</a>
+    <a href="https://twitter.com/intent/tweet?original_referer=https://www.ibm.com/blogs/nordic-msp/youthspeak-forum-2019/&amp;text=YouthSpeak Forum 2019&amp;tw_p=tweetbutton&amp;url=https://www.ibm.com/blogs/nordic-msp/youthspeak-forum-2019/" target="_blank" class="ibm-twitter-encircled-link">Twitter</a>
+    <a class="ibm-linkedin-encircled-link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.ibm.com/blogs/nordic-msp/youthspeak-forum-2019/&amp;title=YouthSpeak Forum 2019&amp;source=IBM Digital Nordic" target="_blank">LinkedIn</a>
+    <a class="ibm-googleplus-encircled-link" href="https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=https://www.ibm.com/blogs/nordic-msp/youthspeak-forum-2019/" target="_blank">LinkedIn</a></p> -->
+</div>
+    </div>
+    </div>
+  </div>
+<script type="text/javascript">
+    jQuery(document).ready(function($){
+        $('.nh-facebook-count-'+46223).text();
+        //$('.nh-linkedin-count-'+46223).text();
+
+
+  
+});
+
+</script>
+            </div> <!-- .ibm-columns -->
+
+        </div>  <!-- .ibm-blog__postgrid -->
+    
+    </div>
+
+                            </div>
+                    </div>
+              </div>
+            </div>
+        </main>
+
+           <div class="ibm-band ibm-alternate-background" style="background: url(https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2018/12/IBM-Digital-Nordic-1.png) 0 0 / cover no-repeat;">
+         	<div class="ibm-columns ibm-padding-top-1">
+   		<div class="ibm-col-6-1"></div>
+   		<div class="ibm-col-6-4 ">
+   			<h2 class="ibm-h1 ibm-center ibm-padding-bottom-1">IBM Digital Nordic</h1>
+   			<p class="ibm-h4 ibm-center"></p>
+   		</div>
+   	</div>
+   	<div class="ibm-columns ibm-padding-top-1 ibm-padding-bottom-1">
+
+         <div class="ibm-col-1-1 ibm-center">
+         	                     <p class="ibm-btn-link ibm-btn-row">
+                        <a class="ibm-btn-sec ibm-btn-white" href="https://www.ibm.com/products?lnk=hpmpr&lnk2=learn">
+                           IBM Marketplace                        </a>
+                        <a class="ibm-btn-sec ibm-btn-white" href="https://www-01.ibm.com/easytools/runtime/hspx/prod/public/X0033/Webinars/page/PublicHomepage">
+                           IBM IT Solutions Webinar Series                        </a>
+                     </p>
+                           </div>
+   	</div>
+  </div>
+            
+  
+                                                    <div class="ibm-band scene known-footer ibm-background-white-core" id="known-footer">
+
+                                        <div class="ibm-columns ibm-padding-top-1 ibm-padding-bottom-2">
+                            <div class="ibm-col-1-1">
+                                <div class="social-share">
+                                    <h4>Connect with us</h4>
+                                    <p class="ibm-icononly ibm-padding-top-1">
+                                                                           <a class="ibm-facebook-encircled-link" href="https://www.facebook.com/IBM/" target="_blank"></a>
+                                                                                                                <a class="ibm-twitter-encircled-link" href="https://twitter.com/IBM" target="_blank"></a>
+                                                                                                                <a class="ibm-linkedin-encircled-link" href="https://www.linkedin.com/company/ibm/?originalSubdomain=us " target="_blank"></a>
+                                                                                                                <a class="ibm-youtube-encircled-link" href="https://www.youtube.com/user/IBM" target="_blank"></a>
+                                                                                                                                                </p>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+
+            <!-- IBM: FOOTER_BEGIN -->
+            <div id="ibm-footer-module"></div>
+            <footer role="contentinfo" aria-label="IBM">
+                <div id="ibm-footer">
+                    <ul>
+                        <li><a href="//www.ibm.com/contact/us/en/">Contact</a></li>
+                        <li><a href="//www.ibm.com/privacy/us/en/">Privacy</a></li>
+                        <li><a href="//www.ibm.com/legal/us/en/">Terms of use</a></li>
+                        <li><a href="//www.ibm.com/accessibility/us/en/">Accessibility</a></li>
+                    </ul>
+                </div>
+            </footer>
+
+            <!-- IBM: METRICS -->
+        <script type="text/javascript" src="//www.ibm.com/software/info/js/tactic.js"></script>
+        <script type="text/javascript" src="//www.ibm.com/software/info/js/tacticbindlinks.js"></script>
+     
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+	
+		jQuery('.ibm-blog__article-main > h1').addClass("ibm-h1");
+		jQuery('.ibm-blog__article-main > h3').addClass("ibm-h3");
+		jQuery('.ibm-blog__article-main h2').each(function(i){
+
+			if(jQuery(this).closest('.ibm-show-hide').length == 0)
+			{
+				jQuery(this).addClass("ibm-h2");
+			}
+		});
+		
+		
+
+
+		jQuery('#ibm-content-main').find('h1').addClass("ibm-h1");
+		jQuery('#ibm-content-main').find('h3').addClass("ibm-h3");
+
+		jQuery('#ibm-content-main h2').each(function(i){
+
+			if(jQuery(this).closest('.ibm-show-hide').length == 0)
+			{
+				jQuery(this).addClass("ibm-h2");
+			}
+		});
+
+		/* JQUERY TO REMOVE FIRST WIDGETS TOP LINE */
+	   if(jQuery('.ibm-blog__share').children().first().hasClass('ibm-widgets'))
+	   {
+	   	//jQuery('.ibm-widgets').eq(0).find('.ibm-rule').remove();
+	   }
+		
+		//
+	});
+</script>
+<script type='text/javascript' src='https://www.ibm.com/blogs/nordic-msp/wp-content/themes/ibmNorthstar/assets/js/site.js'></script>
+<script type='text/javascript' src='https://www.ibm.com/blogs/nordic-msp/wp-content/themes/ibmNorthstar/assets/js/v18_rev.js'></script>
+<script type='text/javascript' src='https://www.ibm.com/blogs/nordic-msp/wp-includes/js/wp-embed.min.js'></script>
+	</body>
+
+</html>

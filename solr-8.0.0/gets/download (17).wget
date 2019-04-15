@@ -1,0 +1,250 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 5">
+		<title>University of Alberta Dictionary of Cognitive Science: Main Page</title>
+		<csactions>
+			<csaction name="B44CBDF30" class="Netscape CSS Fix" type="onload"></csaction>
+		</csactions>
+		<csactionitem name="B44CBDF30"></csactionitem>
+		<csscriptdict import>
+			<script src="GeneratedItems/CSScriptLib.js"></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button',/*URL*/'Images/GIFS/A1.gif',/*URL*/'Images/GIFS/A2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button15',/*URL*/'Images/GIFS/N1.gif',/*URL*/'Images/GIFS/N2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button2',/*URL*/'Images/GIFS/B1.gif',/*URL*/'Images/GIFS/B2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button16',/*URL*/'Images/GIFS/O1.gif',/*URL*/'Images/GIFS/O2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button3',/*URL*/'Images/GIFS/C1.gif',/*URL*/'Images/GIFS/C2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button17',/*URL*/'Images/GIFS/P1.gif',/*URL*/'Images/GIFS/P2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button4',/*URL*/'Images/GIFS/D1.gif',/*URL*/'Images/GIFS/D2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button18',/*URL*/'Images/GIFS/Q1.gif',/*URL*/'Images/GIFS/Q2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button5',/*URL*/'Images/GIFS/E1.gif',/*URL*/'Images/GIFS/E2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button19',/*URL*/'Images/GIFS/R1.gif',/*URL*/'Images/GIFS/R2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button6',/*URL*/'Images/GIFS/F1.gif',/*URL*/'Images/GIFS/F2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button20',/*URL*/'Images/GIFS/S1.gif',/*URL*/'Images/GIFS/S2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button7',/*URL*/'Images/GIFS/G1.gif',/*URL*/'Images/GIFS/G2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button21',/*URL*/'Images/GIFS/T1.gif',/*URL*/'Images/GIFS/T2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button8',/*URL*/'Images/GIFS/H1.gif',/*URL*/'Images/GIFS/H2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button22',/*URL*/'Images/GIFS/U1.gif',/*URL*/'Images/GIFS/U2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button9',/*URL*/'Images/GIFS/I1.gif',/*URL*/'Images/GIFS/I2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button23',/*URL*/'Images/GIFS/V1.gif',/*URL*/'Images/GIFS/V2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button10',/*URL*/'Images/GIFS/J1.gif',/*URL*/'Images/GIFS/J2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button24',/*URL*/'Images/GIFS/W1.gif',/*URL*/'Images/GIFS/W2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button11',/*URL*/'Images/GIFS/K1.gif',/*URL*/'Images/GIFS/K2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button25',/*URL*/'Images/GIFS/X1.gif',/*URL*/'Images/GIFS/X2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button12',/*URL*/'Images/GIFS/L1.gif',/*URL*/'Images/GIFS/L2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button26',/*URL*/'Images/GIFS/Y1.gif',/*URL*/'Images/GIFS/Y2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button13',/*URL*/'Images/GIFS/M1.gif',/*URL*/'Images/GIFS/M2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button27',/*URL*/'Images/GIFS/Z1.gif',/*URL*/'Images/GIFS/Z2.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSNSFix);
+
+// --></script>
+		</csactiondict>
+		<link href="main.css" rel="styleSheet" type="text/css">
+		<csimport user="../Gallery.data/Components/bottom_nav.html" occur="0"></csimport>
+		<csimport user="../Gallery.data/Components/bottom_nav.html" occur="71"></csimport>
+		<csimport user="../Gallery.data/Components/bottom_nav.html" occur="51"></csimport>
+	</head>
+
+	<body bgcolor="#08685e" onLoad="CSScriptInit();">
+		<table cool="cool" width="1224" height="798" border="0" cellpadding="0" cellspacing="0" gridx="10" showgridx="showgridx" gridy="10" showgridy="showgridy" usegridy="usegridy">
+			<tr height="120">
+				<td width="62" height="120" colspan="2"></td>
+				<td width="836" height="120" colspan="3" valign="top" align="left" xpos="62"><a href="index.html"><img src="Images/GIFS/maintitle.gif" width="576" height="108" border="0" alt="Foundations Of Cognitive Science"></a></td>
+				<td width="325" height="120"></td>
+				<td width="1" height="120"><spacer type="block" width="1" height="120"></td>
+			</tr>
+			<tr height="677">
+				<td width="10" height="677"></td>
+				<td width="231" height="677" colspan="2" valign="top" align="left" xpos="10">
+					<table border="0" cellpadding="0" cellspacing="2" width="99">
+						<tr>
+							<td>
+								<div align="center">
+									<csobj w="108" h="35" t="Button" ht="Images/GIFS/A2.gif"><a href="contents/A/index.html" onMouseOver="return CSIShow(/*CMP*/'button',1)" onMouseOut="return CSIShow(/*CMP*/'button',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/A1.gif" width="108" height="35" name="button" border="0"></a></csobj></div>
+							</td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/N2.gif"><a href="contents/N/index.html" onMouseOver="return CSIShow(/*CMP*/'button15',1)" onMouseOut="return CSIShow(/*CMP*/'button15',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/N1.gif" width="108" height="35" name="button15" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/B2.gif"><a href="contents/B/index.html" onMouseOver="return CSIShow(/*CMP*/'button2',1)" onMouseOut="return CSIShow(/*CMP*/'button2',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/B1.gif" width="108" height="35" name="button2" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/O2.gif"><a href="contents/O/index.html" onMouseOver="return CSIShow(/*CMP*/'button16',1)" onMouseOut="return CSIShow(/*CMP*/'button16',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/O1.gif" width="108" height="35" name="button16" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/C2.gif"><a href="contents/C/index.html" onMouseOver="return CSIShow(/*CMP*/'button3',1)" onMouseOut="return CSIShow(/*CMP*/'button3',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/C1.gif" width="108" height="35" name="button3" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/P2.gif"><a href="contents/P/index.html" onMouseOver="return CSIShow(/*CMP*/'button17',1)" onMouseOut="return CSIShow(/*CMP*/'button17',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/P1.gif" width="108" height="35" name="button17" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/D2.gif"><a href="contents/D/index.html" onMouseOver="return CSIShow(/*CMP*/'button4',1)" onMouseOut="return CSIShow(/*CMP*/'button4',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/D1.gif" width="108" height="35" name="button4" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/Q2.gif"><a href="contents/Q/index.html" onMouseOver="return CSIShow(/*CMP*/'button18',1)" onMouseOut="return CSIShow(/*CMP*/'button18',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/Q1.gif" width="108" height="35" name="button18" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="32" t="Button" ht="Images/GIFS/E2.gif"><a href="contents/E/index.html" onMouseOver="return CSIShow(/*CMP*/'button5',1)" onMouseOut="return CSIShow(/*CMP*/'button5',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/E1.gif" width="108" height="32" name="button5" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/R2.gif"><a href="contents/R/index.html" onMouseOver="return CSIShow(/*CMP*/'button19',1)" onMouseOut="return CSIShow(/*CMP*/'button19',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/R1.gif" width="108" height="35" name="button19" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/F2.gif"><a href="contents/F/index.html" onMouseOver="return CSIShow(/*CMP*/'button6',1)" onMouseOut="return CSIShow(/*CMP*/'button6',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/F1.gif" width="108" height="35" name="button6" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/S2.gif"><a href="contents/S/index.html" onMouseOver="return CSIShow(/*CMP*/'button20',1)" onMouseOut="return CSIShow(/*CMP*/'button20',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/S1.gif" width="108" height="35" name="button20" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/G2.gif"><a href="contents/G/index.html" onMouseOver="return CSIShow(/*CMP*/'button7',1)" onMouseOut="return CSIShow(/*CMP*/'button7',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/G1.gif" width="108" height="35" name="button7" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/T2.gif"><a href="contents/T/index.html" onMouseOver="return CSIShow(/*CMP*/'button21',1)" onMouseOut="return CSIShow(/*CMP*/'button21',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/T1.gif" width="108" height="35" name="button21" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/H2.gif"><a href="contents/H/index.html" onMouseOver="return CSIShow(/*CMP*/'button8',1)" onMouseOut="return CSIShow(/*CMP*/'button8',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/H1.gif" width="108" height="35" name="button8" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/U2.gif"><a href="contents/U/index.html" onMouseOver="return CSIShow(/*CMP*/'button22',1)" onMouseOut="return CSIShow(/*CMP*/'button22',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/U1.gif" width="108" height="35" name="button22" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/I2.gif"><a href="contents/I/index.html" onMouseOver="return CSIShow(/*CMP*/'button9',1)" onMouseOut="return CSIShow(/*CMP*/'button9',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/I1.gif" width="108" height="35" name="button9" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/V2.gif"><a href="contents/V/index.html" onMouseOver="return CSIShow(/*CMP*/'button23',1)" onMouseOut="return CSIShow(/*CMP*/'button23',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/V1.gif" width="108" height="35" name="button23" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/J2.gif"><a href="contents/J/index.html" onMouseOver="return CSIShow(/*CMP*/'button10',1)" onMouseOut="return CSIShow(/*CMP*/'button10',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/J1.gif" width="108" height="35" name="button10" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/W2.gif"><a href="contents/W/index.html" onMouseOver="return CSIShow(/*CMP*/'button24',1)" onMouseOut="return CSIShow(/*CMP*/'button24',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/W1.gif" width="108" height="35" name="button24" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/K2.gif"><a href="contents/K/index.html" onMouseOver="return CSIShow(/*CMP*/'button11',1)" onMouseOut="return CSIShow(/*CMP*/'button11',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/K1.gif" width="108" height="35" name="button11" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/X2.gif"><a href="contents/X/index.html" onMouseOver="return CSIShow(/*CMP*/'button25',1)" onMouseOut="return CSIShow(/*CMP*/'button25',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/X1.gif" width="108" height="35" name="button25" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/L2.gif"><a href="contents/L/index.html" onMouseOver="return CSIShow(/*CMP*/'button12',1)" onMouseOut="return CSIShow(/*CMP*/'button12',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/L1.gif" width="108" height="35" name="button12" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/Y2.gif"><a href="contents/Y/index.html" onMouseOver="return CSIShow(/*CMP*/'button26',1)" onMouseOut="return CSIShow(/*CMP*/'button26',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/Y1.gif" width="108" height="35" name="button26" border="0"></a></csobj></td>
+						</tr>
+						<tr>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/M2.gif"><a href="contents/M/index.html" onMouseOver="return CSIShow(/*CMP*/'button13',1)" onMouseOut="return CSIShow(/*CMP*/'button13',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/M1.gif" width="108" height="35" name="button13" border="0"></a></csobj></td>
+							<td><csobj w="108" h="35" t="Button" ht="Images/GIFS/Z2.gif"><a href="contents/Z/index.html" onMouseOver="return CSIShow(/*CMP*/'button27',1)" onMouseOut="return CSIShow(/*CMP*/'button27',0)" onClick="return CSButtonReturn()"><img src="Images/GIFS/Z1.gif" width="108" height="35" name="button27" border="0"></a></csobj></td>
+						</tr>
+					</table>
+				</td>
+				<td width="293" height="677" valign="top" align="left" xpos="241">
+					<table border="0" cellpadding="0" cellspacing="0" width="282" height="396" bgcolor="white">
+						<tr height="65">
+							<td width="282" valign="top" height="65">
+								<div align="center">
+									<img src="Images/GIFS/Blocks/blockset.gif" width="200" height="146" border="0"></div>
+							</td>
+						</tr>
+						<tr height="316">
+							<td width="282" valign="top" height="316">
+								<div align="center">
+									<p><font size="4"><b>Welcome to the University of Alberta's Dictionary of Cognitive Science</b><br>
+										</font></p>
+								</div>
+								<div align="left">
+									<p><font size="2">&quot;It often does more harm than good to force definitions on things we don't understand. Besides, only in logic and mathematics do definitions ever capture concepts perfectly. The things we deal with in practical life are usually too complicated to be represented by neat, compact expressions. Especially when it comes to understanding minds, we still know so little that we can't be sure our ideas about psychology are even aimed in the right directions. In any case, one must not mistake defining things for knowing what they are (Minsky, 1985).</font></p>
+									<p><font size="2">This dictionary of cognitive science terms was initiated by Dr. Michael Dawson, and introduced as a class project . The project was designed to give students the opportunity to learn more about the basic concepts of cognitive science, and also to learn about the delivery of information via the world wide web. </font></p>
+									<p><font size="2">Beginning October, 2009 this site is being reworked -- existing definitions are being edited and revised, and new terms are being added.  </font></p>
+									<p><font size="2"><strong>The changes will be advertised as tweets:  search Twitter for #cogsci #wotd</strong></font></p>
+									<p><font size="2">This page is currently maintained by Dr. Michael Dawson, and is protected by copyright.  This page lasted edited August 2013.</font></p>
+								</div>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td width="364" height="677" valign="top" align="left" xpos="534">
+					<table border="0" cellpadding="5" cellspacing="0" width="135" height="283">
+						<tr>
+							<td bgcolor="#e8b94c">
+								<div align="center">
+									<table border="1" cellpadding="0" cellspacing="2" width="130">
+										<tr>
+											<td><img src="Images/GIFS/yoda.gif" width="32" height="32" border="0"></td>
+											<td>
+												<div align="center">
+													<a href="http://www.bcp.psych.ualberta.ca/~mike/"><font color="blue" size="2"><u>Home Page For Michael Dawson</u></font></a></div>
+											</td>
+										</tr>
+										<tr>
+											<td><img src="Images/JPGs/lil-twitter-logo.jpg" width="32" height="32" border="0"></td>
+											<td>
+												<div align="center">
+													<a href="http://twitter.com/mrwdawson"><font color="blue" size="2"><u>twitter.com/mrwdawson</u></font></a></div>
+											</td>
+										</tr>
+										<tr>
+											<td><img src="Images/GIFS/mailbox.gif" width="29" height="34" border="0"></td>
+											<td>
+												<div align="center">
+													<a href="mailto:mdawson@ualberta.ca"><font color="blue" size="2"><u>mdawson@ualberta.ca</u></font></a></div>
+											</td>
+										</tr>
+										<tr>
+											<td><img src="Images/GIFS/phone.gif" width="32" height="31" border="0"></td>
+											<td>
+												<div align="center">
+													<font size="3">(780)-492-5175</font></div>
+											</td>
+										</tr>
+									</table>
+									<!-- SiteSearch Google -->
+									<form method=GET action="http://www.google.com/search">
+										<div align="center">
+											<input type=hidden name=ie value=UTF-8> <input type=hidden name=oe value=UTF-8>
+											<table bgcolor="#e8b94c">
+												<tr>
+													<td>
+														<div align="center">
+															<a href="http://www.google.com/"><img src="http://www.google.com/logos/Logo_40blk.gif" border="0" alt="Google"></a></div>
+													</td>
+												</tr>
+												<td>
+													<div align="center">
+														<input type=text name=q size=31 maxlength=255 value=""> <input type=submit name=btnG value="Google Search"> <font size=-1><input type=hidden name=domains value="www.bcp.psych.ualberta.ca"><br>
+														</font></div>
+													<div align="left">
+														<input type=radio name=sitesearch value=""> WWW<br>
+														<input type=radio name=sitesearch value="www.bcp.psych.ualberta.ca" checked> www.bcp.psych.ualberta.ca<br>
+														</font></div>
+												</td>
+											</table>
+										</div>
+									</form>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td><!-- Site Meter -->
+								<script type="text/javascript" src="http://s28.sitemeter.com/js/counter.js?site=s28hastings1">
+</script>
+								<noscript>
+									<a href="http://s28.sitemeter.com/stats.asp?site=s28hastings1" target="_top"><img src="http://s28.sitemeter.com/meter.asp?site=s28hastings1" alt="Site Meter" border="0"/></a>
+								</noscript>
+								<!-- Copyright (c)2009 Site Meter --></td>
+						</tr>
+					</table>
+				</td>
+				<td width="325" height="677" valign="top" align="left" xpos="898"></div></td>
+				<td width="1" height="677"><spacer type="block" width="1" height="677"></td>
+			</tr>
+			<tr height="1" cntrlrow="cntrlrow">
+				<td width="10" height="1"><spacer type="block" width="10" height="1"></td>
+				<td width="52" height="1"><spacer type="block" width="52" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="293" height="1"><spacer type="block" width="293" height="1"></td>
+				<td width="364" height="1"><spacer type="block" width="364" height="1"></td>
+				<td width="325" height="1"><spacer type="block" width="325" height="1"></td>
+				<td width="1" height="1"></td>
+			</tr>
+			<csnopos>
+				<cspos xpos="898" xpos="0">
+					<!-- SiteSearch Google -->
+				</cspos>
+			</csnopos>
+		</table>
+		</td>
+		<td width="1" height="677"><spacer type="block" width="1" height="677"></td>
+			</tr>
+			<tr height="1" cntrlrow>
+				<td width="10" height="1"><spacer type="block" width="10" height="1"></td>
+				<td width="52" height="1"><spacer type="block" width="52" height="1"></td>
+				<td width="179" height="1"><spacer type="block" width="179" height="1"></td>
+				<td width="293" height="1"><spacer type="block" width="293" height="1"></td>
+				<td width="689" height="1"><spacer type="block" width="689" height="1"></td>
+				<td width="1" height="1"></td>
+			</tr>
+		</table>
+	</body>
+
+</html>

@@ -1,0 +1,548 @@
+
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+  <head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700|Lato:300,400,700,900&amp;subset=latin-ext" rel="stylesheet">
+	<title>Cognitive Psychology in UX - How Short Term Memory Works</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Cognitive psychology offers UX researchers important lessons. Read our article on how will short term memory research take in your UI design."/>
+<link rel="canonical" href="https://uxstudioteam.com/ux-blog/cognitive-psychology-ux/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cognitive Psychology in UX - How to Use Your Short Term Memory" />
+<meta property="og:description" content="Cognitive psychology offers UX researchers important lessons. Read our article on how will short term memory research take in your UI design." />
+<meta property="og:url" content="https://uxstudioteam.com/ux-blog/cognitive-psychology-ux/" />
+<meta property="og:site_name" content="UX Studio" />
+<meta property="article:publisher" content="https://www.facebook.com/uxstudio.hu/" />
+<meta property="article:section" content="UX Research" />
+<meta property="article:published_time" content="2018-02-06T16:21:52+00:00" />
+<meta property="article:modified_time" content="2019-02-28T13:09:07+00:00" />
+<meta property="og:updated_time" content="2019-02-28T13:09:07+00:00" />
+<meta property="og:image" content="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX.png" />
+<meta property="og:image:secure_url" content="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX.png" />
+<meta property="og:image:width" content="1086" />
+<meta property="og:image:height" content="564" />
+<meta property="og:image:alt" content="Cognitive Psychology In UX" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Cognitive psychology offers UX researchers important lessons. Read our article on how will short term memory research take in your UI design." />
+<meta name="twitter:title" content="Cognitive Psychology in UX - How to Use Your Short Term Memory" />
+<meta name="twitter:site" content="@UXstudio" />
+<meta name="twitter:image" content="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX.png" />
+<meta name="twitter:creator" content="@UXstudio" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://uxstudioteam.com/","sameAs":["https://www.facebook.com/uxstudio.hu/","https://www.instagram.com/uxstudiobudapest/","https://www.linkedin.com/company/uxstudio/","https://nl.pinterest.com/uxstudiohu/pins/","https://twitter.com/UXstudio"],"@id":"https://uxstudioteam.com/#organization","name":"UX studio","logo":"https://uxstudioteam.com/website/wp-content/uploads/2018/05/logo_emblem_online_green_on_white.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="UX Studio &raquo; Cognitive Psychology in UX &#8211; How Short Term Memory Works Comments Feed" href="https://uxstudioteam.com/ux-blog/cognitive-psychology-ux/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/uxstudioteam.com\/website\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://uxstudioteam.com/website/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-icomoon-css'  href='https://uxstudioteam.com/website/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-toc-css'  href='https://uxstudioteam.com/website/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container p.ez-toc-title {font-size: 100%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 100%;}div#ez-toc-container {width: 300px;}
+</style>
+<link rel='stylesheet' id='sage/css-css'  href='https://uxstudioteam.com/website/wp-content/themes/uxstudio-wordpress/dist/styles/main-1946ae0ac2.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://uxstudioteam.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uxstudioteam.com/website/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://uxstudioteam.com/website/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel='shortlink' href='https://uxstudioteam.com/?p=6506' />
+<link rel="alternate" type="application/json+oembed" href="https://uxstudioteam.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fuxstudioteam.com%2Fux-blog%2Fcognitive-psychology-ux%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://uxstudioteam.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fuxstudioteam.com%2Fux-blog%2Fcognitive-psychology-ux%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5VX76G');</script>
+<!-- End Google Tag Manager -->
+			<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+  <body class="post-template-default single single-post postid-6506 single-format-standard cognitive-psychology-ux sidebar-primary">
+    <!--[if IE]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <header>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="navigation">
+				<a class="logo" href="https://uxstudioteam.com/">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="519" height="100" viewBox="0 0 519 100">
+    <defs>
+        <path id="a" d="M374.516 67.073V.84H.584v66.234h373.932z"/>
+        <path id="c" d="M100 0H0v99.999h100V0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(144 6)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <path class="logo-text" fill="#172735" d="M362.12 44.05c0-7.847-4.52-13.078-10.612-13.078-6.304 0-10.717 5.231-10.717 13.079 0 8.057 4.413 13.079 10.717 13.079 6.092 0 10.612-5.022 10.612-13.08zm-10.612 23.023c-12.714 0-23.108-8.897-23.108-22.812 0-14.022 10.394-23.23 23.108-23.23 12.606 0 23.011 9.208 23.011 23.23 0 13.915-10.405 22.812-23.011 22.812zm-46.749-44.991h12.603v43.941h-10.62l-1.983-6.067V22.082zm-.947-14.026c0-4.185 3.156-7.217 7.358-7.217s7.457 3.032 7.457 7.217-3.255 7.118-7.457 7.118-7.358-2.933-7.358-7.118zm-35.31 23.332c-6.093 0-10.399 5.129-10.399 12.556 0 7.431 4.306 12.766 10.398 12.766 6.307 0 10.716-4.915 10.716-12.766 0-7.74-4.409-12.556-10.716-12.556zm9.987-4.705V2.718h12.602v63.305h-8.3l-1.994-6.067h-.529s-3.57 7.117-14.393 7.117c-11.66 0-20.585-8.897-20.585-22.92 0-13.704 8.711-23.121 20.167-23.121 9.558 0 12.503 5.651 12.503 5.651h.529zm-56.847-4.601h12.61v43.941h-8.408l-2.208-5.96h-.525c-2.098 3.028-5.882 7.01-13.654 7.01-11.245 0-18.07-7.64-18.07-19.463V22.082h12.603v24.481c0 5.648 2.841 9.937 8.512 9.937 6.092 0 9.14-4.915 9.14-8.997V22.082zm-64.4 0V8.686h12.606v13.396h10.82v9.726h-10.82v19.674c0 3.036 1.472 4.808 4.728 4.808 2.519 0 4.723-1.46 4.723-1.46l3.577 8.68c-1.894 1.364-6.303 3.563-11.345 3.563-10.194 0-14.29-6.384-14.29-15.175v-20.09h-7.667v-9.726h7.668zm-48.546 31.492s6.617 4.289 14.29 4.289c4.937 0 6.724-1.573 6.724-3.765 0-7.118-24.695-2.933-24.695-19.67 0-7.535 5.89-13.396 17.656-13.396 12.606 0 19.224 3.872 19.224 3.872l-3.888 9.314s-5.885-3.876-13.868-3.876c-4.098 0-6.406 1.153-6.406 3.666 0 6.8 25.109 2.195 25.109 19.356 0 7.642-5.464 13.71-19.12 13.71-13.347 0-19.12-4.919-19.12-4.919l4.094-8.58zM67.3 43.631L53.222 22.08h14.182l7.982 13.806h.318l7.986-13.805h14.075L82.955 43.63l15.34 22.392H84.111l-8.408-14.858h-.318l-8.615 14.858H52.7l14.6-22.392zM30.835 22.08h12.614v43.942h-8.404l-2.213-5.96h-.521c-2.101 3.028-5.885 7.01-13.66 7.01C7.412 67.073.583 59.433.583 47.61V22.082h12.607v24.481c0 5.648 2.837 9.937 8.511 9.937 6.092 0 9.133-4.915 9.133-8.997V22.082z" mask="url(#b)"/>
+        </g>
+        <mask id="d" fill="#fff">
+            <use xlink:href="#c"/>
+        </mask>
+        <path class="logo-picto" fill="#4BCD8C" d="M8.782 85.006v-70.01l35.004 35.007L8.782 85.006zm76.215 6.211H14.993l35.004-35.003 35 35.003zm6.222-76.222v70.019L56.208 50.003l35.01-35.008zM100 95.61V4.391c0-.57-.114-1.14-.34-1.677a4.31 4.31 0 0 0-.919-1.385c-.011-.012-.015-.03-.03-.045-.025-.026-.062-.033-.092-.063A4.423 4.423 0 0 0 97.286.34a4.381 4.381 0 0 0-1.593-.323c-.03 0-.056-.018-.085-.018-.034 0-.06.018-.097.022A4.319 4.319 0 0 0 93.93.34a4.333 4.333 0 0 0-1.333.881c-.026.03-.067.037-.093.063L49.997 43.791 7.493 1.284c-.022-.026-.063-.033-.089-.063A4.423 4.423 0 0 0 6.071.34 4.377 4.377 0 0 0 4.48.017C4.45.017 4.424 0 4.39 0c-.03 0-.055.018-.089.018A4.393 4.393 0 0 0 2.711.34a4.406 4.406 0 0 0-1.33.881c-.029.03-.07.037-.092.063-.015.015-.018.033-.03.045a4.25 4.25 0 0 0-.918 1.385 4.327 4.327 0 0 0-.34 1.677V95.61c0 .57.114 1.14.34 1.678.215.526.533.996.926 1.396.011.011.011.022.022.03.019.026.052.03.074.052.393.374.845.685 1.348.896a4.391 4.391 0 0 0 1.678.337h91.219c.092 0 .166-.045.255-.048.482-.034.96-.1 1.411-.285a4.388 4.388 0 0 0 2.39-2.4c.044-.1.033-.212.066-.312.14-.433.27-.87.27-1.344z" mask="url(#d)"/>
+    </g>
+</svg>
+				</a>
+				<nav class="nav-primary navbar navbar-toggleable-md">
+					<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="navbar-wrapper">
+						<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav"><li id="menu-item-6012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6012 "><a href="https://uxstudioteam.com/case-studies/">UX Case Studies</a></li>
+<li id="menu-item-6011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6011 "><a href="https://uxstudioteam.com/ux-design-services/">UX Design Services</a></li>
+<li id="menu-item-6010" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-6010 current-menu-item active"><a href="https://uxstudioteam.com/ux-blog/">UX Blog</a></li>
+<li id="menu-item-6009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6009 "><a href="https://uxstudioteam.com/about-us/">About Us</a></li>
+<li id="menu-item-6015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6015 "><a href="https://uxstudioteam.com/contact/">Contact</a></li>
+</ul></div>					</div>
+				</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>    <div class="wrap" role="document">
+      <div class="content">
+        <main class="main">
+          <div class="a-blog-post">
+		<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="blog-category-filter">
+					<div class="blog-filter">
+						<ul>
+							<li ><a href="/ux-blog">All</a></li>
+								<li class="cat-item cat-item-31"><a href="https://uxstudioteam.com/ux-blog/category/ux-case-study/" >Case Study</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://uxstudioteam.com/ux-blog/category/mobile-ux/" >Mobile UX</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://uxstudioteam.com/ux-blog/category/other/" >Other</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="https://uxstudioteam.com/ux-blog/category/product-management/" >Product Management</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="https://uxstudioteam.com/ux-blog/category/ux-design-methods/" >UX Design Methods</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://uxstudioteam.com/ux-blog/category/ux-research/" >UX Research</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="https://uxstudioteam.com/ux-blog/category/web-app-ux/" >Web App UX</a>
+</li>
+						</ul>
+					</div>
+					<div class="search-form">
+						<form method="get" id="searchform" action="https://uxstudioteam.com/">
+	<div class="form-group">
+		<input type="text" class="field" name="s" id="s" required/>
+		<span></span>
+		<button type="submit" class="submit" name="submit" id="searchsubmit"><i class="fas fa-search"></i></button>
+	</div>
+</form>					</div>
+				</div>
+			</div>
+		</div>
+	</div>	<div class="container">
+		<div class="row justify-content-sm-center">
+			<div class="col-sm-10">
+									<article class="post-6506 post type-post status-publish format-standard has-post-thumbnail hentry category-ux-research">
+						<header>
+						<h1 class="entry-title">Cognitive Psychology in UX &#8211; How Short Term Memory Works</h1>
+							<div class="entry-meta">
+								
+   		<div class="author">
+			<div class="author"><div class="author-avatar"><img width="65" height="65" src="https://uxstudioteam.com/website/wp-content/uploads/2018/02/dorka-150x150.jpg" class="avatar avatar-65 photo" alt="" srcset="https://uxstudioteam.com/website/wp-content/uploads/2018/02/dorka-150x150.jpg 150w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/dorka.jpg 612w" sizes="(max-width: 65px) 100vw, 65px" /></div>
+			<p class="byline author vcard"><a>Dorottya Molnár</a></p></div>
+		</div>
+
+        <div class="post-info">
+	<time class="updated" datetime="2018-02-06T16:21:52+00:00">February 6, 2018</time>
+	<ul class="post-categories">
+		<li>
+			<a href="https://uxstudioteam.com/ux-blog/category/ux-research/">UX Research</a>		</li>
+	</ul>
+	</div>
+
+							</div>
+						</header>
+						<div class="entry-image">
+							<img src="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-720x477.jpg" alt="" />
+													</div>
+						<div class="entry-summary">
+							<p>
+							<span>Imagine you didn’t have memories. Maybe you suffer from a mixed type of amnesia. You are living in the here and now. You can only learn procedures and motor skills. Scary right? But still, cognitive psychology, how human mind works, need to be considered in UX.</span>
+
+							</p>
+								
+													</div>
+						<div class="entry-content">
+							<p><span></span></p>
+<p><b><span>So, you are cognitively intact so maybe you can still remember facts like the capital of the UK or your address but not your story or not even what happened two seconds ago. </span></b></p>
+<p><b><span>Being limited to the present makes people unviable.</span> <span>We need the ability to remember. It holds information about how to live and what to do under certain conditions. And cognitive psychology helps us solve problems in the here and now as well.</span></b></p>
+<p>In this article we cover:</p>
+<ul>
+<li>Why cognitive psychology is important in UX</li>
+<li>The difference between short term and long term memory</li>
+<li>A test to see your short term memory in action!</li>
+<li>4 things to learn from cognitive psychology in UX</li>
+</ul>
+<h2><b>Cognitive psychology offers UX researchers important lessons</b></h2>
+<p><span>As a consequence, UX/ UI research and design should value cognitive psychology. UX research stems from cognitive psychology, much of which has focused on memory in it.</span></p>
+<p><span>Still, we don’t understand a lot about how this complex and wonderful feature works in our brain. Many different models try to explain how memory works. They differ from each other in how many and what kind of compartments the model contains and how memory consolidation happens.</span></p>
+<h2>A cognitive psychology theory to use in UX: short and long term memory</h2>
+<p><span>One widely accepted cognitive psychology theory, Baddeley&#8217;s theory, sets out short term and long term memory, each fulfilling different roles.</span></p>
+<p><span>Short term memory holds information for the moment and stores it temporarily until called on. Examples include solving a math problem or writing down that girl’s phone number on a napkin.</span></p>
+<p><span>We use long term memory recalling something from the past. This covers facts and will deliver the feeling of “I know this” or a memory about a boat trip with family, and delivers the feeling of “I remember”.</span></p>
+<p><img class="size-full wp-image-6508 aligncenter" src="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Funny-quote.jpg" alt="Cognitive Psychology In UX - Funny quote" width="420" height="294" /></p>
+<p><span>Short term memory mostly relates to direct interaction and problem solving like reaching a goal through a UI. Meanwhile, understanding long-term memory attributes help us plan and execute better qualitative research like interviews.</span></p>
+<h2><b>There are short-term memory limits to consider in UX and UI design</b></h2>
+<p><span>Baddeley’s theory also posits three elements of short-term memory. Now four exist, but we won’t deal with that part yet.</span></p>
+<ol>
+<li><span>The Central Executive monitors and distributes capacity. </span></li>
+<li><span>The Visuo-spatial Sketchpad deals with all the visually processed information and</span></li>
+<li><span>The Phonological Loop processes and handles audio information.</span></li>
+</ol>
+<p><span>Cognitive psychology also discovered that our short-term memory has a limited capacity. Our brains can handle only so much information. The world spins around us constantly, but in the end, we can pay attention to only a limited amount of it.</span></p>
+<p><span style="font-weight: 400;">So we have the capacity to process visual information like remembering pictures or navigating. On the other hand, we have the capacity for audio information, like when someone is talking to us. Indeed, the Central Executive system distributes the total capacity.<br />
+</span></p>
+<h2>Multiple auditory and visual tasks interfere</h2>
+<p><span>We can perform a</span><span> visual processing task and a verbal processing task at the same time. We encounter more difficulty performing two visual tasks at the same time because they interfere with each other which reduces performance. The same applies to performing two verbal tasks at the same time.</span></p>
+<p><span>So we have short term memory containing three main parts: The Boss, The Ear and The Eye. Together they have a limited capacity but the audio and visual compartments have their own limits.</span></p>
+<p><img class="size-full wp-image-6510 aligncenter" src="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Short-term-memory.jpg" alt="Cognitive Psychology In UX - Short-term memory" width="359" height="205" /></p>
+<p><span>Wanna prove this yourself? Let’s test it on our beloved colleagues and ourselves &#8211; like we did here at <a href="https://uxstudioteam.com/">our UX company</a> &#8211; and feel like cognitive psychologists for a bit.</span></p>
+<h2><b>7 is the magic number: that is the amount you can remember</b></h2>
+<p><span>Cognitive psychologists use typical tasks for testing short-term memory models.</span></p>
+<p><span>One represents how many digits people can remember. If you have ever heard the term “seven is the magic number”, now you can test it yourself. Here we go.</span></p>
+<p><span>This requires a test person and a list of random numbers.  </span></p>
+<p><span>The participant hears a sequence of numerical digits and must recall the sequence correctly, with increasingly longer sequences tested in each trial. If the participant makes a mistake, shorten the number of digits for the next round. If the recall was successful, add a digit to the next one. </span></p>
+<p><span>Read the individual digits and not the whole number. Repeat for 20-30 results. This will result in an average number of successfully recalled digits which shows the short term storage capacity for digits. If the average falls below seven, don’t worry. Maybe their mind is occupied or just tired &#8211; take a break a try it again later. </span></p>
+<p><span>At the end, ask the testers about their strategy for remembering the numbers as they increased. They most probably used some grouping techniques for remembering. We remember grouped information better, eg. 1234-8643-9285</span></p>
+<p><span>So we have proved memory has a limited capacity in short term. But what happens with two simultaneous tasks? Or two visual or two audio tasks at the same time?</span></p>
+<h2><b>Test your cognitive capabilities like this:</b></h2>
+<p><span>Try to perform two tasks which require visual capacity.</span></p>
+<p><span> Show pictures like these to the test person: </span></p>
+<p><img class="aligncenter wp-image-6511" src="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Test-720x540.jpg" alt="Cognitive Psychology In UX - Test" width="500" height="375" srcset="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Test-720x540.jpg 720w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Test-768x576.jpg 768w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Test-510x382.jpg 510w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Test.jpg 960w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><span>Let them memorize them for 30 seconds. </span></p>
+<h3><strong>First task</strong></h3>
+<p><span>Ask them to recall the pictures in clockwise order but ask them gesturing counterclockwise at the same time.</span></p>
+<h3>Second task</h3>
+<p><span>Repeat the test with another set of pictures and ask them to recall without gesturing. How did they perform?</span></p>
+<p><span>Gesturing in the opposite direction used the same capacity as for recalling the pictures. This distributed resources, making the performance of these two tasks at the same time really difficult.</span></p>
+<h3>Third task</h3>
+<p><span>The third task demonstrates how quickly information falls out of our minds if we have to solve another task or we are distracted by something else.</span></p>
+<p><span>In this scenario, the tester has to repeat digits, but the length of the digits varies. After the presenter reads the digits out loud, they add a concept category. Before the tester may recall the digits, they have to give three category-fitting words.</span></p>
+<p><em><span>Example</span></em></p>
+<p><span>18394 Fruits__Answer of the tester comes here: </span><i><span>Lemon, Melon, Dragonfruits</span></i><span>___</span></p>
+<p><span>12 Animals____</span></p>
+<p><span>984755 Cities____</span></p>
+<p><span>3 Colors____</span></p>
+<p><span>Distribute and pair digits and categories randomly, giving at least 20 pairs. The second task will disturb the process of holding the numbers in short term memory. It uses up the memory space for the second task, and the digits disappear.</span></p>
+<p><img class="aligncenter wp-image-6509" src="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Memory-561x720.jpg" alt="Cognitive Psychology In UX - Memory" width="280" height="359" srcset="https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Memory-561x720.jpg 561w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Memory-768x986.jpg 768w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Memory-798x1024.jpg 798w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Memory-1080x1387.jpg 1080w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/Cognitive-Psychology-In-UX-Memory.jpg 1557w" sizes="(max-width: 280px) 100vw, 280px" /></p>
+<h2>4 things to learn from cognitive psychology in UX</h2>
+<p><span>After a nice bonding session with your PO and involving them in weirdo tasks in the name of <a href="https://uxstudioteam.com/ux-research/">UX research</a> and cognitive psychology, let’s sum up the main points.</span></p>
+<ol>
+<li><span>Remembering consumes resources. Don’t force users to remember things unnecessarily. Show every piece of information needed for managing or solving a certain task.</span></li>
+<li><span>Capacity has limits. Don’t expect them to complete multiple tasks or to complete a task for which they would require more than the average capacity.</span></li>
+<li>People differ, buts their performance does not differ significantly for up to four item. Don’t make them remember more.</li>
+<li>If they have to manage two tasks at the same time, don’t occupy capacity from the same compartment (audio or visual).</li>
+</ol>
+<p><span>Not enough? Check out this example of a <a href="https://www.youtube.com/watch?v=PoG82TcfiR0">digit span test</a>.</span></p>
+<p><span>Would the manual input affect the average performance in comparison to recalling out loud? What do you think?</span></p>
+<p>If you are also interested in Product Design processes, we recommend you to check our free e-book, the <a href="https://uxstudioteam.com/ebooks/PMs-guide-to-ux-design/index.html">Product Manager’s Guide to UX Design</a>.</p>
+<p>And there is an additional reading for you! Check out our <a href="https://uxstudioteam.com/product-design-book/" target="_blank" rel="noopener">Product Design book</a> too! We ship it worldwide.</p>
+						</div>
+						<footer>
+							<div class="category-box">
+								<div class="category">
+									<ul>
+										<li><a href="https://uxstudioteam.com/ux-blog/category/ux-research/">UX Research</a></li>									</ul>
+								</div>
+							</div>
+							<div class="author-box">
+							
+   		<div class="author">
+			<div class="author-avatar"><img width="65" height="65" src="https://uxstudioteam.com/website/wp-content/uploads/2018/02/dorka-150x150.jpg" class="avatar avatar-65 photo" alt="" srcset="https://uxstudioteam.com/website/wp-content/uploads/2018/02/dorka-150x150.jpg 150w, https://uxstudioteam.com/website/wp-content/uploads/2018/02/dorka.jpg 612w" sizes="(max-width: 65px) 100vw, 65px" /></div>
+			<div class="author-vcard">
+				<p class="name">Dorottya Molnár</p>
+				UX researcher, insight hunter, social thinker, scattered energizer bunny, dog person, bookworm.			</div>
+		</div>
+
+    
+							</div>
+							<div class="ebook">
+								<a href="https://uxstudioteam.com/ebooks/PMs-guide-to-ux-design/index.html">
+									<img src="https://uxstudioteam.com/website/wp-content/themes/uxstudio-wordpress/dist/images/ebook.jpg"
+									alt="The Product managers' guide to UX design" width="100%"
+									>
+								</a>
+							</div>
+													</footer>
+						<div class="comments">
+							
+<div id="disqus_thread">
+    </div>
+
+						</div>
+					</article>
+							</div>
+		</div>
+	</div>
+</div>
+        </main><!-- /.main -->
+                  <aside class="sidebar">
+                      </aside><!-- /.sidebar -->
+              </div><!-- /.content -->
+    </div><!-- /.wrap -->
+    <div class="section footer" id="section5">
+	<div class="container">
+		<div class="row">
+
+		</div>
+	</div>
+		<section class="section wwu">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="team_options">
+						<div class="team_member">
+							<div class="member_image designer">
+								<img class="float-right" src="https://uxstudioteam.com/website/wp-content/themes/uxstudio-wordpress/dist/images/team/random/designers/gabor-1.jpg" alt="Designer">
+							</div>
+							<label>Designer</label>
+						</div>
+						<div class="plus_sign">+</div>
+						<div class="team_member">
+							<div class="member_image researcher">
+								<img class="float-right" src="https://uxstudioteam.com/website/wp-content/themes/uxstudio-wordpress/dist/images/team/random/researchers/timi-1.jpg" alt="Researcher">
+							</div>
+							<label>Researcher</label>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+				<div class="estimate_project">
+					<h2>What can we do for you?</h2>
+					<div class="contact">
+						<a class="mail" href="mailto:hello@uxstudioteam.com">hello@uxstudioteam.com</a><br />
+						<a class="phone" href="tel:+36205169779">+36 20 516 9779</a><br />
+						<a class="btn btn-green" href="/contact">Get in touch</a>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</section>
+		
+		
+
+	<footer class="content-info">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="scrolltop-btn"></div>
+				</div>
+				<div class="col-lg-8">
+					<a class="logo logo--footer" href="https://uxstudioteam.com/">
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="519" height="100" viewBox="0 0 519 100">
+    <defs>
+        <path id="a" d="M374.516 67.073V.84H.584v66.234h373.932z"/>
+        <path id="c" d="M100 0H0v99.999h100V0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(144 6)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <path class="logo-text" fill="#172735" d="M362.12 44.05c0-7.847-4.52-13.078-10.612-13.078-6.304 0-10.717 5.231-10.717 13.079 0 8.057 4.413 13.079 10.717 13.079 6.092 0 10.612-5.022 10.612-13.08zm-10.612 23.023c-12.714 0-23.108-8.897-23.108-22.812 0-14.022 10.394-23.23 23.108-23.23 12.606 0 23.011 9.208 23.011 23.23 0 13.915-10.405 22.812-23.011 22.812zm-46.749-44.991h12.603v43.941h-10.62l-1.983-6.067V22.082zm-.947-14.026c0-4.185 3.156-7.217 7.358-7.217s7.457 3.032 7.457 7.217-3.255 7.118-7.457 7.118-7.358-2.933-7.358-7.118zm-35.31 23.332c-6.093 0-10.399 5.129-10.399 12.556 0 7.431 4.306 12.766 10.398 12.766 6.307 0 10.716-4.915 10.716-12.766 0-7.74-4.409-12.556-10.716-12.556zm9.987-4.705V2.718h12.602v63.305h-8.3l-1.994-6.067h-.529s-3.57 7.117-14.393 7.117c-11.66 0-20.585-8.897-20.585-22.92 0-13.704 8.711-23.121 20.167-23.121 9.558 0 12.503 5.651 12.503 5.651h.529zm-56.847-4.601h12.61v43.941h-8.408l-2.208-5.96h-.525c-2.098 3.028-5.882 7.01-13.654 7.01-11.245 0-18.07-7.64-18.07-19.463V22.082h12.603v24.481c0 5.648 2.841 9.937 8.512 9.937 6.092 0 9.14-4.915 9.14-8.997V22.082zm-64.4 0V8.686h12.606v13.396h10.82v9.726h-10.82v19.674c0 3.036 1.472 4.808 4.728 4.808 2.519 0 4.723-1.46 4.723-1.46l3.577 8.68c-1.894 1.364-6.303 3.563-11.345 3.563-10.194 0-14.29-6.384-14.29-15.175v-20.09h-7.667v-9.726h7.668zm-48.546 31.492s6.617 4.289 14.29 4.289c4.937 0 6.724-1.573 6.724-3.765 0-7.118-24.695-2.933-24.695-19.67 0-7.535 5.89-13.396 17.656-13.396 12.606 0 19.224 3.872 19.224 3.872l-3.888 9.314s-5.885-3.876-13.868-3.876c-4.098 0-6.406 1.153-6.406 3.666 0 6.8 25.109 2.195 25.109 19.356 0 7.642-5.464 13.71-19.12 13.71-13.347 0-19.12-4.919-19.12-4.919l4.094-8.58zM67.3 43.631L53.222 22.08h14.182l7.982 13.806h.318l7.986-13.805h14.075L82.955 43.63l15.34 22.392H84.111l-8.408-14.858h-.318l-8.615 14.858H52.7l14.6-22.392zM30.835 22.08h12.614v43.942h-8.404l-2.213-5.96h-.521c-2.101 3.028-5.885 7.01-13.66 7.01C7.412 67.073.583 59.433.583 47.61V22.082h12.607v24.481c0 5.648 2.837 9.937 8.511 9.937 6.092 0 9.133-4.915 9.133-8.997V22.082z" mask="url(#b)"/>
+        </g>
+        <mask id="d" fill="#fff">
+            <use xlink:href="#c"/>
+        </mask>
+        <path class="logo-picto" fill="#4BCD8C" d="M8.782 85.006v-70.01l35.004 35.007L8.782 85.006zm76.215 6.211H14.993l35.004-35.003 35 35.003zm6.222-76.222v70.019L56.208 50.003l35.01-35.008zM100 95.61V4.391c0-.57-.114-1.14-.34-1.677a4.31 4.31 0 0 0-.919-1.385c-.011-.012-.015-.03-.03-.045-.025-.026-.062-.033-.092-.063A4.423 4.423 0 0 0 97.286.34a4.381 4.381 0 0 0-1.593-.323c-.03 0-.056-.018-.085-.018-.034 0-.06.018-.097.022A4.319 4.319 0 0 0 93.93.34a4.333 4.333 0 0 0-1.333.881c-.026.03-.067.037-.093.063L49.997 43.791 7.493 1.284c-.022-.026-.063-.033-.089-.063A4.423 4.423 0 0 0 6.071.34 4.377 4.377 0 0 0 4.48.017C4.45.017 4.424 0 4.39 0c-.03 0-.055.018-.089.018A4.393 4.393 0 0 0 2.711.34a4.406 4.406 0 0 0-1.33.881c-.029.03-.07.037-.092.063-.015.015-.018.033-.03.045a4.25 4.25 0 0 0-.918 1.385 4.327 4.327 0 0 0-.34 1.677V95.61c0 .57.114 1.14.34 1.678.215.526.533.996.926 1.396.011.011.011.022.022.03.019.026.052.03.074.052.393.374.845.685 1.348.896a4.391 4.391 0 0 0 1.678.337h91.219c.092 0 .166-.045.255-.048.482-.034.96-.1 1.411-.285a4.388 4.388 0 0 0 2.39-2.4c.044-.1.033-.212.066-.312.14-.433.27-.87.27-1.344z" mask="url(#d)"/>
+    </g>
+</svg>
+					</a>
+					<address class="col-sm-12 col-md-4 companys_address">
+						<label>Address</label><br />
+						UX studio<br />
+						Mozsár utca 16.<br />
+						1066 Budapest<br />
+						Hungary<br />
+						<a href="https://www.google.hu/maps/dir//UX+studio/" target="_blank" class="g_map">Directions</a>
+					</address>
+					<div class="col-6 col-md-4 links">
+						<label>Services</label>
+						<ul>
+							<li><a href="/ux-agency" class="jobs">UX Agency</a></li>
+							<li><a href="/ux-consulting">UX Consulting</a></li>
+							<li><a href="/design-sprint">Design Sprint</a></li>
+							<li><a href="/ux-research">UX Research</a></li>
+							<li><a href="/ux-training">UX Training</a></li>
+							<li><a href="/ux-expert-review">UX Expert Review</a></li>
+						</ul>
+					</div>
+					<div class="col-6 col-md-4 links">
+						<label>Links</label>
+						<ul>
+							<li><a href="/jobs" class="jobs">Jobs</a></li>
+							<li><a href="/product-design-book">Product Design Book</a></li>
+							<li><a href="/ux-tanfolyam">Product Design Course</a></li>
+							<li><a href="/coding-basic-tanfolyam/">Coding Basic Course</a></li>
+							<li><a href="/resources">Resources</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="social_group">
+						<label>Follow us</label>
+						<div class="newsletter_signup">
+							<button type="button" class="btn btn-primary" id="newsletterModalTrigger" data-toggle="modal" data-target="#newsletter"><i class="far fa-envelope" aria-hidden="true"></i></button>
+							<input type="text" class="form-control" id="newsletter-email" name="newsletterEmail" placeholder="Subscribe to our newsletter" />
+						</div>
+						<div class="social_icons">
+							<a href="https://www.facebook.com/uxstudio.hu/" target="_blank" class="social_icon facebook"><i class="fab fa-facebook-f"></i><span></span></a>
+							<a href="https://twitter.com/uxstudio" target="_blank" class="social_icon twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span></span></a>
+							<a href="https://www.linkedin.com/company/3501600/" target="_blank" class="social_icon linkedin"><i class="fab fa-linkedin-in" aria-hidden="true"></i><span></span></a>
+							<a href="https://www.behance.net/ux-studio" target="_blank" class="social_icon behance"><i class="fab fa-behance" aria-hidden="true"></i><span></span></a>
+							<a href="https://ux-studio.tumblr.com/" target="_blank" class="social_icon tumblr"><i class="fab fa-tumblr" aria-hidden="true"></i><span></span></a>
+							<a href="https://uxstudioteam.com/feed/" class="social_icon rss"><i class="fas fa-rss" aria-hidden="true"></i><span></span></a>
+							<a href="https://www.instagram.com/uxstudiobudapest/" target="_blank" class="social_icon instagram"><i class="fab fa-instagram" aria-hidden="true"></i><span></span></a>
+							<a href="https://dribbble.com/uxstudiobudapest" class="social_icon dribbble"><i class="fab fa-dribbble" aria-hidden="true"></i><span></span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<p class="copy">© 2013 - 2019 UX studio Zrt. Made with ♥︎ in Budapest. <a href="/privacy-policy">Privacy Policy</a></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="newsletter" tabindex="-1" role="dialog" aria-labelledby="newsletter" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-body">
+				<button type="button" class="close" id="modalClose" data-dismiss="modal" aria-label="Close">
+		        	<span aria-hidden="true"></span>
+		        </button>
+				<form action="https://www.getdrip.com/forms/939451323/submissions" method="post" data-drip-embedded-form="939451323">
+					<h3 data-drip-attribute="headline">Sign up for our newsletter</h3>
+					<div data-drip-attribute="description"></div>
+					<div class="form-group name">
+						<label for="drip-fname">Name <span>*</span></label>
+						<div class="form-controls">
+							<input type="text" id="drip-first-name" name="fields[first_name]" value="" class="form-control" placeholder="First name" />
+							<input type="text" id="drip-last-name" name="fields[last_name]" value="" class="form-control" placeholder="Last name"  />
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="drip-email">Email Address <span>*</span></label>
+						<input type="email" id="drip-email" name="fields[email]" value="" class="form-control" placeholder="Enter your email address" />
+					</div>
+					<div class="form-group">
+						<label for="drip-site">Company Website </label>
+						<input type="text" id="drip-site" name="fields[site]" value="" class="form-control" placeholder="What company do you work for?" />
+					</div>
+					<div class="form-group select">
+						<label for="drip-position">Position <span>*</span></label>
+						<select id="drip-position" name="fields[position]" value="" class="form-control">
+                            <option value="" disabled selected>Select your current position</option>
+                            <option value="head_product_manager">Product Manager/Head of Product</option>
+                            <option value="ceo">CEO/Founder</option>
+                            <option value="designer">UX/UI Designer</option>
+                            <option value="developer">Developer</option>
+                            <option value="marketing">Marketing</option>
+                            <option value="other">Other</option>
+                        </select>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+							<path fill="#979DA4" fill-rule="evenodd" d="M6.343 7.586L12 13.243l5.657-5.657L19.07 9 12 16.071 4.929 9l1.414-1.414z"/>
+						</svg>
+					</div>
+					<div class="form-group">
+						<div class="g-recaptcha" data-sitekey="6Lcv-D8UAAAAACvYCNHvjV3x1vu0UpjH5GBfuveC"></div>
+					</div>
+					<div class="form-group">
+						<input type="submit" value="Sign Up!" data-drip-attribute="sign-up-button" class="btn btn-green" />
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade" id="thank-you" tabindex="-1" role="dialog" aria-labelledby="thank-you" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-body">
+				<button type="button" class="close" id="modalClose" data-dismiss="modal" aria-label="Close">
+		        	<span aria-hidden="true"></span>
+		        </button>
+				<h3>Thank you for subscribing!</h3>
+				<p>Soon you will receive your very first UX studio newsletter.</p>
+				<button type="button" class="btn btn-green" id="modalClose" data-dismiss="modal" aria-label="Close">OK</button>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VX76G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		<script type='text/javascript' src='https://uxstudioteam.com/website/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://uxstudioteam.com/website/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/uxstudioteam.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://uxstudioteam.com/website/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var loadmore_params = {"ajaxurl":"https:\/\/uxstudioteam.com\/website\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"name\":\"cognitive-psychology-ux\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"static\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":20,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://uxstudioteam.com/website/wp-content/themes/uxstudio-wordpress/dist/scripts/loadmore.js'></script>
+<script type='text/javascript' src='https://uxstudioteam.com/website/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://use.fontawesome.com/releases/v5.0.1/js/all.js'></script>
+<script type='text/javascript' src='https://uxstudioteam.com/website/wp-content/themes/uxstudio-wordpress/dist/scripts/main-4c6df1cc37.js'></script>
+<script type='text/javascript' src='https://uxstudioteam.com/website/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.9.10","language":""},"disqusIdentifier":"6506 https:\/\/uxstudioteam.com\/?p=6506","disqusShortname":"uxstudioblog","disqusTitle":"Cognitive Psychology in UX \u2013 How Short Term Memory Works","disqusUrl":"https:\/\/uxstudioteam.com\/ux-blog\/cognitive-psychology-ux\/","options":{"manualSync":false},"postId":"6506"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://uxstudioteam.com/website/wp-content/plugins/disqus-comment-system/media/js/disqus.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"uxstudioblog"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://uxstudioteam.com/website/wp-content/plugins/disqus-comment-system/media/js/count.js'></script>
+  </body>
+</html>

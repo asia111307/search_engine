@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Percolation (cognitive psychology) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Percolation_(cognitive_psychology)","wgTitle":"Percolation (cognitive psychology)","wgCurRevisionId":846712255,"wgRevisionId":846712255,"wgArticleId":39199253,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Orphaned articles from May 2013","All orphaned articles","Cognitive psychology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Percolation_(cognitive_psychology)","wgRelevantArticleId":39199253,"wgRequestId":"XLBPvgpAMEkAAGbpc5oAAABG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q17156484","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Percolation_(cognitive_psychology)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Percolation_(cognitive_psychology)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Percolation_cognitive_psychology rootpage-Percolation_cognitive_psychology skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Percolation (cognitive psychology)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Orphan plainlinks metadata ambox ambox-style ambox-Orphan" role="presentation" style="display: none"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=Percolation_(cognitive_psychology)&amp;namespace=0">link to it</a></b>. Please <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=Percolation+%28cognitive+psychology%29&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=Percolation+%28cognitive+psychology%29">related articles</a></span>; try the <a rel="nofollow" class="external text" href="//edwardbetts.com/find_link?q=Percolation_(cognitive_psychology)">Find link tool</a> for suggestions.  <small class="date-container"><i>(<span class="date">May 2013</span>)</i></small></div></td></tr></tbody></table>
+<p><b>Percolation</b> (from the Latin word <i>percolatio</i>, meaning filtration<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>) is a theoretical model used to understand the way activation and diffusion of neural activity occur within neural networks.<sup id="cite_ref-Friedenberg2012_2-0" class="reference"><a href="#cite_note-Friedenberg2012-2">&#91;2&#93;</a></sup> Percolation is a model used to explain how neural activity is transmitted across the various connections within the brain. Often it is easiest to understand percolation theory by explaining its use in <a href="/wiki/Epidemiology" title="Epidemiology">epidemiology</a>. Individuals that are infected with a disease can spread the disease through contact with others in their social network. Those who are more social and come into contact with more people will help to propagate the disease quicker than those who are less social. Therefore factors such as occupation and sociability influence the rate of infection. Now, if one were to think of <i><a href="/wiki/Neuron" title="Neuron">neurons</a></i> as the <i>individuals</i> and <i>synaptic connections</i> as the <i>social bonds</i> between people, then one can determine how easily messages between neurons will spread.<sup id="cite_ref-Friedenberg2012_2-1" class="reference"><a href="#cite_note-Friedenberg2012-2">&#91;2&#93;</a></sup> When a neuron fires, the message is transmitted along all synaptic connections to other neurons until it can no longer continue. Synaptic connections are considered either open or closed (like a social or unsocial person) and messages will flow along any and all open connections until they can go no further. Just like occupation and sociability play a key role in the spread of disease, so too do the number of neurons, <a href="/wiki/Synaptic_plasticity" title="Synaptic plasticity">synaptic plasticity</a> and <a href="/wiki/Long-term_potentiation" title="Long-term potentiation">long-term potentiation</a> when talking about neural percolation.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Percolating_cluster"><span class="tocnumber">1</span> <span class="toctext">Percolating cluster</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_and_background"><span class="tocnumber">2</span> <span class="toctext">History and background</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Current_research"><span class="tocnumber">3</span> <span class="toctext">Current research</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Table_of_recent_research"><span class="tocnumber">3.1</span> <span class="toctext">Table of recent research</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Other_applications"><span class="tocnumber">4</span> <span class="toctext">Other applications</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Future_research"><span class="tocnumber">5</span> <span class="toctext">Future research</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Percolating_cluster">Percolating cluster</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit&amp;section=1" title="Edit section: Percolating cluster">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A key aspect of percolation is the concept of <i>percolating clusters</i>, which are a single large group of neurons that are all connected by open bonds and take up the majority of the network. Any signals that originate at any point within the percolating cluster will have a great impact and diffusion across the network than signals that original outside of the cluster. This is much like how a teacher is more likely to spread an infection to a whole community through contact with the students and subsequently with the families than an isolated businessman that works from home.
+</p>
+<h2><span class="mw-headline" id="History_and_background">History and background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit&amp;section=2" title="Edit section: History and background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Percolation theory was originally purposed by Broadbent and Hammersley as a mathematical theory for determining the flow of fluids through porous material.<sup id="cite_ref-Beffara2005_3-0" class="reference"><a href="#cite_note-Beffara2005-3">&#91;3&#93;</a></sup> An example of this is the question originally purposed by Broadbent and Hammersley: "suppose a large porous rock is submerged under water for a long time, will the water reach the center of the stone?".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Since its founding, percolation theory has been used in both applied fields and mathematical modeling, areas such as engineering, physics, chemistry, communications, economics, mathematics, medicine and geography. From a mathematical perspective, percolation is uniquely able to exhibit both algebraic and probabilistic relationships graphically.<sup id="cite_ref-Beffara2005_3-1" class="reference"><a href="#cite_note-Beffara2005-3">&#91;3&#93;</a></sup> In network and cognitive sciences, percolation theory is often used as a computational model that has the benefit of testing theories on neural activity before any physical testing is necessary.<sup id="cite_ref-Kozma2009_5-0" class="reference"><a href="#cite_note-Kozma2009-5">&#91;5&#93;</a></sup> It can also be used as a model to explain experimental observations of neural activity to a certain extent.<sup id="cite_ref-Eckmann2010_6-0" class="reference"><a href="#cite_note-Eckmann2010-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Current_research">Current research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit&amp;section=3" title="Edit section: Current research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Percolation has been developed outside of the cognitive sciences; however, its application in the field has proven it to be a useful tool for understanding neural processes. Researchers have focused their attention not only studying how neural activity is diffused across networks but also how percolation and its aspect of phase transition can affect decision making and thought processes.<sup id="cite_ref-Kozma2009_5-1" class="reference"><a href="#cite_note-Kozma2009-5">&#91;5&#93;</a></sup> Percolation theory has enabled researchers to better understand many psychological conditions, such as <a href="/wiki/Epilepsy" title="Epilepsy">epilepsy</a>, <a href="/wiki/Disorganized_schizophrenia" title="Disorganized schizophrenia">disorganized schizophrenia</a> and <a href="/wiki/Divergent_thinking" title="Divergent thinking">divergent thinking</a>.<sup id="cite_ref-Friedenberg2012_2-2" class="reference"><a href="#cite_note-Friedenberg2012-2">&#91;2&#93;</a></sup> These conditions are often indicative of percolating clusters and their involvement in propagating the excess firing of neurons. Seizures occur when neurons in the brain fire simultaneously, and often these seizures can occur in one part of the brain and transfer to other parts. Researchers are able to facilitate a better understanding of these conditions because "the neurons involved in a seizure are analogous to the sites in a percolating cluster".<sup id="cite_ref-Friedenberg2012_2-3" class="reference"><a href="#cite_note-Friedenberg2012-2">&#91;2&#93;</a></sup> Disorganized schizophrenia is more complex as the activity is indicative activity in a percolating cluster; however, some researchers have suggested that the percolation of information occurs not in a small cluster but on a global functional scale.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Attention as well as percolation also plays a key role in disorganized and divergent thinking; however, it is more likely that directed percolation, that is a directionally controlled percolation, is more useful to study divergent thinking and creativity.
+</p>
+<h3><span class="mw-headline" id="Table_of_recent_research">Table of recent research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit&amp;section=4" title="Edit section: Table of recent research">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Below is a table of some of the more recent studies and experiments that have involved percolation. The majority of these studies focus on the application of percolation theory to neural network processing from a computational approach.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Researcher(s)</th>
+<th>Article</th>
+<th>Overview
+</th></tr>
+<tr>
+<td><b>J.P. Eckmann, E. Moses, O. Stetter, T. Tlusty, &amp; C. Zbinden</b></td>
+<td><i>Leaders of neuronal cultures in a quorum percolation model</i></td>
+<td>Researchers use quorum percolation to describe the impacts of neural activity initiation in neural networks
+</td></tr>
+<tr>
+<td><b>S. Leleu-Merviel</b></td>
+<td><i>On the relevance of percolation theory to the acquisition of human skills</i></td>
+<td>This paper discusses the contributions that percolation theory has made to the acquisition of human skills
+</td></tr>
+<tr>
+<td><b>R. Kozma, M. Puljic &amp; L. Perlovsky</b></td>
+<td><i>Modeling goal-oriented decision making through cognitive phase transitions</i></td>
+<td>Researchers use neuropercolation models to outline the implications to decision making
+</td></tr>
+<tr>
+<td><b>R. Kozma, M. Puljic, P. Balister, B. Bollobas &amp; W. J. Freeman</b></td>
+<td><i>Phase transitions in the neuropercolation model of neural populations with mixed local and non-local interactions</i></td>
+<td>Researchers aim to model phase transitions within the brain using percolation to understand neurphil properties
+</td></tr>
+<tr>
+<td><b>L. K. Gallos, H. A. Makes &amp; M. Sigman</b></td>
+<td><i>A small world of weak ties provides optimal global integration of self-similar modules in functional brain networks</i></td>
+<td>Researchers use a modified percolation theory to attempt show a new way of thinking about the modularity of the brain as opposed to the widely accepted view of small world networks
+</td></tr>
+<tr>
+<td><b>D. B. Van, P. Gong, M. Breakspear &amp; C. Van Leeuwen</b></td>
+<td><i>Fragmentation: Loss of global coherence or breakdown of modularity in functional brain architecture?</i></td>
+<td>Researchers purpose that disorganized schizophrenia is not due to small-world organization but in fact a breakdown in local organization that leads to global modularity of functioning
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Other_applications">Other applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit&amp;section=5" title="Edit section: Other applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Percolation theory has been applied to a wide variety of fields of study, including medicine, economics, physics, as well as other areas of psychology, such as social sciences and industrial and organizational psychology. Below is a table of other areas of study that apply percolation theory as well as recent research information.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Area of study</th>
+<th>Researchers</th>
+<th>Article
+</th></tr>
+<tr>
+<td><b>Medicine/Epidemiology</b></td>
+<td><i>S. B. Khandelwal</i></td>
+<td>Ecology of infectious diseases with contact networks and percolation theory
+</td></tr>
+<tr>
+<td><b>Economics</b></td>
+<td><i>D. Duffie, G. Manso &amp; S. Malamud</i></td>
+<td>Information Percolation in Segmented Markets
+</td></tr>
+<tr>
+<td><b>Industrial/Organizational Psych</b></td>
+<td><i>T. Grebel</i></td>
+<td>Network evolution in basic science
+</td></tr>
+<tr>
+<td><b>Social Psych</b></td>
+<td><i>R. Flores, M. Koster, I. Lindner, &amp; E. Molina</i></td>
+<td>Networks and collective action
+</td></tr>
+<tr>
+<td><b>Physics</b></td>
+<td><i>N. Poccia, A. Ansuini &amp; A. Bianconi</i></td>
+<td>Far from Equilibrium Percolation, Stochastic and Shape Resonances in the Physics of Life
+</td></tr>
+<tr>
+<td><b>Geography</b></td>
+<td><i>H. E. Winzeler, P. R. Owens, S. W. Waltman, W. J. Waltman, Z. Libohova &amp; D. Beaudette</i></td>
+<td>A Methodology for Examining Changes in Soil Climate Geography through Time: U.S. Soil Moisture Regimes for the Period 1971–2000
+</td></tr>
+<tr>
+<td><b>Artificial intelligence</b></td>
+<td><i>I. Rebollo, M. Grana, &amp; B. Cases</i></td>
+<td>Effect of spatial percolation on the convergence of a graph colouring boid swarm
+</td></tr>
+<tr>
+<td><b>Emergency management and crisis prevention</b></td>
+<td><i>J.L. Wybo</i></td>
+<td>Percolation, temporal coherence of information, and crisis prevention
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Future_research">Future research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit&amp;section=6" title="Edit section: Future research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Percolation theory is widely used and impacts many different fields; however, the research in network science can still be developed further. As a computational model, percolation has its limitations in that it cannot always account for the variability of real-life neural networks. Its limitations do not hinder its functionality in total, just in some cases.<sup id="cite_ref-Eckmann2010_6-1" class="reference"><a href="#cite_note-Eckmann2010-6">&#91;6&#93;</a></sup> In order for one to understand small-world networks better, we need a closer objective look at percolation in neural networks. The best possible way for this to occur would be to combine the applications of percolation modelling and experimental stimulation of artificial neural networks.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Leleu-Merviel, S. (2004). On the relevance of percolation theory to the acquisition of human skills. <i>Laboratoire des Sciences de la Communication</i> Retrieved from <a rel="nofollow" class="external free" href="http://hal.archives-ouvertes.fr/docs/00/46/77/42/PDF/E384WC-EISTA-2004.pdf">http://hal.archives-ouvertes.fr/docs/00/46/77/42/PDF/E384WC-EISTA-2004.pdf</a></span>
+</li>
+<li id="cite_note-Friedenberg2012-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Friedenberg2012_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Friedenberg2012_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Friedenberg2012_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Friedenberg2012_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Friedenbreg, J., Silverman, G. (2012). <i>Cognitive Science: An Introduction to the Study of Mind</i> (2nd Ed.). Thousand Oaks, CA: SAGE Publications.</span>
+</li>
+<li id="cite_note-Beffara2005-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Beffara2005_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Beffara2005_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Beffara, V. &amp; Sidoravicius, V. (2005). Percolation Theory. Retrieved from <a rel="nofollow" class="external free" href="http://perso.ens-lyon.fr/vincent.beffara/assets/Enc-Perco.pdf">http://perso.ens-lyon.fr/vincent.beffara/assets/Enc-Perco.pdf</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Broadbent, S.R.; Hammersley, J.M. (1957). "Percolation processes, I and II". <i>Proceedings of the Cambridge Philosophical Society</i>. <b>53</b>: 629–641. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1957PCPS...53..629B">1957PCPS...53..629B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2Fs0305004100032680">10.1017/s0305004100032680</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Cambridge+Philosophical+Society&amp;rft.atitle=Percolation+processes%2C+I+and+II&amp;rft.volume=53&amp;rft.pages=629-641&amp;rft.date=1957&amp;rft_id=info%3Adoi%2F10.1017%2Fs0305004100032680&amp;rft_id=info%3Abibcode%2F1957PCPS...53..629B&amp;rft.aulast=Broadbent&amp;rft.aufirst=S.R.&amp;rft.au=Hammersley%2C+J.M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Kozma2009-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kozma2009_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kozma2009_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Kozma, R. &amp; Puljic, M. &amp; Perlovsky, L. (2009). Modeling goal-oriented decision making through cognitive phase transitions. <i>New Mathematics and Natural Computation</i>, 5  143–157. Retrieved from <a rel="nofollow" class="external free" href="http://www.worldscientific.com/doi/pdfplus/10.1142/S1793005709001246">http://www.worldscientific.com/doi/pdfplus/10.1142/S1793005709001246</a></span>
+</li>
+<li id="cite_note-Eckmann2010-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Eckmann2010_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Eckmann2010_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Eckmann, J.P.; Moses, E.; Stetter, O.; Tlusty, T.; Zbinden, C. (2010). "Leaders of neuronal cultures in a quorum percolation model". <i>Frontiers in Computational Neuroscience</i>. <b>4</b>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3389%2Ffncom.2010.00132">10.3389/fncom.2010.00132</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Frontiers+in+Computational+Neuroscience&amp;rft.atitle=Leaders+of+neuronal+cultures+in+a+quorum+percolation+model&amp;rft.volume=4&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.3389%2Ffncom.2010.00132&amp;rft.aulast=Eckmann&amp;rft.aufirst=J.P.&amp;rft.au=Moses%2C+E.&amp;rft.au=Stetter%2C+O.&amp;rft.au=Tlusty%2C+T.&amp;rft.au=Zbinden%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Van, D. B.; Gong, P.; Breakspear, M.; van Leeuwen, C. (2012). "Fragmentation: Loss of global coherence or breakdown of modularity in functional brain architecture?". <i>Frontiers in Systems Neuroscience</i>. <b>6</b>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3389%2Ffnsys.2012.00020">10.3389/fnsys.2012.00020</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Frontiers+in+Systems+Neuroscience&amp;rft.atitle=Fragmentation%3A+Loss+of+global+coherence+or+breakdown+of+modularity+in+functional+brain+architecture%3F&amp;rft.volume=6&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.3389%2Ffnsys.2012.00020&amp;rft.aulast=Van&amp;rft.aufirst=D.+B.&amp;rft.au=Gong%2C+P.&amp;rft.au=Breakspear%2C+M.&amp;rft.au=van+Leeuwen%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kozma, R.; Puljic, M.; Balister, P.; Bollobas, B.; Freeman, W. J. (2005). "Phase transitions in the neuropercolation model of neural populations with mixed local and non-local interactions". <i>Biological Cybernetics</i>. <b>92</b>: 367–379. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs00422-005-0565-z">10.1007/s00422-005-0565-z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biological+Cybernetics&amp;rft.atitle=Phase+transitions+in+the+neuropercolation+model+of+neural+populations+with+mixed+local+and+non-local+interactions&amp;rft.volume=92&amp;rft.pages=367-379&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1007%2Fs00422-005-0565-z&amp;rft.aulast=Kozma&amp;rft.aufirst=R.&amp;rft.au=Puljic%2C+M.&amp;rft.au=Balister%2C+P.&amp;rft.au=Bollobas%2C+B.&amp;rft.au=Freeman%2C+W.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Haggstrom, O.; Jonasson, J. (2006). "Uniqueness and non-uniqueness in percolation theory". <i>Probability Surveys</i>. <b>3</b>: 289–344. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/math/0612812">math/0612812</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1214%2F154957806000000096">10.1214/154957806000000096</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Probability+Surveys&amp;rft.atitle=Uniqueness+and+non-uniqueness+in+percolation+theory&amp;rft.volume=3&amp;rft.pages=289-344&amp;rft.date=2006&amp;rft_id=info%3Aarxiv%2Fmath%2F0612812&amp;rft_id=info%3Adoi%2F10.1214%2F154957806000000096&amp;rft.aulast=Haggstrom&amp;rft.aufirst=O.&amp;rft.au=Jonasson%2C+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gallos, L. K.; Makse, H. A.; Sigman, M. (2012). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3286928">"A small world of weak ties provides optimal global integration of self-similar modules in functional brain networks"</a>. <i>PNAS</i>. <b>109</b> (8): 2825–2830. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1102.0604">1102.0604</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2012PNAS..109.2825G">2012PNAS..109.2825G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1073%2Fpnas.1106612109">10.1073/pnas.1106612109</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3286928">3286928</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22308319">22308319</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PNAS&amp;rft.atitle=A+small+world+of+weak+ties+provides+optimal+global+integration+of+self-similar+modules+in+functional+brain+networks&amp;rft.volume=109&amp;rft.issue=8&amp;rft.pages=2825-2830&amp;rft.date=2012&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3286928&amp;rft_id=info%3Abibcode%2F2012PNAS..109.2825G&amp;rft_id=info%3Aarxiv%2F1102.0604&amp;rft_id=info%3Apmid%2F22308319&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1106612109&amp;rft.aulast=Gallos&amp;rft.aufirst=L.+K.&amp;rft.au=Makse%2C+H.+A.&amp;rft.au=Sigman%2C+M.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3286928&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Khandelwal, S. B. Ecology of infectious diseases with contact networks and percolation theory. Dissertation Abstracts International: Section B: The Sciences and Engineering, 4204-4204. Retrieved from <a rel="nofollow" class="external free" href="https://search.proquest.com/docview/622038307">https://search.proquest.com/docview/622038307</a>.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Duffie, D., Manso, G., &amp; Malamud, S. (2012). Information Percolation in Segmented Markets. <i>Swiss Finance Institute Research</i> Paper</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Grebel, T (2012). <a rel="nofollow" class="external text" href="https://search.proquest.com/docview/1282239642">"Network evolution in basic science"</a>. <i>Journal of Evolutionary Economics</i>. <b>22</b> (3): 443–457. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs00191-012-0266-4">10.1007/s00191-012-0266-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Evolutionary+Economics&amp;rft.atitle=Network+evolution+in+basic+science&amp;rft.volume=22&amp;rft.issue=3&amp;rft.pages=443-457&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1007%2Fs00191-012-0266-4&amp;rft.aulast=Grebel&amp;rft.aufirst=T&amp;rft_id=https%3A%2F%2Fsearch.proquest.com%2Fdocview%2F1282239642&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Flores, R.; Koster, M.; Lindner, I.; Molina, E. (2012). <a rel="nofollow" class="external text" href="https://search.proquest.com/docview/1027510949">"Networks and collective action"</a>. <i>Social Networks</i>. <b>34</b> (4): 570–584. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.socnet.2012.06.003">10.1016/j.socnet.2012.06.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Social+Networks&amp;rft.atitle=Networks+and+collective+action&amp;rft.volume=34&amp;rft.issue=4&amp;rft.pages=570-584&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1016%2Fj.socnet.2012.06.003&amp;rft.aulast=Flores&amp;rft.aufirst=R.&amp;rft.au=Koster%2C+M.&amp;rft.au=Lindner%2C+I.&amp;rft.au=Molina%2C+E.&amp;rft_id=https%3A%2F%2Fsearch.proquest.com%2Fdocview%2F1027510949&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Poccia, N.; Ansuini, A.; Bianconi, A. (2011). "Far from Equilibrium Percolation, Stochastic and Shape Resonances in the Physics of Life". <i>International Journal of Molecular Sciences</i>. <b>12</b>: 6810–6833. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3390%2Fijms12106810">10.3390/ijms12106810</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Molecular+Sciences&amp;rft.atitle=Far+from+Equilibrium+Percolation%2C+Stochastic+and+Shape+Resonances+in+the+Physics+of+Life&amp;rft.volume=12&amp;rft.pages=6810-6833&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.3390%2Fijms12106810&amp;rft.aulast=Poccia&amp;rft.aufirst=N.&amp;rft.au=Ansuini%2C+A.&amp;rft.au=Bianconi%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rebello, I.; Grana, M.; Cases, B. (2012). "Effect of spatial percolation on the convergence of a graph colouring boid swarm". <i>International Journal of Artificial Intelligence Tools</i>. <b>21</b>: 1250015. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1142%2FS0218213012500157">10.1142/S0218213012500157</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Artificial+Intelligence+Tools&amp;rft.atitle=Effect+of+spatial+percolation+on+the+convergence+of+a+graph+colouring+boid+swarm&amp;rft.volume=21&amp;rft.pages=1250015&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1142%2FS0218213012500157&amp;rft.aulast=Rebello&amp;rft.aufirst=I.&amp;rft.au=Grana%2C+M.&amp;rft.au=Cases%2C+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wybo, J.L. (2012). "Percolation, temporal coherence of information, and crisis prevention". <i>Safety Science</i>. <b>57</b>: 60–68. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.ssci.2013.01.021">10.1016/j.ssci.2013.01.021</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Safety+Science&amp;rft.atitle=Percolation%2C+temporal+coherence+of+information%2C+and+crisis+prevention&amp;rft.volume=57&amp;rft.pages=60-68&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ssci.2013.01.021&amp;rft.aulast=Wybo&amp;rft.aufirst=J.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Winzeler, H. E.; Owens, P. R.; Waltman, S. W.; Waltman, W. J.; Libohova, Z.; Beaudette, D. (2013). "A Methodology for Examining Changes in Soil Climate Geography through Time: U.S. Soil Moisture Regimes for the Period 1971–2000". <i>Soil Science Society of America Journal</i>. <b>77</b>: 213–225. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2013SSASJ..77..213W">2013SSASJ..77..213W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2136%2Fsssaj2012.0123">10.2136/sssaj2012.0123</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Soil+Science+Society+of+America+Journal&amp;rft.atitle=A+Methodology+for+Examining+Changes+in+Soil+Climate+Geography+through+Time%3A+U.S.+Soil+Moisture+Regimes+for+the+Period+1971%E2%80%932000&amp;rft.volume=77&amp;rft.pages=213-225&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.2136%2Fsssaj2012.0123&amp;rft_id=info%3Abibcode%2F2013SSASJ..77..213W&amp;rft.aulast=Winzeler&amp;rft.aufirst=H.+E.&amp;rft.au=Owens%2C+P.+R.&amp;rft.au=Waltman%2C+S.+W.&amp;rft.au=Waltman%2C+W.+J.&amp;rft.au=Libohova%2C+Z.&amp;rft.au=Beaudette%2C+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APercolation+%28cognitive+psychology%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20190411205918
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.276 seconds
+Real time usage: 0.359 seconds
+Preprocessor visited node count: 897/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31196/2097152 bytes
+Template argument size: 1190/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 43056/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.176/10.000 seconds
+Lua memory usage: 3.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  318.714      1 -total
+ 76.83%  244.881      1 Template:Reflist
+ 67.04%  213.665     12 Template:Cite_journal
+ 18.35%   58.493      1 Template:Orphan
+ 13.53%   43.128      1 Template:Draft_other
+ 12.60%   40.155      1 Template:Ambox
+  0.82%    2.603      1 Template:Main_other
+  0.72%    2.302      2 Template:PAGENAMEU
+  0.69%    2.194      1 Template:Monthyear
+  0.63%    2.008      1 Template:Monthyear-1
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39199253-0!canonical and timestamp 20190411205918 and revision id 846712255
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Percolation_(cognitive_psychology)&amp;oldid=846712255">https://en.wikipedia.org/w/index.php?title=Percolation_(cognitive_psychology)&amp;oldid=846712255</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cognitive_psychology" title="Category:Cognitive psychology">Cognitive psychology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Orphaned_articles_from_May_2013" title="Category:Orphaned articles from May 2013">Orphaned articles from May 2013</a></li><li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Percolation+%28cognitive+psychology%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Percolation+%28cognitive+psychology%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Percolation_(cognitive_psychology)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Percolation_(cognitive_psychology)&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Percolation_(cognitive_psychology)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Percolation_(cognitive_psychology)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Percolation_(cognitive_psychology)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;oldid=846712255" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17156484" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Percolation_%28cognitive_psychology%29&amp;id=846712255" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Percolation+%28cognitive+psychology%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Percolation+%28cognitive+psychology%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Percolation_(cognitive_psychology)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17156484#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 June 2018, at 12:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Percolation_(cognitive_psychology)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.359","ppvisitednodes":{"value":897,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31196,"limit":2097152},"templateargumentsize":{"value":1190,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":43056,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  318.714      1 -total"," 76.83%  244.881      1 Template:Reflist"," 67.04%  213.665     12 Template:Cite_journal"," 18.35%   58.493      1 Template:Orphan"," 13.53%   43.128      1 Template:Draft_other"," 12.60%   40.155      1 Template:Ambox","  0.82%    2.603      1 Template:Main_other","  0.72%    2.302      2 Template:PAGENAMEU","  0.69%    2.194      1 Template:Monthyear","  0.63%    2.008      1 Template:Monthyear-1"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":4054065,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20190411205918","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Percolation (cognitive psychology)","url":"https:\/\/en.wikipedia.org\/wiki\/Percolation_(cognitive_psychology)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17156484","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17156484","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-04-23T19:40:04Z","dateModified":"2018-06-20T12:48:21Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1238"});});</script>
+</body>
+</html>

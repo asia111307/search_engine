@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bayesian approaches to brain function - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bayesian_approaches_to_brain_function","wgTitle":"Bayesian approaches to brain function","wgCurRevisionId":890166002,"wgRevisionId":890166002,"wgArticleId":21107290,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Computational neuroscience","Cognitive neuroscience","Bayesian statistics","Probabilistic models"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bayesian_approaches_to_brain_function","wgRelevantArticleId":21107290,"wgRequestId":"XLMQjgpAIC4AABonsiEAAAAH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q4874464","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bayesian_approaches_to_brain_function"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bayesian_approaches_to_brain_function"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bayesian_approaches_to_brain_function rootpage-Bayesian_approaches_to_brain_function skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Bayesian approaches to brain function</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Bayesian approaches to brain function</b> investigate the capacity of the nervous system to operate in situations of uncertainty in a fashion that is close to the optimal prescribed by <a href="/wiki/Bayesian_statistics" title="Bayesian statistics">Bayesian statistics</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> This term is used in <a href="/wiki/Psychology" title="Psychology">behavioural sciences</a> and <a href="/wiki/Neuroscience" title="Neuroscience">neuroscience</a> and studies associated with this term often strive to explain the <a href="/wiki/Human_brain" title="Human brain">brain</a>'s cognitive abilities based on statistical principles. It is frequently assumed that the nervous system maintains internal <a href="/wiki/Probabilistic_model" class="mw-redirect" title="Probabilistic model">probabilistic models</a> that are updated by <a href="/wiki/Neural_computation" title="Neural computation">neural processing</a> of sensory information using methods approximating those of <a href="/wiki/Bayesian_probability" title="Bayesian probability">Bayesian probability</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins"><span class="tocnumber">1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Psychophysics"><span class="tocnumber">2</span> <span class="toctext">Psychophysics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Neural_coding"><span class="tocnumber">3</span> <span class="toctext">Neural coding</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Electrophysiology"><span class="tocnumber">4</span> <span class="toctext">Electrophysiology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Predictive_coding"><span class="tocnumber">5</span> <span class="toctext">Predictive coding</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Free_energy"><span class="tocnumber">6</span> <span class="toctext">Free energy</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=1" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This field of study has its historical roots in numerous disciplines including <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a>, <a href="/wiki/Experimental_psychology" title="Experimental psychology">experimental psychology</a> and <a href="/wiki/Bayesian_statistics" title="Bayesian statistics">Bayesian statistics</a>. As early as the 1860s, with the work of <a href="/wiki/Hermann_Helmholtz" class="mw-redirect" title="Hermann Helmholtz">Hermann Helmholtz</a> in experimental psychology the brain's ability to extract perceptual information from sensory data was modeled in terms of probabilistic estimation.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The basic idea is that the nervous system needs to organize sensory data into an accurate <a href="/wiki/Mental_model" title="Mental model">internal model</a> of the outside world.
+</p><p>Bayesian probability has been developed by many important contributors. <a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">Pierre-Simon Laplace</a>, <a href="/wiki/Thomas_Bayes" title="Thomas Bayes">Thomas Bayes</a>, <a href="/wiki/Harold_Jeffreys" title="Harold Jeffreys">Harold Jeffreys</a>, <a href="/wiki/Richard_Threlkeld_Cox" title="Richard Threlkeld Cox">Richard Cox</a> and <a href="/wiki/Edwin_Thompson_Jaynes" title="Edwin Thompson Jaynes">Edwin Jaynes</a> developed mathematical techniques and procedures for treating probability as the degree of plausibility that could be assigned to a given supposition or hypothesis based on the available evidence.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> In 1988 <a href="/wiki/Edwin_Thompson_Jaynes" title="Edwin Thompson Jaynes">Edwin Jaynes</a> presented a framework for using Bayesian Probability to model mental processes.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> It was thus realized early on that the Bayesian statistical framework holds the potential to lead to insights into the function of the nervous system.
+</p><p>This idea was taken up in research on <a href="/wiki/Unsupervised_learning" title="Unsupervised learning">unsupervised learning</a>, in particular the Analysis by Synthesis approach, branches of <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> In 1983 <a href="/wiki/Geoffrey_Hinton" title="Geoffrey Hinton">Geoffrey Hinton</a> and colleagues proposed the brain could be seen as a machine making decisions based on the uncertainties of the outside world.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> During the 1990s researchers including <a href="/wiki/Peter_Dayan" title="Peter Dayan">Peter Dayan</a>, Geoffrey Hinton and Richard Zemel proposed that the brain represents knowledge of the world in terms of probabilities and made specific proposals for tractable neural processes that could manifest such a <a href="/wiki/Helmholtz_machine" title="Helmholtz machine">Helmholtz Machine</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Psychophysics">Psychophysics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=2" title="Edit section: Psychophysics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Bayesian_inference_in_motor_learning" title="Bayesian inference in motor learning">Bayesian inference in motor learning</a></div>
+<p>A wide range of studies interpret the results of psychophysical experiments in light of Bayesian perceptual models. Many aspects of human perceptual and motor behavior can be modeled with Bayesian statistics. This approach, with its emphasis on behavioral outcomes as the ultimate expressions of neural information processing, is also known for modeling sensory and motor decisions using Bayesian decision theory. Examples are the work of <a href="/wiki/Michael_S._Landy" title="Michael S. Landy">Landy</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> Jacobs,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Jordan, Knill,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Kording and Wolpert,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> and Goldreich.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Neural_coding">Neural coding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=3" title="Edit section: Neural coding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many theoretical studies ask how the nervous system could implement Bayesian algorithms. Examples are the work of Pouget, Zemel, Deneve, Latham, Hinton and Dayan. George and <a href="/wiki/Jeff_Hawkins" title="Jeff Hawkins">Hawkins</a> published a paper that establishes a model of cortical information processing called <a href="/wiki/Hierarchical_temporal_memory" title="Hierarchical temporal memory">hierarchical temporal memory</a> that is based on Bayesian network of <a href="/wiki/Markov_chain" title="Markov chain">Markov chains</a>. They further map this mathematical model to the existing knowledge about the architecture of cortex and show how neurons could recognize patterns by hierarchical Bayesian inference.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Electrophysiology">Electrophysiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=4" title="Edit section: Electrophysiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A number of recent electrophysiological studies focus on the representation of probabilities in the nervous system. Examples are the work of <a href="/wiki/Michael_Shadlen" title="Michael Shadlen">Shadlen</a> and Schultz.
+</p>
+<h2><span class="mw-headline" id="Predictive_coding">Predictive coding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=5" title="Edit section: Predictive coding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Predictive_coding" title="Predictive coding">Predictive coding</a> is a neurobiologically plausible scheme for inferring the causes of sensory input based on minimizing prediction error.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> These schemes are related formally to <a href="/wiki/Kalman_filter" title="Kalman filter">Kalman filtering</a> and other Bayesian update schemes.
+</p>
+<h2><span class="mw-headline" id="Free_energy">Free energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=6" title="Edit section: Free energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the 1990s some researchers such as <a href="/wiki/Geoffrey_Hinton" title="Geoffrey Hinton">Geoffrey Hinton</a> and <a href="/wiki/Karl_Friston" class="mw-redirect" title="Karl Friston">Karl Friston</a> began examining the concept of <a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">free energy</a> as a calculably tractable measure of the discrepancy between actual features of the world and representations of those features captured by neural network models.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> A synthesis has been attempted recently<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> by <a href="/wiki/Karl_Friston" class="mw-redirect" title="Karl Friston">Karl Friston</a>, in which the Bayesian brain emerges from a general <a href="/wiki/The_free_energy_principle" class="mw-redirect" title="The free energy principle">principle of free energy minimisation</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> In this framework, both action and perception are seen as a consequence of suppressing free-energy, leading to perceptual<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> and active inference<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> and a more embodied (enactive) view of the Bayesian brain. Using <a href="/wiki/Variational_Bayes" class="mw-redirect" title="Variational Bayes">variational Bayesian</a> methods, it can be shown how <a href="/wiki/Mental_model" title="Mental model">internal models</a> of the world are updated by sensory information to minimize free energy or the discrepancy between sensory input and predictions of that input. This can be cast (in neurobiologically plausible terms) as predictive coding or, more generally, Bayesian filtering.
+</p><p>According to Friston:<sup id="cite_ref-Friston_33-0" class="reference"><a href="#cite_note-Friston-33">&#91;33&#93;</a></sup>
+</p>
+<blockquote><p>"The free-energy considered here represents a bound on the surprise inherent in any exchange with the environment, under expectations encoded by its state or configuration. A system can minimise free energy by changing its configuration to change the way it samples the environment, or to change its expectations. These changes correspond to action and perception, respectively, and lead to an adaptive exchange with the environment that is characteristic of biological systems. This treatment implies that the system’s state and structure encode an implicit and probabilistic model of the environment."<sup id="cite_ref-Friston_33-1" class="reference"><a href="#cite_note-Friston-33">&#91;33&#93;</a></sup></p></blockquote>
+<p>This area of research was summarized in terms understandable by the layperson in a 2008 article in <a href="/wiki/New_Scientist" title="New Scientist">New Scientist</a> that offered a unifying theory of brain function.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> Friston makes the following claims about the explanatory power of the theory:
+</p>
+<blockquote><p>"This model of brain function can explain a wide range of anatomical and physiological aspects of brain systems; for example, the hierarchical deployment of cortical areas, recurrent architectures using forward and backward connections and functional asymmetries in these connections. In terms of synaptic physiology, it predicts associative plasticity and, for dynamic models, spike-timing-dependent plasticity. In terms of electrophysiology it accounts for classical and extra-classical receptive field effects and long-latency or endogenous components of evoked cortical responses. It predicts the attenuation of responses encoding prediction error with perceptual learning and explains many phenomena like repetition suppression, <a href="/wiki/Mismatch_negativity" title="Mismatch negativity">mismatch negativity</a> and the P300 in electroencephalography. In psychophysical terms, it accounts for the behavioural correlates of these physiological phenomena, e.g., <a href="/wiki/Priming_(psychology)" title="Priming (psychology)">priming</a>, and global precedence."<sup id="cite_ref-Friston_33-2" class="reference"><a href="#cite_note-Friston-33">&#91;33&#93;</a></sup></p></blockquote>
+<blockquote><p>"It is fairly easy to show that both perceptual inference and learning rest on a minimisation of free energy or suppression of prediction error."<sup id="cite_ref-Friston_33-3" class="reference"><a href="#cite_note-Friston-33">&#91;33&#93;</a></sup></p></blockquote>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Bayesian_cognitive_science" title="Bayesian cognitive science">Bayesian cognitive science</a></li>
+<li><a href="/wiki/Cognitive_architecture" title="Cognitive architecture">Cognitive architecture</a></li>
+<li><a href="/wiki/The_free_energy_principle" class="mw-redirect" title="The free energy principle">The free energy principle</a></li>
+<li><a href="/wiki/Two-alternative_forced_choice" title="Two-alternative forced choice">Two-alternative forced choice</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Whatever next? Predictive brains, situated agents, and the future of cognitive science. (2013). Behavioral and Brain Sciences Behav Brain Sci, 36(03), 181-204. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1017%2Fs0140525x12000477">10.1017/s0140525x12000477</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Sanders, Laura (May 13, 2016). <a rel="nofollow" class="external text" href="https://www.sciencenews.org/article/bayesian-reasoning-implicated-some-mental-disorders">"Bayesian reasoning implicated in some mental disorders"</a>. <i><a href="/wiki/Science_News" title="Science News">Science News</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science+News&amp;rft.atitle=Bayesian+reasoning+implicated+in+some+mental+disorders&amp;rft.date=2016-05-13&amp;rft.aulast=Sanders&amp;rft.aufirst=Laura&amp;rft_id=https%3A%2F%2Fwww.sciencenews.org%2Farticle%2Fbayesian-reasoning-implicated-some-mental-disorders&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABayesian+approaches+to+brain+function" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Kenji Doya (Editor), Shin Ishii (Editor), Alexandre Pouget (Editor), Rajesh P. N. Rao (Editor) (2007), Bayesian Brain: Probabilistic Approaches to Neural Coding, The MIT Press; 1 edition (Jan 1 2007)</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Knill David, Pouget Alexandre (2004), The Bayesian brain: the role of uncertainty in neural coding and computation, Trends in Neurosciences Vol.27 No.12 December 2004</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Helmholtz, H. (1860/1962). Handbuch der physiologischen optik (Southall, J. P. C. (Ed.), English trans.), Vol. 3. New York: Dover.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Westheimer, G. (2008) Was Helmholtz a Bayesian?" <i>Perception</i>  39, 642–50</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Jaynes, E. T., 1986, `Bayesian Methods: General Background,' in Maximum-Entropy and Bayesian Methods in Applied Statistics, J. H. Justice (ed.), Cambridge Univ. Press, Cambridge</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Jaynes, E. T., 1988, `How Does the Brain Do Plausible Reasoning?', in <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UjixarjDFH0C"><i>Maximum-Entropy and Bayesian Methods in Science and Engineering</i></a>, 1, G. J. Erickson and C. R. Smith (eds.)</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="/wiki/Zoubin_Ghahramani" title="Zoubin Ghahramani">Ghahramani, Z.</a> (2004). Unsupervised learning. In O. Bousquet, G. Raetsch, &amp; U. von Luxburg
+(Eds.), Advanced lectures on machine learning. Berlin: Springer-Verlag.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Neisser, U., 1967. Cognitive Psychology. Appleton-Century-Crofts, New York.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Fahlman, S.E., Hinton, G.E. and Sejnowski, T.J.(1983). Massively parallel architectures for A.I.: Netl, Thistle, and Boltzmann machines. Proceedings of the National Conference on Artificial Intelligence, Washington DC.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Dayan, P., Hinton, G. E., &amp; Neal, R. M. (1995). The Helmholtz machine. Neural Computation, 7, 889–904.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Dayan, P. and Hinton, G. E. (1996), Varieties of Helmholtz machines, Neural Networks, 9 1385–1403.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Hinton, G. E., Dayan, P., To, A. and Neal R. M. (1995), The Helmholtz machine through time., Fogelman-Soulie and R. Gallinari (editors) ICANN-95, 483–490</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Tassinari H, Hudson TE &amp; Landy MS. (2006). <a rel="nofollow" class="external text" href="http://www.jneurosci.org/cgi/content/abstract/26/40/10154">Combining priors and noisy visual cues in a rapid pointing task</a>" <i>Journal of Neuroscience</i> 26(40), 10154–10163.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Hudson TE, Maloney LT &amp; Landy MS. (2008). <a rel="nofollow" class="external text" href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000130">Optimal compensation for temporal uncertainty in movement planning</a>. PLoS Computational Biology, 4(7).</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Jacobs RA (1999). <a rel="nofollow" class="external text" href="https://archive.today/20130201225038/http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6T0W-3X3BTP4-D&amp;_user=10&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=839657cf68a414de392abcfaca2e198f">Optimal integration of texture and motion cues to depth</a>" <i>Vision Research</i> 39(21), 3621–9.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Battaglia PW, Jacobs RA &amp; Aslin RN (2003). <a rel="nofollow" class="external text" href="http://www.opticsinfobase.org/abstract.cfm?URI=josaa-20-7-1391">Bayesian integration of visual and auditory signals for spatial localization</a>. Journal of the Optical Society of America, 20(7), 1391–7.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Knill DC (2005). <a rel="nofollow" class="external text" href="http://journalofvision.org//5/2/2/">Reaching for visual cues to depth: The brain combines depth cues differently for motor control and perception</a>. Journal of Vision, 5(2), 103:15.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Knill DC (2007). <a rel="nofollow" class="external text" href="http://journalofvision.org//7/8/13/">Learning Bayesian priors for depth perception</a>. Journal of Vision, 7(8), 1–20.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Koerding KP &amp; Wolpert DM (2004). <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v427/n6971/full/nature02169.html">Bayesian integration in sensorimotor learning</a>. <i>Nature</i>, 427, 244–7.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Koerding KP, Ku S &amp; Wolpert DM (2004). <a rel="nofollow" class="external text" href="http://jn.physiology.org/cgi/content/abstract/92/5/3161">Bayesian integration in force estimation</a>" <i>Journal of Neurophysiology</i> 92, 3161–5.</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldreich, D (Mar 28, 2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1828626">"A Bayesian perceptual model replicates the cutaneous rabbit and other tactile spatiotemporal illusions"</a>. <i>PLoS ONE</i>. <b>2</b> (3): e333. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1371%2Fjournal.pone.0000333">10.1371/journal.pone.0000333</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1828626">1828626</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17389923">17389923</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLoS+ONE&amp;rft.atitle=A+Bayesian+perceptual+model+replicates+the+cutaneous+rabbit+and+other+tactile+spatiotemporal+illusions.&amp;rft.volume=2&amp;rft.issue=3&amp;rft.pages=e333&amp;rft.date=2007-03-28&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1828626&amp;rft_id=info%3Apmid%2F17389923&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0000333&amp;rft.aulast=Goldreich&amp;rft.aufirst=D&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1828626&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABayesian+approaches+to+brain+function" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldreich, Daniel; Tong, Jonathan (10 May 2013). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3650428">"Prediction, Postdiction, and Perceptual Length Contraction: A Bayesian Low-Speed Prior Captures the Cutaneous Rabbit and Related Illusions"</a>. <i>Frontiers in Psychology</i>. <b>4</b> (221): 221. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3389%2Ffpsyg.2013.00221">10.3389/fpsyg.2013.00221</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3650428">3650428</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23675360">23675360</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Frontiers+in+Psychology&amp;rft.atitle=Prediction%2C+Postdiction%2C+and+Perceptual+Length+Contraction%3A+A+Bayesian+Low-Speed+Prior+Captures+the+Cutaneous+Rabbit+and+Related+Illusions&amp;rft.volume=4&amp;rft.issue=221&amp;rft.pages=221&amp;rft.date=2013-05-10&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3650428&amp;rft_id=info%3Apmid%2F23675360&amp;rft_id=info%3Adoi%2F10.3389%2Ffpsyg.2013.00221&amp;rft.aulast=Goldreich&amp;rft.aufirst=Daniel&amp;rft.au=Tong%2C+Jonathan&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3650428&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABayesian+approaches+to+brain+function" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldreich, D; Peterson, MA (2012). "A Bayesian observer replicates convexity context effects in figure-ground perception". <i>Seeing and Perceiving</i>. <b>25</b> (3–4): 365–95. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1163%2F187847612X634445">10.1163/187847612X634445</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22564398">22564398</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Seeing+and+Perceiving&amp;rft.atitle=A+Bayesian+observer+replicates+convexity+context+effects+in+figure-ground+perception.&amp;rft.volume=25&amp;rft.issue=3%E2%80%934&amp;rft.pages=365-95&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1163%2F187847612X634445&amp;rft_id=info%3Apmid%2F22564398&amp;rft.aulast=Goldreich&amp;rft.aufirst=D&amp;rft.au=Peterson%2C+MA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABayesian+approaches+to+brain+function" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">George D,  Hawkins J, 2009 Towards a Mathematical Theory of Cortical Micro-circuits" <i>PLoS Comput Biol</i> 5(10)  e1000532. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1371%2Fjournal.pcbi.1000532">10.1371/journal.pcbi.1000532</a></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Rao RPN, Ballard DH. Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience. 1999. 2:79–87</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Hinton, G. E. and Zemel, R. S.(1994), <a rel="nofollow" class="external text" href="https://www.cs.toronto.edu/~hinton/absps/cvq.pdf">Autoencoders, minimum description length, and Helmholtz free energy</a>. Advances in Neural Information Processing Systems 6. J. D. Cowan, G. Tesauro and J. Alspector (Eds.), Morgan Kaufmann: San Mateo, CA.</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Friston K, <a rel="nofollow" class="external text" href="http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf">The free-energy principle: A unified brain theory?</a>, Nat Rev Neurosci. 2010. 11:127–38</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Friston K, Kilner J, Harrison L. <a rel="nofollow" class="external text" href="http://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf">A free energy principle for the brain</a>, J Physiol Paris. 2006. 100:70–87</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Friston K, <a rel="nofollow" class="external text" href="http://www.fil.ion.ucl.ac.uk/~karl/A%20theory%20of%20cortical%20responses.pdf">A theory of cortical responses</a>, Philos Trans R Soc Lond B Biol Sci. 2005. 360:815–36.</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Friston KJ, Daunizeau J, Kilner J, Kiebel SJ. <a rel="nofollow" class="external text" href="http://www.fil.ion.ucl.ac.uk/~karl/Action%20and%20behavior%20A%20free-energy%20formulation.pdf">Action and behavior: A free-energy formulation</a>, Biol Cybern. 2010. 102:227–60</span>
+</li>
+<li id="cite_note-Friston-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-Friston_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Friston_33-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Friston_33-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Friston_33-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Friston K, Stephan KE., <a rel="nofollow" class="external text" href="http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=2660582&amp;blobtype=pdf">Free energy and the brain</a>, Synthese. 2007. 159:417–458</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Huang Gregory (2008), <a rel="nofollow" class="external text" href="https://www.newscientist.com/article/mg19826586.100-is-this-a-unified-theory-of-the-brain.html">"Is This a Unified Theory of the Brain?"</a>, <i><a href="/wiki/New_Scientist" title="New Scientist">New Scientist</a></i>. May 23, 2008.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.universaldarwinism.com/Friston%20Karl.htm">Universal Darwinism – Karl Friston</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fil.ion.ucl.ac.uk/~karl/">Karl Friston Home Page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.toronto.edu/~hinton/">Geoffrey Hinton Home Page</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Neuroscience" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Neuroscience" title="Template:Neuroscience"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Neuroscience" title="Template talk:Neuroscience"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Neuroscience&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Neuroscience" style="font-size:114%;margin:0 4em"><a href="/wiki/Neuroscience" title="Neuroscience">Neuroscience</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="Outline_of_neuroscience"><a href="/wiki/Outline_of_neuroscience" title="Outline of neuroscience">Outline of neuroscience</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Basic_research" title="Basic research">Basic<br />science</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Behavioral_epigenetics" title="Behavioral epigenetics">Behavioral epigenetics</a></li>
+<li><a href="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavioral genetics</a></li>
+<li><a href="/wiki/Cellular_neuroscience" title="Cellular neuroscience">Cellular neuroscience</a></li>
+<li><a href="/wiki/Computational_neuroscience" title="Computational neuroscience">Computational neuroscience</a></li>
+<li><a href="/wiki/Connectomics" title="Connectomics">Connectomics</a></li>
+<li><a href="/wiki/Imaging_genetics" title="Imaging genetics">Imaging genetics</a></li>
+<li><a href="/wiki/Integrative_neuroscience" title="Integrative neuroscience">Integrative neuroscience</a></li>
+<li><a href="/wiki/Molecular_neuroscience" title="Molecular neuroscience">Molecular neuroscience</a></li>
+<li><a href="/wiki/Neural_engineering" title="Neural engineering">Neural engineering</a></li>
+<li><a href="/wiki/Neuroanatomy" title="Neuroanatomy">Neuroanatomy</a></li>
+<li><a href="/wiki/Neurochemistry" title="Neurochemistry">Neurochemistry</a></li>
+<li><a href="/wiki/Neuroendocrinology" title="Neuroendocrinology">Neuroendocrinology</a></li>
+<li><a href="/wiki/Neurogenetics" title="Neurogenetics">Neurogenetics</a></li>
+<li><a href="/wiki/Neuroinformatics" title="Neuroinformatics">Neuroinformatics</a></li>
+<li><a href="/wiki/Neurometrics" title="Neurometrics">Neurometrics</a></li>
+<li><a href="/wiki/Neuromorphology" title="Neuromorphology">Neuromorphology</a></li>
+<li><a href="/wiki/Neurophysics" title="Neurophysics">Neurophysics</a></li>
+<li><a href="/wiki/Neurophysiology" title="Neurophysiology">Neurophysiology</a></li>
+<li><a href="/wiki/Systems_neuroscience" title="Systems neuroscience">Systems neuroscience</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Gray739.png" class="image"><img alt="Gray739.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/130px-Gray739.png" decoding="async" width="130" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/195px-Gray739.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/260px-Gray739.png 2x" data-file-width="500" data-file-height="379" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Clinical_neuroscience" title="Clinical neuroscience">Clinical<br />neuroscience</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Behavioral_neurology" title="Behavioral neurology">Behavioral neurology</a></li>
+<li><a href="/wiki/Clinical_neurophysiology" title="Clinical neurophysiology">Clinical neurophysiology</a></li>
+<li><a href="/wiki/Neurocardiology" title="Neurocardiology">Neurocardiology</a></li>
+<li><a href="/wiki/Neuroepidemiology" title="Neuroepidemiology">Neuroepidemiology</a></li>
+<li><a href="/wiki/Neurogastroenterology" title="Neurogastroenterology">Neurogastroenterology</a></li>
+<li><a href="/wiki/Neuroimmunology" title="Neuroimmunology">Neuroimmunology</a></li>
+<li><a href="/wiki/Neurointensive_care" title="Neurointensive care">Neurointensive care</a></li>
+<li><a href="/wiki/Neurology" title="Neurology">Neurology</a></li>
+<li><a href="/wiki/Neurooncology" class="mw-redirect" title="Neurooncology">Neurooncology</a></li>
+<li><a href="/wiki/Neuro-ophthalmology" title="Neuro-ophthalmology">Neuro-ophthalmology</a></li>
+<li><a href="/wiki/Neuropathology" title="Neuropathology">Neuropathology</a></li>
+<li><a href="/wiki/Neuropharmacology" title="Neuropharmacology">Neuropharmacology</a></li>
+<li><a href="/wiki/Neuroprosthetics" title="Neuroprosthetics">Neuroprosthetics</a></li>
+<li><a href="/wiki/Neuropsychiatry" title="Neuropsychiatry">Neuropsychiatry</a></li>
+<li><a href="/wiki/Neuroradiology" title="Neuroradiology">Neuroradiology</a></li>
+<li><a href="/wiki/Neurorehabilitation" title="Neurorehabilitation">Neurorehabilitation</a></li>
+<li><a href="/wiki/Neurosurgery" title="Neurosurgery">Neurosurgery</a></li>
+<li><a href="/wiki/Neurotology" title="Neurotology">Neurotology</a></li>
+<li><a href="/wiki/Neurovirology" title="Neurovirology">Neurovirology</a></li>
+<li><a href="/wiki/Nutritional_neuroscience" title="Nutritional neuroscience">Nutritional neuroscience</a></li>
+<li><a href="/wiki/Psychiatry" title="Psychiatry">Psychiatry</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive<br />neuroscience</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Affective_neuroscience" title="Affective neuroscience">Affective neuroscience</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Behavioral neuroscience</a></li>
+<li><a href="/wiki/Chronobiology" title="Chronobiology">Chronobiology</a></li>
+<li><a href="/wiki/Molecular_cellular_cognition" title="Molecular cellular cognition">Molecular cellular cognition</a></li>
+<li><a href="/wiki/Motor_control" title="Motor control">Motor control</a></li>
+<li><a href="/wiki/Neurolinguistics" title="Neurolinguistics">Neurolinguistics</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Sensory_neuroscience" title="Sensory neuroscience">Sensory neuroscience</a></li>
+<li><a href="/wiki/Social_cognitive_neuroscience" title="Social cognitive neuroscience">Social cognitive neuroscience</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Interdisciplinary<br />fields</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Consumer_neuroscience" title="Consumer neuroscience">Consumer neuroscience</a></li>
+<li><a href="/wiki/Cultural_neuroscience" title="Cultural neuroscience">Cultural neuroscience</a></li>
+<li><a href="/wiki/Educational_neuroscience" title="Educational neuroscience">Educational neuroscience</a></li>
+<li><a href="/wiki/Evolutionary_neuroscience" title="Evolutionary neuroscience">Evolutionary neuroscience</a></li>
+<li><a href="/wiki/Neuroanthropology" title="Neuroanthropology">Neuroanthropology</a></li>
+<li><a href="/wiki/Neurobioengineering" title="Neurobioengineering">Neurobioengineering</a></li>
+<li><a href="/wiki/Neurobiotics" title="Neurobiotics">Neurobiotics</a></li>
+<li><a href="/wiki/Neurocriminology" title="Neurocriminology">Neurocriminology</a></li>
+<li><a href="/wiki/Neuroeconomics" title="Neuroeconomics">Neuroeconomics</a></li>
+<li><a href="/wiki/Neuroepistemology" title="Neuroepistemology">Neuroepistemology</a></li>
+<li><a href="/wiki/Neuroesthetics" title="Neuroesthetics">Neuroesthetics</a></li>
+<li><a href="/wiki/Neuroethics" title="Neuroethics">Neuroethics</a></li>
+<li><a href="/wiki/Neuroethology" title="Neuroethology">Neuroethology</a></li>
+<li><a href="/wiki/Neurohistory" title="Neurohistory">Neurohistory</a></li>
+<li><a href="/wiki/Neurolaw" title="Neurolaw">Neurolaw</a></li>
+<li><a href="/wiki/Neuromarketing" title="Neuromarketing">Neuromarketing</a></li>
+<li><a href="/wiki/Neurophenomenology" title="Neurophenomenology">Neurophenomenology</a></li>
+<li><a href="/wiki/Neurophilosophy" title="Neurophilosophy">Neurophilosophy</a></li>
+<li><a href="/wiki/Neuropolitics" title="Neuropolitics">Neuropolitics</a></li>
+<li><a href="/wiki/Neurorobotics" title="Neurorobotics">Neurorobotics</a></li>
+<li><a href="/wiki/Neurotheology" class="mw-redirect" title="Neurotheology">Neurotheology</a></li>
+<li><a href="/wiki/Paleoneurobiology" title="Paleoneurobiology">Paleoneurobiology</a></li>
+<li><a href="/wiki/Social_neuroscience" title="Social neuroscience">Social neuroscience</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brain%E2%80%93computer_interface" title="Brain–computer interface">Brain–computer interface</a></li>
+<li><a href="/wiki/Neural_development" class="mw-redirect" title="Neural development">Neural development</a></li>
+<li><a href="/wiki/Artificial_neural_network" title="Artificial neural network">Neural network (artificial)</a></li>
+<li><a href="/wiki/Biological_neural_network" class="mw-redirect" title="Biological neural network">Neural network (biological)</a></li>
+<li><a href="/wiki/Detection_theory" title="Detection theory">Detection theory</a></li>
+<li><a href="/wiki/Intraoperative_neurophysiological_monitoring" title="Intraoperative neurophysiological monitoring">Intraoperative neurophysiological monitoring</a></li>
+<li><a href="/wiki/Neurochip" title="Neurochip">Neurochip</a></li>
+<li><a href="/wiki/Neurodegeneration" title="Neurodegeneration">Neurodegeneration</a></li>
+<li><a href="/wiki/Neurodevelopmental_disorder" title="Neurodevelopmental disorder">Neurodevelopmental disorder</a></li>
+<li><a href="/wiki/Neurodiversity" title="Neurodiversity">Neurodiversity</a></li>
+<li><a href="/wiki/Neurogenesis" title="Neurogenesis">Neurogenesis</a></li>
+<li><a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a></li>
+<li><a href="/wiki/Neuroimmune_system" title="Neuroimmune system">Neuroimmune system</a></li>
+<li><a href="/wiki/Neuromanagement" title="Neuromanagement">Neuromanagement</a></li>
+<li><a href="/wiki/Neuromodulation" title="Neuromodulation">Neuromodulation</a></li>
+<li><a href="/wiki/Neuroplasticity" title="Neuroplasticity">Neuroplasticity</a></li>
+<li><a href="/wiki/Neurotechnology" title="Neurotechnology">Neurotechnology</a></li>
+<li><a href="/wiki/Neurotoxin" title="Neurotoxin">Neurotoxin</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3" style="font-weight: bold"><div>
+<ul><li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Neuroscience" title="Book:Neuroscience">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Neuroscience" title="Category:Neuroscience">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Neuroscience" title="Portal:Neuroscience">Portal</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1280
+Cached time: 20190330155426
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.329 seconds
+Preprocessor visited node count: 797/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27502/2097152 bytes
+Template argument size: 580/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27521/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.119/10.000 seconds
+Lua memory usage: 2.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  251.881      1 -total
+ 73.03%  183.940      1 Template:Reflist
+ 32.74%   82.464      1 Template:Cite_news
+ 21.91%   55.180      3 Template:Cite_journal
+ 10.64%   26.808      1 Template:See_also
+ 10.38%   26.135      1 Template:Neuroscience
+  8.96%   22.561      1 Template:Navbox
+  4.50%   11.342      2 Template:Doi
+  4.30%   10.837      3 Template:Icon
+  2.41%    6.073      4 Template:Hide_in_print
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21107290-0!canonical and timestamp 20190330155426 and revision id 890166002
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bayesian_approaches_to_brain_function&amp;oldid=890166002">https://en.wikipedia.org/w/index.php?title=Bayesian_approaches_to_brain_function&amp;oldid=890166002</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computational_neuroscience" title="Category:Computational neuroscience">Computational neuroscience</a></li><li><a href="/wiki/Category:Cognitive_neuroscience" title="Category:Cognitive neuroscience">Cognitive neuroscience</a></li><li><a href="/wiki/Category:Bayesian_statistics" title="Category:Bayesian statistics">Bayesian statistics</a></li><li><a href="/wiki/Category:Probabilistic_models" title="Category:Probabilistic models">Probabilistic models</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bayesian+approaches+to+brain+function" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bayesian+approaches+to+brain+function" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bayesian_approaches_to_brain_function" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Bayesian_approaches_to_brain_function" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bayesian_approaches_to_brain_function">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bayesian_approaches_to_brain_function" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bayesian_approaches_to_brain_function" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;oldid=890166002" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4874464" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bayesian_approaches_to_brain_function&amp;id=890166002" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bayesian+approaches+to+brain+function">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bayesian+approaches+to+brain+function&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bayesian_approaches_to_brain_function&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4874464#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 March 2019, at 15:54<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bayesian_approaches_to_brain_function&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.329","ppvisitednodes":{"value":797,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27502,"limit":2097152},"templateargumentsize":{"value":580,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27521,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  251.881      1 -total"," 73.03%  183.940      1 Template:Reflist"," 32.74%   82.464      1 Template:Cite_news"," 21.91%   55.180      3 Template:Cite_journal"," 10.64%   26.808      1 Template:See_also"," 10.38%   26.135      1 Template:Neuroscience","  8.96%   22.561      1 Template:Navbox","  4.50%   11.342      2 Template:Doi","  4.30%   10.837      3 Template:Icon","  2.41%    6.073      4 Template:Hide_in_print"]},"scribunto":{"limitreport-timeusage":{"value":"0.119","limit":"10.000"},"limitreport-memusage":{"value":2562970,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20190330155426","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bayesian approaches to brain function","url":"https:\/\/en.wikipedia.org\/wiki\/Bayesian_approaches_to_brain_function","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4874464","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4874464","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-01-15T16:02:38Z","dateModified":"2019-03-30T15:54:26Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

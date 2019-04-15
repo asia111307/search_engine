@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		
+	<title>Artificial Intelligence Center @ SRI</title>
+	<meta name="DESCRIPTION" content="SRI International's Artificial Intelligence Center (AIC) is
+one of the world's major centers of research in artificial intelligence. Founded in 1966,
+the AIC has been a pioneer and a major contributor to the development of computer
+capabilities for intelligent behavior in complex situations." />
+	<meta name="KEYWORDS" content="artificial intelligence, ai, planning, problem solving, computer vision,
+image processing,  computer graphics, natural language, distributed systems, expert systems, knowledge-based systems,
+ discourse, communication, multisource information integration, automatic theorem proving,
+  program synthesis,  robots, robotics, autonomous robots, machine learning" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link href="http://www.ai.sri.com/extras/screen-2007.css" rel="stylesheet" media="screen" type="text/css" />
+	<link href="http://www.ai.sri.com/extras/screen-2007.css" rel="stylesheet" media="print"  type="text/css" />
+
+	<script type="text/javascript" language="javascript" src="http://www.ai.sri.com/extras/page.js"></script>
+			<link href="http://www.ai.sri.com/extras/menus/menu.css" rel="stylesheet" media="screen" type="text/css" />	<link href="http://www.ai.sri.com/extras/menus/menu.css" rel="stylesheet" media="print" type="text/css" />
+				<script type="text/javascript" language="javascript" src="http://www.ai.sri.com/extras/menus/menuArrays.js"></script>
+
+				<script type="text/javascript" language="javascript" src="http://www.ai.sri.com/extras/menus/menuCode.js"></script>
+
+				<script type="text/javascript" language="javascript" src="http://www.ai.sri.com/extras/menus/navigation.js"></script>
+
+</head>
+<body>
+		<div id="AICBanner">
+<div class="fixedNavigation">
+
+	<a class="toplink" href="/search">Search</a><span style="color:#5588BB;">&nbsp;|&nbsp;</span>
+	<a class="toplink" href="/contact">Contact</a><span style="color:#5588BB;">&nbsp;|&nbsp;</span>
+	<a class="toplink" href="http://www.sri.com/">SRI Home</a>
+		<!-- Spider traps.  The A&quote;s are spacers to avoid SE	showing this text as context -->
+		<span style="text-decoration: none;">
+		<a href="/norobot-warn.html"  onclick="return false;"
+		onmouseover="window.status='Do not follow this link, or your host will be blocked from this site. This is a spider trap.'; return true;">
+		<!-- -->
+ <img src="http://www.ai.sri.com/images/spacer.gif" alt="Do not follow this link, or your host will be blocked from this site. This is a spider trap."   width="1" height="1"  border="0"/></a><a href="/norobot/norobot.php"  onclick="return false;"
+		onmouseover="window.status='Do not follow this link, or your host will be blocked from this site. This is a spider trap.'; return true;"> <img src="http://www.ai.sri.com/images/spacer.gif" alt="Do not follow this link, or your host will be blocked from this site. This is a spider trap."   width="1" height="1"  border="0"/></a><a href="/norobot.html"  onclick="return false;"
+		onmouseover="window.status='Do not follow this link, or your host will be blocked from this site. This is a spider trap.'; return true;"> <img src="http://www.ai.sri.com/images/spacer.gif" alt="Do not follow this link, or your host will be blocked from this site. This is a spider trap.A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A ASRI International.  333 Ravenswood Avenue.  Menlo Park, CA 94025-3493. SRI International is a nonprofit corporation."   width="1" height="1"  border="0"/></a></span></div>
+</div>
+<div id="indexLeft">
+<div class="image">
+<a href="/aquaint/">
+			<img  src="http://www.ai.sri.com/images/home/aquaint.jpg" alt="Aquaint" /></a><br />
+
+		<div class="imgInfo">[Aquaint]</div>
+		</div>
+<div id="news">
+<div id="newsTitle">
+News</div>
+<div id="newsDate">
+Mon&nbsp;Apr&nbsp;15,&nbsp;2019</div>
+<h2>Next AIC Seminar</h2><div class="newsItem">
+<i>Computational Discovery of Scientific Models: Guiding Search with Knowledge and Data</i>, by Pat Langley, on Thu May 16[<a class="details" href="/seminars">Read More</a>]<br />
+[<a class="details" href="/RSS/rssSeminar.xml">RSS Feed</a>]</div>
+<h2>Latest News Item</h2><div class="newsItem">
+"Richard Waldinger receives the Herbrand Award"<br />
+[<a class="details" href="/news_list">Read More</a>]</div>
+<h2>Did You Know?</h2><div class="newsItem">
+Business Week magazine called SRI International "Silicon Valley's soul"</div>
+<br />
+</div>
+</div>
+<div id="indexRight">
+<table class="index"><tr>
+<td class="section">
+BACKGROUND
+</td>
+<td class="section">
+PEOPLE
+</td></tr><tr><td> <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/about/" class="" >About the AIC</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/contact/" class="" >Contact Us</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="https://www.sri.com/careers" class="" >Join the AIC</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/visiting/" class="" >Visiting the AIC</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/search" class="" >Search the AIC site</a><br />
+</td><td> <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/people_list/Research/" class="" >Research Staff</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/people_list/Facilities/" class="" >Facilities Staff</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/people_list/Admin/" class="" >Administrative Staff</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/people_list/Visitors/" class="" >Visitors</a><br />
+</td></tr><tr>
+<td class="section">
+RESEARCH
+</td>
+<td class="section">
+ACHIEVEMENTS
+</td></tr><tr><td> <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/program_list/" class="" >Research Programs</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/project_list/" class="" >Projects</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/pub_list/" class="" >Publications</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/software_list/" class="" >Software</a><br />
+</td><td> <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/timeline/" class="" >AIC Timeline</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/video_list.php" class="" >Video Archives</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/books/" class="" >Published Books</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/news_list/" class="" >AIC News</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/shakey/" class="" >Shakey</a><br />
+</td></tr><tr>
+<td class="section">
+EVENTS
+</td>
+<td class="section">
+SRI LINKS
+</td></tr><tr><td> <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/seminars/" class="" >AIC Seminars</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="/coffee/" class="" >Richard Waldinger's Coffee</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www-speech.sri.com/seminars/" class="" >STAR Lab Seminars</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.cafescipa.org/" class="" >Caf&eacute; Scientifique Silicon Valley at SRI</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www-csli.stanford.edu/Archive/calendar/current.shtml" class="" >Stanford CSLI</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://events.stanford.edu/" class="" >Stanford Campus</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.parc.com/events/" class="" >Xerox PARC</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://events.berkeley.edu/index.php/calendar/sn/eecs.html" class="" >Berkeley EECS</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.berkeley.edu/calendar/" class="" >Berkeley Campus</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.computerhistory.org/events/index.php?section=speakerseries" class="" >Computer History Museum</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.nasa.gov/centers/ames/events/index.html" class="" >NASA Ames</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.calacademy.org/events" class="" >CA Academy of Sciences</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://online.wr.usgs.gov/calendar/" class="" >USGS</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.sciencecafesf.com/" class="" >Science Cafe</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.mitcnc.org/site/c.muIZLaMMJrE/b.4346729/k.BF41/Home.htm" class="" >MIT Club of N. CA</a><br />
+</td><td> <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.sri.com/" class="" >SRI International Home</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.sri.com/news/" class="" >SRI News &amp; Events</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.sri.com/about/" class="" >About SRI International</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.sri.com/rd/" class="" >R&amp;D @ SRI</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.sri.com/rd/hot.html" class="" >Technology @ SRI</a><br />
+ <img src="http://www.ai.sri.com/images/redarrow.gif" alt="Red Arrow"   width="6" height="12"  border="0"/>&nbsp; <a href="http://www.sri.com/jobs/" class="" >Careers @ SRI</a><br />
+</td></tr></table></div>
+<!-- Copyright/SRI Bottom -->
+<div id="bottom">
+
+<div style="float:left;padding-left:30px;">
+<img src="/images/srilogo4main.gif" alt="SRI International" /></div>
+<div style="float:left;padding-top:10px;padding-left:5px;">
+&copy;2019 SRI International 333 Ravenswood Avenue, Menlo Park, CA 94025-3493<br />
+		      SRI International is an independent, nonprofit corporation. <a href="http://www.sri.com/privacy.html">Privacy policy</a></div>
+		<!-- Footnote end --></div>
+
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-7450458-1");
+		pageTracker._trackPageview();
+		} catch(err) {}</script>
+	</body>
+</html>

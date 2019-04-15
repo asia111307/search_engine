@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kuleshov effect - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kuleshov_effect","wgTitle":"Kuleshov effect","wgCurRevisionId":867359751,"wgRevisionId":867359751,"wgArticleId":2513891,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from February 2017","Commons category link is on Wikidata","Articles containing video clips","Cinema of the Soviet Union","Film editing","Cinematic techniques","Concepts in film theory","Cognitive psychology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kuleshov_effect","wgRelevantArticleId":2513891,"wgRequestId":"XLJPKApAAEIAAGRi6oEAAAAR","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2377326","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kuleshov_effect"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Kuleshov_effect&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Kuleshov_effect&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Kuleshov_effect"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Kuleshov_effect rootpage-Kuleshov_effect skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Kuleshov effect</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The <b>Kuleshov effect</b> is a <a href="/wiki/Film_editing" title="Film editing">film editing</a> (<a href="/wiki/Soviet_montage_theory" title="Soviet montage theory">montage</a>) effect demonstrated by Soviet film-maker <a href="/wiki/Lev_Kuleshov" title="Lev Kuleshov">Lev Kuleshov</a> in the 1910s and 1920s. It is a mental phenomenon by which viewers derive more meaning from the interaction of two sequential shots than from a single shot in isolation.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Specifics"><span class="tocnumber">1</span> <span class="toctext">Specifics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Research"><span class="tocnumber">2</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Specifics">Specifics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kuleshov_effect&amp;action=edit&amp;section=1" title="Edit section: Specifics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><div id="mwe_player_0" class="PopUpMediaTransform" style="width:220px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:320px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/KuleshovEffectExample.ogv/320px--KuleshovEffectExample.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:320px;height:240px&quot; class=&quot;kskin&quot; data-durationhint=&quot;26.33179138322&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;KuleshovEffectExample.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/KuleshovEffectExample.ogv/KuleshovEffectExample.ogv.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Small VP9 (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;82336&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/e/e9/KuleshovEffectExample.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original Ogg file, 320 × 240 (164 kbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;163934&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/KuleshovEffectExample.ogv/KuleshovEffectExample.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;203664&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/KuleshovEffectExample.ogv/KuleshovEffectExample.ogv.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;160&quot; data-height=&quot;120&quot; data-bandwidth=&quot;38128&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/KuleshovEffectExample.ogv/KuleshovEffectExample.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;214&quot; data-height=&quot;160&quot; data-bandwidth=&quot;101784&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/KuleshovEffectExample.ogv/KuleshovEffectExample.ogv.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;240&quot; data-height=&quot;180&quot; data-bandwidth=&quot;62032&quot; data-framerate=&quot;25&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:KuleshovEffectExample.ogv" style="width:220px;height:165px" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/KuleshovEffectExample.ogv/220px--KuleshovEffectExample.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/e/e9/KuleshovEffectExample.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:KuleshovEffectExample.ogv" class="internal" title="Enlarge"></a></div>Example of a Kuleshov sequence, with the last shot changed</div></div></div>
+<p>Kuleshov edited a short film in which a shot of the expressionless face of Tsarist matinee idol <a href="/wiki/Ivan_Mosjoukine" title="Ivan Mosjoukine">Ivan Mosjoukine</a> was alternated with various other shots (a plate of soup, a girl in a coffin, a woman on a divan).  The film was shown to an audience who believed that the expression on Mosjoukine's face was different each time he appeared, depending on whether he was "looking at" the plate of soup, the girl in the coffin, or the woman on the divan, showing an expression of hunger, grief or desire, respectively. The footage of Mosjoukine was actually the same shot each time. <a href="/wiki/Vsevolod_Pudovkin" title="Vsevolod Pudovkin">Vsevolod Pudovkin</a> (who later claimed to have been the co-creator of the experiment) described in 1929 how the audience "raved about the acting... the heavy pensiveness of his mood over the forgotten soup, were touched and moved by the deep sorrow with which he looked on the dead child, and noted the lust with which he observed the woman. But we knew that in all three cases the face was exactly the same."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Kuleshov used the experiment to indicate the usefulness and effectiveness of film editing. The implication is that viewers brought their own emotional reactions to this sequence of images, and then moreover attributed those reactions to the actor, investing his impassive face with their own feelings. Kuleshov believed this, along with montage, had to be the basis of cinema as an independent art form.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The effect has also been studied by <a href="/wiki/Psychologist" title="Psychologist">psychologists</a>, and is well-known among modern film-makers.  <a href="/wiki/Alfred_Hitchcock" title="Alfred Hitchcock">Alfred Hitchcock</a> refers to the effect in his conversations with <a href="/wiki/Fran%C3%A7ois_Truffaut" title="François Truffaut">François Truffaut</a>, using actor <a href="/wiki/James_Stewart" title="James Stewart">James Stewart</a> as the example.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>Hitchcock, in the famous "Definition of Happiness" interview, also explains in detail many types of editing.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2017)">citation needed</span></a></i>&#93;</sup> The final form, which he calls "pure editing", is explained visually using the Kuleshov effect. In the first version of the example, Hitchcock is squinting, and the audience sees footage of a woman with a baby. The screen then returns to Hitchcock's face, now smiling. In effect, he is a kind old man. In the second example, the woman and baby are replaced with a woman in a bikini, Hitchcock explains: "What is he now? He's a dirty old man."
+</p><p>The experiment itself was created by assembling fragments of pre-existing film from the Tsarist film industry, with no new material.  Mosjoukine had been the leading romantic "star" of Tsarist cinema, and familiar to the audience.
+</p><p>Kuleshov demonstrated the necessity of considering <a href="/wiki/Montage_(filmmaking)" title="Montage (filmmaking)">montage</a> as the basic tool of cinema art.  In Kuleshov's view, the cinema consists of fragments and the assembly of those fragments, the assembly of elements which in reality are distinct. It is therefore not the content of the images in a film which is important, but their combination.  The raw materials of such an art work need not be original, but are pre-fabricated elements which can be disassembled and re-assembled by the artist into new juxtapositions.
+</p><p>The montage experiments carried out by Kuleshov in the late 1910s and early 1920s formed the theoretical basis of Soviet montage cinema, culminating in the famous films of the late 1920s by directors such as <a href="/wiki/Sergei_Eisenstein" title="Sergei Eisenstein">Sergei Eisenstein</a>, <a href="/wiki/Vsevolod_Pudovkin" title="Vsevolod Pudovkin">Vsevolod Pudovkin</a> and <a href="/wiki/Dziga_Vertov" title="Dziga Vertov">Dziga Vertov</a>, among others. These films included <i><a href="/wiki/The_Battleship_Potemkin" class="mw-redirect" title="The Battleship Potemkin">The Battleship Potemkin</a></i>, <i><a href="/wiki/October:_Ten_Days_That_Shook_the_World" title="October: Ten Days That Shook the World">October</a></i>, <i><a href="/wiki/Mother_(1926_film)" title="Mother (1926 film)">Mother</a></i>, <i><a href="/wiki/The_End_of_St._Petersburg" title="The End of St. Petersburg">The End of St. Petersburg</a></i>, and <i><a href="/wiki/The_Man_with_a_Movie_Camera" class="mw-redirect" title="The Man with a Movie Camera">The Man with a Movie Camera</a></i>.
+</p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kuleshov_effect&amp;action=edit&amp;section=2" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Kuleshov effect has only been studied by psychologists in recent years. Prince and Hensley (1992) recreated the original study design but did not find the alleged effect. The study had 137 participants but was a single-trial between-subject experiment, which is prone to noise in the data.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Mobbs et al. (2006) did a within-subject fMRI study and found an effect for negative, positive, or neutral valence. When a neutral face was shown behind a sad scene, it seemed sad, when it was shown behind a happy scene it seemed happy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> More recently, Barratt, Rédei, Innes-Ker, and van de Weijer (2016) tested 36 participants using 24 film sequences across five emotional conditions (happiness, sadness, hunger, fear, and desire) and a neutral control condition. Again, they were able to show that neutral faces were rated in accordance with the stimuli material, confirming Mobbs et al. (2006) findings.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> 
+</p><p>Thus, despite the initial problems in testing the Kuleshov effect experimentally, researchers now agree that the context in which a face is shown has a significant effect on how the face is perceived.
+</p><p>To find out whether the Kuleshov effect can also be induced auditorily, Baranowski and Hecht intercut different clips of faces with neutral scenes, featuring either happy music, sad music, or no music at all. They found that the music significantly influenced participants’ emotional judgments of facial expression.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kuleshov_effect&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Creative_geography" title="Creative geography">Creative geography</a> was another Kuleshov experiment demonstrating usefulness of montage.</li>
+<li><a href="/wiki/Uncanny_valley" title="Uncanny valley">Uncanny valley</a></li>
+<li><i><a href="/wiki/Koyaanisqatsi" title="Koyaanisqatsi">Koyaanisqatsi</a></i>  1982 film, with exceptional use of the montage technique.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kuleshov_effect&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Pudovkin, "Naturshchik vmesto aktera", in <i>Sobranie sochinenii</i>, Volume I, Moscow: 1974, p. 184.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Russel, "The Kuleshov Effect and the Death of the Auteurism", in "Forum"</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Thomas Leitch, Leland Poague (2011). <a rel="nofollow" class="external text" href="https://books.google.fr/books?id=ePMxuoC5kTYC&amp;pg=PA60&amp;lpg=PA60&amp;dq=Hitchcock+Kuleshov+principle+Truffaut&amp;source=bl&amp;ots=CIo_YBZL6L&amp;sig=ZjjJS9Z8Tqf1iSdWSoBkAakA4JY&amp;hl=fr&amp;sa=X&amp;ved=2ahUKEwi6hcjh8aXdAhUrAcAKHSuQDSQQ6AEwB3oECAEQAQ#v=onepage&amp;q=Hitchcock%20Kuleshov%20principle%20Truffaut&amp;f=false"><i>A Companion to Alfred Hitchcock</i></a>. John Wiley &amp; Sons. p.&#160;60. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-444-397314" title="Special:BookSources/978-1-444-397314">978-1-444-397314</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Companion+to+Alfred+Hitchcock&amp;rft.pages=60&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2011&amp;rft.isbn=978-1-444-397314&amp;rft.au=Thomas+Leitch%2C+Leland+Poague&amp;rft_id=https%3A%2F%2Fbooks.google.fr%2Fbooks%3Fid%3DePMxuoC5kTYC%26pg%3DPA60%26lpg%3DPA60%26dq%3DHitchcock%2BKuleshov%2Bprinciple%2BTruffaut%26source%3Dbl%26ots%3DCIo_YBZL6L%26sig%3DZjjJS9Z8Tqf1iSdWSoBkAakA4JY%26hl%3Dfr%26sa%3DX%26ved%3D2ahUKEwi6hcjh8aXdAhUrAcAKHSuQDSQQ6AEwB3oECAEQAQ%23v%3Donepage%26q%3DHitchcock%2520Kuleshov%2520principle%2520Truffaut%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKuleshov+effect" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Truffaut, Francois, <i>Hitchcock Truffaut</i>, New York: 1983, Chapter 11, p. 216.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Prince, S., &amp; Hensley, W.E. (1992). "The Kuleshov effect: Recreating the classic experiment". <i>Cinema Journal</i>, 31, 59–75.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Mobbs, D., Weiskopf, N., Lau, H., Featherstone, E., Dolan, R., &amp; Frith, C. (2006). "The Kuleshov Effect: The influence of contextual framing on emotional attributions". <i>Social Cognitive and Affective Neuroscience</i>, 1, 95–106.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Barratt, D., Rédei, A.C., Innes-Ker, A., &amp; van de Weijer, J. (2016). "Does the Kuleshov effect really exist? Revisiting a classic film experiment on facial expressions and emotional contexts". <i>Perception</i>, 45, 847–874.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Baranowski, A.M., &amp; Hecht, H. (2016). "The auditory Kuleshov effect: Multisensory integration in movie editing". <i>Perception</i>, 0(0), 1–8</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kuleshov_effect&amp;action=edit&amp;section=5" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Wallbott, H.G. (1988). "In and out of context: Influences of facial expression and context information on emotion attributions". <i>British Journal of Social Psychology</i>, 27, 357–369.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kuleshov_effect&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Kuleshov_effect" class="extiw" title="commons:Category:Kuleshov effect">Kuleshov effect</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=grCPqoFwp5k">The possible original Kuleshov Effect, segment of the Spanish documentary series "Amar el cine"</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Film_editing" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Film_Editing" title="Template:Film Editing"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Film_Editing" title="Template talk:Film Editing"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Film_Editing&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Film_editing" style="font-size:114%;margin:0 4em"><a href="/wiki/Film_editing" title="Film editing">Film editing</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concept</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Choreography" title="Choreography">Choreography</a></li>
+<li><a href="/wiki/Synchronization" title="Synchronization">Synchronization</a></li>
+<li><a href="/wiki/Interaction" title="Interaction">Interaction</a></li>
+<li><a href="/wiki/Attentional_control" title="Attentional control">Attentional control</a></li>
+<li><a href="/wiki/Master_shot" title="Master shot">Master shot</a></li>
+<li><a href="/wiki/Film_transition#Parallel_editing_cut" title="Film transition">Parallel cut</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technique</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blindfold" title="Blindfold">Blindfolding</a></li>
+<li><a href="https://en.wiktionary.org/wiki/clue" class="extiw" title="wikt:clue">Clues</a></li>
+<li><a href="/wiki/Cutaway_(filmmaking)" title="Cutaway (filmmaking)">Cutaway</a></li>
+<li><a href="/wiki/Eyeline_match" title="Eyeline match">Eyeline match</a></li>
+<li><a href="/wiki/Point-of-view_shot" title="Point-of-view shot">Points of view</a></li>
+<li><a href="/wiki/Multiple_exposure" title="Multiple exposure">Multiple exposure</a></li>
+<li><a href="/wiki/Optical_illusion" title="Optical illusion">Optical illusion</a></li>
+<li><a href="/wiki/Shuffling" title="Shuffling">Shuffling</a></li>
+<li><a href="/wiki/Split_screen_(video_production)" title="Split screen (video production)">Split screen</a></li>
+<li><a href="/wiki/Film_transition" title="Film transition">Transition</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Insertion</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dialogue" title="Dialogue">Dialogue</a></li>
+<li><a href="/wiki/Match_cut" title="Match cut">Match cut</a></li>
+<li><a href="/wiki/Long_shot" title="Long shot">Long shot</a></li>
+<li><a href="/wiki/Insert_(filmmaking)" title="Insert (filmmaking)">Insert</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Timelapsing</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jump_cut" title="Jump cut">Jump cut</a>
+<ul><li><a href="/wiki/Axial_cut" title="Axial cut">Axial cut</a></li></ul></li>
+<li><a href="/wiki/Wipe_(transition)" title="Wipe (transition)">Wipe</a></li>
+<li><a href="/wiki/Slow_motion" title="Slow motion">Slow motion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fast_cutting" title="Fast cutting">Fast cutting</a></li>
+<li><a href="/wiki/Film_transition#Invisible_cut" title="Film transition">Invisible cut</a></li>
+<li><a href="/wiki/Montage_(filmmaking)" title="Montage (filmmaking)">Montage</a></li>
+<li><a href="/wiki/Supercut" title="Supercut">Supercut</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Storytelling</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cutting_on_action" title="Cutting on action">Cut on action</a></li>
+<li><a href="/wiki/Film_transition#Contrast_cut" title="Film transition">Contrast cut</a></li>
+<li><a href="/wiki/Shot_reverse_shot" title="Shot reverse shot">Shot reverse shot</a></li>
+<li><a href="/wiki/Flashback_(narrative)" title="Flashback (narrative)">Flashback</a> / <a href="/wiki/Flashforward" title="Flashforward">Flashforward</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Action</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Smash_cut" title="Smash cut">Smash cut</a></li>
+<li><a href="/wiki/Cross-cutting" title="Cross-cutting">Cross cut</a></li>
+<li><a href="/wiki/Slow_cutting" title="Slow cutting">Slow cutting</a></li>
+<li><a href="/wiki/Walk_and_talk" title="Walk and talk">Walk and talk</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Rule</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/180-degree_rule" title="180-degree rule">180-degree rule</a></li>
+<li><a href="/wiki/30-degree_rule" title="30-degree rule">30-degree rule</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Term</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Reaction_shot" title="Reaction shot">Reaction shot</a>
+<ul><li><a class="mw-selflink selflink">Kuleshov effect</a></li></ul></li>
+<li><a href="/wiki/Establishing_shot" title="Establishing shot">Establishing shot</a></li>
+<li><a href="/wiki/Long_take" title="Long take">Long take</a></li>
+<li><a href="/wiki/Internal_rhythm" title="Internal rhythm">Internal rhythm</a></li>
+<li><a href="/wiki/External_rhythm" title="External rhythm">External rhythm</a></li>
+<li><a href="/wiki/Footage" title="Footage">Footage</a>
+<ul><li><a href="/wiki/B-roll" title="B-roll">B-roll</a></li>
+<li><a href="/wiki/Stock_footage" title="Stock footage">Stock footage</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Editing</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Continuity_editing" title="Continuity editing">Continuity editing</a></li>
+<li><a href="/wiki/Soviet_montage_theory" title="Soviet montage theory">Soviet montage theory</a></li>
+<li><a href="/wiki/Post-classical_editing" title="Post-classical editing">Post-classical editing</a></li>
+<li><a href="/wiki/In-camera_editing" title="In-camera editing">In-camera editing</a></li>
+<li><a href="/wiki/Video_editing" title="Video editing">Video editing</a>
+<ul><li><a href="/wiki/Linear_video_editing" title="Linear video editing">Linear video editing</a></li>
+<li><a href="/wiki/Non-linear_editing_system" title="Non-linear editing system">Non-linear editing system</a> (NLE)</li>
+<li><a href="/wiki/Video_editing_software" title="Video editing software">Video editing software</a></li>
+<li><a href="/wiki/Offline_editing" title="Offline editing">Offline editing</a></li>
+<li><a href="/wiki/Online_editing" title="Online editing">Online editing</a></li>
+<li><a href="/wiki/Vision_mixer" title="Vision mixer">Vision mixing</a></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20190330190218
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.184 seconds
+Real time usage: 0.297 seconds
+Preprocessor visited node count: 562/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25149/2097152 bytes
+Template argument size: 832/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6138/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  243.698      1 -total
+ 34.79%   84.779      1 Template:Reflist
+ 29.45%   71.772      1 Template:Citation_needed
+ 28.14%   68.576      1 Template:Cite_book
+ 22.58%   55.029      1 Template:Fix
+ 18.58%   45.291      1 Template:Continuity_editing
+ 16.11%   39.267      1 Template:Commons_category
+ 12.63%   30.785      2 Template:Category_handler
+  6.45%   15.722      2 Template:Navbox
+  5.09%   12.408      1 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2513891-0!canonical and timestamp 20190330190217 and revision id 867359751
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kuleshov_effect&amp;oldid=867359751">https://en.wikipedia.org/w/index.php?title=Kuleshov_effect&amp;oldid=867359751</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cinema_of_the_Soviet_Union" title="Category:Cinema of the Soviet Union">Cinema of the Soviet Union</a></li><li><a href="/wiki/Category:Film_editing" title="Category:Film editing">Film editing</a></li><li><a href="/wiki/Category:Cinematic_techniques" title="Category:Cinematic techniques">Cinematic techniques</a></li><li><a href="/wiki/Category:Concepts_in_film_theory" title="Category:Concepts in film theory">Concepts in film theory</a></li><li><a href="/wiki/Category:Cognitive_psychology" title="Category:Cognitive psychology">Cognitive psychology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2017" title="Category:Articles with unsourced statements from February 2017">Articles with unsourced statements from February 2017</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kuleshov+effect" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kuleshov+effect" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Kuleshov_effect" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Kuleshov_effect" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Kuleshov_effect">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Kuleshov_effect&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kuleshov_effect&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kuleshov_effect" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kuleshov_effect" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kuleshov_effect&amp;oldid=867359751" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kuleshov_effect&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2377326" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kuleshov_effect&amp;id=867359751" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kuleshov+effect">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Kuleshov+effect&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Kuleshov_effect&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Kuleshov_effect" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%95%D1%84%D0%B5%D0%BA%D1%82_%D0%BD%D0%B0_%D0%9A%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2" title="Ефект на Кулешов – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Efecte_Kuleshov" title="Efecte Kuleshov – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kule%C5%A1ovi_efekt" title="Kulešovi efekt – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Efecto_Kuleshov" title="Efecto Kuleshov – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kuleshov_efektua" title="Kuleshov efektua – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D9%84%D9%88%D9%87_%DA%A9%D9%88%D9%84%D8%B4%D9%88%D9%81" title="جلوه کولشوف – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Effet_Koulechov" title="Effet Koulechov – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D6%82%D5%AC%D5%A5%D5%B7%D5%B8%D5%BE%D5%AB_%D5%A7%D6%86%D6%86%D5%A5%D5%AF%D5%BF" title="Կուլեշովի էֆֆեկտ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Effetto_Kule%C5%A1ov" title="Effetto Kulešov – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%A7%D7%98_%D7%A7%D7%95%D7%9C%D7%A9%D7%95%D7%91" title="אפקט קולשוב – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Kulesov-hat%C3%A1s" title="Kulesov-hatás – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Koelesjov-effect" title="Koelesjov-effect – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%B7%E3%83%A7%E3%83%95%E5%8A%B9%E6%9E%9C" title="クレショフ効果 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Efekt_Kuleszowa" title="Efekt Kuleszowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Kuleshov" title="Kuleshov – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82_%D0%9A%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0" title="Эффект Кулешова – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Efekt_Kule%C5%A1ova" title="Efekt Kulešova – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kule%C5%A1ovin_efekti" title="Kulešovin efekti – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BA%93%E9%87%8C%E8%82%96%E5%A4%AB%E6%95%88%E5%BA%94" title="库里肖夫效应 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2377326#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 November 2018, at 05:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Kuleshov_effect&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.297","ppvisitednodes":{"value":562,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25149,"limit":2097152},"templateargumentsize":{"value":832,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6138,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  243.698      1 -total"," 34.79%   84.779      1 Template:Reflist"," 29.45%   71.772      1 Template:Citation_needed"," 28.14%   68.576      1 Template:Cite_book"," 22.58%   55.029      1 Template:Fix"," 18.58%   45.291      1 Template:Continuity_editing"," 16.11%   39.267      1 Template:Commons_category"," 12.63%   30.785      2 Template:Category_handler","  6.45%   15.722      2 Template:Navbox","  5.09%   12.408      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":3016626,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20190330190218","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

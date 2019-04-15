@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Neurophilosophy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Neurophilosophy","wgTitle":"Neurophilosophy","wgCurRevisionId":887800130,"wgRevisionId":887800130,"wgArticleId":2208074,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles that may contain original research from January 2018","All articles that may contain original research","Wikipedia articles with style issues from January 2018","All articles with style issues","Wikipedia references cleanup from May 2012","All articles needing references cleanup","Articles covered by WikiProject Wikify from May 2012","All articles covered by WikiProject Wikify","Articles with multiple maintenance issues","All articles with unsourced statements","Articles with unsourced statements from January 2018","Philosophy of mind","Philosophy of science","Analytic philosophy","Cognitive neuroscience"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Neurophilosophy","wgRelevantArticleId":2208074,"wgRequestId":"XLIC2wpAAEEAABiJkV0AAABP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1807987","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Neurophilosophy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Neurophilosophy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Neurophilosophy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Neurophilosophy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Neurophilosophy rootpage-Neurophilosophy skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Neurophilosophy</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Philosophy of neuroscience</div>
+<table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Neurophilosophy&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Neurophilosophy" title="Talk:Neurophilosophy">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-Original_research plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article  <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Neurophilosophy&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span>  <small class="date-container"><i>(<span class="date">January 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Essay-like plainlinks metadata ambox ambox-style ambox-essay-like" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is written like a <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_publisher_of_original_thought" title="Wikipedia:What Wikipedia is not">personal reflection, personal essay, or argumentative essay</a></b> that states a Wikipedia editor's personal feelings or presents an original argument about a topic.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Neurophilosophy&amp;action=edit">help improve it</a> by rewriting it in an <a href="/wiki/Wikipedia:Writing_better_articles#Information_style_and_tone" title="Wikipedia:Writing better articles">encyclopedic style</a>.</span>  <small class="date-container"><i>(<span class="date">January 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Citation_style plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>has an unclear citation style</b>.<span class="hide-when-compact"> The references used may be made clearer with a different or consistent style of <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citation</a> and <a href="/wiki/Help:Footnotes" title="Help:Footnotes">footnoting</a>.</span>  <small class="date-container"><i>(<span class="date">May 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Neurophilosophy</b> or <b>philosophy of neuroscience</b> is the interdisciplinary study of <a href="/wiki/Neuroscience" title="Neuroscience">neuroscience</a> and <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> that explores the relevance of <a href="/wiki/Neuroscientific" class="mw-redirect" title="Neuroscientific">neuroscientific</a> studies to the arguments traditionally categorized as <a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">philosophy of mind</a>. The philosophy of neuroscience attempts to clarify neuroscientific methods and results using the conceptual rigor and methods of <a href="/wiki/Philosophy_of_science" title="Philosophy of science">philosophy of science</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Specific_issues"><span class="tocnumber">1</span> <span class="toctext">Specific issues</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_indirectness_of_studies_of_mind_and_brain"><span class="tocnumber">2</span> <span class="toctext">The indirectness of studies of mind and brain</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#fMRI"><span class="tocnumber">2.1</span> <span class="toctext">fMRI</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Dissociation_in_cognitive_neuropsychology"><span class="tocnumber">2.2</span> <span class="toctext">Dissociation in cognitive neuropsychology</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Single_unit_recordings"><span class="tocnumber">2.3</span> <span class="toctext">Single unit recordings</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Computational_neuroscience"><span class="tocnumber">2.4</span> <span class="toctext">Computational neuroscience</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Computation_and_representation_in_the_brain"><span class="tocnumber">3</span> <span class="toctext">Computation and representation in the brain</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Historical_overview"><span class="tocnumber">3.1</span> <span class="toctext">Historical overview</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Representation"><span class="tocnumber">3.2</span> <span class="toctext">Representation</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Views_on_computation"><span class="tocnumber">3.3</span> <span class="toctext">Views on computation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#List_of_neurophilosophers"><span class="tocnumber">4</span> <span class="toctext">List of neurophilosophers</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Specific_issues">Specific issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=1" title="Edit section: Specific issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Below is a list of specific issues important to philosophy of neuroscience:
+</p>
+<ul><li>"The indirectness of studies of mind and brain"<sup id="cite_ref-FOOTNOTEBechtelMandikMundale200115_1-0" class="reference"><a href="#cite_note-FOOTNOTEBechtelMandikMundale200115-1">&#91;1&#93;</a></sup></li>
+<li>"Computational or representational analysis of brain processing"<sup id="cite_ref-FOOTNOTEBechtelMandikMundale200115–16,_18–19_2-0" class="reference"><a href="#cite_note-FOOTNOTEBechtelMandikMundale200115–16,_18–19-2">&#91;2&#93;</a></sup></li>
+<li>"Relations between psychological and neuroscientific inquiries"<sup id="cite_ref-FOOTNOTEBechtelMandikMundale200116_3-0" class="reference"><a href="#cite_note-FOOTNOTEBechtelMandikMundale200116-3">&#91;3&#93;</a></sup></li>
+<li><a href="/wiki/Modularity_of_mind" title="Modularity of mind">Modularity of mind</a><sup id="cite_ref-FOOTNOTEBechtelMandikMundale200115–16,_18–19_2-1" class="reference"><a href="#cite_note-FOOTNOTEBechtelMandikMundale200115–16,_18–19-2">&#91;2&#93;</a></sup></li>
+<li>What constitutes adequate explanation in neuroscience?<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li>"Location of cognitive function"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="The_indirectness_of_studies_of_mind_and_brain">The indirectness of studies of mind and brain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=2" title="Edit section: The indirectness of studies of mind and brain">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many of the methods and techniques central to neuroscientific discovery rely on assumptions that can limit the interpretation of the data. Philosophers of neuroscience have discussed such assumptions in the use of <a href="/wiki/Functional_magnetic_resonance_imaging" title="Functional magnetic resonance imaging">functional magnetic resonance imaging</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> dissociation in cognitive <a href="/wiki/Neuropsychology" title="Neuropsychology">neuropsychology</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> <a href="/wiki/Single_unit_recording" class="mw-redirect" title="Single unit recording">single unit recording</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> and <a href="/wiki/Computational_neuroscience" title="Computational neuroscience">computational neuroscience</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Following are descriptions of many of the current controversies and debates about the methods employed in neuroscience.
+</p>
+<h3><span class="mw-headline" id="fMRI">fMRI</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=3" title="Edit section: fMRI">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many fMRI studies rely heavily on the assumption of "localization of function"<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> (same as <a href="/wiki/Functional_specialization" class="mw-redirect" title="Functional specialization">functional specialization</a>). Localization of function means that many cognitive functions can be localized to specific brain regions. A good example of functional localization comes from studies of the motor cortex.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> There seem to be different groups of cells in the motor cortex responsible for controlling different groups of muscles. Many philosophers of neuroscience criticize fMRI for relying too heavily on this assumption. Michael Anderson points out that subtraction method fMRI misses a lot of brain information that is important to the cognitive processes.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Subtraction fMRI only shows the differences between the task activation and the control activation, but many of the brain areas activated in the control are obviously important for the task as well.
+</p><p>Some philosophers entirely reject any notion of localization of function and thus believe fMRI studies to be profoundly misguided.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> These philosophers maintain that brain processing acts holistically, that large sections of the brain are involved in processing most cognitive tasks (see <a href="/wiki/Holism" title="Holism">holism</a> in neurology and the modularity section below). <span id="radio_repair_man"></span>One way to understand their objection to the idea of localization of function is the radio repair man thought experiment.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> In this thought experiment, a radio repair man opens up a radio and rips out a tube. The radio begins whistling loudly and the radio repair man declares that he must have ripped out the anti-whistling tube. There is no anti-whistling tube in the radio and the radio repair man has confounded function with effect. This criticism was originally targeted at the logic used by neuropsychological brain lesion experiments, but the criticism is still applicable to neuroimaging. These considerations are similar to Van Orden's and Paap's criticism of circularity in neuroimaging logic.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> According to them, neuroimagers assume that their theory of cognitive component parcellation is correct and that these components divide cleanly into feed-forward modules. These assumptions are necessary to justify their inference of brain localization. The logic is circular if the researcher then use the appearance of brain region activation as proof of the correctness of their cognitive theories.
+</p><p>A different problematic methodological assumption within fMRI research is the use of reverse inference<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> A reverse inference is when the activation of a brain region is used to infer the presence of a given cognitive process. Poldrack points out that the strength of this inference depends critically on the likelihood that a given task employs a given cognitive process and the likelihood of that pattern of brain activation given that cognitive process. In other words, the strength of reverse inference is based upon the selectivity of the task used as well as the selectivity of the brain region activation. A 2011 article published in the NY times has been heavily criticized for misusing reverse inference.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> In the study, participants were shown pictures of their iPhones and the researchers measured activation of the insula. The researches took insula activation as evidence of feelings of love and concluded that people loved their iPhones. Critics were quick to point out that the insula is not a very selective piece of cortex, and therefore not amenable to reverse inference.
+</p><p>The Neuropsychologist <a href="/wiki/Max_Coltheart" title="Max Coltheart">Max Coltheart</a> took the problems with reverse inference a step further and challenged neuroimagers to give one instance in which neuroimaging had informed psychological theory<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Coltheart takes the burden of proof to be an instance where the brain imaging data is consistent with one theory but inconsistent with another theory. Roskies maintains that Coltheart's ultra cognitive position makes his challenge unwinnable.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> Since Coltheart maintains that the implementation of a cognitive state has no bearing on the function of that cognitive state, then it is impossible to find neuroimaging data that will be able to comment on psychological theories in the way Coltheart demands. Neuroimaging data will always be relegated to the lower level of implementation and be unable to selectively determine one or another cognitive theory. In a 2006 article, Richard Henson suggests that forward inference can be used to infer dissociation of function at the psychological level.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> He suggests that these kinds of inferences can be made when there is crossing activations between two task types in two brain regions and there is no change in activation in a mutual control region.
+</p><p>One final assumption worth mentioning is the assumption of pure insertion in fMRI.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The assumption of pure insertion is the assumption that a single cognitive process can be inserted into another set of cognitive processes without affecting the functioning of the rest. For example, if you wanted to find the reading comprehension area of the brain, you might scan participants while they were presented with a word and while they were presented with a non-word (e.g. "Floob"). If you infer that the resulting difference in brain pattern represents the regions of the brain involved in reading comprehension, you have assumed that these changes are not reflective of changes in task difficulty or differential recruitment between tasks. The term pure insertion was coined by Donders as a criticism of reaction time methods.
+</p><p>Recently, researchers have begun using a new functional imaging technique called resting state functional connectivity MRI.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> Subjects' brains are scanned while the subject sits idly in the scanner. By looking at the natural fluctuations in the bold pattern while the subject is at rest, the researchers can see which brain regions co-vary in activation together. They can use the patterns of covariance to construct maps of functionally linked brain areas. The name "functional connectivity" is somewhat misleading since the data only indicates co-variation. Still, this is a powerful method for studying large networks throughout the brain. There are a couple of important methodological issues that need to be addressed. Firstly, there are many different possible brain mappings that could be used to define the brain regions for the network. The results could vary significantly depending on the brain region chosen. Secondly, what mathematical techniques are best about to characterize these brain regions?
+</p><p>The brain regions of interest are somewhat constrained by the size of the voxels. Rs-fcMRI uses voxels that are few millimeters cubed so the brain regions will have to be defined on a larger scale. Two of the statistical methods that are commonly applied to network analysis can work on the single voxel spatial scale, but graph theory methods are extremely sensitive to the way nodes are defined. Brains regions can be divided according to their cellular architectural, according to their connectivity, or according to physiological measures. Alternatively, you could take a theory neutral approach and randomly divide the cortex into partitions of the size of your choosing. As mentioned earlier, there are several approaches to network analysis once the your brain regions have been defined. Seed based analysis begins with an a priori defined seed region and finds all of the regions that are functionally connected to that region. Wig et al. caution that the resulting network structure will not give any information concerning the inter-connectivity of the identified regions or the relations of those regions to regions other than the seed region. Another approach is to use independent component analysis to create spatio-temporal component maps and the components are sorted by components that carry information of interest and those that are caused by noise. Wigs et al. once again warns that inference of functional brain region communities is difficult under ICA. ICA also has the issue of imposing orthogonality on the data.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> Graph theory uses a matrix to characterize covariance between regions which is then transformed into a network map. The problem with graph theory analysis is that network mapping is heavily influenced by a priori brain region and connectivity (nodes and edges), thus the researcher is at risk for cherry picking regions and connections according to their own theories. However, graph theory analysis is extremely valuable since it is the only method that gives pair-wise relationships between nodes. ICA has the added advantage of being a fairly principled method. It seems that using both methods will be important in uncovering the network connectivity of the brain. Mumford et al. hoped to avoid these issues and use a principled approach that could determine pair-wise relationships using a statistical technique adopted from analysis of gene co-expression networks.
+</p>
+<h3><span class="mw-headline" id="Dissociation_in_cognitive_neuropsychology">Dissociation in cognitive neuropsychology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=4" title="Edit section: Dissociation in cognitive neuropsychology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cognitive Neuropsychology studies brain damaged patients and uses the patterns of selective impairment in order to make inferences on the underlying cognitive structure. <a href="/wiki/Dissociation_(neuropsychology)" title="Dissociation (neuropsychology)">Dissociation</a> between cognitive functions is taken to be evidence that these functions are independent. Theorists have identified several key assumptions that are needed to justify these inferences:<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+1) <i>Functional Modularity</i>- the mind is organized into functionally separate cognitive modules.
+2). <i>Anatomical Modularity</i>- the brain is organized into functionally separate modules. This assumption is very similar to the assumption of functional localization. These assumptions differ from the assumption of functional modularity, because it is possible to have separable cognitive modules that are implemented by diffuse patterns of brain activation.
+3)<i>Universality</i>- The basic organization of functional and anatomical modularity is the same for all normal humans. This assumption is needed if we are to make any claim about functional organization based on dissociation that extrapolates from the instance of a case study to the population.
+4) <i>Transparency</i> / <i>Subtractivity</i>- the mind does not undergo substantial reorganization following brain damage. It is possible to remove one functional module without significantly altering the overall structure of the system. This assumption is necessary in order to justify using brain damaged patients in order to make inferences about the cognitive architecture of healthy people.
+</p><p>There are three principal types of evidence in cognitive neuropsychology: association, single dissociation and double dissociation.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> Association inferences observe that certain deficits are likely to co-occur. For example, there are many cases who have deficits in both abstract and concrete word comprehension following brain damage. Association studies are considered the weakest form of evidence, because the results could be accounted for by damage to neighboring brain regions and not damage to a single cognitive system.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> Single Dissociation inferences observe that one cognitive faculty can be spared while another can be damaged following brain damage. This pattern indicates that a) the two tasks employ different cognitive systems b) the two tasks occupy the same system and the damaged task is downstream from the spared task or c) that the spared task requires fewer cognitive resources than the damaged task. The "gold standard" for cognitive neuropsychology is the double dissociation. Double dissociation occurs when brain damage impairs task A in Patient1 but spares task B and brain damage spares task A in Patient 2 but damages task B. It is assumed that one instance of double dissociation is sufficient proof to infer separate cognitive modules in the performance of the tasks.
+</p><p>Many theorists criticize cognitive neuropsychology for its dependence on double dissociations. In one widely cited study, Joula and Plunkett used a model connectionist system to demonstrate that double dissociation behavioral patterns can occur through random lesions of a single module.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> They created a multilayer connectionist system trained to pronounce words. They repeatedly simulated random destruction of nodes and connections in the system and plotted the resulting performance on a scatter plot. The results showed deficits in irregular noun pronunciation with spared regular verb pronunciation in some cases and deficits in regular verb pronunciation with spared irregular noun pronunciation. These results suggest that a single instance of double dissociation is insufficient to justify inference to multiple systems.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p><p>Charter offers a theoretical case in which double dissociation logic can be faulty.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> If two tasks, task A and task B, use almost all of the same systems but differ by one mutually exclusive module apiece, then the selective lesioning of those two modules would seem to indicate that A and B use different systems. Charter uses the example of someone who is allergic to peanuts but not shrimp and someone who is allergic to shrimp and not peanuts. He argues that double dissociation logic leads one to infer that peanuts and shrimp are digested by different systems. John Dunn offers another objection to double dissociation.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> He claims that it is easy to demonstrate the existence of a true deficit but difficult to show that another function is truly spared. As more data is accumulated, the value of your results will converge on an effect size of zero, but there will always be a positive value greater than zero that has more statistical power than zero. Therefore, it is impossible to be fully confident that a given double dissociation actually exists.
+</p><p>On a different note, Alphonso Caramazza has given a principled reason for rejecting the use of group studies in cognitive neuropsychology.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> Studies of brain damaged patients can either take the form of a single case study, in which an individual's behavior is characterized and used as evidence, or group studies, in which a group of patients displaying the same deficit have their behavior characterized and averaged. In order to justify grouping a set of patient data together, the researcher must know that the group is homogenous, that their behavior is equivalent in every theoretically meaningful way. In brain damaged patients, this can only be accomplished <i><a href="/wiki/Empirical_evidence" title="Empirical evidence">a posteriori</a></i> by analyzing the behavior patterns of all the individuals in the group. Thus according to Caramazza, any group study is either the equivalent of a set of single case studies or is theoretically unjustified. Newcombe and Marshall pointed out that there are some cases (they use Geschwind's syndrome as an example) and that group studies might still serve as a useful heuristic in cognitive neuropsychological studies.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Single_unit_recordings">Single unit recordings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=5" title="Edit section: Single unit recordings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is commonly understood in neuroscience that information is encoded in the brain by the firing patterns of neurons.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> Many of the philosophical questions surrounding the neural code are related to questions about representation and computation that are discussed below. There are other methodological questions including whether neurons represent information through an average firing rate or whether there is information represented by the temporal dynamics. There are similar questions about whether neurons represent information individually or as a population.
+</p>
+<h3><span class="mw-headline" id="Computational_neuroscience">Computational neuroscience</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=6" title="Edit section: Computational neuroscience">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many of the philosophical controversies surrounding computational neuroscience involve the role of simulation and modeling as explanation. Carl Craver has been especially vocal about such interpretations.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> Jones and Love wrote an especially critical article targeted at Bayesian behavioral modeling that did not constrain the modeling parameters by psychological or neurological considerations<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+Eric Winsberg has written about the role of computer modeling and simulation in science generally, but his characterization is applicable to computational neuroscience.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Computation_and_representation_in_the_brain">Computation and representation in the brain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=7" title="Edit section: Computation and representation in the brain">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Computational_theory_of_mind" title="Computational theory of mind">computational theory of mind</a> has been widespread in neuroscience since the cognitive revolution in the 1960s. This section will begin with a historical overview of computational neuroscience and then discuss various competing theories and controversies within the field.
+</p>
+<h3><span class="mw-headline" id="Historical_overview">Historical overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=8" title="Edit section: Historical overview">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Computational neuroscience began in the 1930s and 1940s with two groups of researchers.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2018)">citation needed</span></a></i>&#93;</sup> The first group consisted of <a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>, <a href="/wiki/Alonzo_Church" title="Alonzo Church">Alonzo Church</a> and <a href="/wiki/John_von_Neumann" title="John von Neumann">John von Neumann</a>, who were working to develop computing machines and the mathematical underpinnings of <a href="/wiki/Computer_science" title="Computer science">computer science</a>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> This work culminated in the theoretical development of so-called Turing machines and the <a href="/wiki/Church%E2%80%93Turing_thesis" title="Church–Turing thesis">Church–Turing thesis</a>, which formalized the mathematics underlying computability theory. The second group consisted of Warren McCulloch and Walter Pitts who were working to develop the first artificial neural networks. McCulloch and Pitts were the first to hypothesize that neurons could be used to implement a logical calculus that could explain cognition. They used their toy neurons to develop logic gates that could make computations.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> However these developments failed to take hold in the psychological sciences and neuroscience until the mid-1950s and 1960s.
+Behaviorism had dominated the psychology until the 1950s when new developments in a variety of fields overturned behaviorist theory in favor of a cognitive theory. From the beginning of the cognitive revolution, computational theory played a major role in theoretical developments. Minsky and McCarthy's work in artificial intelligence, Newell and Simon's computer simulations, and Noam Chomsky's importation of information theory into linguistics were all heavily reliant on computational assumptions.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup> By the early 1960s, Hilary Putnam was arguing in favor of machine functionalism in which the brain instantiated Turing machines. By this point computational theories were firmly fixed in psychology and neuroscience.
+By the mid-1980s, a group of researchers began using multilayer feed-forward analog neural networks that could be trained to perform a variety of tasks. The work by researchers like Sejnowski, Rosenberg, Rumelhart, and McClelland were labeled as connectionism, and the discipline has continued since then.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> The connectionist mindset was embraced by Paul and Patricia Churchland who then developed their "state space semantics" using concepts from connectionist theory. Connectionism was also condemned by researchers such as Fodor, Pylyshyn, and Pinker. The tension between the connectionists and the classicists is still being debated today.
+</p>
+<h3><span class="mw-headline" id="Representation">Representation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=9" title="Edit section: Representation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One of the reasons that computational theories are appealing is that computers have the ability to manipulate representations to give meaningful output. Digital computers use strings of 1s and 0s in order to represent the content such as this Wikipedia page. Most cognitive scientists posit that our brains use some form of representational code that is carried in the firing patterns of neurons. Computational accounts seem to offer an easy way of explaining how our brains carry and manipulate the perceptions, thoughts, feelings, and actions that make up our everyday experience.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup> While most theorists maintain that representation is an important part of cognition, the exact nature of that representation is highly debated. The two main arguments come from advocates of symbolic representations and advocates of associationist representations.
+</p><p>Symbolic representational accounts have been famously championed by Fodor and Pinker. Symbolic representation means that the objects are represented by symbols and are processed through rule governed manipulations that are sensation to the constitutive structure. The fact that symbolic representation is sensitive to the structure of the representations is a major part of its appeal. Fodor proposed the Language of Thought Hypothesis in which mental representations manipulated in the same way that language is syntactically manipulated in order to produce thought. According to Fodor, the language of thought hypothesis explains the systematicity and productivity seen in both language and thought.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> 
+</p><p>Associativist representations are most often described with connectionist systems. In connectionist systems, representations are distributed across all the nodes and connection weights of the system and thus are said to be sub symbolic.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup> It is worth noting that a connectionist system is capable of implementing a symbolic system. There are several important aspects of neural nets that suggest that distributed parallel processing provides a better basis for cognitive functions than symbolic processing. Firstly, the inspiration for these systems came from the brain itself indicating biological relevance. Secondly, these systems are capable of storing content addressable memory, which is far more efficient than memory searches in symbolic systems. Thirdly, neural nets are resilient to damage while even minor damage can disable a symbolic system. Lastly, soft constraints and generalization when processing novel stimuli allow nets to behave more flexibly than symbolic systems.
+</p><p>The Churchlands described representation in a connectionist system in terms of state space. The content of the system is represented by an n-dimensional vector where the n= the number of nodes in the system and the direction of the vector is determined by the activation pattern of the nodes. Fodor rejected this method of representation on the grounds that two different connectionist systems could not have the same content.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup> Further mathematical analysis of connectionist system relieved that connectionist systems that could contain similar content could be mapped graphically to reveal clusters of nodes that were important to representing the content.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup> Unfortunately for the Churchlands, state space vector comparison was not amenable to this type of analysis. Recently, Nicholas Shea has offered his own account for content within connectionist systems that employs the concepts developed through cluster analysis.
+</p>
+<h3><span class="mw-headline" id="Views_on_computation">Views on computation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=10" title="Edit section: Views on computation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Computational neuroscience is committed to the position that the brain is some sort of computer, but what does it mean to be a computer? The definition of a computation must be narrow enough so that we limit the number of objects that can be called computers. For example, it might seem problematic to have a definition wide enough to allow stomachs and weather systems to be involved in computations. However, it is also necessary to have a definition broad enough to allow all of the wide varieties of computational systems to compute. For example, if the definition of computation is limited to syntactic manipulation of symbolic representations, then most connectionist systems would not be able to compute.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup> Rick Grush distinguishes between computation as a tool for simulation and computation as a theoretical stance in cognitive neuroscience.<sup id="cite_ref-Grush_49-0" class="reference"><a href="#cite_note-Grush-49">&#91;49&#93;</a></sup> For the former, anything that can be computationally modeled counts as computing. In the latter case, the brain is a computing function that is distinct from systems like fluid dynamic systems and the planetary orbits in this regard. The challenge for any computational definition is to keep the two senses distinct.
+</p><p>Alternatively, some theorists choose to accept a narrow or wide definition for theoretical reasons. <a href="/wiki/Pancomputationalism" class="mw-redirect" title="Pancomputationalism">Pancomputationalism</a> is the position that everything can be said to compute. This view has been criticized by <a href="/wiki/Gualtiero_Piccinini" title="Gualtiero Piccinini">Piccinini</a> on the grounds that such a definition makes computation trivial to the point where it is robbed of its explanatory value.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</p><p>The simplest definition of computations is that a system can be said to be computing when a computational description can be mapped onto the physical description. This is an extremely broad definition of computation and it ends up endorsing a form of pancomputationalism. Putnam and Searle, who are often credited with this view, maintain that computation is observer-related. In other words, if you want to view a system as computing then you can say that it is computing. Piccinini points out that, in this view, not only is everything computing, but also everything is computing in an indefinite number of ways.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup> Since it is possible to apply an indefinite number of computational descriptions to a given system, the system ends up computing an indefinite number of tasks.
+</p><p>The most common view of computation is the semantic account of computation. Semantic approaches use a similar notion of computation as the mapping approaches with the added constraint that the system must manipulate representations with semantic content. Note from the earlier discussion of representation that both the Churchlands' connectionist systems and Fodor's symbolic systems use this notion of computation. In fact, Fodor is famously credited as saying "No computation without representation".<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup> Computational states can be individuated by an externalized appeal to content in a broad sense (i.e. the object in the external world) or by internalist appeal to the narrow sense content (content defined by the properties of the system).<sup id="cite_ref-bare_url_53-0" class="reference"><a href="#cite_note-bare_url-53">&#91;53&#93;</a></sup> In order to fix the content of the representation, it is often necessary to appeal to the information contained within the system.
+Grush provides a criticism of the semantic account.<sup id="cite_ref-Grush_49-1" class="reference"><a href="#cite_note-Grush-49">&#91;49&#93;</a></sup> He points out that appeal to the informational content of a system to demonstrate representation by the system. He uses his coffee cup as an example of a system that contains information, such as the heat conductance of the coffee cup and the time since the coffee was poured, but is too mundane to compute in any robust sense. Semantic computationalists try to escape this criticism by appealing to the evolutionary history of system. This is called the biosemantic account. Grush uses the example of his feet, saying that by this account his feet would not be computing the amount of food he had eaten because their structure had not been evolutionarily selected for that purpose. Grush replies to the appeal to biosemantics with a thought experiment. Imagine that lightning strikes a swamp somewhere and creates an exact copy of you. According to the biosemantic account, this swamp-you would be incapable of computation because there is no evolutionary history with which to justify assigning representational content. The idea that for two physically identical structures one can be said to be computing while the other is not should be disturbing to any physicalist.
+</p><p>There are also syntactic or structural accounts for computation. These accounts do not need to rely on representation. However, it is possible to use both structure and representation as constrains on computational mapping. Shagrir identifies several philosophers of neuroscience who espouse structural accounts. According to him, Fodor and Pylyshyn require some sort of syntactic constraint on their theory of computation. This is consistent with their rejection of connectionist systems on the grounds of systematicity. He also identifies Piccinini as a structuralist quoting his 2008 paper: "the generation of output strings of digits from input strings of digits in accordance with a general rule that depends on the properties of the strings and (possibly) on the internal state of the system".<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup> Though Piccinini undoubtedly espouses structuralist views in that paper, he claims that mechanistic accounts of computation avoid reference to either syntax or representation.<sup id="cite_ref-bare_url_53-1" class="reference"><a href="#cite_note-bare_url-53">&#91;53&#93;</a></sup> It is possible that Piccinini thinks that there are differences between syntactic and structural accounts of computation that Shagrir does not respect.
+</p><p>In his view of mechanistic computation, Piccinini asserts that functional mechanisms process vehicles in a manner sensitive to the differences between different portions of the vehicle, and thus can be said to generically compute. He claims that these vehicles are medium-independent, meaning that the mapping function will be the same regardless of the physical implementation. Computing systems can be differentiated based upon the vehicle structure and the mechanistic perspective can account for errors in computation.
+</p><p>Dynamical systems theory presents itself as an alternative to computational explanations of cognition. These theories are staunchly anti-computational and anti-representational. Dynamical systems are defined as systems that change over time in accordance with a mathematical equation. Dynamical systems theory claims that human cognition is a dynamical model in the same sense computationalists claim that the human mind is a computer.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup> A common objection leveled at dynamical systems theory is that dynamical systems are computable and therefore a subset of computationalism. Van Gelder is quick to point out that there is a big difference between being a computer and being computable. Making the definition of computing wide enough to incorporate dynamical models would effectively embrace pancomputationalism.
+</p>
+<h2><span class="mw-headline" id="List_of_neurophilosophers">List of neurophilosophers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=11" title="Edit section: List of neurophilosophers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/William_Bechtel" title="William Bechtel">William Bechtel</a></li>
+<li><a href="/wiki/Patricia_Churchland" title="Patricia Churchland">Patricia Churchland</a></li>
+<li><a href="/wiki/Paul_Churchland" title="Paul Churchland">Paul Churchland</a></li>
+<li><a href="/wiki/Andy_Clark" title="Andy Clark">Andy Clark</a></li>
+<li><a href="/wiki/Francis_Crick" title="Francis Crick">Francis Crick</a></li>
+<li><a href="/wiki/Daniel_Dennett" title="Daniel Dennett">Daniel Dennett</a></li>
+<li><a href="/wiki/William_Hirstein" title="William Hirstein">William Hirstein</a></li>
+<li><a href="/wiki/Christof_Koch" title="Christof Koch">Christof Koch</a></li>
+<li><a href="/wiki/Humberto_Maturana" title="Humberto Maturana">Humberto Maturana</a></li>
+<li><a href="/wiki/Thomas_Metzinger" title="Thomas Metzinger">Thomas Metzinger</a></li>
+<li><a href="/wiki/Jesse_Prinz" title="Jesse Prinz">Jesse Prinz</a></li>
+<li><a href="/wiki/Heidi_Ravven" title="Heidi Ravven">Heidi Ravven</a></li>
+<li><a href="/wiki/Torsten_de_Winkel" title="Torsten de Winkel">Torsten de Winkel</a></li>
+<li><a href="/wiki/Francisco_Varela" title="Francisco Varela">Francisco Varela</a></li>
+<li><a href="/wiki/Nayef_Al-Rodhan" title="Nayef Al-Rodhan">Nayef Al-Rodhan</a></li>
+<li><a href="/wiki/Kathleen_Akins" title="Kathleen Akins">Kathleen Akins</a></li>
+<li><a href="/w/index.php?title=Georg_Northoff&amp;action=edit&amp;redlink=1" class="new" title="Georg Northoff (page does not exist)">Georg Northoff</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive neuroscience</a></li>
+<li><a href="/wiki/Eliminative_materialism" title="Eliminative materialism">Eliminative materialism</a></li>
+<li><a href="/wiki/Epiphenomenalism" title="Epiphenomenalism">Epiphenomenalism</a></li>
+<li><a href="/wiki/Functionalism_(philosophy_of_mind)" title="Functionalism (philosophy of mind)">Functionalism</a></li>
+<li><a href="/wiki/Multiple_realizability" title="Multiple realizability">Multiple realisability</a></li>
+<li><a href="/wiki/Neuroethics" title="Neuroethics">Neuroethics</a></li>
+<li><a href="/wiki/Neurophenomenology" title="Neurophenomenology">Neurophenomenology</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Philosophy_of_biology" title="Philosophy of biology">Philosophy of biology</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Philosophy of psychology</a></li>
+<li><a href="/wiki/Reductionism" title="Reductionism">Reduction</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FOOTNOTEBechtelMandikMundale200115-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBechtelMandikMundale200115_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBechtelMandikMundale2001">Bechtel, Mandik &amp; Mundale 2001</a>, p.&#160;15.</span>
+</li>
+<li id="cite_note-FOOTNOTEBechtelMandikMundale200115–16,_18–19-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEBechtelMandikMundale200115–16,_18–19_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEBechtelMandikMundale200115–16,_18–19_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBechtelMandikMundale2001">Bechtel, Mandik &amp; Mundale 2001</a>, pp.&#160;15–16, 18–19.</span>
+</li>
+<li id="cite_note-FOOTNOTEBechtelMandikMundale200116-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBechtelMandikMundale200116_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBechtelMandikMundale2001">Bechtel, Mandik &amp; Mundale 2001</a>, p.&#160;16.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Craver, "Explaining the Brain: Mechanisms and Mosaic Unity of Neuroscience" 2007, Oxford University Press, citation: preface vii</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Bickle, John, Mandik, Peter and Landreth, Anthony, "The Philosophy of Neuroscience", The Stanford Encyclopedia of Philosophy (Summer 2010 Edition), Edward N. Zalta (ed.), URL = &lt;<a rel="nofollow" class="external free" href="http://plato.stanford.edu/archives/sum2010/entries/neuroscience/">http://plato.stanford.edu/archives/sum2010/entries/neuroscience/</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Poldrack(2010)"Subtraction and Beyond" in Hanson and Bunzl, Human Brain Mapping. pp. 147–160</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Klein C. (2010) "Philosophical Issues in Neuroimaging" Philosophy Compass 5(2) pp. 186–198</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Dunn (2003) "The Elusive Dissociation" cortex 39 no. 1 pp. 21–37</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Dunn and Kirsner. 2003. What can we infer from double dissociations?</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">deCharms and Zandor (2000) "Neural Representation and the temporal code" Annual Review of Neuroscience 23: pp. 613–47</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Winsberg (2003)"Simulated Experiments: a Methodology for the Virtual World" Philosophy of Science.vol 70 no 1 105–125</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Huettel, Song and McCarthy <i>Functional Magnetic Resonance Imaging</i> 2009 Sinauer Associates pp. 1</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Passingham, R. E. Stephan, K. E. Kotter, R."The anatomical basis of functional localization in the cortex"Nature Reviews Neuroscience. 2002, VOL 3; PART 8, pages 606–616</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Anderson.(2007) "The Massive Redeployment Hypothesis and Functional Topography of the Brain" Philosophical Psychology Vol20 no 2 pp.144–149</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">The Massive Redeployment Hypothesis and Functional Topography of the Brain" Philosophical Psychology Vol20 no 2 pp.149–152</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Bunzel, Hanson, and Poldrack "An Exchange about Localization of Function" Human Brain Mapping. pp.50</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">VanOrden, G and Paap, K "Functional Neuroimaging fails to discover Pieces of the Mind" Philosophy of science. 64 pp. S85-S94</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Poldrack (2006)"Can Cognitive Processes be inferred from Neuroimaging Data"Trends in Cognitive Sciences. vol 10 no 2</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Hayden, B "Do you Really love Your iPhone that Way" <a rel="nofollow" class="external free" href="http://www.psychologytoday.com/blog/the-decision-tree/201110/do-you-really-love-your-iphone-way">http://www.psychologytoday.com/blog/the-decision-tree/201110/do-you-really-love-your-iphone-way</a></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Coltheart, M(2006b), "What Has Functional Neuroimaging Told Us about the Mind (So Far)?", Cortex 42: 323–331.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Rooskies, A. (2009)"Brain-Mind and Structure-Function Relations: A methodological Response to Coltheart" Philosophy of Science. vol 76</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Henson, R (2006)"Forward Inference Using Functional Neuroimaging: Dissociations vs Associations" Trends in Cognitive Sciences vol 10 no 2</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Poldrack "Subtraction and Beyond" in Hanson and Bunzl Human Brain Mapping pp. 147–160</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Wig, Schlaggar, and Peterson (2011) "Concepts and Principals in the Analysis of Brain Networks" Annals of the New York Academy of Sciences 1224</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Mumford et al (2010) "Detecting network modules in fMRI time series: A weighted network analysis approach" Neuroimage. 52</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Coltheart, M "Assumptions and Methods in Cognitive Neuropsychology" in The Handbook of Cognitive Neuropsychology. 2001</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Patterson, K and Plaut, D (2009) "Shallow Droughts Intoxicate the Brain: Lessons from Cognitive Science for Cognitive Neuropsychology"</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Davies, M (2010) "Double Dissociation: Understanding its Role in Cognitive Neuropsychology" Mind &amp; Language vol 25 no 5 pp500-540</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Joula and Plunkett (1998)"Why Double Dissociations Don't Mean Much" Proceedings of the Cognitive Science Society</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Keren, G and Schuly (2003) "Two is not Always Better than One: a Critical Evaluation of Two System Theories" Perspectives on Psychological Science Vol 4 no 6</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Charter, N (2003)"How Much Can We Learn From Double Dissociations" Cortex 39 pp.176–179</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Dunn, J (2003) "The elusive Dissociation" Cortex 39 no 1 21–37</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Caramazza, A (1986) "On Drawing Inferences about the Structure of Normal Cognitive Systems From the Analysis of Patterns of Impaired Performance: the Case for Single Case Studies"</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Newcombe and Marshall (1988)"Idealization Meets Psychometrics. The case for the Right Groups and the Right Individuals" Human Cognitive Neuropsychology edited by Ellis and Young</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">deCharms and Zandor (2000) "Neural Representations and the Cortical Code" Annual Review of Neuroscience 23:613–647</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Craver, Carl Explaining the Brain. Oxford University Press New York, New York. 2007</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Jones and Love (2011) "Bayesian Fundemantalism or Enlightenment? on the explanatory status and theoretical contribution of Bayesian models of cognition" Brain and Behavioral Sciences vol 34 no 4</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Winberg, E (2003)"Simulated Experiments: Methodology for a Virtual World" Philosophy of Science.vol 70 no 1</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Horst, Steven, "The Computational Theory of Mind", The Stanford Encyclopedia of Philosophy (Spring 2011 Edition), Edward N. Zalta (ed.), URL = <a rel="nofollow" class="external free" href="http://plato.stanford.edu/archives/spr2011/entries/computational-mind/">http://plato.stanford.edu/archives/spr2011/entries/computational-mind/</a></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Piccini, G (2009) "Computationalism in the Philosophy of Mind" Philosophical Compass vol 4</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Miller, G (2003) "The Cognitive Revolution: a Historical Perspective" Trends in Cognitive Sciences. vol 7 no 3</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Garson, James, "Connectionism", The Stanford Encyclopedia of Philosophy (Winter 2010 Edition), Edward N. Zalta (ed.), URL = <a rel="nofollow" class="external free" href="http://plato.stanford.edu/archives/win2010/entries/connectionism/">http://plato.stanford.edu/archives/win2010/entries/connectionism/</a></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">Pitt, David, "Mental Representation", The Stanford Encyclopedia of Philosophy (Fall 2008 Edition), Edward N. Zalta (ed.), URL = &lt;<a rel="nofollow" class="external free" href="http://plato.stanford.edu/archives/fall2008/entries/mental-representation/">http://plato.stanford.edu/archives/fall2008/entries/mental-representation/</a>&gt;</span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text">Aydede, Murat, "The Language of Thought Hypothesis", The Stanford Encyclopedia of Philosophy (Fall 2010 Edition), Edward N. Zalta (ed.), URL = &lt;<a rel="nofollow" class="external free" href="http://plato.stanford.edu/archives/fall2010/entries/language-thought/">http://plato.stanford.edu/archives/fall2010/entries/language-thought/</a>&gt;</span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">Bechtel and Abrahamsen. Connectionism and the Mind. 2nd ed. Malden, Mass.&#160;: Blackwell, 2002.</span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Shea, N. "Content and its Vehicles in Connectionist Systems" Mind and Language. 2007</span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text">Laakso, Aarre &amp; Cottrell, Garrison W. (2000). Content and cluster analysis: Assessing representational similarity in neural systems. Philosophical Psychology 13 (1):47–76</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text">Shagrir (2010)"Computation San Diego Style" Philosophy of science vol 77</span>
+</li>
+<li id="cite_note-Grush-49"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grush_49-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grush_49-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Grush, R (2001) "The semantic Challenge to Computational Neuroscience"In Peter K. Machamer, Peter McLaughlin &amp; Rick Grush (eds.), Theory and Method in the Neurosciences. University of Pittsburgh Press.</span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><a href="/wiki/Gualtiero_Piccinini" title="Gualtiero Piccinini">Piccinini, G</a>. (2010). "The Mind as Neural Software? Understanding Functionalism, Computationalism, and Computational Functionalism." Philosophy and Phenomenological Research</span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text">Piccinini, G. (2010b). "The Mind as Neural Software? Understanding Functionalism, Computationalism, and Computational Functionalism." Philosophy and Phenomenological Research 81</span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text">Piccinini, G (2009) "Computation in the Philosophy of Mind" Philosophical Compass. vol 4</span>
+</li>
+<li id="cite_note-bare_url-53"><span class="mw-cite-backlink">^ <a href="#cite_ref-bare_url_53-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bare_url_53-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Piccinini, Gualtiero, "Computation in Physical Systems", The Stanford Encyclopedia of Philosophy (Fall 2010 Edition), Edward N. Zalta (ed.), URL = &lt;<a rel="nofollow" class="external free" href="http://plato.stanford.edu/archives/fall2010/entries/computation-physicalsystems/">http://plato.stanford.edu/archives/fall2010/entries/computation-physicalsystems/</a>&gt;</span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text">Piccinini (2008)"Computation without Representation" Philosophical Studies vol 137 no 2</span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text">van Gelder, T. J. (1998) The dynamical hypothesis in cognitive science. Behavioral and Brain Sciences 21, 1–14</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFBechtelMandikMundale2001" class="citation book">Bechtel, W.; Mandik, P.; Mundale, J. (2001). "Philosophy meets the neurosciences.".  In Bechtel, W.; Mandik, P.; Mundale, J.;  et al. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=S5GoWZPc_zMC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"><i>Philosophy and the Neurosciences: A Reader</i></a>. Malden, MA, USA: Blackwell. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780631210450" title="Special:BookSources/9780631210450">9780631210450</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Philosophy+meets+the+neurosciences.&amp;rft.btitle=Philosophy+and+the+Neurosciences%3A+A+Reader&amp;rft.place=Malden%2C+MA%2C+USA&amp;rft.pub=Blackwell&amp;rft.date=2001&amp;rft.isbn=9780631210450&amp;rft.aulast=Bechtel&amp;rft.aufirst=W.&amp;rft.au=Mandik%2C+P.&amp;rft.au=Mundale%2C+J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DS5GoWZPc_zMC%26printsec%3Dfrontcover%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeurophilosophy" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><cite id="CITEREFClark2000" class="citation book">Clark, Andy (2000). <i>Mindware: An Introduction to the Philosophy of Cognitive Science</i>. New York: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-513857-3" title="Special:BookSources/978-0-19-513857-3">978-0-19-513857-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mindware%3A+An+Introduction+to+the+Philosophy+of+Cognitive+Science&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft.date=2000&amp;rft.isbn=978-0-19-513857-3&amp;rft.aulast=Clark&amp;rft.aufirst=Andy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeurophilosophy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=15" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Churchland, Patricia Smith (2002). <i>Brain-Wise&#160;: Studies in Neurophilosophy</i>. <a href="/wiki/The_MIT_Press" class="mw-redirect" title="The MIT Press">The MIT Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-262-53200-6" title="Special:BookSources/978-0-262-53200-6">978-0-262-53200-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Brain-Wise+%3A+Studies+in+Neurophilosophy&amp;rft.pub=The+MIT+Press&amp;rft.date=2002&amp;rft.isbn=978-0-262-53200-6&amp;rft.aulast=Churchland&amp;rft.aufirst=Patricia+Smith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeurophilosophy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Churchland, Patricia Smith (1989). <i>Neurophilosophy&#160;: Toward a Unified Science of the Mind-Brain</i>. <a href="/wiki/The_MIT_Press" class="mw-redirect" title="The MIT Press">The MIT Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-262-53085-9" title="Special:BookSources/978-0-262-53085-9">978-0-262-53085-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Neurophilosophy+%3A+Toward+a+Unified+Science+of+the+Mind-Brain&amp;rft.pub=The+MIT+Press&amp;rft.date=1989&amp;rft.isbn=978-0-262-53085-9&amp;rft.aulast=Churchland&amp;rft.aufirst=Patricia+Smith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeurophilosophy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Craver, Carl (2007). <i>Explaining the brain&#160;: mechanisms and the mosaic unity of neuroscience</i>. Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Explaining+the+brain+%3A+mechanisms+and+the+mosaic+unity+of+neuroscience&amp;rft.pub=Oxford+University+Press&amp;rft.date=2007&amp;rft.aulast=Craver&amp;rft.aufirst=Carl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeurophilosophy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Northoff, Georg (2004). <a rel="nofollow" class="external text" href="http://www.benjamins.com/cgi-bin/t_bookview.cgi?bookid=AiCR%2052"><i>Philosophy of the Brain: The brain problem</i></a>. John Benjamins. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-262-23214-2" title="Special:BookSources/978-0-262-23214-2">978-0-262-23214-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Philosophy+of+the+Brain%3A+The+brain+problem&amp;rft.pub=John+Benjamins&amp;rft.date=2004&amp;rft.isbn=978-0-262-23214-2&amp;rft.aulast=Northoff&amp;rft.aufirst=Georg&amp;rft_id=http%3A%2F%2Fwww.benjamins.com%2Fcgi-bin%2Ft_bookview.cgi%3Fbookid%3DAiCR%252052&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeurophilosophy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Walter, Henrik (2001). <i>Neurophilosophy of Free Will: From Libertarian Illusions to a Concept of Natural Autonomy</i>. <a href="/wiki/The_MIT_Press" class="mw-redirect" title="The MIT Press">The MIT Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-58811-417-1" title="Special:BookSources/1-58811-417-1">1-58811-417-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Neurophilosophy+of+Free+Will%3A+From+Libertarian+Illusions+to+a+Concept+of+Natural+Autonomy&amp;rft.pub=The+MIT+Press&amp;rft.date=2001&amp;rft.isbn=1-58811-417-1&amp;rft.aulast=Walter&amp;rft.aufirst=Henrik&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeurophilosophy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/neuroscience/">Neuroscience. Stanford Encyclopedia of Philosophy</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060202035812/http://www.petemandik.com/neurophil/neurophil.html">Philosophy and the Neurosciences Online Resources</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131029043758/http://artsci.wustl.edu/~neuro/PhilNeuroBiblio.html">Philosophy of Neuroscience Resources</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.immaginidellamente.it/">Immagini della Mente</a>: annual interdisciplinary meeting on Neurophilosophy at the University of Milan</li>
+<li><a rel="nofollow" class="external text" href="http://neurophilosophy.unimi.it/">Neurophilosophy</a>: Research in Philosophy of Neuroscience&#160;– University of Milan</li>
+<li><a rel="nofollow" class="external text" href="http://pnp.artsci.wustl.edu">Philosophy-Neuroscience-Psychology</a> Program at Washington University in St. Louis</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Neuroscience" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Neuroscience" title="Template:Neuroscience"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Neuroscience" title="Template talk:Neuroscience"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Neuroscience&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Neuroscience" style="font-size:114%;margin:0 4em"><a href="/wiki/Neuroscience" title="Neuroscience">Neuroscience</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="Outline_of_neuroscience"><a href="/wiki/Outline_of_neuroscience" title="Outline of neuroscience">Outline of neuroscience</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Basic_research" title="Basic research">Basic<br />science</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Behavioral_epigenetics" title="Behavioral epigenetics">Behavioral epigenetics</a></li>
+<li><a href="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavioral genetics</a></li>
+<li><a href="/wiki/Cellular_neuroscience" title="Cellular neuroscience">Cellular neuroscience</a></li>
+<li><a href="/wiki/Computational_neuroscience" title="Computational neuroscience">Computational neuroscience</a></li>
+<li><a href="/wiki/Connectomics" title="Connectomics">Connectomics</a></li>
+<li><a href="/wiki/Imaging_genetics" title="Imaging genetics">Imaging genetics</a></li>
+<li><a href="/wiki/Integrative_neuroscience" title="Integrative neuroscience">Integrative neuroscience</a></li>
+<li><a href="/wiki/Molecular_neuroscience" title="Molecular neuroscience">Molecular neuroscience</a></li>
+<li><a href="/wiki/Neural_engineering" title="Neural engineering">Neural engineering</a></li>
+<li><a href="/wiki/Neuroanatomy" title="Neuroanatomy">Neuroanatomy</a></li>
+<li><a href="/wiki/Neurochemistry" title="Neurochemistry">Neurochemistry</a></li>
+<li><a href="/wiki/Neuroendocrinology" title="Neuroendocrinology">Neuroendocrinology</a></li>
+<li><a href="/wiki/Neurogenetics" title="Neurogenetics">Neurogenetics</a></li>
+<li><a href="/wiki/Neuroinformatics" title="Neuroinformatics">Neuroinformatics</a></li>
+<li><a href="/wiki/Neurometrics" title="Neurometrics">Neurometrics</a></li>
+<li><a href="/wiki/Neuromorphology" title="Neuromorphology">Neuromorphology</a></li>
+<li><a href="/wiki/Neurophysics" title="Neurophysics">Neurophysics</a></li>
+<li><a href="/wiki/Neurophysiology" title="Neurophysiology">Neurophysiology</a></li>
+<li><a href="/wiki/Systems_neuroscience" title="Systems neuroscience">Systems neuroscience</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Gray739.png" class="image"><img alt="Gray739.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/130px-Gray739.png" decoding="async" width="130" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/195px-Gray739.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png/260px-Gray739.png 2x" data-file-width="500" data-file-height="379" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Clinical_neuroscience" title="Clinical neuroscience">Clinical<br />neuroscience</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Behavioral_neurology" title="Behavioral neurology">Behavioral neurology</a></li>
+<li><a href="/wiki/Clinical_neurophysiology" title="Clinical neurophysiology">Clinical neurophysiology</a></li>
+<li><a href="/wiki/Neurocardiology" title="Neurocardiology">Neurocardiology</a></li>
+<li><a href="/wiki/Neuroepidemiology" title="Neuroepidemiology">Neuroepidemiology</a></li>
+<li><a href="/wiki/Neurogastroenterology" title="Neurogastroenterology">Neurogastroenterology</a></li>
+<li><a href="/wiki/Neuroimmunology" title="Neuroimmunology">Neuroimmunology</a></li>
+<li><a href="/wiki/Neurointensive_care" title="Neurointensive care">Neurointensive care</a></li>
+<li><a href="/wiki/Neurology" title="Neurology">Neurology</a></li>
+<li><a href="/wiki/Neurooncology" class="mw-redirect" title="Neurooncology">Neurooncology</a></li>
+<li><a href="/wiki/Neuro-ophthalmology" title="Neuro-ophthalmology">Neuro-ophthalmology</a></li>
+<li><a href="/wiki/Neuropathology" title="Neuropathology">Neuropathology</a></li>
+<li><a href="/wiki/Neuropharmacology" title="Neuropharmacology">Neuropharmacology</a></li>
+<li><a href="/wiki/Neuroprosthetics" title="Neuroprosthetics">Neuroprosthetics</a></li>
+<li><a href="/wiki/Neuropsychiatry" title="Neuropsychiatry">Neuropsychiatry</a></li>
+<li><a href="/wiki/Neuroradiology" title="Neuroradiology">Neuroradiology</a></li>
+<li><a href="/wiki/Neurorehabilitation" title="Neurorehabilitation">Neurorehabilitation</a></li>
+<li><a href="/wiki/Neurosurgery" title="Neurosurgery">Neurosurgery</a></li>
+<li><a href="/wiki/Neurotology" title="Neurotology">Neurotology</a></li>
+<li><a href="/wiki/Neurovirology" title="Neurovirology">Neurovirology</a></li>
+<li><a href="/wiki/Nutritional_neuroscience" title="Nutritional neuroscience">Nutritional neuroscience</a></li>
+<li><a href="/wiki/Psychiatry" title="Psychiatry">Psychiatry</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive<br />neuroscience</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Affective_neuroscience" title="Affective neuroscience">Affective neuroscience</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Behavioral neuroscience</a></li>
+<li><a href="/wiki/Chronobiology" title="Chronobiology">Chronobiology</a></li>
+<li><a href="/wiki/Molecular_cellular_cognition" title="Molecular cellular cognition">Molecular cellular cognition</a></li>
+<li><a href="/wiki/Motor_control" title="Motor control">Motor control</a></li>
+<li><a href="/wiki/Neurolinguistics" title="Neurolinguistics">Neurolinguistics</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Sensory_neuroscience" title="Sensory neuroscience">Sensory neuroscience</a></li>
+<li><a href="/wiki/Social_cognitive_neuroscience" title="Social cognitive neuroscience">Social cognitive neuroscience</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Interdisciplinary<br />fields</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Consumer_neuroscience" title="Consumer neuroscience">Consumer neuroscience</a></li>
+<li><a href="/wiki/Cultural_neuroscience" title="Cultural neuroscience">Cultural neuroscience</a></li>
+<li><a href="/wiki/Educational_neuroscience" title="Educational neuroscience">Educational neuroscience</a></li>
+<li><a href="/wiki/Evolutionary_neuroscience" title="Evolutionary neuroscience">Evolutionary neuroscience</a></li>
+<li><a href="/wiki/Neuroanthropology" title="Neuroanthropology">Neuroanthropology</a></li>
+<li><a href="/wiki/Neurobioengineering" title="Neurobioengineering">Neurobioengineering</a></li>
+<li><a href="/wiki/Neurobiotics" title="Neurobiotics">Neurobiotics</a></li>
+<li><a href="/wiki/Neurocriminology" title="Neurocriminology">Neurocriminology</a></li>
+<li><a href="/wiki/Neuroeconomics" title="Neuroeconomics">Neuroeconomics</a></li>
+<li><a href="/wiki/Neuroepistemology" title="Neuroepistemology">Neuroepistemology</a></li>
+<li><a href="/wiki/Neuroesthetics" title="Neuroesthetics">Neuroesthetics</a></li>
+<li><a href="/wiki/Neuroethics" title="Neuroethics">Neuroethics</a></li>
+<li><a href="/wiki/Neuroethology" title="Neuroethology">Neuroethology</a></li>
+<li><a href="/wiki/Neurohistory" title="Neurohistory">Neurohistory</a></li>
+<li><a href="/wiki/Neurolaw" title="Neurolaw">Neurolaw</a></li>
+<li><a href="/wiki/Neuromarketing" title="Neuromarketing">Neuromarketing</a></li>
+<li><a href="/wiki/Neurophenomenology" title="Neurophenomenology">Neurophenomenology</a></li>
+<li><a class="mw-selflink selflink">Neurophilosophy</a></li>
+<li><a href="/wiki/Neuropolitics" title="Neuropolitics">Neuropolitics</a></li>
+<li><a href="/wiki/Neurorobotics" title="Neurorobotics">Neurorobotics</a></li>
+<li><a href="/wiki/Neurotheology" class="mw-redirect" title="Neurotheology">Neurotheology</a></li>
+<li><a href="/wiki/Paleoneurobiology" title="Paleoneurobiology">Paleoneurobiology</a></li>
+<li><a href="/wiki/Social_neuroscience" title="Social neuroscience">Social neuroscience</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brain%E2%80%93computer_interface" title="Brain–computer interface">Brain–computer interface</a></li>
+<li><a href="/wiki/Neural_development" class="mw-redirect" title="Neural development">Neural development</a></li>
+<li><a href="/wiki/Artificial_neural_network" title="Artificial neural network">Neural network (artificial)</a></li>
+<li><a href="/wiki/Biological_neural_network" class="mw-redirect" title="Biological neural network">Neural network (biological)</a></li>
+<li><a href="/wiki/Detection_theory" title="Detection theory">Detection theory</a></li>
+<li><a href="/wiki/Intraoperative_neurophysiological_monitoring" title="Intraoperative neurophysiological monitoring">Intraoperative neurophysiological monitoring</a></li>
+<li><a href="/wiki/Neurochip" title="Neurochip">Neurochip</a></li>
+<li><a href="/wiki/Neurodegeneration" title="Neurodegeneration">Neurodegeneration</a></li>
+<li><a href="/wiki/Neurodevelopmental_disorder" title="Neurodevelopmental disorder">Neurodevelopmental disorder</a></li>
+<li><a href="/wiki/Neurodiversity" title="Neurodiversity">Neurodiversity</a></li>
+<li><a href="/wiki/Neurogenesis" title="Neurogenesis">Neurogenesis</a></li>
+<li><a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a></li>
+<li><a href="/wiki/Neuroimmune_system" title="Neuroimmune system">Neuroimmune system</a></li>
+<li><a href="/wiki/Neuromanagement" title="Neuromanagement">Neuromanagement</a></li>
+<li><a href="/wiki/Neuromodulation" title="Neuromodulation">Neuromodulation</a></li>
+<li><a href="/wiki/Neuroplasticity" title="Neuroplasticity">Neuroplasticity</a></li>
+<li><a href="/wiki/Neurotechnology" title="Neurotechnology">Neurotechnology</a></li>
+<li><a href="/wiki/Neurotoxin" title="Neurotoxin">Neurotoxin</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3" style="font-weight: bold"><div>
+<ul><li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Neuroscience" title="Book:Neuroscience">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Neuroscience" title="Category:Neuroscience">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Neuroscience" title="Portal:Neuroscience">Portal</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Philosophy_of_science" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Philosophy_of_science" title="Template:Philosophy of science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Philosophy_of_science" title="Template talk:Philosophy of science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philosophy_of_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Philosophy_of_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.5em">Concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Philosophical_analysis" title="Philosophical analysis">Analysis</a></li>
+<li><a href="/wiki/Analytic%E2%80%93synthetic_distinction" title="Analytic–synthetic distinction">Analytic–synthetic distinction</a></li>
+<li><a href="/wiki/A_priori_and_a_posteriori" title="A priori and a posteriori"><i>A priori</i> and <i>a posteriori</i></a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Commensurability_(philosophy_of_science)" title="Commensurability (philosophy of science)">Commensurability</a></li>
+<li><a href="/wiki/Consilience" title="Consilience">Consilience</a></li>
+<li><a href="/wiki/Construct_(philosophy)" title="Construct (philosophy)">Construct</a></li>
+<li><a href="/wiki/Creative_synthesis" title="Creative synthesis">Creative synthesis</a></li>
+<li><a href="/wiki/Demarcation_problem" title="Demarcation problem">Demarcation problem</a></li>
+<li><a href="/wiki/Empirical_evidence" title="Empirical evidence">Empirical evidence</a></li>
+<li><a href="/wiki/Explanatory_power" title="Explanatory power">Explanatory power</a></li>
+<li><a href="/wiki/Fact" title="Fact">Fact</a></li>
+<li><a href="/wiki/Falsifiability" title="Falsifiability">Falsifiability</a></li>
+<li><a href="/wiki/Feminist_method" title="Feminist method">Feminist method</a></li>
+<li><a href="/wiki/Functional_contextualism" title="Functional contextualism">Functional contextualism</a></li></ul>
+<ul><li><i><a href="/wiki/Ignoramus_et_ignorabimus" title="Ignoramus et ignorabimus">Ignoramus et ignorabimus</a></i></li>
+<li><a href="/wiki/Inductive_reasoning" title="Inductive reasoning">Inductive reasoning</a></li>
+<li><a href="/wiki/Intertheoretic_reduction" title="Intertheoretic reduction">Intertheoretic reduction</a></li>
+<li><a href="/wiki/Inquiry" title="Inquiry">Inquiry</a></li>
+<li><a href="/wiki/Nature_(philosophy)" title="Nature (philosophy)">Nature</a></li>
+<li><a href="/wiki/Objectivity_(philosophy)" title="Objectivity (philosophy)">Objectivity</a></li>
+<li><a href="/wiki/Observation" title="Observation">Observation</a></li>
+<li><a href="/wiki/Paradigm" title="Paradigm">Paradigm</a></li>
+<li><a href="/wiki/Problem_of_induction" title="Problem of induction">Problem of induction</a></li>
+<li><a href="/wiki/Scientific_law" title="Scientific law">Scientific law</a></li>
+<li><a href="/wiki/Scientific_method" title="Scientific method">Scientific method</a></li>
+<li><a href="/wiki/Scientific_revolution" class="mw-redirect" title="Scientific revolution">Scientific revolution</a></li>
+<li><a href="/wiki/Scientific_theory" title="Scientific theory">Scientific theory</a></li>
+<li><a href="/wiki/Testability" title="Testability">Testability</a></li>
+<li><a href="/wiki/Theory_choice" title="Theory choice">Theory choice</a></li>
+<li><a href="/wiki/Theory-ladenness" title="Theory-ladenness">Theory-ladenness</a></li>
+<li><a href="/wiki/Underdetermination" title="Underdetermination">Underdetermination</a></li>
+<li><a href="/wiki/Unity_of_science" title="Unity of science">Unity of science</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em"><a href="/wiki/Category:Metatheory_of_science" title="Category:Metatheory of science">Metatheory<br />of science</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coherentism" title="Coherentism">Coherentism</a></li>
+<li><a href="/wiki/Confirmation_holism" title="Confirmation holism">Confirmation holism</a></li>
+<li><a href="/wiki/Constructive_empiricism" title="Constructive empiricism">Constructive empiricism</a></li>
+<li><a href="/wiki/Constructive_realism" title="Constructive realism">Constructive realism</a></li>
+<li><a href="/wiki/Constructivist_epistemology" title="Constructivist epistemology">Constructivist epistemology</a></li>
+<li><a href="/wiki/Contextualism" title="Contextualism">Contextualism</a></li>
+<li><a href="/wiki/Conventionalism" title="Conventionalism">Conventionalism</a></li>
+<li><a href="/wiki/Deductive-nomological_model" title="Deductive-nomological model">Deductive-nomological model</a></li>
+<li><a href="/wiki/Hypothetico-deductive_model" title="Hypothetico-deductive model">Hypothetico-deductive model</a></li>
+<li><a href="/wiki/Inductionism" title="Inductionism">Inductionism</a></li>
+<li><a href="/wiki/Epistemological_anarchism" title="Epistemological anarchism">Epistemological anarchism</a></li>
+<li><a href="/wiki/Evolutionism" title="Evolutionism">Evolutionism</a></li>
+<li><a href="/wiki/Fallibilism" title="Fallibilism">Fallibilism</a></li>
+<li><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a></li>
+<li><a href="/wiki/Instrumentalism" title="Instrumentalism">Instrumentalism</a></li>
+<li><a href="/wiki/Pragmatism" title="Pragmatism">Pragmatism</a></li>
+<li><a href="/wiki/Model-dependent_realism" title="Model-dependent realism">Model-dependent realism</a></li>
+<li><a href="/wiki/Naturalism_(philosophy)" title="Naturalism (philosophy)">Naturalism</a></li>
+<li><a href="/wiki/Physicalism" title="Physicalism">Physicalism</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a>&#160;/&#32;<a href="/wiki/Reductionism" title="Reductionism">Reductionism</a>&#160;/&#32;<a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a>&#160;/&#32;<a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Received_view_of_theories" title="Received view of theories">Received view</a>&#160;/&#32;<a href="/wiki/Semantic_view_of_theories" title="Semantic view of theories">Semantic view of theories</a></li>
+<li><a href="/wiki/Scientific_realism" title="Scientific realism">Scientific realism</a>&#160;/&#32;<a href="/wiki/Anti-realism" title="Anti-realism">Anti-realism</a></li>
+<li><a href="/wiki/Scientific_essentialism" title="Scientific essentialism">Scientific essentialism</a></li>
+<li><a href="/wiki/Scientific_formalism" title="Scientific formalism">Scientific formalism</a></li>
+<li><a href="/wiki/Scientific_skepticism" class="mw-redirect" title="Scientific skepticism">Scientific skepticism</a></li>
+<li><a href="/wiki/Scientism" title="Scientism">Scientism</a></li>
+<li><a href="/wiki/Structuralism_(philosophy_of_science)" title="Structuralism (philosophy of science)">Structuralism</a></li>
+<li><a href="/wiki/Uniformitarianism" title="Uniformitarianism">Uniformitarianism</a></li>
+<li><a href="/wiki/Vitalism" title="Vitalism">Vitalism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Philosophy of</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Philosophy_of_physics" title="Philosophy of physics">Physics</a>
+<ul><li><a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">thermal and statistical</a></li>
+<li><a href="/wiki/Philosophy_of_motion" title="Philosophy of motion">Motion</a></li></ul></li>
+<li><a href="/wiki/Philosophy_of_chemistry" title="Philosophy of chemistry">Chemistry</a></li>
+<li><a href="/wiki/Philosophy_of_biology" title="Philosophy of biology">Biology</a></li>
+<li><a href="/wiki/Philosophy_of_environment" title="Philosophy of environment">Environment</a></li>
+<li><a href="/wiki/Philosophy_of_geography" title="Philosophy of geography">Geography</a></li>
+<li><a href="/wiki/Philosophy_of_social_science" title="Philosophy of social science">Social science</a></li>
+<li><a href="/wiki/Philosophy_of_technology" title="Philosophy of technology">Technology</a>
+<ul><li><a href="/wiki/Philosophy_of_engineering" title="Philosophy of engineering">Engineering</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Artificial intelligence</a></li>
+<li><a href="/wiki/Philosophy_of_computer_science" title="Philosophy of computer science">Computer science</a></li></ul></li>
+<li><a href="/wiki/Philosophy_of_information" title="Philosophy of information">Information</a></li>
+<li><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Mind</a></li>
+<li><a href="/wiki/Philosophy_of_psychiatry" title="Philosophy of psychiatry">Psychiatry</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Psychology</a></li>
+<li><a href="/wiki/Philosophy_of_perception" title="Philosophy of perception">Perception</a></li>
+<li><a href="/wiki/Philosophy_of_space_and_time" title="Philosophy of space and time">Space and time</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em"><a href="/wiki/Index_of_philosophy_of_science_articles" title="Index of philosophy of science articles">Related topics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alchemy" title="Alchemy">Alchemy</a></li>
+<li><a href="/wiki/Criticism_of_science" title="Criticism of science">Criticism of science</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Faith_and_rationality" title="Faith and rationality">Faith and rationality</a></li>
+<li><a href="/wiki/History_and_philosophy_of_science" title="History and philosophy of science">History and philosophy of science</a></li>
+<li><a href="/wiki/History_of_science" title="History of science">History of science</a></li>
+<li><a href="/wiki/History_of_evolutionary_thought" title="History of evolutionary thought">History of evolutionary thought</a></li>
+<li><a href="/wiki/Logic" title="Logic">Logic</a></li>
+<li><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></li>
+<li><a href="/wiki/Pseudoscience" title="Pseudoscience">Pseudoscience</a></li>
+<li><a href="/wiki/Relationship_between_religion_and_science" title="Relationship between religion and science">Relationship between religion and science</a></li>
+<li><a href="/wiki/Rhetoric_of_science" title="Rhetoric of science">Rhetoric of science</a></li>
+<li><a href="/wiki/Sociology_of_scientific_knowledge" title="Sociology of scientific knowledge">Sociology of scientific knowledge</a></li>
+<li><a href="/wiki/Sociology_of_scientific_ignorance" title="Sociology of scientific ignorance">Sociology of scientific ignorance</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Philosophers_of_science_by_era" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_philosophers_of_science" title="List of philosophers of science">Philosophers of science</a> by era</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.5em">Ancient</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Stoicism" title="Stoicism">Stoicism</a></li>
+<li><a href="/wiki/Epicureanism" title="Epicureanism">Epicureans</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Medieval</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Averroes" title="Averroes">Averroes</a></li>
+<li><a href="/wiki/Avicenna" title="Avicenna">Avicenna</a></li>
+<li><a href="/wiki/Roger_Bacon" title="Roger Bacon">Roger Bacon</a></li>
+<li><a href="/wiki/William_of_Ockham" title="William of Ockham">William of Ockham</a></li>
+<li><a href="/wiki/Hugh_of_Saint_Victor" title="Hugh of Saint Victor">Hugh of Saint Victor</a></li>
+<li><a href="/wiki/Dominicus_Gundissalinus" title="Dominicus Gundissalinus">Dominicus Gundissalinus</a></li>
+<li><a href="/wiki/Robert_Kilwardby" title="Robert Kilwardby">Robert Kilwardby</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Early modern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Francis_Bacon" title="Francis Bacon">Francis Bacon</a></li>
+<li><a href="/wiki/Thomas_Hobbes" title="Thomas Hobbes">Thomas Hobbes</a></li>
+<li><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a></li>
+<li><a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a></li>
+<li><a href="/wiki/Pierre_Gassendi" title="Pierre Gassendi">Pierre Gassendi</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Late modern</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/Friedrich_Wilhelm_Joseph_Schelling" title="Friedrich Wilhelm Joseph Schelling">Friedrich Schelling</a></li>
+<li><a href="/wiki/William_Whewell" title="William Whewell">William Whewell</a></li>
+<li><a href="/wiki/Auguste_Comte" title="Auguste Comte">Auguste Comte</a></li>
+<li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a></li>
+<li><a href="/wiki/Herbert_Spencer" title="Herbert Spencer">Herbert Spencer</a></li>
+<li><a href="/wiki/Wilhelm_Wundt" title="Wilhelm Wundt">Wilhelm Wundt</a></li>
+<li><a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a></li>
+<li><a href="/wiki/Wilhelm_Windelband" title="Wilhelm Windelband">Wilhelm Windelband</a></li>
+<li><a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Henri Poincaré</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Pierre Duhem</a></li>
+<li><a href="/wiki/Rudolf_Steiner" title="Rudolf Steiner">Rudolf Steiner</a></li>
+<li><a href="/wiki/Karl_Pearson" title="Karl Pearson">Karl Pearson</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Contemporary</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alfred_North_Whitehead" title="Alfred North Whitehead">Alfred North Whitehead</a></li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a></li>
+<li><a href="/wiki/Otto_Neurath" title="Otto Neurath">Otto Neurath</a></li>
+<li><a href="/wiki/C._D._Broad" title="C. D. Broad">C. D. Broad</a></li>
+<li><a href="/wiki/Michael_Polanyi" title="Michael Polanyi">Michael Polanyi</a></li>
+<li><a href="/wiki/Hans_Reichenbach" title="Hans Reichenbach">Hans Reichenbach</a></li>
+<li><a href="/wiki/Rudolf_Carnap" title="Rudolf Carnap">Rudolf Carnap</a></li>
+<li><a href="/wiki/Karl_Popper" title="Karl Popper">Karl Popper</a></li>
+<li><a href="/wiki/Carl_Gustav_Hempel" title="Carl Gustav Hempel">Carl Gustav Hempel</a></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">W. V. O. Quine</a></li>
+<li><a href="/wiki/Thomas_Kuhn" title="Thomas Kuhn">Thomas Kuhn</a></li>
+<li><a href="/wiki/Imre_Lakatos" title="Imre Lakatos">Imre Lakatos</a></li>
+<li><a href="/wiki/Paul_Feyerabend" title="Paul Feyerabend">Paul Feyerabend</a></li>
+<li><a href="/wiki/J%C3%BCrgen_Habermas" title="Jürgen Habermas">Jürgen Habermas</a></li>
+<li><a href="/wiki/Ian_Hacking" title="Ian Hacking">Ian Hacking</a></li>
+<li><a href="/wiki/Bas_van_Fraassen" title="Bas van Fraassen">Bas van Fraassen</a></li>
+<li><a href="/wiki/Larry_Laudan" title="Larry Laudan">Larry Laudan</a></li>
+<li><a href="/wiki/Daniel_Dennett" title="Daniel Dennett">Daniel Dennett</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Philosophy_of_science" title="Portal:Philosophy of science">Portal</a></li>
+<li><a href="/wiki/Category:Philosophy_of_science" title="Category:Philosophy of science">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20190409075000
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.524 seconds
+Real time usage: 0.670 seconds
+Preprocessor visited node count: 1680/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 109439/2097152 bytes
+Template argument size: 10353/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 34754/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.184/10.000 seconds
+Lua memory usage: 3.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  462.539      1 -total
+ 24.38%  112.753      7 Template:Cite_book
+ 24.12%  111.549      4 Template:Ambox
+ 21.19%   98.010      1 Template:Multiple_issues
+  9.74%   45.036      1 Template:Short_description
+  8.94%   41.374      1 Template:Pagetype
+  8.91%   41.233      3 Template:Navbox
+  7.93%   36.683      1 Template:Citation_needed
+  7.80%   36.086      1 Template:Neuroscience
+  7.70%   35.624      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2208074-0!canonical and timestamp 20190409074959 and revision id 887800130
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Neurophilosophy&amp;oldid=887800130">https://en.wikipedia.org/w/index.php?title=Neurophilosophy&amp;oldid=887800130</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Philosophy_of_mind" title="Category:Philosophy of mind">Philosophy of mind</a></li><li><a href="/wiki/Category:Philosophy_of_science" title="Category:Philosophy of science">Philosophy of science</a></li><li><a href="/wiki/Category:Analytic_philosophy" title="Category:Analytic philosophy">Analytic philosophy</a></li><li><a href="/wiki/Category:Cognitive_neuroscience" title="Category:Cognitive neuroscience">Cognitive neuroscience</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_January_2018" title="Category:Articles that may contain original research from January 2018">Articles that may contain original research from January 2018</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_January_2018" title="Category:Wikipedia articles with style issues from January 2018">Wikipedia articles with style issues from January 2018</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li><li><a href="/wiki/Category:Wikipedia_references_cleanup_from_May_2012" title="Category:Wikipedia references cleanup from May 2012">Wikipedia references cleanup from May 2012</a></li><li><a href="/wiki/Category:All_articles_needing_references_cleanup" title="Category:All articles needing references cleanup">All articles needing references cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_May_2012" title="Category:Articles covered by WikiProject Wikify from May 2012">Articles covered by WikiProject Wikify from May 2012</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2018" title="Category:Articles with unsourced statements from January 2018">Articles with unsourced statements from January 2018</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Neurophilosophy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Neurophilosophy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Neurophilosophy" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Neurophilosophy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Neurophilosophy">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Neurophilosophy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Neurophilosophy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Neurophilosophy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Neurophilosophy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Neurophilosophy&amp;oldid=887800130" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Neurophilosophy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1807987" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Neurophilosophy&amp;id=887800130" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Neurophilosophy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Neurophilosophy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Neurophilosophy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D9%81%D8%A9_%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A3%D8%B9%D8%B5%D8%A7%D8%A8" title="فلسفة علم الأعصاب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Filosofie_neurov%C4%9Bdy" title="Filosofie neurovědy – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Neurophilosophie" title="Neurophilosophie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Neurofilosof%C3%ADa" title="Neurofilosofía – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D9%88%D9%81%D9%84%D8%B3%D9%81%D9%87" title="نوروفلسفه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Neurophilosophie" title="Neurophilosophie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Neurofilosofia" title="Neurofilosofia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%94%E1%83%98%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%98%E1%83%9A%E1%83%9D%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%98%E1%83%90" title="ნეიროფილოსოფია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Neurofilosofija" title="Neurofilosofija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Neurofilosofie" title="Neurofilosofie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E5%93%B2%E5%AD%A6" title="神経哲学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Neurofilozofia" title="Neurofilozofia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Neurofilosofia" title="Neurofilosofia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%84%D1%96%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%96%D1%8F" title="Нейрофілософія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1807987#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 March 2019, at 22:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Neurophilosophy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.670","ppvisitednodes":{"value":1680,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":109439,"limit":2097152},"templateargumentsize":{"value":10353,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":34754,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  462.539      1 -total"," 24.38%  112.753      7 Template:Cite_book"," 24.12%  111.549      4 Template:Ambox"," 21.19%   98.010      1 Template:Multiple_issues","  9.74%   45.036      1 Template:Short_description","  8.94%   41.374      1 Template:Pagetype","  8.91%   41.233      3 Template:Navbox","  7.93%   36.683      1 Template:Citation_needed","  7.80%   36.086      1 Template:Neuroscience","  7.70%   35.624      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.184","limit":"10.000"},"limitreport-memusage":{"value":4020765,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20190409075000","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Neurophilosophy","url":"https:\/\/en.wikipedia.org\/wiki\/Neurophilosophy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1807987","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1807987","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-10T20:30:20Z","dateModified":"2019-03-14T22:38:17Z"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1270"});});</script>
+</body>
+</html>

@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cognitive tool - EduTech Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cognitive_tool","wgTitle":"Cognitive tool","wgCurRevisionId":70177,"wgRevisionId":70177,"wgArticleId":2182,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete","Ergonomics and human-computer interaction","Cognitive tools","Writing","Toronto school","Edutech families","Affordances","Pages using ISBN magic links"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cognitive_tool","wgRelevantArticleId":2182,"wgRequestId":"192ac89729ef8f92532ef43f","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"srfFilteredConfig":null,"sdgDownArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/right-arrow.png","wgHeaderTabsTabIndexes":[],"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/mediawiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","openlayers","googlemaps3"],"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.vector.styles.responsive":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1wt4m49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.wikilog","ext.headertabs","ext.headertabs.large","ext.categoryTree","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.responsive&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rdf+xml" title="Cognitive tool" href="/mediawiki/index.php?title=Special:ExportRDF/Cognitive_tool&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="EduTech Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//edutechwiki.unige.ch/mediawiki/api.php?action=rsd"/>
+<link rel="license" href="/en/EduTech_Wiki:Copyrights"/>
+<!--[if lt IE 9]><script src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cognitive_tool rootpage-Cognitive_tool skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Cognitive tool</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From EduTech Wiki</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="Banner_incomplete noprint">
+<p><span style="font-weight:bold;">This article or chapter is incomplete and its contents need further attention.</span>
+Some information may be missing or may be wrong, spelling and grammar may have to be improved, use your judgment!</p></div>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Why_a_cognitive_tools_approach_.3F"><span class="tocnumber">2</span> <span class="toctext">Why a cognitive tools approach&#160;?</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Problems_and_challenges"><span class="tocnumber">3</span> <span class="toctext">Problems and challenges</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Cognitive_tools_and_the_joint_learning_system"><span class="tocnumber">4</span> <span class="toctext">Cognitive tools and the joint learning system</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Typologies_of_cognitive_tools"><span class="tocnumber">5</span> <span class="toctext">Typologies of cognitive tools</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Jonassen_.26_Carr"><span class="tocnumber">5.1</span> <span class="toctext">Jonassen &amp; Carr</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Lajoe_and_Derry_1993a_and_2000"><span class="tocnumber">5.2</span> <span class="toctext">Lajoe and Derry 1993a and 2000</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Iiyoshi_Hannifin_and_Wang_2005"><span class="tocnumber">5.3</span> <span class="toctext">Iiyoshi Hannifin and Wang 2005</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Jonassen_2006"><span class="tocnumber">5.4</span> <span class="toctext">Jonassen 2006</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Summary"><span class="tocnumber">5.5</span> <span class="toctext">Summary</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Tools"><span class="tocnumber">6</span> <span class="toctext">Tools</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Forum_.2B_argumentation"><span class="tocnumber">6.1</span> <span class="toctext">Forum + argumentation</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Collaborative_hypertexts"><span class="tocnumber">6.2</span> <span class="toctext">Collaborative hypertexts</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Tools_for_organizing_ideas"><span class="tocnumber">6.3</span> <span class="toctext">Tools for organizing ideas</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Tools_to_organize_writing_activities"><span class="tocnumber">6.4</span> <span class="toctext">Tools to organize writing activities</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Professional_tools"><span class="tocnumber">6.5</span> <span class="toctext">Professional tools</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Simulation_and_microworld_building"><span class="tocnumber">6.6</span> <span class="toctext">Simulation and microworld building</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Productivity_tools"><span class="tocnumber">6.7</span> <span class="toctext">Productivity tools</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Links"><span class="tocnumber">7</span> <span class="toctext">Links</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition"><span class="mw-headline-number">1</span> Definition</span></h2>
+<ul><li>Cognitive tools refer to learning <b>with</b> technology (as opposed to learning through technology). Jonassen (1994) argues that <span style="background-color:#eeeeee" class="citation">&#8220; technologies, from the ecological perspective of Gibson (1979), afford the most meaningful thinking when used as tools&#8221;</span>.</li></ul>
+<ul><li>Cognitive tools are generalizable computer tools that are intended to engage and facilitate cognitive processing. [...] Cognitive tools can be thought of as a set of tools that learners need in order to serve cognitive apprenticeships. [...] They <a href="/en/Scaffolding" title="Scaffolding">scaffold</a> the all-important processes of articulation and reflection, which are the foundations of knowledge construction. They (gag, can I say it?) empower the learners to think more meaningfully and to assume ownership of their knowledge, rather than reproducing the teacher's. The major problem if we accept this conception of technologies is what to do with all of the instructional designers...  (Jonassen 1994).</li></ul>
+<ul><li>Cognitive tools help learners with complex cognitive learning activities and critical thinking. These tools are learner controlled in the sense that they construct their knowledge themselves using the tools rather than memorizing knowledge. In this perspective, computer systems are "partners" that stimulate learners or groups of learners to make maximum use of their cognitive potential.</li></ul>
+<ul><li><span style="background-color:#eeeeee" class="citation">&#8220; Because of the interactive nature of technology and the power of its information-processing capabilities, Jonassen (1996) proposes that when students learn with technology, it becomes a "mindtool." He defines mindtools as "computer-based tools and learning environments that have been adapted or developed to function as intellectual partners with the learner in order to engage and facilitate critical thinking and higher-order learning" (p. 9). Using commonly available software (databases, spreadsheets, electronic mail, multimedia, hypermedia, and others), learners employ technology to both construct and represent knowledge. This concept is similar to Pea's (1985) conception of a cognitive technology as " . . . any medium that helps transcend the limitations of the mind, such as memory, in activities of thinking, learning, and problem solving" (p. 168).&#8221;</span> (Boethel and Dimok, 1999: 17).</li></ul>
+<ul><li><span style="background-color:#eeeeee" class="citation">&#8220; Cognitive tools are technologies that learners interact and think with in knowledge construction, designed to bring their expertise to the performance as part of the joint learning system.&#8221;</span> (Kim and Reeves (2007:224)</li></ul>
+<p>See also: <a href="/en/Cognitive_artifact" title="Cognitive artifact">Cognitive artifact</a> and <a href="/en/Instrumentation" title="Instrumentation">instrumentation</a>
+</p>
+<h2><span id="Why_a_cognitive_tools_approach_?"></span><span class="mw-headline" id="Why_a_cognitive_tools_approach_.3F"><span class="mw-headline-number">2</span> Why a cognitive tools approach&#160;?</span></h2>
+<p>According to Shim and Lee (2006), Lajoie (1993, p. 261) summarized that cognitive tools can benefit learners by serving the functions as follows:
+</p>
+<ol><li>Support cognitive processes, such as, memory and metacognitive processes</li>
+<li>Share the cognitive load by providing support for lower level cognitive skills so that resources are left over for higher order thinking skills</li>
+<li>Allow the learners to engage in cognitive activities that would be out of their reach otherwise</li>
+<li>Allow learners to generate and test hypotheses in the context of problem solving</li></ol>
+<p>Let's continue with a longer quotation from Reeves (1999) <a class="external text" href="http://www.coe.uga.edu/~treeves/EM99Key.html">keynote speech</a> at Ed-Media 1999:
+</p><p><br />
+</p>
+<div style="padding:2px;border-style:dotted;border-width:thin;margin-left:1em;margin-right:1em;margin-top:0.5ex;margin-bottom:0.5ex;">
+<p>The foundation for the use of interactive learning systems as "cognitive tools" (the "with" approach) is "cognitive psychology." Computer-based cognitive tools have been intentionally adapted or developed to function as intellectual partners to enable and facilitate critical thinking and higher order learning. Examples of cognitive tools include: databases, spreadsheets, semantic networks, expert systems, communications software such as teleconferencing programs, on-line collaborative knowledge construction environments, multimedia/ hypermedia construction software, and computer programming languages. In the cognitive tools approach, interactive tools are given directly to learners to use for representing and expressing what they know (Jonassen &amp; Reeves, 1996). Learners themselves function as designers, using software programs as tools for analyzing the world, accessing and interpreting information, organizing their personal knowledge, and representing what they know to others.
+The basic principles that guide the use of interactive software programs as cognitive tools for teaching and learning are:
+</p>
+<dl><dd><ul><li>Cognitive tools will have their greatest effectiveness when they are applied within constructivist learning environments.</li>
+<li>Cognitive tools empower learners to design their own representations of knowledge rather than absorbing representations preconceived by others.</li>
+<li>Cognitive tools can be used to support the deep reflective thinking that is necessary for meaningful learning.</li>
+<li>Cognitive tools have two kinds of important cognitive effects, those which are with the technology in terms of intellectual partnerships and those that are of the technology in terms of the cognitive residue that remains after the tools are used.</li>
+<li>Cognitive tools enable mindful, challenging learning rather than the effortless learning promised but rarely realized by other instructional innovations.</li>
+<li>The source of the tasks or problems to which cognitive tools are applied should be learners, guided by teachers and other resources in the learning environment.</li>
+<li>Ideally, tasks or problems for the application of cognitive tools will be situated in realistic contexts with results that are personally meaningful for learners.</li>
+<li>Using multimedia construction programs as cognitive tools engages many skills in learners such as: project management skills, research skills, organization and representation skills, presentation skills, and reflection skills.</li>
+<li>Research concerning the effectiveness of constructivist learning environments such as microworlds, classroom-based learning environments, and virtual, collaborative environments show positive results across a wide range of indicators.</li></ul></dd></dl>
+In summary, thirty years of educational research indicates that various interactive technologies are effective in education as phenomena to learn both "from" and "with." Historically, the learning "from" or tutorial approaches have received the most attention and funding, but the "with" or cognitive tool approaches are the focus of more interest and investment than ever before. Preliminary findings suggest that in the long run, constructivist approaches to applying media and technology may have more potential to enhance teaching and learning than instructivist models (Jonassen &amp; Reeves, 1996). In other words, the real power of interactive learning to improve achievement and performance may only be realized when people actively use computers as cognitive tools rather than simply interact with them as tutors or data repositories.</div>
+<p>This longer quotation (sorry) summarizes key features of the "cognitive tool approach" formalated in the late nineties: Learner empowerment, project-orientated authentic and "meaningful" learning, computer as a partner and variety of tools.
+</p>
+<h2><span class="mw-headline" id="Problems_and_challenges"><span class="mw-headline-number">3</span> Problems and challenges</span></h2>
+<p>(needs to be completed)
+</p><p>Use of cognitive tools often requires expertise that learners don't necessarily have. 
+</p><p>In addition, assessment of what is learned is often done in a different context which is debatable if one adheres to the idea that cognitive tools are also <a href="/en/Professional_tool" title="Professional tool">professional tools</a>, i.e. related to practise that has to be learnt.
+</p><p>On the other hand, some cognitive tools (e.g. simulations) can have the effect that the learner just learns the tool (video game effect) and not something that he can transfer.
+</p>
+<h2><span class="mw-headline" id="Cognitive_tools_and_the_joint_learning_system"><span class="mw-headline-number">4</span> Cognitive tools and the joint learning system</span></h2>
+<p>Building on top of Salomon's (1991,1993a, 1993c) concepts of distributed cognition, 
+Kim and Reeves (2007:207) argue that <span style="background-color:#eeeeee" class="citation">&#8220;the learner, tool, and activity form a joint learning system, and the expertise in the world should be reflected not only in the tool but also in the learning activity within which learners make use of the tool.&#8221;</span> 
+</p><p>Interestingly enough, there has been a similar argument by Rabardel in terms of <a href="/en/Instrumentation" title="Instrumentation">instrumentation</a>: <span style="background-color:#eeeeee" class="citation">&#8220;An activity consists of acting upon an object in order to realize a goal and give concrete form to a motive. Yet the relationship between the subject and the object is not direct. It involves mediation by a third party: the instrument [...] An instrument cannot be confounded with an artifact. An artifact only becomes an instrument through the subject's activity. In this light, while an instrument is clearly a mediator between the subject and the object, it is also made up of the subject and the artifact.&#8221;</span> (Béguin &amp; Rabardel, 2000, P.175). In other words, instrumentation is related to action, i.e. how a technical object is used within an activity and how it affects cognitive schemas.
+</p><p><a href="/en/Activity_theory" title="Activity theory">Activity theory</a>, based on soviet micro-sociology and psychology also stresses the role of instruments within an activity system. Participants in an activity are portrayed as subjects interacting with objects and other subjects to achieve desired outcomes. Human interactions with each other and with objects of the environment are mediated through the use of tools, rules and division of labour.
+</p><p>Common to these approaches is the idea that human cognition relies on the (situated) environment. In this perspective cognition is distributed, although in various forms and to various degrees. Kim and Reeves (2007:216) argue that <span style="background-color:#eeeeee" class="citation">&#8220;A cognitive activity usually reflects some aspects of all three cognitive distributions: social, symbolic, and physical. For example, brainstorming for ideas as a team exemplifies social distribution of cognition among people. Drawing a diagram on the board to visualize their discussed ideas reflects their dependence upon the symbolic and physical distribution.&#8221;</span>. Note, that some researchers may not agree that symbol systems should be conceptualized as part of distributed cognition, since most cognitive actities rely on symbol processes. On the other hand, technology like computers or paper do allow for symbolic representations that would not be used without these media. The is topic that has been hotly debated in <a href="/en/The_media_debate" title="The media debate">the media debate</a> (initially Clark vs. Kozma).
+</p><p>Computer programs are both symbolic and physical tools, i.e. they represent things and do this and therefore extend our cognitive powers in various ways. These programs have <a href="/en/Affordance" title="Affordance">affordances</a>, i.e. properties upon which one can act. These may be intended by the designers or not, be perceptible or not, etc. In most cases, they require engagement from the user and various degrees of expertise.
+</p><p>According to  Kim and Reeves (2007:218): 
+</p>
+<div style="padding:2px;border-style:dotted;border-width:thin;margin-left:1em;margin-right:1em;margin-top:0.5ex;margin-bottom:0.5ex;">
+<p>In summary, the theoretical assumptions about cognitive tools based from the distributed cognition view are:
+</p>
+<ol><li>Cognition is distributed between learner(s) and a cognitive tool;</li>
+<li>The way in which cognition is distributed is first determined by the intentions of tool designers, i.e., tool affordances; and</li>
+<li>It can then affected by how the learners decide to use it in specific situations.</li></ol></div>
+<h2><span class="mw-headline" id="Typologies_of_cognitive_tools"><span class="mw-headline-number">5</span> Typologies of cognitive tools</span></h2>
+<h3><span id="Jonassen_&amp;_Carr"></span><span class="mw-headline" id="Jonassen_.26_Carr"><span class="mw-headline-number">5.1</span> Jonassen &amp; Carr</span></h3>
+<p>According to Kim and Reeves (2007:226), Jonassen and Carr (2000) suggested the following classes of "mindtools":
+</p>
+<ul><li>semantic organization tools (e.g., databases and <a href="/en/Concept_map" title="Concept map">concept mapping</a> tools),</li>
+<li>dynamic modeling tools (e.g., spreadsheets and <a href="/en/Microworld" title="Microworld">microworlds</a>),</li>
+<li>visualization tools (e.g., MathLab and Geometry Tutor),</li>
+<li>knowledge construction tools (e.g., a <a href="/en/Multimedia_authoring_system" title="Multimedia authoring system">multimedia authoring tool</a>),</li>
+<li>socially shared cognitive tools (e.g., computer conferencing (<a href="/en/Forum" title="Forum">forums</a>) and <a href="/en/Computer-supported_argumentation" title="Computer-supported argumentation">computer-supported collaborative argumentation</a>).</li></ul>
+<h3><span class="mw-headline" id="Lajoe_and_Derry_1993a_and_2000"><span class="mw-headline-number">5.2</span> Lajoe and Derry 1993a and 2000</span></h3>
+<p>Kim and Reeves (2007:226) noticed that over two different volumes of <i>Computers as Cognitive Tools</i>, classification has shifted to take into account new learning paradigms.
+</p>
+<dl><dt>1993</dt></dl>
+<ul><li>Modelers (e.g., TAPS; Derry and Hawkes, 1993). "Modelers" is defined in terms of <a href="/en/ITS" class="mw-redirect" title="ITS">ITS</a> research, i.e. whether the software would model the student</li>
+<li>Nonmodelers (e.g., HyperAuthor; (Lehrer, 1993),</li>
+<li>and the the ones merging the two (e.g., DARN; Schauble et al., 1993)</li></ul>
+<dl><dt>2000</dt></dl>
+<ul><li>Tools supporting knowledge-building activities (e.g., SCI-WISE; White et al., 2000)</li>
+<li>Tools supporting new forms of knowledge representations (e.g., DNA; Shute et al., 2000).</li></ul>
+<h3><span class="mw-headline" id="Iiyoshi_Hannifin_and_Wang_2005"><span class="mw-headline-number">5.3</span> Iiyoshi Hannifin and Wang 2005</span></h3>
+<p>Robertson, B., Elliot, L., &amp; Robinson, D. (2007). summarize the Roles of Cognitive Tools, Examples, and Specific Technologies with the following table adapted from Iyoshi, et al, 2005. It lists the 5 roles of cognitive tools followed by examples and specific technologies that demonstrate each role.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Roles of Cognitive Tools  </th><th> Examples   </th><th> Specific Technologies
+</th></tr>
+<tr>
+<td style="text-align: left;"> I. Information Seeking:<br />
+<p>These tools allow student to retrieve and identify information through learning situations that require the seeking of information. 
+</p>
+</td><td>Databases<br />
+<p>Search engines
+</p>
+</td><td>Google<br />
+<p>Yahoo<br />
+Alta Vista
+</p>
+</td></tr>
+<tr>
+<td style="text-align: left;">II. Information Presentation:<br />
+<p>These tools enable information to be presented in a meaningful and appropriate representation. 
+</p>
+</td><td>Graphic Organizers<br />
+<p>Concept Maps
+</p>
+</td><td>PowerPoint<br />
+<p>Word
+</p>
+</td></tr>
+<tr>
+<td style="text-align: left;">III. Knowledge Organization:<br />
+<p>These support students by allowing them to use a tool to establish relationships among information by structuring or restructuring information by manipulating information.
+</p>
+</td><td>Spreadsheets<br />
+<p>Presentation Tools<br />
+Notebook Tools
+</p>
+</td><td>Inspiration<br />
+<p>Excel<br />
+
+Word<br />
+HyperAuthor
+</p>
+</td></tr>
+<tr>
+<td style="text-align: left;">IV. Knowledge Integration:<br />
+<p>Such tools allow students to connect new information to prior knowledge therefore students are building a larger 
+array of information.
+</p>
+</td><td>Mapping tools<br />
+<p>Simulations
+</p>
+</td><td>Online discussions<br />
+<p>Teleconferences<br />
+Video streaming<br />
+Podcasting (LearnOutLoud.com)
+</p>
+</td></tr>
+</tbody></table>
+<dl><dd><b>Source</b>: <a class="external text" href="http://projects.coe.uga.edu/epltt/index.php?title=Cognitive_Tools">Cognitive Tools</a>, Copyright: <a class="external text" href="http://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a></dd></dl>
+<h3><span class="mw-headline" id="Jonassen_2006"><span class="mw-headline-number">5.4</span> Jonassen 2006</span></h3>
+<p>Shim and Li (2006) summarize Jonassen's (2006) <i>Cognitive tools for teachers</i> with the following table:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th> Type </th><th> Description </th><th>Examples</th></tr>
+<tr>
+<td> Database
+</td><td style="text-align: left;">
+<ol><li> Are useful for supplementing the learning of concept-rich content, such as that in geography, social studies, and the sciences
+</li><li> Support the storage and retrieval of information in an organized manner Structure is inherent in all knowledge, so using a database that helps learners to structure what they know will facilitate understanding. 
+</li></ol>
+</td><td> Database management systems (DBMSs)
+</td></tr>
+<tr>
+<td> Concept Map
+</td><td style="text-align: left;">
+<ol><li> Are spatial representations of concepts and their interrelationships that simulate the knowledge structures that humans store in their minds (Jonassen, Beissner, &amp; Yacci, 1993).
+</li><li> Are also effective for planning other kinds of productions and knowledge bases.
+</li></ol>
+</td><td> Inspiration
+</td></tr>
+<tr>
+<td> Spreadsheets
+</td><td style="text-align: left;">
+<ol><li> Are computerized, numeric record-keeping systems. 
+</li><li> Qualitatively change educational processes that require manipulation or speculation with numbers and are easy to adapt and modify 
+</li><li> Support speculation, decision making, and problem solving, and they are often used in what-if analyses. 
+</li><li> Are versatile tools that are most effective in solving quantitative problems 
+</li><li> Three primary functions: storing, calculating, and presenting information
+</li></ol>
+</td><td> Excel
+</td></tr>
+<tr>
+<td> Simulation Tools
+</td><td style="text-align: left;">
+<ol><li> Represent abstract ideas visually, enabling students to use their most highly developed sensory system. 
+</li><li> Support performance in investigative projects, so they are scaffolds that enable students to complete projects  
+</li><li> Help students to understand and express ideas that they otherwise might not be able to.
+</li></ol>
+</td><td> MacSpartan
+</td></tr>
+<tr>
+<td> Structured Computer Conference
+</td><td style="text-align: left;">
+<ol><li> Two types&#160;: asynchronous communication and synchronous communication 
+</li><li> Support student
+<p>s to construct their knowledge
+</p>
+</li></ol>
+</td><td> Email, Bulletin board service, Discussion board
+</td></tr>
+</tbody></table>
+<dl><dd><b>Source</b>: <a class="external text" href="http://projects.coe.uga.edu/epltt/index.php?title=Cognitive_Tools_in_the_classroom">Cognitive Tools in the classroom</a>, Copyright: <a class="external text" href="http://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a></dd></dl>
+<h3><span class="mw-headline" id="Summary"><span class="mw-headline-number">5.5</span> Summary</span></h3>
+<p>From these various classifications, <a href="/en/User:Daniel_K._Schneider" title="User:Daniel K. Schneider">Daniel K. Schneider</a> thinks that one could distinguish these broad categories of cognitive tools.
+</p>
+<ul><li>Simple writing and communication tools (e.g. All sorts of easy <a href="/en/List_of_web_2.0_applications" title="List of web 2.0 applications">web-2.0 applications</a> like <a href="/en/Blog" title="Blog">blogs</a>, simple <a href="/en/CMS" class="mw-redirect" title="CMS">CMS</a> tools and simple <a href="/en/Professional_tool" title="Professional tool">professional tools</a>.</li>
+<li>Special purpose drawing and writing tools (e.g. <a href="/en/Concept_map" title="Concept map">concept maps</a>, <a href="/en/Knowledge_forum" class="mw-redirect" title="Knowledge forum">knowledge forum</a>), some specifically made for education, some not.</li>
+<li>Highly specialized <a href="/en/Professional_tool" title="Professional tool">professional tools</a> like <a href="/en/Authoring_environment" title="Authoring environment">authoring environments</a> or simulation tools.</li>
+<li>Tools that model some kind of behavior and let the learner freely interact with those worlds <a href="/en/Simulation" title="Simulation">Simulations</a>, <a href="/en/Microworld" title="Microworld">Microworlds</a>. These tools are typically made for education</li>
+<li>Tools that help getting things done, e.g. <a href="/en/Bullet_journal" title="Bullet journal">bullet journals</a></li></ul>
+<p>This classification is not based on principles, but rather on what I feel are typical clusters of usage in schools. In our experience (need some more serious data here), the most popular tools are the ones that are both easy and familiar from other context and of use for non-educational purposes.
+</p>
+<dl><dd><div class="comment"><i> the following is under construction and needs to be expanded ... </i></div></dd></dl>
+<p>A more systematic and thoughtful classication scheme has been developed by Kim and Reeves (2007). The authors identify the following dimensions:
+</p>
+<dl><dt>Tool interactivity</dt></dl>
+<ul><li>delivery of information, e.g. multimedia presentations, forum messages</li>
+<li>task offload or support, e.g. a calculator, error checker</li>
+<li>support of individual's cognitive activities</li></ul>
+<p>Note: The authors insist that in any case cognitive tools should be considered partners that interact with learners to create knowledge and require higher-order thinking from learners.
+</p>
+<dl><dt>Tool specificity - Levels of expertise (according to Patel and Groen)</dt></dl>
+<ul><li>general, domain independant expertise (such as creativity)</li>
+<li>specific domain-dependant (precise knowledge and processing strategies of particular domain)</li>
+<li>generic domain-dependant (general domain knowledge, applicable to various sub-domain problems)</li></ul>
+<dl><dt>Tool specificity - Structure of expertise</dt></dl>
+<ul><li>knowledge, e.g. facts or abstract rules</li>
+<li>functions, e.g. information search, rule execution, decision support</li>
+<li>representations, e.g. concrete (isomorphic), abstract (symbolic)</li></ul>
+<h2><span class="mw-headline" id="Tools"><span class="mw-headline-number">6</span> Tools</span></h2>
+<p>This section should index related articles that refer to specific kinds of tools (not complete yet&#160;!)
+</p><p>Cognitive tools can be really simple, e.g. a Word processor that will allow a teacher to scaffold a student's activity planning process (one can write outlines, use the text as a mirror, etc.). Among teachers, paper-based tools like interactive notebooks or organizers are also very popular, e.g. see creationgs on <a class="external text" href="https://www.pinterest.com/">Pinterest</a> or <a class="external text" href="https://www.teacherspayteachers.com/">Teachers Pay Teachers</a>
+</p>
+<h3><span id="Forum_+_argumentation"></span><span class="mw-headline" id="Forum_.2B_argumentation"><span class="mw-headline-number">6.1</span> Forum + argumentation</span></h3>
+<ul><li><a href="/en/CSILE" class="mw-redirect" title="CSILE">CSILE</a> was a research system that now is commercialized as <a href="/en/Knowledge_forum" class="mw-redirect" title="Knowledge forum">Knowledge forum</a></li>
+<li><a href="/en/Fle3" title="Fle3">Fle3</a> is a free pedagogical platform that builds on ideas of CSILE</li></ul>
+<h3><span class="mw-headline" id="Collaborative_hypertexts"><span class="mw-headline-number">6.2</span> Collaborative hypertexts</span></h3>
+<ul><li>This Wiki is also used in teaching, e.g. students participate through writing activities. During the summer semester 2006 a few students participate in a <a href="/en/Help:Staf2x" title="Help:Staf2x"> course</a> that will only be offered once and that features <b>only</b> writing activities.</li></ul>
+<h3><span class="mw-headline" id="Tools_for_organizing_ideas"><span class="mw-headline-number">6.3</span> Tools for organizing ideas</span></h3>
+<ul><li><a href="/en/Concept_map" title="Concept map">Concept maps</a></li>
+<li><a href="/en/Idea_manager" title="Idea manager">Idea managers</a></li></ul>
+<h3><span class="mw-headline" id="Tools_to_organize_writing_activities"><span class="mw-headline-number">6.4</span> Tools to organize writing activities</span></h3>
+<ul><li>See <a href="/en/Writing_tool" title="Writing tool">writing tools</a> , e.g. the <a href="/en/Scribe_note-taking_application" title="Scribe note-taking application">Scribe note-taking application</a></li></ul>
+<h3><span class="mw-headline" id="Professional_tools"><span class="mw-headline-number">6.5</span> Professional tools</span></h3>
+<ul><li>See <a href="/en/Professional_tool" title="Professional tool">professional tool</a></li></ul>
+<h3><span class="mw-headline" id="Simulation_and_microworld_building"><span class="mw-headline-number">6.6</span> Simulation and microworld building</span></h3>
+<ul><li>See <a href="/en/Microworld" title="Microworld">microworlds</a> and <a href="/en/Simulation" title="Simulation">simulation</a> and look at systems that are designed for student's <a href="/en/End-user_programming" title="End-user programming">end-user programming</a> activities, e.g. <a href="/en/AgentSheets" title="AgentSheets">AgentSheets</a> or <a href="/en/LEGO_Mindstorms" title="LEGO Mindstorms">LEGO Mindstorms</a>.</li>
+<li>Drawing tools that simulate something e.g. Cabri Geomètre (geometry) or ASSIST (Gravity)</li></ul>
+<h3><span class="mw-headline" id="Productivity_tools"><span class="mw-headline-number">6.7</span> Productivity tools</span></h3>
+<ul><li>E.g. <a href="/en/Bullet_journal" title="Bullet journal">bullet journals</a>, general purpose <a href="/en/Project_management_software" title="Project management software">Project management software</a>, general purpose note taking tools.</li></ul>
+<h2><span class="mw-headline" id="Links"><span class="mw-headline-number">7</span> Links</span></h2>
+<ul><li><a class="external text" href="http://coe.west.asu.edu/mindtools/">Mindtool Resource Page</a>. A good collection of links (papers, tools, etc.)</li>
+<li><a class="external text" href="http://www.elearning-reviews.org/topics/technology/cognitive-tools/">elearning-reviews Topic: Cognitive Tools</a></li>
+<li><a class="external text" href="http://www.umsl.edu/~edujpolm/courses/EdTec6444-W04.pdf">Cognition and Technology ED TEC 6444/ED PSY 6444</a>, Joe Polman's course at University of Missouri - St.Louis</li>
+<li><a class="external text" href="http://rationale.csail.mit.edu/projects.shtml">Design Rationale</a> group at MIT. They build some interesting "sketching" applications, like <a class="external text" href="http://rationale.csail.mit.edu/project_assist.shtml">ASSIST</a> for which someone sent me a <a class="external text" href="http://googtube.blogspot.com/2006/10/mit-sketching.html">video link</a>with Randy Davis presentig the thing.</li>
+<li><a class="external text" href="http://www.sedl.org/pubs/tec27/10.html">Constructing knowledge with technology</a>.</li></ul>
+<h2><span class="mw-headline" id="References"><span class="mw-headline-number">8</span> References</span></h2>
+<ul><li>Béguin, Pascal (2003), Design as a mutual learning process between users and designers,  Interacting with Computers, Volume 15, Issue 5, October 2003, Pages 709-730. <a class="external text" href="http://dx.doi.org/10.1016/S0953-5438(03)00060-2">doi:10.1016/S0953-5438(03)00060-2</a></li></ul>
+<ul><li>Béguin and Rabardel, 2000. P. Béguin and P. Rabardel, Designing for instrument-mediated activity. Scandinavian Journal of Information Systems 12 (2000), pp. 173-191.</li></ul>
+<ul><li>Boethel, Martha and K. Victoria Dimock (1999). Constructing Knowledge with Technology: A Review of the Literature, SEDL, <a class="external text" href="http://www.sedl.org/pubs/catalog/items/tec27.html">html/PDF/booklet</a></li></ul>
+<ul><li>Bransford, John D.; Brown, Ann L.; Cocking, Rodney R. (2000) Technology to Support Learning In Bransford, John D.; Brown, Ann L.; Cocking, Rodney R. (Eds.), How People Learn: Brain, Mind, Experience, pp. 206-230 <a href="/en/Special:BookSources/0309070368" class="internal mw-magiclink-isbn">ISBN 0309070368</a></li></ul>
+<ul><li>Bereiter, C. (2002). Education and mind in a knowledge society. Mahwah, NJ: Erlbaum.</li></ul>
+<ul><li>Clark, Richard C. (1983). "Reconsidering Research on Learning from Media," Review of Educational Research 53 (Winter 1983): 445-59. <a class="external text" href="http://www.jstor.org/view/00346543/ap040256/04a00030/0">JSTOR HTMLImages / PDF</a> (<i><a href="/en/Access_restricted_document" title="Access restricted document">Access restricted</a></i>)</li></ul>
+<ul><li>Clark, R.E. (1994). Media will Never Influence Learning. Educational Technology Research and Development, 42(2), 21-29. <a class="external text" href="http://www.springerlink.com/content/681t5680047393j5/">Abstract PDF</a> - <a class="external text" href="http://dx.doi.org/10.1007/BF02299088">DOI 10.1007/BF02299088</a> (<i><a href="/en/Access_restricted_document" title="Access restricted document">Access restricted</a></i>)</li></ul>
+<ul><li>Derry, S.J. &amp; Hawkes, L.W. (1993). Local cognitive modeling of problem-solving behavior: an application of fuzzy theory. In S.P. Lajoie and S.J. Derry, ed., Computers as cognitive tools, pp. 107-140. Lawrence Erlbaum Associates: Hillsdale,  NJ.</li></ul>
+<ul><li>Iiyoshi, T., Hannifin, M. J., &amp; Wang, F. (2005). Cognitive tools and student-centered learning:Rethinkingtools, functions, and applications. Educational Media International, 42, 281-296.</li></ul>
+<ul><li>Jonassen, D. H., &amp; Reeves, T. C. (1996). Learning with technology: Using computers as cognitive tools. In D. H. Jonassen (Ed.), Handbook of research for educational communications and technology, 1st edition. (pp. 693-719). New York: Macmillan.</li></ul>
+<ul><li>Jonassen, David. H. (1994), Technology as Cognitive Tools: Learners as Designers, <a class="external text" href="http://it.coe.uga.edu/itforum/index.html">ITForum</a> Paper #1 <a class="external text" href="http://itech1.coe.uga.edu/itforum/paper1/paper1.html">HTML</a></li></ul>
+<ul><li>Jonassen, D. H. (1996). Computers in the Classroom: Mindtools for Critical Thinking. Englewood Cliffs, New Jersey: Prentice-Hall, Inc.</li></ul>
+<ul><li>Jonassen, D.H. &amp; Carr C.S. (2000). Mindtools: affording multiple knowledge representations for learning. In S.P. Lajoie, ed., Computers as cognitive tools: No more walls, Vol. 2, pp. 165-196. Lawrence Erlbaum Associates: Mahwah, NJ</li></ul>
+<ul><li>Jonassen, D.H. (2006). Modeling with technology: Mindtools for conceptual change. Columbus, OH: Merill/Prentice Hall.</li></ul>
+<ul><li>Kim, Beaumie and Thomas C. Reeves (2007), Reframing research on learning with technology: in search of the meaning of cognitive tools, <i>Instructional Science</i>, Volume 35, Number 3, 207-256. <a class="external text" href="http://dx.doi.org/10.1007/s11251-006-9005-2">DOI 10.1007/s11251-006-9005-2</a> (<i><a href="/en/Access_restricted_document" title="Access restricted document">Access restricted</a></i>).</li></ul>
+<ul><li>Kozma, Robert B. (1991). "Learning with Media," Review of Educational Research 61 (Summer 1991): 179-211.</li></ul>
+<ul><li>Kozma, Robert B. (1994), The Influence of Media on Learning: The Debate Continues, School Library Media Research, Volume 22, Number 4, Summer 1994. <a class="external text" href="http://www.ala.org/ala/aasl/aaslpubsandjournals/slmrb/editorschoiceb/infopower/selectkozmahtml.htm">HTML</a></li></ul>
+<ul><li>Lajoie, S. P., &amp; Derry, S. J. (Eds.). (1993). Computers as cognitive tools. Hillsdale, NJ: Lawrence Erlbaum.</li></ul>
+<ul><li>Lajoie, S.P. (ed.). (2000). Computers as cognitive tools: No more walls, Vol. 2. Mahwah NJ: Lawrence Erlbaum Associates</li></ul>
+<ul><li>Lebeau R.B. (1998). Cognitive tools in a clinical encounter in medicine: supporting empathy and expertise in distributed systems. Educational Psychology Review 10(1):3-24</li></ul>
+<ul><li>Lehrer, R. (1993). Authors of knowledge: patterns of hypermedia design. In S.P. Lajoie and S.J. Derry, ed., Computers as cognitive tools, pp. 197-227. Lawrence Erlbaum Associates: Hillsdale, NJ.</li></ul>
+<ul><li>Maddux, C. D., Johnson, D. L., and Willis, J. W. (1997). Educational Computing: Learning with Tomorrow’s Technologies, Second Edition. Boston: Allyn and Bacon.</li></ul>
+<ul><li>Pea, R. (1985). Beyond amplification: using the computer to reorganize mental functioning. Educational Psychologist, 20, 176–182.</li></ul>
+<ul><li>Reeves, Thomas C. , A Research Agenda for Interactive Learning in the New Millennium, Ed-Media '99 Keynote. <a class="external autonumber" href="http://www.coe.uga.edu/~treeves/EM99Key.html">[1]</a></li></ul>
+<ul><li>Reeves, Thomas C. (1998), The Impact of Media and Technology in Schools, A Research Report prepared for The Bertelsmann Foundation, <a class="external autonumber" href="http://www.athensacademy.org/instruct/media_tech/reeves0.html">[2]</a></li></ul>
+<ul><li>Robertson, B., Elliot, L., &amp; Robinson, D. (2007). Cognitive tools. In M. Orey (Ed.), Emerging perspectives on learning, teaching, and technology. Retrieved 17:46, 26 July 2007 (MEST) from <a class="external free" href="http://projects.coe.uga.edu/epltt/">http://projects.coe.uga.edu/epltt/</a></li></ul>
+<ul><li>Salomon G., Perkins D.N., Globerson T. (1991). Partners in cognition: extending human intelligence with intelligent technologies. Educational researcher 20(3):2-9.</li></ul>
+<ul><li>Salomon G. (1993a). No distribution without individuals' cognition. In: Salomon G. (eds). Distributed cognitions: Psychological and educational considerations. Cambridge University Press, New York, pp. 111-138</li></ul>
+<ul><li>Salomon G. (1993b). On the nature of pedagogic computer tools: the case of the writing partner. In: Derry S.J. (eds). Computers as cognitive tools. Lawrence Erlbaum Associates, Hillsdale, NJ, pp. 179-196</li></ul>
+<ul><li>Salomon, G. (ed.). (1993c). Distributed cognitions: Psychological and educational considerations. New York: Cambridge University Press</li></ul>
+<ul><li>Scardamalia, M. (2003). Knowledge Forum (Advances beyond CSILE). Journal of Distance Education, 17 (Suppl. 3, Learning Technology Innovation in Canada), 23-28.</li></ul>
+<ul><li>Scardamalia, M. &amp; Bereiter, C. (1994). The CSILE project: Trying to bring the classroom into world 3. In K. McGilly, ed., Classroom Lessons: Integrating Cognitive Theory and Classroom Practice (pp. 201-228). Cambridge, MA: MIT Press/Bradford Books.</li></ul>
+<ul><li>Scardamalia, M. (2004a). CSILE/Knowledge Forum. In Education and technology: An Encyclopedia (pp. 183-192). Santa Barbara: ABC-CLIO.</li></ul>
+<ul><li>Schauble, L., Raghavan, K. &amp; Glaser, R. (1993). The discovery and reflection notation:    a graphical trace for supporting self-regulation in computer-based laboratories. In S.P. Lajoie and S.J. Derry, ed., Computers as cognitive tools, pp. 319-337. Lawrence Erlbaum Associates: Hillsdale, NJ.</li></ul>
+<ul><li>Shim, J. E., &amp; Li, Y. (2006). Applications of Cognitive Tools in the Classroom. In M. Orey (Ed.), Emerging perspectives on learning, teaching, and technology. Retrieved 17:46, 26 July 2007 (MEST), from <a class="external free" href="http://projects.coe.uga.edu/epltt/">http://projects.coe.uga.edu/epltt/</a>.</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20190401191538
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0.001 seconds
+CPU time usage: 0.059 seconds
+Real time usage: 0.062 seconds
+Preprocessor visited node count: 180/1000000
+Preprocessor generated node count: 448/1000000
+Post‐expand include size: 11441/2097152 bytes
+Template argument size: 10197/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+ExtRegexFun count: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    9.095      1 -total
+ 23.01%    2.093      2 Template:Quotationbox
+ 18.51%    1.683      6 Template:Quotation
+ 16.81%    1.529      1 Template:Incomplete
+ 13.08%    1.190      1 Template:Comment
+ 11.92%    1.084      3 Template:Ar
+-->
+</div>
+<!-- Saved in parser cache with key edutechwiki_en:pcache:idhash:2182-0!canonical and timestamp 20190401191538 and revision id 70177
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://edutechwiki.unige.ch/mediawiki/index.php?title=Cognitive_tool&amp;oldid=70177">http://edutechwiki.unige.ch/mediawiki/index.php?title=Cognitive_tool&amp;oldid=70177</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/en/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/en/Category:Incomplete" title="Category:Incomplete">Incomplete</a></li><li><a href="/en/Category:Ergonomics_and_human-computer_interaction" title="Category:Ergonomics and human-computer interaction">Ergonomics and human-computer interaction</a></li><li><a href="/en/Category:Cognitive_tools" title="Category:Cognitive tools">Cognitive tools</a></li><li><a href="/en/Category:Writing" title="Category:Writing">Writing</a></li><li><a href="/en/Category:Toronto_school" title="Category:Toronto school">Toronto school</a></li><li><a href="/en/Category:Edutech_families" title="Category:Edutech families">Edutech families</a></li><li><a href="/en/Category:Affordances" title="Category:Affordances">Affordances</a></li><li><a href="/en/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Cognitive+tool" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/en/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/en/Cognitive_tool" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/en/Talk:Cognitive_tool" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/en/Cognitive_tool">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/mediawiki/index.php?title=Cognitive_tool&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=Cognitive_tool&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Slow Search</label>
+						</h3>
+						<form action="/mediawiki/index.php" id="searchform">
+							<div>
+								<input type="search" name="search" placeholder="Search EduTech Wiki" title="Search EduTech Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/en/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-TEST" aria-labelledby="p-TEST-label">
+			<h3 id="p-TEST-label">TEST</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Navigation_and_help" aria-labelledby="p-Navigation_and_help-label">
+			<h3 id="p-Navigation_and_help-label">Navigation and help</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Mainpage"><a href="/en/Main_Page">Main Page</a></li><li id="n-recentchanges"><a href="/en/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-about"><a href="/en/EduTech_Wiki:About">About</a></li><li id="n-randompage"><a href="/en/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li><li id="n-Editing-rules"><a href="/en/Help:Editing_rules">Editing rules</a></li><li id="n-Blog:DKS"><a href="/en/Blog:DKS">Blog:DKS</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-categorytree-portlet" aria-labelledby="p-categorytree-portlet-label">
+			<h3 id="p-categorytree-portlet-label">Categories</h3>
+			<div class="body">
+				<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Citizen_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Citizen_science">Citizen science</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Design_and_research_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Design_and_research_methods">Design and research methods</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Education_and_instruction" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Education_and_instruction">Education and instruction</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technologies">Educational technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technology_-_the_field" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technology_-_the_field">Educational technology - the field</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Position_paper">Position paper</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Psychology_and_learning" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Psychology_and_learning">Psychology and learning</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Socio-political_and_organization" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Socio-political_and_organization">Socio-political and organization</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Special_contents" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Special_contents">Special contents</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Technologies">Technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Tutorials" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Tutorials">Tutorials</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		</div>
+					</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cognitive+tool">Create a book</a></li><li id="coll-download-as-rl"><a href="/mediawiki/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Cognitive+tool&amp;returnto=Cognitive+tool&amp;oldid=70177&amp;writer=rl">Download as PDF</a></li><li id="t-print"><a href="/mediawiki/index.php?title=Cognitive_tool&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/en/Special:WhatLinksHere/Cognitive_tool" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/en/Special:RecentChangesLinked/Cognitive_tool" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/en/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/mediawiki/index.php?title=Cognitive_tool&amp;oldid=70177" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/mediawiki/index.php?title=Cognitive_tool&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/mediawiki/index.php?title=Special:CiteThisPage&amp;page=Cognitive_tool&amp;id=70177" title="Information on how to cite this page">Cite this page</a></li><li id="t-smwbrowselink"><a href="/en/Special:Browse/:Cognitive-5Ftool" rel="search">Browse properties</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Big_brother" aria-labelledby="p-Big_brother-label">
+			<h3 id="p-Big_brother-label">Big brother</h3>
+			<div class="body">
+								<ul>
+					<li id="n-New-Pages"><a href="/en/Special:NewPages">New Pages</a></li><li id="n-contributionscores"><a href="/en/Special:ContributionScores">Contribution scores</a></li><li id="n-Popular-Pages"><a href="/en/Special:Popularpages">Popular Pages</a></li><li id="n-Who-is-online-.3F"><a href="/en/Special:WhosOnline">Who is online ?</a></li><li id="n-Version"><a href="/en/Special:Version">Version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-TECFA_Links" aria-labelledby="p-TECFA_Links-label">
+			<h3 id="p-TECFA_Links-label">TECFA Links</h3>
+			<div class="body">
+				<div class="sidebar_banner"><a href="http://tecfa.unige.ch/"><img title="TECFA - Educational Technology Unit - UniGE" alt="TECFA - Educational Technology Unit - Home page" src="/mediawiki/tecfa/TECFAlogoArtNoText.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/maltt"><img title="Master of Science in Learning and Teaching Technologies" alt="Master of Science in Learning and Teaching Technologies" src="/mediawiki/tecfa/LOGO_MALTT.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/formcont/"><img title="Certificate of Advanced Studies (CAS): Conception et développement de projets e-learning, Journées thématiques, TECFA, FPSE, Université de Genève" alt="Cours de formation continue offerts par TECFA, Université de Genève: CAS - Conception et développement de projets e-learning, Application des normes du e-learning, Réalisation de vidéos pédagogiques, Introduction HTML5 et CSS, Coordination des formations en ligne, Traitement de ressources multimédia, Activités pédagogiques avec Captivate" src="/mediawiki/tecfa/fclogored.png" /></a></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Page last modified 16:44, 16 January 2019.</li>
+								<li id="footer-info-copyright">By default, content is protected by a <a href="/en/EduTech_Wiki:Copyrights" title="EduTech Wiki:Copyrights">CC BY-NC-SA Licence</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/en/EduTech_Wiki:Privacy_policy" title="EduTech Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/en/EduTech_Wiki:About" title="EduTech Wiki:About">About EduTech Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/en/EduTech_Wiki:General_disclaimer" title="EduTech Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/mediawiki/tecfa/somerights.png" alt="CC BY-NC-SA Licence" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/mediawiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /mediawiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+										<li id="footer-monitoredbyico">
+						<a href="http://wikiapiary.com/wiki/EduTech_Wiki_(en)"><img src="/mediawiki/tecfa/Monitored_by_WikiApiary.png" alt="Monitored by WikiApiary" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0.001},"limitreport":{"cputime":"0.059","walltime":"0.062","ppvisitednodes":{"value":180,"limit":1000000},"ppgeneratednodes":{"value":448,"limit":1000000},"postexpandincludesize":{"value":11441,"limit":2097152},"templateargumentsize":{"value":10197,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    9.095      1 -total"," 23.01%    2.093      2 Template:Quotationbox"," 18.51%    1.683      6 Template:Quotation"," 16.81%    1.529      1 Template:Incomplete"," 13.08%    1.190      1 Template:Comment"," 11.92%    1.084      3 Template:Ar"]},"cachereport":{"timestamp":"20190401191538","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7586057-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":156});});</script>
+	</body>
+<!-- Cached/compressed 20190401191538 -->
+</html>

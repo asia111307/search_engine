@@ -1,0 +1,2287 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta charset="utf-8" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><link rel="apple-touch-icon" sizes="180x180" href="/UI/app/img/apple-touch-icon.png" /><link rel="icon" type="image/png" href="/UI/app/img/favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="/UI/app/img/favicon-16x16.png" sizes="16x16" /><link rel="manifest" href="/UI/app/img/manifest.json" /><link rel="mask-icon" href="/UI/app/img/safari-pinned-tab.svg" color="#5bbad5" /><link rel="shortcut icon" href="/UI/app/img/favicon.ico" /><meta name="msapplication-config" content="/UI/app/img/browserconfig.xml" /><meta name="theme-color" content="#002f65" />
+    <link href=//oup.silverchair-cdn.com/UI/app/css/style.min.css rel="stylesheet" type="text/css"/>
+
+    
+    <link href=//oup.silverchair-cdn.com/UI/app/vendor/oupCookiePolicy/css/jquery.fancybox-1.3.4_1.css rel="stylesheet" type="text/css"/>
+
+    
+    <link href=//oup.silverchair-cdn.com/UI/app/vendor/jscrollpane/jscrollpane.css rel="stylesheet" type="text/css"/>
+    <link href=//oup.silverchair-cdn.com/UI/app/vendor/jquery.tablesorter/theme.default.css rel="stylesheet" type="text/css"/>
+    
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400italic,700,700italic|Source+Sans+Pro:400,400italic,700,700italic" rel="stylesheet" type="text/css" />
+        <link href=//oup.silverchair-cdn.com/data/SiteBuilderAssetsOriginals/Live/CSS/journals/global.css rel="stylesheet" type="text/css" />
+    
+        <link href=//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/CSS/neuro-oncology/Site-364035332.css rel="stylesheet" type="text/css" />
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W6DD7HV');</script>
+
+    <script type="text/javascript">
+        var App = App || {};
+        App.LoginUserInfo = { 
+            isInstLoggedIn: [0] 
+        };
+
+        App.CurrentSubdomain = 'neuro-oncology';
+    </script>
+
+    
+    <script type="text/javascript" src=//oup.silverchair-cdn.com/UI/app/vendor/jquery-2.2.4.js></script>
+
+    
+    
+        <script type="application/ld+json">
+        {"@context":"http://schema.org","@id":"https://academic.oup.com/neuro-oncology/issue/21/4","@type":"PublicationIssue","name":"Neuro-Oncology","datePublished":"2019-03-18","issueNumber":"4","isPartOf":{"@id":"https://academic.oup.com/neuro-oncology","@type":"Periodical","name":"Neuro-Oncology","publisher":"Oxford University Press","issn":["1523-5866"]},"url":"https://academic.oup.com/neuro-oncology/issue/21/4","inLanguage":"en","copyrightHolder":"Society for Neuro-Oncology","copyrightYear":"2019","publisher":"Oxford University Press","description":"An official journal of the Society for Neuro-Oncology. Publishes high-quality research and information in all areas of neuro-oncology.","thumbnailURL":"https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/neuro-oncology/Issue/21/4/2/m_cover.png?Expires=1618405687&Signature=Snm01bWft7bTKuLSPTirBkmB3WOpTphNrCu-Sa4TRw2bbFUvAlvTUEQsy2S0JLAj3Qm3Iux6B3rcKOJcDyPPy6O69L-Vp2h4hBpRVQlkx5dxVelbxmi4tcaQ7zxcvmLIKMtJ23LBW4aTnX2y5Mb3s8a9slcVygueUXZqxNmIGsOgJx3mkkxqKkgF6bsB~TL9oSi~mEWTO2mn8rXfO8mNW2qQx5bC8WcriRFlnQ1lWRt77HAU0GayAUOvnbB9DSAyWcRx19mZOv1vehcvew4jXxiEmwpQVRdoBAUHBAknvo5zS4U8KjFHaSJHJAtTpp0X2YdtqIY89V4tQO6yPvTelA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"}
+    </script>
+
+
+
+    <link rel="canonical" href="https://academic.oup.com/neuro-oncology/issue/21/4" />
+
+
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script>
+
+    
+
+    <script type='text/javascript'>
+      var gptAdSlots = [];
+      googletag.cmd.push(function() {
+        var pathChar = '/';
+        
+        var mapping_ad1 = googletag.sizeMapping().
+        addSize([1024, 0], [[970, 90], [728, 90]]).
+        addSize([768, 0], [728, 90]).
+        addSize([0, 0], [320, 50]).build();
+        gptAdSlots["ad1"] = googletag.defineSlot(pathChar+'116097782'+pathChar+'neuro-oncology_InFront_Ad1', [[970, 90], [728, 90], [320, 50]], 'adBlockHeader').
+        defineSizeMapping(mapping_ad1).
+        addService(googletag.pubads());
+        
+        var mapping_ad2 = googletag.sizeMapping().
+	    addSize([0, 0], []).
+        addSize([768, 0], [[300, 250], [300, 600], [160, 600]]).build();
+        gptAdSlots["ad2"] = googletag.defineSlot(pathChar+'116097782'+pathChar+'neuro-oncology_InFront_Ad2', [[300, 250], [160, 600], [300, 600]], 'adBlockMainBodyTop').
+        defineSizeMapping(mapping_ad2).
+        addService(googletag.pubads());
+        
+        var mapping_ad3 = googletag.sizeMapping().
+	    addSize([0, 0], []).
+        addSize([768, 0], [[300, 250], [300, 600], [160, 600]]).build();
+        gptAdSlots["ad3"] = googletag.defineSlot(pathChar+'116097782'+pathChar+'neuro-oncology_InFront_Ad3', [[300, 250], [160, 600], [300, 600]], 'adBlockMainBodyBottom').
+        defineSizeMapping(mapping_ad3).
+        addService(googletag.pubads());
+        
+        var mapping_ad4 = googletag.sizeMapping().
+	    addSize([0, 0], []).
+        addSize([768, 0], [728, 90]).build();
+        gptAdSlots["ad4"] = googletag.defineSlot(pathChar+'116097782'+pathChar+'neuro-oncology_InFront_Ad4', [728, 90], 'adBlockFooter').
+        defineSizeMapping(mapping_ad4).
+        addService(googletag.pubads());
+        
+        googletag.pubads().setTargeting("jnlspage", "issue");
+        googletag.pubads().setTargeting("jnlsurl", "neuro-oncology/issue/21/4");
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        
+          ////////////////////////////////////// IMPORTANT: //////////////////////////////////////
+          // Article DOIs are passed to GPT to target specific articles. Because the DOI cannot //
+          // be accessed from Site.Master, put off calling enableServices() until the targeting //
+          // for DOI is set. Only call enableServices() if it is not going to be called later   //
+          // in Article.aspx. See Article.aspx                                                  //
+          ////////////////////////////////////////////////////////////////////////////////////////
+          googletag.enableServices();
+        
+      });
+    </script>
+    
+
+    <script>
+        var oupcookiepolicy_siteid = "journals";	  	// the website id	
+        var oupcookiepolicy_messagetype = 'implied';			            // type of alert message e.g, implied / explicit
+        var oupcookiepolicy_preferredlanguage = "en";		// preferred language of the website
+        var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+        var oupcookiepolicy_documentroot = '/';	  			                // the document root the cookie is set to
+    </script>
+    <noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="https://global.oup.com/cookiepolicy/">Find out more</a></noscript>
+
+    <script type="text/javascript">
+        var NTPT_PGEXTRA='event_type=Table_of_Contents&supplier_tag=SC_Journals&siteid=neuonc&authzrequired=false';
+    </script>
+<title>
+	Volume 21 Issue 4 | Neuro-Oncology | Oxford Academic
+</title></head>
+
+<body data-sitename="neuro-oncology" class="off-canvas pg_issue " theme-neuro-oncology>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6DD7HV"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+    <a href="#main" class="skipnav">Skip to Main Content</a>
+    <form method="post" action="./4" id="webform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NDA4NDM5MjBkZBftXXjqMeem6MnqHcPiOqngaiuW" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6666135C" />
+        </form>
+        
+        <input id="hdnSiteID" type="hidden" value="5334" />
+        <input id="hdnAdDelaySeconds" type="hidden" value="5000" />
+        <input id="hdnAdConfigurationTop" type="hidden" value="default" />
+        <input id="hdnAdConfigurationRightRail" type="hidden" value="sticky" />
+
+        
+
+        
+    <div class="master-container">
+        <section class="master-header row">
+                <div class="widget widget-SitePageHeader widget-instance-SitePageHeader">
+        
+    <div class="ad-banner js-ad-banner-header">
+    <div class="widget widget-AdBlock widget-instance-HeaderAd">
+        
+
+<div id="adBlockHeader"
+     style=" ">
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockHeader'); });
+    </script>
+</div>
+ 
+    </div>
+
+    </div>
+
+    <div class="oup-header">
+        <div class="center-inner-row">
+
+            <div class="oup-header-logo">
+                <a href="/"><img src="//oup.silverchair-cdn.com/UI/app/svg/umbrella/oxford-academic-logo.svg" alt="Oxford University Press" class="oup-header-image"></a>
+            </div><!-- /.oup-header-logo -->
+
+            <ul class="oup-header-menu account-menu">
+
+                <!-- MOBILE SEARCH  -->
+                <li class="oup-header-menu-item mobile">
+                    <button href="" class="btn btn-as-icon mobile-dropdown-toggle mobile-search-toggle">
+                        <i class="icon-menu_search"><span class="screenreader-text">Search</span></i>
+                    </button>
+                </li>
+
+                <!-- MOBILE MENU -->
+                <li class="oup-header-menu-item mobile">
+                    <button href="" class="btn btn-as-icon mobile-dropdown-toggle mobile-account-toggle">
+                        <i class="icon-menu_account"><span class="screenreader-text">Account Menu</span></i>
+                    </button>
+                </li>
+
+                <!-- MOBILE NAV -->
+                <li class="oup-header-menu-item mobile">
+                    <button href="" class="btn btn-as-icon mobile-dropdown-toggle mobile-nav-toggle">
+                        <i class="icon-menu_hamburger"><span class="screenreader-text">Menu</span></i>
+                    </button>
+                </li>
+
+                <!-- DESKTOP INSTITUTIONS -->
+
+                <!-- DESKTOP SIGN IN -->
+                <li class="oup-header-menu-item desktop">
+                    <a href="" class="dropdown-toggle signin" id="header-account-info-user-fullname">
+                        
+Sign In                        <i class="icon-general-arrow-filled-down arrow-icon"></i>
+                    </a>
+                    <div class="dropdown-panel dropdown-panel-signin dropdown-panel-form">
+                        <div class="spinner"></div>
+                    </div><!-- /.dropdown-panel -->
+                </li>
+
+                <!-- DESKTOP REGISTRATION -->
+                    <li class="oup-header-menu-item desktop"><a href="/my-account/register?siteId=5334&amp;returnUrl=%2fneuro-oncology%2fissue%2f21%2f4" class="register">Register</a></li>
+
+                <!-- LANGUAGE -->
+                    <!-- <li class="oup-header-menu-item desktop">
+                        <a href="" class="dropdown-toggle language">Language</a>
+                        <div class="dropdown-panel">
+                            <div class="dropdown-menu">
+                                <ul>
+                                    foreach (var lang in Model.LanguageOptions)
+                                    {
+                                        string selectedClass = (lang.SiteId == Model.SiteId ? " selected" : "");
+                                        Html.Raw(String.Format("<li class=\"header-language-item{0}\"><a href=\"//{1}\">{2}</a></li>", selectedClass, lang.SiteUrl, lang.LanguageText))
+                                        ;
+                                    }
+                                </ul>
+                            </div>
+                        </div>
+                    </li> -->
+
+            </ul><!-- /.oup-header-menu .account-menu -->
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.oup-header -->
+
+<div class="dropdown-panel-wrap">
+
+    
+    <div class="dropdown-panel mobile-search-dropdown">
+        <div class="mobile-search-inner-wrap">
+            <div class="navbar-search">
+                <div id="MobileMicrositeSearch" class="mobile-microsite-search">
+                    <label for="mobile-navbar-search-filter" class="screenreader-text">Navbar Search Filter</label>
+                    <select class="navbar-search-filter" id="mobile-navbar-search-filter">
+                                                    <optgroup label="Search within this journal">
+<option class="header-search-bar-filters-item" value="Issue">This issue</option><option class="header-search-bar-filters-item" value="">All  Neuro-Oncology</option>
+                            </optgroup>
+                            <optgroup label="Search beyond this journal">
+<option class="header-search-bar-filters-item" value="Parent">All  SNO Journals</option><option class="header-search-bar-filters-item" value="Journals">All  Journals</option>                            </optgroup>
+                    </select>
+
+
+
+
+
+                    <label for="MobileMicrositeSearchTerm" class="screenreader-text">Mobile Microsite Search Term</label>
+                    <input class="mobile-search-input mobile-microsite-search-term" type="text" maxlength="255" placeholder="Search" id="MobileMicrositeSearchTerm">
+
+                    <span id="MobileMicrositeSearchIcon" class="mobile-microsite-search-icon mobile-search-submit icon-menu_search"></span>
+
+                </div><!-- /#MobileMicrositeSearch -->
+            </div><!-- /.navbar-search -->
+        </div><!-- /.mobile-search-inner-wrap -->
+    </div><!-- /.dropdown-panel .dropdown-panel-search -->
+    
+    <div class="dropdown-panel mobile-account-dropdown">
+        <ul class="site-menu site-menu-lvl-0">
+            <li class="site-menu-item site-menu-lvl-0">
+                <a href="" class="nav-link mobile-account-signin dummy-link" id="header-account-info-user-fullname">
+                    
+Sign In                    <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                </a>
+                <ul class="site-menu site-menu-lvl-1 individual-menu">
+                    <li class="dropdown-signin-form">
+                        <div class="spinner"></div>
+                    </li>
+                </ul>
+            </li>
+                            <li class="site-menu-item">
+                    <a href="/my-account/register?siteId=5334&amp;returnUrl=%2fneuro-oncology%2fissue%2f21%2f4" class="register nav-link">Register</a>
+                </li>
+        </ul>
+    </div><!-- /.dropdown-panel .dropdown-panel-account -->
+    
+    <div class="dropdown-panel mobile-nav-dropdown">
+
+
+    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-0">
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255752">
+            <a href="/neuro-oncology/issue" class="nav-link ">Issues</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255749">
+            <a href="/neuro-oncology/#" class="nav-link dummy-link">More Content</a>
+                <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255753">
+            <a href="/neuro-oncology/advance-articles" class="nav-link ">Advance articles</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255754">
+            <a href="https://academic.oup.com/neuro-oncology/search-results?page=1&amp;f_OUPSeries=Editor%27s+Choice" class="nav-link ">Editor's Choice</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255755">
+            <a href="/neuro-oncology/pages/supplements" class="nav-link ">Supplements</a>
+            
+        </li>
+    </ul>
+
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255750">
+            <a href="/neuro-oncology/#" class="nav-link dummy-link">Submit</a>
+                <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255756">
+            <a href="/neuro-oncology/pages/General_Instructions" class="nav-link ">Author Guidelines</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255757">
+            <a href="https://www.editorialmanager.com/n-o" class="nav-link ">Submission Site</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255758">
+            <a href="http://www.oxfordjournals.org/en/oxford-open/index.html" class="nav-link ">Open Access Options</a>
+            
+        </li>
+    </ul>
+
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255759">
+            <a href="/neuro-oncology/subscribe" class="nav-link ">Purchase</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255760">
+            <a href="/my-account/email-alerts" class="nav-link ">Alerts</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255751">
+            <a href="/neuro-oncology/#" class="nav-link dummy-link">About</a>
+                <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255761">
+            <a href="/neuro-oncology/pages/About" class="nav-link ">About Neuro-Oncology</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255762">
+            <a href="http://www.soc-neuro-onc.org/" class="nav-link ">About the Society for Neuro-Oncology</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255763">
+            <a href="http://www.jsn-o.com/eng/index.html" class="nav-link ">About the Japan Society for Neuro-Oncology</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255764">
+            <a href="https://www.eano.eu" class="nav-link ">About the European Association of Neuro-Oncology</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255765">
+            <a href="/neuro-oncology/pages/Editorial_Board" class="nav-link ">Editorial Board</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255766">
+            <a href="http://www.oupmediainfo.com/#!/mediakit/neuro-oncology" class="nav-link ">Advertising and Corporate Services</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255767">
+            <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?keywords=&amp;t732=471555&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102&amp;search=" class="nav-link ">Journals Career Network</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255768">
+            <a href="https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/self_archiving_policy_b" class="nav-link ">Self-Archiving Policy</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255769">
+            <a href="/neuro-oncology/pages/Policies" class="nav-link ">Policies</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255770">
+            <a href="http://www.oxfordjournals.org/en/access-purchase/dispatch-dates.html" class="nav-link ">Dispatch Dates</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255771">
+            <a href="/neuro-oncology/pages/Terms_and_Conditions" class="nav-link ">Terms and Conditions</a>
+            
+        </li>
+    </ul>
+
+        </li>
+    </ul>
+    </div><!-- /.dropdown-panel .dropdown-panel-nav -->
+
+</div><!-- /.dropdown-panel-wrap -->
+
+
+    <div class="journal-header journal-bg">
+        <div class="center-inner-row">
+                <a href="/neuro-oncology" class=" journal-logo-container">
+
+            <img id="logo-Neuro-Oncology" class="journal-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/neuro-oncology/neuro-oncology_title-1520983791.svg" alt="Neuro-Oncology" />
+
+                </a>
+            <div class="society-logo-block">
+                    <div class="society-block-inner-wrap">
+                            <a href="http://www.soc-neuro-onc.org/" target="" class="society-logo-container">
+                                <img id="logo-SocietyforNeuro-Oncology" class="society-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/neuro-oncology/neuro-oncology_h1158818095.png" alt="Society for Neuro-Oncology" />
+                            </a>
+                                            </div><!-- /.society-block-inner-wrap - NOTE: used to vertically center one or more society logos -->
+            </div> <!-- /.society-logo-block - NOTE: We want this element on the page, even if there are no society logos -->
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.journal-header -->
+
+<div class="navbar">
+    <div class="center-inner-row">
+        <nav class="navbar-menu">
+
+
+    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-0">
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255752">
+            <a href="/neuro-oncology/issue" class="nav-link ">Issues</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255749">
+            <a href="/neuro-oncology/#" class="nav-link dummy-link">More Content</a>
+                <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255753">
+            <a href="/neuro-oncology/advance-articles" class="nav-link ">Advance articles</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255754">
+            <a href="https://academic.oup.com/neuro-oncology/search-results?page=1&amp;f_OUPSeries=Editor%27s+Choice" class="nav-link ">Editor's Choice</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255755">
+            <a href="/neuro-oncology/pages/supplements" class="nav-link ">Supplements</a>
+            
+        </li>
+    </ul>
+
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255750">
+            <a href="/neuro-oncology/#" class="nav-link dummy-link">Submit</a>
+                <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255756">
+            <a href="/neuro-oncology/pages/General_Instructions" class="nav-link ">Author Guidelines</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255757">
+            <a href="https://www.editorialmanager.com/n-o" class="nav-link ">Submission Site</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255758">
+            <a href="http://www.oxfordjournals.org/en/oxford-open/index.html" class="nav-link ">Open Access Options</a>
+            
+        </li>
+    </ul>
+
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255759">
+            <a href="/neuro-oncology/subscribe" class="nav-link ">Purchase</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255760">
+            <a href="/my-account/email-alerts" class="nav-link ">Alerts</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1255751">
+            <a href="/neuro-oncology/#" class="nav-link dummy-link">About</a>
+                <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255761">
+            <a href="/neuro-oncology/pages/About" class="nav-link ">About Neuro-Oncology</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255762">
+            <a href="http://www.soc-neuro-onc.org/" class="nav-link ">About the Society for Neuro-Oncology</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255763">
+            <a href="http://www.jsn-o.com/eng/index.html" class="nav-link ">About the Japan Society for Neuro-Oncology</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255764">
+            <a href="https://www.eano.eu" class="nav-link ">About the European Association of Neuro-Oncology</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255765">
+            <a href="/neuro-oncology/pages/Editorial_Board" class="nav-link ">Editorial Board</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255766">
+            <a href="http://www.oupmediainfo.com/#!/mediakit/neuro-oncology" class="nav-link ">Advertising and Corporate Services</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255767">
+            <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?keywords=&amp;t732=471555&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102&amp;search=" class="nav-link ">Journals Career Network</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255768">
+            <a href="https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/self_archiving_policy_b" class="nav-link ">Self-Archiving Policy</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255769">
+            <a href="/neuro-oncology/pages/Policies" class="nav-link ">Policies</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255770">
+            <a href="http://www.oxfordjournals.org/en/access-purchase/dispatch-dates.html" class="nav-link ">Dispatch Dates</a>
+            
+        </li>
+        <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1255771">
+            <a href="/neuro-oncology/pages/Terms_and_Conditions" class="nav-link ">Terms and Conditions</a>
+            
+        </li>
+    </ul>
+
+        </li>
+    </ul>
+        </nav>
+            <div class="navbar-search-container">
+                <div class="navbar-search-close js_close-navsearch">Close</div>
+                <div class="navbar-search">
+                    <div id="MicrositeSearch" class="microsite-search">
+                        <label for="navbar-search-filter" class="screenreader-text">search filter</label>
+                        <select class="navbar-search-filter" id="navbar-search-filter">
+                                                            <optgroup label="Search within this journal">
+<option class="header-search-bar-filters-item" value="Issue" >This issue</option><option class="header-search-bar-filters-item" value="" selected="selected">All  Neuro-Oncology</option>
+                                </optgroup>
+                                <optgroup label="Search beyond this journal">
+<option class="header-search-bar-filters-item" value="Parent" >All  SNO Journals</option><option class="header-search-bar-filters-item" value="Journals" >All  Journals</option>                                </optgroup>
+                        </select>
+
+                        <label for="MicrositeSearchTerm" class="screenreader-text">search input</label>
+                        <input class="navbar-search-input microsite-search-term" type="text" maxlength="255" id="MicrositeSearchTerm" title="search input">
+
+                        <span id="MicrositeSearchIcon" class="microsite-search-icon navbar-search-submit icon-menu_search"></span>
+
+                    </div><!-- /#MicrositeSearch -->
+                </div><!-- /.navbar-search -->
+                <div class="navbar-search-advanced"><a href="/neuro-oncology/advanced-search" class="advanced-search js-advanced-search">Advanced Search</a></div>
+            </div><!-- /.navbar-search-container -->
+            <div class="navbar-search-collapsed"><i class="icon-menu_search js_expand-navsearch"></i></div>
+    </div><!-- /.center-inner-row -->
+</div><!-- /.navbar -->
+
+    <input type="hidden" name="searchScope" id="hfSolrJournalID" value="" />
+    <input type="hidden" name="parentSiteName" id="hfParentSiteName" value="SNO Journals" />
+    <input type="hidden" name="parentSiteUrl" id="hfparentSiteUrl" value="academic.oup.com/sno" />
+    <input type="hidden" name="siteID" id="hfsiteID" value="5334" />
+    <input type="hidden" name="parentSiteID" id="hfparentSiteID" value="5539" />
+    <input type="hidden" id="hfSolrJournalName" value="" />
+    <input type="hidden" id="hfSolrMaxAllowSearchChar" value="100" />
+    <input type="hidden" id="hfJournalShortName" value="" />
+    <input type="hidden" id="hfSearchPlaceholder" value="" />
+    <input type="hidden" name="hfGlobalSearchSiteURL" id="hfGlobalSearchSiteURL" value="" />
+    <input type="hidden" name="journalSiteScope" id="hfjournalSiteScope" value="Journals" />
+    <input type="hidden" name="parentSiteScope" id="hfparentSiteScope" value="Parent" />
+    <input type="hidden" name="defaultSearchURL" id="hfdefaultSearchURL" value="search-results?page=1&amp;q=" />
+    <input type="hidden" name="issueSearch" id="hfIssueSearch" value="&amp;fl_IssueID=115091" />
+    <input type="hidden" name="issueSiteScope" id="hfIssueSiteScope" value="Issue" />
+<input id="hfDefaultAdvancedSearchUrl" name="hfDefaultAdvancedSearchUrl" type="hidden" value="advanced-search?page=1&amp;q=" />    <input type="hidden" name="hfSearchSiteURL" id="hfSiteURL" value="academic.oup.com/neuro-oncology" />
+    <script type="text/javascript">
+        (function () {
+            var hfSiteUrl = document.getElementById('hfSiteURL');
+            var siteUrl = hfSiteUrl.value;
+            var subdomainIndex = siteUrl.indexOf('/');
+
+            hfSiteUrl.value = location.host + (subdomainIndex >= 0 ? siteUrl.substring(subdomainIndex) : '');
+        })();
+    </script>
+<input id="routename" name="RouteName" type="hidden" value="neuro-oncology" /> 
+    </div>
+
+        </section>
+        <main id="main" class="js-main" tabindex="-1">
+            <section class="master-main row">
+                <div class="center-inner-row no-overflow">
+                    
+    
+    <div class="page-column-wrap">
+
+            <div class="widget widget-Issue widget-instance-OUP_Issue">
+        
+<div class="issue-browse__inner-wrap">
+
+        <div class="issue-browse-top issue-dropdown-wrap">
+
+            <h2>Browse issues</h2>
+
+            
+            <div class="issue-browse-years-nav select-wrap">
+                <label for="YearsList" class="issue-browse-by-year-label">Year</label>
+                <div class="single-dropdown-wrap dropdown-year">
+                    <select id="YearsList" class="issue-browse-year-list issue-browse-select">
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/21/1" selected>2019</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/20/1">2018</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/19/1">2017</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/18/6">2016</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/17/11">2015</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/16/12">2014</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/15/5">2013</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/14/2">2012</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/13/4">2011</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/12/6">2010</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/11/5">2009</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/10/4">2008</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/9/3">2007</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/8/3">2006</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/7/2">2005</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/6/2">2004</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/5/3">2003</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/4/1">2002</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/3/2">2001</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/2/4">2000</option>
+                                <option class="issue-browse-option year-entry" value="/neuro-oncology/issue/1/2">1999</option>
+                    </select>
+                </div>
+            </div><!-- /.issue-browse-years-nav -->
+            
+            <div class="issue-browse-issues-nav select-wrap">
+
+                <label for="IssuesList" class="issue-browse-by-issue-label">Issue</label>
+                <div class="single-dropdown-wrap dropdown-issue">
+                    <select id="IssuesList" class="issue-browse-issues-list issue-browse-select">
+                                <option class="issue-browse-option issue-entry" value="/neuro-oncology/issue/21/1">Volume 21, Issue 1, January 2019, Pages 1–142</option>
+                                <option class="issue-browse-option issue-entry" value="/neuro-oncology/issue/21/Supplement_1">Volume 21, Issue Supplement_1, January 2019</option>
+                                <option class="issue-browse-option issue-entry" value="/neuro-oncology/issue/21/2">Volume 21, Issue 2, February 2019, Pages 143–287</option>
+                                <option class="issue-browse-option issue-entry" value="/neuro-oncology/issue/21/3">Volume 21, Issue 3, March 2019, Pages 289–415</option>
+                                <option class="issue-browse-option issue-entry selected" value="/neuro-oncology/issue/21/4" selected>Volume 21, Issue 4, April 2019, Pages 417–558</option>
+
+                    </select>
+                </div>
+            </div><!-- /.issue-browse-issues-nav -->
+
+                <div class="issue-browse-volume-link">
+                    <a href="/neuro-oncology/issue/21/4?browseBy=volume">Browse by volume</a>
+                </div>
+
+                <div class="issue-browse-link-separator">
+                                            <div class="issue-browse-supplements-link">
+                            <a href="/neuro-oncology/supplements">Browse supplements</a>
+                        </div>
+                </div>
+
+        </div><!-- /.issue-browse-top row -->
+
+    <div id="InfoColumn" class="issue-browse-left-nav page-column page-column--left">
+        <div class="info-inner-wrap">
+            <div class="info-widget-wrap">
+                <div class="issue-page-navigation">
+                                <img class="fb-featured-image" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/neuro-oncology/Issue/21/4/2/m_cover.png?Expires=1555396285&amp;Signature=paW-hwzntmk6bAVxFMY3JlhysN8r8djvEX9hhL0S4M73EhB8RONIGGH1BZfp91Cx~1TmlKIz2ZsyJrF~oYj2HHqfuaQjfVAccX4DOS23iJCBiiGSSdevgzTJPCTY80sThxeDpzpddzNHSXMPDrpCkyGDAK92Z0ylwUDHk4ZvcZKRpICuRJnWWkW8yltbr1dTqWRXouef07ZVvRbLsVgnCOjRMFSsSv1OLgM6LjT3f5hSleABozsAiDn9M5Vd8b0VFM1i5A6xbSyNhr-HEnszsurC97w75XIWgzDF4TR5ys~e2a8haRj4AwJNdOHZExND-Blh~sNz5nAfjjHVZrShxQ__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Issue Cover" />
+                </div><!-- /.issue-page-navigation -->
+                <div class="issue-info-text">
+                    <div class="issue-info-pub">Volume 21, Issue 4</div><div class="issue-info-date">April 2019</div>
+
+
+                        <div class="issue-cover-figure-link">
+                            <a reveal-id="IssueCoverFigureCaption" data-open="IssueCoverFigureCaption" class="link-reveal">
+                                <span>Cover image</span>
+                            </a>
+                            <div content-id="IssueCoverFigureCaption" class="fig fig-modal reveal-modal">
+                                <h4>Cover image</h4>
+                                <div class="IssueCoverFigure">
+                                    <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/neuro-oncology/Issue/21/4/2/coverfig.png?Expires=1555396285&amp;Signature=iP5Uj~MYvPxsELHJp8km-Y2HXbsaCxQW5u54UOUiKGRvNtpmjiBAoxaWJ2DmpEM4wwIDVTHWmo0itmq6PwD08Pf0dpF6~jvDPR2TsMezWe9WBni9kS-HLzH55uCW3VBmGiasRZpvhG-tXNg12wDIlVMrwASM-~0RF0FQ79fZMqGf5Wz62pNmDZgv9DLvHhPPhayBaWDr6fLttfdLyeU0G9Kb0CbOdi8Ge7IeR37AkSgT~P8tf7EUvHlNaNybFy3aaB6aXHuC~7dZ5Xwf-8rtt5S0dNlc~FrYsSY8aRTrO5dSKy9IpCP1lQFsvyL4Qj6rhsULRUraxaFy6Jna1nsVHg__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="issue cover" />
+                                </div>
+                                <div class="IssueCoverCaption">
+                                    Detail from Figure 6 from the article “Radiation-induced astrocyte senescence is rescued by ?133p53” by Turnquist et al. beginning
+on p. 474.
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="issue-info-details">
+                                            <div class="issue-info-ISSN">ISSN 1522-8517</div>
+                                            <div class="issue-info-EISSN">EISSN 1523-5866</div>
+                </div>
+            </div><!-- /.info-widget-wrap -->
+         
+
+
+<div id="scrollMenu" class="responsive-issue-nav">
+
+    <button class="toggle-left-col__close btn-as-icon icon-general-close">
+        <span class="screenreader-text">Close mobile search navigation</span>
+    </button>
+    <div class="responsive-nav-title">Issue navigation</div>
+
+    <!--desktop / tablet navigation -->
+    <ul id="largeJumptoSection" class="artTypeJumpLinks list-issue-jumplinks">
+
+        
+        <li class="section-jump-link parent noSubcat" link-destination="824911-5372924" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824911-5372924" data-page="1" data-ordinal="0">Editorials</a>
+            </div>
+        </li>
+        <li class="section-jump-link parent noSubcat" link-destination="824912-5382426" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824912-5382426" data-page="1" data-ordinal="2">Highlights from the Literature</a>
+            </div>
+        </li>
+        <li class="section-jump-link parent noSubcat" link-destination="824913-5382423" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824913-5382423" data-page="1" data-ordinal="3">Guidelines</a>
+            </div>
+        </li>
+        <li class="section-jump-link parent noSubcat" link-destination="824914-5172286" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824914-5172286" data-page="1" data-ordinal="4">Review</a>
+            </div>
+        </li>
+        <li class="section-jump-link parent noSubcat" link-destination="824915-5140128" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824915-5140128" data-page="1" data-ordinal="5">Basic and Translational Investigations</a>
+            </div>
+        </li>
+        <li class="section-jump-link parent noSubcat" link-destination="824916-5274483" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824916-5274483" data-page="1" data-ordinal="10">Epidemiology</a>
+            </div>
+        </li>
+        <li class="section-jump-link parent noSubcat" link-destination="824917-5212065" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824917-5212065" data-page="1" data-ordinal="11">Neuroimaging</a>
+            </div>
+        </li>
+        <li class="section-jump-link parent noSubcat" link-destination="824918-5382410" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824918-5382410" data-page="1" data-ordinal="14">Pediatric Neuro-Oncology</a>
+            </div>
+        </li>
+        <li class="section-jump-link parent noSubcat" link-destination="824919-5382425" data-level="1">
+            
+            <div class="section-jump-link__link-wrap">
+                <a class="jumplink js-jumplink scrollTo" href="#824919-5382425" data-page="1" data-ordinal="16">Society News</a>
+            </div>
+        </li>
+    </ul>
+</div><!-- /#scrollMenu -->
+            <br/>
+            <div>
+                <!-- todo: UI -->
+                <span class="issue-link--prev "><a href="/neuro-oncology/issue/21/3">&lt;&nbsp;Previous</a></span>
+
+                <!-- todo: UI -->
+                <span class="issue-link--next invisible"><a>Next&nbsp;&gt;</a></span>
+            </div>
+        </div><!-- /.info-inner-wrap -->
+    </div><!-- /#InfoColumn .page-column-/-left -->
+
+    <div id="ContentColumn" class="page-column page-column--center">
+
+        <div class="issue-browse-top issue-browse-mobile-nav">
+            <button class="toggle-left-col toggle-left-col__issue btn-as-link">Issue Navigation</button>
+        </div><!-- /.issue-browse-top .issue-browse-mobile-nav -->
+
+        <div class="content-inner-wrap">
+
+            <div>
+                            </div>
+
+            <h1 class="issue-identifier"> <div class="issue-info-pub">Volume 21, Issue 4, April 2019</div> </h1>
+                        <div id="IssueMultimedia">
+            </div><!-- /#IssueMultimedia -->
+            <div id="ArticleList">
+
+
+
+
+
+    <input type="hidden" value="150" id="ArticleListPageSize" />
+    <div id="resourceTypeList-OUP_Issue" class="article-list-resources">
+
+
+        
+
+        
+        <div class="section-container">
+                        <section>
+                            <h4 id="824911-5372924" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824911-5372924">Editorials</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5372924">
+                                    <a href="/neuro-oncology/article/21/4/417/5372924">TERT promoter mutation as a diagnostic marker for diffuse gliomas</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Koichi+Ichimura">Koichi Ichimura</a></span>
+                                        
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 417–418, <a href='https://doi.org/10.1093/neuonc/noz025'>https://doi.org/10.1093/neuonc/noz025</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5372924" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="extract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5372924" aria-expanded="false">Extract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5372924" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/417/5372924" class="viewArticleLink">View article</a>
+                                    </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+
+                                                                <div class="al-expanded-section" id="target5372924" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5372925">
+                                    <a href="/neuro-oncology/article/21/4/419/5372925">The new kid on the block: suicide gene therapy to modulate cancer immunosurveillance for children with high-risk malignant brain tumors</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Sameer+F+Sait">Sameer F Sait</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Matthias+A+Karajannis">Matthias A Karajannis</a></span>
+                                        
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 419–420, <a href='https://doi.org/10.1093/neuonc/noz026'>https://doi.org/10.1093/neuonc/noz026</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5372925" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="extract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5372925" aria-expanded="false">Extract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5372925" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/419/5372925" class="viewArticleLink">View article</a>
+                                    </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+
+                                                                <div class="al-expanded-section" id="target5372925" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                                </div>
+                            </section>
+                        <section>
+                            <h4 id="824912-5382426" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824912-5382426">Highlights from the Literature</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5382426">
+                                    <a href="/neuro-oncology/article/21/4/421/5382426">Highlights from the Literature</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 421–423, <a href='https://doi.org/10.1093/neuonc/noz050'>https://doi.org/10.1093/neuonc/noz050</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5382426" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="extract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5382426" aria-expanded="false">Extract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5382426" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/421/5382426" class="viewArticleLink">View article</a>
+                                    </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+
+                                                                <div class="al-expanded-section" id="target5382426" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                                </div>
+                            </section>
+                        <section>
+                            <h4 id="824913-5382423" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824913-5382423">Guidelines</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5382423">
+                                    <a href="/neuro-oncology/article/21/4/424/5382423">Anticonvulsant prophylaxis and steroid use in adults with metastatic brain tumors: summary of SNO and ASCO endorsement of the Congress of Neurological Surgeons guidelines<sup></sup></a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Susan+M+Chang">Susan M Chang</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Hans+Messersmith">Hans Messersmith</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Manmeet+Ahluwalia">Manmeet Ahluwalia</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=David+Andrews">David Andrews</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Priscilla+K+Brastianos">Priscilla K Brastianos</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 424–427, <a href='https://doi.org/10.1093/neuonc/noz034'>https://doi.org/10.1093/neuonc/noz034</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5382423" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5382423" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5382423" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/424/5382423" class="viewArticleLink">View article</a>
+                                    </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">adult</a>, <a class="al-term sriTopiclink">american society of clinical oncology</a>, <a class="al-term sriTopiclink">anticonvulsants</a>, <a class="al-term sriTopiclink">guidelines</a>, <a class="al-term sriTopiclink">metastatic malignant neoplasm to brain</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5382423" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                                </div>
+                            </section>
+                        <section>
+                            <h4 id="824914-5172286" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824914-5172286">Review</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5172286">
+                                    <a href="/neuro-oncology/article/21/4/428/5172286">Novel methods to diagnose leptomeningeal metastases in breast cancer</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Lindsay+Angus">Lindsay Angus</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=John+W+M+Martens">John W M Martens</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Martin+J+van+den+Bent">Martin J van den Bent</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Peter+A+E+Sillevis+Smitt">Peter A E Sillevis Smitt</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Stefan+Sleijfer">Stefan Sleijfer</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 428–439, <a href='https://doi.org/10.1093/neuonc/noy186'>https://doi.org/10.1093/neuonc/noy186</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5172286" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5172286" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5172286" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/428/5172286" class="viewArticleLink">View article</a>
+                                    </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">biological markers</a>, <a class="al-term sriTopiclink">breast cancer</a>, <a class="al-term sriTopiclink">carcinomatous meningitis</a>, <a class="al-term sriTopiclink">cytology</a>, <a class="al-term sriTopiclink">diagnosis</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5172286" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                                </div>
+                            </section>
+                        <section>
+                            <h4 id="824915-5140128" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824915-5140128">Basic and Translational Investigations</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5140128">
+                                    <a href="/neuro-oncology/article/21/4/440/5140128">Sensitive and rapid detection of <em>TERT</em> promoter and <em>IDH</em> mutations in diffuse gliomas</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Bill+H+Diplas">Bill H Diplas</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Heng+Liu">Heng Liu</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Rui+Yang">Rui Yang</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Landon+J+Hansen">Landon J Hansen</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Alexis+L+Zachem">Alexis L Zachem</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 440–450, <a href='https://doi.org/10.1093/neuonc/noy167'>https://doi.org/10.1093/neuonc/noy167</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5140128" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5140128" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5140128" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/440/5140128" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/440/5140128#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">glioma</a>, <a class="al-term sriTopiclink">mutation</a>, <a class="al-term sriTopiclink">neoplasms</a>, <a class="al-term sriTopiclink">idh1 gene</a>, <a class="al-term sriTopiclink">alleles</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5140128" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                    <div class="left al-article-categories">
+<div class="wi-fullname brand-fg"><a href="https://academic.oup.com/neuro-oncology/search-results?f_OUPSeries=Editor's+Choice">Editor's Choice</a></div>                                    </div>
+                                <h5 class="customLink item-title" data-articleidaccess="5280678">
+                                    <a href="/neuro-oncology/article/21/4/451/5280678">Using germline variants to estimate glioma and subtype risks</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Jeanette+E+Eckel-Passow">Jeanette E Eckel-Passow</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Paul+A+Decker">Paul A Decker</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Matt+L+Kosel">Matt L Kosel</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Thomas+M+Kollmeyer">Thomas M Kollmeyer</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Annette+M+Molinaro">Annette M Molinaro</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 451–461, <a href='https://doi.org/10.1093/neuonc/noz009'>https://doi.org/10.1093/neuonc/noz009</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5280678" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5280678" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5280678" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/451/5280678" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/451/5280678#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">glioma</a>, <a class="al-term sriTopiclink">single nucleotide polymorphism</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5280678" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5260093">
+                                    <a href="/neuro-oncology/article/21/4/462/5260093">ECT2/PSMD14/PTTG1 axis promotes the proliferation of glioma through stabilizing E2F1</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Tongle+Zhi">Tongle Zhi</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Kuan+Jiang">Kuan Jiang</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Xiupeng+Xu">Xiupeng Xu</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Tianfu+Yu">Tianfu Yu</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Fengqi+Zhou">Fengqi Zhou</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 462–473, <a href='https://doi.org/10.1093/neuonc/noy207'>https://doi.org/10.1093/neuonc/noy207</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5260093" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5260093" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5260093" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/462/5260093" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/462/5260093#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">glioma</a>, <a class="al-term sriTopiclink">ubiquitination</a>, <a class="al-term sriTopiclink">western blotting</a>, <a class="al-term sriTopiclink">catabolism</a>, <a class="al-term sriTopiclink">down-regulation</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5260093" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5273763">
+                                    <a href="/neuro-oncology/article/21/4/474/5273763">Radiation-induced astrocyte senescence is rescued by Δ133p53</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Casmir+Turnquist">Casmir Turnquist</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Jessica+A+Beck">Jessica A Beck</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Izumi+Horikawa">Izumi Horikawa</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Ifeyinwa+E+Obiorah">Ifeyinwa E Obiorah</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Natalia+Von+Muhlinen">Natalia Von Muhlinen</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 474–485, <a href='https://doi.org/10.1093/neuonc/noz001'>https://doi.org/10.1093/neuonc/noz001</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5273763" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5273763" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5273763" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/474/5273763" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/474/5273763#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">aging</a>, <a class="al-term sriTopiclink">astrocytes</a>, <a class="al-term sriTopiclink">brain injuries</a>, <a class="al-term sriTopiclink">cell aging</a>, <a class="al-term sriTopiclink">protein isoforms</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5273763" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5274482">
+                                    <a href="/neuro-oncology/article/21/4/486/5274482">Preclinical assessment of MEK1/2 inhibitors for neurofibromatosis type 2–associated schwannomas reveals differences in efficacy and drug resistance development</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Marisa+A+Fuse">Marisa A Fuse</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Christine+T+Dinh">Christine T Dinh</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Jeremie+Vitte">Jeremie Vitte</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Joanna+Kirkpatrick">Joanna Kirkpatrick</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Thomas+Mindos">Thomas Mindos</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 486–497, <a href='https://doi.org/10.1093/neuonc/noz002'>https://doi.org/10.1093/neuonc/noz002</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5274482" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5274482" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5274482" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/486/5274482" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/486/5274482#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">acoustic neuroma</a>, <a class="al-term sriTopiclink">cobimetinib</a>, <a class="al-term sriTopiclink">cyclin d1</a>, <a class="al-term sriTopiclink">drug resistance</a>, <a class="al-term sriTopiclink">genes, neurofibromatosis 2</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5274482" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                                </div>
+                            </section>
+                        <section>
+                            <h4 id="824916-5274483" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824916-5274483">Epidemiology</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5274483">
+                                    <a href="/neuro-oncology/article/21/4/498/5274483">Body mass index, comorbidities, and hormonal factors in relation to meningioma in an ethnically diverse population: the Multiethnic Cohort</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Ivo+S+Muskens">Ivo S Muskens</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Anna+H+Wu">Anna H Wu</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Jacqueline+Porcel">Jacqueline Porcel</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Iona+Cheng">Iona Cheng</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Lo%c3%afc+Le+Marchand">Loïc Le Marchand</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 498–507, <a href='https://doi.org/10.1093/neuonc/noz005'>https://doi.org/10.1093/neuonc/noz005</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5274483" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5274483" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5274483" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/498/5274483" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/498/5274483#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">body mass index procedure</a>, <a class="al-term sriTopiclink">meningioma</a>, <a class="al-term sriTopiclink">comorbidity</a>, <a class="al-term sriTopiclink">hypertension</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5274483" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                                </div>
+                            </section>
+                        <section>
+                            <h4 id="824917-5212065" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824917-5212065">Neuroimaging</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5212065">
+                                    <a href="/neuro-oncology/article/21/4/508/5212065">Differentiation of peripheral nerve sheath tumors in patients with neurofibromatosis type 1 using diffusion-weighted magnetic resonance imaging</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Lennart+Well">Lennart Well</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Johannes+Salamon">Johannes Salamon</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Michael+G+Kaul">Michael G Kaul</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Said+Farschtschi">Said Farschtschi</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Jochen+Herrmann">Jochen Herrmann</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 508–516, <a href='https://doi.org/10.1093/neuonc/noy199'>https://doi.org/10.1093/neuonc/noy199</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5212065" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5212065" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5212065" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/508/5212065" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/508/5212065#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">diagnosis</a>, <a class="al-term sriTopiclink">diagnostic imaging</a>, <a class="al-term sriTopiclink">nerve sheath tumors</a>, <a class="al-term sriTopiclink">neurofibromatosis 1</a>, <a class="al-term sriTopiclink">magnetic resonance imaging</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5212065" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5113424">
+                                    <a href="/neuro-oncology/article/21/4/517/5113424">Combined iron oxide nanoparticle ferumoxytol and gadolinium contrast enhanced MRI define glioblastoma pseudoprogression</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Ramon+F+Barajas">Ramon F Barajas, Jr</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Bronwyn+E+Hamilton">Bronwyn E Hamilton</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Daniel+Schwartz">Daniel Schwartz</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Heather+L+McConnell">Heather L McConnell</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=David+R+Pettersson">David R Pettersson</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 517–526, <a href='https://doi.org/10.1093/neuonc/noy160'>https://doi.org/10.1093/neuonc/noy160</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5113424" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5113424" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5113424" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/517/5113424" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/517/5113424#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">diagnosis</a>, <a class="al-term sriTopiclink">ferumoxytol</a>, <a class="al-term sriTopiclink">gadolinium</a>, <a class="al-term sriTopiclink">glioblastoma</a>, <a class="al-term sriTopiclink">magnetic resonance imaging</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5113424" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5290387">
+                                    <a href="/neuro-oncology/article/21/4/527/5290387">Guiding the first biopsy in glioma patients using estimated Ki-67 maps derived from MRI: conventional versus advanced imaging</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Evan+D+H+Gates">Evan D H Gates</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Jonathan+S+Lin">Jonathan S Lin</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Jeffrey+S+Weinberg">Jeffrey S Weinberg</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Jackson+Hamilton">Jackson Hamilton</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Sujit+S+Prabhu">Sujit S Prabhu</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 527–536, <a href='https://doi.org/10.1093/neuonc/noz004'>https://doi.org/10.1093/neuonc/noz004</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5290387" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5290387" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5290387" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/527/5290387" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/527/5290387#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">biopsy</a>, <a class="al-term sriTopiclink">diagnostic imaging</a>, <a class="al-term sriTopiclink">glioma</a>, <a class="al-term sriTopiclink">ki-67 antigen</a>, <a class="al-term sriTopiclink">magnetic resonance imaging</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5290387" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                                </div>
+                            </section>
+                        <section>
+                            <h4 id="824918-5382410" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824918-5382410">Pediatric Neuro-Oncology</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5382410">
+                                    <a href="/neuro-oncology/article/21/4/537/5382410">Phase I study of gene-mediated cytotoxic immunotherapy with AdV-tk as adjuvant to surgery and radiation for pediatric malignant glioma and recurrent ependymoma</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Mark+W+Kieran">Mark W Kieran</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Liliana+Goumnerova">Liliana Goumnerova</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Peter+Manley">Peter Manley</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Susan+N+Chi">Susan N Chi</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Karen+J+Marcus">Karen J Marcus</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 537–546, <a href='https://doi.org/10.1093/neuonc/noy202'>https://doi.org/10.1093/neuonc/noy202</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5382410" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5382410" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5382410" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/537/5382410" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/537/5382410#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">adenoviruses</a>, <a class="al-term sriTopiclink">adult</a>, <a class="al-term sriTopiclink">ependymoma</a>, <a class="al-term sriTopiclink">genes</a>, <a class="al-term sriTopiclink">glioblastoma</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5382410" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                    <div class="left al-article-categories">
+<div class="wi-fullname brand-fg"><a href="https://academic.oup.com/neuro-oncology/search-results?f_OUPSeries=Editor's+Choice">Editor's Choice</a></div>                                    </div>
+                                <h5 class="customLink item-title" data-articleidaccess="5191122">
+                                    <a href="/neuro-oncology/article/21/4/547/5191122">Craniospinal irradiation as part of re-irradiation for children with recurrent intracranial ependymoma</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+                                    <div class="al-authors-list">
+                                        <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Derek+S+Tsang">Derek S Tsang</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Louise+Murray">Louise Murray</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Vijay+Ramaswamy">Vijay Ramaswamy</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Michal+Zapotocky">Michal Zapotocky</a></span>; <span class="wi-fullname brand-fg"><a href="/neuro-oncology/search-results?f_Authors=Uri+Tabori">Uri Tabori</a></span>
+                                         ... 
+                                    </div>
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Pages 547–557, <a href='https://doi.org/10.1093/neuonc/noy191'>https://doi.org/10.1093/neuonc/noy191</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5191122" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="abstract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5191122" aria-expanded="false">Abstract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5191122" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/547/5191122" class="viewArticleLink">View article</a>
+                                    </li>
+                                        <li>
+                                            <a href="/neuro-oncology/article/21/4/547/5191122#supplementary-data" class="SupplementaryDataLink">Supplementary data</a>
+                                        </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+                                        <div class="al-terms-wrapper">
+                                            <span class="al-terms-header">Tags:</span>
+
+
+
+                                            <span><a class="al-term sriTopiclink">child</a>, <a class="al-term sriTopiclink">craniospinal irradiation</a>, <a class="al-term sriTopiclink">ependymoma</a>, <a class="al-term sriTopiclink">re-irradiation</a>, <a class="al-term sriTopiclink">fresh-frozen plasma</a></span>
+                                        </div><!-- /.al-terms-wrapper -->
+
+                                                                <div class="al-expanded-section" id="target5191122" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                                </div>
+                            </section>
+                        <section>
+                            <h4 id="824919-5382425" class="title articleClientType act-header" data-level="1" data-section-title="" data-magellan-destination="824919-5382425">Society News</h4>
+                            <div class="content al-article-list-group" data-section-content>
+                        <div class="al-article-item-wrap al-normal">
+
+                            <div class="al-article-items">
+                                <h5 class="customLink item-title" data-articleidaccess="5382425">
+                                    <a href="/neuro-oncology/article/21/4/558/5382425">Forthcoming Meetings</a>
+                                    <i class="access-icon" title="Placeholder"></i>
+                                    
+                                </h5><!-- /.customLink -->
+
+
+                                    <div class="pub-history-row clearfix">
+                                        <div class="ww-citation-primary"><em>Neuro-Oncology</em>, Volume 21, Issue 4, April 2019, Page 558, <a href='https://doi.org/10.1093/neuonc/noz047'>https://doi.org/10.1093/neuonc/noz047</a></div>
+                                    </div>
+                                
+
+
+                                <ul class="al-other-resource-links">
+                                    <!-- Article Abstract -->
+                                        <li>
+                                                <div class="resource-link resource-abstract">
+        <div data-articleid-abstract="5382425" data-article-abstract-fetched-wrapper="true">
+            <div data-tried-to-fetch-abstract="false" style="display: none"></div>
+
+            <div data-link-article-abstract-get="true" data-link-article-abstract-type="extract" class="abstract-link">
+                <a class="showAbstractLink" href="javascript:;" aria-controls="abstract-5382425" aria-expanded="false">Extract <i class="abstract-toggle-icon icon-general-arrow-filled-down"></i></a>
+            </div>
+
+        </div>        
+    </div><!-- /.resource-link resource-abstract -->
+    <div id="abstract-5382425" class="abstract-response-placeholder js-abstract-response-placeholder" aria-hidden="true"></div>
+
+                                        </li>
+                                    <li>
+                                        <a href="/neuro-oncology/article-abstract/21/4/558/5382425" class="viewArticleLink">View article</a>
+                                    </li>
+                                    
+
+                                </ul><!-- /.al-other-resource-links -->
+
+
+
+                                                                <div class="al-expanded-section" id="target5382425" hidden></div>
+                            </div><!-- /.al-article-items -->
+                        </div><!-- /al-article-box al-normal -->
+                    </div>
+                </section>
+
+            </div>
+            </div><!-- /#resourceTypeList-[instanceName] -->
+
+            </div><!-- /#ArticleList -->
+            <!-- Supplemental links-->
+            <div class="issue-browse__supplement-list-wrap">
+                    <ul class="issue-browse__supplement-list">
+                                                    <li>
+                                <i class="icon-menu_pdf"></i>
+                                <a class="al-link pdf article-pdfLink" href="/neuro-oncology/issue-pdf/21/4/28085682">
+                                    <i class="icon-file-pdf"></i><span>Front Matter</span>
+                                </a>
+                            </li>
+                                                    <li>
+                                <i class="icon-menu_pdf"></i>
+                                <a class="al-link pdf article-pdfLink" href="/neuro-oncology/issue-pdf/21/4/28085683">
+                                    <i class="icon-file-pdf"></i><span>Table of Contents</span>
+                                </a>
+                            </li>
+                                                                                            </ul>
+            </div> <!-- /Supplemental links-->
+            <div class="all-issues"><a href="/neuro-oncology/issue-archive">All issues</a></div>
+        </div><!-- /.content-inner-wrap -->
+    </div><!-- /#ContentColumn .page-column .page-column-/-center -->
+
+</div><!-- /.issue-browse__inner-wrap -->
+
+ 
+    </div>
+    <div class="widget widget-ArticleListAccess widget-instance-OUP_ArticleListAccess">
+            <script type="text/javascript">
+
+            /*******************************************************************************
+             * JS here is only being used to assign variables from values in the model
+             * logic should be implemented in external JS files, like client.script.js
+             *******************************************************************************/
+
+            var SCM = SCM || {};
+            SCM.ArticleAccessIcons = SCM.ArticleAccessIcons || {};
+            SCM.ArticleAccessIcons = [{"id":5372925,"icon":"icon-availability_cart"},{"id":5113424,"icon":"icon-availability_free"},{"id":5191122,"icon":"icon-availability_free"},{"id":5212065,"icon":"icon-availability_cart"},{"id":5273763,"icon":"icon-availability_free"},{"id":5274483,"icon":"icon-availability_cart"},{"id":5280678,"icon":"icon-availability_free"},{"id":5382410,"icon":"icon-availability_cart"},{"id":5140128,"icon":"icon-availability_cart"},{"id":5172286,"icon":"icon-availability_cart"},{"id":5260093,"icon":"icon-availability_cart"},{"id":5274482,"icon":"icon-availability_cart"},{"id":5290387,"icon":"icon-availability_cart"},{"id":5372924,"icon":"icon-availability_cart"},{"id":5382423,"icon":"icon-availability_cart"},{"id":5382425,"icon":"icon-availability_cart"},{"id":5382426,"icon":"icon-availability_cart"}];
+
+    </script>
+ 
+    </div>
+
+        <div id="Sidebar" class="page-column page-column--right issue-sidebar">
+                <div class="widget widget-AdBlock widget-instance-IssueAdMainBodyTop">
+        
+
+<div id="adBlockMainBodyTop"
+     style=" ">
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockMainBodyTop'); });
+    </script>
+</div>
+ 
+    </div>
+<div id="BodyContent_PageContent_alerts" class="widget widget-alerts">
+                    <div class="widget widget-Alerts widget-instance-OUP_Alerts_Issue">
+        
+    <div class="alertsWidget">
+        <h3>Email alerts</h3>
+                <div class="userAlert alertType-5">
+                    <a role="link" aria-label="New issue alert"
+                       data-userLoggedIn="False"
+                       data-alertType="5">New issue alert</a>
+                </div>
+                <div class="userAlert alertType-3">
+                    <a role="link" aria-label="Advance article alerts"
+                       data-userLoggedIn="False"
+                       data-alertType="3">Advance article alerts</a>
+                </div>
+                    <div class="userAlert alertType-MarketingLink">
+                <a role="link" aria-label="Receive exclusive offers and updates from Oxford Academic"
+                   data-userLoggedIn="False"
+                   data-additionalUrl="/my-account/communication-preferences">Receive exclusive offers and updates from Oxford Academic</a>
+            </div>
+        <div class="userAlertSignUpModal reveal-modal small" data-reveal>
+            <div class="userAlertSignUp"></div>
+            <label for="alert-signup-modal-close" class="screenreader-text">Close</label>
+            <a role="button" id="alert-signup-modal-close" class="close-reveal-modal" href="javascript:;">
+                <i class="icon-general-close"></i>
+            </a>
+        </div>
+    </div>
+ 
+    </div>
+</div>
+            
+            <div class="widget widget-feeds">
+                    <div class="widget widget-RssFeeds widget-instance-OUP_Issue_RssFeeds">
+        
+
+    <div id="rssFeeds" class="widget widget-rssfeeds">
+        
+        <h3 id="spRssFeedsTitle">RSS Feeds</h3>
+            <a href="https://academic.oup.com/rss/site_5334/3200.xml">RSS Feed - Latest Issue Only</a>
+                    <a href="https://academic.oup.com/rss/site_5334/advanceAccess_3200.xml">RSS Feed - Advance Articles</a>
+                    <a href="https://academic.oup.com/rss/site_5334/OpenAccess.xml">RSS Feed - Open Access</a>
+                    <a href="https://academic.oup.com/rss/site_5334/3200_56068.xml">RSS Feed - Editor&#39;s Choice</a>
+                    </div>
+ 
+    </div>
+
+            </div>
+            <div class="">
+                    <div class="widget widget-ArticleListNewAndPopular widget-instance-OUP_Issue_ArticleListNewAndPopularCombinedView">
+            <ul class="articleListNewAndPopularCombinedView">
+            <li>
+                <a href="javascript:;" class="articleListNewAndPopular-mode active" data-mode="MostRecent">Latest</a>
+            </li>
+            <li>
+                <a href="javascript:;" class="articleListNewAndPopular-mode " data-mode="MostRead">Most Read</a>
+            </li>
+            <li>
+                <a href="javascript:;" class="articleListNewAndPopular-mode " data-mode="MostCited">Most Cited</a>
+            </li>
+    </ul>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostRecent hasContent">
+
+
+
+
+<div id="newPopularList-OUP_Issue_ArticleListNewAndPopularCombinedView" class="fb">
+
+    
+
+
+
+
+
+
+
+<div class="widget-layout widget-layout--vert">
+
+
+
+
+
+
+        <div class="widget-columns widget-col-1">
+            <div class="col">
+
+                       <div class="widget-dynamic-entry">
+                        
+
+
+
+                        
+                           <a href="/neuro-oncology/advance-article/doi/10.1093/neuonc/noz068/5447930?searchresult=1">
+                                                              <div class="widget-dynamic-journal-title">
+                                   Association between hippocampal dose and memory in survivors of childhood or adolescent low-grade glioma: a 10-year neurocognitive longitudinal study
+                               </div>
+                                                                                             <div class="widget-dynamic-journal-image-synopsis">
+                                       <div class="widget-dynamic-journal-synopsis">                                           
+                                            
+                                       </div> <!-- /.widget-dynamic-journal-synopsis -->
+                               </div>
+
+
+                           </a>
+
+                    </div>
+                       <div class="widget-dynamic-entry">
+                        
+
+
+
+                        
+                           <a href="/neuro-oncology/advance-article/doi/10.1093/neuonc/noz065/5447562?searchresult=1">
+                                                              <div class="widget-dynamic-journal-title">
+                                   Gene therapy with apoptosis-associated speck-like protein (ASC), a newly described schwannoma tumor suppressor, inhibits schwannoma growth  in vivo
+                               </div>
+                                                                                             <div class="widget-dynamic-journal-image-synopsis">
+                                       <div class="widget-dynamic-journal-synopsis">                                           
+                                            
+                                       </div> <!-- /.widget-dynamic-journal-synopsis -->
+                               </div>
+
+
+                           </a>
+
+                    </div>
+                       <div class="widget-dynamic-entry">
+                        
+
+
+
+                        
+                           <a href="/neuro-oncology/advance-article/doi/10.1093/neuonc/noz069/5447391?searchresult=1">
+                                                              <div class="widget-dynamic-journal-title">
+                                   Molecular Grouping and Outcomes of Young Children with Newly Diagnosed Ependymoma Treated on the Multi-Institutional SJYC07 Trial
+                               </div>
+                                                                                             <div class="widget-dynamic-journal-image-synopsis">
+                                       <div class="widget-dynamic-journal-synopsis">                                           
+                                            
+                                       </div> <!-- /.widget-dynamic-journal-synopsis -->
+                               </div>
+
+
+                           </a>
+
+                    </div>
+                       <div class="widget-dynamic-entry">
+                        
+
+
+
+                        
+                           <a href="/neuro-oncology/advance-article/doi/10.1093/neuonc/noz066/5447351?searchresult=1">
+                                                              <div class="widget-dynamic-journal-title">
+                                   Prognostic significance of  hTERT  (human telomerase reverse transcriptase) promoter region mutations C228T and C250T for overall survival in spinal chordomas
+                               </div>
+                                                                                             <div class="widget-dynamic-journal-image-synopsis">
+                                       <div class="widget-dynamic-journal-synopsis">                                           
+                                            
+                                       </div> <!-- /.widget-dynamic-journal-synopsis -->
+                               </div>
+
+
+                           </a>
+
+                    </div>
+                       <div class="widget-dynamic-entry">
+                        
+
+
+
+                        
+                           <a href="/neuro-oncology/advance-article/doi/10.1093/neuonc/noz067/5446013?searchresult=1">
+                                                              <div class="widget-dynamic-journal-title">
+                                   Foxr2 promotes formation of CNS-embryonal tumors in a Trp53-deficient background
+                               </div>
+                                                                                             <div class="widget-dynamic-journal-image-synopsis">
+                                       <div class="widget-dynamic-journal-synopsis">                                           
+                                            
+                                       </div> <!-- /.widget-dynamic-journal-synopsis -->
+                               </div>
+
+
+                           </a>
+
+                    </div>
+            </div>
+        </div>
+</div><!-- /.widget-layout-[orientation] --></div>
+        </section>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostRead hide">
+        </section>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostCited hide">
+        </section>
+ 
+    </div>
+
+            </div>
+            <div>
+                
+            </div>
+                <div class="widget widget-AdBlock widget-instance-IssueAdMainBodyBottom">
+        
+
+<div id="adBlockMainBodyBottom"
+     style=" ">
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockMainBodyBottom'); });
+    </script>
+</div>
+ 
+    </div>
+
+        </div><!-- /#Sidebar .page-column page-column-/-right issue-sidebar -->
+    </div>
+
+                </div><!-- /.center-inner-row -->
+            </section>
+        </main>
+    </div>
+    
+
+
+        
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+        <script type="text/javascript" src=//oup.silverchair-cdn.com/UI/app/jsdist/footer.min.js></script>
+
+        
+    
+        <div class="widget widget-SitePageFooter widget-instance-SitePageFooter">
+        <div class="ad-banner ad-banner-footer">
+    <div class="widget widget-AdBlock widget-instance-FooterAd">
+        
+
+<div id="adBlockFooter"
+     style=" ">
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockFooter'); });
+    </script>
+</div>
+ 
+    </div>
+
+</div>
+
+    <div class="journal-footer journal-bg">
+        <div class="center-inner-row">
+
+                <div class="journal-footer-menu">
+
+                    <ul>
+                            <li class="link-1">
+                                <a href="/neuro-oncology/pages/About">About Neuro-Oncology</a>
+                            </li>
+                            <li class="link-2">
+                                <a href="/neuro-oncology/pages/Editorial_Board">Editorial Board</a>
+                            </li>
+                            <li class="link-3">
+                                <a href="/neuro-oncology/pages/Policies">Policies</a>
+                            </li>
+                            <li class="link-4">
+                                <a href="/neuro-oncology/pages/General_Instructions">Author Guidelines</a>
+                            </li>
+                            <li class="link-5">
+                                <a href="/neuro-oncology/subscribe">Purchase</a>
+                            </li>
+</ul><ul>                            <li class="link-1">
+                                <a href="http://www.oxfordjournals.org/en/library-recommendation-form.html">Recommend to your Library</a>
+                            </li>
+                            <li class="link-2">
+                                <a href="http://www.soc-neuro-onc.org/">Society for Neuro-Oncology</a>
+                            </li>
+                            <li class="link-3">
+                                <a href="https://twitter.com/NeuroOnc">SNO Twitter</a>
+                            </li>
+                            <li class="link-4">
+                                <a href="https://www.eano.eu/">European Association of Neuro-Oncology</a>
+                            </li>
+                            <li class="link-5">
+                                <a href=" http://www.jsn-o.com/eng/index.html">The Japan Society for Neuro-Oncology</a>
+                            </li>
+</ul><ul>                            <li class="link-1">
+                                <a href="http://www.oupmediainfo.com/#!/mediakit/neuro-oncology">Advertising and Corporate Services</a>
+                            </li>
+                            <li class="link-2">
+                                <a href="http://medicine-and-health-careernetwork.oxfordjournals.org/jobseeker/search/results/?keywords=&amp;t732=471555&amp;t731=&amp;t733=&amp;t735=&amp;t737=&amp;max=25&amp;site_id=20102&amp;search=">Journals Career Network</a>
+                            </li>
+
+                    </ul>
+
+
+                </div><!-- /.journal-footer-menu -->
+
+            <div class="journal-footer-affiliations">
+                <!-- <h3>Affiliations</h3> -->
+            <a href="http://www.jsn-o.com/eng/index.html" target="">
+                <img id="footer-logo-JapanSocietyforNeuro-Oncology" class="journal-footer-affiliations-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/neuro-oncology/neuro-oncology_f1-783054095.svg" alt="Japan Society for Neuro-Oncology" />
+            </a>
+            <a href="https://www.eano.eu/" target="">
+                <img id="footer-logo-EuropeanAssociationofNeuro-Oncology" class="journal-footer-affiliations-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/neuro-oncology/neuro-oncology_f2-1150549827.png" alt="European Association of Neuro-Oncology" />
+            </a>
+            </div><!-- /.journal-footer-affiliations -->
+
+            <div class="journal-footer-colophon">
+                <ul>
+                        <li>Online ISSN 1523-5866</li>
+                                            <li>Print ISSN 1522-8517</li>
+                    <li>Copyright &#169; 2019 Society for Neuro-Oncology</li>
+                </ul>
+            </div><!-- /.journal-footer-colophon -->
+
+
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.journal-footer -->
+ 
+    </div>
+
+    <div class="oup-footer">
+        <div class="center-inner-row">
+                <div class="widget widget-SelfServeContent widget-instance-OupUmbrellaFooterSelfServe">
+        
+<div class="oup-footer-row journal-links">
+<div class="global-footer selfservelinks">
+<ul>
+    <li>
+    <a href="/journals/pages/about_us">About Us</a>
+    </li>
+    <li>
+    <a href="/journals/pages/contact_us">Contact Us</a>
+    </li>
+    <li>
+    <a href="http://global.oup.com/jobs">Careers</a>
+    </li>
+    <li>
+    <a href="/journals/pages/help">Help</a>
+    </li>
+    <li>
+    <a href="/journals/pages/access_purchase">Access &amp; Purchase</a></li>
+    <li>
+    <a href="/journals/pages/access_purchase/rights_and_permissions">Rights &amp; Permissions</a>
+    </li>
+    <li>
+    <a href="/journals/pages/open_access">Open Access</a>
+    </li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4 id="global-footer-customer services" class="title footerheader">Connect</h4>
+<ul>
+    <li>
+    <a href="/my-account/communication-preferences">Join Our Mailing List</a>
+    </li>
+    <li>
+    <a href="http://blog.oup.com/">OUPblog</a>
+    </li>
+    <li>
+    <a href="http://twitter.com/oupacademic">Twitter</a>
+    </li>
+    <li>
+    <a href="https://www.facebook.com/OUPAcademic">Facebook</a>
+    </li>
+    <li>
+    <a href="http://www.youtube.com/playlist?list=PL3MAPgqN8JWioLLTkU4mlFM4-SNt-f1Xs">YouTube</a>
+    </li>
+    <li>
+    <a href="http://oupacademic.tumblr.com/">Tumblr</a>
+    </li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4>Resources</h4>
+<ul>
+    <li><a href="/journals/pages/authors">Authors</a></li>
+    <li><a href="/journals/pages/librarians">Librarians</a></li>
+    <li><a href="/journals/pages/societies">Societies</a></li>
+    <li><a href="https://academic.oup.com/journals/pages/sponsorship_and_advertising">Sponsors &amp; Advertisers</a></li>
+    <li><a href="/journals/pages/press">Press &amp; Media</a></li>
+    <li><a href="/journals/pages/agents">Agents</a></li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4>Explore</h4>
+<ul>
+    <li><a href="http://global.oup.com/academic">Shop OUP Academic</a></li>
+    <li><a href="http://www.oxforddictionaries.com/">Oxford Dictionaries</a></li>
+    <li><a href="http://oxfordindex.oup.com/">Oxford Index</a></li>
+    <li><a href="https://www.epigeum.com/">Epigeum</a></li>
+    <li><a href="http://global.oup.com/">OUP Worldwide</a></li>
+    <li><a href="http://www.ox.ac.uk/">University of Oxford</a></li>
+</ul>
+</div>
+<div class="OUP-mission">
+<p>Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide</p>
+<img class="journal-footer-logo" src="//oup.silverchair-cdn.com/UI/app/svg/umbrella/oup-logo.svg" alt="Oxford University Press" width="150" height="42" />
+</div>
+</div>
+<div class="oup-footer-row">
+<div class="oup-footer-row-links">
+<ul>
+    <li>Copyright &copy; 2019 Oxford University Press</li>
+    <li><a href="https://global.oup.com/cookiepolicy/">Cookie Policy</a></li>
+    <li><a href="https://global.oup.com/privacy">Privacy Policy</a></li>
+    <li><a href="/journals/pages/about_us/legal/notices">Legal Notice</a></li>
+    <li><a href="/journals/pages/sitemap">Site Map</a></li>
+    <li><a href="/journals/pages/about_us/legal/accessibility">Accessibility</a></li>
+    <li><a href="https://get.adobe.com/reader/">Get Adobe Reader</a></li>
+</ul>
+</div>
+</div>
+<style type="text/css">
+    /* Issue right column fix for tablet/mobile */
+    @media (max-width: 1200px) {
+    .pg_issue .widget-instance-OUP_Issue {
+    width: 100%;
+    }
+    }
+</style>
+    
+    
+     
+    </div>
+
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.oup-footer -->
+    <div class="ss-ui-only">
+        
+    </div>
+
+
+        
+        <div id="revealModal" class="reveal-modal" data-reveal>
+            <div id="revealContent"></div>
+            <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+        </div>
+        <div id="NeedSubscription" class="reveal-modal small" data-reveal>
+            <div class="subscription-needed">
+                <h5>This Feature Is Available To Subscribers Only</h5>
+                <p><a href="/sign-in">Sign In</a> or <a href="/my-account/register?siteId=5334&returnUrl=%2fneuro-oncology%2fissue%2f21%2f4">Create an Account</a></p>
+            </div>
+            <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+        </div>
+        
+
+        <div id="noAccessReveal" class="reveal-modal tiny" data-reveal>
+            <p>This PDF is available to Subscribers Only</p>
+            <a class="hide-for-article-page" id="articleLinkToPurchase" data-reveal><span>View Article Abstract & Purchase Options</span></a>
+            <div class="issue-purchase-modal">
+                <p>For full access to this pdf, sign in to an existing account, or purchase an annual subscription.</p>
+            </div>
+            <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+        </div>
+        
+        
+
+    
+    <!-- Enter Google Analytics or Tag Manager here -->
+    
+     
+ 
+
+    <!-- BEGIN: Scholarly iQ Page Tag -->
+    <!-- Copyright 2001-2010, IBM Corporation All rights reserved. -->
+    <script language="JavaScript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script>
+    <noscript>
+       <img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="Scholarly IQ"/>
+    </noscript>
+    <!-- END: Scholarly iQ Page Tag -->
+</body>
+</html>
+

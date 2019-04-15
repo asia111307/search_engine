@@ -1,0 +1,1567 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Institut de neurophysiopathologie - UMR 7051 RSS" href="https://inp.univ-amu.fr/en/rss.xml" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Institut de neurophysiopathologie" />
+<link rel="shortcut icon" href="https://inp.univ-amu.fr/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://inp.univ-amu.fr/en" />
+<link rel="shortlink" href="https://inp.univ-amu.fr/en" />
+  <title>Institut de neurophysiopathologie - UMR 7051 |</title>
+  <link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_-TNq6F6EH1K3WcBMUMQP90OkyCq0Lyv1YnyoEj3kxiU.css" media="screen" />
+<style type="text/css" media="print">
+<!--/*--><![CDATA[/*><!--*/
+#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_Q7R7Blo9EYqLDI5rIlO_T3uTFBjIXjLpcqMHjTvVdmg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_8I8tOCPjIVP6mfeMJ_e9IPVH1CnLb6wMloNuja55pnc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_d-7Jtwb82nn42ZxlZOCsIgfVwX-ZtEce-iAMEhjRxhA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/all/modules/popup/popup.css?ppqk7g" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_vQMbQEy8_khvyFc0gBy2Deisb_jiTH9O3bE1QQIKRW0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:400,500,700" media="all" />
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_60KadZWigR4ZCIjgVeCUvWwmYgvIlssCAY-arC1dfGc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_xMeefmRKAmv8xhWIIw1pQe-ME02m7O4AkowfH-Xr334.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/all/themes/startupgrowth_lite/fonts/ubuntu-font.css?ppqk7g" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/all/themes/startupgrowth_lite/fonts/sourcecodepro-font.css?ppqk7g" media="all" />
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/all/themes/startupgrowth_lite/fonts/ptserif-blockquote-font.css?ppqk7g" media="all" />
+
+<!--[if (IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/all/themes/startupgrowth_lite/ie9.css?ppqk7g" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="all" />
+
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js"></script>
+<script type="text/javascript" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/js/js_aqxpb973X9CYj98mq8cEkesR5ZWwHccFwuUTKyzrJRU.js"></script>
+<script type="text/javascript" src="https://inp.univ-amu.fr/sites/all/modules/popup/popup.js?ppqk7g"></script>
+<script type="text/javascript" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/js/js_tSTj4bjl21jlbcr7fbTrbj4i4vIkHv27c5y6Q8kWTOc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){jQuery(".event-agenda-accordion").accordion({active: false, collapsible: true,autoHeight: false, heightStyle: "content" });});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){jQuery(".event-agenda-accordion").accordion({active: false, collapsible: true,autoHeight: false, heightStyle: "content" });});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){jQuery(".event-agenda-accordion").accordion({active: false, collapsible: true,autoHeight: false, heightStyle: "content" });});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){jQuery(".event-agenda-accordion").accordion({active: false, collapsible: true,autoHeight: false, heightStyle: "content" });});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/js/js_rsGiM5M1ffe6EhN-RnhM5f3pDyJ8ZAPFJNKpfjtepLk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-29221845-1", {"cookieDomain":".inp.univ-amu.fr"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/js/js_zO6-X8VXhZTycch9-0Vn7Kjz9rshu5NJ-mR7RS8MX3M.js"></script>
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").addClass("show");	
+			} else {
+				$("#toTop").removeClass("show");
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+
+	    var map;
+	    var myLatlng;
+	    var myZoom;
+	    var marker;
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+
+		if ($("#map-canvas").length) {
+		
+			myLatlng = new google.maps.LatLng(Drupal.settings.startupgrowth['google_map_latitude'], Drupal.settings.startupgrowth['google_map_longitude']);
+			myZoom = 13;
+			
+			function initialize() {
+			
+				var mapOptions = {
+				zoom: myZoom,
+				mapTypeId: google.maps.MapTypeId.ROADMAP,
+				center: myLatlng,
+				scrollwheel: false
+				};
+				
+				map = new google.maps.Map(document.getElementById(Drupal.settings.startupgrowth['google_map_canvas']),mapOptions);
+				
+                marker = new google.maps.Marker({
+                map:map,
+                draggable:true,
+                position: myLatlng,
+                url: "https://www.google.com/maps/dir//40.726576,-74.046822/@40.726576,-74.046822"
+                });
+
+                google.maps.event.addListener(marker, "click", function() {     
+                window.open(this.url, "_blank");
+                });
+
+                google.maps.event.addDomListener(window, "resize", function() {
+                map.setCenter(myLatlng);
+                });
+		
+			}
+		
+			google.maps.event.addDomListener(window, "load", initialize);
+			
+		}
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://inp.univ-amu.fr/sites/all/themes/startupgrowth_lite/js/meanmenu/jquery.meanmenu.min.js?ppqk7g"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+
+			$("#main-navigation .sf-menu, #main-navigation .content>ul.menu, #main-navigation ul.main-menu").wrap("<div class='meanmenu-wrapper'></div>");
+			$("#main-navigation .meanmenu-wrapper").meanmenu({
+				meanScreenWidth: "767",
+				meanRemoveAttrs: true,
+				meanMenuContainer: "#header-inside",
+				meanMenuClose: ""
+			});
+
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/js/js_D3gaWDovdngGvy7Ar8cOr5P3FJZDJ4dJMGHTZV2zNIY.js"></script>
+<script type="text/javascript" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/js/js_QY8nSvNGr8l2erNSTUrY9Hu99CEZ4Kvv2DfTKq1gYoI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+          Shadowbox.path = "/sites/all/libraries/shadowbox/";
+        
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"webkit_theme","theme_token":"pepPln3pSLC52pxvi838pMqC6gKS_XUO6cy1g4w6oWc","js":{"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/shadowbox\/shadowbox.js":1,"sites\/all\/modules\/shadowbox\/shadowbox_auto.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/popup\/popup.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"0":1,"1":1,"2":1,"3":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/inp.univ-amu.fr\/themes\/webkit_theme\/js\/cookieconsent.js":1,"sites\/inp.univ-amu.fr\/themes\/webkit_theme\/js\/content.filter.js":1,"\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.2\/js\/bootstrap.min.js":1,"5":1,"6":1,"https:\/\/maps.googleapis.com\/maps\/api\/js?v=3.exp\u0026sensor=false":1,"7":1,"sites\/all\/themes\/startupgrowth_lite\/js\/meanmenu\/jquery.meanmenu.min.js":1,"8":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/startupgrowth_lite\/js\/jquery.browser.min.js":1,"9":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/shadowbox\/shadowbox.css":1,"0":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/amu_backend_restrictions\/backend-restrictions-webkit_theme.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/popup\/popup.css":1,"sites\/all\/modules\/amu_user_alter\/user-alter.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/themes\/responsive_webkit\/css\/annuaire.css":1,"sites\/all\/themes\/responsive_webkit\/css\/publications.css":1,"\/\/fonts.googleapis.com\/css?family=Ubuntu:400,500,700":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.2.0\/css\/font-awesome.min.css":1,"\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/startupgrowth_lite\/js\/meanmenu\/meanmenu.css":1,"sites\/all\/modules\/amu_hal\/css\/publications.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/startupgrowth_lite\/style.css":1,"sites\/all\/themes\/responsive_webkit\/css\/custom.css":1,"sites\/inp.univ-amu.fr\/themes\/webkit_theme\/css\/theme.css":1,"sites\/inp.univ-amu.fr\/themes\/webkit_theme\/css\/cookie.bar.css":1,"sites\/all\/themes\/startupgrowth_lite\/fonts\/ubuntu-font.css":1,"sites\/all\/themes\/startupgrowth_lite\/fonts\/sourcecodepro-font.css":1,"sites\/all\/themes\/startupgrowth_lite\/fonts\/ptserif-blockquote-font.css":1,"sites\/all\/themes\/startupgrowth_lite\/ie9.css":1,"sites\/all\/themes\/startupgrowth_lite\/local.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":"250","delay":"0"},"shadowbox":{"animate":1,"animateFade":1,"animSequence":"wh","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":0,"counterLimit":"10","counterType":"default","displayCounter":1,"displayNav":1,"enableKeys":1,"fadeDuration":"0.35","handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":"0.85","resizeDuration":"0.35","showMovieControls":1,"slideshowDelay":"0","viewportPadding":20,"useSizzle":0},"flexslider":{"optionsets":{"slideshow":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":true,"prevText":"Previous","nextText":"Suivant","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":true,"manualControls":""}},"instances":{"flexslider-1":"slideshow"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"urlIsAjaxTrusted":{"\/":true},"superfish":{"2":{"id":"2","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"startupgrowth_lite":{"google_map_latitude":"40.726576","google_map_longitude":"-74.046822","google_map_canvas":"map-canvas"}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node i18n-en sff-3 slff-3 hff-3 pff-3 form-style-1 wide" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- #page-container -->
+<div id="page-container">
+
+            <div id="toTop"><i class="fa fa-angle-up"></i></div>
+    
+    <!-- #header -->
+    <header id="header"  role="banner" class="clearfix">
+
+        <div class="container">
+
+            <div class="row">
+            <!-- #header-inside -->
+            <div id="header-inside" >
+                            
+                                                            <div id="logo">
+                                    <a href="/en" title="Home" rel="home"> <img src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/themes/webkit_theme/logo.png" alt="Home" /> </a>
+                                </div>
+                            
+                                                        <!-- #search-area -->
+                                                          <div id="search-area" class="clearfix search-area-region">
+                                  <div class="region region-search-area">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Enter terms then hit Search...&#039;;}" onfocus="if (this.value == &#039;Enter terms then hit Search...&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Enter terms then hit Search..." size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-hcKCMnFXO9r1SHSsfxz7_-OzbY3BlzfYQG62SJeZugs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                              </div>
+                                                        <!-- EOF: #search-area -->
+
+                            <!-- #main-navigation -->
+                            <div id="main-navigation" class="clearfix  with-search-bar ">
+                                <nav role="navigation">
+                                                                              <div class="region region-navigation">
+    <div id="block-superfish-2" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-2" class="menu sf-menu sf-menu-main-menu-en sf-horizontal sf-style-none"><li id="menu-2067-2" class="first sf-item-1 sf-depth-1 menuparent"><span class="sf-depth-1 menuparent nolink">Institute</span><ul><li id="menu-2444-2" class="first sf-item-1 sf-depth-2 sf-no-children"><a href="/en/institute/presentation" class="sf-depth-2">Presentation</a></li><li id="menu-2448-2" class="middle sf-item-2 sf-depth-2 sf-no-children"><a href="/en/institute/organization-chart" class="sf-depth-2">Organization chart</a></li><li id="menu-2338-2" class="middle sf-item-3 sf-depth-2 sf-no-children"><a href="/en/annuaire" class="sf-depth-2">Directory</a></li><li id="menu-2490-2" class="middle sf-item-4 sf-depth-2 sf-no-children"><a href="/en/plateformes" class="sf-depth-2">Facilities</a></li><li id="menu-2492-2" class="last sf-item-5 sf-depth-2 sf-no-children"><a href="/en/press-review" class="sf-depth-2">Press</a></li></ul></li><li id="menu-2461-2" class="middle sf-item-2 sf-depth-1 sf-no-children"><a href="/en/equipes" class="sf-depth-1">Teams</a></li><li id="menu-2457-2" class="middle sf-item-3 sf-depth-1 sf-no-children"><a href="/en/laboratoire/carriere" class="sf-depth-1">Open Positions</a></li><li id="menu-2517-2" class="middle sf-item-4 sf-depth-1 sf-no-children"><a href="/en/inp-publications" class="sf-depth-1">Publications</a></li><li id="menu-2458-2" class="middle sf-item-5 sf-depth-1 sf-no-children"><a href="/en/education" class="sf-depth-1">Education</a></li><li id="menu-2076-2" class="middle sf-item-6 sf-depth-1 sf-no-children"><a href="http://inp.univ-amu.fr/en/contact" class="sf-depth-1">Contact</a></li><li id="menu-2471-2" class="middle sf-item-7 sf-depth-1 sf-no-children"><a href="/en/cas/login" class="only-show-in-mean-menu sf-depth-1">Login</a></li><li id="menu-2470-2" class="last sf-item-8 sf-depth-1 sf-no-children"><a href="http://inp.univ-amu.fr/en/caslogout" class="only-show-in-mean-menu sf-depth-1">Logout</a></li></ul>  </div>
+</div>
+<div id="block-menu-menu-authentication-top" class="block block-menu clearfix">
+
+    <h2 class="title">Authentication top</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf login"><a href="/en/cas/login">Login</a></li>
+<li class="last leaf logout"><a href="http://inp.univ-amu.fr/en/caslogout">Logout</a></li>
+</ul>  </div>
+</div>
+<div id="block-views-carrousels-block-1" class="block block-views clearfix">
+
+    
+  <div class="content">
+    <div class="view view-carrousels view-id-carrousels view-display-id-block_1 view-carrousels-with-tic-tac-pager  view-dom-id-57893b1c09c81556df4bb439b230baf6">
+        
+  
+  
+      <div class="view-content">
+      <div  id="flexslider-1" class="flexslider optionset-slideshow">
+  <ul class="slides"><li>
+
+
+<div class="slide-container slide-has-desc">
+
+
+
+						<div class="slide-desc ">
+				Stem- and iPS-cell therapy in the CNS			</div>
+			<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/flexslider_full/public/carrousel/neurocyto_pic1_crop_mainslider.jpg?itok=qOEUOK-H" width="1440" height="600" alt="" /></div>
+</li>
+<li>
+
+
+<div class="slide-container slide-has-desc">
+
+
+
+						<div class="slide-desc ">
+				Neuroinflammation, a process common to many CNS diseases			</div>
+			<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/flexslider_full/public/carrousel/02-03_crop_mainslider.jpg?itok=lEccTMN-" width="1440" height="600" alt="" /></div>
+</li>
+<li>
+
+
+<div class="slide-container slide-has-desc">
+
+
+
+						<div class="slide-desc ">
+				Understanding life’s rhythms			</div>
+			<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/flexslider_full/public/carrousel/mainslider_figarella2-1.jpg?itok=0-rBRq_h" width="1440" height="600" alt="" /></div>
+</li>
+<li>
+
+
+<div class="slide-container slide-has-desc">
+
+
+
+						<div class="slide-desc ">
+				Patients, clinicians and researchers: a winning trio serving therapeutic innovation			</div>
+			<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/flexslider_full/public/carrousel/glioblastome_gfap_brdu_crop_mainslider.jpg?itok=TUIleueA" width="1440" height="600" alt="" /></div>
+</li>
+<li>
+
+
+<div class="slide-container slide-has-desc">
+
+
+
+						<div class="slide-desc ">
+				Neuronal structure and function			</div>
+			<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/flexslider_full/public/carrousel/leterrier2.jpg?itok=XJRm5dK_" width="1440" height="600" alt="" /></div>
+</li>
+<li>
+
+
+<div class="slide-container slide-has-desc">
+
+
+
+						<div class="slide-desc ">
+				Molecular shuttles to transport drugs into the CNS			</div>
+			<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/flexslider_full/public/carrousel/l8-5emer_d-hsrb1-3_crop_mainslider.jpg?itok=eJqV_7kr" width="1440" height="600" alt="" /></div>
+</li>
+</ul></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                                                                    </nav>
+                            </div>
+                            <!-- EOF: #main-navigation -->
+
+
+
+                
+
+
+            </div>  <!-- EOF: #header-inside -->
+            </div> <!-- EOF:#row -->
+
+         </div> <!-- EOF: #container -->
+
+    </header>
+    <!-- EOF: #header -->
+
+            <!-- #banner -->
+        <div id="banner" class="clearfix">
+
+            <!-- #banner-inside -->
+            <div id="banner-inside" class="clearfix">
+                <div class="banner-area">
+                      <div class="region region-banner">
+    <div id="block-block-37" class="block block-block block-baseline-front clearfix">
+
+    
+  <div class="content">
+    <p class="rtecenter">The Institute of NeuroPhysiopathology (INP) is a training and research centre of excellence that combines basic and translational research to study neural cell organisation, function and interaction, the molecular and cellular bases of major brain diseases, and to develop innovative cellular and molecular therapeutic strategies.</p>
+<p class="rtecenter"><a class="more" href="http://inp.univ-amu.fr/en/institute/presentation">More information</a></p>
+  </div>
+</div>
+  </div>
+                </div>
+            </div>
+            <!-- EOF: #banner-inside -->
+
+        </div>
+        <!-- EOF:#banner -->
+    
+
+    <!-- #page -->
+    <div id="page" class="clearfix">
+
+        <!-- #messages-console -->
+                <!-- EOF: #messages-console -->
+
+                    <!-- #top-content -->
+            <div id="top-content" class="clearfix">
+                <div class="container">
+
+                    <!-- #top-content-inside -->
+                    <div id="top-content-inside" class="clearfix">
+                        <div class="row">
+                            <div class="col-md-12">
+                                  <div class="region region-top-content">
+    <div id="block-views-teams-block-1" class="block block-views block-teams-front clearfix">
+
+    <h2 class="title">Teams</h2>
+  
+  <div class="content">
+    <div class="view view-teams view-id-teams view-display-id-block_1 view-dom-id-5aefde18b2cf7f574d95ca84ebbbf294">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+<a href="http://inp.univ-amu.fr/en/teams/neural-plasticity-and-degeneration">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/dorsal_root_ganglia_on_astrocyte_layer.png?itok=kmQ25nCg" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Neural Plasticity and Degeneration</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">RIVERA Santiago</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+<a href="http://inp.univ-amu.fr/en/teams/genes-rhythm-and-neurophysiopathology">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/movement-2953852_1920_crop.jpg?itok=ftzGLxiL" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Genes, Rhythm and Neurophysiopathology</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">FERON Francois Pierre</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+<a href="http://inp.univ-amu.fr/en/teams/bbb-and-neuroinflammation">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/bandeau_bbb_neuroinflammation_0.jpg?itok=u1svIwMd" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">BBB and Neuroinflammation                                     </span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">KHRESTCHATISKY Michel</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+<a href="http://inp.univ-amu.fr/en/teams/neurobiology-of-mnesic-processes">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/bandeau-roman.jpg?itok=nhfA8pjZ" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Neurobiology of Mnesic Processes</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">ROMAN Francois</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    
+<a href="http://inp.univ-amu.fr/en/teams/neuro-inflammation-and-multiple-sclerosis">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/public/images/shutterstock_250913536.jpg?itok=0Y5PlLn0" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Neuro-inflammation and Multiple Sclerosis</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">DESPLAT-JEGO Sophie</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-6 views-row-even">
+    
+<a href="http://inp.univ-amu.fr/en/teams/stem-cells-disease-modeling-and-neuroregeneration">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/bandeau_nivet_0.jpg?itok=wM0RoyyW" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Stem cells, Disease modeling and Neuroregeneration</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">NIVET Emmanuel</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    
+<a href="http://inp.univ-amu.fr/en/teams/neurocyto-the-neuronal-cytoskeleton-in-health-and-disease">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/neurocyto_banner.png?itok=GJpInxXL" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content"> NeuroCyto: the neuronal cytoskeleton in health and disease</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">LETERRIER Christophe</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-8 views-row-even">
+    
+<a href="http://inp.univ-amu.fr/en/teams/gliome-gliomagenesis-and-microenvironment">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/t85j14a2b5brdu05x.jpg?itok=NHlec4W4" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">GlioME: Gliomagenesis and MicroEnvironment</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">FIGARELLA-BRANGER Dominique</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    
+<a href="http://inp.univ-amu.fr/en/teams/cytoskeleton-and-neurophysiopathology">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/sitewebequipe9bis_crop.jpg?itok=KrzgFi2t" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Cytoskeleton and Neurophysiopathology</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">KOVACIC Herve, PEYROT Vincent</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-10 views-row-even">
+    
+<a href="http://inp.univ-amu.fr/en/teams/angiogenesis-and-tumor-microenvironment">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/public/images/image_650_365.jpg?itok=8kRdBeSR" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Angiogenesis and Tumor Microenvironment</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">OUAFIK L&#039;houssine</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+    
+<a href="http://inp.univ-amu.fr/en/teams/vect-horus">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/vh_bandeau.jpg?itok=qE2ljhSV" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">VECT-HORUS</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content"></div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-12 views-row-even">
+    
+<a href="http://inp.univ-amu.fr/en/teams/research-support">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/bandeau.jpg?itok=z6dy_PxK" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Research support</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">KHRESTCHATISKY Michel</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+  <div class="views-row views-row-13 views-row-odd views-row-last">
+    
+<a href="http://inp.univ-amu.fr/en/teams/administration">
+<span class="team__item">
+
+    <span class="team__item--image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/trombinoscope/public/equipes/bandeau-administration_1140x570.jpg?itok=G08pu5oR" width="94" height="94" alt="" /></div>    </span>
+
+    <span class="team__item--description">
+      <span class="team__item--team_name"><span class="field-content">Administration</span>  </span>
+      <span class="team__item--team_manager"><div class="field-content">BONPAIN Armelle</div></span>
+<!--      <span> --><!--</span>-->
+    </span>
+</span>
+</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- EOF:#top-content-inside -->
+
+                </div>
+            </div>
+            <!-- EOF: #top-content -->
+        
+                    <!-- #sub-top-content -->
+            <div id="sub-top-content" class="clearfix">
+                <div class="container">
+
+                    <!-- #top-content-inside -->
+                    <div id="sub-top-content-inside" class="clearfix">
+                        <div class="row">
+                            <div class="col-md-12">
+                                  <div class="region region-sub-top-content">
+    <div id="block-views-platforms-block" class="block block-views clearfix">
+
+    <h2 class="title">Facilities</h2>
+  
+  <div class="content">
+    <div class="view view-platforms view-id-platforms view-display-id-block view-dom-id-4d3a1a9b67e046130c3c159fea4b8d29">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+
+<a href="http://inp.univ-amu.fr/en/capm-0">
+<span class="platforms">
+
+    <span class="platform__image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/platforms_display/public/platforms/capm_bandeau.jpg?itok=nemaJF-U" width="300" height="160" alt="" /></div>    </span>
+    <span class="platform__info">
+      <span class="platform__info--title"><h3>CAPM</h3> </span>
+      <span class="platform__info--body"></span>
+<!--      <a href="http://--><!--"> Voir le site </a>-->
+    </span>
+
+
+
+</span>
+</a>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+
+<a href="http://inp.univ-amu.fr/en/facilities/cmi">
+<span class="platforms">
+
+    <span class="platform__image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/platforms_display/public/platforms/shutterstock_163946831.jpg?itok=OdQdrwoK" width="300" height="160" alt="" /></div>    </span>
+    <span class="platform__info">
+      <span class="platform__info--title"><h3>CMI</h3> </span>
+      <span class="platform__info--body"></span>
+<!--      <a href="http://--><!--"> Voir le site </a>-->
+    </span>
+
+
+
+</span>
+</a>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+
+<a href="http://inp.univ-amu.fr/en/pint-0">
+<span class="platforms">
+
+    <span class="platform__image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/platforms_display/public/platforms/illustration_plateforme_pint_-crop_pour_bandeautif.jpg?itok=zKORIchU" width="300" height="160" alt="" /></div>    </span>
+    <span class="platform__info">
+      <span class="platform__info--title"><h3>PINT</h3> </span>
+      <span class="platform__info--body"></span>
+<!--      <a href="http://--><!--"> Voir le site </a>-->
+    </span>
+
+
+
+</span>
+</a>  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+
+<a href="http://inp.univ-amu.fr/en/qpcr-0">
+<span class="platforms">
+
+    <span class="platform__image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/platforms_display/public/platforms/photo_qpcr.jpg?itok=fMitX34l" width="300" height="160" alt="" /></div>    </span>
+    <span class="platform__info">
+      <span class="platform__info--title"><h3>qPCR</h3> </span>
+      <span class="platform__info--body"></span>
+<!--      <a href="http://--><!--"> Voir le site </a>-->
+    </span>
+
+
+
+</span>
+</a>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    
+
+<a href="http://inp.univ-amu.fr/en/scent-0">
+<span class="platforms">
+
+    <span class="platform__image">
+      <div class="field-content"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/platforms_display/public/platforms/bandeau_scent.jpg?itok=7DR6JzlU" width="300" height="160" alt="" /></div>    </span>
+    <span class="platform__info">
+      <span class="platform__info--title"><h3>SCeNT</h3> </span>
+      <span class="platform__info--body"></span>
+<!--      <a href="http://--><!--"> Voir le site </a>-->
+    </span>
+
+
+
+</span>
+</a>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-articles-block" class="block block-views clearfix">
+
+    <h2 class="title">News</h2>
+  
+  <div class="content">
+    <div class="view view-articles view-id-articles view-display-id-block view-dom-id-e81a5ddd3aa893c8497be7c237557a52">
+        
+  
+  
+      <div class="view-content">
+          <ol class="article-list">          <li class="article clearfix"><a  href="/en/new-publication-from-the-neurocyto-team-in-nature-communications-perform-advanced-microscopy">
+	
+	<div class="picture">
+		<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/capture-decran-2019-03-19-a-17.55.00.png?itok=hVSZi6HY" width="400" height="230" alt="" />	</div>
+	
+
+	<div class="h2-like title">New publication from the NeuroCyto team in Nature Communications: Perform advanced microscopy experiments thanks to NanoJ-Fluidics</div>
+
+			<div class="meta-data">
+				
+				<p><meta itemprop="startDate" content="2019-03-15T00:00:00">Fri. Mar 15 2019									</p>
+				</div>
+			<div class="description"><p>The LEGO Pumpy (or more officially NanoJ-Fluidics) <a href="https://www.nature.com/articles/s41467-019-09231-9">paper is out</a> in <em>Nature Communications</em>! A joint venture between the INP <a href="https://inp.univ-amu.fr/en/teams/neurocyto-the-neuronal-cytoskeleton-in-health-and-disease">NeuroCyto team</a> and the <a href="http://Henriques lab">Henriques lab</a>, this article (previously available <a href="https://www.biorxiv.org/content/10.1101/320416v1">as a preprint on bioRxiv</a>) details how to build a fully open-source multi-channel syringe pumps with LEGO and Arduino.</p></div>
+
+
+	
+</a>
+
+
+
+</li>
+          <li class="article clearfix"><a  href="/en/new-preprint-from-the-neurocyto-team-tips-and-tricks-for-super-resolution-microscopy">
+	
+	<div class="picture">
+		<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/storm-1.png?itok=3CQPGBEm" width="400" height="230" alt="" />	</div>
+	
+
+	<div class="h2-like title">New preprint from the NeuroCyto team: tips and tricks for super-resolution microscopy</div>
+
+			<div class="meta-data">
+				
+				<p><meta itemprop="startDate" content="2019-03-05T00:00:00">Tue. Mar 05 2019									</p>
+				</div>
+			<div class="description"><p>We have a <a href="https://www.biorxiv.org/content/10.1101/568295v1">new preprint out</a>! Want to do good super-resolution images? We have put together all our single molecule localization microscopy (SMLM) tips and tricks. This is a methods paper that describes our SMLM workflow, using benchmark samples such as microtubules and clathrin-coated pits. </p></div>
+
+
+	
+</a>
+
+
+
+</li>
+          <li class="article clearfix"><a  href="/en/new-publication-from-the-neurocyto-team-in-the-journal-of-cell-biology-slow-axonal-transport-of">
+	
+	<div class="picture">
+		<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/capture-decran-2018-11-08-a-22.09.13.png?itok=dxFxb3MR" width="400" height="230" alt="Hotspots seen by STORM" title="Hotspots seen by STORM" />	</div>
+	
+
+	<div class="h2-like title">New publication from the NeuroCyto team in the Journal of Cell Biology: Slow axonal transport of actin via hotspots and trails</div>
+
+			<div class="meta-data">
+				
+				<p><meta itemprop="startDate" content="2019-01-07T00:00:00">Mon. Jan 07 2019									</p>
+				</div>
+			<div class="description"><p>Our latest work (previously on <a href="https://www.biorxiv.org/content/10.1101/212449v3">bioRxiv</a>) is now published in the <a href="http://jcb.rupress.org/content/218/1/112">Journal of Cell Biology</a>. We collaborated with the Roy lab (UW Madison, USA) and the Jung lab (Ohio University, USA) to reveal a new mechanism of slow axonal transport, based on our previous discovery of <a href="http://jcb.rupress.org/content/218/1/112">actin hotspots and trails</a>. </p></div>
+
+
+	
+</a>
+
+
+
+</li>
+          <li class="article clearfix"><a  href="/en/christophe-from-the-neurocyto-team-delivers-plenary-lecture-at-mifobio-2018">
+	
+	<div class="picture">
+		<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/dpfyzy7x4aa3hj6-1.jpg-large.jpeg?itok=Mfx6fP0M" width="400" height="230" alt="Christophe at MiFoBio" title="Christophe at MiFoBio" />	</div>
+	
+
+	<div class="h2-like title">Christophe from the NeuroCyto team delivers plenary lecture at MiFoBio 2018</div>
+
+			<div class="meta-data">
+				
+				<p><meta itemprop="startDate" content="2018-10-08T00:00:00">Mon. Oct 08 2018									</p>
+				</div>
+			<div class="description"><p>Christophe was lucky to spend a whole week at the “Microscopie Fonctionnelle en Biologie” aka <a href="http://imabio-cnrs.fr/mifobio/presentation-de-mifobio/">MiFoBio workshop</a>. Lots of fun attending dozens of cutting-edge workshops, trying super-resolution microscopes, discussing, DJing (!), and presenting the latest work from the lab.</p>
+<p>More on Twitter: <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23MiFoBio2018&amp;src=typd">#MiFoBio2018</a></p>
+</div>
+
+
+	
+</a>
+
+
+
+</li>
+          <li class="article clearfix"><a  href="/en/the-gliome-team-has-popularized-a-scientific-article-to-make-its-research-accessible-to-the-general">
+	
+	<div class="picture">
+		<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/glioblastomamodel.png?itok=H1NvrOiv" width="400" height="230" alt="" />	</div>
+	
+
+	<div class="h2-like title">The GlioME team has popularized a scientific article to make its research accessible to the general public.</div>
+
+			<div class="meta-data">
+				
+				<p><meta itemprop="startDate" content="2019-03-21T00:00:00">Thu. Mar 21 2019									</p>
+				</div>
+			<div class="description"><p>The popularization of science is one of the missions of academic research. This article authored by Aurélie Soubéran is intended for children aged 12-13 years and more broadly for the general public, and focuses on a preclinical study on glioblastoma model.</p>
+<p>To access it, please <a href="/sites/inp.univ-amu.fr/files/article/souberan_2019_frontiers-young-minds.pdf">download the pdf version</a>.</p>
+</div>
+
+
+	
+</a>
+
+
+
+</li>
+          <li class="article clearfix"><a  href="/en/f-devred-presented-pint-inp-work-on-a-non-conventional-use-of-nanodsf-at-the-arbre-mobieu-meeting">
+	
+	<div class="picture">
+		<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/152a3c36-4db5-4af6-ab86-6d876adff303.jpg?itok=s2IkqJwm" width="400" height="230" alt="" />	</div>
+	
+
+	<div class="h2-like title">F. Devred presented PINT / INP work on a non-conventional use of nanoDSF at the ARBRE MOBIEU meeting</div>
+
+			<div class="meta-data">
+				
+				<p><meta itemprop="startDate" content="2019-03-19T00:00:00">Tue. Mar 19 2019									</p>
+				</div>
+			<div class="description"><p>François Devred has presented his PINT/INP work on non-conventional use of nanoDSF in less than 180 seconds at the 3rd Arbre Mobieu plenary meeting in Zagreb.</p>
+<p>See his flash presentation <a href="https://twitter.com/Francois_Devred/status/1107973540534538241">here</a> and the meeting program on <a href="https://arbre-mobieu.eu/zagreb-2019-programme/">Arbre Mobieu website</a>.</p>
+<p> </p>
+</div>
+
+
+	
+</a>
+
+
+
+</li>
+          <li class="article clearfix"><a  href="/en/vect-horus-and-radiomedix-announce-signing-of-a-letter-of-intent-to-co-develop-a-radio-theranostic">
+	
+	<div class="picture">
+		<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/vh_rm.png?itok=E8m5cb4m" width="400" height="230" alt="" />	</div>
+	
+
+	<div class="h2-like title"> Vect-Horus and RadioMedix announce signing of a Letter of Intent to co-develop a radio-theranostic agent for Glioblastoma</div>
+
+			<div class="meta-data">
+				
+				<p><meta itemprop="startDate" content="2019-03-05T00:00:00">Tue. Mar 05 2019									</p>
+				</div>
+			<div class="description"><p>This partnership will marry the expertise of Vect-Horus in targeting tumors with its technology VECTrans® and the know-how of RadioMedix in developing and conducting pre-clinical evaluation and clinical trials with radiopharmaceuticals.</p>
+<p>For more information, please <a href="https://media.licdn.com/dms/document/C4D1FAQEUGnFB3Ns0IA/feedshare-document-pdf-analyzed/0?e=1553068800&amp;v=beta&amp;t=AFJso6Dhbl0YtNRj98vfgMHTpZ0VNH1S9_1sZ0BBOng">follow this link</a> or <a href="/sites/inp.univ-amu.fr/files/article/vh-radiomedix.pdf">download the pdf version</a>.</p>
+</div>
+
+
+	
+</a>
+
+
+
+</li>
+          <li class="article clearfix"><a  href="/en/michel-khrestchatisky-gives-a-talk-at-the-nanomedicine-for-treating-cancer-and-brain-diseases">
+	
+	<div class="picture">
+		<img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/brain.jpg?itok=FpX6jp1L" width="400" height="230" alt="" />	</div>
+	
+
+	<div class="h2-like title">Michel Khrestchatisky  gives a talk at the  « Nanomedicine for treating cancer and brain diseases » symposium</div>
+
+			<div class="meta-data">
+				
+				<p><meta itemprop="startDate" content="2019-03-08T00:00:00">Fri. Mar 08 2019									</p>
+				</div>
+			<div class="description"><p>In the context of the Euronanomed projects for Action on Nanomedicine under Horizon 2020, a Symposium will be held at the Luminy campus in Marseille on March 8, 2019. Dr. Khrestchatisky will give a talk titled "Molecular vectors for drug delivery into the brain and tumors".</p>
+<p>For more information, please visit the <a href="http://www.cinam.univ-mrs.fr/newsite/nanomed/index.php">symposium website</a> or download the <a href="/files/article/program_nanomedicine.pdf">pdf version of the program.</a></p>
+</div>
+
+
+	
+</a>
+
+
+
+</li>
+      </ol>    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/en/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/en/node?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/en/node?page=3">4</a></li>
+<li class="pager-next"><a href="/en/node?page=1">suivant ›</a></li>
+<li class="pager-last last"><a href="/en/node?page=3">dernier »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- EOF:#sub-top-content-inside -->
+
+                </div>
+            </div>
+            <!-- EOF: #sub-top-content -->
+                            <!-- #highlighted -->
+            <div id="highlighted">
+                <div class="container">
+
+                    <!-- #highlighted-inside -->
+                    <div id="highlighted-inside" class="clearfix">
+                        <div class="row">
+                            <div class="col-md-12">
+                                  <div class="region region-highlighted">
+    <div id="block-block-38" class="block block-block block-numbers-front clearfix">
+
+    <h2 class="title">INP in numbers</h2>
+  
+  <div class="content">
+    <ul><li class="rtecenter"><strong>126 </strong>members</li>
+<li class="rtecenter"><strong>44 </strong>researchers</li>
+<li class="rtecenter"><strong>48 </strong>research assistants</li>
+<li class="rtecenter"><strong>12 </strong>post-docs</li>
+<li class="rtecenter"><strong>11 </strong>PhD</li>
+</ul><p class="rtecenter"> </p>
+  </div>
+</div>
+  </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- EOF:#highlighted-inside -->
+
+                </div>
+            </div>
+            <!-- EOF: #highlighted -->
+        
+        <!-- #main-content -->
+        <div id="main-content">
+            <div class="container">
+
+                <div class="row">
+
+                    
+                    <section class=" col-md-12">
+
+                        <!-- #main -->
+                        <div id="main" class="clearfix">
+
+                                                                                    
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                    </div>
+                                                        <!-- EOF: #tabs -->
+
+                            
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+
+                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-427" class="node node-job-offer node-promoted node-teaser clearfix" about="/en/proposition-sujet-these" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/proposition-sujet-these">PROPOSITION SUJET DE THESE</a></h2>
+            <span property="dc:title" content="PROPOSITION SUJET DE THESE" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>TWEAK et anticorps anti-TWEAK: quels effets modulateurs de la neuroinflammation dans la sclérose en plaques?</h3>
+<p> </p>
+<p><strong>Équipe </strong>: <a href="/fr/equipe/neuro-inflammation-sclerose-plaques">Neuroinflammation et sclérose en plaques</a></p>
+<p><strong>Directeur de Thèse </strong>: <a href="/fr/users/desplat-jego-sophie">Sophie DESPLAT-JEGO (MCU-PH1)</a></p>
+<p><strong>Positionnement du projet</strong></p></div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/proposition-sujet-these" rel="tag" title="PROPOSITION SUJET DE THESE">Read more<span class="element-invisible"> about PROPOSITION SUJET DE THESE</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-428" class="node node-job-offer node-promoted node-teaser clearfix" about="/en/proposition-sujet-these-0" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/proposition-sujet-these-0">PROPOSITION SUJET DE THESE</a></h2>
+            <span property="dc:title" content="PROPOSITION SUJET DE THESE" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Rôle du long ARN non-codant Neat1 dans la physiologie circadienne de l’horloge hypophysaire</h3>
+<p> </p>
+<p><strong>Équipe</strong>: <a href="/fr/equipe/genes-rythmes-neurophysiopathologie">Genes rythmes et Neurophysiopathologie</a></p>
+<p><strong>Directeur de Thèse</strong> : <a href="/fr/users/francois-bellan-anne-marie">Dr François-Bellan Anne Marie (CRHC INSERM)</a></p>
+<p><strong>Positionnement du projet</strong></p></div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/proposition-sujet-these-0" rel="tag" title="PROPOSITION SUJET DE THESE">Read more<span class="element-invisible"> about PROPOSITION SUJET DE THESE</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-435" class="node node-job-offer node-promoted node-teaser clearfix" about="/en/thesis-subject-proposal-0" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/thesis-subject-proposal-0">THESIS SUBJECT PROPOSAL</a></h2>
+            <span property="dc:title" content="THESIS SUBJECT PROPOSAL" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Vectorization of therapeutic antibodies for increased brain delivery and efficacy in Alzheimer’s disease</h3>
+<p> </p>
+<p><strong>Team</strong> : <a href="/teams/bbb-and-neuroinflammation">BBB and Neuroinflammation</a></p>
+<p><strong>Thesis supervisor</strong> : <a href="/users/khrestchatisky-michel">Michel Khrestchatisky (DR1 CNRS)</a></p>
+<p style="margin-left:0cm; margin-right:0cm"><strong>State of the art</strong></p></div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/thesis-subject-proposal-0" rel="tag" title="THESIS SUBJECT PROPOSAL">Read more<span class="element-invisible"> about THESIS SUBJECT PROPOSAL</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-436" class="node node-job-offer node-promoted node-teaser clearfix" about="/en/thesis-subject-proposal" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/thesis-subject-proposal">THESIS SUBJECT PROPOSAL</a></h2>
+            <span property="dc:title" content="THESIS SUBJECT PROPOSAL" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Functional organization of axonal actin</h3>
+<p> </p>
+<p><strong>Team:</strong>  <a href="/teams/neurocyto-the-neuronal-cytoskeleton-in-health-and-disease">NeuroCyto: the neuronal cytoskeleton in health and disease</a></p>
+<p style="margin-left:0cm; margin-right:0cm"><strong>Thesis supervisor: </strong><a href="/users/papandreou-marie-jeanne">Marie-Jeanne Papandréou (MCU AMU)</a></p>
+<p style="margin-left:0cm; margin-right:0cm"><strong>Co-director</strong> : <a href="/profile/leterrier-christophe">Christophe Leterrier</a></p></div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/thesis-subject-proposal" rel="tag" title="THESIS SUBJECT PROPOSAL">Read more<span class="element-invisible"> about THESIS SUBJECT PROPOSAL</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-437" class="node node-job-offer node-promoted node-teaser clearfix" about="/en/proposition-sujet-these-1" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/proposition-sujet-these-1">PROPOSITION SUJET DE THESE</a></h2>
+            <span property="dc:title" content="PROPOSITION SUJET DE THESE" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>L’Apolipoprotéine E humaine comme un modulateur de processus neuro-pathogéniques dans la maladie d’Alzheimer</h3>
+<p> </p>
+<p><strong>Equipes  :</strong> <a href="/fr/equipe/plasticite-degenerescence-neurales">Plasticité et Dégénérescence Neurales</a> et <a href="/fr/equipe/cellules-souches-modelisation-maladies-neuroregeneration">Cellules souches, modélisation des maladies et neurorégénération</a></p>
+<p><strong>Directeur de Thèse </strong>:<strong> </strong><a href="/users/rivera-santiago">Santiago Rivera (DR2 CNRS)</a></p></div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/proposition-sujet-these-1" rel="tag" title="PROPOSITION SUJET DE THESE">Read more<span class="element-invisible"> about PROPOSITION SUJET DE THESE</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-424" class="node node-article node-promoted node-teaser clearfix" about="/en/new-publication-from-the-neurocyto-team-in-nature-communications-perform-advanced-microscopy" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/new-publication-from-the-neurocyto-team-in-nature-communications-perform-advanced-microscopy">New publication from the NeuroCyto team in Nature Communications: Perform advanced microscopy experiments thanks to NanoJ-Fluidics</a></h2>
+            <span property="dc:title" content="New publication from the NeuroCyto team in Nature Communications: Perform advanced microscopy experiments thanks to NanoJ-Fluidics" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The LEGO Pumpy (or more officially NanoJ-Fluidics) <a href="https://www.nature.com/articles/s41467-019-09231-9">paper is out</a> in <em>Nature Communications</em>! A joint venture between the INP <a href="https://inp.univ-amu.fr/en/teams/neurocyto-the-neuronal-cytoskeleton-in-health-and-disease">NeuroCyto team</a> and the <a href="http://Henriques lab">Henriques lab</a>, this article (previously available <a href="https://www.biorxiv.org/content/10.1101/320416v1">as a preprint on bioRxiv</a>) details how to build a fully open-source multi-channel syringe pumps with LEGO and Arduino.</p></div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+<div class="field field-name-field-image-article field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/new-publication-from-the-neurocyto-team-in-nature-communications-perform-advanced-microscopy"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/capture-decran-2019-03-19-a-17.55.00.png?itok=hVSZi6HY" width="400" height="230" alt="" /></a></div></div></div>    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/new-publication-from-the-neurocyto-team-in-nature-communications-perform-advanced-microscopy" rel="tag" title="New publication from the NeuroCyto team in Nature Communications: Perform advanced microscopy experiments thanks to NanoJ-Fluidics">Read more<span class="element-invisible"> about New publication from the NeuroCyto team in Nature Communications: Perform advanced microscopy experiments thanks to NanoJ-Fluidics</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-423" class="node node-article node-promoted node-teaser clearfix" about="/en/new-preprint-from-the-neurocyto-team-tips-and-tricks-for-super-resolution-microscopy" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/new-preprint-from-the-neurocyto-team-tips-and-tricks-for-super-resolution-microscopy">New preprint from the NeuroCyto team: tips and tricks for super-resolution microscopy</a></h2>
+            <span property="dc:title" content="New preprint from the NeuroCyto team: tips and tricks for super-resolution microscopy" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>We have a <a href="https://www.biorxiv.org/content/10.1101/568295v1">new preprint out</a>! Want to do good super-resolution images? We have put together all our single molecule localization microscopy (SMLM) tips and tricks. This is a methods paper that describes our SMLM workflow, using benchmark samples such as microtubules and clathrin-coated pits. </p></div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+<div class="field field-name-field-image-article field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/new-preprint-from-the-neurocyto-team-tips-and-tricks-for-super-resolution-microscopy"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/storm-1.png?itok=3CQPGBEm" width="400" height="230" alt="" /></a></div></div></div>    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/new-preprint-from-the-neurocyto-team-tips-and-tricks-for-super-resolution-microscopy" rel="tag" title="New preprint from the NeuroCyto team: tips and tricks for super-resolution microscopy">Read more<span class="element-invisible"> about New preprint from the NeuroCyto team: tips and tricks for super-resolution microscopy</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-425" class="node node-article node-promoted node-teaser clearfix" about="/en/new-publication-from-the-neurocyto-team-in-the-journal-of-cell-biology-slow-axonal-transport-of" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/new-publication-from-the-neurocyto-team-in-the-journal-of-cell-biology-slow-axonal-transport-of">New publication from the NeuroCyto team in the Journal of Cell Biology: Slow axonal transport of actin via hotspots and trails</a></h2>
+            <span property="dc:title" content="New publication from the NeuroCyto team in the Journal of Cell Biology: Slow axonal transport of actin via hotspots and trails" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Our latest work (previously on <a href="https://www.biorxiv.org/content/10.1101/212449v3">bioRxiv</a>) is now published in the <a href="http://jcb.rupress.org/content/218/1/112">Journal of Cell Biology</a>. We collaborated with the Roy lab (UW Madison, USA) and the Jung lab (Ohio University, USA) to reveal a new mechanism of slow axonal transport, based on our previous discovery of <a href="http://jcb.rupress.org/content/218/1/112">actin hotspots and trails</a>. </p></div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+<div class="field field-name-field-image-article field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/new-publication-from-the-neurocyto-team-in-the-journal-of-cell-biology-slow-axonal-transport-of"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/capture-decran-2018-11-08-a-22.09.13.png?itok=dxFxb3MR" width="400" height="230" alt="Hotspots seen by STORM" title="Hotspots seen by STORM" /></a></div></div></div>    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/new-publication-from-the-neurocyto-team-in-the-journal-of-cell-biology-slow-axonal-transport-of" rel="tag" title="New publication from the NeuroCyto team in the Journal of Cell Biology: Slow axonal transport of actin via hotspots and trails">Read more<span class="element-invisible"> about New publication from the NeuroCyto team in the Journal of Cell Biology: Slow axonal transport of actin via hotspots and trails</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-426" class="node node-article node-promoted node-teaser clearfix" about="/en/christophe-from-the-neurocyto-team-delivers-plenary-lecture-at-mifobio-2018" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/christophe-from-the-neurocyto-team-delivers-plenary-lecture-at-mifobio-2018">Christophe from the NeuroCyto team delivers plenary lecture at MiFoBio 2018</a></h2>
+            <span property="dc:title" content="Christophe from the NeuroCyto team delivers plenary lecture at MiFoBio 2018" class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Christophe was lucky to spend a whole week at the “Microscopie Fonctionnelle en Biologie” aka <a href="http://imabio-cnrs.fr/mifobio/presentation-de-mifobio/">MiFoBio workshop</a>. Lots of fun attending dozens of cutting-edge workshops, trying super-resolution microscopes, discussing, DJing (!), and presenting the latest work from the lab.</p>
+<p>More on Twitter: <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23MiFoBio2018&amp;src=typd">#MiFoBio2018</a></p>
+</div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+<div class="field field-name-field-image-article field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/christophe-from-the-neurocyto-team-delivers-plenary-lecture-at-mifobio-2018"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/dpfyzy7x4aa3hj6-1.jpg-large.jpeg?itok=Mfx6fP0M" width="400" height="230" alt="Christophe at MiFoBio" title="Christophe at MiFoBio" /></a></div></div></div>    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/christophe-from-the-neurocyto-team-delivers-plenary-lecture-at-mifobio-2018" rel="tag" title="Christophe from the NeuroCyto team delivers plenary lecture at MiFoBio 2018">Read more<span class="element-invisible"> about Christophe from the NeuroCyto team delivers plenary lecture at MiFoBio 2018</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-421" class="node node-article node-promoted node-teaser clearfix" about="/en/the-gliome-team-has-popularized-a-scientific-article-to-make-its-research-accessible-to-the-general" typeof="sioc:Item foaf:Document">
+            <div class="node-main-content full-width">
+            <header>
+                    <h2><a href="/en/the-gliome-team-has-popularized-a-scientific-article-to-make-its-research-accessible-to-the-general">The GlioME team has popularized a scientific article to make its research accessible to the general public.</a></h2>
+            <span property="dc:title" content="The GlioME team has popularized a scientific article to make its research accessible to the general public." class="rdf-meta element-hidden"></span>
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The popularization of science is one of the missions of academic research. This article authored by Aurélie Soubéran is intended for children aged 12-13 years and more broadly for the general public, and focuses on a preclinical study on glioblastoma model.</p>
+<p>To access it, please <a href="/sites/inp.univ-amu.fr/files/article/souberan_2019_frontiers-young-minds.pdf">download the pdf version</a>.</p>
+</div></div></div><div class="form-item form-type-item">
+  <label>Language </label>
+ Undefined
+</div>
+<div class="field field-name-field-image-article field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/the-gliome-team-has-popularized-a-scientific-article-to-make-its-research-accessible-to-the-general"><img typeof="foaf:Image" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/styles/article-block/public/article/glioblastomamodel.png?itok=H1NvrOiv" width="400" height="230" alt="" /></a></div></div></div>    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/en/the-gliome-team-has-popularized-a-scientific-article-to-make-its-research-accessible-to-the-general" rel="tag" title="The GlioME team has popularized a scientific article to make its research accessible to the general public.">Read more<span class="element-invisible"> about The GlioME team has popularized a scientific article to make its research accessible to the general public.</span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article>  </div>
+</div>
+<div id="block-views-evenement-agenda-block-1" class="block block-views basis-100 clearfix">
+
+    <h2 class="title">Next seminars</h2>
+  
+  <div class="content">
+    <div class="view view-evenement-agenda view-id-evenement_agenda view-display-id-block_1 view-dom-id-ec908a2fcd7216766d8e65e801a1ac8c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+
+
+<div class="event-row ">
+    <div class="event-color"></div>
+    <div class="event-date">
+        <div>26 Apr 2019 14:30</div>    </div>
+    <div class="event event-agenda-accordion">
+    <div class="event-title">
+            <h3 class="ui-accordion-header"><span class="field-content">Team 10 - Angiogenesis and Tumor Microenvironment</span></h3>
+    </div>
+
+        <div class="event-desc ui-accordion-content">
+                    <div class="event-lieu">
+          <p><div class="field-content">Faculté de pharmacie de la Timone, Amphithéatre Pastor, RdC</div></p>
+          </div>
+                  </div>
+    </div>
+
+</div>
+<div class="clearfix"></div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+
+
+<div class="event-row ">
+    <div class="event-color"></div>
+    <div class="event-date">
+        <div>26 Apr 2019 15:00</div>    </div>
+    <div class="event event-agenda-accordion">
+    <div class="event-title">
+            <h3 class="ui-accordion-header"><span class="field-content">Laure Carrichon - Présentation du SATT</span></h3>
+    </div>
+
+        <div class="event-desc ui-accordion-content">
+                    <div class="event-lieu">
+          <p><div class="field-content">Faculté de pharmacie de la Timone, Amphithéatre Pastor, RdC</div></p>
+          </div>
+                  </div>
+    </div>
+
+</div>
+<div class="clearfix"></div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+
+
+<div class="event-row ">
+    <div class="event-color"></div>
+    <div class="event-date">
+        <div>3 May 2019 14:30</div>    </div>
+    <div class="event event-agenda-accordion">
+    <div class="event-title">
+            <h3 class="ui-accordion-header"><span class="field-content">Sylvia Pietri </span></h3>
+    </div>
+
+        <div class="event-desc ui-accordion-content">
+                    <div class="event-lieu">
+          <p><div class="field-content">Faculté de médecine Nord, salle de conférences, bâtiment E</div></p>
+          </div>
+                  </div>
+    </div>
+
+</div>
+<div class="clearfix"></div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+    
+
+
+<div class="event-row ">
+    <div class="event-color"></div>
+    <div class="event-date">
+        <div>10 May 2019 14:30</div>    </div>
+    <div class="event event-agenda-accordion">
+    <div class="event-title">
+            <h3 class="ui-accordion-header"><span class="field-content">Raphaël Berges - Team 8</span></h3>
+    </div>
+
+        <div class="event-desc ui-accordion-content">
+                    <div class="event-lieu">
+          <p><div class="field-content">Faculté de médecine Nord, salle de conférences, bâtiment E</div></p>
+          </div>
+            <p>Raphaël Berges is a Post-doc of the Team 8 - GlioME: Gliomagenesis and MicroEnvironment.</p>
+      </div>
+    </div>
+
+</div>
+<div class="clearfix"></div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-multiblock-23" class="block block-multiblock block-amu-hal block-amu-hal-hal_publications-instance clearfix">
+
+    <h2 class="title">Highligthed Publications</h2>
+  
+  <div class="content">
+    <div class='hidden'>http://api.archives-ouvertes.fr/search/?fq=docid:%281696157+OR+1701591+OR+1484578%29&rows=2000&fl=title_s,en_title_s,docid,label_s,en_label_s,docType_s,authIdHal_s,halId_s,structId_i,uri_s,keyword_s,en_keyword_s,authLastNameFirstName_s,journalTitle_s,abstract_s,en_abstract_s,producedDate_tdate,producedDateY_i,language_s,fileMain_s&sort=producedDate_tdate+desc</div>          <ul class="hal-pub-list-type-2 ">
+                        <li class="hal-pub">
+                  <a href="/doc/hal-01696157/_23">
+                      <div class="hal-pub__title">
+                        Differential scanning calorimetry of plasma in glioblastoma: toward a new prognostic / monitoring tool                      </div>
+                      <ul class="hal-pub__authors">
+                                                    <li>Tsvetkov Philipp</li>
+                                                    <li>Tabouret Emeline</li>
+                                                    <li>Roman Andrei</li>
+                                                    <li>Romain Sylvie</li>
+                                                    <li>Bequet Céline</li>
+                                                    <li>Ishimbaeva Olga</li>
+                                                    <li>Honoré Stéphane</li>
+                                                    <li>Figarella-Branger Dominique</li>
+                                                    <li>Chinot Olivier</li>
+                                                    <li>Devred François</li>
+                                              </ul>
+
+
+                                            <div class="hal-pub__citation-ref">
+                          Oncotarget                        </div>
+                                        2018                  </a>
+              </li>
+                        <li class="hal-pub">
+                  <a href="/doc/hal-01701366/_23">
+                      <div class="hal-pub__title">
+                        The nano-architecture of the axonal cytoskeleton                      </div>
+                      <ul class="hal-pub__authors">
+                                                    <li>Leterrier Christophe</li>
+                                                    <li>Dubey Pankaj</li>
+                                                    <li>Roy Subhojit</li>
+                                              </ul>
+
+
+                                            <div class="hal-pub__citation-ref">
+                          Nature Reviews Neuroscience                        </div>
+                                        2017                  </a>
+              </li>
+                        <li class="hal-pub">
+                  <a href="/doc/hal-01457643/_23">
+                      <div class="hal-pub__title">
+                        Circadian RNA expression elicited by 3’-UTR IRAlu-paraspeckle associated elements                      </div>
+                      <ul class="hal-pub__authors">
+                                                    <li>Torres Manon</li>
+                                                    <li>Becquet Denis</li>
+                                                    <li>Blanchard Marie-Pierre</li>
+                                                    <li>Guillen Séverine</li>
+                                                    <li>Boyer Bénédicte</li>
+                                                    <li>Moreno Mathias</li>
+                                                    <li>Franc Jean-Louis</li>
+                                                    <li>François-Bellan Anne-Marie</li>
+                                              </ul>
+
+
+                                            <div class="hal-pub__citation-ref">
+                          eLife                        </div>
+                                        2016                  </a>
+              </li>
+                  </ul>
+
+      
+
+  </div>
+</div>
+  </div>
+                        </div>
+                        <!-- EOF:#main -->
+
+                    </section>
+
+                    
+                </div>
+
+            </div>
+        </div>
+        <!-- EOF:#main-content -->
+
+    </div>
+    <!-- EOF: #page -->
+
+    
+            <!-- #bottom-content -->
+        <div id="bottom-content" class="clearfix">
+            <div class="container">
+
+                <!-- #bottom-content-inside -->
+                <div id="bottom-content-inside" class="clearfix">
+                    <div class="row">
+                        <div class="col-md-12">
+                              <div class="region region-bottom-content">
+    <div id="block-block-40" class="block block-block clearfix">
+
+    <h2 class="title">Partners</h2>
+  
+  <div class="content">
+    <p style="text-align:center"><a href="http://www.univ-amu.fr/"><img alt="" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/public/images/amu.png" style="height:48px; width:125px" width="125" height="48" /></a><a href="http://www.cnrs.fr"><img alt="" src="sites/inp.univ-amu.fr/files/equipes/logo80ans_or.png" style="height:48px; width:68px" /></a><a href="http://www.inserm.fr"><img alt="" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/public/images/telechargement.jpg" style="height:48px; width:96px" width="96" height="48" /></a>  <a href="http://fr.ap-hm.fr/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/ap-hm.png" style="height:48px; width:129px" /></a> <a href="https://recherche.univ-amu.fr/fr/plateforme"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/ptm.png" style="height:48px; width:105px" /></a><a href="http://www.europe-en-france.gouv.fr/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/eer.png" style="height:48px; width:68px" /></a> <a href="https://www.biogen-france.fr/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/biogen_0.jpg" style="height:48px; width:141px" /></a>  <a href="https://fondation.nrj.fr/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/npj_fondation.png" style="height:48px; width:48px" /></a><a href="http://www.fondation-alzheimer.org/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/fondation_plan_alzheimer.png" style="height:48px; width:99px" /></a><a href="https://canceropole-paca.com/"><img alt="" src="sites/inp.univ-amu.fr/files/equipes/canceropole.png" style="height:48px; width:123px" /></a><a href="https://www.anocef.org/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/logo_anocef.png" style="height:48px; width:103px" /></a>  <a href="https://www.ibisa.net/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/ibisa_0.png" style="height:48px; width:140px" /></a>  <a href="http://www.cerimed-web.eu/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/logo_cerimed.gif" style="height:48px; width:146px" /></a>  <a href="http://www.cnrs.fr/insb/6.recherche/ATIP.htm"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/atip.png" style="height:48px; width:272px" /></a><a href="https://amidex.univ-amu.fr/">  <img alt="" src="sites/inp.univ-amu.fr/files/public/images/amidex.png" style="height:48px; width:180px" /></a>   <a href="https://www.fondation-arc.org"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/logo_fondation_arc_-_copie.png" style="height:48px; width:48px" /></a>  <a href="http://www.artcsud.fr/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/logo_artc-sud.gif" style="height:48px; width:218px" /></a><a href="https://www.roche.com"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/logo_roche_copie.jpg" style="height:48px; width:77px" /></a>  <a href="http://sfce.sfpediatrie.com/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/logo_sfce_copie.jpg" style="height:48px; width:48px" /></a>  <a href="https://www.coen.org/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/coen_0.png" style="height:48px; width:84px" /></a><a href="http://www.gilead.com/"> <img alt="" src="sites/inp.univ-amu.fr/files/public/images/gilead.jpg" style="height:48px; width:71px" /></a>  <a href="http://www.basilea.com/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/logo_basilea.gif" style="height:48px; width:105px" /></a>  <a href="http://www.cea.fr/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/logo_cea.png" style="height:48px; width:59px" /></a>  <a href="https://www.dhune.org/"><img alt="" src="sites/inp.univ-amu.fr/files/public/images/dhune.png" style="height:48px; width:72px" /></a></p>
+  </div>
+</div>
+  </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- EOF:#bottom-content-inside -->
+
+            </div>
+        </div>
+        <!-- EOF: #bottom-content -->
+    
+    
+            <!-- #footer -->
+        <footer id="footer" class="clearfix">
+            <div class="container">
+
+                <div class="row">
+
+                                                    <div class="footer-area">
+                                  <div class="region region-footer-first">
+    <div id="block-block-32" class="block block-block clearfix">
+
+    <h2 class="title">Contact us</h2>
+  
+  <div class="content">
+    <p>Institute of NeuroPhysiopathology (INP) - UMR 7051</p>
+<p>Faculté de Médecine secteur Nord<br />
+51, Boulevard Pierre Dramard - CS80011<br />
+13344 Marseille Cedex 15, France</p>
+  </div>
+</div>
+<div id="block-menu-menu-tools-menu" class="block block-menu clearfix">
+
+    <h2 class="title">Private space</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://inp.univ-amu.fr/cas" title="Connexion à l&#039;espace gestionnaire" class="connexion-link">Log in</a></li>
+<li class="last leaf"><a href="/en/private/intranet">Intranet</a></li>
+</ul>  </div>
+</div>
+  </div>
+                            </div>
+                        
+
+                </div>
+
+            </div>
+        </footer>
+        <!-- EOF #footer -->
+    
+            <div id="subfooter" class="clearfix">
+            <div class="container">
+
+                <!-- #subfooter-inside -->
+                <div id="subfooter-inside" class="clearfix">
+                    <div class="row">
+                        <div class="subfooter">
+                            <!-- #subfooter -->
+                                                            <div class="subfooter-area">
+                                      <div class="region region-footer">
+    <div id="block-block-1" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p><a href="http://www.univ-amu.fr"><img alt="Aix-Marseille Université" src="/sites/inp.univ-amu.fr/themes/webkit_theme/images/logo_amu_blanc.png" width="203" height="70" /></a>    <img alt="" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/resize/public/images/logo-cnrs-blanc-71x70.png" style="height:70px; width:71px" width="71" height="70" />  </p>
+  </div>
+</div>
+<div id="block-block-36" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p>Aix Marseille Université | All rights reserved - <a href="/mentions-legales">Legal notice</a></p>
+  </div>
+</div>
+  </div>
+                                </div>
+                                                        <!-- EOF: #subfooter -->
+                        </div>
+                    </div>
+                </div>
+                <!-- EOF: #subfooter-inside -->
+
+            </div>
+        </div><!-- EOF:#subfooter -->
+    
+</div>
+<!-- EOF:#page-container -->  <script type="text/javascript" src="https://inp.univ-amu.fr/sites/inp.univ-amu.fr/files/js/js_uTpGZRbRZm_lrt5640lI88hN-6jGIe3E3hxZcagIuss.js"></script>
+</body>
+</html>

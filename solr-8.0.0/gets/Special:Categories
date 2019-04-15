@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Categories - EduTech Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Categories","wgNamespaceNumber":-1,"wgPageName":"Special:Categories","wgTitle":"Categories","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:Categories","wgRelevantArticleId":0,"wgRequestId":"ae3807b8bc5c7bb4d6dbf1ea","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"srfFilteredConfig":null,"sdgDownArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/mediawiki/extensions/SemanticDrilldown/skins/right-arrow.png","wgHeaderTabsTabIndexes":[],"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/mediawiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":false},"egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","openlayers","googlemaps3"],"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","oojs-ui.styles.textures":"ready","mediawiki.widgets.styles":"ready","oojs-ui.styles.icons-content":"ready","oojs-ui.styles.icons-alerts":"ready","oojs-ui.styles.icons-interactions":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.vector.styles.responsive":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1wt4m49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.wikilog","ext.headertabs","ext.headertabs.large","ext.categoryTree","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.smw.style","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.widgets.styles%7Coojs-ui-core.styles%7Coojs-ui.styles.icons-alerts%2Cicons-content%2Cicons-interactions%2Cindicators%2Ctextures%7Cskins.vector.styles%7Cskins.vector.styles.responsive&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="EduTech Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//edutechwiki.unige.ch/mediawiki/api.php?action=rsd"/>
+<link rel="license" href="/en/EduTech_Wiki:Copyrights"/>
+<link rel="alternate" type="application/atom+xml" title="EduTech Wiki Atom feed" href="/mediawiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/mediawiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Categories page-Special_Categories rootpage-Special_Categories skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Categories</h1>			<div id="bodyContent" class="mw-body-content">
+								<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text"><div class="mw-spcontent"><p>The following categories contain pages or media.
+<a href="/en/Special:UnusedCategories" title="Special:UnusedCategories">Unused categories</a> are not shown here.
+Also see <a href="/en/Special:WantedCategories" title="Special:WantedCategories">wanted categories</a>.
+</p><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/en/Special:Categories' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon'></span><span class='oo-ui-labelElement-label'>Categories</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div data-mw-modules='mediawiki.widgets' id='ooui-php-2' class='mw-htmlform-field-HTMLTitleTextField  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"from"},"align":"top","errors":[],"notices":[],"$overlay":true,"label":{"html":"Display categories starting at:"},"classes":["mw-htmlform-field-HTMLTitleTextField","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Display categories starting at:</label></span><div class='oo-ui-fieldLayout-field'><div id='from' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php mw-widget-titleInputWidget' data-ooui='{"_":"mw.widgets.TitleInputWidget","namespace":14,"relative":true,"$overlay":true,"maxLength":255,"name":"from","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='' maxlength='255' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon'></span><span class='oo-ui-indicatorElement-indicator'></span></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-3' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Show","flags":["primary","progressive"],"label":"Show","classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Show' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Show</span><span class='oo-ui-indicatorElement-indicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div>(first | <a href="/mediawiki/index.php?title=Special:Categories&amp;dir=prev" class="mw-lastlink" title="Special:Categories">last</a>) View (previous 50  |  <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=Computerized_embroidery" class="mw-nextlink" title="Special:Categories" rel="next">next 50</a>) (<a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=20" class="mw-numlink" title="Special:Categories">20</a> | <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=50" class="mw-numlink" title="Special:Categories">50</a> | <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=100" class="mw-numlink" title="Special:Categories">100</a> | <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=250" class="mw-numlink" title="Special:Categories">250</a> | <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=500" class="mw-numlink" title="Special:Categories">500</a>)<ul><li><a href="/en/Category:3D" title="Category:3D">3D</a>‏‎ (42 members)</li>
+<li><a href="/en/Category:3D_printing" title="Category:3D printing">3D printing</a>‏‎ (49 members)</li>
+<li><a href="/en/Category:AMP" title="Category:AMP">AMP</a>‏‎ (16 members)</li>
+<li><a href="/en/Category:ActionScript_Code_Snippets" title="Category:ActionScript Code Snippets">ActionScript Code Snippets</a>‏‎ (6 members)</li>
+<li><a href="/en/Category:ActionScript_programming_projects" title="Category:ActionScript programming projects">ActionScript programming projects</a>‏‎ (9 members)</li>
+<li><a href="/en/Category:ActionScript_tutorials" title="Category:ActionScript tutorials">ActionScript tutorials</a>‏‎ (14 members)</li>
+<li><a href="/en/Category:Actionscript_3" title="Category:Actionscript 3">Actionscript 3</a>‏‎ (52 members)</li>
+<li><a href="/en/Category:Affect_and_motivation" title="Category:Affect and motivation">Affect and motivation</a>‏‎ (24 members)</li>
+<li><a href="/en/Category:Affordances" title="Category:Affordances">Affordances</a>‏‎ (3 members)</li>
+<li><a href="/en/Category:Affordances_and_constraints_of_learning_technologies" title="Category:Affordances and constraints of learning technologies">Affordances and constraints of learning technologies</a>‏‎ (46 members)</li>
+<li><a href="/en/Category:Analytics" title="Category:Analytics">Analytics</a>‏‎ (17 members)</li>
+<li><a href="/en/Category:Annotation" title="Category:Annotation">Annotation</a>‏‎ (5 members)</li>
+<li><a href="/en/Category:Art" title="Category:Art">Art</a>‏‎ (2 members)</li>
+<li><a href="/en/Category:Artificial_intelligence" title="Category:Artificial intelligence">Artificial intelligence</a>‏‎ (10 members)</li>
+<li><a href="/en/Category:Artificial_intelligence_and_education" title="Category:Artificial intelligence and education">Artificial intelligence and education</a>‏‎ (4 members)</li>
+<li><a href="/en/Category:Assets" title="Category:Assets">Assets</a>‏‎ (20 members)</li>
+<li><a href="/en/Category:Authoring_tools" title="Category:Authoring tools">Authoring tools</a>‏‎ (40 members)</li>
+<li><a href="/en/Category:BPMN" title="Category:BPMN">BPMN</a>‏‎ (7 members)</li>
+<li><a href="/en/Category:Bibliography" title="Category:Bibliography">Bibliography</a>‏‎ (20 members)</li>
+<li><a href="/mediawiki/index.php?title=Category:Blurp&amp;action=edit&amp;redlink=1" class="new" title="Category:Blurp (page does not exist)">Blurp</a>‏‎ (1 member)</li>
+<li><a href="/en/Category:Books" title="Category:Books">Books</a>‏‎ (34 members)</li>
+<li><a href="/en/Category:Browser_extensions" title="Category:Browser extensions">Browser extensions</a>‏‎ (2 members)</li>
+<li><a href="/en/Category:COAP-3000" title="Category:COAP-3000">COAP-3000</a>‏‎ (9 members)</li>
+<li><a href="/en/Category:COAP_2100" title="Category:COAP 2100">COAP 2100</a>‏‎ (12 members)</li>
+<li><a href="/en/Category:COAP_2100_Archive" title="Category:COAP 2100 Archive">COAP 2100 Archive</a>‏‎ (6 members)</li>
+<li><a href="/en/Category:COAP_2170" title="Category:COAP 2170">COAP 2170</a>‏‎ (10 members)</li>
+<li><a href="/en/Category:COAP_3110" title="Category:COAP 3110">COAP 3110</a>‏‎ (10 members)</li>
+<li><a href="/en/Category:COAP_3120" title="Category:COAP 3120">COAP 3120</a>‏‎ (9 members)</li>
+<li><a href="/en/Category:COAP_3150" title="Category:COAP 3150">COAP 3150</a>‏‎ (10 members)</li>
+<li><a href="/mediawiki/index.php?title=Category:CS1_errors:_dates&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 errors: dates (page does not exist)">CS1 errors: dates</a>‏‎ (1 member)</li>
+<li><a href="/en/Category:CS6_icons" title="Category:CS6 icons">CS6 icons</a>‏‎ (41 members)</li>
+<li><a href="/en/Category:CS6_pointers" title="Category:CS6 pointers">CS6 pointers</a>‏‎ (9 members)</li>
+<li><a href="/en/Category:CSCW" title="Category:CSCW">CSCW</a>‏‎ (2 members)</li>
+<li><a href="/en/Category:CSS" title="Category:CSS">CSS</a>‏‎ (21 members)</li>
+<li><a href="/en/Category:CS_Project_Information" title="Category:CS Project Information">CS Project Information</a>‏‎ (0 members)</li>
+<li><a href="/en/Category:Cartography" title="Category:Cartography">Cartography</a>‏‎ (4 members)</li>
+<li><a href="/en/Category:Citizen_science" title="Category:Citizen science">Citizen science</a>‏‎ (10 members)</li>
+<li><a href="/en/Category:Citizen_science_infrastructure" title="Category:Citizen science infrastructure">Citizen science infrastructure</a>‏‎ (15 members)</li>
+<li><a href="/en/Category:Citizen_science_project" title="Category:Citizen science project">Citizen science project</a>‏‎ (33 members)</li>
+<li><a href="/en/Category:Citizen_science_software" title="Category:Citizen science software">Citizen science software</a>‏‎ (11 members)</li>
+<li><a href="/en/Category:Classroom_technologies" title="Category:Classroom technologies">Classroom technologies</a>‏‎ (7 members)</li>
+<li><a href="/en/Category:Cloud_computing" title="Category:Cloud computing">Cloud computing</a>‏‎ (8 members)</li>
+<li><a href="/en/Category:Cognitive_tools" title="Category:Cognitive tools">Cognitive tools</a>‏‎ (42 members)</li>
+<li><a href="/en/Category:Collaborative_learning" title="Category:Collaborative learning">Collaborative learning</a>‏‎ (59 members)</li>
+<li><a href="/en/Category:Community" title="Category:Community">Community</a>‏‎ (13 members)</li>
+<li><a href="/en/Category:Community-oriented_instructional_design_models" title="Category:Community-oriented instructional design models">Community-oriented instructional design models</a>‏‎ (17 members)</li>
+<li><a href="/en/Category:Computer-mediated_communication" title="Category:Computer-mediated communication">Computer-mediated communication</a>‏‎ (19 members)</li>
+<li><a href="/en/Category:Computer_games" title="Category:Computer games">Computer games</a>‏‎ (13 members)</li>
+<li><a href="/en/Category:Computer_literacy" title="Category:Computer literacy">Computer literacy</a>‏‎ (9 members)</li>
+<li><a href="/en/Category:Computerized_embroidery" title="Category:Computerized embroidery">Computerized embroidery</a>‏‎ (37 members)</li>
+</ul>(first | <a href="/mediawiki/index.php?title=Special:Categories&amp;dir=prev" class="mw-lastlink" title="Special:Categories">last</a>) View (previous 50  |  <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=Computerized_embroidery" class="mw-nextlink" title="Special:Categories" rel="next">next 50</a>) (<a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=20" class="mw-numlink" title="Special:Categories">20</a> | <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=50" class="mw-numlink" title="Special:Categories">50</a> | <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=100" class="mw-numlink" title="Special:Categories">100</a> | <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=250" class="mw-numlink" title="Special:Categories">250</a> | <a href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=500" class="mw-numlink" title="Special:Categories">500</a>)</div></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://edutechwiki.unige.ch/en/Special:Categories">http://edutechwiki.unige.ch/en/Special:Categories</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ACategories" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/en/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-special" class="selected"><span><a href="/en/Special%3ACategories" title="This is a special page, and it cannot be edited">Special page</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Slow Search</label>
+						</h3>
+						<form action="/mediawiki/index.php" id="searchform">
+							<div>
+								<input type="search" name="search" placeholder="Search EduTech Wiki" title="Search EduTech Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/en/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-TEST" aria-labelledby="p-TEST-label">
+			<h3 id="p-TEST-label">TEST</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Navigation_and_help" aria-labelledby="p-Navigation_and_help-label">
+			<h3 id="p-Navigation_and_help-label">Navigation and help</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Mainpage"><a href="/en/Main_Page">Main Page</a></li><li id="n-recentchanges"><a href="/en/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-about"><a href="/en/EduTech_Wiki:About">About</a></li><li id="n-randompage"><a href="/en/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li><li id="n-Editing-rules"><a href="/en/Help:Editing_rules">Editing rules</a></li><li id="n-Blog:DKS"><a href="/en/Blog:DKS">Blog:DKS</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-categorytree-portlet" aria-labelledby="p-categorytree-portlet-label">
+			<h3 id="p-categorytree-portlet-label">Categories</h3>
+			<div class="body">
+				<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Citizen_science" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Citizen_science">Citizen science</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Design_and_research_methods" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Design_and_research_methods">Design and research methods</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Education_and_instruction" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Education_and_instruction">Education and instruction</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technologies">Educational technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Educational_technology_-_the_field" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Educational_technology_-_the_field">Educational technology - the field</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Position_paper">Position paper</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Psychology_and_learning" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Psychology_and_learning">Psychology and learning</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Socio-political_and_organization" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Socio-political_and_organization">Socio-political and organization</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Special_contents" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Special_contents">Special contents</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Technologies" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Technologies">Technologies</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		<div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Tutorials" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/en/Category:Tutorials">Tutorials</a></div>
+		<div class="CategoryTreeChildren" style="display:none"></div></div>
+		
+		</div>
+					</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+									</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-specialpages"><a href="/en/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/mediawiki/index.php?title=Special:Categories&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Big_brother" aria-labelledby="p-Big_brother-label">
+			<h3 id="p-Big_brother-label">Big brother</h3>
+			<div class="body">
+								<ul>
+					<li id="n-New-Pages"><a href="/en/Special:NewPages">New Pages</a></li><li id="n-contributionscores"><a href="/en/Special:ContributionScores">Contribution scores</a></li><li id="n-Popular-Pages"><a href="/en/Special:Popularpages">Popular Pages</a></li><li id="n-Who-is-online-.3F"><a href="/en/Special:WhosOnline">Who is online ?</a></li><li id="n-Version"><a href="/en/Special:Version">Version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-TECFA_Links" aria-labelledby="p-TECFA_Links-label">
+			<h3 id="p-TECFA_Links-label">TECFA Links</h3>
+			<div class="body">
+				<div class="sidebar_banner"><a href="http://tecfa.unige.ch/"><img title="TECFA - Educational Technology Unit - UniGE" alt="TECFA - Educational Technology Unit - Home page" src="/mediawiki/tecfa/TECFAlogoArtNoText.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/maltt"><img title="Master of Science in Learning and Teaching Technologies" alt="Master of Science in Learning and Teaching Technologies" src="/mediawiki/tecfa/LOGO_MALTT.svg" /></a></div><div class="sidebar_banner"><a href="http://tecfa.unige.ch/formcont/"><img title="Certificate of Advanced Studies (CAS): Conception et développement de projets e-learning, Journées thématiques, TECFA, FPSE, Université de Genève" alt="Cours de formation continue offerts par TECFA, Université de Genève: CAS - Conception et développement de projets e-learning, Application des normes du e-learning, Réalisation de vidéos pédagogiques, Introduction HTML5 et CSS, Coordination des formations en ligne, Traitement de ressources multimédia, Activités pédagogiques avec Captivate" src="/mediawiki/tecfa/fclogored.png" /></a></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/en/EduTech_Wiki:Privacy_policy" title="EduTech Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/en/EduTech_Wiki:About" title="EduTech Wiki:About">About EduTech Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/en/EduTech_Wiki:General_disclaimer" title="EduTech Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/mediawiki/tecfa/somerights.png" alt="CC BY-NC-SA Licence" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/mediawiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /mediawiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+										<li id="footer-monitoredbyico">
+						<a href="http://wikiapiary.com/wiki/EduTech_Wiki_(en)"><img src="/mediawiki/tecfa/Monitored_by_WikiApiary.png" alt="Monitored by WikiApiary" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7586057-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90});});</script>
+	</body>
+</html>

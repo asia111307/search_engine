@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+	<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+<![endif]-->
+<!--[if IE 8]>
+	<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <title>Artificial Intelligence Vs. Cognitive Computing - How they Differ | Intelegain</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://www.intelegain.com/xmlrpc.php">
+    <!--[if lt IE 9]>
+    	<script src="https://www.intelegain.com/wp-content/themes/intelegain/js/html5.js"></script>
+    <![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="https://www.intelegain.com/wp-content/themes/intelegain/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="https://www.intelegain.com/wp-content/themes/intelegain/images/favicon.ico" type="image/x-icon">
+    <meta property="og:image" content="https://www.intelegain.com/wp-content/uploads/2018/01/Distinguishing-between-cognitive-computing-AI1-300x150.jpg"/>
+<!-- All in One SEO Pack 2.2.4.2 by Michael Torbert of Semper Fi Web Design[630,699] -->
+<link rel="author" href="https://plus.google.com/+Intelegaintech/about"/>
+<meta name="description" content="Cognitive computing might be closer to the idea of artificial intelligence. Through this article, we explore the subtle differences between the two."/>
+
+<meta name="keywords" itemprop="keywords" content="cognitive computing benefits,cognitive computing business benefits,cognitive computing companies,cognitive computing experts,cognitive computing explained,cognitive computing features,cognitive computing in healthcare,cognitive computing systems,cognitive computing vs ai,cognitive computing vs ai vs machine learning"/>
+
+<link rel="canonical" href="https://www.intelegain.com/distinguishing-in-between-cognitive-computing-and-ai/"/>
+			<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-49094141-1','auto');ga('send','pageview');</script>
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Intelegain &raquo; Feed" href="https://www.intelegain.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Intelegain &raquo; Comments Feed" href="https://www.intelegain.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Intelegain &raquo; Distinguishing between cognitive computing and AI Comments Feed" href="https://www.intelegain.com/distinguishing-in-between-cognitive-computing-and-ai/feed/"/>
+<link rel='stylesheet' id='bxslider-style-css' href='https://www.intelegain.com/wp-content/plugins/gs-logo-slider/css/A.jquery.bxslider.css,qver=4.1.2.pagespeed.cf.HmBIn6KRvx.css' type='text/css' media='all'/>
+<style id='gs-main-style-css' media='all'>.bx-viewport{height:auto!important}.gs_logo_single img{margin:0 auto}.bx-wrapper .bx-controls-direction a{display:none;-webkit-transition:1s all;-o-transition:1s all;transition:1s all;text-decoration:none;border:none}.bx-wrapper:hover .bx-controls-direction a{display:block}.gs_logo_title{text-align:center;font-size:14px;margin-top:5px}@media only screen and (min-width:768px) and (max-width:1023px){.gs_logo_single{width:222px!important}}@media only screen and (min-width:600px) and (max-width:767px){.gs_logo_single{width:165px!important}}@media only screen and (min-width:480px) and (max-width:599px){.gs_logo_single{width:198px!important}}@media only screen and (max-width:479px){.gs_logo_single{width:268px!important;margin:0 auto;float:none!important;display:table-cell}}</style>
+<style id='contact-form-7-css' media='all'>div.wpcf7{margin:0;padding:0}div.wpcf7-response-output{margin:2em .5em 1em;padding:.2em 1em}div.wpcf7 .screen-reader-response{position:absolute;overflow:hidden;clip:rect(1px,1px,1px,1px);height:1px;width:1px;margin:0;padding:0;border:0}div.wpcf7-mail-sent-ok{border:2px solid #398f14}div.wpcf7-mail-sent-ng{border:2px solid red}div.wpcf7-spam-blocked{border:2px solid #ffa500}div.wpcf7-validation-errors{border:2px solid #f7e700}span.wpcf7-form-control-wrap{position:relative}span.wpcf7-not-valid-tip{color:red;font-size:1em;display:block}.use-floating-validation-tip span.wpcf7-not-valid-tip{position:absolute;top:20%;left:20%;z-index:100;border:1px solid red;background:#fff;padding:.2em .8em}span.wpcf7-list-item{margin-left:.5em}.wpcf7-display-none{display:none}div.wpcf7 img.ajax-loader{border:none;vertical-align:middle;margin-left:4px}div.wpcf7 div.ajax-error{display:none}div.wpcf7 .placeheld{color:#888}</style>
+<style id='hupso_css-css' media='all'>.fb_iframe_widget_lift{max-width:none!important}.hupso_c>div>a>img{box-sizing:content-box;vertical-align:baseline}.hupso_c>div>a{border-bottom:none}</style>
+<link rel='stylesheet' id='portfolio-all-css-css' href='https://www.intelegain.com/wp-content/plugins/portfolio-gallery/style/portfolio-all.css?ver=4.1.1' type='text/css' media='all'/>
+<style id='style2-os-css-css' media='all'>.hugeitmicro,.hugeitmicro .hugeitmicro-item{-webkit-transition-duration:.8s;-moz-transition-duration:.8s;-ms-transition-duration:.8s;-o-transition-duration:.8s;transition-duration:.8s}.hugeitmicro{-webkit-transition-property:height , width;-moz-transition-property:height , width;-ms-transition-property:height , width;-o-transition-property:height , width;transition-property:height , width}.hugeitmicro .hugeitmicro-item{-webkit-transition-property:-webkit-transform , opacity;-moz-transition-property:-moz-transform , opacity;-ms-transition-property:-ms-transform , opacity;-o-transition-property:-o-transform , opacity;transition-property:transform , opacity}#huge_it_portfolio_container{padding:5px;margin-bottom:20px}#huge_it_portfolio_container .open-close{width:20px;height:20px;display:block;background:#000}#huge_it_portfolio_options h3{margin-bottom:.2em;font-size:15px}#huge_it_portfolio_options h4{font-weight:bold}</style>
+<link rel='stylesheet' id='lightbox-css-css' href='https://www.intelegain.com/wp-content/plugins/portfolio-gallery/style/A.lightbox.css,qver=4.1.1.pagespeed.cf.JbKxrD959e.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='megamenu-css' href='https://www.intelegain.com/wp-content/uploads/maxmegamenu/A.style.css,qver=db2dad.pagespeed.cf.WrC_2eUfWb.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='dashicons-css' href='https://www.intelegain.com/wp-includes/css/dashicons.min.css,qver=4.1.1.pagespeed.ce.UZxcrXP6ne.css' type='text/css' media='all'/>
+<style id='intelegain-style-default-css' media='screen'>#captcha_err{right:-14px;top:-108px}.g-recaptcha{overflow:hidden;border-radius:5px;margin-bottom:10px}</style>
+<style id='intelegain-style-classyscroll-css' media='all'>.scrollbar-path-horizontal,.scrollbar-path-vertical{position:absolute;background-color:#eee;background-color:rgba(220,220,220,.5);z-index:100}.scrollbar-path-horizontal{bottom:5px;left:0;width:100%;height:10px}.scrollbar-path-vertical{right:0;top:0;height:100%;width:6px;box-shadow:inset 1px 0 1 rgba(0,0,0,.1);-moz-box-shadow:inset 1px 0 1 rgba(0,0,0,.1);-webkit-box-shadow:inset 1px 0 0 rgba(0,0,0,.1)}.scrollbar-path-horizontal{box-shadow:inset 0 1px 1 rgba(0,0,0,.1);-moz-box-shadow:inset 0 1px 1 rgba(0,0,0,.1);-webkit-box-shadow:inset 0 1px 0 rgba(0,0,0,.1)}.scrollbar-handle{position:relative;top:0;left:0;background-color:#b4b4b4}.scrollbar-path-vertical .scrollbar-handle{height:20%;width:100%}.scrollbar-path-horizontal .scrollbar-handle{width:20%;height:100%}.scrollbar-handle,.scrollbar-path-horizontal,.scrollbar-path-vertical{-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.scrollbar-content{padding:0 20px 0 0}</style>
+<link rel='stylesheet' id='intelegain-style-colorbox-css' href='https://www.intelegain.com/wp-content/themes/intelegain/css/A.colorbox.css,qver=screen.pagespeed.cf.-VjjHRGIaX.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='intelegain-style-animate-css' href='https://www.intelegain.com/wp-content/themes/intelegain/css/A.animate.css,qver=screen.pagespeed.cf.urPmlAVap8.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='intelegain-style-layout-css' href='https://www.intelegain.com/wp-content/themes/intelegain/css/layout.css?ver=screen' type='text/css' media='all'/>
+<script type='text/javascript' src='https://www.intelegain.com/wp-includes/js/jquery/jquery.js,qver=1.11.1.pagespeed.jm.z9hb-Gxqf6.js'></script>
+<script src="https://www.intelegain.com/wp-includes/js/jquery,_jquery-migrate.min.js,qver==1.2.1+hoverIntent.min.js,qver==r7.pagespeed.jc.14qsIT7oGf.js"></script><script>eval(mod_pagespeed_Hf0$z$LmEX);</script>
+<script>eval(mod_pagespeed_NkJ$svdfCI);</script>
+<script type='text/javascript'>//<![CDATA[
+var megamenu={"effect":{"fade":{"in":{"animate":{"opacity":"show"}},"out":{"animate":{"opacity":"hide"}}},"slide":{"in":{"animate":{"height":"show"},"css":{"display":"none"}},"out":{"animate":{"height":"hide"}}}},"fade_speed":"fast","slide_speed":"fast","timeout":"300"};
+//]]></script>
+<script src="https://www.intelegain.com/wp-content/plugins,_megamenu,_js,_maxmegamenu.js,qver==1.7.3.1+themes,_intelegain,_js,_jquery-2.1.4.js,qver==20141010.pagespeed.jc.Ikf39bB3ut.js"></script><script>eval(mod_pagespeed_ZasFsDkcYa);</script>
+<script>eval(mod_pagespeed_GN5Rk2kePB);</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.intelegain.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.intelegain.com/wp-includes/wlwmanifest.xml"/> 
+<link rel='prev' title='Blockchain in Retail Sector' href='https://www.intelegain.com/blockchain-in-retail-sector/'/>
+<link rel='next' title='Bitcoin and Blockchain Technology: How do they Work?' href='https://www.intelegain.com/bitcoin-and-blockchain-technology/'/>
+<meta name="generator" content="WordPress 4.1.1"/>
+<link rel='shortlink' href='https://www.intelegain.com/?p=4554'/>
+
+    <script type="text/javascript">(function(){Boost=function(){var onReadyEvents=[],baseUrl=null,isReady=false;this.onDocumentReady=function(callback){if(isReady){callback();}else{onReadyEvents.push(callback);}};this.ready=function(){if(isReady){return;}isReady=true;for(var x in onReadyEvents){try{onReadyEvents[x]();}catch(e){}}onReadyEvents=[];};this.getBaseUrl=function(){return document.location.protocol+"//"+(typeof document.boostsuite!=="undefined"&&document.boostsuite.domain?document.boostsuite.domain:"image.poweredbyeden.com");};this.replaceContent=function(content){if(isReady){_replaceContent(content);}else{this.onDocumentReady(function(){_replaceContent(content);});}};var _replaceContent=function(content){matches=document.getElementsByTagName(content['tag']);if(matches.length){for(var x=0;x<matches.length;x++){var currentContent=matches[x].textContent||matches[x].innerText;if(!content['originalContent']||currentContent==content['originalContent']){matches[x].innerHTML=content['text'];return true;}}}return false;};};var boost=new Boost();window.boost=boost;document.boost=boost;if(document.readyState&&(document.readyState=="complete"||document.readyState=="interactive")){boost.ready();}else{if(document.addEventListener){document.addEventListener("DOMContentLoaded",function(){document.removeEventListener("DOMContentLoaded",arguments.callee,false);boost.ready();},false);}else if(document.attachEvent){document.attachEvent("onreadystatechange",function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",arguments.callee);boost.ready();}});if(document.documentElement.doScroll&&window==window.top)(function(){try{document.documentElement.doScroll("left");}catch(error){setTimeout(arguments.callee,0);return;}boost.ready();})();}}boost.onDocumentReady(function(){if(typeof _bsc=="undefined"){_bsc={};}headingScript=document.createElement("script");headingScript.src=boost.getBaseUrl()+"/widget/headings/get?url="+escape(window.location.toString())+"&referrer="+escape(document.referrer)+(_bsc.suffix?"&"+_bsc.suffix:"");document.getElementsByTagName("head")[0].appendChild(headingScript);googleScript=document.createElement("script");googleScript.src='https://www.googleadservices.com/pagead/conversion_async.js';document.getElementsByTagName("head")[0].appendChild(googleScript);var pollInterval=1000;var pollCount=0;var pollLimit=10;var setConversionValues=function(){if(window.google_trackConversion){window.google_trackConversion({google_conversion_id:933077001,google_remarketing_only:true});}else{pollCount++;if(pollCount<pollLimit){window.setTimeout(setConversionValues,pollInterval);}}}
+window.setTimeout(setConversionValues,pollInterval);});})();</script>
+    
+
+<!-- Open Graph data is managed by Alex MacArthur's Complete Open Graph plugin. (v3.3.1) -->
+<!-- https://wordpress.org/plugins/complete-open-graph/ -->
+<meta property="og:site_name" content="Intelegain"/>
+<meta property="og:url" content="https://www.intelegain.com/distinguishing-in-between-cognitive-computing-and-ai/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:description" content="Cognitive computing might be closer to the idea of artificial intelligence. Through this article, we explore the subtle differences between the two."/>
+<meta property="og:title" content="Artificial Intelligence Vs. Cognitive Computing - How they Differ"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="https://www.intelegain.com/wp-content/uploads/2018/01/Distinguishing-between-cognitive-computing-AI1-300x150.jpg"/>
+<meta property="og:image:width" content="300"/>
+<meta property="og:image:height" content="150"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:creator" content="@intelegain"/>
+<meta name="twitter:site" content="@intelegain"/>
+<meta name="twitter:title" content="Artificial Intelligence Vs. Cognitive Computing - How they Differ"/>
+<meta name="twitter:image" content="https://www.intelegain.com/wp-content/uploads/2018/01/Distinguishing-between-cognitive-computing-AI1-300x150.jpg"/>
+<meta name="twitter:description" content="Cognitive computing might be closer to the idea of artificial intelligence. Through this article, we explore the subtle differences between the two."/>
+<!-- End Complete Open Graph. | 0.0016758441925049s -->
+
+<!-- Markup (JSON-LD) structured in schema.org ver.4.1.6 START -->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.intelegain.com/distinguishing-in-between-cognitive-computing-and-ai/"
+    },
+    "headline": "Distinguishing between cognitive computing and AI",
+    "datePublished": "2018-08-07T13:20:22+0530",
+    "dateModified": "2018-12-18T14:03:36+0000",
+    "author": {
+        "@type": "Person",
+        "name": "Administrator"
+    },
+    "description": "Artificial Intelligence and related fields have increased in scope and reach in the recent years. As its popul",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.intelegain.com/wp-content/uploads/2018/01/Distinguishing-between-cognitive-computing-AI1.jpg",
+        "width": 742,
+        "height": 370
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": ""
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Intelegain Technologies Inc.",
+    "alternateName": "",
+    "url": "https://www.intelegain.com/",
+    "potentialAction": [
+        {
+            "@type": "SearchAction",
+            "target": "{search_term_string}",
+            "query-input": "required name=search_term_string"
+        },
+        {
+            "@type": "SearchAction",
+            "target": "{search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    ]
+}
+</script>
+<!-- Markup (JSON-LD) structured in schema.org END -->
+	<style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important}</style>
+        <script type="text/javascript">jQuery(function(){jQuery('.phone_no').html("1-888-235-8964");jQuery('.footer_phone_no').html("1-888-235-8964");jQuery('.footer_phone_no').attr("href","tel:1-888-235-8964");jQuery('.phone_no').prepend('<span class="usa"></span>');jQuery('.contact_desc span:first').text("1-888-235-8964");jQuery('.setprice').removeClass('inprices usprices').addClass("usprices");});</script>
+	<script type='text/javascript'>var $zoho=$zoho||{salesiq:{values:{},ready:function(){$zoho.salesiq.floatbutton.visible('hide');}}};var d=document;s=d.createElement('script');s.type='text/javascript';s.defer=true;s.src='https://salesiq.zoho.com/intelegain/float.ls?embedname=intelegain';t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);</script>
+	<!-- Start of Leadin Embed -->
+  <script type="text/javascript" src="//js.leadin.com/js/v1/2136434.js" id="LeadinEmbed-2136434" crossorigin="use-credentials" async defer></script>
+<!-- End of Leadin Embed -->
+<script type="text/javascript" async src="https://d1skzzvsbbd4tb.cloudfront.net/gemzero.js"></script>
+<!--- link for recaptch added on 8-2-18 -->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script type="text/javascript" src="https://static1.clutch.co/sites/all/modules/custom/clutch_widget/js/widget.js"></script>
+
+<script type="text/javascript">ci="2313"
+errList=[];window.addEventListener('error',function(e){var obj={};try{obj['f']=(e.filename).replace("|","~$");obj['m']=(e.message);obj['l']=(e.lineno);errList.push(obj);}catch(ex){}});</script>
+<!-- Start of SmartLook Embed -->
+<script type="text/javascript">window.smartlook||(function(d){var o=smartlook=function(){o.api.push(arguments)},h=d.getElementsByTagName('head')[0];var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);})(document);smartlook('init','d625e113ad1f807ad581ca8a9c6810ceff0c0c4b');</script>
+<!-- End of SmartLook Embed -->
+<script type="text/javascript" src="https://goodfirms.co/js/widget.js"></script>
+<!-- Facebook Pixel Code -->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','2029213420458651');fbq('track','PageView');</script>
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=2029213420458651&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+<body>
+<!-- start wrapper -->
+<div id="wrapper">
+    <!-- start main -->
+    <div class="main">
+        <!-- start header -->
+        <div id="header">
+          <div class="wrap"> 
+            <!-- start logo -->
+            <div class="pcol30 logobox">
+              <div class="logo"><a href="https://www.intelegain.com"><img alt="Intelegain Technology" src="https://www.intelegain.com/wp-content/themes/intelegain/images/intelegain-logo.svg"></a></div>
+              <div class="logo1"><a href="https://www.intelegain.com"><img alt="Intelegain Technology" src="https://www.intelegain.com/wp-content/themes/intelegain/images/intelegain-logo.svg"></a></div>
+              <div class="clear"></div>
+            </div>
+            <!-- End logo --> 
+            <!-- start call-us -->
+            <div class="pcol70 contactbox">
+              <div class="call-us" id="callus">
+                <a class="request-quote INrequest-quote-t" href="/locations/">Contact Us</a>
+                <a class="ph-num INcall-icon" href="tel:1-888-235-8964"> 1-888-235-8964 </a>
+				<a class="careersbtn" href="/case-study/">Case Studies</a>                
+				<!--<div class="intuitlogo"><img alt="intuit solution provider" src="/wp-content/themes/intelegain/images/intuit_solution_provider_logo.jpg"></div>
+                <div class="microsoftlogo"><img alt="Microsoft" src="/wp-content/themes/intelegain/images/Microsoft.jpg"></div> -->
+              </div>
+              <div class="menubtn">
+				<!--<div class="intuitlogo"><img alt="intuit solution provider" src="https://www.intelegain.com/wp-content/themes/intelegain/images/intuit_solution_provider_logo.jpg"></div>
+                <div class="microsoftlogo"><img alt="Microsoft" src="https://www.intelegain.com/wp-content/themes/intelegain/images/Microsoft.jpg"></div> -->
+				<a class="careersbtnres" href="/case-study/"><img src="https://www.intelegain.com/wp-content/themes/intelegain/images/xcase-study.png.pagespeed.ic.FabpjH8pbH.png" alt="case studies"></a>
+                <a href="tel:1-888-235-8964" class="callusmenu">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQMAAADaua+7AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYKAtAAAAYAAB2E7biwAAAABJRU5ErkJggg==" alt="call" class="INcall-icon"></a>
+                
+                <a href="javascript:void(0)" class="mob_request-quote">
+                
+               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQMAAADaua+7AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYKAtAAAAYAAB2E7biwAAAABJRU5ErkJggg==" alt="Request Quote" class="INrequest-quote-t"></a> 
+                
+                <a href="javascript:void(0)" class="menubtnmobile" id="nav1btn"> 
+                
+               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQMAAADaua+7AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYKAtAAAAYAAB2E7biwAAAABJRU5ErkJggg==" alt="menu" class="INmenubtn-2"> </a>
+               </div>
+              <div class="clear"></div>
+              <div class="" id="menubar">
+                <div class="pmenu" id="topnav">
+                  <div class="menuheading">
+                    <div class="closemenu">
+                    
+                    
+                  
+                   <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAlAQMAAAAQktl+AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYBjOAAAA3gABINV5CQAAAABJRU5ErkJggg==" alt="closemenu" class="INclose-icon"> 
+                    
+                    </div>
+                    <h3>Menu</h3>
+                    <div class="clear"></div>
+                  </div>
+                  <div id="mega-menu-wrap-primary" class="mega-menu-wrap"><div class="mega-menu-toggle"></div><ul id="mega-menu-primary" class="mega-menu mega-menu-horizontal mega-no-js" data-event="hover" data-effect="slide" data-second-click="close" data-breakpoint="1024"><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-699 mega-align-bottom-left mega-menu-flyout mega-hide-text' id='mega-menu-item-699'><a href="https://www.intelegain.com/" class="dashicons-admin-home"></a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-259 mega-align-bottom-left mega-menu-megamenu' id='mega-menu-item-259'><a>About Us</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-2994 mega-menu-columns-1-of-3' id='mega-menu-item-2994'><a href="#">Our Company</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-375' id='mega-menu-item-375'><a href="https://www.intelegain.com/leadership-team/">Leadership Team</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-264' id='mega-menu-item-264'><a href="https://www.intelegain.com/mission-values/">Mission & Values</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-381' id='mega-menu-item-381'><a title="Blog" href="https://www.intelegain.com/blogs/">Blog</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-379' id='mega-menu-item-379'><a href="https://www.intelegain.com/our-clients/">Clients</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-377' id='mega-menu-item-377'><a href="https://www.intelegain.com/partnerships/">Partner Network</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-383' id='mega-menu-item-383'><a href="https://www.intelegain.com/life-intelegain/">Life @ Intelegain</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-376' id='mega-menu-item-376'><a href="https://www.intelegain.com/awards-certifications/">Awards</a></li><li class='mega-uxsense mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-6452' id='mega-menu-item-6452'><a href="https://www.intelegain.com/uxsense/">UXSense</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-2996 mega-menu-columns-1-of-3' id='mega-menu-item-2996'><a href="#">Contact Us</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-378' id='mega-menu-item-378'><a href="https://www.intelegain.com/locations/">Locations</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2126' id='mega-menu-item-2126'><a href="https://www.intelegain.com/careers/">Careers</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-386 mega-align-bottom-left mega-menu-megamenu' id='mega-menu-item-386'><a href="#">Services</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-4045 mega-menu-columns-1-of-3' id='mega-menu-item-4045'><a href="#">Microsoft Stack</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4047' id='mega-menu-item-4047'><a href="https://www.intelegain.com/microsoft-office-365/">Microsoft Office 365</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4052' id='mega-menu-item-4052'><a href="https://www.intelegain.com/microsoft-dynamics-365/">Microsoft Dynamics 365</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4050' id='mega-menu-item-4050'><a href="https://www.intelegain.com/microsoft-dynamics-nav/">Microsoft Dynamics NAV</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4051' id='mega-menu-item-4051'><a href="https://www.intelegain.com/microsoft-dynamics-ax/">Microsoft Dynamics AX</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4046' id='mega-menu-item-4046'><a href="https://www.intelegain.com/sharepoint/">SharePoint</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-4053 mega-menu-columns-1-of-3' id='mega-menu-item-4053'><a href="#">Cloud Services</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6125' id='mega-menu-item-6125'><a href="https://www.intelegain.com/cloud-migration-services/">Disaster Recovery Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-472' id='mega-menu-item-472'><a href="https://www.intelegain.com/amazon-web-services/">AWS Cloud Migration</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4054' id='mega-menu-item-4054'><a href="https://www.intelegain.com/microsoft-azure/">Azure Cloud Migration</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6126' id='mega-menu-item-6126'><a href="https://www.intelegain.com/cloud-migration-services/">Hybrid Cloud Computing</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-506' id='mega-menu-item-506'><a href="https://www.intelegain.com/cloud-migration-services/">Cloud Apps & DevOps</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6133 mega-menu-columns-1-of-3' id='mega-menu-item-6133'><a href="https://www.intelegain.com/start-up-services/">Start-up Services</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6129' id='mega-menu-item-6129'><a href="https://www.intelegain.com/start-up-services/">Ideation</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6130' id='mega-menu-item-6130'><a href="https://www.intelegain.com/start-up-services/">MVP Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6131' id='mega-menu-item-6131'><a href="https://www.intelegain.com/start-up-services/">Product Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6132' id='mega-menu-item-6132'><a href="https://www.intelegain.com/start-up-services/">Incubation</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-387 mega-menu-columns-1-of-3' id='mega-menu-item-387'><a href="#">Outsourcing Services</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-401' id='mega-menu-item-401'><a href="https://www.intelegain.com/web-application-development/">Web Application Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-402' id='mega-menu-item-402'><a href="https://www.intelegain.com/mobile-application-development/">Mobile Application Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-403' id='mega-menu-item-403'><a href="https://www.intelegain.com/software-product-development/">Software Product Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1339' id='mega-menu-item-1339'><a href="https://www.intelegain.com/wordpress-development/">Open Source Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-407' id='mega-menu-item-407'><a href="https://www.intelegain.com/hire-experts/">Hire Experts/Staff Augmentation</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-405 mega-menu-columns-1-of-3' id='mega-menu-item-405'><a href="#">Disruptive Technologies</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6134' id='mega-menu-item-6134'><a href="https://www.intelegain.com/blockchain-development/">Blockchain</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-408' id='mega-menu-item-408'><a href="https://www.intelegain.com/iot-internet-of-things/">IoT</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6135' id='mega-menu-item-6135'><a href="https://www.intelegain.com/artificial-intelligence-services/">Artificial Intelligence (AI)</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-406' id='mega-menu-item-406'><a href="https://www.intelegain.com/big-data-analytics/">Big Data Analytics</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-2954 mega-menu-columns-1-of-3' id='mega-menu-item-2954'><a href="https://www.intelegain.com/digital-marketing-services/">Digital Marketing</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2957' id='mega-menu-item-2957'><a href="https://www.intelegain.com/search-engine-optimization/">Search Engine Optimization</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2955' id='mega-menu-item-2955'><a href="https://www.intelegain.com/pay-per-click/">Pay Per Click (PPC)</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2958' id='mega-menu-item-2958'><a href="https://www.intelegain.com/social-media-optimization/">Social Media Optimization</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6169 mega-align-bottom-left mega-menu-megamenu' id='mega-menu-item-6169'><a href="#">Our Work</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6170 mega-menu-columns-1-of-3' id='mega-menu-item-6170'><a href="#">Accounting</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6240' id='mega-menu-item-6240'><a href="https://www.intelegain.com/quickbooks-accounting/">QuickBooks Integration</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6198' id='mega-menu-item-6198'><a href="https://www.intelegain.com/accounting/">Xero Integration</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6197' id='mega-menu-item-6197'><a href="https://www.intelegain.com/accounting/">Tally Integration</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6171 mega-menu-columns-1-of-3' id='mega-menu-item-6171'><a href="#">Logistics & Supply Chain</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6199' id='mega-menu-item-6199'><a href="https://www.intelegain.com/logistics/">Logistics Tracking</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6200' id='mega-menu-item-6200'><a href="https://www.intelegain.com/logistics/">ERP</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6172 mega-menu-columns-1-of-3' id='mega-menu-item-6172'><a href="#">Hospitality</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6201' id='mega-menu-item-6201'><a href="https://www.intelegain.com/hospitality/">Booking Channels Manager</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6202' id='mega-menu-item-6202'><a href="https://www.intelegain.com/hospitality/">Travel Systems</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6173 mega-menu-columns-1-of-3' id='mega-menu-item-6173'><a href="#">Retail</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6203' id='mega-menu-item-6203'><a href="https://www.intelegain.com/retail/">E-Commerce</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6204' id='mega-menu-item-6204'><a href="https://www.intelegain.com/retail/">Loyalty Programs</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6205' id='mega-menu-item-6205'><a href="https://www.intelegain.com/retail/">Point of Sale (POS)</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6222 mega-menu-columns-1-of-3' id='mega-menu-item-6222'><a href="#">Fintech</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6664' id='mega-menu-item-6664'><a href="https://www.intelegain.com/fintech/">Stock Trading</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6665' id='mega-menu-item-6665'><a href="https://www.intelegain.com/fintech/">Payment Gateway</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6666' id='mega-menu-item-6666'><a href="https://www.intelegain.com/fintech/">Merchant Solutions</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6667' id='mega-menu-item-6667'><a href="https://www.intelegain.com/fintech/">Portfolio Management</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6668 mega-menu-columns-1-of-3' id='mega-menu-item-6668'><a href="#">Education</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6669' id='mega-menu-item-6669'><a href="https://www.intelegain.com/education/">E-Learning</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6670' id='mega-menu-item-6670'><a href="https://www.intelegain.com/education/">School Management</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6671 mega-menu-columns-1-of-3' id='mega-menu-item-6671'><a href="#">Healthcare</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6672' id='mega-menu-item-6672'><a href="https://www.intelegain.com/healthcare/">Know Your Provider</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6673' id='mega-menu-item-6673'><a href="https://www.intelegain.com/healthcare/">Fitness Management</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6674 mega-align-bottom-left mega-menu-megamenu' id='mega-menu-item-6674'><a href="#">Technology Stack</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6700 mega-menu-columns-1-of-3' id='mega-menu-item-6700'><a href="https://www.intelegain.com/back-end-development/">Back-end Development</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6676' id='mega-menu-item-6676'><a href="https://www.intelegain.com/dot-net-application-development/">ASP.NET MVC</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6677' id='mega-menu-item-6677'><a href="https://www.intelegain.com/php-development/">PHP</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6678' id='mega-menu-item-6678'><a href="https://www.intelegain.com/python/">Python</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6679' id='mega-menu-item-6679'><a href="https://www.intelegain.com/laravel/">Laravel</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6680' id='mega-menu-item-6680'><a href="https://www.intelegain.com/node-js-development/">Node JS</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6701 mega-menu-columns-1-of-3' id='mega-menu-item-6701'><a href="https://www.intelegain.com/front-end-development/">Front-End Development</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6682' id='mega-menu-item-6682'><a href="https://www.intelegain.com/angular-js-development/">Angular JS</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6683' id='mega-menu-item-6683'><a href="https://www.intelegain.com/reactjs/">React Js</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6684' id='mega-menu-item-6684'><a href="https://www.intelegain.com/ajax-web-development/">Ajax</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6685 mega-menu-columns-1-of-3' id='mega-menu-item-6685'><a href="#">Mobile</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6686' id='mega-menu-item-6686'><a href="https://www.intelegain.com/ios-app-development/">iOS</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6687' id='mega-menu-item-6687'><a href="https://www.intelegain.com/android-app-development/">Android</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6688' id='mega-menu-item-6688'><a href="https://www.intelegain.com/phonegap-development/">Phonegap</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6689' id='mega-menu-item-6689'><a href="https://www.intelegain.com/xamarin-app-development/">Xamarin</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6690 mega-align-bottom-left mega-menu-megamenu' id='mega-menu-item-6690'><a href="#">Delivery Models</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6691 mega-menu-columns-1-of-3' id='mega-menu-item-6691'><a href="#">Delivery Models</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6694' id='mega-menu-item-6694'><a href="https://www.intelegain.com/offshore-delivery/">Offshore Delivery</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6695' id='mega-menu-item-6695'><a href="https://www.intelegain.com/onsite-delivery/">Onsite Delivery</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6693' id='mega-menu-item-6693'><a href="https://www.intelegain.com/onsiteoffshore-delivery/">Onsite/Offshore Delivery</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6696' id='mega-menu-item-6696'><a href="https://www.intelegain.com/dedicated-development-teams/">Dedicated Development Teams</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-6692 mega-menu-columns-1-of-3' id='mega-menu-item-6692'><a href="#">Pricing</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6697' id='mega-menu-item-6697'><a href="https://www.intelegain.com/time-material/">Time & Material</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6698' id='mega-menu-item-6698'><a href="https://www.intelegain.com/fixed-price/">Fixed Price</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6699' id='mega-menu-item-6699'><a href="https://www.intelegain.com/fixed-monthly/">Fixed Monthly</a></li>	</ul>
+</li></ul>
+</li></ul></div>                  <div id="mega-menu-wrap-secondary" class="mega-menu-wrap"><div class="mega-menu-toggle"></div><ul id="mega-menu-secondary" class="mega-menu mega-menu-horizontal mega-no-js" data-event="click" data-effect="slide" data-second-click="close" data-breakpoint="1024"><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-698 mega-align-bottom-left mega-menu-flyout' id='mega-menu-item-698'><a href="https://www.intelegain.com/">Home</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-685 mega-align-bottom-left mega-menu-flyout' id='mega-menu-item-685'><a href="#">About Us</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1758' id='mega-menu-item-1758'><a href="https://www.intelegain.com/portfolio/">Portfolio</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-623' id='mega-menu-item-623'><a href="https://www.intelegain.com/locations/">Contact Us</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-625' id='mega-menu-item-625'><a href="https://www.intelegain.com/blogs/">Knowledge Centre</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-626' id='mega-menu-item-626'><a href="https://www.intelegain.com/our-clients/">Our Clients</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-619' id='mega-menu-item-619'><a href="https://www.intelegain.com/mission-values/">Our Mission & Values</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-622' id='mega-menu-item-622'><a href="https://www.intelegain.com/awards-certifications/">Awards & Certifications</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-624' id='mega-menu-item-624'><a href="https://www.intelegain.com/partnerships/">Partnerships</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-621' id='mega-menu-item-621'><a href="https://www.intelegain.com/leadership-team/">Leadership Team</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-629' id='mega-menu-item-629'><a href="https://www.intelegain.com/life-intelegain/">Life @ Intelegain</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2346' id='mega-menu-item-2346'><a href="https://www.intelegain.com/areas-we-serve/">Areas We Serve</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2733' id='mega-menu-item-2733'><a href="https://www.intelegain.com/strategic-business-initiatives/">Strategic Business Initiatives</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2818' id='mega-menu-item-2818'><a href="https://www.intelegain.com/careers/">Careers</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2754' id='mega-menu-item-2754'><a href="https://www.intelegain.com/events/">Events</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-686 mega-align-bottom-left mega-menu-flyout' id='mega-menu-item-686'><a href="#">Services</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-639' id='mega-menu-item-639'><a href="#">Outsourcing Services</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-631' id='mega-menu-item-631'><a href="https://www.intelegain.com/web-application-development/">Web Application Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-632' id='mega-menu-item-632'><a href="https://www.intelegain.com/mobile-application-development/">Mobile Application Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-634' id='mega-menu-item-634'><a href="https://www.intelegain.com/software-product-development/">Software Product Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1340' id='mega-menu-item-1340'><a href="https://www.intelegain.com/wordpress-development/">Open Source Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2914' id='mega-menu-item-2914'><a href="https://www.intelegain.com/qa-software-testing-services/">Software QA & Testing Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4549' id='mega-menu-item-4549'><a href="https://www.intelegain.com/blockchain-development/">Blockchain Development</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-640' id='mega-menu-item-640'><a href="#">Business Services</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-635' id='mega-menu-item-635'><a href="https://www.intelegain.com/big-data-analytics/">Big Data Analytics</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-636' id='mega-menu-item-636'><a href="https://www.intelegain.com/hire-experts/">Hire Experts/Staff Aug</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-637' id='mega-menu-item-637'><a href="https://www.intelegain.com/iot-internet-of-things/">IoT (Internet of Things)</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2804' id='mega-menu-item-2804'><a href="https://www.intelegain.com/mobile-prototyping/">Mobile App Wireframes</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-2959' id='mega-menu-item-2959'><a href="#">Digital Marketing Services</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2960' id='mega-menu-item-2960'><a href="https://www.intelegain.com/internet-marketing/">Internet Marketing</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2962' id='mega-menu-item-2962'><a href="https://www.intelegain.com/search-engine-optimization/">Search Engine Optimization</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2961' id='mega-menu-item-2961'><a href="https://www.intelegain.com/pay-per-click/">Pay Per Click (PPC)</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2963' id='mega-menu-item-2963'><a href="https://www.intelegain.com/social-media-optimization/">Social Media Optimization</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-641 mega-align-bottom-left mega-menu-flyout' id='mega-menu-item-641'><a href="#">Engagement Models</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-642' id='mega-menu-item-642'><a href="#">Development Model</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-645' id='mega-menu-item-645'><a href="https://www.intelegain.com/agile/">Agile</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-646' id='mega-menu-item-646'><a href="https://www.intelegain.com/scrum/">Scrum</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-647' id='mega-menu-item-647'><a href="https://www.intelegain.com/spiral/">Spiral</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-648' id='mega-menu-item-648'><a href="https://www.intelegain.com/waterfall/">Waterfall</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-643' id='mega-menu-item-643'><a href="#">Delivery Model</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-649' id='mega-menu-item-649'><a href="https://www.intelegain.com/offshore-delivery/">Offshore Delivery</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-650' id='mega-menu-item-650'><a href="https://www.intelegain.com/onsite-delivery/">Onsite Delivery</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-651' id='mega-menu-item-651'><a href="https://www.intelegain.com/onsiteoffshore-delivery/">Onsite/Offshore Delivery</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1484' id='mega-menu-item-1484'><a href="https://www.intelegain.com/dedicated-development-teams/">Dedicated Development Teams</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-644' id='mega-menu-item-644'><a href="#">Pricing</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-654' id='mega-menu-item-654'><a href="https://www.intelegain.com/time-material/">Time & Material</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-653' id='mega-menu-item-653'><a href="https://www.intelegain.com/fixed-price/">Fixed Price</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-652' id='mega-menu-item-652'><a href="https://www.intelegain.com/fixed-monthly/">Fixed Monthly</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-655 mega-align-bottom-left mega-menu-flyout' id='mega-menu-item-655'><a href="#">Solutions</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-4070' id='mega-menu-item-4070'><a href="#">Microsoft Solutions</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4074' id='mega-menu-item-4074'><a href="https://www.intelegain.com/microsoft-office-365/">Microsoft Office 365</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4073' id='mega-menu-item-4073'><a href="https://www.intelegain.com/sharepoint/">SharePoint</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4075' id='mega-menu-item-4075'><a href="https://www.intelegain.com/microsoft-dynamics-crm/">Microsoft Dynamics CRM Consultant</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4076' id='mega-menu-item-4076'><a href="https://www.intelegain.com/microsoft-azure/">Microsoft Azure Consulting Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4077' id='mega-menu-item-4077'><a href="https://www.intelegain.com/microsoft-dynamics-nav/">Microsoft Dynamics NAV</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4078' id='mega-menu-item-4078'><a href="https://www.intelegain.com/microsoft-dynamics-ax/">Microsoft Dynamics AX</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4079' id='mega-menu-item-4079'><a href="https://www.intelegain.com/microsoft-dynamics-365/">Microsoft Dynamics 365</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-4071' id='mega-menu-item-4071'><a href="#">Cloud Solutions</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-671' id='mega-menu-item-671'><a href="https://www.intelegain.com/cloud-migration-services/">Cloud</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-660' id='mega-menu-item-660'><a href="https://www.intelegain.com/amazon-web-services/">AWS Cloud Migration Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4080' id='mega-menu-item-4080'><a href="https://www.intelegain.com/microsoft-azure/">Microsoft Azure Consulting Services</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-4072' id='mega-menu-item-4072'><a href="#">Solutions</a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-670' id='mega-menu-item-670'><a href="https://www.intelegain.com/quickbooks-accounting/">Quickbooks & Accounting</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4069' id='mega-menu-item-4069'><a href="https://www.intelegain.com/enterprise-mobility/">Enterprise Mobility</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-662' id='mega-menu-item-662'><a href="https://www.intelegain.com/phonegap-development/">Phonegap Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-663' id='mega-menu-item-663'><a href="https://www.intelegain.com/sql-services/">SQL Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-668' id='mega-menu-item-668'><a href="https://www.intelegain.com/mobile-crm/">Mobile CRM</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2797' id='mega-menu-item-2797'><a href="https://www.intelegain.com/ruby-on-rails/">Ruby On Rails</a></li>	</ul>
+</li></ul>
+</li><li class='mega-noheading mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-665 mega-align-bottom-left mega-menu-flyout' id='mega-menu-item-665'><a href="#">Verticals</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-683' id='mega-menu-item-683'><a href="https://www.intelegain.com/financial-services/">Financial Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-684' id='mega-menu-item-684'><a href="https://www.intelegain.com/old-retail-page/">Retail</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-677' id='mega-menu-item-677'><a href="https://www.intelegain.com/pharma/">Pharma</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-674' id='mega-menu-item-674'><a href="https://www.intelegain.com/human-resource/">Human Resource</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-679' id='mega-menu-item-679'><a href="https://www.intelegain.com/travel/">Travel</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-676' id='mega-menu-item-676'><a href="https://www.intelegain.com/e-learning/">E-Learning</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1225' id='mega-menu-item-1225'><a href="https://www.intelegain.com/legal/">Legal</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-673' id='mega-menu-item-673'><a href="https://www.intelegain.com/cards-payments/">Cards & Payments</a></li></ul>
+</li></ul></div>                </div>
+                <!--End topmenu --> 
+              </div>
+              <div class="clear"></div>
+            </div>
+            <!-- End call-us -->
+            <div class="clear"></div>
+          </div>
+          <!-- start topmenu -->
+          
+          <div class="clear"></div>
+          <div class="clear"></div>
+        </div>
+        <!-- End header -->
+        <div class="bannerheight"></div>
+<div class="content">
+    <div class="wrap">
+        <div id="contentWrapper" class="blog-detail">
+                            <div class="blog_post">
+                    <div class="subheader">
+                        <div class="blog_heading">
+                            <h2>Artificial Intelligence</h2>
+                        </div>
+                        <div class="blog_heading_contact">
+                                                        <a target="_blank" href="
+                            https://www.linkedin.com/in/aslamsiddiqui/"><i class="fa fa-user-circle" aria-hidden="true"></i> Aslam Siddiqui - Head Delivery, Intelegain</a>
+                            <a><img src="https://www.intelegain.com/wp-content/themes/intelegain/images/xcalendar-page-empty.png.pagespeed.ic.Y0z8OiJaA1.png"> 7 Aug 2018 </a>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="blog_detail_banner">
+                        <h1 class="banner_heading">Distinguishing between cognitive computing and AI</h1>
+                        <img width="672" height="370" src="https://www.intelegain.com/wp-content/uploads/2018/01/xDistinguishing-between-cognitive-computing-AI1-672x370.jpg.pagespeed.ic.ZVgT4q2Di1.jpg" class="attachment-post-thumbnail wp-post-image" alt="artificial intelligence vs cognitive computing"/> 
+                    </div>
+                    <div class="blog_detail_contant">
+                        <p>Artificial Intelligence and related fields have increased in scope and reach in the recent years. As its popularity grows there has been some indecisive understanding of the technical jargons that are under <a title="Artificial Intelligence Services" href="https://www.intelegain.com/artificial-intelligence-services/" target="_blank">Artificial Intelligence</a>. Deep learning, <a href="https://www.intelegain.com/machine-learning-explained/">Machine learning</a>, speech recognition, text mining, cognitive computing and neural networks etc.</p>
+<p>These are often used interchangeably but there is quite a distinction in the approaches and objectives of these terms.One such technology is Cognitive computing which is associated with Artificial Intelligence but is actually very different from the latter. Though both represent the next big wave in supercomputing, the technologies hold separate meaning when brought to practical use.</p>
+<p><iframe src="https://www.youtube.com/embed/mJeNghZXtMo" width="745" height="419" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2>What is Artificial Intelligence?</h2>
+<p>Tech target defines AI as “<em>the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using the rules to reach approximate or definite conclusions), and self-correction</em>”. It is used as an umbrella term for all sets of technologies, algorithms, methods and theories that enable computer systems to do tasks that generally require human intelligence.</p>
+<p>According to this description, it is implied that computer vision, machine learning, robotics all are a <a title="Significant ways AI will impact 2018" href="https://www.intelegain.com/significant-ways-ai-will-impact-2018/">part of AI</a> in one way or the other. AI experts claim that artificial intelligence allows a machine to offer augmented intelligence and it would, therefore, surpass human’s insight and accuracy, or even agility or strength.</p>
+<p><iframe src="https://www.youtube.com/embed/9uYwifRCGpA" width="740" height="416" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2>What is Cognitive Computing technology?</h2>
+<p>Cognitive computing, on the other hand, is difficult to be explicitly defined. Tech experts describe cognitive computing as nothing but computing that is attentive on reasoning and comprehending at an advanced level.</p>
+<p>It may be in a way that is quite similar to human cognition that has the capability of making high-level decisions in complex scenarios. Cognitive computing can handle conceptual/symbolic data rather than just pure data or sensor streams. According to advocates of cognitive computing – the technology can manage a huge amount of data and exhaustive rounds of analytics. Even so, the humans are firmly in charge of decision making.</p>
+<p>So, in simpler terms – AI empowers a computer to be smart to a degree of being smarter than humans. While on the other hand – Cognitive computing is the individual technologies that perform specific tasks that facilitate <a title="human intelligence" href="https://en.wikipedia.org/wiki/Human_intelligence" target="_blank">human intelligence</a>.</p>
+<h2>Distinction explained</h2>
+<p>Let us imagine a scenario where a huge database of medical records and journals are to be processed in order to find the most suitable treatment for a patient. The AI assistant will assess the person’s symptoms and find the most relevant treatment option to the doctor from its analysis.</p>
+<p>Meanwhile, cognitive computing will come up with the information that will help the doctor in providing treatment- where the doctor himself will take the final decision.</p>
+<p>In other words – where cognitive computing assists humans to make a smarter decision – giving us the final say- leveraging the machines, while AI is based on the idea that machines can make the better decision on the human’s behalf.</p>
+<p>It is apparent that both AI and cognitive computing are “<em>based on the ability of machines to sense, reason, act and adapt based on learned experience,” as Intel CEO Brian Krzanich explains</em>. They are similar in intent and dissimilar in their tendencies in interacting naturally with humans. One thing is for sure though, we will experience unparalleled advancements in diverse industries due to these technologies in years to come.</p>
+<div style="padding-bottom:20px; padding-top:10px;" class="hupso-share-buttons"><!-- Hupso Share Buttons - http://www.hupso.com/share/ --><a class="hupso_toolbar" href="http://www.hupso.com/share/"><img src="https://static.hupso.com/share/buttons/share-medium.png" style="border:0px; padding-top:5px; float:left;" alt="Share Button"/></a><script type="text/javascript">var hupso_services_t=new Array("Twitter","Facebook","Google Plus","Linkedin","Reddit");var hupso_background_t="#EAF4FF";var hupso_border_t="#66CCFF";var hupso_toolbar_size_t="medium";var hupso_image_folder_url="";var hupso_url_t="";var hupso_title_t="Distinguishing between cognitive computing and AI";</script><script type="text/javascript" src="https://static.hupso.com/share/js/share_toolbar.js"></script><!-- Hupso Share Buttons --></div>                    </div>
+                    <div class="clear"></div>
+
+                </div> 
+                        <!-- Start Sidebar -->               
+            <div class="sidebar">
+                <!-- <div class="subscribe_serch">
+                    <div class="wpcf7" id="wpcf7-f4950-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form name="" action="/distinguishing-in-between-cognitive-computing-and-ai/#wpcf7-f4950-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="4950" />
+<input type="hidden" name="_wpcf7_version" value="4.1.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4950-o1" />
+<input type="hidden" name="_wpnonce" value="8493235e63" />
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div><p><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Subscribe to our blogs" /></span><input type="submit" value="Subscribe" class="wpcf7-form-control wpcf7-submit" /></p>
+</form></div>                </div> -->
+                <div class="recent_blogs">
+                    <h2 class="blog_heading">Recent Blogs</h2>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2019/04/100x100xAngular-vs-React-150x150.png.pagespeed.ic.vR9jPP0SBn.png" class="attachment-100x100 wp-post-image" alt="Angular vs React Comparison"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/angularjs-vs-react-js/">Angular JS vs React JS Comparison – Which Framework to Choose for your Project?</a>
+                                <!-- <span>April 10, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://in.linkedin.com/company/intelgain-technologies-pvt-ltd">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Intelegain Team &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2018/08/100x100xPress-Release-150x150.png.pagespeed.ic.LX3X-Xn3-x.jpg" class="attachment-100x100 wp-post-image" alt="Press Release - Cloud Expo 2019"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/intelegain-technologies-to-exhibit-at-the-hktdc-international-ict-expo-2019/">Intelegain Technologies to exhibit at the HKTDC International ICT Expo 2019</a>
+                                <!-- <span>April 8, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://www.prlog.org/12763537-intelegain-technologies-to-exhibit-at-the-hktdc-international-ict-expo-2019.html">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Press Release &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2019/04/100x100xHow-to-develop-mobile-apps-faster-and-smarter-with-APIs-150x150.jpg.pagespeed.ic.zSCWc7C23D.jpg" class="attachment-100x100 wp-post-image" alt="How-to-develop-mobile-apps-faster-and-smarter-with-APIs"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/how-to-develop-mobile-apps-faster-and-smarter-with-apis/">How to Develop Mobile Apps Faster and Smarter with APIs?</a>
+                                <!-- <span>April 4, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://www.linkedin.com/company/intelgain-technologies-pvt-ltd">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Intelegain Team &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2019/04/100x100xnode-js-vs-python-150x150.jpg.pagespeed.ic.OIkbnidnJP.jpg" class="attachment-100x100 wp-post-image" alt="Python vs Node JS Comparison"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/python-vs-node-js-comparison/">Python vs Node JS Comparison - The Advantages and Disadvantages and Use Cases</a>
+                                <!-- <span>April 2, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://www.linkedin.com/company/intelgain-technologies-pvt-ltd">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Intelegain Team &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2019/03/100x100xStaff-Augmentation-Vs-Managed-IT-Services-150x150.jpg.pagespeed.ic.RtVrjdzOtt.jpg" class="attachment-100x100 wp-post-image" alt="Staff Augmentation Vs Managed IT Services"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/staff-augmentation-vs-managed-it-services-which-suits-you-the-best/">Staff Augmentation Vs Managed IT Services - Which Suits you the Best?</a>
+                                <!-- <span>April 1, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://www.linkedin.com/company/intelgain-technologies-pvt-ltd">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Intelegain Team &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2018/12/100x100xBrilliant-App-Ideas-for-Start-Ups-to-Launch-in-2019-150x150.gif.pagespeed.ic.cPK5R3UrVs.jpg" class="attachment-100x100 wp-post-image" alt="Brilliant App Ideas for Start-Ups to Launch in 2019"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/app-ideas-for-startups-to-launch-in-2019/">50 Brilliant App Ideas for Startups to Launch in 2019</a>
+                                <!-- <span>March 26, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://in.linkedin.com/company/intelgain-technologies-pvt-ltd">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Intelegain Team &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2019/03/100x100xmicrosoft-azure-150x150.png.pagespeed.ic.ATvtITtVr7.png" class="attachment-100x100 wp-post-image" alt="microsoft-azure"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/accomplish-success-with-open-source-opportunities-on-azure/">Accomplish success with open-source opportunities on azure</a>
+                                <!-- <span>March 25, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://www.linkedin.com/in/ganesh-kulpe-68067815a">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Ganesh Kulpe, IT Solution Architect &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2019/03/100x100x5-ways-your-SEO-project-can-be-turned-around-150x150.png.pagespeed.ic.AJ8uFY8phS.jpg" class="attachment-100x100 wp-post-image" alt="5 Ways your SEO project can be turned around"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/5-ways-your-seo-project-can-be-turned-around/">5 Ways your SEO Project can be Turned Around in 2019</a>
+                                <!-- <span>March 7, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://in.linkedin.com/in/gauravgaikwad23">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Gaurav Gaikwad, Digital Marketing Executive &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2018/08/100x100xPress-Release-150x150.png.pagespeed.ic.LX3X-Xn3-x.jpg" class="attachment-100x100 wp-post-image" alt="Press Release - Cloud Expo 2019"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/intelegain-to-attend-cloud-expo-europe-2019/">Intelegain to attend Cloud Expo Europe 2019</a>
+                                <!-- <span>March 5, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://www.linkedin.com/company/intelgain-technologies-pvt-ltd">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Intelegain Team &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                            <div class="recent_blogs_box">
+                            <div class="recent_blogs_img">
+                                <img width="100" height="100" src="https://www.intelegain.com/wp-content/uploads/2019/02/100x100xDynamics-365-vs-Dynamics-CRM-150x150.png.pagespeed.ic.Ql5rQNjgf7.png" class="attachment-100x100 wp-post-image" alt="Dynamics 365 vs Dynamics CRM"/>                            </div>
+                            <div class="recent_blogs_text">
+                                <a href="https://www.intelegain.com/dynamics-365-vs-dynamics-crm/">Dynamics 365 vs Dynamics CRM: Should you Switch?</a>
+                                <!-- <span>February 28, 2019</span> -->
+                                <!-- <span></span> -->
+                                <a target="_blank" href="
+                            https://www.linkedin.com/in/neerajgargi/">
+                                <span><i class="fa fa-user-circle" aria-hidden="true"></i> Neeraj Gargi, CTO &nbsp;</span></a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                                    </div>
+                <div class="recent_blogs tweet">
+                    <div class="natural" id="tweetboxfix">
+                        <h2 class="blog_heading">Recent Tweets</h2>
+                        <div class="intelegain-tweet">
+                            <div class="sidebar_body scrollbars height padR0"><!--scrollbars height-->
+                                <a class="twitter-timeline" href="https://twitter.com/Intelegain" data-widget-id="619133237286211584" data-chrome="noborders transparent noheader ">Tweets by @Intelegain</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Sidebar -->    
+            <div class="clear"></div>     
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<script>$stick=$('#tweetboxfix');$foot=$('#footer');$(window).load(function(){if($('#tweetboxfix').length){$stick=$('#tweetboxfix');$foot=$('#footer');margin=109;offtop=$stick.offset().top-margin;offbtm=$foot.offset().top-(margin+20+$stick.height());}});$(window).scroll(function(){scrtop=$(window).scrollTop();if(scrtop>offtop&&$stick.hasClass('natural')){$stick.removeClass('natural').addClass('fixed').css('top',margin);}if(offtop>scrtop&&$stick.hasClass('fixed')){$stick.removeClass('fixed').addClass('natural').css('top','auto');}if(scrtop>offbtm&&$stick.hasClass('fixed')){$stick.removeClass('fixed').addClass('bottom').css('top',(offbtm+margin-250));}if(offbtm>scrtop&&$stick.hasClass('bottom')){$stick.removeClass('bottom').addClass('fixed').css('top',margin);}});</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-599d7abdf17cc229"></script>
+<!-- End Addthis Code -->
+
+<div class="clear"></div>
+</div>
+ 
+</div>
+
+<div id="footer"> 
+    <div class="wrap footer_wrap"> 
+        <div class="prow">
+
+
+    
+      <div class="pcol2"> 
+                         
+                <div class="pcol2 software_service FLinkblock wow slideInLeft animated" data-wow-duration="500ms" data-wow-delay="50ms">
+          <h3>Software Services</h3>
+          <ul id="menu-footer_services" class="type1"><li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="https://www.intelegain.com/web-application-development/">Web Application Development</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://www.intelegain.com/mobile-application-development/">Mobile Application Development</a></li>
+<li id="menu-item-1367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1367"><a href="https://www.intelegain.com/software-product-development/">Software Product Development</a></li>
+<li id="menu-item-1368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1368"><a href="https://www.intelegain.com/big-data-analytics/">Big Data Analytics</a></li>
+<li id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a href="https://www.intelegain.com/hire-experts/">Hire Expert</a></li>
+<li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a href="https://www.intelegain.com/iot-internet-of-things/">IoT – Internet of Things</a></li>
+<li id="menu-item-2805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2805"><a href="https://www.intelegain.com/mobile-prototyping/">Mobile App Wireframes</a></li>
+<li id="menu-item-2916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2916"><a href="https://www.intelegain.com/qa-software-testing-services/">Software QA &#038; Testing Services</a></li>
+</ul>        </div>
+                        <div class="pcol2 FLinkblock wow slideInRight animated" data-wow-duration="500ms" data-wow-delay="150ms">
+          <h3>Hire Developer</h3>
+          <ul id="menu-hire_developer" class="type1"><li id="menu-item-6607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6607"><a href="https://www.intelegain.com/hire-iphone-app-developer/">Hire iPhone Developer</a></li>
+<li id="menu-item-6608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6608"><a href="https://www.intelegain.com/hire-asp-net-developer/">Hire ASP.NET Developer</a></li>
+<li id="menu-item-6609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6609"><a href="https://www.intelegain.com/hire-android-app-developer/">Hire Android App Developer</a></li>
+<li id="menu-item-6610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6610"><a href="https://www.intelegain.com/hire-angular-js-developer/">Hire Angular JS Developer</a></li>
+<li id="menu-item-6611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6611"><a href="https://www.intelegain.com/hire-node-js-developer/">Hire Node JS Developer</a></li>
+<li id="menu-item-6612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6612"><a href="https://www.intelegain.com/hire-ui-ux-designer/">Hire UI/UX Designer</a></li>
+<li id="menu-item-6613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6613"><a href="https://www.intelegain.com/hire-python-developer/">Hire Python Developer</a></li>
+<li id="menu-item-6614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6614"><a href="https://www.intelegain.com/hire-wordpress-developer/">Hire WordPress Developer</a></li>
+<li id="menu-item-6615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6615"><a href="https://www.intelegain.com/hire-magento-developer/">Hire Magento Developer</a></li>
+<li id="menu-item-6616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6616"><a href="https://www.intelegain.com/hire-laravel-developer/">Hire Laravel Developer</a></li>
+<li id="menu-item-6617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6617"><a href="https://www.intelegain.com/hire-codeigniter-developer/">Hire CodeIgniter Developer</a></li>
+<li id="menu-item-6618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6618"><a href="https://www.intelegain.com/hire-cloud-developers/">Hire Cloud Developers</a></li>
+<li id="menu-item-6619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6619"><a href="https://www.intelegain.com/hire-blockchain-developer/">Hire Blockchain Developer</a></li>
+<li id="menu-item-6620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6620"><a href="https://www.intelegain.com/hire-ai-developer/">Hire AI Developer</a></li>
+</ul>        </div>
+                <div class="clear"></div>
+      </div>
+      <div class="pcol2 wow slideInRight animated" data-wow-duration="500ms" data-wow-delay="50ms">
+          <h3>Locations</h3>
+          <div class="addressbox">
+            <div class="addressbox_contact_row">
+              <div class="addressbox_contacr_cell">
+                <h4>Dallas</h4>
+                <div>
+                  <div>North Dallas Business Centre
+                    3010 LBJ Freeway, Suite 1200, Dallas, TX<br>
+                    United States 75234</div>
+                  <p>Phone: +1 (214) 233-0880<br>
+                  </p>
+                </div>
+              </div>
+              <div class="addressbox_contacr_cell">
+                <h4>Mumbai</h4>
+                <div>
+                  <div>203, Akshar Bluechip IT Park,
+                    Turbhe MIDC, Navi Mumbai,
+                    India 400 705</div>
+                  <p>Phone: +91 22 6259 6100/124<br>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="addressbox_contact_row">
+              <div class="addressbox_contacr_cell">
+                <h4>Singapore</h4>
+                <div>
+                  <div>111 North Bridge Road,
+                    #21-01 Peninsula Plaza
+                    Singapore 179098</div>
+                  <p>Phone: +65 64051839<br>
+                  </p>
+                </div>
+              </div>
+              <div class="addressbox_contacr_cell">
+                <h4>Sydney</h4>
+                <div>
+                  <div>Suite 1A Level 2, 802 Pacific Highway Gordon, NSW 2072</div>
+                  <p>Phone: +61 (0) 432&nbsp;586&nbsp;598<br>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="clear"></div>
+        </div>
+      <div class="clear"></div>
+    </div>
+     
+        <div class="prow contact">
+      <div class="pcol2 contactblock">
+        <div class="pcol60 firstcontact">
+
+           <div class="contact_img"><img class="INmail" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAoAQMAAACo+RqdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYBhZAAAA8AABOGlaUQAAAABJRU5ErkJggg==" alt="Email"></div>
+          <div class="contact_desc">
+<h6>Email us</h6>
+<p><a href="mailto:contactus@intelegain.com">contactus@intelegain.com</a></p>
+</div>          <!-- <div class="contact_img"><img class="INcall" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAoAQMAAACo+RqdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYBhZAAAA8AABOGlaUQAAAABJRU5ErkJggg==" alt="call"></div>
+          <div class="contact_desc">
+            <h6>Call us</h6>
+            <p itemscope itemtype="http://schema.org/LocalBusiness"><span itemprop="telephone">+1 888 235 8964<a href="tel:912241516100" class="footer_phone_no">+91 22 4151 6100</a></span></p>
+          </div> -->
+                  </div>
+        <div class="pcol40 socialicon">
+
+           <a href="https://www.linkedin.com/company/intelgain-technologies-pvt-ltd" class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="500ms"><img src="/wp-content/themes/intelegain/images/linkdin.png.pagespeed.ce.jHSpL0HL4e.png"></a> 
+           <a href="https://twitter.com/Intelegain" class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1000ms"><img src="/wp-content/themes/intelegain/images/twitter.png.pagespeed.ce.-KonjJ5-cn.png"></a> 
+           <a href="skype:intelgain.com?call" class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1500ms"><img src="/wp-content/themes/intelegain/images/skype.png.pagespeed.ce.6HZPvZbVZf.png"></a> 
+
+          <a href="https://www.facebook.com/IntelegainTechnologies" class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="2000ms"><img src="/wp-content/themes/intelegain/images/facebook.png.pagespeed.ce.Y5ahTHnKwV.png"></a> 
+      
+
+        
+        </div> 
+        <div class="clear"></div>
+      </div>
+      <div class="pcol2 contactblock">
+        <div class="pcol40">
+          <!-- <div class="contact_img"><img class="INlocation" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAoAQMAAACo+RqdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYBhZAAAA8AABOGlaUQAAAABJRU5ErkJggg==" alt="location"></div>
+          <div class="contact_desc">
+<h6>Find us</h6>
+<p><a href="/locations/">India, USA</a></p>
+</div> -->
+                    <div class="clutch-widget" data-url="https://clutch.co" data-widget-type="2" data-height="50" data-darkbg="1" data-clutchcompany-id="157117"></div>
+        </div>
+		<div class="pcol60 cust_reveiew">
+		<div class="goodfirm-widget" data-widget-type="goodfirms-widget-t8" data-widget-pattern="poweredby-star" data-height="60" data-company-id="2819"></div>
+
+
+		</div>
+      <!--  <div class="pcol40 cust_reveiew"  typeof="v:Review-aggregate" xmlns:v="http://rdf.data-vocabulary.org/#"> <b> <span property="v:itemreviewed"></span> <span>Customer Rating :</span> </b> <span rel="v:rating"> <span typeof="v:Rating"> <b> <span property="v:average">4.5/</span> <span property="v:best">5</span> </b> </span> </span> <br>
+        
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAQAQMAAACspfpLAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYBheAAAA0AABxYMiPwAAAABJRU5ErkJggg==" alt="star rating" class="INstar star">
+          <br>
+          <b> <span property="v:votes">Based on
+          150 ratings</span> </b> <b><span property="v:count"></span></b> </div> -->
+		  
+		  
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    
+     
+        <div class="prow">
+            <div class="pcol1 copyright center123">
+        			<div class="textwidget">&copy; 2016-17 Intelegain Technologies &nbsp;<a href="http://www.dmca.com/Protection/Status.aspx?ID=44d24f56-5917-4fe7-a8d8-55adaa1eb20d" title="DMCA.com Protection Status" class="dmca-badge" target="_blank"> <img src="//images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=44d24f56-5917-4fe7-a8d8-55adaa1eb20d" alt="DMCA.com Protection Status"/></a> </div>
+		      </div>
+      <div class="clear"></div>
+    </div>
+     
+  </div>
+   
+</div>
+ 
+
+
+<div class="quotewrap 1234" id="requestquote">
+  <div class="formwrap">
+    <div class="closebtn">
+
+   <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAlAQMAAAAQktl+AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAxJREFUeNpjYBjOAAAA3gABINV5CQAAAABJRU5ErkJggg==" alt="INclose-icon" class="INclose-icon">
+    </div>
+    <h3>Contact Us</h3>
+    <div class="contact_info"> 
+    <a href="tel:" class="phone_no">
+	</a> 
+    <a class="mail_id" href="mailto:contactus@intelegain.com">
+    
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMcAAAAWAQMAAABOqRoPAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo4A8AAACPAAB+a35CQAAAABJRU5ErkJggg==" alt="Email" class="INcontact-mail">
+    
+    </a> </div>
+    <div class="form_submit"> <div class="wpcf7" id="wpcf7-f6-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form name="" action="/distinguishing-in-between-cognitive-computing-and-ai/#wpcf7-f6-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="6"/>
+<input type="hidden" name="_wpcf7_version" value="4.1.1"/>
+<input type="hidden" name="_wpcf7_locale" value="en_US"/>
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6-o2"/>
+<input type="hidden" name="_wpnonce" value="be84ee146a"/>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div><div> <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text_feild" aria-required="true" aria-invalid="false" placeholder="Name"/></span> </div>
+<div><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email text_feild" aria-required="true" aria-invalid="false" placeholder="Email"/></span> </div>
+<div><span class="wpcf7-form-control-wrap your-phone"><input type="tel" name="your-phone" value="" size="40" maxlength="12" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel text_feild" aria-required="true" aria-invalid="false" placeholder="Phone No."/></span> </div>
+<div><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea text_feild msgbox" aria-invalid="false" placeholder="Message"></textarea></span> </div>
+<div class="form_row">
+<input type="hidden" name="contact_form_7_recaptcha" value="g-recaptcha-OZgIpGEDXvXCxB1" class="g-recaptcha-explicit-id"><div id="g-recaptcha-OZgIpGEDXvXCxB1"></div><span class="wpcf7-form-control-wrap g-recaptcha-explicit" data-sitekey="6LcnjEMUAAAAAPaU5StvHeN99h7sXNg3rhuamzha"></span>
+</div>
+<div><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit submit_btn"/></div>
+</form></div> </div>
+  </div>
+  <div class="clear"></div>
+</div>
+
+<div class="portfolio_btn"> <a href="/portfolio/"><span>P</span><span>O</span><span>R</span><span>T</span><span>F</span><span>O</span><span>L</span><span>I</span><span>O</span></a> </div>
+ 
+
+<div class="privacywrap">
+    <div class="privaypopup">
+    <div class="pop_heading"><h3>Privacy Policy</h3></div>
+    <div class="popbody">
+        <p>Intelegain respects your privacy and are committed to protecting personal and corporate information that you may share with us. This Privacy Policy explains the way we use the your personal information captured on the website.</p>
+        <p>Personal information refers to any information that may be used to identify an individual or a business, including, but not limited to, a first and last name, email address, postal address, contact information such as phone numbers, and other information when needed to provide a service or product or carry out a transaction you may have requested.</p>
+        <p>We collect, store and process your personal information on our server. We do not and will not transfer or share your information to any third parties without your consent.</p>
+        <p>We use your information to; provide software services to you or your business, provide customer service to you, communicate marketing and other service offers at Intelegain from time to time about mobile and web applications.</p>
+        <p>Intelegain may change this Privacy Policy from time to time by posting updated policies on the Web Site.</p>
+        
+        </div>
+        <div class="pop_footer">
+        <a href="#" class="closeprivacy">OK</a>
+        </div>
+    </div>    
+</div>
+<div class="loader-animation"><img class="loader_img" alt="" src="/wp-content/themes/intelegain/images/loading.gif.pagespeed.ce.fpnhFZo2hv.gif"></div>
+<div class="alertmsgformail">Thank you for contacting us, we will get back to you soon</div>
+
+<script type="text/javascript">jQuery(document).ready(function(){jQuery('.gs_logo_container').bxSlider({slideWidth:200,minSlides:1,maxSlides:5,slideMargin:10,moveSlides:1,speed:750,controls:true,autoHover:true,pager:false,auto:true});});</script>
+<script type='text/javascript' src='https://www.intelegain.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js,qver=3.51.0-2014.06.20.pagespeed.jm.RVBOol6lkO.js'></script>
+<script type='text/javascript'>//<![CDATA[
+var _wpcf7={"loaderUrl":"https:\/\/www.intelegain.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+//]]></script>
+<script src="https://www.intelegain.com/wp-content/plugins/contact-form-7,_includes,_js,_scripts.js,qver==4.1.1+gs-logo-slider,_js,_jquery.bxslider.min.js,qver==4.1.2+gs-logo-slider,_js,_jquery.easing.1.3.js,qver==1.3+portfolio-gallery,_js,_portfolio-all.js,qver==1.0.0+portfolio-gallery,_js,_jquery.colorbox.js,qver==1.0.0+portfolio-gallery,_js,_jquery.hugeitmicro.min.js,qver==1.0.0.pagespeed.jc.yMKqcYbCIX.js"></script><script>eval(mod_pagespeed_QB8LEm6lV2);</script>
+<script>eval(mod_pagespeed_fzXv$i4Aog);</script>
+<script>eval(mod_pagespeed_nSYK08Bvmo);</script>
+<script>eval(mod_pagespeed_12X$_j7lvg);</script>
+<script>eval(mod_pagespeed_jjZZWuzn6G);</script>
+<script>eval(mod_pagespeed_qnvESvjomr);</script>
+<script type='text/javascript'>//<![CDATA[
+var leadin_wordpress={"userRole":"visitor","pageType":"post","leadinPluginVersion":"6.1.2"};
+//]]></script>
+<script type='text/javascript' async defer src='//js.hs-scripts.com/3218994.js?ver=4.1.1'></script>
+<script type='text/javascript' src='https://www.intelegain.com/wp-content/themes/intelegain/js/modernizr.js?ver=20141010#asyncLoad'></script>
+<script type='text/javascript' src='https://www.intelegain.com/wp-content/themes/intelegain/js/jquery.classyscroll.js?ver=20141010#asyncLoad'></script>
+<script type='text/javascript' src='https://www.intelegain.com/wp-content/themes/intelegain/js/jquery.colorbox.js,qver=20141010.pagespeed.ce.CQVvrgWcj4.js'></script>
+<script type='text/javascript' src='https://www.intelegain.com/wp-content/themes/intelegain/js/eskju.jquery.scrollflow.min.js?ver=20141010#asyncLoad'></script>
+<script type='text/javascript'>//<![CDATA[
+var addComment={moveForm:function(a,b,c,d){var e,f=this,g=f.I(a),h=f.I(c),i=f.I("cancel-comment-reply-link"),j=f.I("comment_parent"),k=f.I("comment_post_ID");if(g&&h&&i&&j){f.respondId=c,d=d||!1,f.I("wp-temp-form-div")||(e=document.createElement("div"),e.id="wp-temp-form-div",e.style.display="none",h.parentNode.insertBefore(e,h)),g.parentNode.insertBefore(h,g.nextSibling),k&&d&&(k.value=d),j.value=b,i.style.display="",i.onclick=function(){var a=addComment,b=a.I("wp-temp-form-div"),c=a.I(a.respondId);if(b&&c)return a.I("comment_parent").value="0",b.parentNode.insertBefore(c,b),b.parentNode.removeChild(b),this.style.display="none",this.onclick=null,!1};try{f.I("comment").focus()}catch(l){}return!1}},I:function(a){return document.getElementById(a)}};
+//]]></script>
+<script type='text/javascript'>//<![CDATA[
+var ajax_object={"ajax_url":"https:\/\/www.intelegain.com\/wp-admin\/admin-ajax.php"};
+//]]></script>
+<script src="https://www.intelegain.com/wp-content/themes/intelegain/js/wow.js,qver==20141010+custom.js,qver==20141010.pagespeed.jc.41fAdKARRy.js"></script><script>eval(mod_pagespeed_neUNhxODVL);</script>
+<script>eval(mod_pagespeed_PJJwQ9HP3a);</script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=contact_form_7_recaptcha_callback&#038;render=explicit&#038;ver=1.0.0'></script>
+<script type='text/javascript'>//<![CDATA[
+var contact_form_7_recaptcha_data={"sitekey":"6LcnjEMUAAAAAPaU5StvHeN99h7sXNg3rhuamzha"};
+//]]></script>
+<script src="https://www.intelegain.com/wp-content/plugins,_contact-form-7-recaptcha,_script.js,qver==1.0.0+themes,_intelegain,_js,_jquery.magnific-popup.min.js.pagespeed.jc.WOPh_H8052.js"></script><script>eval(mod_pagespeed_xgSjUWshos);</script>
+<link rel="stylesheet" href="https://www.intelegain.com/wp-content/themes/intelegain/css/A.magnific-popup.css.pagespeed.cf.Tvq0tMV-NN.css">
+<script>eval(mod_pagespeed_yRptMxt3FD);</script>
+
+
+ 
+<style>#enquire_now .mfp-close{background:rgba(0,0,0,0) url(/wp-content/themes/intelegain/images/fancybox_sprite.png.pagespeed.ce.QRbgLmokMM.png) no-repeat scroll 0 0;height:35px;opacity:1;right:-28px;text-indent:-9999px;top:-28px;width:35px}#enquire_now.quote_form{float:none!important;margin:0!important;width:280px!important}</style>
+<script type="text/javascript">$(document).ready(function(){$('.enquiry').click(function(){$('#plans').val($(this).data('var1'));});});$(window).load(function(){$('.open-popup-link').magnificPopup({type:'inline',midClick:true});$('.enquiry').magnificPopup({type:'inline',midClick:true});});</script>
+<script type="text/javascript">var ajax_url='https://www.intelegain.com/wp-admin/admin-ajax.php';</script>
+<script type="text/javascript">$('body').on("submit",".request-quote-form",function(){$('.loader-animation').show();$('.error_msg').hide();var has_error=false;var re=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;var parent=$(this);parent.children('.required-field').each(function(){if($(this).val()==''){$('#'+$(this).attr('id')+'_err').text('* This field is required');$('#'+$(this).attr('id')+'_err').show();has_error=true;}else{switch($(this).attr('id')){case'email':case'email_popup':if(!re.test($(this).val())){$('#'+$(this).attr('id')+'_err').text('* This email is not valid');$('#'+$(this).attr('id')+'_err').show();has_error=true;}break;case'phone':if($(this).val().length<10){$('#'+$(this).attr('id')+'_err').text('* This phone no is less than 10 digits');$('#'+$(this).attr('id')+'_err').show();has_error=true;}}}});if(has_error){$('.loader-animation').hide();return false;}var request_quote_form=parent.serializeArray();$.ajax({type:'POST',url:ajax_url,data:{action:'requestQuoteSubmissionNew',quote_request_data:request_quote_form,},success:function(response,textStatus,XMLHttpRequest){var status=jQuery.parseJSON(response).status;var error_msg=jQuery.parseJSON(response).error_msg;jQuery('.error_msg').hide();if(status=='error'){grecaptcha.reset();for(x in error_msg){if(error_msg[x]){jQuery(x).show();jQuery(x).text(error_msg[x]);}}}else if(status=='captcha error'){jQuery("#captcha_err").show();jQuery("#captcha_err").text(error_msg);}else if(status=='fail'){grecaptcha.reset();$(".alertmsgformail").removeClass("errormsg,successmsg")
+$(".alertmsgformail").addClass("infosmsg").text('Please try again').fadeIn();}else if(status=='success'){$(".alertmsgformail").removeClass("errormsg,infosmsg")
+$(".alertmsgformail").addClass("successmsg").text('Thank you for contacting us, we will get back to you soon').fadeIn();parent.children('.required-field').val('')
+jQuery.magnificPopup.close();}$(".alertmsgformail").delay(3000).fadeOut();$('.loader-animation').hide();},error:function(errorThrown){$(".alertmsgformail").removeClass("successmsg,infosmsg")
+$(".alertmsgformail").addClass("errormsg").text(error).fadeIn();$(".alertmsgformail").delay(3000).fadeOut();$('.loader-animation').hide();}});return false;});</script>
+
+<script type="text/javascript">//<![CDATA[
+goog_snippet_vars=function(){var w=window;w.google_conversion_id=946134355;w.google_conversion_label="fDJHCLDrj18Q07qTwwM";w.google_remarketing_only=false;}
+goog_report_conversion=function(url){goog_snippet_vars();window.google_conversion_format="3";window.google_is_call=true;var opt=new Object();opt.onload_callback=function(){if(typeof(url)!='undefined'){window.location=url;}}
+var conv_handler=window['google_trackConversion'];if(typeof(conv_handler)=='function'){conv_handler(opt);}}
+//]]></script> 
+<!--<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = "a7f7d04c86013b918949705320542e8493df542a";
+window.smartsupp||(function(d) {
+	var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+	s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+	c.type='text/javascript';c.charset='utf-8';c.async=true;
+	c.src='//www.smartsuppchat.com/loader.js';s.parentNode.insertBefore(c,s);
+})(document);
+</script> -->
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/57835d11894fd7ee4bb3ac61/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();</script>
+<!--End of Tawk.to Script-->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Intelegain Technologies Pvt. Ltd.",
+  "url" : "http://www.intelegain.com",
+  "sameAs" : [
+    "https://www.facebook.com/IntelegainTechnologies",
+    "https://twitter.com/Intelegain",
+    "https://www.linkedin.com/company/intelgain-technologies-pvt-ltd"
+  ]
+} 
+</script> 
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');fbq('init','1569882953322550');fbq('track',"PageView");</script>
+<noscript>
+<img alt="facebook" height="1" width="1" class="none" src="https://www.facebook.com/tr?id=1569882953322550&ev=PageView&noscript=1"/>
+</noscript>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"></script> 
+<script type="text/javascript">vtid=109388;document.write(unescape("%3Cscript src='"+document.location.protocol+"//code.visitor-track.com/VisitorTrack.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script>$(document).ready(function(e){$(".videowrap1").colorbox({iframe:true,innerWidth:640,innerHeight:390});});</script>
+<!-- Google Code for Remarketing Tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
+<script type="text/javascript">var google_tag_params={dynx_itemid:'REPLACE_WITH_VALUE',dynx_itemid2:'REPLACE_WITH_VALUE',dynx_pagetype:'REPLACE_WITH_VALUE',dynx_totalvalue:'REPLACE_WITH_VALUE',};</script>
+<script type="text/javascript">//<![CDATA[
+var google_conversion_id=946134355;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;
+//]]></script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div class="dis_inline">
+<img height="1" width="1" class="border_stylenone" alt="googleads" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/946134355/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">_linkedin_data_partner_id="251571";</script>
+<script type="text/javascript">(function(){var s=document.getElementsByTagName("script")[0];var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src="https://snap.licdn.com/li.lms-analytics/insight.min.js";s.parentNode.insertBefore(b,s);})();</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=251571&fmt=gif"/>
+</noscript>
+
+<!-- Subscribers Code -->
+<script type="text/javascript">var subscribersSiteId='3e1f5513-9eda-491c-ac77-e1ee321c3b83';</script>
+
+<script type="text/javascript" src="https://cdn.subscribers.com/assets/subscribers.js"></script>
+<!-- End Subscribers Code -->
+
+</body></html>
