@@ -82,6 +82,7 @@ footer {
 }
 .social p {
     color: white;
+    margin-bottom: 0;
 }
 
 .social button {
@@ -186,5 +187,9 @@ footer a:hover {
 }
 
 .pagination p {
-    margin: 0 30px 20px 0;
+    margin: 0 30px 0 0;
+}
+.logo-text {
+    font-size: 12px;
+    color: rgba(42,98,188,0.76);
 }

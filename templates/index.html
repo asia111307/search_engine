@@ -5,8 +5,8 @@
 	<meta name='author' content='Asia P'>
 	<meta name='viewport' content='width=device-width, initial-scale=1.0'>
 	<meta charset='UTF-8'>
-    <title> {% block title %}{% endblock %} | Search engine </title>
-	<link rel="shortcut icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+    <title> {% block title %}{% endblock %} Search engine | Just take a look! </title>
+	<link rel="shortcut icon" type="image/png" href="{{ url_for('static', filename='css/search.png') }}">
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     {% block head %}{% endblock %}
@@ -15,7 +15,7 @@
 </head>
 <body>
     <nav>
-        <a href="/" class="logo-href"><div class="logo-container"><div class="logo"></div><h5>Search <br>Engine</h5></div></a>
+        <a href="/" class="logo-href"><div class="logo-container"><div class="logo"></div><h5><span>Search <br>Engine </span><br><span class="logo-text">Just take a look!</span> </h5></div></a>
         <form action="/search" method="post">
          <div class="searchinput">
              <input type="text" name="query" id="query" placeholder="What are you looking for?" autofocus>
