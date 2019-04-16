@@ -10,8 +10,8 @@
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     {% block head %}{% endblock %}
+{#    <link rel="stylesheet" type="text/css" href="../static/css/styles.css?=987654326">#}
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
-{#    <link rel="stylesheet" type="text/css" href="../static/css/styles.css?q=5324565768799734646">#}
 </head>
 <body>
     <nav>
@@ -27,7 +27,7 @@
     <section class="content container">
         {% if text %}
         <div class="panel">
-            <h5>You are looking for: <b>{{ query.replace('+', ' ') }}</b> <br> Matching results found: <b>{{ text['numFound'] }}</b></h5>
+            <h5>You are looking for: <br><b>{{ query.replace('+', ' ') }}</b> <br><br> Matching results found: <b>{{ text['numFound'] }}</b></h5>
             <div class="panel-filter">
                 <form method="post" action="/search/{{ query }}/filter/html"><button type="submit">Only HTMLs</button></form>
                 <form method="post" action="/search/{{ query }}/filter/pdf"><button type="submit">Only PDFs</button></form>
@@ -85,6 +85,20 @@
                 </div>
                 </div>
             {% endfor %}
+            <div class="pagination">
+                <p>Go to page: </p>
+                <div class="pag-divs">
+                {% for i in range(1, ((text['numFound'])//30) + 2) %}
+                    {% if filter %}
+                    <div class="page"><form method="post" action="/search/{{ query }}/filter/{{ f_option }}/{{ i }}"><button type="submit"> {{ i }} </button></form></div>
+                    {% elif sort %}
+                    <div class="page"><form method="post" action="/search/{{ query }}/sort/{{ s_option }}/{{ i }}"><button type="submit"> {{ i }} </button></form></div>
+                    {% else %}
+                     <div class="page"><form method="post" action="/search/{{ query }}/{{ i }}"><button type="submit"> {{ i }} </button></form></div>
+                    {% endif %}
+                {% endfor %}
+                </div>
+            </div>
         {% endif %}
     </section>
 
